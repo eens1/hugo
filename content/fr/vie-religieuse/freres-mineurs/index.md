@@ -1,3 +1,0 @@
-# Frères Mineurs
-
-***

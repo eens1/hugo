@@ -1,3 +1,0 @@
-# Cantique des Cantiques
-
-***

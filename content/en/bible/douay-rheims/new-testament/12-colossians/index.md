@@ -1,3 +1,0 @@
-# Colossians
-
-***

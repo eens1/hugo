@@ -1,3 +1,0 @@
-# Ancien Testament
-
-***

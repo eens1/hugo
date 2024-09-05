@@ -1,3 +1,0 @@
-# Croyances nécessaires
-
-***

@@ -1,3 +1,0 @@
-# Novum Testamentum
-
-***
