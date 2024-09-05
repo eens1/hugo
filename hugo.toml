@@ -1,5 +1,0 @@
-baseURL = 'https://eens.netlify.app/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-contentDir = "content"
-theme = "dark-theme-editor"
