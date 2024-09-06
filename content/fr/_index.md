@@ -1,3 +1,7 @@
+---
+title: Title
+---
+
 *Pape Innocent III, Concile du Latran 4, can. 1, 1215* : "Il y a une seule Eglise universelle des fidèles, **en dehors de laquelle absolument personne n'est sauvé**, et dans laquelle le Christ est lui-même à la fois le prêtre et le sacrifice..." 
 
 *Pape Pie IX, Concile Vatican I, sess. 3, de la Révélation, 24 avril 1870* : "Mais parce que, sans la foi, il est impossible de plaire à Dieu et de parvenir à être justifié, et personne, à moins qu'il ne persévère jusqu'à la fin dans la foi, n'obtiendra la vie éternelle; et afin de pouvoir satisfaire à l'obligation d'embrasser la foi véritable, comme aussi d'y persévérer constamment, Dieu, par son Fils unique, a institué l'Eglise, et il l'a marquée au front des marques visibles de son institution, afin que tous puissent reconnaître en elle la gardienne et la maîtresse de la parole révélée."
