@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ range .Pages }}
+
+
+{{ $dateFormat := .Site.Params.dateFormat | default ":date_long" }}
+<time>{{ .Date | time.Format $dateFormat }}</time> - 
+<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+{{ .Render "summary" }}
+{{ end }}
+
+{{ end }}
+
+

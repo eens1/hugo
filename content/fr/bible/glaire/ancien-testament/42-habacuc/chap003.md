@@ -1,0 +1,88 @@
+---
+title: "Chapitre 3"
+date: 2024-09-06T18:40:49+02:00
+draft: false
+---
+
+
+Prière d’Habacuc.
+Il se rappelle les merveilles opérées par le Seigneur en faveur de son peuple.
+Il s’afflige de la désolation qui menace son peuple.
+Il se console par l’espoir du secours que le Seigneur accordera à ce peuple.
+
+
+1 Prière d'Habacuc, le prophète, pour les ignorances.
+
+***Note*** :  Hab. 3, 1 : Pour les ignorances ; c’est-à-dire pour les péchés commis par ignorance. C’est ainsi que l’ont compris le chaldéen, saint Jérôme, Aquila, Symmaque, l’auteur de la cinquième édition grecque, et il faut avouer que le texte hébreu lui-même est susceptible de ce sens, quoique la plupart des hébraïsants modernes l’entendent d’un instrument de musique ou d’un cantique, sur l’air duquel la prière du Prophète devait être chantée. Quant aux Septante, ils ont traduit avec un cantique. Le Prophète, selon plusieurs, a voulu, dans la prière qui suit, demander pardon à Dieu d’avoir par ignorance osé disputer avec lui sur sa providence, et, selon d’autres, il demande que les ignorances, c’est-à-dire les péchés du peuple soient effacés et pardonnés, afin que sa délivrance ne soit pas différée.
+
+
+2 Seigneur, j'ai entendu votre parole, et j'ai craint, Seigneur, votre œuvre ; au milieu des années, vivifiez-la. Au milieu des années vous la ferez connaître; lorsque vous serez en colère, vous vous souviendrez de la miséricorde.
+
+***Note*** :  Hab. 3, 2 : Au milieu des années, bientôt, sans attendre trop longtemps.
+
+
+3 Dieu viendra du midi, et le saint de la montagne de Pharan; Sa gloire a couvert les deux, et de sa louange est pleine la terre.
+
+***Note*** :  Hab. 3, 3 : Dieu viendra, etc. ; allusion à ce que dit Moïse. Voir Deutéronome, 33, 2. ― Le midi et Pharan désignent ici l’Arabie Pétrée, où Dieu fit éclater sa gloire sur le mont Sinaï, lorsqu’il y proclama sa loi (voir Exode, 19, verset 16 et suivants). Habacuc rappelle cet événement, comme un gage de la future délivrance d’Israël par la toute-puissance de Dieu.
+
+4 Sa splendeur brillera comme la lumière, ses cornes sont dans ses mains;
+Là a été cachée sa puissance;
+
+***Note*** :  Hab. 3, 4 : Ses cornes ; hébraïsme, pour sa force.
+
+
+5 Devant sa face ira la mort. Et le diable sortira devant ses pieds. 6 Il s'est arrêté, et il a mesuré la terre. Il a regardé, et il a dissipé les nations; et les montagnes du siècle se sont entrouvertes. Les collines du monde ont été abaissées par les marches de son éternité.
+
+***Note*** :  Hab. 3, 6 : Du siècle, du monde ; c’est-à-dire, aussi anciennes que les siècles, que le monde ; les mots du texte orignal signifient éternité. Les Hébreux donnent souvent cette épithète aux montagnes, parce que dans la nature rien n’est moins sujet au changement que ces lourdes masses, ces énormes amas de terre et de rochers qui subsistent depuis le commencement des siècles. ― Par les marches, etc. ; sous les pas éternels, sous les pas de ce Dieu éternel.
+
+
+7 J'ai vu les tentes de l'Ethiopie renversées pour son iniquité; les pavillons de la terre de Madian seront troublés.
+
+***Note*** :  Hab. 3, 7 : Les pavillons ou tentes ; littéralement, les peaux, parce que cette sorte d’habitation était anciennement faite avec des peaux. Comparer à Cantique des cantiques, 1, 4.
+
+8 Est-ce contre les fleuves que vous êtes en colère, Seigneur? ou contre les fleuves qu'est votre fureur; ou bien contre la mer qu'est votre indignation?
+Vous qui monterez sur vos chevaux; et vos quadriges seront le salut.
+
+***Note*** :  Hab. 3, 8 : Est-ce que, etc. ; allusion au passage de la mer Rouge (voir Exode, chapitre 14), et du Jourdain (voir Josué, chapitre 3).
+
+
+9 Préparant, vous préparerez votre arc, selon les serments que vous avez faits aux tribus. Vous diviserez les fleuves de la terre.
+
+***Note*** :  Hab. 3, 9 : Préparant, vous préparerez ; c’est-à-dire, vous préparerez avec le plus grand soin. Voir sur cet hébraïsme, Psaumes, 39, 2. ― Selon les serments. Le mot juramenta, en vertu d’un hébraïsme très fréquent, est un accusatif employé d’une manière adverbiale.
+
+10 Les montagnes vous ont vu et elles ont été dans la douleur. La masse des eaux s'est écoulée. L'abîme a fait entendre sa voix ; il a levé en haut ses mains.
+
+***Note*** :  Hab. 3, 10 : Il a levé. C’est le mot précédent l’abîme, qui est le sujet de ce verbe. ― En haut. Tel est le sens de l’hébreu, véritable accusatif adverbial, que la Vulgate a rendu par le nominatif hauteur (altitudo). ― Ses mains ; c’est-à-dire ses flots.
+
+11 Le soleil et la lune se sont arrêtés dans leur demeure; ils iront à la lumière de vos flèches, à l'éclat de votre lance foudroyante.
+
+***Note*** :  Hab. 3, 11 : Le soleil, etc. ; allusion au miracle dont il est question dans Josué, 10, 12-13.
+
+
+12 Dans votre frémissement, vous foulerez aux pieds la terre ; dans votre fureur, vous épouvanterez les nations. 13 Vous êtes sorti pour le salut de votre peuple, pour le salut avec votre Christ. Vous avez frappé le chef de la maison de l'impie; vous l'avez mis à nu depuis les pieds jusqu'au cou.
+
+***Note*** :  Hab. 3, 13 : Christ, ou oint, c’est-à-dire, consacré, constitué ; ce qui convient à Moïse, que Dieu constitua pour sauver son peuple. Isaïe, comme on l’a vu, appelle (voir Isaïe, 45, 1) Cyrus le christ de Dieu. Mais Moïse, comme Cyrus, n’a été que la figure du Christ par excellence, de Jésus-Christ. ― Vous l’avez mis, etc. ; littéralement : Vous avez mis à nu ses fondements jusqu’au cou.
+
+
+14 Vous avez maudit ses sceptres, le chef de ses guerriers qui venaient comme un tourbillon pour me mettre en déroute. Leur exultation était comme l'exultation de celui qui dévore le pauvre en secret. 15 Vous avez fait une voie dans la mer à vos chevaux, dans la fange des grandes eaux.
+
+***Note*** :  Hab. 3, 15 : Allusion au passage de la mer Rouge et du Jourdain par les Israélites.
+
+
+16 J'ai entendu, et mes entrailles ont été émues; à cette voix, mes lèvres ont frémi. Que la pourriture entre dans mes os, et qu'elle abonde sous moi; Afin que je me repose au jour de la tribulation, afin que je monte vers notre peuple ceint.
+
+***Note*** :  Hab. 3, 16 : Ceint (accintum) ; c’est-à-dire, préparé, prêt à partir. Ceindre ses reins, se disait chez les anciens Hébreux d’un homme qui entreprenait un voyage ou allait au combat. Comparer à 3 Rois, 18, 46 ; Job, 38, 3.
+
+
+17 Car le figuier ne fleurira pas, et il n'y aura pas de germe dans les vignes. Le produit de l'olivier trompera l'attente, et les champs ne porteront pas de grains. Le troupeau de menu bétail sera arraché de la bergerie, et il n'y aura pas de troupeau de gros bétail dans les étables.
+
+***Note*** :  Hab. 3, 17 : Ne fleurira pas. Quelques incrédules ont prétendu que cette menace était ridicule, puisque le figuier ne fleurit jamais en quelque contrée que ce soit ; mais il faut interpréter la Vulgate d’après l’hébreu qui signifie proprement sortir avec violence, s’élancer, faire irruption ; de là pousser, germer et fleurir. C’est ainsi que ce même verbe hébreu s’emploie pour marquer l’éruption de la lèpre (voir Lévitique, 13, 39), et s’applique aux plantes qui poussent leur germe. ― Le produit ou le fruit, littéralement, le travail, l’œuvre (opus). ― De grain ; littéralement, de nourriture.
+
+
+18 Mais moi, je me réjouirai dans le Seigneur, et j'exulterai en Dieu mon Jésus.
+
+***Note*** :  Hab. 3, 18 : Jésus ; mot hébreu qui veut dire sauveur.
+
+19 Dieu le Seigneur est ma force ; et il rendra mes pieds comme ceux des cerfs. Et vainqueur il me conduira sur mes hauteurs, pendant que je chanterai des psaumes.
+
+***Note*** :  Hab. 3, 19 : Hauteurs ; c’est-à-dire, montagnes et collines.

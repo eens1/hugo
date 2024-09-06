@@ -1,0 +1,24 @@
+---
+title: "Caput 66"
+date: 2024-09-06T18:40:55+02:00
+draft: false
+---
+
+
+
+1 In finem, In hymnis, Psalmus Cantici David.
+
+2 Deus misereatur nostri, et benedicat nobis: illuminet vultum suum super nos, et misereatur nostri.
+
+3 Ut cognascamus in terra viam tuam: in omnibus gentibus salutare tuum.
+
+4 Confiteantur tibi populi Deus: confiteantur tibi populi omnes.
+
+5 Lætentur et exultent gentes: quoniam iudicas populos in æquitate, et gentes in terra dirigis.
+
+6 Confiteantur tibi populi Deus: confiteantur tibi populi omnes.
+
+7 terra dedit fructum suum. Benedicat nos Deus, Deus noster,
+
+8 benedicat nos Deus: et metuant eum omnes fines terræ.
+

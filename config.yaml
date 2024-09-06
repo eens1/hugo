@@ -3,27 +3,46 @@ title: "Extra Ecclesia Nulla Salus"
 
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
+
 languages:
   en:
     languageName: "English"
     weight: 1
+    contentDir: content/en
+    menu:
+      main:
+        - identifier: home
+          name: Home
+          url: /en
+          weight: 10
+        - identifier: blog
+          name: Blog
+          url: /en/blog
+          weight: 20
+        - name: Contact
+          url: /fr/contact
+        - name: Français
+          url: /fr
+    params:
+      dateFormat: ":date_long"
+
   fr:
     languageName: "Français"
     weight: 2
-
-menu:
-  main :
-    - identifier: main
-      name: Main
-      url: /
-      weight: 10
-  menu_en:
-    - identifier: en
-      name: English
-      url: /en/
-      weight: 10
-  menu_fr:
-    - identifier: fr 
-      name: French
-      url: /fr/
-      weight: 20
+    contentDir: content/fr
+    menu:
+      main:
+        - identifier: home
+          name: Accueil
+          url: /fr
+          weight: 10
+        - identifier: blog
+          name: Blog
+          url: /fr/blog
+          weight: 20
+        - name: Contact
+          url: /en/contact
+        - name: English
+          url: /en
+    params:
+      dateFormat: ":date_long"
