@@ -9,16 +9,18 @@
 
 <title>{{ .Site.Title }}</title>
 
-{{ $styles := resources.Match "css/*.css" }}
-{{ range $styles }}
-{{ $style := . | resources.Minify | resources.Fingerprint }}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+{{ range readDir "assets/css" }}
+{{ if eq (path.Ext .Name) ".css" }}
+{{ $style := resources.Get (printf "css/%s" .Name) }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+{{ end }}
 {{ end }}
 
-{{ $scripts := resources.Match "js/*.js" }}
-{{ range $scripts }}
-{{ $script := . | resources.Minify | resources.Fingerprint }}
-<script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+{{ range readDir "assets/js" }}
+{{ if eq (path.Ext .Name) ".js" }}
+{{ $script := resources.Get (printf "js/%s" .Name) }}
+<script src="{{ $script.RelPermalink }}" defer></script>
+{{ end }}
 {{ end }}
 
 {{ end }}
