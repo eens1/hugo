@@ -1,9 +1,8 @@
 ---
 title: "Chapter 34"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Come near, ye Gentiles, and hear, and hearken, ye people: let the earth hear, and all that is therein, the world, and every thing that cometh forth of it.

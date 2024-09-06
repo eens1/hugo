@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Plaintes du Seigneur contre son peuple.
+  Prédiction des maux qui doivent fondre sur lui.
 ---
-
-
-Plaintes du Seigneur contre son peuple.
-Prédiction des maux qui doivent fondre sur lui.
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

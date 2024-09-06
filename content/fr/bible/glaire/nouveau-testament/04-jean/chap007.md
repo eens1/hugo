@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Les parents de Jésus veulent le persuader d’aller en Judée.
+  Jésus y va en secret.
+  Il enseigne publiquement dans le temple.
+  Ses reproches à ceux qui voulaient le faire mourir.
+  Il annonce l’effusion de l’Esprit de Dieu.
+  On veut en vain l’arrêter.
+  Nicodème prend sa défense.
 ---
-
-
-Les parents de Jésus veulent le persuader d’aller en Judée.
-Jésus y va en secret.
-Il enseigne publiquement dans le temple.
-Ses reproches à ceux qui voulaient le faire mourir.
-Il annonce l’effusion de l’Esprit de Dieu.
-On veut en vain l’arrêter.
-Nicodème prend sa défense.
 
 
 1 Après cela Jésus parcourait la Galilée : car il ne voulait point parcourir la Judée, parce que les Juifs cherchaient à le faire mourir. 2 Or approchait la fête des Juifs, la Scénopégie.

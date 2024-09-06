@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 139"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  David implore le secours de Dieu contre ses ennemis, et il prédit que le mal qu’ils lui veulent faire retombera sur eux.
+  La plupart des Pères rapportent ce psaume à Jésus-Christ et aux fidèles exposés à la persécution des méchants.
 ---
-
-
-David implore le secours de Dieu contre ses ennemis, et il prédit que le mal qu’ils lui veulent faire retombera sur eux.
-La plupart des Pères rapportent ce psaume à Jésus-Christ et aux fidèles exposés à la persécution des méchants.
 
 
 1 Pour la fin, psaume de David.

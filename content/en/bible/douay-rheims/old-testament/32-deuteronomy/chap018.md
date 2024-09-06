@@ -1,9 +1,8 @@
 ---
 title: "Chapter 18"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 The priests and Levites, and all that are of the same tribe, shall have no part nor inheritance with the rest of Israel, because they shall eat the sacrifices of the Lord, and his oblations,

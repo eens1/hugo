@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Avantages d’un bon gouvernement.
+  Horreur qu’on doit avoir de l’avarice.
+  Suites funestes de l’orgueil.
+  Louange de ceux qui craignent Dieu.
+  Parallèle de la gloire du riche et du pauvre.
 ---
-
-
-Avantages d’un bon gouvernement.
-Horreur qu’on doit avoir de l’avarice.
-Suites funestes de l’orgueil.
-Louange de ceux qui craignent Dieu.
-Parallèle de la gloire du riche et du pauvre.
 
 
 1 Un juge sage rendra la justice à son peuple, et le gouvernement d'un homme sensé sera stable. 2 De même qu'est le juge du peuple, de même aussi sont ses ministres ; et tel qu'est le prince d'une cité, tels sont aussi ses habitants.

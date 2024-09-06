@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Le Seigneur invite son peuple à revenir vers lui.
+  Infidélité de Juda.
+  Rappel d’Israël, son retour.
+  Réunion des maisons d’Israël et de Juda.
+  Gloire de Jérusalem.
 ---
-
-
-Le Seigneur invite son peuple à revenir vers lui.
-Infidélité de Juda.
-Rappel d’Israël, son retour.
-Réunion des maisons d’Israël et de Juda.
-Gloire de Jérusalem.
 
 
 1 On dit ordinairement : Si un homme renvoie sa femme, et que, se séparant de lui, elle épouse un autre homme, la reprendra-t-il ensuite? est-ce qu'elle ne sera pas impure et souillée, cette femme? mais toi tu as forniqué avec beaucoup d'amants ; cependant, reviens à moi, dit le Seigneur, et moi je te recevrai.

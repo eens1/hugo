@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass in the month of Nisan, in the twentieth year of Artaxerxes the king: that wine was before him, and I took up the wine, and gave it to the king: and I was as one languishing away before his face.

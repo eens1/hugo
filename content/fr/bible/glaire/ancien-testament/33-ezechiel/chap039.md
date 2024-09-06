@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 39"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Suite de la prophétie contre Gog.
+  Le Seigneur le fera venir sur la montagne d’Israël, où il périra avec son armée.
+  Les Israélites enlèveront ses dépouilles.
+  La gloire du Seigneur éclatera au milieu des nations.
+  Il répandra ses miséricordes sur son peuple.
 ---
-
-
-Suite de la prophétie contre Gog.
-Le Seigneur le fera venir sur la montagne d’Israël, où il périra avec son armée.
-Les Israélites enlèveront ses dépouilles.
-La gloire du Seigneur éclatera au milieu des nations.
-Il répandra ses miséricordes sur son peuple.
 
 
 1 Mais toi, fils d'un homme, prophétise contre Gog, et tu diras : Voici ce que dit le Seigneur Dieu : Voilà que je viens vers toi, Gog, prince et chef de Mosoch et de Thubal.

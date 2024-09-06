@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
+summary: |
+  
+  Bête à sept têtes et à dix cornes, qui monte de la mer.
+  Le dragon lui donne sa puissance ; elle fait la guerre aux saints ; elle est adorée par les hommes.
+  Une autre bête s’élève de la terre, ayant deux cornes semblables à celles de l’agneau.
+  Elle séduit les hommes par ses prodiges.
 ---
-
-
-Bête à sept têtes et à dix cornes, qui monte de la mer.
-Le dragon lui donne sa puissance ; elle fait la guerre aux saints ; elle est adorée par les hommes.
-Une autre bête s’élève de la terre, ayant deux cornes semblables à celles de l’agneau.
-Elle séduit les hommes par ses prodiges.
 
 
 1 Et je vis une bête montant de la mer, ayant sept têtes et dix cornes, dix diadèmes sur ses cornes, et sur ses têtes dix noms de blasphème.

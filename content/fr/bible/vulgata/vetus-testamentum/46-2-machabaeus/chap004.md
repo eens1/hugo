@@ -1,9 +1,8 @@
 ---
 title: "Caput 4"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Simon autem prædictus pecuniarum, et patriæ delator, male loquebatur de Onia, tamquam ipse Heliodorum instigasset ad hæc, et ipse fuisset incentor malorum:

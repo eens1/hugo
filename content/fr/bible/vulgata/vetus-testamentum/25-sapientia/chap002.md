@@ -1,9 +1,8 @@
 ---
 title: "Caput 2"
-date: 2024-09-06T18:40:56+02:00
+date: 2024-09-06T20:00:53+02:00
 draft: false
 ---
-
 
 
 1 Dixerunt enim cogitantes apud se non recte: Exiguum, et cum tædio est tempus vitæ nostræ, et non est refrigerium in fine hominis, et non est qui agnitus sit reversus ab inferis:

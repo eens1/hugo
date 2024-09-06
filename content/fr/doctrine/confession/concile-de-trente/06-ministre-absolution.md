@@ -1,9 +1,8 @@
 ---
 title: "Chap. 6 - Du ministre de ce sacrement, et de l'Absolution"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 A l'égard du ministre de ce sacrement, le saint Concile déclare fausses et entièrement éloignées de la vérité de l'Évangile, toutes doctrines qui, par une erreur pernicieuse, étendent généralement à tous les hommes le ministère des clefs qui n'appartient qu'aux évêques et aux prêtres; supposant, contrairement à l'institution de ce sacrement, que ces paroles de notre Seigneur : *Tout ce que vous aurez lié sur la terre sera lié dans le ciel, et tout ce que vous aurez délié sur la terre sera délié dans le ciel*; et ces autres : *Les péchés seront remis à ceux à qui vous les remettrez, et ils seront retenus à ceux à qui vous les retiendrez*, ont été si indifféremment et si indistinctement adressées à tous les fidèles, que chacun a la puissance de remettre les péchés, les publics par la correction, si celui qui est repris acquiesce, et les péchés secrets par la confession volontaire à qui que ce soit.

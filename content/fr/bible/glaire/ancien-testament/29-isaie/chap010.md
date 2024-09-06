@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Suite des menaces contre Israël.
+  Assur sera exterminé.
+  Les restes d’Israël se convertiront au Seigneur.
+  Marche d’Assur ; sa défaite.
 ---
-
-
-Suite des menaces contre Israël.
-Assur sera exterminé.
-Les restes d’Israël se convertiront au Seigneur.
-Marche d’Assur ; sa défaite.
 
 
 1 Malheur à ceux qui établissent des lois iniques, et qui écrivant, ont écrit l'injustice; 2 Afin d'opprimer le pauvre dans le jugement, et de faire violence à la cause des faibles de mon peuple; afin que les veuves soient leur proie, et qu'ils pillent les orphelins!

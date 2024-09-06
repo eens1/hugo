@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Maison de la sagesse ; son festin auquel elle invite les simples.
+  La femme insensée invite à son banquet.
+  Malheur de ceux qui s’y rendent.
 ---
-
-
-Maison de la sagesse ; son festin auquel elle invite les simples.
-La femme insensée invite à son banquet.
-Malheur de ceux qui s’y rendent.
 
 
 1 La sagesse s'est bâtie une maison, elle a taillé sept colonnes.

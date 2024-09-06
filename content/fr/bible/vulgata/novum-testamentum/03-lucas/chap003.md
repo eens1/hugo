@@ -1,9 +1,8 @@
 ---
 title: "Caput 3"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Anno autem quintodecimo imperii Tiberii Cæsaris, procurante Pontio Pilato Iudæam, tetrarcha autem Galiææ Herode, Philippo autem fratre eius tetrarcha Iturææ, et Trachonitidis regionis, et Lysania Abilinæ tetrarcha,

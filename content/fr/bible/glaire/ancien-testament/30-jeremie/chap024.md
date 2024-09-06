@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 24"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Vision de deux paniers : l’un plein de bonnes figues qui représentent les Juifs emmenés captifs à Babylone ; l’autre plein de mauvaises figues qui représentent les Juifs restés en Judée ou retirés en Egypte.
 ---
-
-
-Vision de deux paniers : l’un plein de bonnes figues qui représentent les Juifs emmenés captifs à Babylone ; l’autre plein de mauvaises figues qui représentent les Juifs restés en Judée ou retirés en Egypte.
 
 
 1 Le Seigneur me fit voir, et voici deux paniers pleins de figues, placés devant le temple du Seigneur, après que Nabuchodonosor, roi de Babylone, eut transféré Jéchonias, fils de Joakim, roi de Juda, et ses princes, et l'artisan, et le lapidaire, loin de Jérusalem, et qu'il les eut emmenés à Babylone.

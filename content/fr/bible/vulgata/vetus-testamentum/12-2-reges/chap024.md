@@ -1,9 +1,8 @@
 ---
 title: "Caput 24"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 In diebus eius ascendit Nabuchodonosor rex Babylonis, et factus est ei Ioakim servus tribus annis: et rursum rebellavit contra eum.

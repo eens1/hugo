@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Paul va à Jérusalem.
+  Filles de Philippe prophétesses.
+  Agabus prédit les liens de Paul.
+  Paul arrive à Jérusalem ; il se purifie dans le temple, est maltraité par les Juifs, et enchaîné par le tribun de la cohorte romaine.
 ---
-
-
-Paul va à Jérusalem.
-Filles de Philippe prophétesses.
-Agabus prédit les liens de Paul.
-Paul arrive à Jérusalem ; il se purifie dans le temple, est maltraité par les Juifs, et enchaîné par le tribun de la cohorte romaine.
 
 
 1 Or il arriva qu'ayant fait voile, après nous être arrachés d'eux, nous vînmes droit à Cos, et le jour suivant à Rhodes, et de là à Patare.

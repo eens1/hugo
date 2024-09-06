@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Avantage des Juifs sur les gentils.
+  L’infidélité de l’homme ne détruit pas la fidélité de Dieu.
+  Juifs et gentils, tous dans le péché.
+  C’est la foi et non la loi qui justifie.
+  Dieu est le Dieu des Juifs et des gentils.
 ---
-
-
-Avantage des Juifs sur les gentils.
-L’infidélité de l’homme ne détruit pas la fidélité de Dieu.
-Juifs et gentils, tous dans le péché.
-C’est la foi et non la loi qui justifie.
-Dieu est le Dieu des Juifs et des gentils.
 
 
 1 Qu'est-ce donc que le Juif a de plus ? ou de quoi sert la circoncision ? 2 Beaucoup, de toute manière. Premièrement, parce que c'est aux Juifs que les oracles de Dieu ont été confiés ;

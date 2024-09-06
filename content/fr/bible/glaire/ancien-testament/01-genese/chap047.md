@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 47"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Jacob arrive avec sa famille en Egypte.
+  Pharaon leur donne la terre de Gessen.
+  Maladie de Jacob.
 ---
-
-
-Jacob arrive avec sa famille en Egypte.
-Pharaon leur donne la terre de Gessen.
-Maladie de Jacob.
 
 
 1 Etant donc entré, Joseph porta la nouvelle à Pharaon, disant : Mon père et mes frères, leurs brebis, leur gros bétail, et tout ce qu'ils possèdent, sont venus de la terre de Chanaan; et voici qu'ils se sont arrêtés dans la terre de Gessen. 2 Il plaça aussi les cinq derniers de ses frères devant le roi. 3 Et le roi leur demanda : Quel genre d'occupation avez-vous? Ils répondirent : Nous, vos serviteurs, nous sommes pasteurs de brebis, et nous et nos pères. 4 C'est pour séjourner comme étrangers dans votre terre que nous sommes venus; parce qu'il n'y a point de pâturages pour les troupeaux de vos serviteurs, la famine augmentant chaque jour dans la terre de Chanaan ; et nous vous prions d'ordonner que nous, vos serviteurs, demeurions dans la terre de Gessen. 5 C'est pourquoi le roi dit à Joseph : Ton père et tes frères sont venus vers toi :6 La terre d'Egypte est en ta présence : fais-les habiter dans le meilleur endroit, et donne-leur la terre de Gessen. Que si tu sais qu'il y ait parmi eux des hommes

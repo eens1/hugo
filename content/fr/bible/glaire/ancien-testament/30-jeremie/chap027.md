@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 27"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Liens et joug envoyés à divers rois.
+  Le Seigneur ordonne à ces princes de se soumettre au roi de Babylone.
+  Faux prophètes qui séduisent le peuple.
+  Vases du temple transportés à Babylone.
 ---
-
-
-Liens et joug envoyés à divers rois.
-Le Seigneur ordonne à ces princes de se soumettre au roi de Babylone.
-Faux prophètes qui séduisent le peuple.
-Vases du temple transportés à Babylone.
 
 
 1 Au commencement du règne de Joakim, fils de Josias, roi de Juda, cette parole fut adressée à Jérémie par le Seigneur, disant :

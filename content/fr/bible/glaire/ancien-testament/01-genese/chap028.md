@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 28"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Jacob quitte la maison de son père pour se retirer en Mésopotamie.
+  Esaü épouse Mahéleth, fille d’Ismaël.
+  Vision de Jacob à Béthel.
 ---
-
-
-Jacob quitte la maison de son père pour se retirer en Mésopotamie.
-Esaü épouse Mahéleth, fille d’Ismaël.
-Vision de Jacob à Béthel.
 
 
 1 C'est pourquoi Isaac appela Jacob, le bénit et lui commanda, disant ; Ne prends pas une femme de la race de Chanaan :2 Mais va, et pars pour la Mésopotamie de Syrie, dans la maison de Bathuel, père de ta mère, et prends de là une femme d'entre les filles de Laban ton oncle ; 3 Et que le Dieu tout-puissant te bénisse, qu'il te fasse croître et qu'il te multiplie, afin que tu sois le père d'un grand nombre dépeuples; 4 Et qu'il te donne les bénédictions d'Abrabam, à toi et à ta postérité après toi, afin que tu possèdes la terre de ton pèlerinage qu'il a promise à ton aïeul. 5 Lorsqu'Isaac eut renvoyé Jacob, celui-ci étant parti, vint en Mésopotamie de Syrie, chez Laban, fils de Bathuel, Syrien, frère de Rébecca sa mère.

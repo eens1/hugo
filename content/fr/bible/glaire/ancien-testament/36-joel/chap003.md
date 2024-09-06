@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Vengeance du Seigneur contre les ennemis de son peuple.
+  Reproches contre Tyr et Sidon, et contre les Philistins.
+  Jugement du Seigneur.
+  Bonheur de Jérusalem et de la Judée.
+  Désolation de l’Egypte et de l’Idumée.
 ---
-
-
-Vengeance du Seigneur contre les ennemis de son peuple.
-Reproches contre Tyr et Sidon, et contre les Philistins.
-Jugement du Seigneur.
-Bonheur de Jérusalem et de la Judée.
-Désolation de l’Egypte et de l’Idumée.
 
 
 1 Parce que voilà qu'en ces jours-là et en ce temps-là, lorsque j'aurai ramené les captifs de Juda et de Jérusalem,

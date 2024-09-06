@@ -1,9 +1,8 @@
 ---
 title: "Hors de l'Eglise pas de salut"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 Pour être sauvé, il est absolument nécessaire de professer la foi catholique traditionnelle et être un membre de l'Eglise catholique. Cet enseignement dogmatique n'admet aucune exception. Or, de nombreux hérétiques aujourd'hui pervertissent le sens que l'Eglise a donné une fois pour toute au dogme Hors de l'Eglise pas de salut, en s'attachant notamment à des traditions humaines erronées.

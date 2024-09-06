@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 23"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Paul se justifie devant le Conseil.
+  Il reçoit un soufflet par l’ordre du grand-prêtre.
+  Il divise les pharisiens d’avec les sadducéens.
+  Jésus-Christ lui apparaît.
+  Il découvre une conjuration contre sa vie ; il est envoyé au gouverneur Félix.
 ---
-
-
-Paul se justifie devant le Conseil.
-Il reçoit un soufflet par l’ordre du grand-prêtre.
-Il divise les pharisiens d’avec les sadducéens.
-Jésus-Christ lui apparaît.
-Il découvre une conjuration contre sa vie ; il est envoyé au gouverneur Félix.
 
 
 1 Paul, regardant fixement le conseil, dit : Hommes, mes frères, jusqu'à ce jour je me suis conduit devant Dieu en toute bonne conscience. 2 Mais le prince des prêtres, Ananie, ordonna à ceux qui étaient près de lui de le frapper au visage.

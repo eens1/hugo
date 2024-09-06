@@ -1,9 +1,8 @@
 ---
 title: "Caput 9"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Quibus auditis, cuncti reges trans Iordanem, qui versabantur in montanis et campestribus, in maritimis ac littore magni maris, hi quoque qui habitabant iuxta Libanum, Hethæus et Amorrhæus, Chananæus, Pherezæus, et Hevæus, et Iebusæus

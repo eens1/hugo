@@ -1,9 +1,8 @@
 ---
 title: "Caput 19"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Mense tertio egressionis Israel de Terra Ægypti, in die hac venerunt in solitudinem Sinai.

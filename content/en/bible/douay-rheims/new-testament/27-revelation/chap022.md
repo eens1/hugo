@@ -1,9 +1,8 @@
 ---
 title: "Chapter 22"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 And he shewed me a river of water of life, clear as crystal, proceeding from the throne of God and of the Lamb.

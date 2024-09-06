@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 And the third day, there was a marriage in Cana of Galilee: and the mother of Jesus was there.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Le Seigneur déclare à Samuel les jugements qu’il va exercer contre Héli.
+  Samuel les découvre à Héli.
+  Samuel reconnu prophète dans Israël.
 ---
-
-
-Le Seigneur déclare à Samuel les jugements qu’il va exercer contre Héli.
-Samuel les découvre à Héli.
-Samuel reconnu prophète dans Israël.
 
 
 1 Or l'enfant Samuel servait le Seigneur devant Héli, et la parole du Seigneur était précieuse en ces jours-là; il n'y avait pas de vision manifeste.

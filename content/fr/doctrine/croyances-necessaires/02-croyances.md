@@ -1,9 +1,8 @@
 ---
 title: "Quelles sont ces croyances ?"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 > *Pape Benoît XIV, Cum Religiosi, aux patriarches, archévêques et évêques d'Italie, 1754* : "Veillez à ce que chaque ministre exécute soigneusement les mesures fixées par le saint concile de Trente et par les statuts de vos synodes : qu'à jours fixes, les maîtres d'école et les maîtresses enseignent la doctrine chrétienne; que les confesseurs doivent accomplir cette partie de leur devoir chaque fois que quelqu'un se tient à leur tribunal qui ne sait pas ce qu'il doit nécessairement savoir pour être sauvé..." [^1]

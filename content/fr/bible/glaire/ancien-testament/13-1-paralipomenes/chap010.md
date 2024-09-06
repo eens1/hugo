@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Mort de Saül et de ses enfants.
 ---
-
-
-Mort de Saül et de ses enfants.
 
 
 1 Or les Philistins combattaient contre Israël, et les hommes d'Israël s'enfuirent devant les Palestiniens; et ils tombèrent blessés sur la montagne de Gelboé.

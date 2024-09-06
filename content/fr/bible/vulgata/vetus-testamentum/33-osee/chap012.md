@@ -1,9 +1,8 @@
 ---
 title: "Caput 12"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Ephraim pascit ventum, et sequitur æstum: tota die mendacium, et vastitatem multiplicat: et fœdus cum Assyriis iniit, et oleum in Ægyptum ferebat.

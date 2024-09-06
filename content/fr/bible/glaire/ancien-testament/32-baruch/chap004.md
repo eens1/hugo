@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Baruch exhorte les Israélites à se convertir au Seigneur et à observer sa loi.
+  Jérusalem pleure la captivité de ses enfants ; elle les exhorte à espérer dans le Seigneur.
+  Promesse de leur délivrance et de la ruine de leurs ennemis.
 ---
-
-
-Baruch exhorte les Israélites à se convertir au Seigneur et à observer sa loi.
-Jérusalem pleure la captivité de ses enfants ; elle les exhorte à espérer dans le Seigneur.
-Promesse de leur délivrance et de la ruine de leurs ennemis.
 
 
 1 Voici le livre des commandements de Dieu, et la loi qui subsiste éternellement : tous ceux qui la gardent parviendront à la vie, ceux qui l'ont abandonnée à la mort.

@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Devoirs d’un évêque.
+  Faux docteurs annoncés.
+  Saint Paul prédit sa mort prochaine.
+  Il prie Timothée de venir le trouver, et l’instruit de son état présent.
+  Salutations.
 ---
-
-
-Devoirs d’un évêque.
-Faux docteurs annoncés.
-Saint Paul prédit sa mort prochaine.
-Il prie Timothée de venir le trouver, et l’instruit de son état présent.
-Salutations.
 
 
 1 Je t'en conjure donc devant Dieu et devant Jésus-Christ qui doit juger les vivants et les morts, par son avènement et par son règne, 2 Annonce la parole, insiste à temps et à contre-temps, reprends, supplie, menace en toute patience et doctrine.

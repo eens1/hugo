@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Martyre de saint Jacques le Majeur.
+  Emprisonnement et délivrance de saint Pierre.
+  Hérode Agrippa meurt frappé de Dieu.
 ---
-
-
-Martyre de saint Jacques le Majeur.
-Emprisonnement et délivrance de saint Pierre.
-Hérode Agrippa meurt frappé de Dieu.
 
 
 1 En ce temps-là, le roi Hérode porta les mains sur quelques-uns de l'Eglise pour les tourmenter.

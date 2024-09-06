@@ -1,9 +1,8 @@
 ---
 title: "Chapter 45"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Thus saith the Lord to my anointed Cyrus, whose right hand I have taken hold of, to subdue nations before his face, and to turn the backs of kings, and to open the doors before him, and the gates shall not be shut.

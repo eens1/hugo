@@ -1,18 +1,18 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Riches injustes sévèrement punis.
+  Patience dans les afflictions.
+  Souffrances des prophètes et de Job.
+  Eviter le jurement.
+  Extrême-Onction.
+  Confession des péchés.
+  Prière du juste.
+  Conversion du pécheur.
 ---
-
-
-Riches injustes sévèrement punis.
-Patience dans les afflictions.
-Souffrances des prophètes et de Job.
-Eviter le jurement.
-Extrême-Onction.
-Confession des péchés.
-Prière du juste.
-Conversion du pécheur.
 
 
 1 Et maintenant, riches, pleurez, poussant des hurlements à cause des misères qui vous surviendront. 2 Vos richesses sont tombées en pourriture, et vos vêtements ont été mangés par les vers. 3 Votre or et votre argent se sont rouillés, et leur rouille rendra témoignage contre vous, et dévorera vos chairs comme un feu. Vous vous êtes amassé des trésors de colère pour les derniers jours. 4 Voilà que le salaire des ouvriers qui ont moissonné vos champs, et dont vous les avez frustrés, élève la voix, et leur clameur a pénétré jusqu'au Seigneur Sabaoth.

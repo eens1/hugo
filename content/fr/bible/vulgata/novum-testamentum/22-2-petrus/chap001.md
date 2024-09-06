@@ -1,9 +1,8 @@
 ---
 title: "Caput 1"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Simon Petrus, servus, et Apostolus Iesu Christi, iis, qui coæqualem nobiscum sortiti sunt fidem in iustitia Dei nostri, et Salvatoris Iesu Christi.

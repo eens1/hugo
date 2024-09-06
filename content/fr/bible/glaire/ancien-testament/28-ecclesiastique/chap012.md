@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Faire le bien avec discernement.
+  On ne connaît de vrais amis que dans l’adversité.
+  Se donner de garde d’un ennemi même réconcilié.
 ---
-
-
-Faire le bien avec discernement.
-On ne connaît de vrais amis que dans l’adversité.
-Se donner de garde d’un ennemi même réconcilié.
 
 
 1 Si tu fais du bien, sache à qui tu le fais, et il y aura une grande reconnaissance pour tes bienfaits. 2 Fais du bien au juste, et tu trouveras une grande rétribution; et sinon de lui, certainement du Seigneur. 3 Car il n'y a point de bien pour celui qui est assidu dans les mauvaises choses, et qui ne donne point des aumônes ; parce que même le Très-Haut a les pécheurs en haine, et qu'il a pitié des pénitents. 4 Donne au miséricordieux, et ne recueille point le pécheur; car sur les impies et les pécheurs il exercera sa vengeance, les gardant pour le jour de la vengeance.

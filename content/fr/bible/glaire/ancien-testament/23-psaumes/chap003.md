@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David se soutient contre la crainte qu’on veut lui donner de ses ennemis, par le souvenir des secours qu’il a reçus de Dieu, et par l’espérance qu’il a d’en recevoir de nouveaux de sa bonté.
 ---
-
-
-David se soutient contre la crainte qu’on veut lui donner de ses ennemis, par le souvenir des secours qu’il a reçus de Dieu, et par l’espérance qu’il a d’en recevoir de nouveaux de sa bonté.
 
 
 1 Psaume de David, lorsqu'il fuyait devant Absalom son fils.

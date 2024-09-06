@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Mathathias, touché des maux de son peuple, se retire à Modin.
+  Il refuse de sacrifier aux idoles ; il tue un Juif qui s’avançait pour sacrifier, et l’officier qui l’y contraignait.
+  Beaucoup de Juifs se retirent dans le désert, de peur de violer le sabbat.
+  Mathathias avec un corps d’armée entreprend de détruire le culte des idoles ; il exhorte ses fils, il meurt.
 ---
-
-
-Mathathias, touché des maux de son peuple, se retire à Modin.
-Il refuse de sacrifier aux idoles ; il tue un Juif qui s’avançait pour sacrifier, et l’officier qui l’y contraignait.
-Beaucoup de Juifs se retirent dans le désert, de peur de violer le sabbat.
-Mathathias avec un corps d’armée entreprend de détruire le culte des idoles ; il exhorte ses fils, il meurt.
 
 
 1 En ces jours-là, Mathathias, fils de Jean, fils de Siméon, prêtre d'entre les fils de Joarib, sortit de Jérusalem, et se retira sur la montagne de Modin.

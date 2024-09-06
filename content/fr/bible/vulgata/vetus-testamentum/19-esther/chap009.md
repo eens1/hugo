@@ -1,9 +1,8 @@
 ---
 title: "Caput 9"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:52+02:00
 draft: false
 ---
-
 
 
 1 Igitur duodecimi mensis, quem Adar vocari ante iam diximus, tertiadecima die, quando cunctis Iudæis interfectio parabatur, et hostes eorum inhiabant sanguini, versa vice Iudæi superiores esse cœperunt, et se de adversariis vindicare.

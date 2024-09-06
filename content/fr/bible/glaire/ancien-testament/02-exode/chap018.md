@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 18"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Jéthro, beau-père de Moïse, vient au devant des Israélites.
+  Conseils qu’il donne à Moïse.
 ---
-
-
-Jéthro, beau-père de Moïse, vient au devant des Israélites.
-Conseils qu’il donne à Moïse.
 
 
 1 Or, quand Jéthro prêtre de Madian, parent de Moïse, eut appris tout ce que Dieu avait fait à Moïse et à Israël son peuple, et que le Seigneur avait retiré Israël de l'Egypte,

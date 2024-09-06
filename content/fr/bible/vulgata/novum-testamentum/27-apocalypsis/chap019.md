@@ -1,9 +1,8 @@
 ---
 title: "Caput 19"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Post hæc audivi quasi vocem turbarum multarum in cælo dicentium: Alleluia: Salus, et gloria, et virtus Deo nostro est:

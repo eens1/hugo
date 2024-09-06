@@ -1,9 +1,8 @@
 ---
 title: "Caput 4"
-date: 2024-09-06T18:40:56+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 O quam pulchra est casta generatio cum claritate: immortalis est enim memoria illius: quoniam et apud Deum nota est, et apud homines.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 34"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 Josias was eight years old when he began to reign, and he reigned one and thirty years in Jerusalem.

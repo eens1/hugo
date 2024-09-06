@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 19"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Outrage fait à la femme d’un Lévite par les habitants de Gabaa.
 ---
-
-
-Outrage fait à la femme d’un Lévite par les habitants de Gabaa.
 
 
 1 Il y eut un certain homme Lévite, habitant sur le côté de la montagne d'Ephraïm, et qui prit une femme de Bethléhem de Juda,

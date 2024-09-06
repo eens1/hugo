@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  A tous ces exemples par lesquels il exhorte les Hébreux à courir avec patience dans la carrière qui leur est ouverte, l’Apôtre ajoute celui de Jésus-Christ, en insistant sur un texte du livre des Proverbes.
+  Tâcher d’avoir la paix avec tout le monde ; mais en même temps conserver la pureté de l’âme.
+  Combien il serait dangereux d’abandonner l’alliance divine.
 ---
-
-
-A tous ces exemples par lesquels il exhorte les Hébreux à courir avec patience dans la carrière qui leur est ouverte, l’Apôtre ajoute celui de Jésus-Christ, en insistant sur un texte du livre des Proverbes.
-Tâcher d’avoir la paix avec tout le monde ; mais en même temps conserver la pureté de l’âme.
-Combien il serait dangereux d’abandonner l’alliance divine.
 
 
 1 Etant donc environnés d'une si grande nuée de témoins, déchargeons-nous de tout poids et du péché qui nous enveloppe, et courons par la patience au combat qui nous est proposé ;

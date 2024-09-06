@@ -1,9 +1,8 @@
 ---
 title: "Chap. 2 - En quoi la Pénitence diſfère du Baptême"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 Au reste, il est évident que ce sacrement diffère en plusieurs manières du Baptême, car outre qu'il est fort différent dans la matière et dans la forme qui constituent l'essence du sacrement, il est constant aussi qu'il n'appartient point au ministre du Baptême d'être juge, l'Église n'exerçant juridiction sur personne qui ne soit premièrement entré dans son sein par la porte du Baptême. Car, dit l'Apôtre, qu'ai-je affaire de juger ceux qui sont hors de l'Eglise ? Il n'en est pas de même des serviteurs de la foi, que notre Seigneur Jésus-Christ a faits une fois membres de son corps par l'eau du Baptême. Car pour eux, si dans la suite ils se souillent par quelque crime, il a voulu, non pas qu'ils fussent de nouveau lavés par le Baptême reçu une seconde fois, cela n'étant en aucune façon permis dans l'Église catholique; mais qu'ils comparussent comme des coupables devant ce tribunal de la pénitence, afin que par la sentence des prêtres ils pussent être absous, non pas une seule fois, mais toutes les fois qu'ils y auraient recours avec un repentir sincère de leurs péchés. 

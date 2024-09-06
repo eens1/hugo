@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 26"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Bonheur de l’homme qui a une femme de bien ; malheur de celui qui en a une vicieuse.
+  De la fille effrontée.
+  De la femme vertueuse.
+  Trois choses affligeantes.
 ---
-
-
-Bonheur de l’homme qui a une femme de bien ; malheur de celui qui en a une vicieuse.
-De la fille effrontée.
-De la femme vertueuse.
-Trois choses affligeantes.
 
 
 1 Bienheureux le mari d'une femme de bien, car le nombre de ses années est doublé. 2 La femme forte fait la joie de son mari, et les années de sa vie, elle les remplira de paix. 3 C'est un bon partage qu'une femme de bien ; dans le partage de ceux qui craignent Dieu, elle sera donnée à un homme pour' ses bonnes actions. 4 Or, du riche et du pauvre le cœur sera content, et en tout temps leur visage sera gai.

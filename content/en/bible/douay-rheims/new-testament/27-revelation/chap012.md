@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 And a great sign appeared in heaven: A woman clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars.

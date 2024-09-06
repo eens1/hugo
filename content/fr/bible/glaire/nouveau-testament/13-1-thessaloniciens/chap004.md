@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Fuir la fornication ; garder la chasteté conjugale ; s’entr’aimer tous ; se consoler de la mort de ses frères par l’espérance de la résurrection.
+  Ordre dans lequel se fera la résurrection.
 ---
-
-
-Fuir la fornication ; garder la chasteté conjugale ; s’entr’aimer tous ; se consoler de la mort de ses frères par l’espérance de la résurrection.
-Ordre dans lequel se fera la résurrection.
 
 
 1 Au reste, mes frères, nous vous prions et vous conjurons dans le Seigneur Jésus, que, puisque vous avez appris de nous comment il faut que vous marchiez pour plaire à Dieu, vous marchiez en effet de telle sorte, que vous avanciez de plus en plus. 2 Attendu que vous savez quels préceptes nous vous avons donnés de la part du Seigneur Jésus ; 3 Car la volonté de Dieu, c'est votre sanctification, c'est que vous vous absteniez de la fornication ;

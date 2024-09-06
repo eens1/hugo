@@ -1,9 +1,8 @@
 ---
 title: "Chapter 15"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 He made also houses for himself in the city of David: and built a place for the ark of God, and pitched a tabernacle for it.

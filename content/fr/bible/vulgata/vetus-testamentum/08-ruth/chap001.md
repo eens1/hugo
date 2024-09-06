@@ -1,9 +1,8 @@
 ---
 title: "Caput 1"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 In diebus unius iudicis, quando iudices præerant, facta est fames in Terra. Abiitque homo de Bethlehem Iuda, ut peregrinaretur in regione Moabitide cum uxore sua, ac duobus liberis.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon and our hands have handled, of the word of life.

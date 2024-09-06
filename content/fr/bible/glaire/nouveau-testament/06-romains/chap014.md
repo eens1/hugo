@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Ceux qui sont forts dans la foi doivent supporter les faibles ; et les faibles ne doivent pas condamner les forts.
+  Ne pas se condamner les uns les autres.
+  Eviter le scandale.
+  S’entr’édifier en toutes choses.
+  Dieu est le juge de tous.
 ---
-
-
-Ceux qui sont forts dans la foi doivent supporter les faibles ; et les faibles ne doivent pas condamner les forts.
-Ne pas se condamner les uns les autres.
-Eviter le scandale.
-S’entr’édifier en toutes choses.
-Dieu est le juge de tous.
 
 
 1 Accueillez celui qui est faible dans la foi, sans disputer sur les opinions, 2 Car l'un croit qu'il peut manger de tout, et l'autre, qui est faible dans la foi, ne mange que des légumes.

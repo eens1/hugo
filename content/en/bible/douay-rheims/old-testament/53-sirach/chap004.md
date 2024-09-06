@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 Son, defraud not the poor of alms, and turn not away thy eyes from the poor.

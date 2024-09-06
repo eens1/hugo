@@ -1,9 +1,8 @@
 ---
 title: "Chap. 18 - Ne pas contraindre à entrer ni empêcher d'entrer"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Le saint Concile prononce anathème contre toutes et chacunes personnes, de quelque qualité et condition qu'elles soient, clercs ou laiques, séculiers ou réguliers, ou de quelque dignité qu'elles soient revêtues, qui contraindront en quelque manière que ce puisse être, une vierge, une veuve ou toute autre femme, excepté les cas exprimés dans le droit, à entrer dans un monastère ou à prendre l'habit de quelque religion que ce soit, ou à faire profession, ou qui donneront sur cela conseil, aide ou faveur; ou bien qui, sachant que c'est malgré elle qu'elle entre dans le monastère, ou en prend l'habit, ou fait profession, assisteront à une telle action, y consentiront ou y emploieront leur autorité.

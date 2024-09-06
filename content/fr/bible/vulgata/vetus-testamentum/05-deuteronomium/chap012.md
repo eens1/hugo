@@ -1,9 +1,8 @@
 ---
 title: "Caput 12"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Hæc sunt præcepta atque iudicia, quæ facere debetis in Terra, quam Dominus Deus patrum tuorum daturus est tibi, ut possideas eam cunctis diebus, quibus super humum gradieris.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 If thou do good, know to whom thou dost it, and there shall be much thanks for thy good deeds.

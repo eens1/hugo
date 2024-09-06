@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Lettre de Jérémie aux Juifs captifs.
+  Il leur annonce leur retour.
+  Il les exhorte à ne pas prendre part à l’idolâtrie des Babyloniens.
+  Il leur montre le néant et la vanité des idoles.
+  Copie de la lettre que Jérémie envoya aux captifs qui allaient être déportés à Babylone par le roi des Babyloniens, afin de leur annoncer ce que Dieu lui avait ordonné de leur dire.
 ---
-
-
-Lettre de Jérémie aux Juifs captifs.
-Il leur annonce leur retour.
-Il les exhorte à ne pas prendre part à l’idolâtrie des Babyloniens.
-Il leur montre le néant et la vanité des idoles.
-Copie de la lettre que Jérémie envoya aux captifs qui allaient être déportés à Babylone par le roi des Babyloniens, afin de leur annoncer ce que Dieu lui avait ordonné de leur dire.
 
 
 1 A cause des péchés que vous avez commis devant Dieu, vous serez emmenés captifs à Babylone, par Nabuchodonosor, roi des Babyloniens.

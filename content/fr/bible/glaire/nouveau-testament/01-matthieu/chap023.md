@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 23"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Ecouter ceux qui sont assis sur la chaire de Moïse.
+  Vanité et hypocrisie des scribes et des pharisiens.
+  Reproches de Jésus-Christ contre eux.
+  Prédiction contre Jérusalem.
 ---
-
-
-Ecouter ceux qui sont assis sur la chaire de Moïse.
-Vanité et hypocrisie des scribes et des pharisiens.
-Reproches de Jésus-Christ contre eux.
-Prédiction contre Jérusalem.
 
 
 1 Alors Jésus parla au peuple et à ses disciples,

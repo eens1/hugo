@@ -1,9 +1,8 @@
 ---
 title: "Caput 9"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Postquam autem hæc completa sunt, accesserunt ad me principes, dicentes: Non est separatus populus Israel, Sacerdotes et Levitæ a populis terrarum, et abominationibus eorum Chananæi videlicet, et Hethæi, et Pherezæi, et Iebusæi, et Ammonitarum, et Moabitarum, et Ægyptiorum, et Amorrhæorum:

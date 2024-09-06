@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 23"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  David établit Salomon roi sur Israël.
+  Il règle l’ordre et les fonctions des Lévites, destinés aux divers offices de la maison du Seigneur.
 ---
-
-
-David établit Salomon roi sur Israël.
-Il règle l’ordre et les fonctions des Lévites, destinés aux divers offices de la maison du Seigneur.
 
 
 1 David donc, vieux et plein de jours, établit Salomon, son fils, roi sur Israël. 2 Et il assembla tous les princes d'Israël, et les prêtres et les Lévites. 3 Et les Lévites furent dénombrés depuis trente ans et au-dessus, et il s'en trouva trente-huit mille. 4 On en choisit et on en distribua, pour le service de la maison du Seigneur, vingt-quatre mille ; mais les gouverneurs et les juges étaient au nombre de six mille. 5 Il y avait aussi quatre mille portiers et autant de joueurs de psaltérion, chantant les louanges du Seigneur sur les instruments que David avait faits pour chanter.

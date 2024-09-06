@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 46"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Ruine des idoles de Babylone.
+  Israël protégé du Seigneur.
+  Le Seigneur est le seul Dieu véritable ; tous ses desseins s’accomplissent.
+  Dieu promet le salut à Sion.
 ---
-
-
-Ruine des idoles de Babylone.
-Israël protégé du Seigneur.
-Le Seigneur est le seul Dieu véritable ; tous ses desseins s’accomplissent.
-Dieu promet le salut à Sion.
 
 
 1 Bel a été rompu; Nabo a été brisé; leurs simulacres ont été mis sur des bêtes et sur des animaux de service; ces fardeaux que vous portiez allaient par leur grand poids jusqu'à vous lasser.

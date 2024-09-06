@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Hérésies annoncées.
+  Timothée exhorté à se nourrir de la bonne doctrine, à fuir l’erreur, à s’exercer à la piété, à se rendre le modèle des fidèles, à lire et à enseigner, à ne pas négliger la grâce de son ordination.
 ---
-
-
-Hérésies annoncées.
-Timothée exhorté à se nourrir de la bonne doctrine, à fuir l’erreur, à s’exercer à la piété, à se rendre le modèle des fidèles, à lire et à enseigner, à ne pas négliger la grâce de son ordination.
 
 
 1 Or l'Esprit dit manifestement que, dans les derniers temps, quelques-uns abandonneront la foi, s'attachant à des esprits d'erreur, et à des doctrines de démons,

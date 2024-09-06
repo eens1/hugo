@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 121"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  L’auteur exprime dans ce psaume la joie que ressentirent les Juifs captifs à Babylone, lorsqu’il leur fut permis de retourner à Jérusalem.
 ---
-
-
-L’auteur exprime dans ce psaume la joie que ressentirent les Juifs captifs à Babylone, lorsqu’il leur fut permis de retourner à Jérusalem.
 
 
 1 Cantique des degrés. Je me suis réjoui des paroles qui m'ont été dites : Nous irons dans la maison du Seigneur.

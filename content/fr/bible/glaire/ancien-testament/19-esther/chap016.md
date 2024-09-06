@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Edit en faveur des Juifs.
+  Copie de la lettre que le roi Artaxerxès envoya en faveur des Juifs dans toutes les provinces de son royaume, laquelle ne se trouve pas non plus dans le volume hébreu.
 ---
-
-
-Edit en faveur des Juifs.
-Copie de la lettre que le roi Artaxerxès envoya en faveur des Juifs dans toutes les provinces de son royaume, laquelle ne se trouve pas non plus dans le volume hébreu.
 
 
 1 Le grand roi Artaxerxès, qui règne depuis l'Inde jusqu'à l'Ethiopie, aux chefs et aux gouverneurs des cent vingt-sept provinces qui sont soumises à notre commandement, dit salut.

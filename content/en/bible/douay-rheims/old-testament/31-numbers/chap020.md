@@ -1,9 +1,8 @@
 ---
 title: "Chapter 20"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 And the children of Israel, and all the multitude came into the desert of Sin, in the first month: and the people abode in Cades. And Mary died there, and was buried in the same place.

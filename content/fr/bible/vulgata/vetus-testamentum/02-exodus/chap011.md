@@ -1,9 +1,8 @@
 ---
 title: "Caput 11"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Et dixit Dominus ad Moysen: Adhuc una plaga tangam Pharaonem et Ægyptum, et post hæc dimittet vos, et exire compellet.

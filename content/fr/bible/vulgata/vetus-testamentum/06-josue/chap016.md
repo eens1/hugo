@@ -1,9 +1,8 @@
 ---
 title: "Caput 16"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Cecidit quoque sors filiorum Ioseph ab Iordane contra Iericho et aquas eius ab Oriente: solitudo quæ ascendit de Iericho ad montem Bethel:

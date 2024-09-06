@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 40"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Seigneur continue de montrer à Job la distance qu’il y a de la créature au Créateur.
+  Description de Béhémoth et de Léviathan.
 ---
-
-
-Le Seigneur continue de montrer à Job la distance qu’il y a de la créature au Créateur.
-Description de Béhémoth et de Léviathan.
 
 
 1 Or, répondant à Job du milieu d'un tourbillon, le Seigneur dit:

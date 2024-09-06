@@ -1,9 +1,8 @@
 ---
 title: "Caput 5"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Et venerunt universæ tribus Israel ad David in Hebron, dicentes: Ecce nos, os tuum, et caro tua sumus.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 30"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Les Juifs retourneront au Seigneur, et il aura pitié d’eux.
+  Les commandements de Dieu ne sont pas impossibles.
+  Les biens et les maux proposés de sa part.
 ---
-
-
-Les Juifs retourneront au Seigneur, et il aura pitié d’eux.
-Les commandements de Dieu ne sont pas impossibles.
-Les biens et les maux proposés de sa part.
 
 
 1 Lors donc que seront venues sur toi toutes ces paroles, la bénédiction ou la malédiction, que j'ai exposées en ta présence, et que conduit par le repentir de ton cœur, parmi les nations, chez lesquelles t'aura dispersé le Seigneur ton Dieu, 2 Tu seras revenu à lui avec tes enfants, et que tu obéiras à ses ordres en tout ton cœur et en toute ton âme, comme moi, je te prescris aujourd'hui, 3 Le Seigneur ton Dieu ramènera tes captifs, il aura pitié de toi, et il te rassemblera encore du milieu de tous les peuples chez lesquels il t'avait auparavant dispersé. 4 Quand tu aurais été dispersé jusqu'aux pôles du ciel, le Seigneur ton Dieu t'en retirera, 5 Et il te prendra, et t'introduira dans la terre qu'ont possédée tes pères et tu en seras maître; et te bénissant il te rendra plus nombreux que furent tes pères.

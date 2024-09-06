@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 25"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Cantique d’actions de grâces sur la délivrance du peuple de Juda.
+  Punition des Moabites.
 ---
-
-
-Cantique d’actions de grâces sur la délivrance du peuple de Juda.
-Punition des Moabites.
 
 
 1 Seigneur, vous êtes mon Dieu, je vous exalterai, je louerai votre nom, parce que vous avez fait des merveilles, que vous avez fidèlement accompli vos desseins anciens. Amen. 2 Vous avez réduit une cité en un monceau de pierres, une ville puissante en une ruine ; vous avez fait que la maison des étrangers ne soit pas une cité, et que jamais elle ne soit rebâtie.

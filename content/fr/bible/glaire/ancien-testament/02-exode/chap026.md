@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 26"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Ordonnances du Seigneur touchant le tabernacle et toutes ses parties.
 ---
-
-
-Ordonnances du Seigneur touchant le tabernacle et toutes ses parties.
 
 
 1 Mais le tabernacle, c'est ainsi que tu le feras : Tu feras dix rideaux de fin lin retors, d'hyacinthe, de pourpre et d'écarlate deux fois teinte, parsemés en ouvrage de broderie. 2 La longueur d'un rideau aura vingt-huit coudées : la largeur sera de quatre coudées. Tous les rideaux seront faits d'une seule mesure. 3 Cinq rideaux seront joints ensemble, l'un à l'autre, et les autres cinq seront attachés de la même manière. 4 Tu feras de petits lacs d'hyacinthe aux côtés et aux sommités des rideaux, afin qu'ils puissent s'unir l'un à l'autre. 5 Un rideau aura cinquante petits lacs de chaque côté, disposés de telle sorte qu'un lacs vienne contre un lacs, et que l'un puisse s'ajuster à l'autre. 6 Tu feras aussi cinquante anneaux d'or par lesquels les voiles des rideaux doivent être joints, afin qu'il se fasse un seul tabernacle.

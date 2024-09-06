@@ -1,9 +1,8 @@
 ---
 title: "Caput 12"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Cumque roboratum fuisset regnum Roboam et confortatum, dereliquit legem Domini, et omnis Israel cum eo.

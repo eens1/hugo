@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Craindre de devenir maître.
+  La langue source de maux ; difficulté de la contenir.
+  Sagesse terrestre amie des disputes.
+  Caractère de la sagesse qui vient d’en haut.
 ---
-
-
-Craindre de devenir maître.
-La langue source de maux ; difficulté de la contenir.
-Sagesse terrestre amie des disputes.
-Caractère de la sagesse qui vient d’en haut.
 
 
 1 Ne vous faites point maîtres en grand nombre, mes frères, sachant que vous vous chargez d'un jugement plus sévère.

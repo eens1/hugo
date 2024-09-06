@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Démétrius, fils de Séleucus, vient en Syrie, et fait mourir Antiochus Eupator et Lysias.
+  Il envoie en Judée Bacchide pour établir grand prêtre l’impie Alcime.
+  Bacchide cherche en vain de surprendre Judas ; il se retire.
+  Nicanor est envoyé contre Judas ; il est tué et son armée entièrement défaite.
 ---
-
-
-Démétrius, fils de Séleucus, vient en Syrie, et fait mourir Antiochus Eupator et Lysias.
-Il envoie en Judée Bacchide pour établir grand prêtre l’impie Alcime.
-Bacchide cherche en vain de surprendre Judas ; il se retire.
-Nicanor est envoyé contre Judas ; il est tué et son armée entièrement défaite.
 
 
 1 En l'année cent cinquante et unième, Démétrius, fils de Séleucus, sortit de la ville de Rome, et monta avec peu d'hommes dans une cité maritime, et il y régna.

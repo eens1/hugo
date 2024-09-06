@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Trompettes pour donner le signal.
+  Décampement des enfants d’Israël.
+  Moïse prie Hobab de demeurer avec Moïse (lui).
 ---
-
-
-Trompettes pour donner le signal.
-Décampement des enfants d’Israël.
-Moïse prie Hobab de demeurer avec Moïse (lui).
 
 
 1 Le Seigneur parla encore à Moïse, disant :2 Fais-toi deux trompettes d'argent ductiles, avec lesquelles tu puisses convoquer la multitude, quand le camp devra être levé. 3 Et lorsque tu auras sonné des trompettes, toute la multitude s'assemblera vers toi à la porte du tabernacle d'alliance. 4 Si tu sonnes une fois, les princes viendront vers toi, et les chefs de la multitude d'Israël. 5 Mais si le son de la trompette se fait entendre plus prolongé et interrompu, ceux qui sont du côté oriental lèveront le camp les premiers. 6 Mais au deuxième son et au bruit de la trompette pareil au premier, ceux qui habitent au midi enlèveront leurs tentes ; et c'est de cette manière que les autres feront, les trompettes retentissant pour le départ. 7 Et quand le peuple devra être assemblé, le son des trompettes sera simple, et elles sonneront sans interruption. 8 Or, les fils d'Aaron, prêtres, sonneront des trompettes ; et ce sera une loi perpétuelle en vos générations. 9 Si vous sortez de votre terre pour une guerre contre les

@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 27"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Ne pas compter sur l’avenir.
+  Des bons conseils.
+  Travailler à acquérir la sagesse.
+  Du serviteur fidèle.
+  Les louanges sont l’épreuve du cœur.
+  Devoir des pasteurs.
 ---
-
-
-Ne pas compter sur l’avenir.
-Des bons conseils.
-Travailler à acquérir la sagesse.
-Du serviteur fidèle.
-Les louanges sont l’épreuve du cœur.
-Devoir des pasteurs.
 
 
 1 Ne te glorifie pas pour le lendemain, ignorant ce que produira le jour qui doit venir.

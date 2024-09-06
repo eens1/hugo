@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 Do no evils, and no evils shall lay hold of thee.

@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 126"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste exhorte les Juifs qui avaient entrepris de rebâtir la ville de Jérusalem et le temple du Seigneur, à n’attendre que de lui le succès de cette entreprise.
 ---
-
-
-Le Psalmiste exhorte les Juifs qui avaient entrepris de rebâtir la ville de Jérusalem et le temple du Seigneur, à n’attendre que de lui le succès de cette entreprise.
 
 
 1 Cantique des degrés de Salomon. Si le Seigneur ne bâtit une maison, en vain travaillent ceux qui la bâtissent. Si le Seigneur ne garde une cité, inutilement veille celui qui la garde.

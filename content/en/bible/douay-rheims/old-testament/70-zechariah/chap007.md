@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass in the fourth year of king Darius, that the word of the Lord came to Zechariah, in the fourth day of the ninth month, which is Casleu.

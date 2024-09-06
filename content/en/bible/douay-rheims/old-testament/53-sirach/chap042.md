@@ -1,9 +1,8 @@
 ---
 title: "Chapter 42"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 Repeat not the word which thou hast heard, and disclose not the thing that is secret; so shalt thou be truly without confusion, and shalt find favour before all men: be not ashamed of any of these things, and accept no person to sin thereby:

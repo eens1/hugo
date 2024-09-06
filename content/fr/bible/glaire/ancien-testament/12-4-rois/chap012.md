@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Joas fait réparer le temple.
+  Hazaël vient assiéger Jérusalem.
+  Mort de Joas.
+  Amasias lui succède.
 ---
-
-
-Joas fait réparer le temple.
-Hazaël vient assiéger Jérusalem.
-Mort de Joas.
-Amasias lui succède.
 
 
 1 En la septième année de Jéhu, régna Joas; et pendant quarante ans il régna dans Jérusalem : le nom de sa mère était Sébia de Bersabée.

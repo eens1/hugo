@@ -1,9 +1,8 @@
 ---
 title: "Caput 23"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Anno autem septimo confortatus Ioiada, assumpsit centuriones, Azariam videlicet filium Ieroham, et Ismahel filium Iohanan, Azariam quoque filium Obed, et Maasiam filium Adaiæ, et Elisaphat filium Zechri: et iniit cum eis fœdus.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 21"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And there was a famine in the days of David for three years successively: and David consulted the oracle of the Lord. And the Lord said: It is for Saul, and his bloody house, because he slow the Gabaonites.

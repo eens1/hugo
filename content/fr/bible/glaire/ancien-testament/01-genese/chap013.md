@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Abram retourne d’Egypte dans la terre de Chanaan.
+  Lot se sépare de lui.
+  Abram reçoit de nouvelles assurances de la protection de Dieu.
 ---
-
-
-Abram retourne d’Egypte dans la terre de Chanaan.
-Lot se sépare de lui.
-Abram reçoit de nouvelles assurances de la protection de Dieu.
 
 
 1 Abram monta donc de l'Egypte, lui, sa femme et tout ce qu'il avait, et Lot avec lui, vers la région australe.

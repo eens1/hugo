@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 After these things I looked, and behold a door was opened in heaven, and the first voice which I heard, as it were, of a trumpet speaking with me, said: Come up hither, and I will shew thee the things which must be done hereafter.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Elisée prédit une grande abondance de vivres dans Samarie.
+  Les Syriens prennent la fuite et laissent toutes leurs provisions.
+  Un officier du roi qui n’avait pas cru à la prédiction d’Elisée est étouffé à la porte de la ville.
 ---
-
-
-Elisée prédit une grande abondance de vivres dans Samarie.
-Les Syriens prennent la fuite et laissent toutes leurs provisions.
-Un officier du roi qui n’avait pas cru à la prédiction d’Elisée est étouffé à la porte de la ville.
 
 
 1 Or Elisée dit : Ecoutez la parole du Seigneur : Voici ce que dit le Seigneur : A ce temps-ci, demain, le boisseau de fleur de farine sera à un statère, et deux boisseaux d'orge à un statère, à la porte de Samarie.

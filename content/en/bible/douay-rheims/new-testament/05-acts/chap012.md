@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 And at the same time, Herod the king stretched forth his hands, to afflict some of the church.

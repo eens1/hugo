@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Les ennemis de Juda s’efforcent inutilement de surprendre et d’intimider Néhémias.
+  Il achève les murs de Jérusalem.
 ---
-
-
-Les ennemis de Juda s’efforcent inutilement de surprendre et d’intimider Néhémias.
-Il achève les murs de Jérusalem.
 
 
 1 Or il arriva que lorsque Sanaballat, Tobie, Gossem l'Arabe, et tous nos autres ennemis, eurent appris que j'avais bâti le mur, et qu'il n'y restait plus de brèche (jusqu'à ce temps-là, cependant, je n'avais pas mis les battants aux portes), 2 Sanaballat et Gossem envoyèrent vers moi, disant: Viens, et faisons alliance ensemble dans les petits bourgs, dans la campagne d'Ono. Mais ils songeaient à me faire du mal.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 In the four and twentieth day of the month, in the sixth month, in the second year of Darius the king, they began.

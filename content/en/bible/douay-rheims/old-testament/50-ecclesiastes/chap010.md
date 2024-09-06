@@ -1,9 +1,8 @@
 ---
 title: "Chapter 10"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 Dying flies spoil the sweetness of the ointment. Wisdom and glory is more precious than a small and shortlived folly.

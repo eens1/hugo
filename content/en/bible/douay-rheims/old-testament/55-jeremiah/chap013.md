@@ -1,9 +1,8 @@
 ---
 title: "Chapter 13"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Thus saith the Lord to me: Go, and get thee a linen girdle, and thou shalt put it about thy loins, and shalt not put it into water.

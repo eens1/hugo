@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Prédiction de la ruine des villes et des hauts lieux d’Israël, et du carnage de ce peuple.
+  Reste que le Seigneur se réserve.
+  Désolation d’Israël par le glaive, la famine et la peste ; ce qui pays est réduit en solitude.
 ---
-
-
-Prédiction de la ruine des villes et des hauts lieux d’Israël, et du carnage de ce peuple.
-Reste que le Seigneur se réserve.
-Désolation d’Israël par le glaive, la famine et la peste ; ce qui pays est réduit en solitude.
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

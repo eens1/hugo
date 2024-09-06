@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Now it came to pass in the thirtieth year, in the fourth month, on the fifth day of the month, when I was in the midst of the captives by the river Chobar, the heavens were opened, and I saw the visions of God.

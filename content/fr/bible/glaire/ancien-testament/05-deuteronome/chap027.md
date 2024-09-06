@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 27"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Ordre de dresser un monument au-delà du Jourdain.
+  Cérémonies qu’on devait observer en prononçant les bénédictions et les malédictions sur les monts Garizim et Hébal.
 ---
-
-
-Ordre de dresser un monument au-delà du Jourdain.
-Cérémonies qu’on devait observer en prononçant les bénédictions et les malédictions sur les monts Garizim et Hébal.
 
 
 1 Or Moïse ordonna, et les anciens d'Israël, disant au peuple : Gardez tous les commandements que je vous prescris aujourd'hui.

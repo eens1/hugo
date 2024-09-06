@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Guerre de Chodorlahomor contre les rois de la Pentapole.
+  Abram délivre Lot.
+  Melchisédech bénit Abram.
 ---
-
-
-Guerre de Chodorlahomor contre les rois de la Pentapole.
-Abram délivre Lot.
-Melchisédech bénit Abram.
 
 
 1 Or il arriva en ce temps-là qu'Amraphel roi de Sennaar, Arioch roi de Pont, Chodorlahomor roi des Elamites, et Thadal roi des Nations

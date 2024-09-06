@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Lois pour la consécration des premiers-nés et pour l’observation de la Pâque.
+  Chemin par lequel Dieu conduit les Israélites.
+  Colonne de nuée et de feu.
 ---
-
-
-Lois pour la consécration des premiers-nés et pour l’observation de la Pâque.
-Chemin par lequel Dieu conduit les Israélites.
-Colonne de nuée et de feu.
 
 
 1 Le Seigneur parla encore à Moïse, disant :2 Consacre-moi tout premier né qui ouvre un sein parmi les enfants d'Israël, tant d'entre les hommes que d'entre les bêtes : car à moi sont toutes choses.

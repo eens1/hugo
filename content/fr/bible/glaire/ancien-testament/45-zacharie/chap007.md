@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Députation aux prêtres du Seigneur touchant les jeûnes observés durant la captivité.
+  Défaut de ces jeûnes.
+  Œuvres de justice que le Seigneur recommande, et dont le mépris attire sa colère.
 ---
-
-
-Députation aux prêtres du Seigneur touchant les jeûnes observés durant la captivité.
-Défaut de ces jeûnes.
-Œuvres de justice que le Seigneur recommande, et dont le mépris attire sa colère.
 
 
 1 Et il arriva dans la quatrième année du roi Darius, que la parole du Seigneur fut adressée à Zacharie, au quatrième jour du neuvième mois, qui est appelé Casleu.

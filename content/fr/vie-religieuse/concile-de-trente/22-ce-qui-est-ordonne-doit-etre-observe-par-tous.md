@@ -1,9 +1,8 @@
 ---
 title: "Chap. 22 - Ce qui a été ordonné doit être observé par tous"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Le saint Concile ordonne que toutes et chacunes des choses contenues dans les précédents décrets soient généralement observées dans tous les couvents et monastères, collèges et maisons de quelques moines et réguliers que ce soit, et de toutes sortes de religieuses, filles et veuves, encore qu'elles soient sous la conduite des ordres de chevalerie, et de celui même de Jérusalem, ou autre de quelque nom qu'on l'appelle, sous quelque règle et constitution que ce soit, et sous la garde ou conduite, sujétion, union ou dépendance de quelque ordre que ce puisse être, Mendiants ou non Mendiants, ou de quelques autres réguliers, moines ou chanoines que ce soit; nonobstant tous leurs priviléges en général ou en particulier, sous quelque forme et en quelques termes qu'ils soient conçus, tels que ceux qu'on appelle Mare magnum, et ceux mêmes qui ont été obtenus dans la fondation, et aussi toutes constitutions et règles, même autorisées par serment, ainsi que toutes coutumes et prescriptions, même de temps immémorial.

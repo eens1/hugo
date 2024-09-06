@@ -1,9 +1,8 @@
 ---
 title: "Caput 20"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Post hæc congregati sunt filii Moab, et filii Ammon, et cum eis de Ammonitis ad Iosaphat ut pugnarent contra eum.

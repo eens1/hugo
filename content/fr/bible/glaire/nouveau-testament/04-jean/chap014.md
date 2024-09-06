@@ -1,20 +1,20 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Sermon après la cène.
+  Jésus va préparer un lieu à ses disciples.
+  Il est la voie, la vérité et la vie.
+  Qui le voit, voit son Père.
+  Il fera ce qui sera demandé en son nom.
+  Promesse de l’Esprit consolateur.
+  Observation des commandements.
+  Le Saint-Esprit enseigne toutes choses.
+  Paix de Dieu.
+  Amour et obéissance de Jésus.
 ---
-
-
-Sermon après la cène.
-Jésus va préparer un lieu à ses disciples.
-Il est la voie, la vérité et la vie.
-Qui le voit, voit son Père.
-Il fera ce qui sera demandé en son nom.
-Promesse de l’Esprit consolateur.
-Observation des commandements.
-Le Saint-Esprit enseigne toutes choses.
-Paix de Dieu.
-Amour et obéissance de Jésus.
 
 
 1 Que votre coeur ne se trouble point. Vous croyez en Dieu, croyez aussi en moi.

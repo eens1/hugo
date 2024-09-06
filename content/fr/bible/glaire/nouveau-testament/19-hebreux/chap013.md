@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  L’Apôtre donne encore aux Hébreux quelques avis particuliers.
+  Il les console de la peine qu’ils avaient de se voir chassés de la synagogue.
+  Il se recommande à leurs prières.
+  Prière admirable qu’il fait lui-même pour eux.
 ---
-
-
-L’Apôtre donne encore aux Hébreux quelques avis particuliers.
-Il les console de la peine qu’ils avaient de se voir chassés de la synagogue.
-Il se recommande à leurs prières.
-Prière admirable qu’il fait lui-même pour eux.
 
 
 1 Que la charité fraternelle demeure en vous :2 Et ne négligez pas l'hospitalité, car c'est par elle que quelques-uns ont donné, sans le savoir, l'hospitalité à des anges.

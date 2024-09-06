@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Tentation d’Eve par le serpent.
+  Le péché et sa punition.
 ---
-
-
-Tentation d’Eve par le serpent.
-Le péché et sa punition.
 
 
 1 Mais le serpent était le plus rusé de tous les animaux de la terre qu'avait faits le Seigneur. Il dit à la femme : Pourquoi Dieu vous a-t-il commandé de ne pas manger du fruit de tous les arbres du paradis?

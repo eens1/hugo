@@ -1,9 +1,8 @@
 ---
 title: "Chapter 93"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:30+02:00
 draft: false
 ---
-
 
 
 1 The Lord is the God to whom revenge belongeth: the God of revenge hath acted freely.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 19"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 Moreover take thou up a lamentation for the princes of Israel,

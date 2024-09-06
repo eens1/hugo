@@ -1,9 +1,8 @@
 ---
 title: "Chapter 19"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And it was told Joab, that the king wept and mourned for his son:

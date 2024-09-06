@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 46"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Prophéties de la défaite des Egyptiens par Nabuchodonosor à Charcamis ; de la désolation de l’Egypte par le même prince ; du rétablissement de l’Egypte ; de la délivrance et du retour des enfants de Jacob.
 ---
-
-
-Prophéties de la défaite des Egyptiens par Nabuchodonosor à Charcamis ; de la désolation de l’Egypte par le même prince ; du rétablissement de l’Egypte ; de la délivrance et du retour des enfants de Jacob.
 
 
 1 Parole du Seigneur qui fut adressée à Jérémie, le prophète, contre les nations ;

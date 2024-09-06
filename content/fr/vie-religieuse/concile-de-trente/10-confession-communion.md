@@ -1,9 +1,8 @@
 ---
 title: "Chap. 10 - Confession et Communion tous les mois"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Les évêques et autres supérieurs des monastères des religieuses auront un soin particulier que les religieuses dans leurs constitutions soient averties de se confesser, et de recevoir la très-sainte Eucharistie au moins tous les mois, afin que munies de ce secours salutaire, elles triomphent vaillamment de toutes les attaques du démon.

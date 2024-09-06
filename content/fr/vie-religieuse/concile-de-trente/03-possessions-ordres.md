@@ -1,9 +1,8 @@
 ---
 title: "Chap. 3 - Possessions des ordres, nombre, nouveaux établissements"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Le saint Concile accorde la permission de posséder à l'avenir des biens immeubles à tous monastères et maisons, tant d'hommes que de femmes, et des Mendiants, excepté les maisons des frères de Saint-François, Capucins, et de ceux qu'on appelle Mineurs de l'Observance, même à ceux à qui par leurs constitutions il était défendu d'en avoir, ou qui ne jouissaient pas à ce sujet d'un privilége apostolique. 

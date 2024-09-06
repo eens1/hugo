@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 19"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Villes de refuge.
+  Homicide.
+  Défense de changer les bornes.
+  Châtiment des faux témoins.
+  Peine du talion.
 ---
-
-
-Villes de refuge.
-Homicide.
-Défense de changer les bornes.
-Châtiment des faux témoins.
-Peine du talion.
 
 
 1 Lorsque le Seigneur ton Dieu aura détruit les nations dont il va te livrer la terre, et que tu la posséderas, et que tu habiteras dans les villes et dans les maisons, 2 Tu sépareras trois villes au milieu de la terre que le Seigneur ton Dieu te donnera en possession,

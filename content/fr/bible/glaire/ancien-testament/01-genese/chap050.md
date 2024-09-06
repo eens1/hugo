@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 50"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Obsèques de Jacob.
+  Mort de Joseph.
 ---
-
-
-Obsèques de Jacob.
-Mort de Joseph.
 
 
 1 Ce que voyant Joseph, il se jeta sur le visage de son père, pleurant et l'embrassant. 2 Et il ordonna aux médecins qui étaient à son service d'embaumer son père. 3 Pendant qu'ils exécutaient cet ordre, quarante jours se passèrent; car telle était la coutume pour les corps embaumés; et l'Egypte pleura Jacob pendant soixante-dix jours.

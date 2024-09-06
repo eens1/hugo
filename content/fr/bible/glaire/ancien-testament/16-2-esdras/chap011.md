@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Noms des Juifs qui demeurèrent dans Jérusalem.
+  Villes habitées par les tribus de Juda et de Benjamin.
 ---
-
-
-Noms des Juifs qui demeurèrent dans Jérusalem.
-Villes habitées par les tribus de Juda et de Benjamin.
 
 
 1 Or les princes du peuple habitèrent dans Jérusalem; mais le reste du peuple jeta le sort, afin que l'on prît une partie sur dix, laquelle devait habiter dans Jérusalem, la ville sainte, mais les neuf autres parties dans les autres villes. 2 Et le peuple bénit tous les hommes qui s'étaient spontanément offerts pour habiter dans Jérusalem.

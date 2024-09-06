@@ -1,9 +1,8 @@
 ---
 title: "Caput 7"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Hæc ostendit mihi Dominus Deus: et ecce fictor locustæ in principio germinantium serotini imbris, et ecce serotinus post tonsionem regis.

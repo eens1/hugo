@@ -1,9 +1,8 @@
 ---
 title: "Caput 4"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Audite verbum hoc vaccæ pingues, quæ estis in monte Samariæ: quæ calumniam facitis egenis, et confringitis pauperes: quæ dicitis dominis vestris: Afferte, et bibemus.

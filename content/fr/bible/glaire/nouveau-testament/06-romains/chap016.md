@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Saint Paul recommande Phoebé, diaconesse.
+  Il salue diverses personnes de Rome.
+  Il exhorte les Romains à éviter les discussions.
+  Il les salue de la part de plusieurs personnes.
+  Il leur souhaite la grâce de Jésus-Christ.
 ---
-
-
-Saint Paul recommande Phoebé, diaconesse.
-Il salue diverses personnes de Rome.
-Il exhorte les Romains à éviter les discussions.
-Il les salue de la part de plusieurs personnes.
-Il leur souhaite la grâce de Jésus-Christ.
 
 
 1 Je vous recommande Phoebé, notre soeur, attachée au service de l'Eglise qui est à Cenchrée,

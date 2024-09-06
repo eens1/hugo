@@ -1,9 +1,8 @@
 ---
 title: "Chapter 14"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 Be ye children of the Lord your God: you shall not cut yourselves, nor make any baldness for the dead;

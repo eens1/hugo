@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 23"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David nous représente dans ce psaume l’entrée triomphante de Jésus-Christ dans le ciel, et la sainteté que doivent avoir sur la terre tous ceux qui désirent demeurer avec lui.
 ---
-
-
-David nous représente dans ce psaume l’entrée triomphante de Jésus-Christ dans le ciel, et la sainteté que doivent avoir sur la terre tous ceux qui désirent demeurer avec lui.
 
 
 1 Le premier de la semaine, psaume de David. Au Seigneur est la terre et toute sa pénitude; le globe du monde et tous ceux qui l'habitent.

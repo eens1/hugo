@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 Now it came to pass after the death of Moses, the servant of the Lord, that the Lord spoke to Joshua, the son of Nun, the minister of Moses, and said to him:

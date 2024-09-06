@@ -1,9 +1,8 @@
 ---
 title: "Chapter 19"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 But as to the wicked, even to the end there came upon them wrath without mercy. For he knew before also what they would do:

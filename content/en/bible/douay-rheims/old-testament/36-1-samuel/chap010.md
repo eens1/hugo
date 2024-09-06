@@ -1,9 +1,8 @@
 ---
 title: "Chapter 10"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And Samuel took a little vial of oil, and poured it upon his head, and kissed him, and said: Behold, the Lord hath anointed thee to be prince over his inheritance, and thou shalt deliver his people out of the hands of their enemies, that are round about them. And this shall be a sign unto thee, that God hath anointed thee to be prince.

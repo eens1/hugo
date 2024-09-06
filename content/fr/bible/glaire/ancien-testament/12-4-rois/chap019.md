@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 19"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Ezéchias envoie vers Isaïe.
+  Ce prophète console Ezéchias.
+  Sennachérib marche contre l’Ethiopie et blasphème de nouveau contre le Seigneur.
+  Ezéchias prie le Seigneur.
+  Isaïe prédit la défaite de Sennachérib, et un ange du Seigneur extermine l’armée de ce prince.
 ---
-
-
-Ezéchias envoie vers Isaïe.
-Ce prophète console Ezéchias.
-Sennachérib marche contre l’Ethiopie et blasphème de nouveau contre le Seigneur.
-Ezéchias prie le Seigneur.
-Isaïe prédit la défaite de Sennachérib, et un ange du Seigneur extermine l’armée de ce prince.
 
 
 1 Ce qu'ayant entendu le roi Ezéchias, il déchira ses vêtements, se couvrit d'un sac, et entra dans la maison du Seigneur.

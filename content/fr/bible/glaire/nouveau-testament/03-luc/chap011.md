@@ -1,21 +1,21 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Prière de Jésus-Christ.
+  Demander, chercher et frapper.
+  Délivrance d’un possédé muet.
+  Blasphème des Juifs.
+  Parabole du fort armé.
+  Démon rentrant.
+  Bonheur de la mère de Jésus.
+  Signe de Jonas.
+  Œil simple.
+  Dehors de la coupe.
+  Reproches de Jésus-Christ contre les scribes et les pharisiens.
 ---
-
-
-Prière de Jésus-Christ.
-Demander, chercher et frapper.
-Délivrance d’un possédé muet.
-Blasphème des Juifs.
-Parabole du fort armé.
-Démon rentrant.
-Bonheur de la mère de Jésus.
-Signe de Jonas.
-Œil simple.
-Dehors de la coupe.
-Reproches de Jésus-Christ contre les scribes et les pharisiens.
 
 
 1 Il arriva que, comme il priait en un certain lieu, un de ses disciples lui dit, après qu'il eut fini : Seigneur, enseignez-nous à prier, comme Jean lui-même l'a enseigné à ses disciples. 2 Et il leur dit : Quand vous priez, dites : Père, que votre nom soit sanctifié. Que votre règne arrive.

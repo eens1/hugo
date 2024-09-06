@@ -1,9 +1,8 @@
 ---
 title: "Caput 7"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Dixit autem Eliseus: Audite verbum Domini: Hæc dicit Dominus: In tempore hoc cras modius similæ uno statere erit, et duo modii hordei statere uno, in porta Samariæ.

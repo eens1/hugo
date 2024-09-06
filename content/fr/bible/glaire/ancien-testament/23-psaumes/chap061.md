@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 61"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David s’excite lui-même, et tous ceux qui suivent son parti, à mettre toute sa confiance en Dieu, et à se soumettre entièrement à lui.
+  Pour la fin.
 ---
-
-
-David s’excite lui-même, et tous ceux qui suivent son parti, à mettre toute sa confiance en Dieu, et à se soumettre entièrement à lui.
-Pour la fin.
 
 
 1 Pour Idithun, psaume de David.

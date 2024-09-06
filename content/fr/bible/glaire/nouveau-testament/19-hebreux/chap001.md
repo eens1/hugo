@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Supériorité de Jésus-Christ sur les prophètes qui ont paru dans l’ancien peuple, et sur les anges par qui la loi a été donnée à ce peuple.
 ---
-
-
-Supériorité de Jésus-Christ sur les prophètes qui ont paru dans l’ancien peuple, et sur les anges par qui la loi a été donnée à ce peuple.
 
 
 1 Dieu, qui a parlé autrefois à nos pères par les prophètes, bien souvent et en bien des manières, dernièrement, 2 En ces jours, nous a parlé par son Fils, qu'il a établi héritier en toutes choses, par qui il a fait même les siècles ; 3 Et qui étant la splendeur de sa gloire et l'empreinte de sa substance, et soutenant toutes choses par la puissance de sa parole, après avoir opéré la purification des péchés, est assis à la droite de la Majesté, au plus haut des cieux.

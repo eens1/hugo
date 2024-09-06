@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 These things the Lord God shewed to me: and behold the locust was formed in the beginning of the shooting up of the latter rain, and lo, it was the latter rain after the king's mowing.

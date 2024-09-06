@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Instructions de Tobie à son fils.
+  Il l’avertit de la somme qu’il a mise entre les mains de Gabélus.
 ---
-
-
-Instructions de Tobie à son fils.
-Il l’avertit de la somme qu’il a mise entre les mains de Gabélus.
 
 
 1 Ainsi, comme Tobie croyait que sa prière était exaucée, et qu'il pourrait mourir, il appela vers lui Tobie, son fils, 2 Et lui dit : Ecoute, mon fils, les paroles de ma bouche, et pose-les dans ton cœur, comme un fondement. 3 Lorsque Dieu aura reçu mon âme, ensevelis mon corps; tu honoreras aussi ta mère tous les jours de sa vie ;

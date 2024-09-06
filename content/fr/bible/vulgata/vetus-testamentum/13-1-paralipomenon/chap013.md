@@ -1,9 +1,8 @@
 ---
 title: "Caput 13"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Iniit autem consilium David cum tribunis, et centurionibus, et universis principibus,

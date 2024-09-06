@@ -1,9 +1,8 @@
 ---
 title: "Définitions"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 > *Cours d'instruction religieuse* : "Qu'est-ce qu'une croyance nécessaire de nécessité de moyen ? C'est celle sans laquelle un adulte ne peut être sauvé, tellement qu'il n'est pas même excusé par l'ignorance invincible." [^1]

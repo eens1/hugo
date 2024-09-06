@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 98"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste exhorte tous les peuples de la terre à rendre à Dieu la gloire qui lui est due, à craindre sa justice, à garder sa loi et à invoquer en tout temps sa miséricorde.
+  Les Pères expliquent ce psaume du règne et de la venue de Jésus-Christ ; les Juifs l’entendent de leur Messie.
 ---
-
-
-Le Psalmiste exhorte tous les peuples de la terre à rendre à Dieu la gloire qui lui est due, à craindre sa justice, à garder sa loi et à invoquer en tout temps sa miséricorde.
-Les Pères expliquent ce psaume du règne et de la venue de Jésus-Christ ; les Juifs l’entendent de leur Messie.
 
 
 1 Psaume à David (de David) lui-même. Le Seigneur a établi son règne, que des peuples frémissent de colère ; il est assis sur des chérubins, que la terre soit ébranlée.

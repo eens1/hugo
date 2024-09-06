@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Vengeance du Seigneur sur les Israélites ; leur dispersion.
+  Rétablissement de la maison de David.
+  Retour et rétablissement des Israélites.
 ---
-
-
-Vengeance du Seigneur sur les Israélites ; leur dispersion.
-Rétablissement de la maison de David.
-Retour et rétablissement des Israélites.
 
 
 1 J'ai vu le Seigneur se tenant sur l'autel, disant : Frappez le gond, et que les linteaux soient ébranlés; car l'avarice est dans la tête de tous, et je tuerai le dernier d'entre eux par le glaive; la fuite ne leur sera pas favorable. Ils fuiront, et celui d'entre eux qui aura fui ne sera pas sauvé.

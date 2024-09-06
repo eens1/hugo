@@ -1,9 +1,8 @@
 ---
 title: "Caput 28"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Vocavit itaque Isaac Iacob, et benedixit eum, præcepitque ei dicens: Noli accipere coniugem de genere Chanaan:

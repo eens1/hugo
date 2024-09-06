@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Saint Paul, après avoir salué les Colossiens, rend grâces à Dieu, et prie pour eux.
+  Jésus-Christ est l’mage de Dieu, le créateur de toutes choses, le chef de l’Eglise, le pacificateur entre le ciel et la terre.
+  Paul ministre de Jésus-Christ et de son Eglise.
+  Mystère de la vocation des gentils.
 ---
-
-
-Saint Paul, après avoir salué les Colossiens, rend grâces à Dieu, et prie pour eux.
-Jésus-Christ est l’mage de Dieu, le créateur de toutes choses, le chef de l’Eglise, le pacificateur entre le ciel et la terre.
-Paul ministre de Jésus-Christ et de son Eglise.
-Mystère de la vocation des gentils.
 
 
 1 Paul, apôtre de Jésus-Christ par la volonté de Dieu, et Timothée son frère;

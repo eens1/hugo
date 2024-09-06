@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Compétition entre Démétrius Ier et Alexandre Ier Balas.
+  Celui-ci épouse la fille de Ptolémée Philométor.
+  Il fait venir Jonathas à Ptolémaïde, et l’élève en gloire.
+  Démétrius Nicator envoie Apollonius contre les Juifs.
+  Jonathas défait Apollonius.
 ---
-
-
-Compétition entre Démétrius Ier et Alexandre Ier Balas.
-Celui-ci épouse la fille de Ptolémée Philométor.
-Il fait venir Jonathas à Ptolémaïde, et l’élève en gloire.
-Démétrius Nicator envoie Apollonius contre les Juifs.
-Jonathas défait Apollonius.
 
 
 1 En l'année cent soixantième, Alexandre, fils d'Antiochus, qui fut surnommé le Noble, monta et prit Ptolémaïde ; et les habitants le reçurent, et il y régna.

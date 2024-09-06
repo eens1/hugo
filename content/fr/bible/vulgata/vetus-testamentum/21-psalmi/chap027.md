@@ -1,9 +1,8 @@
 ---
 title: "Caput 27"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:52+02:00
 draft: false
 ---
-
 
 
 1 Psalmus ipsi David. Ad te Domine clamabo, Deus meus ne sileas a me: ne quando taceas a me, et assimilabor descendentibus in lacum.

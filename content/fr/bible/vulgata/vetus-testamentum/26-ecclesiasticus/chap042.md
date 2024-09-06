@@ -1,9 +1,8 @@
 ---
 title: "Caput 42"
-date: 2024-09-06T18:40:56+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Non duplices sermonem auditus de revelatione sermonis absconditi, et eris vere sine confusione, et invenies gratiam in conspectu omnium hominum: ne pro his omnibus confundaris, et ne accipias personam ut delinquas.

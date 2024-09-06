@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Chrétien vrai circoncis.
+  Justice de la loi et de la foi.
+  Participation aux souffrances de Jésus-Christ.
+  Saint Paul ne se croit pas arrivé à la perfection, mais il y tend.
+  Faux apôtres ennemis de la croix.
+  Chrétiens citoyens du ciel.
 ---
-
-
-Chrétien vrai circoncis.
-Justice de la loi et de la foi.
-Participation aux souffrances de Jésus-Christ.
-Saint Paul ne se croit pas arrivé à la perfection, mais il y tend.
-Faux apôtres ennemis de la croix.
-Chrétiens citoyens du ciel.
 
 
 1 Au reste, mes frères, réjouissez-vous dans le Seigneur. Vous écrire les mêmes choses n'est pas pénible pour moi, mais c'est nécessaire pour vous. 2 Gardez-vous des chiens, gardez-vous des mauvais ouvriers, gardez-vous de la mutilation.

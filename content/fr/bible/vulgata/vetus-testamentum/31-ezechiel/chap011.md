@@ -1,9 +1,8 @@
 ---
 title: "Caput 11"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 Et elevavit me spiritus, et introduxit me ad portam domus Domini orientalem, quæ respicit ad solis ortum: et ecce in introitu portæ viginti quinque viri: et vidi in medio eorum Iezoniam filium Azur, et Pheltiam filium Banaiæ, principes populi.

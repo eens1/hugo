@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Le sacerdoce est confirmé à Aaron par le miracle de sa verge qui fleurit.
 ---
-
-
-Le sacerdoce est confirmé à Aaron par le miracle de sa verge qui fleurit.
 
 
 1 Le Seigneur parla encore à Moïse, disant :2 Parle aux enfants d'Israël, et prends d'eux des verges, une à une, selon leur parenté, de tous les princes des tribus, douze verges; et tu écriras le nom de chacun d'eux sur sa verge :3 Mais le nom d'Aaron sera dans la tribu de Lévi, et chaque verge contiendra séparément toutes les familles ;

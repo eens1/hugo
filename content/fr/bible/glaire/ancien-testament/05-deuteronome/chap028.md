@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 28"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Biens promis à ceux observeront la loi du Seigneur.
+  Maux dont seront punis ceux qui la violeront.
 ---
-
-
-Biens promis à ceux observeront la loi du Seigneur.
-Maux dont seront punis ceux qui la violeront.
 
 
 1 Mais si tu écoutes la voix du Seigneur ton Dieu, en sorte que tu pratiques et que tu gardes tous ses commandements que moi, je te prescris aujourd'hui, le Seigneur ton Dieu t'élèvera au-dessus de toutes les nations qui sont sur la terre.

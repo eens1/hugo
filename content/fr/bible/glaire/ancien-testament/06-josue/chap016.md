@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Partage de la tribu d’Ephraïm.
 ---
-
-
-Partage de la tribu d’Ephraïm.
 
 
 1 Et le lot échu aux enfants de Joseph fut depuis le Jourdain, contre Jéricho, et les eaux de ce fleuve, à l'orient, le désert qui monte de Jéricho à la montagne de Béthel,

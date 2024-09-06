@@ -1,9 +1,8 @@
 ---
 title: "Chapter 22"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 Thou shalt not pass by if thou seest thy brother's ox, or his sheep go astray: but thou shalt bring them back to thy brother.

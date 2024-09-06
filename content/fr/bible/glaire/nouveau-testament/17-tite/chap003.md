@@ -1,18 +1,18 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Soumission aux princes.
+  Effusion de la grâce de Jésus-Christ.
+  D’où Jésus-Christ nous a tirés ; à quoi il nous destine.
+  S’appliquer aux bonnes oeuvres.
+  Fuir les disputes.
+  Eviter les hérétiques.
+  Saint Paul prie Tite de venir le trouver.
+  Salutations.
 ---
-
-
-Soumission aux princes.
-Effusion de la grâce de Jésus-Christ.
-D’où Jésus-Christ nous a tirés ; à quoi il nous destine.
-S’appliquer aux bonnes oeuvres.
-Fuir les disputes.
-Eviter les hérétiques.
-Saint Paul prie Tite de venir le trouver.
-Salutations.
 
 
 1 Avertis-les d'être soumis aux princes et aux puissances, d'obéir au commandement, d'être prêts à toute bonne oeuvre ;

@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Elie déclare à Achab qu’il ne pleuvra point jusqu’à ce que Dieu l’ordonne par sa bouche.
+  Ce prophète est nourri par les corbeaux.
+  Il multiplie miraculeusement à Sarephta l’huile et la farine chez une veuve.
+  Le fils de cette veuve meurt.
+  Elie le ressuscite.
 ---
-
-
-Elie déclare à Achab qu’il ne pleuvra point jusqu’à ce que Dieu l’ordonne par sa bouche.
-Ce prophète est nourri par les corbeaux.
-Il multiplie miraculeusement à Sarephta l’huile et la farine chez une veuve.
-Le fils de cette veuve meurt.
-Elie le ressuscite.
 
 
 1 Et Elie, le Thesbite, un des habitants de Galaad, dit à Achab : Il vit, le Seigneur Dieu d'Israël, en la présence duquel je suis ! il n'y aura pendant ces années-ci ni rosée ni pluie que selon les paroles de ma bouche.

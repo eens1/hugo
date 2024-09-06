@@ -1,9 +1,8 @@
 ---
 title: "Caput 6"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Factum est ergo quadringentesimo et octogesimo anno egressionis filiorum Israel de Terra Ægypti, in anno quarto, mense Zio, (ipse est mensis secundus) regni Salomonis super Israel, ædificari cœpit domus Domino.

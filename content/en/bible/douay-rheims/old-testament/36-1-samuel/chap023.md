@@ -1,9 +1,8 @@
 ---
 title: "Chapter 23"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And they told David, saying: Behold the Philistines fight against Ceila, and they rob the barns.

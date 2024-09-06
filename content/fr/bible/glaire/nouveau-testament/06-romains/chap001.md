@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Saint Paul établit et caractérise son apostolat.
+  Il témoigne aux Romains son zèle pour eux.
+  Ingratitude et impiété des philosophes.
+  Dieu visible dans l’ordre du monde.
+  Impiété punie par la dépravation des moeurs.
 ---
-
-
-Saint Paul établit et caractérise son apostolat.
-Il témoigne aux Romains son zèle pour eux.
-Ingratitude et impiété des philosophes.
-Dieu visible dans l’ordre du monde.
-Impiété punie par la dépravation des moeurs.
 
 
 1 Paul, serviteur de Jésus-Christ, appelé à l'apostolat, choisi pour l'Evangile de Dieu,

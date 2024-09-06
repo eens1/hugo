@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Devoirs des femmes envers leurs maris, et réciproquement.
+  Charité mutuelle.
+  Bénir ceux qui maudissent.
+  S’estimer heureux de souffrir pour la justice.
+  Souffrance de Jésus-Christ.
+  Eaux du déluge figure des eaux du baptême.
 ---
-
-
-Devoirs des femmes envers leurs maris, et réciproquement.
-Charité mutuelle.
-Bénir ceux qui maudissent.
-S’estimer heureux de souffrir pour la justice.
-Souffrance de Jésus-Christ.
-Eaux du déluge figure des eaux du baptême.
 
 
 1 Pareillement, que les femmes aussi soient soumises à leurs maris; afin que si quelques-uns ne croient pas à la parole, ils soient gagnés sans la parole, par la conduite de leurs femmes,

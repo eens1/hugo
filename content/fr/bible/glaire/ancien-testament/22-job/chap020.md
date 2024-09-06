@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 20"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Sophar continue de décrire les châtiments dont Dieu punit les impies.
 ---
-
-
-Sophar continue de décrire les châtiments dont Dieu punit les impies.
 
 
 1 Alors, répondant, Sophar, le Naamathite, dit :

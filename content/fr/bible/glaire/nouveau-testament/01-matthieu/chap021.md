@@ -1,18 +1,18 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Entrée de Jésus-Christ dans Jérusalem.
+  Vendeurs chassés du temple.
+  Acclamations des enfants.
+  Figuier séché.
+  Puissance de la foi.
+  Autorité de Jésus : baptême de Jean.
+  Parabole des deux fils envoyés à la vigne, des vignerons homicides.
+  Parabole de la pierre angulaire.
 ---
-
-
-Entrée de Jésus-Christ dans Jérusalem.
-Vendeurs chassés du temple.
-Acclamations des enfants.
-Figuier séché.
-Puissance de la foi.
-Autorité de Jésus : baptême de Jean.
-Parabole des deux fils envoyés à la vigne, des vignerons homicides.
-Parabole de la pierre angulaire.
 
 
 1 Lorsqu'ils approchèrent de Jérusalem et qu'ils furent venus à Bethphagé, près du mont des Oliviers, Jésus envoya deux disciples,

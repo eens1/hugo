@@ -1,9 +1,8 @@
 ---
 title: "Chapter 15"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 And he commanded her (no doubt but he was Mardochai) to go to the king, and petition for her people, and for her country.

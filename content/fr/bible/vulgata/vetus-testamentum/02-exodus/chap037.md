@@ -1,9 +1,8 @@
 ---
 title: "Caput 37"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Fecit autem Beseleel et arcam de lignis setim, habentem duos semis cubitos in longitudine, et cubitum ac semissem in latitudine, altitudo quoque unius cubiti fuit et dimidii: vestivitque eam auro purissimo intus ac foris.

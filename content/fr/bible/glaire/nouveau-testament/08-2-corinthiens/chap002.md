@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Charité de saint Paul envers les fidèles de Corinthe.
+  Son indulgence envers l’incestueux pénitent.
+  Apôtres, odeur de vie aux uns, et odeur de mort aux autres.
+  Falsificateurs de la parole de Dieu.
 ---
-
-
-Charité de saint Paul envers les fidèles de Corinthe.
-Son indulgence envers l’incestueux pénitent.
-Apôtres, odeur de vie aux uns, et odeur de mort aux autres.
-Falsificateurs de la parole de Dieu.
 
 
 1 Je résolus donc en moi-même de ne point venir vers vous de nouveau dans la tristesse. 2 Car si c'est moi qui vous contriste, qui aurai-je pour me réjouir, si ce n'est celui qui est contristé à cause de moi? 3 C'est aussi ce que je vous ai écrit, afin, quand je viendrai, de n'avoir pas tristesse sur tristesse, de la part de ceux qui auraient dû être ma joie, ayant cette confiance en vous tous, que ma joie est la vôtre à tous. 4 Car je vous ai écrit, dans l'affliction et l'angoisse du coeur, aveu beaucoup de larmes, non pour que vous soyez contristés, mais afin que vous sachiez la charité surabondante que j'ai pour vous.

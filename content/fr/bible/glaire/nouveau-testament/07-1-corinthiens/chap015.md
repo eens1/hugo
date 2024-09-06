@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Résurrection des morts prouvée par celle de Jésus-Christ.
+  Conséquences impies auxquelles s’exposent ceux qui nient la résurrection.
+  Ordre de la résurrection.
+  Comment elle se fera.
+  Qualités des corps ressuscités.
+  Homme terrestre ; homme céleste.
+  Mystère de la résurrection.
 ---
-
-
-Résurrection des morts prouvée par celle de Jésus-Christ.
-Conséquences impies auxquelles s’exposent ceux qui nient la résurrection.
-Ordre de la résurrection.
-Comment elle se fera.
-Qualités des corps ressuscités.
-Homme terrestre ; homme céleste.
-Mystère de la résurrection.
 
 
 1 Mais je vous rappelle, mes frères, l'Evangile que je vous ai prêché, que vous avez reçu, dans lequel vous demeurez fermes,

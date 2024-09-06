@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 48"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste prouve l’inutilité des richesses, en montrant qu’elles ne peuvent ni conserver la vie à celui qui les possède, ni les donner à un autre.
+  Il fait voir ensuite que la mort est inévitable, qu’elle rend tous les hommes égaux, et que les méchants se rendent semblables aux bêtes.
 ---
-
-
-Le Psalmiste prouve l’inutilité des richesses, en montrant qu’elles ne peuvent ni conserver la vie à celui qui les possède, ni les donner à un autre.
-Il fait voir ensuite que la mort est inévitable, qu’elle rend tous les hommes égaux, et que les méchants se rendent semblables aux bêtes.
 
 
 1 Pour la fin, aux fils de Coré, psaume.

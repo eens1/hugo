@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Qualité des évêques et des prêtres, des diacres et des diaconesses.
+  L’Eglise est la maison de Dieu, la colonne et la base de la vérité.
+  Grandeur du mystère de Jésus-Christ.
 ---
-
-
-Qualité des évêques et des prêtres, des diacres et des diaconesses.
-L’Eglise est la maison de Dieu, la colonne et la base de la vérité.
-Grandeur du mystère de Jésus-Christ.
 
 
 1 Voici une vérité certaine : Si quelqu'un désire l'épiscopat, il désire une oeuvre bonne. 2 L'évêque doit donc être irréprochable, n'avoir épousé qu'une seule femme, être sobre, prudent, grave, chaste, hospitalier, capable d'enseigner;

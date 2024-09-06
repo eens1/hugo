@@ -1,9 +1,8 @@
 ---
 title: "Chapter 13"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 And on that day they read in the book of Moses in the hearing of the people: and therein was found written, that the Ammonites and the Moabites should not come in to the church of God for ever:

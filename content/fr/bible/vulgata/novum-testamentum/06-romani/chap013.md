@@ -1,9 +1,8 @@
 ---
 title: "Caput 13"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:47+02:00
 draft: false
 ---
-
 
 
 1 Omnis anima potestatibus sublimioribus subdita sit: Non est enim potestas nisi a Deo: quæ autem sunt, a Deo ordinatæ sunt.

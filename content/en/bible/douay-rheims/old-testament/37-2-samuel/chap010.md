@@ -1,9 +1,8 @@
 ---
 title: "Chapter 10"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass after this, that the king of the children of Ammon died, and Hanon his son reigned in his stead.

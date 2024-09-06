@@ -1,9 +1,8 @@
 ---
 title: "Caput 4"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Ascendit ergo Booz ad portam, et sedit ibi. Cumque vidisset propinquum præterire, de quo prius sermo habitus est, dixit ad eum: Declina paulisper, et sede hic: vocans eum nomine suo. Qui divertit, et sedit.

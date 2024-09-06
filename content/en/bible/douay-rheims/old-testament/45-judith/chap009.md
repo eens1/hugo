@@ -1,9 +1,8 @@
 ---
 title: "Chapter 9"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 And when they were gone, Judith went into her oratory: and putting on haircloth, laid ashes on her head: and falling down prostrate before the Lord, she cried to the Lord, saying:

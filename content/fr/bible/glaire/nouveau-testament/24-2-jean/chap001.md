@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Saint Jean exhorte Electe et ses fils à demeurer fermes dans la charité et dans la foi ; à éviter les hérétiques et à n’avoir pas de commerce avec eux.
 ---
-
-
-Saint Jean exhorte Electe et ses fils à demeurer fermes dans la charité et dans la foi ; à éviter les hérétiques et à n’avoir pas de commerce avec eux.
 
 
 1 Le vieillard à la dame Electe et à ses enfants que j'aime dans la vérité, et non pas moi seul, mais aussi tous ceux qui connaissent la vérité,

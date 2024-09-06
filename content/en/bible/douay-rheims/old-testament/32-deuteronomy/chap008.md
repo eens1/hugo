@@ -1,9 +1,8 @@
 ---
 title: "Chapter 8"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 All the commandments, that I command thee this day, take great care to observe: that you may live, and be multiplied, and going in may possess the land, for which the Lord swore to your fathers.

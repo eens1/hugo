@@ -1,9 +1,8 @@
 ---
 title: "Chapter 21"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 Then the princes of the families of Levi came to Eleazar the priest, and to Joshua the son of Nun, and to the princes of the kindreds of all the tribes of the children of Israel

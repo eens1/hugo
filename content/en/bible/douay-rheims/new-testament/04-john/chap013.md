@@ -1,9 +1,8 @@
 ---
 title: "Chapter 13"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 Before the festival day of the pasch, Jesus knowing that his hour was come, that he should pass out of this world to the Father: having loved his own who were in the world, he loved them unto the end.

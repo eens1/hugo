@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Impiété de Joachaz, roi d’Israël.
+  Il est battu par le roi de Syrie.
+  Joas, son fils, lui succède.
+  Mort d’Elisée et d’Hazaël.
 ---
-
-
-Impiété de Joachaz, roi d’Israël.
-Il est battu par le roi de Syrie.
-Joas, son fils, lui succède.
-Mort d’Elisée et d’Hazaël.
 
 
 1 En la vingt-troisième année de Joas, fils d'Ochozias, roi de Juda, Joachaz, fils de Jéhu, régna sur Israël dans Samarie, pendant dix-sept ans. 2 Il fit le mal devant le Seigneur, et il suivit les péchés de Jéroboam, fils de Nabath, qui fit pécher Israël, et il ne s'en détourna point. 3 Et la fureur du Seigneur fut irritée contre Israël, et il les livra à la main d'Hazaël, roi de Syrie, et à la main de Bénadad, fils d'Hazaël, durant tous ses jours.

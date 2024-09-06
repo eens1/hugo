@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Achab et Josaphat se liguent contre les Syriens.
+  Les faux prophètes d’Achab prédisent la victoire ; Michée lui prédit sa mort.
+  Achab meurt.
+  Ochozias lui succède.
+  Josaphat meurt aussi, et Joram règne à sa place.
 ---
-
-
-Achab et Josaphat se liguent contre les Syriens.
-Les faux prophètes d’Achab prédisent la victoire ; Michée lui prédit sa mort.
-Achab meurt.
-Ochozias lui succède.
-Josaphat meurt aussi, et Joram règne à sa place.
 
 
 1 Trois ans se passèrent donc sans guerre entre la Syrie et Israël.

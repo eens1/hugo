@@ -1,9 +1,8 @@
 ---
 title: "Caput 4"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Et factum est in diebus illis, convenerunt Philisthiim in pugnam: et egressus est Israel obviam Philisthiim in prælium, et castrametatus est iuxta Lapidem adiutorii. Porro Philisthiim venerunt in Aphec,

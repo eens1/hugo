@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Menaces contre les prêtres.
+  Alliance du Seigneur avec la famille de Lévi.
+  Reproches contre les enfants de Juda, qui ont épousé des femmes étrangères, qui ont répudié leurs femmes légitimes, et qui ont douté de la Providence.
 ---
-
-
-Menaces contre les prêtres.
-Alliance du Seigneur avec la famille de Lévi.
-Reproches contre les enfants de Juda, qui ont épousé des femmes étrangères, qui ont répudié leurs femmes légitimes, et qui ont douté de la Providence.
 
 
 1 Et maintenant, à vous ce commandement, ô prêtres. 2 Si vous ne voulez pas écouter et si vous ne voulez pas prendre à cœur de rendre gloire à mon nom, dit le Seigneur des armées, j'enverrai sur vous l'indigence, et je maudirai vos bénédictions; et je les maudirai, parce que vous n'avez pas pris à cœur mes paroles.

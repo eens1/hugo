@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass when the king sat in his house, and the Lord had given him rest on every side from all his enemies,

@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Vision de Daniel sur le Tigre.
+  Le prince des Perses résiste à l’ange Gabriel.
+  Saint Michel vient au secours de Gabriel.
+  Le prince des Perses vient se joindre à celui des Grecs contre Gabriel.
 ---
-
-
-Vision de Daniel sur le Tigre.
-Le prince des Perses résiste à l’ange Gabriel.
-Saint Michel vient au secours de Gabriel.
-Le prince des Perses vient se joindre à celui des Grecs contre Gabriel.
 
 
 1 En la troisième année de Cyrus, roi des Perses, une parole fut révélée à Daniel, par le surnom Baltassar, une parole véritable, et une grande force; et il comprit la parole; car il est besoin d'intelligence dans cette vision.

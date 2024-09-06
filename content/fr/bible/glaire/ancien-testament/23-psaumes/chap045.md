@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 45"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste loue Dieu des avantages qu’il a fait remporter à son peuple.
+  Il représente ensuite le bonheur qu’il a d’être sous sa sainte protection.
 ---
-
-
-Le Psalmiste loue Dieu des avantages qu’il a fait remporter à son peuple.
-Il représente ensuite le bonheur qu’il a d’être sous sa sainte protection.
 
 
 1 Pour la fin, aux fils de Coré, pour les secrets, psaume.

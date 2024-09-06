@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 38"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Jérémie est mis dans une basse-fosse.
+  Abdémélech l’en retire.
+  Sédécias le consulte en secret ; Jérémie lui conseille de se rendre aux Chaldéens.
+  Sédécias lui recommande le secret sur cet entretien.
+  Jérémie le lui garde.
 ---
-
-
-Jérémie est mis dans une basse-fosse.
-Abdémélech l’en retire.
-Sédécias le consulte en secret ; Jérémie lui conseille de se rendre aux Chaldéens.
-Sédécias lui recommande le secret sur cet entretien.
-Jérémie le lui garde.
 
 
 1 Or Saphatias, fils de Mathan, et Gédélias, fils de Phassur, et Juchal, fils de Sélémias, et Phassur, fils de Melchias, entendirent les paroles que Jérémie adressait à tout le peuple, disant :

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 3"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and Philip his brother tetrarch of Iturea and the country of Trachonitis, and Lysanias tetrarch of Abilina:

@@ -1,9 +1,8 @@
 ---
 title: "Caput 4"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Audite verbum Domini filii Israel, quia iudicium Domino cum habitatoribus terræ: non est enim veritas, et non est misericordia, et non est scientia Dei in terra.

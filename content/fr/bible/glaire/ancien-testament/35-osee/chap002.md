@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Réunion d’Israël et de Juda.
+  Réprobation de Samarie et de ses enfants.
+  Rétablissement d’Israël.
 ---
-
-
-Réunion d’Israël et de Juda.
-Réprobation de Samarie et de ses enfants.
-Rétablissement d’Israël.
 
 
 1 Dites à vos frères : Mon peuple; et à votre sœur : Tu as reçu miséricorde. 2 Jugez votre mère, jugez-la; elle n'est pas mon épouse, et moi je ne suis pas son époux; qu'elle ôte ses fornications de sa face, et ses adultères du milieu de son sein.

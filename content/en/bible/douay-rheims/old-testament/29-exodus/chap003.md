@@ -1,9 +1,8 @@
 ---
 title: "Chapter 3"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 Now Moses fed the sheep of Jethro, his father in law, the priest of Madian: and he drove the flock to the inner parts of the desert, and came to the mountain of God, Horeb.

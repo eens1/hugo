@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 31"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Béséléel destiné de Dieu pour travailler au tabernacle.
+  Lois touchant le sabbat.
+  Les deux tables de la loi données à Moïse.
 ---
-
-
-Béséléel destiné de Dieu pour travailler au tabernacle.
-Lois touchant le sabbat.
-Les deux tables de la loi données à Moïse.
 
 
 1 Le Seigneur parla encore à Moïse, disant :2 Voici, j'ai appelé nommément Béséléel, fils d'Uri, fils de Hur de la tribu de Juda, 3 Et je l'ai rempli de l'esprit de Dieu, de sagesse, d'intelligence et de science pour toute sorte d'ouvrage, 4 Pour inventer tout ce qui peut se faire par l'art avec l'or, l'argent et l'airain, 5 Avec du marbre, des pierres précieuses et divers bois. 6 Et je lui ai donné pour compagnon Ooliab, fils d'Achisamech de la tribu de Dan. Et dans le cœur de tout ouvrier habile j'ai mis de la sagesse, afin qu'ils fassent tout ce que je t'ai ordonné :7 Le tabernacle d'alliance, l'arche de témoignage, le propitiatoire qui est dessus, et tous les vases du tabernacle;

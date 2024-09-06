@@ -1,9 +1,8 @@
 ---
 title: "Chapter 11"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 And the princes of the people dwelt at Jerusalem: but the rest of the people cast lots, to take one part in ten to dwell in Jerusalem the holy city, and nine parts in the other cities.

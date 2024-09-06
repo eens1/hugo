@@ -1,9 +1,8 @@
 ---
 title: "Caput 13"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Erant autem in Ecclesia, quæ erat Antiochiæ, prophetæ, et doctores, in quibus Barnabas, et Simon, qui vocabatur Niger, et Lucius Cyrenensis, et Manahen, qui erat Herodis Tetrarchæ collactaneus, et Saulus.

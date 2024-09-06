@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Dieu rassure Moïse et console les Israélites.
+  Descendance de Ruben, de Siméon et de Lévi.
 ---
-
-
-Dieu rassure Moïse et console les Israélites.
-Descendance de Ruben, de Siméon et de Lévi.
 
 
 1 Le Seigneur dit à Moïse : C'est maintenant que tu verras ce que je vais faire à Pharaon; car par l'effet d'une main puissante il les laissera aller, et en vertu d'une main forte, il les pressera de sortir de son pays.

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 89"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste décrit la grandeur de Dieu et la faiblesse de l’homme, dont la vie, déjà très courte, est encore abrégée par ses iniquités.
+  Il prie le Seigneur de visiter et de consoler le peuple d’Israël.
 ---
-
-
-Le Psalmiste décrit la grandeur de Dieu et la faiblesse de l’homme, dont la vie, déjà très courte, est encore abrégée par ses iniquités.
-Il prie le Seigneur de visiter et de consoler le peuple d’Israël.
 
 
 1 Prière de Moïse, l'homme de Dieu. Seigneur, vous êtes devenu un refuge pour nous, de génération en génération,

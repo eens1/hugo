@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Cinquième plaie, la peste sur les animaux ; sixième, les ulcères ; septième, la grêle et le tonnerre.
 ---
-
-
-Cinquième plaie, la peste sur les animaux ; sixième, les ulcères ; septième, la grêle et le tonnerre.
 
 
 1 Mais le Seigneur dit à Moïse : Va vers Pharaon, et dis-lui : Voici ce que dit le Seigneur Dieu des Hébreux: Laisse aller mon peuple, afin qu'il me sacrifie. 2 Que si tu refuses encore et les retiens, 3 Voilà que ma main sera sur tes champs : et sur tes chevaux, et tes ânes, et tes chameaux, et tes bœufs, et tes brebis, une peste très dangereuse. 4 Et le Seigneur fera une distinction merveilleuse entre les possessions d'Israël et les possessions des Egyptiens ; en sorte que rien absolument ne périra de ce qui appartient aux enfants d'Israël. 5 Et le Seigneur en a marqué le temps, disant : Demain le Seigneur accomplira cette parole en ce pays.

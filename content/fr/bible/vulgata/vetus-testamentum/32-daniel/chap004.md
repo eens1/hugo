@@ -1,9 +1,8 @@
 ---
 title: "Caput 4"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 Ego Nabuchodonosor quietus eram in domo mea, et florens in palatio meo:

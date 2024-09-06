@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 Paul and Sylvanus and Timothy, to the church of the Thessalonians. In God our Father and the Lord Jesus Christ,

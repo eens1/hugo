@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Retour d’Israël et de Juda.
+  Reproches du Seigneur contre Israël et contre Juda.
 ---
-
-
-Retour d’Israël et de Juda.
-Reproches du Seigneur contre Israël et contre Juda.
 
 
 1 Dans leur tribulation, ils se lèveront dès le matin pour venir vers moi : Venez, et retournons au Seigneur.

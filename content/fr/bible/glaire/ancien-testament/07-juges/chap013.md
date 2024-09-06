@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Servitudes Israélites sous les Philistins.
+  Naissance de Samson.
 ---
-
-
-Servitudes Israélites sous les Philistins.
-Naissance de Samson.
 
 
 1 Et de nouveau les enfants d'Israël tirent le mal en la présence du Seigneur, qui les livra aux mains des Philistins pendant quarante ans.

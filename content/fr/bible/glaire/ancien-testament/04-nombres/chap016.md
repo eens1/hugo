@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Révolte de Coré, Dathan et Abiron.
+  Murmure du peuple.
+  Aaron arrête l’embrasement qui les consume.
 ---
-
-
-Révolte de Coré, Dathan et Abiron.
-Murmure du peuple.
-Aaron arrête l’embrasement qui les consume.
 
 
 1 Or voilà que Corée, fils d'Isaar, fils de Caath, fils de Lévi, et Dathan et Abiron, les fils d'Eliab, et de plus Hon, fils de Phéleth d'entre les fils de Ruben,

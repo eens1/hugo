@@ -1,9 +1,8 @@
 ---
 title: "Caput 48"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 His ita transactis, nunciatum est Ioseph quod ægrotaret pater suus: qui, assumptis duobus filiis Manasse et Ephraim, ire perrexit.

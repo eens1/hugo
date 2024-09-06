@@ -1,9 +1,8 @@
 ---
 title: "Chapter 33"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 This is the blessing, wherewith the man of God, Moses, blessed the children of Israel, before his death.

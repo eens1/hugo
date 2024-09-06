@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 20"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
+summary: |
+  
+  Le dragon est enfermé dans l’abîme pour mille ans.
+  Les âmes des saints vivent et règnent avec Jésus-Christ.
+  Satan est délié pour un peu de temps.
+  Guerre contre les saints.
+  Satan précipité dans l’enfer.
+  Résurrection.
+  Jugement.
 ---
-
-
-Le dragon est enfermé dans l’abîme pour mille ans.
-Les âmes des saints vivent et règnent avec Jésus-Christ.
-Satan est délié pour un peu de temps.
-Guerre contre les saints.
-Satan précipité dans l’enfer.
-Résurrection.
-Jugement.
 
 
 1 Et je vis un ange qui descendait du ciel, ayant la clef de l'abîme, et une grande chaîne en sa main.

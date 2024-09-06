@@ -1,9 +1,8 @@
 ---
 title: "Chapter 5"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 For we know, if our earthly house of this habitation be dissolved, that we have a building of God, a house not made with hands, eternal in heaven.

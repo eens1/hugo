@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 27"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Lois touchant les vœux et les dîmes.
 ---
-
-
-Lois touchant les vœux et les dîmes.
 
 
 1 Le Seigneur parla encore à Moïse, disant :2 Parle aux enfants d'Israël, et tu leur diras : Un homme qui aura fait un vœu et qui aura promis à Dieu son âme donnera, selon l'estimation, le prix. 3 Si c'est un homme depuis la vingtième année jusqu'à la soixantième année, il donnera cinquante sicles d'argent, selon la mesure du sanctuaire ;

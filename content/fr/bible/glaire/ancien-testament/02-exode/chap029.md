@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 29"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Ordonnances touchant la consécration des prêtres.
+  Part qu’ils doivent avoir aux victimes.
+  Sacrifice perpétuel de deux agneaux par jour.
 ---
-
-
-Ordonnances touchant la consécration des prêtres.
-Part qu’ils doivent avoir aux victimes.
-Sacrifice perpétuel de deux agneaux par jour.
 
 
 1 Mais voici ce que tu feras encore pour qu'ils me soient consacrés dans le sacerdoce. Prends un veau du troupeau et deux béliers sans tache,

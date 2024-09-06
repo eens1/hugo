@@ -1,9 +1,8 @@
 ---
 title: "Caput 29"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Sed et hoc facies, ut mihi in sacerdotio consecrentur. Tolle vitulum de armento, et arietes duos immaculatos,

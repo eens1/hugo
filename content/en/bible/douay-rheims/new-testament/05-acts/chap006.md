@@ -1,9 +1,8 @@
 ---
 title: "Chapter 6"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 And in those days, the number of the disciples increasing, there arose a murmuring of the Greeks against the Hebrews, for that their widows were neglected in the daily ministration.

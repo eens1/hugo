@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Ordre de Dieu d’exterminer les Chananéens.
+  Assurance de la protection du Seigneur.
 ---
-
-
-Ordre de Dieu d’exterminer les Chananéens.
-Assurance de la protection du Seigneur.
 
 
 1 Lorsque le Seigneur ton Dieu t'aura introduit dans la terre dans laquelle tu entres pour la posséder, et qu'il aura détruit beaucoup de nations devant toi, l'Héthéen, le Gergézéen, l'Amorrhéen, le Chananéen, le Phérézéen, l'Hévéen et le Jébuséen, sept nations beaucoup plus nombreuses que toi et beaucoup plus fortes que toi,

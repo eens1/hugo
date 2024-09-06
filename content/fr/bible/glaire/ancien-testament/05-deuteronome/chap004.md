@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Exhortation à l’observation des divins commandements.
+  Menaces contre ceux qui les violeraient.
+  Trois villes de refuge établies en deçà du Jourdain.
 ---
-
-
-Exhortation à l’observation des divins commandements.
-Menaces contre ceux qui les violeraient.
-Trois villes de refuge établies en deçà du Jourdain.
 
 
 1 Maintenant, Israël, écoute les préceptes et les ordonnances que moi je t'enseigne, afin que les pratiquant, tu vives, et que tu possèdes, en y entrant, la terre que le Seigneur Dieu de vos pères va vous donner. 2 Vous n'ajouterez point à la parole que je vous dis, et vous n'en retrancherez point : gardez les commandements du Seigneur votre Dieu que moi, je vous prescris.

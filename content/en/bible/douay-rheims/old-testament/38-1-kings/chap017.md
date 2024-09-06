@@ -1,9 +1,8 @@
 ---
 title: "Chapter 17"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 And Elias the Thesbite, of the inhabitants of Galaad, said to Achab: As the Lord liveth, the God of Israel, in whose sight I stand, there shall not be dew nor rain these years, but according to the words of my mouth.

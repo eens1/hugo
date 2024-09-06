@@ -1,9 +1,8 @@
 ---
 title: "Caput 35"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Interea locutus est Deus ad Iacob: Surge, et ascende Bethel, et habita ibi, facque altare Deo qui apparuit tibi quando fugiebas Esau fratrem tuum.

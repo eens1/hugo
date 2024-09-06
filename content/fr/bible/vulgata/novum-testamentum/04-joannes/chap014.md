@@ -1,9 +1,8 @@
 ---
 title: "Caput 14"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Non turbetur cor vestrum. Creditis in Deum, et in me credite.

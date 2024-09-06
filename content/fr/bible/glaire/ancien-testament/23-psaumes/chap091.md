@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 91"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste loue le Seigneur à la vue de ses ouvrages.
+  Il représente le bonheur des justes et le malheur des pécheurs.
+  Psaume de cantique.
 ---
-
-
-Le Psalmiste loue le Seigneur à la vue de ses ouvrages.
-Il représente le bonheur des justes et le malheur des pécheurs.
-Psaume de cantique.
 
 
 1 Au jour du sabbat.

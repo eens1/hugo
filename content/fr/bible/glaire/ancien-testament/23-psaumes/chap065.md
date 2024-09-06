@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 65"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste invite tous les peuples de la terre à louer Dieu à la vue des merveilles de sa puissance.
+  Il promet de s’acquitter des vœux qu’il lui a faits, et de purifier son cœur de toute attache au péché.
+  Pour la fin.
 ---
-
-
-Le Psalmiste invite tous les peuples de la terre à louer Dieu à la vue des merveilles de sa puissance.
-Il promet de s’acquitter des vœux qu’il lui a faits, et de purifier son cœur de toute attache au péché.
-Pour la fin.
 
 
 1 Cantique d'un psaume de résurrection. Poussez des cris de joie vers Dieu, ô terre tout entière;

@@ -1,9 +1,8 @@
 ---
 title: "Chap. 20 - Visiter et corriger les monastères"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Les abbés qui sont chefs d'ordres, et les autres supérieurs des ordres susdits non sujets aux évêques qui ont juridiction légitime sur d'autres monastères et prieurés qui dépendent d'eux, visiteront selon leur devoir, chacun en leur temps et en leur rang, lesdits monastères et prieurés qui leur sont soumis, encore qu'ils soient en commende; lesquels étant soumis à leurs chefs d'ordres, le saint Concile déclare qu'ils ne sont point compris dans ce qui a été ailleurs arrêté tou chant la visite des monastères en commende; et tous ceux qui auront la conduite des susdits monastères, quels qu'ils soient, seront tenus de recevoir lesdits visiteurs et d'exécuter leurs ordonnances.

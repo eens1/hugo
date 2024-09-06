@@ -1,9 +1,8 @@
 ---
 title: "Chapter 21"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 After this, Jesus shewed himself to the disciples at the sea of Tiberias. And he shewed himself after this manner.

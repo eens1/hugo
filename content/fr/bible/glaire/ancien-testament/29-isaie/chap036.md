@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 36"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Sennachérib marche contre la Judée.
+  Députation de Rabsacès vers Ezéchias.
+  Discours insolent de cet envoyé.
 ---
-
-
-Sennachérib marche contre la Judée.
-Députation de Rabsacès vers Ezéchias.
-Discours insolent de cet envoyé.
 
 
 1 Et il arriva en la quatorzième année du règne du roi Ezéchias, que Sennachérib, roi d'Assyrie, monta contre toutes les villes fortifiées de Juda, et les prit.

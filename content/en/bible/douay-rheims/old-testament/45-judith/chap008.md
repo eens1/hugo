@@ -1,9 +1,8 @@
 ---
 title: "Chapter 8"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 Now it came to pass, when Judith a widow had heard these words, who was the daughter of Merari, the son of Idox, the son of Joseph, the son of Ozias, the son of Elai, the son of Jamnor, the son of Gedeon, the son of Raphaim, the son of Achitob, the son of Melchias, the son of Enan, the son of Nathanias, the son of Salathiel, the son of Simeon, the son of Ruben:

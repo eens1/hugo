@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Holoferne, averti que les enfants d’Israël vont lui résister, demande qui ils sont.
+  Achior les lui fait connaître, et lui déclare, que s’ils n’ont pas offensé leur Dieu, ils seront invincibles.
+  Ce discours irrite son armée.
 ---
-
-
-Holoferne, averti que les enfants d’Israël vont lui résister, demande qui ils sont.
-Achior les lui fait connaître, et lui déclare, que s’ils n’ont pas offensé leur Dieu, ils seront invincibles.
-Ce discours irrite son armée.
 
 
 1 Or on annonça à Holoferne, prince de la milice des Assyriens; que les enfants d'Israël se préparaient à résister, et qu'ils avaient fermé les chemins des montagnes ; 2 Et il s'enflamma d'une fureur excessive dans son grand courroux; alors il appela tous les princes de Moab et les chefs d'Ammon, 3 Et leur dit : Dites-moi qui est ce peuple qui occupe les montagnes, ou quelles sont, et ce que sont, et combien grandes sont leurs villes ; quelle est aussi leur force, ou quelle est leur multitude, ou qui est le roi de leur milice ;

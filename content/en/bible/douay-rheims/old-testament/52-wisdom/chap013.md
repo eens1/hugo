@@ -1,9 +1,8 @@
 ---
 title: "Chapter 13"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 But all men are vain, in whom there is not the knowledge of God: and who by these good things that are seen, could not understand him that is, neither by attending to the works have acknowledged who was the workman:

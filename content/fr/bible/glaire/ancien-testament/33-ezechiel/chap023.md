@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 23"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Samarie et Jérusalem représentées sous le symbole de deux sœurs, Oolla et Ooliba.
+  Oolla devenue infidèle porte la peine de son infidélité.
+  Ooliba devenue plus infidèle qu’Oolla, boira jusqu’à la dernière goutte la coupe d’Oolla.
+  Elles ont commis les mêmes crimes ; elles porteront aussi les mêmes peines.
+  Sous la figure de l’infidélité de ces deux femmes, le Prophète décrit l’idolâtrie de Samarie et de Jérusalem.
 ---
-
-
-Samarie et Jérusalem représentées sous le symbole de deux sœurs, Oolla et Ooliba.
-Oolla devenue infidèle porte la peine de son infidélité.
-Ooliba devenue plus infidèle qu’Oolla, boira jusqu’à la dernière goutte la coupe d’Oolla.
-Elles ont commis les mêmes crimes ; elles porteront aussi les mêmes peines.
-Sous la figure de l’infidélité de ces deux femmes, le Prophète décrit l’idolâtrie de Samarie et de Jérusalem.
 
 
 1 La parole du Seigneur me fut encore adressée, disant :

@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Dénombrement de ceux qui travaillèrent à rebâtir les murs de Jérusalem.
 ---
-
-
-Dénombrement de ceux qui travaillèrent à rebâtir les murs de Jérusalem.
 
 
 1 Or Eliasib, le grand prêtre, se leva, et ses frères, les prêtres, et ils bâtirent la porte du troupeau; eux-mêmes la sanctifièrent, en établirent les battants et la sanctifièrent jusqu'à la tour de cent coudées, jusqu'à la tour Hananéel.

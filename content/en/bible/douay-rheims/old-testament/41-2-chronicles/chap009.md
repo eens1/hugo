@@ -1,9 +1,8 @@
 ---
 title: "Chapter 9"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 And when the queen of Saba heard of the fame of Solomon, she came to try him with hard questions at Jerusalem, with great riches, and camels, which carried spices, and abundance of gold, and precious stones. And when she was come to Solomon, she proposed to him all that was in her heart.

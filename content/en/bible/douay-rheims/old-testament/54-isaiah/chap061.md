@@ -1,9 +1,8 @@
 ---
 title: "Chapter 61"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 The spirit of the Lord is upon me, because the Lord hath anointed me: he hath sent me to preach to the meek, to heal the contrite of heart, and to preach a release to the captives, and deliverance to them that are shut up.

@@ -1,18 +1,18 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Maladie et mort de Lazare.
+  Jésus va à Béthanie pour le ressusciter.
+  Entretien de Marthe avec Jésus.
+  Jésus ressuscite Lazare.
+  Les Juifs veulent perdre Jésus.
+  Caïphe prophétise.
+  Jésus se retire à Ephrem.
+  Les Juifs cherchent l’occasion de le prendre.
 ---
-
-
-Maladie et mort de Lazare.
-Jésus va à Béthanie pour le ressusciter.
-Entretien de Marthe avec Jésus.
-Jésus ressuscite Lazare.
-Les Juifs veulent perdre Jésus.
-Caïphe prophétise.
-Jésus se retire à Ephrem.
-Les Juifs cherchent l’occasion de le prendre.
 
 
 1 Or il y avait un certain malade, Lazare, de Béthanie, du bourg où demeuraient Marie et Marthe sa soeur.

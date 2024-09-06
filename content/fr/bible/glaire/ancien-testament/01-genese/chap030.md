@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 30"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Naissance de Dan, de Nephtali, de Gad, d’Aser, d’Issachar, de Dina et de Joseph.
+  Accord de Jacob et de Laban.
 ---
-
-
-Naissance de Dan, de Nephtali, de Gad, d’Aser, d’Issachar, de Dina et de Joseph.
-Accord de Jacob et de Laban.
 
 
 1 Or Rachel voyant qu'elle était stérile, conçut de la jalousie pour sa sœur, et dit à son mari : Donne-moi des enfants, autrement je mourrai. 2 Jacob irrité lui répondit : Est-ce que moi je suis comme Dieu, qui t'a privée du fruit de ton sein ? 3 Mais Rachel : J'ai, reprit-elle, ma servante Bala : prends-la, afin qu'elle enfante sur mes genoux, et que j'aie par elle des enfants.

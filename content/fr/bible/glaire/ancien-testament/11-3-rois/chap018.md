@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 18"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Le Seigneur envoie Elie devant Achab.
+  Elie persuade à Abdias d’aller annoncer son arrivée à Achab.
+  Entrevue d’Achab et d’Elie.
+  Elie fait descendre le feu du ciel sur son sacrifice, et met à mort les faux prophètes de Baal ; il promet de la pluie et elle tombe.
 ---
-
-
-Le Seigneur envoie Elie devant Achab.
-Elie persuade à Abdias d’aller annoncer son arrivée à Achab.
-Entrevue d’Achab et d’Elie.
-Elie fait descendre le feu du ciel sur son sacrifice, et met à mort les faux prophètes de Baal ; il promet de la pluie et elle tombe.
 
 
 1 Après bien des jours, la parole de Dieu fut adressée à Elie, en la troisième année, disant : Va, et montre-toi à Achab, afin que je donne de la pluie sur la surface de la terre.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Job est frappé d’une plaie horrible.
+  Sa femme lui (l’) insulte.
+  Trois amis, venus pour le consoler, restent auprès de lui sans lui parler.
 ---
-
-
-Job est frappé d’une plaie horrible.
-Sa femme lui (l’) insulte.
-Trois amis, venus pour le consoler, restent auprès de lui sans lui parler.
 
 
 1 Or il arriva, lorsqu'un certain jour les fils de Dieu étaient venus et se tenaient devant le Seigneur, et que Satan aussi était venu parmi eux, et se tenait en sa présence,

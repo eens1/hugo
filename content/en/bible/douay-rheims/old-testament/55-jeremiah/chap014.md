@@ -1,9 +1,8 @@
 ---
 title: "Chapter 14"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 The word of the Lord that came to Jeremiah concerning the words of the drought.

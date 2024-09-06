@@ -1,9 +1,8 @@
 ---
 title: "Caput 8"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Factum est autem post hæc percussit David Philisthiim, et humiliavit eos, et tulit David Frenum tributi de manu Philisthiim.

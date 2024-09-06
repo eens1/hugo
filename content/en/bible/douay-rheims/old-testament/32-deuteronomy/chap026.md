@@ -1,9 +1,8 @@
 ---
 title: "Chapter 26"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And when thou art come into the land which the Lord thy God will give thee to possess, and hast conquered it, and dwellest in it:

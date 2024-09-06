@@ -1,9 +1,8 @@
 ---
 title: "Chapter 25"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 These are also parables of Solomon, which the men of Ezechias, king of Juda, copied out.

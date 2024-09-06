@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Samuel sacre Saül.
+  Saül prophétise.
+  Il est élu roi par le sort, reconnu par le peuple ; il se retire à Gabaa.
 ---
-
-
-Samuel sacre Saül.
-Saül prophétise.
-Il est élu roi par le sort, reconnu par le peuple ; il se retire à Gabaa.
 
 
 1 Or, Samuel prit le petit vase d'huile et le répandit sur la tête de Saül, puis il le baisa et dit : Voilà que le Seigneur t'a oint comme prince sur son héritage et tu délivreras son peuple des mains de ses ennemis, qui sont autour de lui. Et ceci sera pour toi le signe que Dieu t'a oint comme prince :

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 11"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 Now there was a certain man sick, named Lazarus, of Bethania, of the town of Mary and of Martha her sister.

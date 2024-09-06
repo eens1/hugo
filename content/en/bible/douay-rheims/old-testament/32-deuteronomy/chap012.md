@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 These are the precepts and judgments, that you must do in the land, which the Lord the God of thy fathers will give thee, to possess it all the days that thou shalt walk upon the earth.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 11"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 And the spirit lifted me up, and brought me into the east gate of the house of the Lord, which looketh towards the rising of the sun: and behold in the entry of the gate five and twenty men: and I saw in the midst of them Jezonias the son of Azur, and Pheltias the son of Banaias, princes of the people.

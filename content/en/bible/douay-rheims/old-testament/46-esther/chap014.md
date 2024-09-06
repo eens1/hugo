@@ -1,9 +1,8 @@
 ---
 title: "Chapter 14"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 Queen Esther also, fearing the danger that was at hand, had recourse to the Lord.

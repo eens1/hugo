@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Ordonnance touchant les esclaves.
+  Lois contre les homicides, etc.
+  Peine du talion.
 ---
-
-
-Ordonnance touchant les esclaves.
-Lois contre les homicides, etc.
-Peine du talion.
 
 
 1 Voici les ordonnances que tu leur proposeras.

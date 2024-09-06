@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Discours séditieux des Israélites ; Dieu les condamne à mourir dans le désert.
+  Combat contre les Chananéens et les Amalécites.
 ---
-
-
-Discours séditieux des Israélites ; Dieu les condamne à mourir dans le désert.
-Combat contre les Chananéens et les Amalécites.
 
 
 1 Ainsi toute la multitude vociférant, pleura cette nuit-là. 2 Et tous les enfants d'Israël murmurèrent contre Moïse et Aaron, disant :3 Plût Dieu que nous fussions morts en Egypte! et plût à Dieu que nous périssions dans cette vaste solitude, et que le Seigneur ne nous conduise pas dans cette terre, afin que nous ne tombions point sous le glaive, et que nos femmes et nos enfants ne soient pas amenés captifs ! Ne vaut-il pas mieux retourner en Egypte? 4 Et ils se dirent l'un à l'autre: Etablissons-nous un chef, et retournons en Egypte.

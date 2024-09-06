@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  L’Epouse continue à exprimer ses désirs.
+  Union des Epoux.
 ---
-
-
-L’Epouse continue à exprimer ses désirs.
-Union des Epoux.
 
 
 1 Qui me donnera de l'avoir pour frère, suçant les mamelles de ma mère, afin que je te trouve dehors, que je le donne un baiser, et que désormais personne ne me méprise? 2 Je te prendrai, et je te conduirai dans la maison de ma mère : là tu m'instruiras, et je te présenterai une coupe de vin aromatique, et le suc nouveau de mes grenades. 3 Sa main gauche sera sous ma tête, et sa main droite m'embrassera.

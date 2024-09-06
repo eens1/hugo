@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 Now when Mardochai had heard these things, he rent his garments, and put on sackcloth, strewing ashes on his head and he cried with a loud voice in the street in the midst of the city, shewing the anguish of his mind.

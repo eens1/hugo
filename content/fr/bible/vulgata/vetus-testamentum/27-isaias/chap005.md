@@ -1,9 +1,8 @@
 ---
 title: "Caput 5"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Cantabo dilecto meo canticum patruelis mei vineæ suæ. Vinea facta est dilecto meo in cornu filio olei.

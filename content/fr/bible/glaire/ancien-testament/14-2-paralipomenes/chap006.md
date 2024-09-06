@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Prière de Salomon au jour de la dédicace du temple.
 ---
-
-
-Prière de Salomon au jour de la dédicace du temple.
 
 
 1 Alors Salomon dit : Le Seigneur a promis qu'il habiterai dans une nuée;

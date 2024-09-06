@@ -1,9 +1,8 @@
 ---
 title: "Chapter 28"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 He that seeketh to revenge himself, shall find vengeance from the Lord, and he will surely keep his sins in remembrance.

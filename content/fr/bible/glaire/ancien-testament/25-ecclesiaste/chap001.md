@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Tout ce qui est ici-bas n’est que vanité.
+  Rien de nouveau sous le soleil.
+  La sagesse même est la science sont des sources de peines et d’afflictions.
 ---
-
-
-Tout ce qui est ici-bas n’est que vanité.
-Rien de nouveau sous le soleil.
-La sagesse même est la science sont des sources de peines et d’afflictions.
 
 
 1 Paroles de l'Ecclésiaste, fils de David, roi de Jérusalem.

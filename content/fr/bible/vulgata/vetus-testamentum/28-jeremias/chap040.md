@@ -1,9 +1,8 @@
 ---
 title: "Caput 40"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 Sermo, qui factus est ad Ieremiam a Domino, postquam dimissus est a Nabuzardan magistro militiæ de Rama, quando tulit eum vinctum catenis in medio omnium, qui migrabant de Ierusalem et Iuda, et ducebantur in Babylonem.

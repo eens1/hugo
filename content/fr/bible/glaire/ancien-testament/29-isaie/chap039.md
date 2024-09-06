@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 39"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Ezéchias montre ses trésors aux députés du roi de Babylone.
+  Il en est repris par Isaïe.
 ---
-
-
-Ezéchias montre ses trésors aux députés du roi de Babylone.
-Il en est repris par Isaïe.
 
 
 1 En ce temps-là Mérodach Baladan, fils de Baladan, roi de Babylone, envoya des livres et des présents à Ezéchias; car il avait appris qu'il avait été malade, et qu'il était guéri.

@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Mission des soixante-douze disciples.
+  Malheur des villes impénitentes.
+  Retour des disciples.
+  Mystères cachés aux sages et révélés aux simples.
+  Jésus interrogé par un docteur.
+  Parabole du Samaritain.
+  Jésus chez Marthe et Marie.
 ---
-
-
-Mission des soixante-douze disciples.
-Malheur des villes impénitentes.
-Retour des disciples.
-Mystères cachés aux sages et révélés aux simples.
-Jésus interrogé par un docteur.
-Parabole du Samaritain.
-Jésus chez Marthe et Marie.
 
 
 1 Après cela, le Seigneur désigna encore soixante-douze autres disciples, et les envoya deux à deux devant lui dans toutes les villes et tous les lieux où lui-même devait venir.

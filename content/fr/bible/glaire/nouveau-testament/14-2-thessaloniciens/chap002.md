@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Apostasie qui précèdera l’avènement de Jésus-Christ.
+  Mystère d’iniquité jusqu’à l’avènement de l’Antechrist.
+  Caractère de cet homme de péché, qui doit être exterminé par l’avènement de Jésus-Christ.
+  Saint Paul rend grâces de la foi des Thessaloniciens, et les exhorte à garder les traditions qu’il leur a laissées.
 ---
-
-
-Apostasie qui précèdera l’avènement de Jésus-Christ.
-Mystère d’iniquité jusqu’à l’avènement de l’Antechrist.
-Caractère de cet homme de péché, qui doit être exterminé par l’avènement de Jésus-Christ.
-Saint Paul rend grâces de la foi des Thessaloniciens, et les exhorte à garder les traditions qu’il leur a laissées.
 
 
 1 Or nous vous conjurons, mes frères, par l'avènement de Notre Seigneur Jésus-Christ, et par notre réunion avec lui, 2 De ne point vous laisser si vite ébranler dans vos sentiments, ni effrayer, soit par quelque esprit, soit par des discours, soit par des lettres supposées venir de nous, comme si le jour du Seigneur était proche.

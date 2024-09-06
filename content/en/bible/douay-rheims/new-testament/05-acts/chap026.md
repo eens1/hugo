@@ -1,9 +1,8 @@
 ---
 title: "Chapter 26"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 Then Agrippa said to Paul: Thou art permitted to speak for thyself. Then Paul, stretching forth his hand, began to make his answer.

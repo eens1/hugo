@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Transport de l’arche de la maison d’Obédédom.
+  Michol se moque de David.
 ---
-
-
-Transport de l’arche de la maison d’Obédédom.
-Michol se moque de David.
 
 
 1 Il se construisit aussi des maisons dans la cité de David, et il bâtit un lieu pour l'arche de Dieu, et il lui dressa un tabernacle.

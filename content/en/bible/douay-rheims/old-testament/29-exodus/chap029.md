@@ -1,9 +1,8 @@
 ---
 title: "Chapter 29"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 And thou shalt also do this, that they may be consecrated to me in priesthood. Take a calf from the herd, and two rams without blemish,

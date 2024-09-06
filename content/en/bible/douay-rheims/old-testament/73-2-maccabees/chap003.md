@@ -1,9 +1,8 @@
 ---
 title: "Chapter 3"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 Therefore, when the holy city was inhabited with all peace, and the laws as yet were very well kept, because of the godliness of Onias, the high priest and the hatred his soul had of evil,

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 5"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 And it was told Holofernes the general of the army of the Assyrians, that the children of Israel prepared themselves to resist, and had shut up the ways of the mountains.

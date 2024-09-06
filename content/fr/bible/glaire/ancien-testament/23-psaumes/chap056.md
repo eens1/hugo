@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 56"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David implore le Seigneur au fort de son affliction.
+  Il lui rend grâces de l’avoir délivré, et il lui promet de publier ses louanges parmi les nations.
+  Pour la fin.
 ---
-
-
-David implore le Seigneur au fort de son affliction.
-Il lui rend grâces de l’avoir délivré, et il lui promet de publier ses louanges parmi les nations.
-Pour la fin.
 
 
 1 Ne perdez pas entièrement; par David, pour une inscription de titre, lorsqu'il s'enfuit de devant la face de Saül dans la caverne.

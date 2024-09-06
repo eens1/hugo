@@ -1,9 +1,8 @@
 ---
 title: "Caput 4"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Mulier autem quædam de uxoribus prophetarum clamabat ad Eliseum, dicens: Servus tuus vir meus mortuus est, et tu nosti quia servus tuus fuit timens Dominum: et ecce creditor venit ut tollat duos filios meos ad serviendum sibi.

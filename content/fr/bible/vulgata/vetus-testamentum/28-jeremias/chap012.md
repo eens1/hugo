@@ -1,9 +1,8 @@
 ---
 title: "Caput 12"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 Iustus quidem tu es Domine, si disputem tecum: verumtamen iusta loquar ad te: Quare via impiorum prosperatur: bene est omnibus, qui prævaricantur, et inique agunt?

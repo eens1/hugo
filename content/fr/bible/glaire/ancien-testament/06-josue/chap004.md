@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Monument dressé par Josué après le passage du Jourdain.
 ---
-
-
-Monument dressé par Josué après le passage du Jourdain.
 
 
 1 Et, quand ils eurent passé, le Seigneur dit à Josué :2 Choisis douze hommes, un de chaque tribu, 3 Et ordonne-leur d'emporter du milieu du lit du Jourdain, où se sont arrêtés les pieds des prêtres, douze pierres très dures, que vous placerez dans l'endroit du camp où vous planterez cette nuit les tentes,

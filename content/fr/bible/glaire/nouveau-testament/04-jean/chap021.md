@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Apparition de Jésus à ses disciples près de la mer de Tibériade.
+  Pêche miraculeuse.
+  Amour de saint Pierre.
+  Jésus lui confie ses brebis et lui prédit son martyre.
+  Saint Pierre demande à Jésus ce que deviendra saint Jean.
 ---
-
-
-Apparition de Jésus à ses disciples près de la mer de Tibériade.
-Pêche miraculeuse.
-Amour de saint Pierre.
-Jésus lui confie ses brebis et lui prédit son martyre.
-Saint Pierre demande à Jésus ce que deviendra saint Jean.
 
 
 1 Après cela, Jésus se manifesta de nouveau à ses disciples près de la mer de Tibériade. Or il se manifesta ainsi. 2 Simon Pierre et Thomas, appelé Didyme, Nathanaël, qui était de Cana en Galilée, les fils de Zébédée, et deux autres de ses disciples, se trouvaient ensemble.

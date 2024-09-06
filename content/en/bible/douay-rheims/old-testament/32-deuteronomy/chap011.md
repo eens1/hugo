@@ -1,9 +1,8 @@
 ---
 title: "Chapter 11"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 Therefore love the Lord thy God and observe his precepts and ceremonies, his judgments and commandments at all times.

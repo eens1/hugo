@@ -1,9 +1,8 @@
 ---
 title: "Chapter 6"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 Woe to you that are wealthy in Sion, and to you that have confidence in the mountain of Samaria: ye great men, heads of the people, that go in with state into the house of Israel.

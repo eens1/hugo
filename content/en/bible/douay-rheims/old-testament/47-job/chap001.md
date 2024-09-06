@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 There was a man in the land of Hus, whose name was Job, and that man was simple and upright, and fearing God, and avoiding evil.

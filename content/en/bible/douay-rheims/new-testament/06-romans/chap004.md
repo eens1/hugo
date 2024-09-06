@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 What shall we say then that Abraham hath found, who is our father according to the flesh?

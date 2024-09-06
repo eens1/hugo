@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Présents des princes d’Israël après l’érection du tabernacle et pendant les jours de la dédicace de l’autel.
 ---
-
-
-Présents des princes d’Israël après l’érection du tabernacle et pendant les jours de la dédicace de l’autel.
 
 
 1 Or, il arriva qu'au jour où Moïse acheva le tabernacle, il le dressa, l'oignit et le sanctifia avec tous ses vases ainsi que l'autel et tous ses vases.

@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 26"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Ozias succède à Amasias ; sa piété.
+  Guerre contre les Philistins, les Arabes et les Ammonites.
+  Nombre des troupes d’Ozias.
+  Il porte la main à l’encensoir et est frappé de lèpre.
+  Joatham règne à sa place.
 ---
-
-
-Ozias succède à Amasias ; sa piété.
-Guerre contre les Philistins, les Arabes et les Ammonites.
-Nombre des troupes d’Ozias.
-Il porte la main à l’encensoir et est frappé de lèpre.
-Joatham règne à sa place.
 
 
 1 Ensuite tout le peuple de Juda établit son fils Ozias, âgé de seize ans, roi en la place d'Amasias, son père.

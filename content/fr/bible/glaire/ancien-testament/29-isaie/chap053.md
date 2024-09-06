@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 53"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Le Messie méconnu par son peuple.
+  Naissance obscure du Messie.
+  Ses humiliations, ses souffrances, sa mort.
+  Sa vie nouvelle, sa longue postérité, les succès de son ministère.
 ---
-
-
-Le Messie méconnu par son peuple.
-Naissance obscure du Messie.
-Ses humiliations, ses souffrances, sa mort.
-Sa vie nouvelle, sa longue postérité, les succès de son ministère.
 
 
 1 Qui a cru à ce qu'il a entendu de nous? et à qui le bras du Seigneur a-t-il été révélé?

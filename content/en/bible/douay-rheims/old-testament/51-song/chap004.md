@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 How beautiful art thou, my love, how beautiful art thou! thy eyes are doves' eyes, besides what is hid within. Thy hair is as flocks of goats, which come up from mount Galaad.

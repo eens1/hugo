@@ -1,9 +1,8 @@
 ---
 title: "Caput 43"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 Factum est autem, cum complesset Ieremias loquens ad populum universos sermones Domini Dei eorum, pro quibus miserat eum Dominus Deus eorum ad illos, omnia verba hæc:

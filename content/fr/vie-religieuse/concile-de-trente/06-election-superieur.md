@@ -1,9 +1,8 @@
 ---
 title: "Chap. 6 - Election du supérieur"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Afin que tout se passe comme il faut et sans aucune fraude dans l’élection de quelques supérieurs que ce soit, abbés temporaires, et autres officiers et généraux, comme aussi des abbesses et autres supérieures, le saint Concile sur toutes choses ordonne strictement que tous les susdits soient élus par suffrage secret, de sorte que les noms de ceux qui votent ne soient jamais connus.

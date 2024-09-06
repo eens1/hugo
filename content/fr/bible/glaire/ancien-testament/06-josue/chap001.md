@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Dieu promet à Josué d’être avec lui.
+  Josué ordonne au peuple de se préparer à passer le Jourdain.
 ---
-
-
-Dieu promet à Josué d’être avec lui.
-Josué ordonne au peuple de se préparer à passer le Jourdain.
 
 
 1 Or, il arriva après la mort de Moïse, serviteur du Seigneur, que le Seigneur parla à Josué, fils de Nun, serviteur de Moïse, et qu'il lui dit :2 Moïse, mon serviteur est mort, lève-toi, passe le Jourdain, toi et tout le peuple avec toi, et va dans la terre que je donnerai moi-même aux enfants d'Israël. 3 Tout lieu que la plante de votre pied aura foulé, je vous le livrerai, comme j'ai dit à Moïse.

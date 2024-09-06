@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 149"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste exhorte les Israélites à louer le Seigneur qui doit les combler de gloire et de bonheur, humilier leurs ennemis et les mettre sous leurs pieds.
 ---
-
-
-Le Psalmiste exhorte les Israélites à louer le Seigneur qui doit les combler de gloire et de bonheur, humilier leurs ennemis et les mettre sous leurs pieds.
 
 
 1 Alléluia. Chantez au Seigneur un cantique nouveau : que sa louange retentisse dans l'assemblée des saints.

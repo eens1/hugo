@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  L’acception des personnes condamnée.
+  Estime pour les pauvres.
+  Ne violer la loi en aucun point.
+  La foi sans les oeuvres est inutile pour le salut.
+  Abraham justifié par ses oeuvres jointes à la foi.
 ---
-
-
-L’acception des personnes condamnée.
-Estime pour les pauvres.
-Ne violer la loi en aucun point.
-La foi sans les oeuvres est inutile pour le salut.
-Abraham justifié par ses oeuvres jointes à la foi.
 
 
 1 Mes frères, ne joignez pas l'acception des personnes à la foi que vous avez en Notre Seigneur Jésus-Christ, le Seigneur de la gloire.

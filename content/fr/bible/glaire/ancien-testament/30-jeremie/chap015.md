@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Le Seigneur refuse de pardonner aux habitants de Juda.
+  Le prophète se plaint d’être devenu un sujet de contradiction à son peuple.
+  Il implore le secours du Seigneur.
+  Le Seigneur lui promet de le remplir de force, et de le délivrer de ses ennemis.
 ---
-
-
-Le Seigneur refuse de pardonner aux habitants de Juda.
-Le prophète se plaint d’être devenu un sujet de contradiction à son peuple.
-Il implore le secours du Seigneur.
-Le Seigneur lui promet de le remplir de force, et de le délivrer de ses ennemis.
 
 
 1 Et le Seigneur médit : Quand même Moïse et Samuel se présenteraient devant moi, mon âme ne serait pas pour ce peuple ; chasse-les de ma face, et qu'ils se retirent.

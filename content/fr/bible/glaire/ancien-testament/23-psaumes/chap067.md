@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 67"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste demande au Seigneur qu’il paraisse devant son peuple, et qu’il dissipe ses ennemis par sa présence.
+  Il décrit la pompe de sa marche et les merveilles qu’il opéra dans le désert.
+  Il excite tout le peuple à louer ce souverain Seigneur.
+  Ce psaume, comme en conviennent tous les commentateurs, est le plus difficile à entendre : de là le grand nombre des interprétations diverses.
+  Pour nous, il nous semble que c’est un cantique de triomphe, composé par David dans la cérémonie du transport de l’Arche Sainte de Cariathiarim à Jérusalem ou de la maison d’Obédédom dans le tabernacle dressé à Sion.
+  La plupart des Pères grecs et latins l’appliquent, dans le sens spirituel, à la venue, à la Résurrection, à l’Ascension de Jésus-Christ, à la prédication des Apôtres et à la conversion des Gentils ; saint Paul lui-même en a rapporté un passage à l’Ascension du Sauveur, comme on le verra dans les notes.
+  Pour la fin.
 ---
-
-
-Le Psalmiste demande au Seigneur qu’il paraisse devant son peuple, et qu’il dissipe ses ennemis par sa présence.
-Il décrit la pompe de sa marche et les merveilles qu’il opéra dans le désert.
-Il excite tout le peuple à louer ce souverain Seigneur.
-Ce psaume, comme en conviennent tous les commentateurs, est le plus difficile à entendre : de là le grand nombre des interprétations diverses.
-Pour nous, il nous semble que c’est un cantique de triomphe, composé par David dans la cérémonie du transport de l’Arche Sainte de Cariathiarim à Jérusalem ou de la maison d’Obédédom dans le tabernacle dressé à Sion.
-La plupart des Pères grecs et latins l’appliquent, dans le sens spirituel, à la venue, à la Résurrection, à l’Ascension de Jésus-Christ, à la prédication des Apôtres et à la conversion des Gentils ; saint Paul lui-même en a rapporté un passage à l’Ascension du Sauveur, comme on le verra dans les notes.
-Pour la fin.
 
 
 1 Psaume d'un cantique de David lui-même.

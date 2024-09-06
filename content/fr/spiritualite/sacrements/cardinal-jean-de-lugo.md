@@ -1,9 +1,8 @@
 ---
 title: "Cardinal Jean de Lugo"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Cardinal Jean de Lugo S.J. (1583-1660), *Tractatus de Virtute Fidei Divinae: Disputatio XXII* : "Le deuxième grand doute est de savoir si nous pouvons communiquer avec un hérétique non déclaré uniquement dans les affaires civiles et humaines ou même dans les choses sacrées et spirituelles. Il est certain qu'on ne peut communiquer avec les hérétiques dans les rites propres à une secte hérétique, car cela serait contraire au précepte de confession de la foi et contiendrait une profession implicite de l'erreur. Mais la question concerne des sujets sacrés ne contenant aucune erreur, par ex. s'il est permis d'entendre la messe avec un hérétique, ou de la célébrer en sa présence, ou d'être présent pendant qu'il célèbre selon le rite catholique, etc.

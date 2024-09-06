@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 30"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Retour d’Israël et de Juda.
+  Jour terrible qui le précèdera.
+  Les deux maisons d’Israël et de Juda serviront le Seigneur et David leur roi.
+  Le Seigneur perdra les ennemis de son peuple.
+  Il rassemblera les enfants d’Israël, et les comblera de biens et de gloire.
+  Vengeance qu’il doit auparavant exercer sur son peuple.
 ---
-
-
-Retour d’Israël et de Juda.
-Jour terrible qui le précèdera.
-Les deux maisons d’Israël et de Juda serviront le Seigneur et David leur roi.
-Le Seigneur perdra les ennemis de son peuple.
-Il rassemblera les enfants d’Israël, et les comblera de biens et de gloire.
-Vengeance qu’il doit auparavant exercer sur son peuple.
 
 
 1 Voici la parole qui fut adressée à Jérémie par le Seigneur, disant :

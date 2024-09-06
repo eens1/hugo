@@ -1,9 +1,8 @@
 ---
 title: "Saint François et la conversion du sultan d'Egypte"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 Contrairement à un mythe répandu, saint François n'a pas été, en cette rencontre, ni en aucune autre, le précurseur de l'indifférentisme religieux de la secte Vatican II, bien au contraire. Les récits ci-dessous montrent très clairement le zèle que saint François avait pour la conversion des âmes à la foi catholique, et son refus total de toute complaisance envers les fausses religions.

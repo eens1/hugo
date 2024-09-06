@@ -1,9 +1,8 @@
 ---
 title: "Caput 8"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:47+02:00
 draft: false
 ---
-
 
 
 1 Nihil ergo nunc damnationis est iis, qui sunt in Christo Iesu: qui non secundum carnem ambulant.

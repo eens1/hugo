@@ -1,19 +1,19 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Indissolubilité du mariage.
+  Enfants présentés à Jésus-Christ.
+  Conseil de perfection.
+  Salut des riches difficile.
+  Récompense promise à ceux qui quittent tout pour Jésus-Christ.
+  Passion prédite.
+  Demande des enfants de Zébédée.
+  Domination interdite.
+  Guérison d’un aveugle près de Jéricho.
 ---
-
-
-Indissolubilité du mariage.
-Enfants présentés à Jésus-Christ.
-Conseil de perfection.
-Salut des riches difficile.
-Récompense promise à ceux qui quittent tout pour Jésus-Christ.
-Passion prédite.
-Demande des enfants de Zébédée.
-Domination interdite.
-Guérison d’un aveugle près de Jéricho.
 
 
 1 Partant de là, il vint aux confins de la Judée, au-delà du Jourdain ; et le peuple s'assembla de nouveau près de lui, et, selon sa coutume, il recommença à les instruire.

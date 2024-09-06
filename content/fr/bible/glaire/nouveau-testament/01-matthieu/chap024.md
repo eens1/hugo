@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 24"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Jésus-Christ prédit la ruine de Jérusalem.
+  Questions des diciples à l’occasion de cette prédiction, et réponse de Jésus-Christ.
+  Signes de la ruine de Jérusalem, et du dernier avènement de Jésus-Christ.
 ---
-
-
-Jésus-Christ prédit la ruine de Jérusalem.
-Questions des diciples à l’occasion de cette prédiction, et réponse de Jésus-Christ.
-Signes de la ruine de Jérusalem, et du dernier avènement de Jésus-Christ.
 
 
 1 Et Jésus étant sorti du temple, s'en alla. Alors ses disciples s'approchèrent pour lui faire remarquer les constructions du temple.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Dieu défend à Roboam de faire la guerre aux dix tribus.
+  Les prêtres, les Lévites et tous ceux qui craignent Dieu viennent vers Roboam.
+  Enfants de ce prince.
 ---
-
-
-Dieu défend à Roboam de faire la guerre aux dix tribus.
-Les prêtres, les Lévites et tous ceux qui craignent Dieu viennent vers Roboam.
-Enfants de ce prince.
 
 
 1 Roboam vint donc à Jérusalem, et il convoqua toute la maison de Juda et de Benjamin, cent quatre-vingt mille hommes, choisis et guerriers, pour combattre contre Israël et ramener à lui son royaume.

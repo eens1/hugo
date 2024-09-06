@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Thola et Jaïr, juges d’Israël.
+  Servitude sous les Philistins et les Ammonites.
 ---
-
-
-Thola et Jaïr, juges d’Israël.
-Servitude sous les Philistins et les Ammonites.
 
 
 1 Après Abimélech, parut comme chef en Israël, Thola, fils de Phua, oncle paternel d'Abimélech, homme de la tribu d'Issachar, qui habita à Samir de la, montagne d'Ephraïm;

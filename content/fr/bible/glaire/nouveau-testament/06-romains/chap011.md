@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Dieu s’est réservé un reste d’Israël, tandis que l’autre reste est demeuré dans l’endurcissement.
+  Juifs rejetés à cause de leur incrédulité.
+  Gentils entrés en leur place par miséricorde.
+  Rappel futur des Juifs.
+  Profondeur des jugements de Dieu.
 ---
-
-
-Dieu s’est réservé un reste d’Israël, tandis que l’autre reste est demeuré dans l’endurcissement.
-Juifs rejetés à cause de leur incrédulité.
-Gentils entrés en leur place par miséricorde.
-Rappel futur des Juifs.
-Profondeur des jugements de Dieu.
 
 
 1 Je dis donc : Est-ce que Dieu a rejeté son peuple? Non, sans doute; car moi-même je suis Israélite, de la race d'Abraham, de la tribu du Benjamin ; 2 Dieu n'a point rejeté son peuple qu'il a connu dans sa prescience. Ne savez-vous pas ce que l'Ecriture dit d'Elie, comment il interpelle Dieu contre Israël, disant :3 Seigneur, ils ont tué vos prophètes, démoli vos autels; et moi, je suis resté seul, et ils recherchent mon âme?

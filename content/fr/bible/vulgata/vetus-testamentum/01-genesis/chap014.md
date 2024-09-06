@@ -1,9 +1,8 @@
 ---
 title: "Caput 14"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Factum est autem in illo tempore, ut Amraphel rex Senaar, et Arioch rex Ponti, et Chodorlahomor rex Elamitarum, et Thadal rex Gentium

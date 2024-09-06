@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 44"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Porte orientale qui demeure fermée.
+  Reproche contre les Israélites qui ont introduit des étrangers dans le temple.
+  Prêtres exclus du ministère sacré.
+  La race de Sadoc est confirmée dans le sacerdoce.
+  Règlement pour les prêtres dans le temps de leur service.
 ---
-
-
-Porte orientale qui demeure fermée.
-Reproche contre les Israélites qui ont introduit des étrangers dans le temple.
-Prêtres exclus du ministère sacré.
-La race de Sadoc est confirmée dans le sacerdoce.
-Règlement pour les prêtres dans le temps de leur service.
 
 
 1 Et il me fit retourner vers la voie de la porte du sanctuaire extérieur, qui regardait vers l'orient; et elle était fermée. 2 Et le Seigneur me dit : Cette porte sera fermée; elle ne sera pas ouverte, et aucun homme n'y passera, parce que le Seigneur Dieu d'Israël est entré par cette porte; et elle sera fermée

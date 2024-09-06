@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Samuel est envoyé de Dieu à Bethléhem pour sacrer David.
+  Saül est tourmenté par le malin esprit ; David le soulage par le son de sa harpe.
 ---
-
-
-Samuel est envoyé de Dieu à Bethléhem pour sacrer David.
-Saül est tourmenté par le malin esprit ; David le soulage par le son de sa harpe.
 
 
 1 Elle Seigneur dit à Samuel: Jusqu'à quand pleureras-tu Saül, puisque je l'ai rejeté, afin qu'il ne règne plus sur Israël ? Remplis La corne d'huile, et viens, afin que je t'envoie vers Isaï, le Bethléhémite ; car je me suis choisi un roi entre ses fils. 2 Et Samuel répondit : Comment irai-je ? car Saul l'apprendra, et il me tuera. Et le Seigneur dit : Tu prendras un veau du troupeau en ta main, et tu diras : C'est pour l'immoler au Seigneur que je suis venu. 3 Et tu appelleras Isaï pour la victime, et je te montrerai ce que tu dois faire, et tu oindras celui que je te désignerai.

@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Cantique d’actions de grâces sur la délivrance des deux maisons d’Israël et de Juda.
 ---
-
-
-Cantique d’actions de grâces sur la délivrance des deux maisons d’Israël et de Juda.
 
 
 1 Et tu diras en ce jour-là : Je vous glorifierai. Seigneur, parce que vous avez été irrité contre moi ; mais votre fureur s'est tournée, et vous m'avez consolé.

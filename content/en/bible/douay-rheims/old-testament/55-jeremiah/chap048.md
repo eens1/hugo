@@ -1,9 +1,8 @@
 ---
 title: "Chapter 48"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Against Moab thus saith the Lord of hosts the God of Israel: Woe to Nabo, for it is laid waste, and confounded: Cariathaim is taken: the strong city is confounded and hath trembled.

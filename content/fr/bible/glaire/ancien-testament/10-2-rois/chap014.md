@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Joab obtient de David le retour d’Absalom, et celui-ci revient à Jérusalem.
+  Joab obtient encore qu’il paraisse en présence de David.
 ---
-
-
-Joab obtient de David le retour d’Absalom, et celui-ci revient à Jérusalem.
-Joab obtient encore qu’il paraisse en présence de David.
 
 
 1 Mais Joab, fils de Sarvia, comprenant que le cœur du roi était tourné vers Absalom, 2 Envoya à Thécua, et fit venir de là une femme sage, et lui dit : Feins de pleurer, et revêts-toi d'un vêtement de deuil ; et ne t'oins pas d'huile, afin que tu sois comme une femme qui depuis longtemps pleure un mort ; 3 Et tu entreras chez le roi, et tu lui tiendras un tel discours. Or, Joab mit les paroles en sa bouche.

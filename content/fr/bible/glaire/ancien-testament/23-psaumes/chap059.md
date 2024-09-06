@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 59"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David se plaint à Dieu de ce qu’il a livré son peuple à ses ennemis.
+  Il espère qu’après l’avoir ainsi châtié, il voudra bien de nouveau le protéger.
+  Pour la fin.
 ---
-
-
-David se plaint à Dieu de ce qu’il a livré son peuple à ses ennemis.
-Il espère qu’après l’avoir ainsi châtié, il voudra bien de nouveau le protéger.
-Pour la fin.
 
 
 1 Pour ceux qui seront changés, pour une inscription de titre par David lui-même, pour la doctrine,

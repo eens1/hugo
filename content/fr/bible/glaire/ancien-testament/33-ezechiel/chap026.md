@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 26"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Tyr sera détruite par Nabuchodonosor, pour avoir insulté au malheur de Jérusalem.
+  Sa ruine inspirera la frayeur à tous les peuples maritimes.
 ---
-
-
-Tyr sera détruite par Nabuchodonosor, pour avoir insulté au malheur de Jérusalem.
-Sa ruine inspirera la frayeur à tous les peuples maritimes.
 
 
 1 Et il arriva à la onzième année, au premier jour du mois, que la parole du Seigneur me fut adressée, disant :

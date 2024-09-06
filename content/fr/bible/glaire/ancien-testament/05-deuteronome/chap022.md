@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Charité envers le prochain.
+  Femme accusée de n’avoir pas été trouvée vierge.
+  Peine contre ceux qui auront violé une fille.
 ---
-
-
-Charité envers le prochain.
-Femme accusée de n’avoir pas été trouvée vierge.
-Peine contre ceux qui auront violé une fille.
 
 
 1 Tu ne verras point le bœuf de ton frère ou sa brebis égarés, en passant outre, mais tu les ramèneras à ton frère,

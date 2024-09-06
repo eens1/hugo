@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Booz épouse Ruth.
+  Elle devient mère d’Obed, aïeule de David.
 ---
-
-
-Booz épouse Ruth.
-Elle devient mère d’Obed, aïeule de David.
 
 
 1 Booz donc monta à la porte de la ville et s'y assit. Et lorsqu'il vit passer le parent dont il a été parlé auparavant, il lui dit : Détourne-toi un peu, et assieds-toi ici, l'appelant par son nom. Celui-ci se détourna et s'assit.

@@ -1,9 +1,8 @@
 ---
 title: "Caput 9"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Regina quoque Saba, cum audisset famam Salomonis, venit ut tentaret eum in ænigmatibus in Ierusalem, cum magnis opibus et camelis, qui portabant aromata, et auri plurimum, gemmasque pretiosas. Cumque venisset ad Salomonem, locuta est ei quæcumque erant in corde suo.

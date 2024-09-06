@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Ceinture de Jérémie cachée et pourrie, figure des Juifs rejetés de Dieu.
+  Jérémie les exhorte à faire pénitence ; il leur reproche leurs infidélités et leur annonce les vengeances du Seigneur.
 ---
-
-
-Ceinture de Jérémie cachée et pourrie, figure des Juifs rejetés de Dieu.
-Jérémie les exhorte à faire pénitence ; il leur reproche leurs infidélités et leur annonce les vengeances du Seigneur.
 
 
 1 Voici ce que le Seigneur me dit : Va, et procure-toi une ceinture de lin, et tu la mettras sur tes reins, et tu ne la laveras pas dans l'eau.

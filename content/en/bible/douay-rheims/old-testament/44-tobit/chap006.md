@@ -1,9 +1,8 @@
 ---
 title: "Chapter 6"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 And Tobias went forward, and the dog followed him, and he lodged the first night by the river of Tigris.

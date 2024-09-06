@@ -1,9 +1,8 @@
 ---
 title: "Chapter 6"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass, when Sanaballat, and Tobias, and Gossem the Arabian, and the rest of our enemies, heard that I had built the wall, and that there was no breach left in it, (though at that time I had not set up the doors in the gates,)

@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Pierre repris rend raison de sa conduite.
+  Disciples dispersés prêchant aux Juifs, puis aux gentils.
+  Barnabé et Paul prêchent à Antioche.
+  Disciples appelés Chrétiens.
+  Prophétie d’Agabus.
+  Aumônes pour les chrétiens de Judée.
 ---
-
-
-Pierre repris rend raison de sa conduite.
-Disciples dispersés prêchant aux Juifs, puis aux gentils.
-Barnabé et Paul prêchent à Antioche.
-Disciples appelés Chrétiens.
-Prophétie d’Agabus.
-Aumônes pour les chrétiens de Judée.
 
 
 1 Or les apôtres et les frères, qui étaient en Judée, apprirent que les gentils aussi avaient reçu la parole de Dieu. 2 Et, lorsque Pierre fut revenu à Jérusalem, ceux de la circoncision disputaient contre lui, 3 Disant : Pourquoi es-tu entré chez des hommes incirconcis, et as-tu mangé avec eux? 4 Et Pierre commença à leur exposer les choses par ordre, disant :

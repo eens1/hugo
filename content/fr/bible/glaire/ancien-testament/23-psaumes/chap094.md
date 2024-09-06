@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 94"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste exhorte son peuple à louer Dieu, et à lui obéir dans la vue de sa grandeur et de sa patience, de sa bonté et de sa justice.
+  Louange de cantique à David lui-même.
 ---
-
-
-Le Psalmiste exhorte son peuple à louer Dieu, et à lui obéir dans la vue de sa grandeur et de sa patience, de sa bonté et de sa justice.
-Louange de cantique à David lui-même.
 
 
 1 Venez, réjouissons-nous au Seigneur ; poussons des cris d'allégresse vers Dieu notre salut. 2 Prévenons sa présence par notre louange, et dans des psaumes poussons des cris d'allégresse vers lui.

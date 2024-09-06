@@ -1,9 +1,8 @@
 ---
 title: "Chapter 3"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 It is commonly said: If a man put away his wife, and she go from him, and marry another man, shall he return to her any more? shall not that woman be polluted, and defiled? but thou hast prostituted thyself to many lovers: nevertheless return to me, saith the Lord, and I will receive thee.

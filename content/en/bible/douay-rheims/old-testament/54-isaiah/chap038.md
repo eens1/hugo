@@ -1,9 +1,8 @@
 ---
 title: "Chapter 38"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 In those days Ezechias was sick even to death, and Isaiah the son of Amos the prophet cane unto him, and said to him: Thus saith the Lord: Take order with thy house, for thou shalt die, and not live.

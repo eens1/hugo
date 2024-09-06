@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 50"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Eloge du grand-prêtre Simon, fils d’Onias.
+  Les Israélites exhortés à implorer le secours du Seigneur.
+  Trois peuples dignes de haine.
+  Auteur de ce livre.
+  Heureux ceux qui profiteront de ses instructions.
 ---
-
-
-Eloge du grand-prêtre Simon, fils d’Onias.
-Les Israélites exhortés à implorer le secours du Seigneur.
-Trois peuples dignes de haine.
-Auteur de ce livre.
-Heureux ceux qui profiteront de ses instructions.
 
 
 1 Simon, fils d'Onias, grand prêtre, qui, dans sa vie, a soutenu la maison du Seigneur, et, en ses jours, a fortifié le temple.

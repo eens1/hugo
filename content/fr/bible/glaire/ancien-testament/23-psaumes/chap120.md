@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 120"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste, abandonné des hommes, met toute sa confiance dans le Seigneur.
+  Ce psaume est en forme de dialogue.
+  Cantique des degrés.
 ---
-
-
-Le Psalmiste, abandonné des hommes, met toute sa confiance dans le Seigneur.
-Ce psaume est en forme de dialogue.
-Cantique des degrés.
 
 
 1 J'ai levé les yeux vers les montagnes, d'où me viendra le secours.

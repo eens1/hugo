@@ -1,9 +1,8 @@
 ---
 title: "Caput 15"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Onus Moab. Quia nocte vastata est Ar Moab, conticuit: quia nocte vastatus est murus Moab, conticuit.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Jéhu est sacré roi d’Israël et reçoit l’ordre d’exterminer la maison d’Achab.
+  Il tue Joram.
+  Ochozias est tué par ses gens, et Jézabel est précipitée par sa fenêtre.
 ---
-
-
-Jéhu est sacré roi d’Israël et reçoit l’ordre d’exterminer la maison d’Achab.
-Il tue Joram.
-Ochozias est tué par ses gens, et Jézabel est précipitée par sa fenêtre.
 
 
 1 Or le prophète Elisée appela un des enfants des prophètes, et lui dit : Ceins tes reins, prends ce petit vase d'huile en ta main et va à Ramoth-Galaad. 2 Et lorsque tu seras arrivé là, tu verras Jéhu, fils de Josaphat, fils de Namsi; et, étant entré, tu le feras sortir du milieu de ses frères, et tu l'introduiras dans une chambre secrète.

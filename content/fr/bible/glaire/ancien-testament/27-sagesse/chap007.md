@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Tous entrent dans cette vie et en sortent de la même manière.
+  La sagesse est préférable à tous les autres biens.
+  Avantages qu’on en retire.
+  Louanges de la sagesse.
 ---
-
-
-Tous entrent dans cette vie et en sortent de la même manière.
-La sagesse est préférable à tous les autres biens.
-Avantages qu’on en retire.
-Louanges de la sagesse.
 
 
 1 Je suis assurément, moi aussi homme mortel, semblable à tous, et de la race de cet homme de terre qui le premier fut fait, et dans le sein de ma mère j'ai été formé chair;

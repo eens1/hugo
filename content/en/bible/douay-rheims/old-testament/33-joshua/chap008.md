@@ -1,9 +1,8 @@
 ---
 title: "Chapter 8"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And the Lord said to Joshua: Fear not, nor be thou dismayed: take with thee all the multitude of fighting men, arise, and go up to the town of Hai: Behold I have delivered into thy hand the king thereof, and the people, and the city, and the land.

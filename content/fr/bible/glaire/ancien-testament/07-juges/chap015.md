@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Samson met le feu aux moissons des Philistins.
+  Il bat mille Philistins avec une mâchoire d’âne.
 ---
-
-
-Samson met le feu aux moissons des Philistins.
-Il bat mille Philistins avec une mâchoire d’âne.
 
 
 1 Mais peu de temps après, lorsque les jours de la moisson des blés approchaient, Samson vint, voulant voir sa femme ; et il lui apporta un chevreau. Or, comme il voulait, selon la coutume, entrer dans sa chambre, son père l'empêcha, disant :

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 27"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Job persiste à soutenir son innocence.
+  Il expose les malheurs qui menacent l’hypocrite et l’impie.
 ---
-
-
-Job persiste à soutenir son innocence.
-Il expose les malheurs qui menacent l’hypocrite et l’impie.
 
 
 1 Job, prenant encore de nouveau sa parabole, dit :

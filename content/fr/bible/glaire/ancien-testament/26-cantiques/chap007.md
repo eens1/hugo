@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Eloge de l’Epouse, sa fidélité, ses désirs ardents.
 ---
-
-
-Eloge de l’Epouse, sa fidélité, ses désirs ardents.
 
 
 1 Que verras-tu dans la Sulamite, sinon les chœurs des camps? Que tes pas sont beaux dans les chaussures, fille de prince! Les jointures de tes jambes sont comme ces colliers qui ont été faits par la main d'un habile ouvrier.

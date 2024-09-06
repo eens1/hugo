@@ -1,9 +1,8 @@
 ---
 title: "Chapter 18"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 But thy saints had a very great light, and they heard their voice indeed, but did not see their shape. And because they also did not suffer the same things, they glorified thee:

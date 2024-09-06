@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 131"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste prie le Seigneur de se souvenir de David, et d’accomplir en sa considération les promesses qu’il lui a faites.
 ---
-
-
-Le Psalmiste prie le Seigneur de se souvenir de David, et d’accomplir en sa considération les promesses qu’il lui a faites.
 
 
 1 Cantique des degrés. Souvenez-vous, Seigneur, de David, et de toute sa douceur ;

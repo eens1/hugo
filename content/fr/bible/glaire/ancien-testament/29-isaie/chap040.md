@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 40"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Délivrance d’Israël.
+  Voix qui se fait entendre dans le désert.
+  Manifestation du Seigneur, sa grandeur, sa puissance.
+  Bonheur de ceux qui persévèrent dans l’attente du Seigneur.
 ---
-
-
-Délivrance d’Israël.
-Voix qui se fait entendre dans le désert.
-Manifestation du Seigneur, sa grandeur, sa puissance.
-Bonheur de ceux qui persévèrent dans l’attente du Seigneur.
 
 
 1 Consolez-vous, mon peuple, consolez-vous, dit votre Dieu.

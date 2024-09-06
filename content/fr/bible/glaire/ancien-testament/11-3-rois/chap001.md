@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Abisag réchauffe David dans sa vieillesse.
+  Adonias forme un parti pour se faire déclarer roi.
+  Salomon est établi successeur de David.
+  Il pardonne à Adonias.
 ---
-
-
-Abisag réchauffe David dans sa vieillesse.
-Adonias forme un parti pour se faire déclarer roi.
-Salomon est établi successeur de David.
-Il pardonne à Adonias.
 
 
 1 Or, le roi David était devenu vieux, et il comptait un grand nombre de jours de vie ; et quoiqu'il fût couvert de vêtements, il ne se réchauffait pas. 2 Ses serviteurs lui dirent donc : Cherchons pour notre seigneur le roi une jeune fille vierge, afin qu'elle se tienne devant le roi, qu'elle le soigne, dorme sur son sein, et réchauffe notre seigneur le roi.

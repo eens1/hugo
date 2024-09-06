@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 140"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste prie Dieu d’exaucer sa prière, de le garder de l’impatience, de le préserver de l’amitié et de la compagnie des mécréants.
+  Il se plaint des persécutions qu’il souffre.
 ---
-
-
-Le Psalmiste prie Dieu d’exaucer sa prière, de le garder de l’impatience, de le préserver de l’amitié et de la compagnie des mécréants.
-Il se plaint des persécutions qu’il souffre.
 
 
 1 Psaume de David. Seigneur, j'ai crié vers vous, exaucez-moi : soyez attentif à ma voix, lorsque je crierai vers vous.

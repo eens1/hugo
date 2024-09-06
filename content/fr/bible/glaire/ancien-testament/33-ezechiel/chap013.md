@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Reproches et menaces du Seigneur contre les faux prophètes et les fausses prophétesses.
 ---
-
-
-Reproches et menaces du Seigneur contre les faux prophètes et les fausses prophétesses.
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

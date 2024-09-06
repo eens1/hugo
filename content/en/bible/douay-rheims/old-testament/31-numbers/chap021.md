@@ -1,9 +1,8 @@
 ---
 title: "Chapter 21"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 And when king Arad the Chanaanite, who dwelt towards the south, had heard this, to wit, that Israel was come by the way of the spies, he fought against them, and overcoming them carried off their spoils.

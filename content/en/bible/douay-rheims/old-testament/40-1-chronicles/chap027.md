@@ -1,9 +1,8 @@
 ---
 title: "Chapter 27"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 Now the children of Israel according to their number, the heads of families, captains of thousands and of hundreds, and officers, that served the king according to their companies, who came in and went out every month in the year, under every chief were four and twenty thousand.

@@ -1,19 +1,19 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Simon succède à Jonathas.
+  Il s’oppose aux entreprises de Tryphon.
+  Mort de Jonathas.
+  Simon bâtit un sépulcre pour son père et ses frères.
+  Tryphon tue le jeune Antiochus, et règne à sa place.
+  Simon recherche l’amitié de Démétrius Nicanor, et obtient l’affranchissement de son pays.
+  Il assiège et prend Gaza.
+  La citadelle de Jérusalem lui est rendue.
+  Il met Jean Hyrcan son fils à la tête de l’armée.
 ---
-
-
-Simon succède à Jonathas.
-Il s’oppose aux entreprises de Tryphon.
-Mort de Jonathas.
-Simon bâtit un sépulcre pour son père et ses frères.
-Tryphon tue le jeune Antiochus, et règne à sa place.
-Simon recherche l’amitié de Démétrius Nicanor, et obtient l’affranchissement de son pays.
-Il assiège et prend Gaza.
-La citadelle de Jérusalem lui est rendue.
-Il met Jean Hyrcan son fils à la tête de l’armée.
 
 
 1 Or Simon apprit que Tryphon avait assemblé une armée considérable, afin de venir dans la terre de Juda et de la ravager. 2 Et voyant que le peuple était dans la frayeur et la crainte, il monta à Jérusalem, et assembla le peuple; 3 Et l'exhortant, il dit : Vous, vous savez combien moi et mes frères, et la maison de mon père, nous avons livré de combats pour les lois et pour les saints lieux, et quelles angoisses nous avons éprouvées;

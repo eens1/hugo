@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Saint Pierre rend grâces à Dieu de la vocation des fidèles.
+  Afflictions, épreuves de la foi.
+  Salut annoncé par les prophètes.
+  Sainteté de conduite.
+  Estime du prix de nos âmes.
+  Charité pure et sincère.
+  Régénération par la parole de l’Evangile.
 ---
-
-
-Saint Pierre rend grâces à Dieu de la vocation des fidèles.
-Afflictions, épreuves de la foi.
-Salut annoncé par les prophètes.
-Sainteté de conduite.
-Estime du prix de nos âmes.
-Charité pure et sincère.
-Régénération par la parole de l’Evangile.
 
 
 1 Pierre, apôtre de Jésus-Christ, aux étrangers de la dispersion dans le Pont, la Galatie, la Cappadoce, l'Asie et la Bithynie, élus,

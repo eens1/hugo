@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 20"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Paul va en Macédoine et en Grèce.
+  Il prêche à Troas.
+  Mort et résurrection d’Eutyque.
+  Paul arrive à Milet.
+  Il y assemble les prêtres et les évêques de l’Eglise d’Ephèse.
+  Discours de Paul dans cette assemblée.
 ---
-
-
-Paul va en Macédoine et en Grèce.
-Il prêche à Troas.
-Mort et résurrection d’Eutyque.
-Paul arrive à Milet.
-Il y assemble les prêtres et les évêques de l’Eglise d’Ephèse.
-Discours de Paul dans cette assemblée.
 
 
 1 Après que le tumulte eut cessé, Paul ayant appelé les disciples, et leur ayant fait une exhortation, leur dit adieu, et partit pour aller en Macédoine.

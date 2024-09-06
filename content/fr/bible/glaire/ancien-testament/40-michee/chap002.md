@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Infidélité des Israélites.
+  Vengeances du Seigneur sur eux.
+  Promesse de leur retour de captivité.
 ---
-
-
-Infidélité des Israélites.
-Vengeances du Seigneur sur eux.
-Promesse de leur retour de captivité.
 
 
 1 Malheur à vous, qui songez à l'inutile, et qui inventez le mal sur vos lits ; à la lumière du matin ils l'accomplissent, parce que c'est contre Dieu qu'est élevée leur main.

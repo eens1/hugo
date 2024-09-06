@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1Now it is found in the descriptions of Jeremias, the prophet, that he commanded them that went into captivity, to take the fire, as it hath been signified, and how he gave charge to them that were carried away into captivity.

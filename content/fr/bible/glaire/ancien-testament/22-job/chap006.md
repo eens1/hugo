@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Job justifie ses plaintes.
+  Il souhaite de mourir, de peur de perdre la patience.
+  Il reproche à ses amis l’injustice de leurs accusations.
 ---
-
-
-Job justifie ses plaintes.
-Il souhaite de mourir, de peur de perdre la patience.
-Il reproche à ses amis l’injustice de leurs accusations.
 
 
 1 Or, répondant, Job dit :

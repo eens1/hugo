@@ -1,9 +1,8 @@
 ---
 title: "Chapter 8"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 Let there be a trumpet in thy throat like an eagle upon the house of the Lord: because they have transgressed my covenant, and have violated my law.

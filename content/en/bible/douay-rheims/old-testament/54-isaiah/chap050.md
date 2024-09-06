@@ -1,9 +1,8 @@
 ---
 title: "Chapter 50"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Thus saith the Lord: What is this bill of the divorce of your mother, with which I have put her away? or who is my creditor, to whom I sold you: behold you are sold for your iniquities, and for your wicked deeds have I put your mother away.

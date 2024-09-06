@@ -1,9 +1,8 @@
 ---
 title: "Chapter 114"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:30+02:00
 draft: false
 ---
-
 
 
 1 I have loved, because the Lord will hear the voice of my prayer.

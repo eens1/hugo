@@ -1,9 +1,8 @@
 ---
 title: "Chapter 11"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 As the morning passeth, so hath the king of Israel passed away. Because Israel was a child, and I loved him: and I called my son out of Egypt.

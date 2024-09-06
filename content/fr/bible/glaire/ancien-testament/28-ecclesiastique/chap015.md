@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Celui qui recherche la sagesse la trouvera.
+  Dieu n’est pas l’auteur du péché.
+  Il a laissé à l’homme le choix du bien et du mal.
 ---
-
-
-Celui qui recherche la sagesse la trouvera.
-Dieu n’est pas l’auteur du péché.
-Il a laissé à l’homme le choix du bien et du mal.
 
 
 1 Celui qui craint Dieu fera le bien, et celui qui garde la justice possédera la sagesse ; 2 Et elle viendra au-devant de lui comme une mère honorée; et comme une épouse vierge, elle le recevra.

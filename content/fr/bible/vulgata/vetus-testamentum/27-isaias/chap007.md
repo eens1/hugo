@@ -1,9 +1,8 @@
 ---
 title: "Caput 7"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Et factum est in diebus Achaz filii Ioathan, filii Oziæ regis Iuda, ascendit Rasin rex Syriæ, et Phacee filius Romeliæ rex Israel, in Ierusalem, ad præliandum contra eam: et non potuerunt debellare eam.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 9"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 At the first time the land of Zabulon, and the land of Nephtali was lightly touched: and at the last the way of the sea beyond the Jordan of the Galilee of the Gentiles was heavily loaded.

@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Noces de Cana.
+  Changement de l’eau en vin.
+  Vendeurs chassés du temple.
+  Jésus annonce sa résurrection.
+  Beaucoup croient en lui, mais il ne se fie pas à eux.
 ---
-
-
-Noces de Cana.
-Changement de l’eau en vin.
-Vendeurs chassés du temple.
-Jésus annonce sa résurrection.
-Beaucoup croient en lui, mais il ne se fie pas à eux.
 
 
 1 Trois jours après, il se fit des noces à Cana en Galilée : et la mère de Jésus y était.

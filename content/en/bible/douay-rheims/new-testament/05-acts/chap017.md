@@ -1,9 +1,8 @@
 ---
 title: "Chapter 17"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 And when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a synagogue of the Jews.

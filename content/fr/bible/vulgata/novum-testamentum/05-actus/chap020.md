@@ -1,9 +1,8 @@
 ---
 title: "Caput 20"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:47+02:00
 draft: false
 ---
-
 
 
 1 Postquam autem cessavit tumultus, vocatis Paulus discipulis, et exhortatus eos, valedixit, et profectus est ut iret in Macedoniam.

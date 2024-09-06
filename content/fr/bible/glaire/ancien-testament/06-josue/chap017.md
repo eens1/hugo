@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Partage de la tribu de Manassé.
 ---
-
-
-Partage de la tribu de Manassé.
 
 
 1 Mais un lot échut à la tribu de Manassé (car c'est le premier-né de Joseph), à Machir, premier-né de Manassé et père de Galaad, qui fut un homme belliqueux et qui eut la possession de Galaad et de Basan,

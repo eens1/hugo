@@ -1,18 +1,18 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Devoirs des serviteurs.
+  Faux docteurs.
+  Pauvreté contente.
+  Pièges des richesses.
+  Vertus d’un homme de Dieu.
+  Avènement de Jésus-Christ.
+  Avis pour les riches.
+  Dépôt de la foi.
 ---
-
-
-Devoirs des serviteurs.
-Faux docteurs.
-Pauvreté contente.
-Pièges des richesses.
-Vertus d’un homme de Dieu.
-Avènement de Jésus-Christ.
-Avis pour les riches.
-Dépôt de la foi.
 
 
 1 Que tous les serviteurs qui sont sous le joug estiment leurs maîtres dignes de tout honneur, afin que le nom du Seigneur et la doctrine ne soient pas blasphémés. 2 Que ceux qui ont des maîtres fidèles ne les méprisent point, parce qu'ils sont leurs frères; mais plutôt qu'ils les servent, parce qu'ils sont fidèles et chéris, participants du même bienfait. Enseigne ces choses et exhortes-y.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 3"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 Then we turned and went by the way of Basan: and Og the king of Basan came out to meet us with his people to fight in Edrai.

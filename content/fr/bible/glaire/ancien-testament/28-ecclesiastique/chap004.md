@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Exhortation à l’aumône, à la douceur et à la compassion envers les pauvres.
+  Avantages de la sagesse : elle éprouve les hommes par l’affliction ; comble de biens ceux qui lui demeurent fidèles.
+  Bonne et mauvaise honte.
 ---
-
-
-Exhortation à l’aumône, à la douceur et à la compassion envers les pauvres.
-Avantages de la sagesse : elle éprouve les hommes par l’affliction ; comble de biens ceux qui lui demeurent fidèles.
-Bonne et mauvaise honte.
 
 
 1 Mon fils, ne frustre pas le pauvre de son aumône, et ne détourne pas tes yeux du pauvre.

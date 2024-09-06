@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 42"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Job s’humilie devant le Seigneur, qui reprend ses trois amis.
+  Job prie pour eux.
+  Rétablissement de Job.
+  Sa mort.
 ---
-
-
-Job s’humilie devant le Seigneur, qui reprend ses trois amis.
-Job prie pour eux.
-Rétablissement de Job.
-Sa mort.
 
 
 1 Alors, répondant au Seigneur, Job dit :

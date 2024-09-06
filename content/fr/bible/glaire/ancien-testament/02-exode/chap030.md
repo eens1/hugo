@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 30"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Ordonnances touchant l’autel du parfum.
+  Demi-sicle dû par tête.
+  Bassin d’airain.
+  Parfum.
 ---
-
-
-Ordonnances touchant l’autel du parfum.
-Demi-sicle dû par tête.
-Bassin d’airain.
-Parfum.
 
 
 1 Tu feras aussi pour brûler un parfum, un autel de bois de sétim, 2 Ayant une coudée de longueur, et une de largeur, c'est-à-dire carré, et deux coudées en hauteur. Des cornes en sortiront. 3 Or, tu le revêtiras d'un or très pur, tant la grille que les parois tout autour, et les cornes. Et tu y feras une couronne d'or tout autour, 4 Et deux anneaux d'or sous la couronne, à chaque côté, pour qu'on y passe des leviers et que l'autel puisse être porté. 5 Et les leviers eux-mêmes tu les feras de bois de sétim, et tu les doreras. 6 Et tu placeras l'autel contre le voile qui est suspendu devant l'arche de témoignage, devant le propitiatoire dont est couvert le témoignage, où je te parlerai.

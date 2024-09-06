@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 19"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Lot reçoit les anges à Sodome ; il se sauve à Ségor.
+  Destruction de Sodome et de Gomorrhe.
+  Inceste des filles de lot.
 ---
-
-
-Lot reçoit les anges à Sodome ; il se sauve à Ségor.
-Destruction de Sodome et de Gomorrhe.
-Inceste des filles de lot.
 
 
 1 Cependant les deux Anges vinrent à Sodome vers le soir, et Lot étant assis à la porte de la ville. Dès qu'il les eut vus, il se leva et alla au-devant d'eux, et se prosterna, incliné vers la terre.

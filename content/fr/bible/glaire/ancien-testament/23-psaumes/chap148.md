@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 148"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste invite toutes les créatures à louer le Seigneur.
 ---
-
-
-Le Psalmiste invite toutes les créatures à louer le Seigneur.
 
 
 1 Alléluia. Louez le Seigneur du haut des cieux ; louez-le dans les lieux les plus élevés.

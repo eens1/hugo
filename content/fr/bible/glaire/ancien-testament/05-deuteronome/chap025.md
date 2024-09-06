@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 25"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Peine du fouet.
+  Frère obligé d’épouser la veuve de son frère.
+  Ordre de détruire les Amalécites.
 ---
-
-
-Peine du fouet.
-Frère obligé d’épouser la veuve de son frère.
-Ordre de détruire les Amalécites.
 
 
 1 S'il survient un débat entre quelques hommes, et qu'ils en appellent aux juges, celui qu'ils reconnaîtront pour juste , ils lui donneront la palme de la justice, et celui qu'ils reconnaîtront pour impie, ils le condamneront d'impiété. 2 Que s'ils jugent celui qui a péché, digne de coups, ils le renverseront, et le feront battre devant eux. C'est selon la mesure du péché, que sera la mesure des coups;

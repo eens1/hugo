@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Quatre quadriges (qui) sortent du milieu de quatre montagnes d’airain, et (qui) vont vers différentes parties du monde.
+  Couronne pour le grand-prêtre Jésus, et pour l’homme appelé l’Orient, qui bâtira le temple du Seigneur.
 ---
-
-
-Quatre quadriges (qui) sortent du milieu de quatre montagnes d’airain, et (qui) vont vers différentes parties du monde.
-Couronne pour le grand-prêtre Jésus, et pour l’homme appelé l’Orient, qui bâtira le temple du Seigneur.
 
 
 1 Et je me retournai, et je levai mes yeux, et je vis; et voilà quatre quadriges sortant du milieu de deux montagnes, et les montagnes étaient des montagnes d'airain.

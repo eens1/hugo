@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 Love justice, you that are the judges of the earth. Think of the Lord in goodness, and seek him in simplicity of heart:

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Athalie fait mourir toute la race royale, et usurpe la couronne.
+  Joas est sauvé de ce carnage, et établi ensuite sur le trône.
+  Athalie est mise à mort.
 ---
-
-
-Athalie fait mourir toute la race royale, et usurpe la couronne.
-Joas est sauvé de ce carnage, et établi ensuite sur le trône.
-Athalie est mise à mort.
 
 
 1 Cependant Athalie, mère d'Ochozias, voyant son fils mort, se leva et tua toute la race royale.

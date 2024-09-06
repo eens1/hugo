@@ -1,9 +1,8 @@
 ---
 title: "Chapter 5"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 Then Solomon brought in all those things that David his father had vowed, the silver, and the gold, and all the vessels he put among the treasures of the house of God.

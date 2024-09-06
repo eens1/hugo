@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 When I would have healed Israel, the iniquity of Ephraim was discovered, and the wickedness of Samaria, for they have committed falsehood, and the thief is come in to steal, the robber is without.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 3"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 After she was returned to her mother in law, Noemi said to her: My daughter, I will seek rest for thee, and will provide that it may be well with thee.

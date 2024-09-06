@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Murmure des Israélites puni par un feu envoyé de Dieu.
+  Choix de soixante-dix anciens pour soulager Moïse.
+  Dieu envoie des cailles.
 ---
-
-
-Murmure des Israélites puni par un feu envoyé de Dieu.
-Choix de soixante-dix anciens pour soulager Moïse.
-Dieu envoie des cailles.
 
 
 1 Cependant il s'éleva un murmure du peuple contre le Seigneur, comme se plaignant de la fatigue. Le Seigneur l'ayant entendu, fut irrité; et le feu du Seigneur allumé contre eux, dévora l'extrémité du camp.

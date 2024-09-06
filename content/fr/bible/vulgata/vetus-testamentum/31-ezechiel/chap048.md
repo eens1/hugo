@@ -1,9 +1,8 @@
 ---
 title: "Caput 48"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 Et hæc nomina tribuum a finibus Aquilonis iuxta viam Hethalon pergentibus Emath, atrium Enan terminus Damasci ad Aquilonem iuxta viam Emath. Et erit ei plaga Orientalis Mare, Dan una.

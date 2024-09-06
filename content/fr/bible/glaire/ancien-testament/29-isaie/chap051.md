@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 51"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Rétablissement de Sion.
+  Délivrance d’Israël.
+  Ruine de ses ennemis.
+  Jérusalem consolée.
 ---
-
-
-Rétablissement de Sion.
-Délivrance d’Israël.
-Ruine de ses ennemis.
-Jérusalem consolée.
 
 
 1 Ecoutez-moi, vous qui suivez ce qui est juste, et qui cherchez le Seigneur; portez votre attention sur la pierre dont vous avez été taillés, et sur la cavité de la citerne dont vous avez été arrachés.

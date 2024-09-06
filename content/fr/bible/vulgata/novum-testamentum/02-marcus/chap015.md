@@ -1,9 +1,8 @@
 ---
 title: "Caput 15"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Et confestim, mane consilium facientes summi sacerdotes cum senioribus, et Scribis, et universo concilio, vincientes Iesum, duxerunt, et tradiderunt Pilato.

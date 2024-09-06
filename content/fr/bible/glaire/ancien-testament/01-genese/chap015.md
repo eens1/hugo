@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Dieu promet un fils à Abram.
+  Alliance de Dieu avec Abram.
 ---
-
-
-Dieu promet un fils à Abram.
-Alliance de Dieu avec Abram.
 
 
 1 Ces choses s'étant ainsi passées, la parole du Seigneur se fit entendre à Abram dans une vision, disant : Abram, ne crains pas, je suis ton protecteur et ta récompense grande à l'infini. 2 Et Abram dit : Seigneur Dieu, que me donnerez-vous? moi, je m'en irai sans enfants ; car cet Eliézer de Damas est le fils de l'intendant de ma maison. 3 Et Abram ajouta : Pour moi, vous ne m'avez pas donné de postérité, aussi voilà que le serviteur né dans ma maison sera mon héritier. 4 Et aussitôt la parole du Seigneur se fit entendre à lui, disant: Celui-là ne sera pas ton héritier; mais celui qui sortira de tes entrailles, tu l'auras pour héritier. 5 Et il l'emmena dehors et lui dit : Regarde le ciel, et compte les étoiles, si tu peux. Et il ajouta: Ainsi sera ta postérité.

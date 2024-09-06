@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 Then he ordered that she should go in where his treasures were laid up, and bade her tarry there, and he appointed what should be given her from his own table.

@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Ne pas compter sur des richesses mal acquises.
+  Ne pas abuser de la bonté de Dieu.
+  S’attacher constamment à la justice.
+  Etre circonspect dans ses paroles.
 ---
-
-
-Ne pas compter sur des richesses mal acquises.
-Ne pas abuser de la bonté de Dieu.
-S’attacher constamment à la justice.
-Etre circonspect dans ses paroles.
 
 
 1 Ne compte pas sur des possessions iniques, et ne dis pas : J'ai suffisamment pour vivre ; car cela ne servira de rien au temps de la vengeance et de l'obscurcissement.

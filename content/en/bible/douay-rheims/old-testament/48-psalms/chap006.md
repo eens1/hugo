@@ -1,9 +1,8 @@
 ---
 title: "Chapter 6"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 Unto the end, in verses, a psalm for David, for the octave.

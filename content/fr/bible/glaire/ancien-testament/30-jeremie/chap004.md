@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Promesses du Seigneur en faveur d’Israël.
+  Il exhorte ceux de Juda à prévenir sa colère, et annonce la désolation terrible qui est près de fondre sur eux.
+  Douleurs que ressent le prophète à la vue de ces maux.
+  Le Seigneur promet de ne pas perdre entièrement son peuple.
 ---
-
-
-Promesses du Seigneur en faveur d’Israël.
-Il exhorte ceux de Juda à prévenir sa colère, et annonce la désolation terrible qui est près de fondre sur eux.
-Douleurs que ressent le prophète à la vue de ces maux.
-Le Seigneur promet de ne pas perdre entièrement son peuple.
 
 
 1 Si tu reviens, Israël, dit le Seigneur, convertis-toi à moi : si tu ôtes de devant ma face tes pierres d'achoppement, tu ne seras pas ébranlé.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 I said in my heart: I will go, and abound with delights, and enjoy good things. And I saw that this also was vanity.

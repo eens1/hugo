@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Samuel établit ses enfants juges d’Israël.
+  Les Israélites demandent un roi.
+  Samuel leur présente le droit du roi.
+  Ils persistent dans leur demande.
 ---
-
-
-Samuel établit ses enfants juges d’Israël.
-Les Israélites demandent un roi.
-Samuel leur présente le droit du roi.
-Ils persistent dans leur demande.
 
 
 1 Or, il arriva que, lorsque Samuel fut devenu vieux, il établit ses fils juges d'Israël. 2 Le nom de son fils premier-né fut Joël, et le nom du second, Abia; ils étaient juges à Bersabée

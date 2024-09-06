@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Affection de saint Paul pour les Philippiens.
+  Les liens de saint Paul fortifient les fidèles.
+  Vérité prêchée par esprit d’envie.
+  Confiance de saint Paul.
+  Il est partagé entre Dieu et ses frères.
+  Grande grâce de souffrir pour Jésus-Christ.
 ---
-
-
-Affection de saint Paul pour les Philippiens.
-Les liens de saint Paul fortifient les fidèles.
-Vérité prêchée par esprit d’envie.
-Confiance de saint Paul.
-Il est partagé entre Dieu et ses frères.
-Grande grâce de souffrir pour Jésus-Christ.
 
 
 1 Paul et Timothée, serviteurs de Jésus-Christ, à tous les saints dans le Christ Jésus, qui sont à Philippes, et aussi aux évêques et aux diacres.

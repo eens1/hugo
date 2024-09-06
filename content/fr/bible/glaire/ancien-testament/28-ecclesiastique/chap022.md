@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Homme paresseux.
+  Enfants mal élevés.
+  Femme effrontée.
+  C’est perdre son temps que d’instruire un insensé.
+  Pleurer l’insensé plus qu’une mort ; éviter sa compagnie.
+  De ce qui rompt l’amitié.
+  Garder la fidélité à son ami.
 ---
-
-
-Homme paresseux.
-Enfants mal élevés.
-Femme effrontée.
-C’est perdre son temps que d’instruire un insensé.
-Pleurer l’insensé plus qu’une mort ; éviter sa compagnie.
-De ce qui rompt l’amitié.
-Garder la fidélité à son ami.
 
 
 1 C'est avec une pierre couverte de boue qu'a été lapidé le paresseux; et tous parleront de lui avec mépris. 2 C'est avec de la fiente de bœuf qu'a été lapidé le paresseux ; et quiconque le touchera secouera les mains.

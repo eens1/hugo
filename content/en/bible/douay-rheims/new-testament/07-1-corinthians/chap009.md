@@ -1,9 +1,8 @@
 ---
 title: "Chapter 9"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 Am I not I free? Am not I an apostle? Have not I seen Christ Jesus our Lord? Are not you my work in the Lord?

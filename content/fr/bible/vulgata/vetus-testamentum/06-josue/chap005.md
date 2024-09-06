@@ -1,9 +1,8 @@
 ---
 title: "Caput 5"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Postquam ergo audierunt omnes reges Amorrhæorum, qui habitabant trans Iordanem ad Occidentalem plagam, et cuncti reges Chanaan, qui propinqua possidebant magni maris loca, quod siccasset Dominus fluenta Iordanis coram filiis Israel donec transirent, dissolutum est cor eorum, et non remansit in eis spiritus, timentium introitum filiorum Israel.

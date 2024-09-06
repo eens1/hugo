@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 43"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Conservation et délivrance d’Israël.
+  Le Seigneur est le seul Dieu.
+  Ruine de Babylone.
+  Délivrance et ingratitude d’Israël.
 ---
-
-
-Conservation et délivrance d’Israël.
-Le Seigneur est le seul Dieu.
-Ruine de Babylone.
-Délivrance et ingratitude d’Israël.
 
 
 1 Et maintenant, voici ce que dit le Seigneur, qui t'a créé, ô Jacob, et qui ta formé, ô Israël : Ne crains point, parce que je t'ai racheté, et appelé par ton nom ; tu es mien, toi. 2 Lorsque tu passeras au travers des eaux, je serai avec toi, et les fleuves ne te submergeront pas ; lorsque tu marcheras dans le feu, tu ne seras pas brûlé ; et la flamme n'aura pas d'ardeur pour toi ; 3 Parce que je suis le Seigneur ton Dieu, le saint d'Israël, ton Sauveur ; j'ai donné pour toi, afin de t'être propice, l'Egypte, l'Ethiopie et Saba.

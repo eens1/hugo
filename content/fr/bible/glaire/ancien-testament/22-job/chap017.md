@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Job se plaint des insultes de ses mais, et les exhorte à rentrer en eux-mêmes.
 ---
-
-
-Job se plaint des insultes de ses mais, et les exhorte à rentrer en eux-mêmes.
 
 
 1 Mon esprit s'affaiblira, mes jours seront abrégés, et il ne me reste qu'un sépulcre.

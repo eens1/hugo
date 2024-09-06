@@ -1,9 +1,8 @@
 ---
 title: "Caput 26"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Et venerunt Ziphæi ad Saul in Gabaa, dicentes: Ecce, David absconditus est in colle Hachila, quæ est ex adverso solitudinis.

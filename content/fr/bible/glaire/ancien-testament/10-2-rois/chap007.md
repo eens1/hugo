@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  David se propose de bâtir un temple au Seigneur.
+  Nathan lui déclare que cet honneur sera réservé à son fils.
+  Promesses en faveur de David.
+  David remercie le Seigneur des biens dont il l’a comblé, et le conjure d’accomplir ses promesses.
 ---
-
-
-David se propose de bâtir un temple au Seigneur.
-Nathan lui déclare que cet honneur sera réservé à son fils.
-Promesses en faveur de David.
-David remercie le Seigneur des biens dont il l’a comblé, et le conjure d’accomplir ses promesses.
 
 
 1 Or il arriva que lorsque le roi se fut établi en sa maison, et que le Seigneur lui eut donné le repos de toutes parts du côté de tous ses ennemis, 2 Il dit à Nathan le prophète : Vois-tu que j'habite dans une maison de cèdre, et que l'arche de Dieu est placée au milieu des peaux?

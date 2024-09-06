@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Holoferne fait de terribles menaces à Achior.
+  Il ordonne qu’on le conduise vers Béthulie et qu’on le livre aux enfants d’Israël.
+  Achior leur est livré, et leur raconte ce qui lui est arrivé.
 ---
-
-
-Holoferne fait de terribles menaces à Achior.
-Il ordonne qu’on le conduise vers Béthulie et qu’on le livre aux enfants d’Israël.
-Achior leur est livré, et leur raconte ce qui lui est arrivé.
 
 
 1 Or il arriva que, lorsqu'ils eurent cessé de parler, Holoferne, extrêmement indigné, dit à Achior :2 Parce que tu nous as prophétisé, disant que la nation d'Israël est défendue par son Dieu, afin que je te montre qu'il n'est pas de Dieu si ce n'est Nabuchodonosor, 3 Lorsque nous les aurons tous frappés comme un seul homme, alors et toi aussi avec eux tu périras par le glaive des Assyriens, et tout Israël périra entièrement avec toi ;

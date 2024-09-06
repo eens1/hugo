@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 Unto the end, a psalm for David. How long, O Lord, wilt thou forget me unto the end? how long dost thou turn away thy face from me?

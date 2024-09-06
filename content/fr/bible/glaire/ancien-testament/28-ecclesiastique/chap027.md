@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 27"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Le désir des richesses, source de péché.
+  Les paroles de l’homme découvrent son cœur.
+  Avantage de la justice.
+  Entretiens des pécheurs insupportables.
+  Révéler les secrets, c’est éteindre entièrement l’amitié.
+  Le fourbe haï de Dieu et des hommes.
 ---
-
-
-Le désir des richesses, source de péché.
-Les paroles de l’homme découvrent son cœur.
-Avantage de la justice.
-Entretiens des pécheurs insupportables.
-Révéler les secrets, c’est éteindre entièrement l’amitié.
-Le fourbe haï de Dieu et des hommes.
 
 
 1 A cause de l'indigence, beaucoup ont péché; et celui qui cherche à s'enrichir détourne son œil.

@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Mort de Josaphat.
+  Joram lui succède, et il imite l’impiété des rois d’Israël.
+  Les Iduméens se révoltent contre lui.
+  Lettre qu’il reçoit du prophète Elie.
+  Soulèvement des Philistins et des Arabes.
+  Mort de Joram.
 ---
-
-
-Mort de Josaphat.
-Joram lui succède, et il imite l’impiété des rois d’Israël.
-Les Iduméens se révoltent contre lui.
-Lettre qu’il reçoit du prophète Elie.
-Soulèvement des Philistins et des Arabes.
-Mort de Joram.
 
 
 1 Or Josaphat dormit avec ses pères, et il fut enseveli avec eux dans la cité de David, et son fils Joram régna en sa place.

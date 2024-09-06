@@ -1,9 +1,4 @@
----
-title: "Chapitre 34"
-date: 2024-09-06T18:40:45+02:00
-draft: false
----
-
+# Chapitre 34
 
 
 ***Note*** :  Josué 34, 29-33 : On peut admettre que la fin de ce chapitre a été insérée dans ce livre par une main étrangère, mais autorisée. On aura voulu sans doute réunir en un même corps d’ouvrage tout ce qui avait rapport à l’histoire de Josué, comme il paraît qu’on a fait pour Moïse.

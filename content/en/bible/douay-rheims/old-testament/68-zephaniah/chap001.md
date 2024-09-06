@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 The word of the Lord that came to Zephaniah the son of Chusi, the son of Godolias, the son of Amarias, the son of Ezechias, in the days of Josias, the son of Amon king of Juda.

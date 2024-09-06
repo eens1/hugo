@@ -1,9 +1,8 @@
 ---
 title: "Chapter 9"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 The former indeed had also justifications of divine service and a sanctuary.

@@ -1,9 +1,8 @@
 ---
 title: "Caput 2"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Super custodiam meam stabo, et figam gradum super munitionem: et contemplabor ut videam quid dicatur mihi, et quid respondeam ad arguentem me.

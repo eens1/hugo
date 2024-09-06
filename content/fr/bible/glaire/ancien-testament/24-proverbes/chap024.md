@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 24"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Ne pas envier la prospérité des méchants.
+  N’estimer que la sagesse.
+  Se soutenir dans l’affliction.
+  Ne pas se réjouir de la ruine de ses ennemis.
+  Craindre Dieu et le roi.
+  Eviter la paresse.
 ---
-
-
-Ne pas envier la prospérité des méchants.
-N’estimer que la sagesse.
-Se soutenir dans l’affliction.
-Ne pas se réjouir de la ruine de ses ennemis.
-Craindre Dieu et le roi.
-Eviter la paresse.
 
 
 1 Ne porte pas envie aux hommes méchants, et ne désire pas d'être avec eux ;

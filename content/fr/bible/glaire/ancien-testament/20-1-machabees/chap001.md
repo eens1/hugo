@@ -1,18 +1,18 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Victoires d’Alexandre le Grand.
+  Sa mort.
+  Partage de ses Etats.
+  Juifs impies qui se séparent de l’alliance sainte.
+  Antiochus Epiphane ravage la Judée, et pille le temple.
+  Jérusalem est désolée par ses ordres.
+  Il veut contraindre les Israélites d’abandonner leur loi/
+  Il fait dresser une idole dans le temple.
 ---
-
-
-Victoires d’Alexandre le Grand.
-Sa mort.
-Partage de ses Etats.
-Juifs impies qui se séparent de l’alliance sainte.
-Antiochus Epiphane ravage la Judée, et pille le temple.
-Jérusalem est désolée par ses ordres.
-Il veut contraindre les Israélites d’abandonner leur loi/
-Il fait dresser une idole dans le temple.
 
 
 1 Or, il arriva qu'après qu'Alexandre le Macédonien, fils de Philippe, qui régna le premier dans la Grèce, fut sorti de la terre de Céthim, et qu'il eut frappé Darius, roi des Perses et des Mèdes,

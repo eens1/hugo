@@ -1,19 +1,19 @@
 ---
 title: "Chapitre 26"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Conspiration des Juifs.
+  Parfums répandus sur la tête de Jésus-Christ.
+  Trahison de Judas.
+  Dernière cène.
+  Institution de l’Eucharistie.
+  Renoncement de saint Pierre prédit.
+  Prière de Jésus dans le jardin des Oliviers.
+  Il est pris, conduit chez Caïphe, accusé, condamné, outragé.
+  Renoncement et pénitence de saint Pierre.
 ---
-
-
-Conspiration des Juifs.
-Parfums répandus sur la tête de Jésus-Christ.
-Trahison de Judas.
-Dernière cène.
-Institution de l’Eucharistie.
-Renoncement de saint Pierre prédit.
-Prière de Jésus dans le jardin des Oliviers.
-Il est pris, conduit chez Caïphe, accusé, condamné, outragé.
-Renoncement et pénitence de saint Pierre.
 
 
 1 Or il arriva que lorsque Jésus eut achevé tous ces discours, il dit à ses disciples :2 Vous savez que la pâque se fera dans deux jours, et que le Fils de l'homme sera livré pour être crucifié.

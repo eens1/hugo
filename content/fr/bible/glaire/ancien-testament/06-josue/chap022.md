@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Retour des tribus de Ruben et de Gad, et de la demi-tribu de Manassé.
+  Monument qu’elles élèvent sur le bord du Jourdain.
 ---
-
-
-Retour des tribus de Ruben et de Gad, et de la demi-tribu de Manassé.
-Monument qu’elles élèvent sur le bord du Jourdain.
 
 
 1 Dans le même temps, Josué appela les Rubénites et les Gadites et la demi-tribu de Manassé, 2 Et leur dit : Vous avez fait tout ce que vous a ordonné Moïse, serviteur du Seigneur : à moi aussi, vous m'avez obéi en toutes choses, 3 Et dans ce long temps, vous n'avez pas abandonné vos frères jusqu'au présent jour, gardant le commandement du Seigneur votre Dieu. 4 Puis donc que le Seigneur votre Dieu a donné à vos frères le repos et la paix, comme il a promis, retournez et allez dans vos tabernacles et dans la terre de possession que vous a livrée Moïse, serviteur du Seigneur, au-delà du Jourdain ;

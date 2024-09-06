@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 20"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Jonathas et David renouvellent leur alliance.
+  Saül cherche toujours à perdre David.
+  Jonathas en donne avis à David.
 ---
-
-
-Jonathas et David renouvellent leur alliance.
-Saül cherche toujours à perdre David.
-Jonathas en donne avis à David.
 
 
 1 Or, David s'enfuit de Naïoth, qui est en Ramatha, et étant venu, il dit devant Jonathas : Qu'ai-je fait? quelle est mon iniquité, et quel est mon péché contre ton père, puisqu'il cherche mon âme?

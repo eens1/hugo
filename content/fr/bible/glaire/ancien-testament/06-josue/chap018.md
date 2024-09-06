@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 18"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Tabernacle à Silo.
+  Partage de la tribu de Benjamin.
 ---
-
-
-Tabernacle à Silo.
-Partage de la tribu de Benjamin.
 
 
 1 Tous les enfants d'Israël s'assemblèrent à Silo, et là ils dressèrent le tabernacle de témoignage, et la terre leur fut soumise.

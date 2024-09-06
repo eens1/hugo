@@ -1,9 +1,8 @@
 ---
 title: "Caput 20"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 In anno, quo ingressus est Thathan in Azotum, cum misisset eum Sargon rex Assyriorum, et pugnasset contra Azotum, et cepisset eam:

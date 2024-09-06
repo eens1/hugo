@@ -1,9 +1,8 @@
 ---
 title: "Caput 1"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Factum est autem, postquam mortuus est Saul, ut David reverteretur a cæde Amalec, et maneret in Siceleg duos dies.

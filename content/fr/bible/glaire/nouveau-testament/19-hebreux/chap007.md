@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Caractère de Melchisédech, dont le sacerdoce est le symbole du sacerdoce de Jésus-Christ.
+  Changement du sacerdoce lévitique et de la loi mosaïque, fondé sur leur insuffisance.
+  Excellence de l’alliance nouvelle, et de Jésus-Christ qui en est le médiateur par son sacerdoce. Jésus-Christ est un prêtre saint et immortel.
 ---
-
-
-Caractère de Melchisédech, dont le sacerdoce est le symbole du sacerdoce de Jésus-Christ.
-Changement du sacerdoce lévitique et de la loi mosaïque, fondé sur leur insuffisance.
-Excellence de l’alliance nouvelle, et de Jésus-Christ qui en est le médiateur par son sacerdoce. Jésus-Christ est un prêtre saint et immortel.
 
 
 1 Car ce Melchisédech, roi de Salem et prêtre du Dieu très haut, qui alla au-devant d'Abraham, comme il revenait de la défaite des rois, et qui le bénit;

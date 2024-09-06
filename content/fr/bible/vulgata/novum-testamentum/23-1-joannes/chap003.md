@@ -1,9 +1,8 @@
 ---
 title: "Caput 3"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Videte qualem charitatem dedit nobis Pater, ut filii Dei nominemur et simus. Propter hoc mundus non novit nos: quia non novit eum.

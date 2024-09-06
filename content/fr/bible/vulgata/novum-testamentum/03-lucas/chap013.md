@@ -1,9 +1,8 @@
 ---
 title: "Caput 13"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Aderant autem quidam ipso in tempore, nunciantes illi de Galilæis, quorum sanguinem Pilatus miscuit cum sacrificiis eorum.

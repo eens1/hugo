@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  L’arche du Seigneur est placée dans le temple de Dagon.
+  Cette idole est renversée.
+  Plaie dont Dieu frappe les Philistins.
+  Ils sont obligés de renvoyer l’arche.
 ---
-
-
-L’arche du Seigneur est placée dans le temple de Dagon.
-Cette idole est renversée.
-Plaie dont Dieu frappe les Philistins.
-Ils sont obligés de renvoyer l’arche.
 
 
 1 Or. les Philistins prirent l'arche de Dieu, et la transportèrent de la pierre du Secours à Azot.

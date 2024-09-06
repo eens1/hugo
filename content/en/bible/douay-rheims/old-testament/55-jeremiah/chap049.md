@@ -1,9 +1,8 @@
 ---
 title: "Chapter 49"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Against the children of Ammon. Thus saith the Lord: Hath Israel no sons? or hath he no heir? Why then hath Melchom inherited Gad: and his people dwelt in his cities?

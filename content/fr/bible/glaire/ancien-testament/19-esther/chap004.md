@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Consternation des Juifs.
+  Mardochée instruit Esther de ce qui se passait.
+  Elle se dispose à aller trouver le roi.
 ---
-
-
-Consternation des Juifs.
-Mardochée instruit Esther de ce qui se passait.
-Elle se dispose à aller trouver le roi.
 
 
 1 Lorsque Mardochée eut appris cela, il déchira ses vêtements, et se revêtit d'un sac, répandant de la cendre sur sa tête ; et sur la place du milieu de la ville il criait d'une voix forte, témoignant l'amertume de son âme, 2 Et au milieu de ces lamentations, s'avançant jusqu'à la porte du palais : car il n'était pas permis d'entrer revêtu d'un sac dans le palais du roi. 3 Dans toutes les provinces aussi, dans les villes et dans les lieux dans lesquels l'édit cruel du roi était parvenu, il y avait parmi les Juifs un grand deuil, un jeûne, des cris déchirants, beaucoup se servant de sac et de cendre au lieu de lit.

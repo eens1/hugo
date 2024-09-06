@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Enfants de Jacob.
+  Postérité de Juda jusqu’à David.
+  Enfants de Caleb.
 ---
-
-
-Enfants de Jacob.
-Postérité de Juda jusqu’à David.
-Enfants de Caleb.
 
 
 1 Or les fils d'Israël sont : Ruben, Siméon, Lévi, Juda, Issachar et Zabulon,

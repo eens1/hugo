@@ -1,9 +1,8 @@
 ---
 title: "Chap. 5 - De la Confession"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 D'après l'institution du sacrement de Pénitence déjà expliquée, l'Église universelle a toujours entendu que la confession entière des péchés a aussi été instituée par notre Seigneur, et qu'elle est nécessaire de droit divin, à tous ceux qui sont tombés depuis le Baptême, car notre Seigneur Jésus-Christ, sur le point de monter de la terre au ciel, a laissé les prêtres ses vicaires, comme des juges et des présidents, devant qui les fidèles doivent porter tous les péchés mortels dans lesquels ils seraient tombés, afin que suivant la puissance des clefs qui leur est donnée pour remettre ou retenir les péchés, ils prononcent la sentence. Car il est manifeste que les prêtres ne pourraient exercer cette juridiction sans connaissance de cause, ni garder l'équité dans l'imposition des peines, si les pénitents ne déclaraient leurs péchés qu'en général, et non en particulier et en détail. 

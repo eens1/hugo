@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Tout ce qui est dit dans ce psaume convient si parfaitement à Jésus-Christ, qu’il paraît moins une prophétie qu’une histoire de ses humiliations, de ses souffrances et de la gloire dont elles ont été suivies.
+  Le divin Sauveur en prononça les dernières paroles lorsqu’il était sur la croix.
 ---
-
-
-Tout ce qui est dit dans ce psaume convient si parfaitement à Jésus-Christ, qu’il paraît moins une prophétie qu’une histoire de ses humiliations, de ses souffrances et de la gloire dont elles ont été suivies.
-Le divin Sauveur en prononça les dernières paroles lorsqu’il était sur la croix.
 
 
 1 Pour la fin, pour le secours du matin, psaume de David.

@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  La tribu de Juda est nommée pour marcher à la tête des autres tribus.
+  Défaite d’Adonibézec.
+  Prise de Jérusalem.
+  Plusieurs tribus épargnent les Chananéens.
 ---
-
-
-La tribu de Juda est nommée pour marcher à la tête des autres tribus.
-Défaite d’Adonibézec.
-Prise de Jérusalem.
-Plusieurs tribus épargnent les Chananéens.
 
 
 1 Après la mort de Josué, les enfants d'Israël consultèrent le Seigneur, disant : Qui montera devant nous contre le Chananéen, et sera le chef de la guerre? 2 Et le Seigneur répondit : Juda montera; voilà que j'ai livré la terre en ses mains.

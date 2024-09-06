@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 72"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste fortifie les justes contre le scandale que leur cause la prospérité des méchants, en montrant l’inconstance et le revers de cette prospérité.
 ---
-
-
-Le Psalmiste fortifie les justes contre le scandale que leur cause la prospérité des méchants, en montrant l’inconstance et le revers de cette prospérité.
 
 
 1 Psaume d'Asaph. Que Dieu est bon à Israël, à ceux qui ont le cœur droit!

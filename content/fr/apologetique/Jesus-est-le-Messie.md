@@ -1,11 +1,11 @@
 ---
 title: "Jésus est le Messie annoncé"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Extrait de la Cité Mystique de Dieu de la Vén. Marie de Agreda.
 ---
-
-
-Extrait de la Cité Mystique de Dieu de la Vén. Marie de Agreda.
 
 
 *Trois jours après, la très-pure Marie et Joseph trouvèrent l’Enfant Jésus dans le Temple proposant des questions aux docteurs.*

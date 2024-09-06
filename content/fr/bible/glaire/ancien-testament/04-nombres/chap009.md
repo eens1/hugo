@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Lois pour la célébration de la Pâque.
+  De la colonne de nuée.
 ---
-
-
-Lois pour la célébration de la Pâque.
-De la colonne de nuée.
 
 
 1 Le Seigneur parla à Moïse dans le désert de Sinaï, à la seconde année après qu'ils furent sortis de la terre d'Egypte, au premier mois, disant :2 Que les enfants d'Israël fassent la Pâque en son temps,

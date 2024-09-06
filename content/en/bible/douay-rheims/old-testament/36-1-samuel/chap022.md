@@ -1,9 +1,8 @@
 ---
 title: "Chapter 22"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 David therefore went from thence, and fled to the cave of Odollam. And when his brethren, and all his father's house, had heard of it, they went down to him thither.

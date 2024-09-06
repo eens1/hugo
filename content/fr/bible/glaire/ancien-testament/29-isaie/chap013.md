@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Ruine de Babylone par les Mèdes et les Perses.
 ---
-
-
-Ruine de Babylone par les Mèdes et les Perses.
 
 
 1 Malheur accablant de Babylone qu'a vu Isaïe, fils d'Amos.

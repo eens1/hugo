@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 44"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Ce psaume est comme l’épithalame du mariage de Jésus-Christ et de l’Eglise.
+  Le Psalmiste chante leurs louanges et relève leur bonheur.
 ---
-
-
-Ce psaume est comme l’épithalame du mariage de Jésus-Christ et de l’Eglise.
-Le Psalmiste chante leurs louanges et relève leur bonheur.
 
 
 1 Pour la fin, pour ceux qui seront changés, aux fils de Coré, pour l'intelligence. Cantique pour le bien-aimé.

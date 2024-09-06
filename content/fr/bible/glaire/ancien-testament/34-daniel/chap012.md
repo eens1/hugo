@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Délivrance du peuple de Dieu.
+  Résurrection.
+  Gloire des saints.
+  Terme de la durée de la grande désolation.
 ---
-
-
-Délivrance du peuple de Dieu.
-Résurrection.
-Gloire des saints.
-Terme de la durée de la grande désolation.
 
 
 1 Mais en ce temps-là s'élèvera Michel le grand prince, qui est pour les fils de ton peuple ; et viendra un temps, tel qu'il n'y en a pas eu depuis que les nations ont commencé d'être jusqu'alors. Et en ce temps-là, sera sauvé quiconque de ton peuple sera trouvé écrit dans le livre.

@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 32"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Siège de Jérusalem.
+  Jérémie achète un champ dont il fait conserver le contrat en signe du retour de la captivité.
+  Sa prière au Seigneur.
+  Vengeances du Seigneur contre son peuple infidèle, et promesse de le rétablir.
 ---
-
-
-Siège de Jérusalem.
-Jérémie achète un champ dont il fait conserver le contrat en signe du retour de la captivité.
-Sa prière au Seigneur.
-Vengeances du Seigneur contre son peuple infidèle, et promesse de le rétablir.
 
 
 1 Parole qui fut adressée à Jérémie par le Seigneur en la dixième année de Sédécias, roi de Juda; c'est la dix-huitième année de Nabuchodonosor.

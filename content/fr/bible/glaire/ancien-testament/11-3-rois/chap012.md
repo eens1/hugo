@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Roboam donne lieu à la séparation des dix tribus, qui choisissent Jéroboam pour roi.
+  Roboam se prépare à faire la guerre à Jéroboam.
+  Le prophète Séméias le lui défend.
+  Culte impie des veaux d’or établi par Jéroboam.
 ---
-
-
-Roboam donne lieu à la séparation des dix tribus, qui choisissent Jéroboam pour roi.
-Roboam se prépare à faire la guerre à Jéroboam.
-Le prophète Séméias le lui défend.
-Culte impie des veaux d’or établi par Jéroboam.
 
 
 1 Or Roboam vint à Sichem; car c'est là que tout Israël s'était assemblé pour l'établir roi.

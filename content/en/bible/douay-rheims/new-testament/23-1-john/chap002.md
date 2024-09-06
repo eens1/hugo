@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 My little children, these things I write to you, that you may not sin. But if any man sin, we have an advocate with the Father, Jesus Christ the just.

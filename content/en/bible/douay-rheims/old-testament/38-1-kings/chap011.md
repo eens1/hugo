@@ -1,9 +1,8 @@
 ---
 title: "Chapter 11"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 And king Solomon loved many strange women, besides the daughter of Pharao, and women of Moab, and of Ammon, and of Edom, and of Sidon, and of the Hethites:

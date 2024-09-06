@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Murmures des Juifs grecs.
+  Election des sept diacres.
+  Etienne, plein de foi, fait des miracles.
+  Il est accusé faussement.
 ---
-
-
-Murmures des Juifs grecs.
-Election des sept diacres.
-Etienne, plein de foi, fait des miracles.
-Il est accusé faussement.
 
 
 1 Or en ces jours-là, le nombre des disciples croissant, il s'éleva un murmure des Grecs contre les Hébreux, de ce que leurs veuves étaient négligées dans la distribution de chaque jour.

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David loue le Seigneur de l’avoir rendu victorieux de ses ennemis.
+  Il assure que Dieu protégera de même tous ceux qui auront recours à lui.
 ---
-
-
-David loue le Seigneur de l’avoir rendu victorieux de ses ennemis.
-Il assure que Dieu protégera de même tous ceux qui auront recours à lui.
 
 
 1 Pour la fin, pour les mystères du Fils, psaume de David.

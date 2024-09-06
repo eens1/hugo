@@ -1,9 +1,8 @@
 ---
 title: "Chapter 14"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass in Iconium that they entered together into the synagogue of the Jews and so spoke that a very great multitude both of the Jews and of the Greeks did believe.

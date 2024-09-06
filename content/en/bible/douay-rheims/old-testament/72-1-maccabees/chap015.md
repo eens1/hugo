@@ -1,9 +1,8 @@
 ---
 title: "Chapter 15"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 And king Antiochus, the son of Demetrius, sent letters from the isles of the sea to Simon, the priest, and prince of the nation of the Jews, and to all the people:

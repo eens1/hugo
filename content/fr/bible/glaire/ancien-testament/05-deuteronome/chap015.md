@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Année sabbatique.
+  Affranchissement des esclaves.
+  Usure tolérée envers les étrangers.
+  Soin des pauvres.
+  Premiers-nés qu’on doit offrir au Seigneur.
 ---
-
-
-Année sabbatique.
-Affranchissement des esclaves.
-Usure tolérée envers les étrangers.
-Soin des pauvres.
-Premiers-nés qu’on doit offrir au Seigneur.
 
 
 1 A la septième année, tu feras la rémission, 2 Qui sera célébrée de cette manière : Celui à qui il est dû quelque chose par son ami ou son prochain et son frère, ne pourra le redemander, parce que c'est l'année de la rémission du Seigneur. 3 Tu l'exigeras du voyageur et de l'étranger : tu n'auras pas le pouvoir de le redemander à ton concitoyen et à un de tes proches. 4 Et il n'y aura aucun indigent et aucun mendiant parmi vous, afin que le Seigneur ton Dieu te bénisse dans la terre qu'il va te livrer en possession. 5 Si cependant tu écoutes la voix du Seigneur ton Dieu, et que tu observes tout ce qu'il a commandé, et que moi aujourd'hui, je te prescris, il te bénira comme il a promis. 6 Tu prêteras à beaucoup de nations, mais toi-même, tu ne recevras de prêt de personne. Tu domineras sur plusieurs nations, et personne ne te dominera.

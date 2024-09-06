@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 35"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Le Seigneur confond l’infidélité des habitants de Juda par la fidélité des Réchabites.
+  Menaces contre les habitants de Juda.
+  Promesses en faveur des Réchabites.
 ---
-
-
-Le Seigneur confond l’infidélité des habitants de Juda par la fidélité des Réchabites.
-Menaces contre les habitants de Juda.
-Promesses en faveur des Réchabites.
 
 
 1 Parole qui fut adressée à Jérémie par le Seigneur, dans les jours de Joakim, fils de Josias, roi de Juda, disant :

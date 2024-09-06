@@ -1,9 +1,8 @@
 ---
 title: "Chapter 24"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 The Lord shewed me: and behold two baskets full of figs, set before the temple of the Lord: after that Nabuchodonosor king of Babylon had carried away Jechonias the son of Joakim the king of Juda, and his chief men, and the craftsmen, and engravers of Jerusalem, and had brought them to Babylon.

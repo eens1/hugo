@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Servitude sous Jabin.
+  Debbora et Barac défont Sisara, général des troupes de Jabin.
 ---
-
-
-Servitude sous Jabin.
-Debbora et Barac défont Sisara, général des troupes de Jabin.
 
 
 1 Et les enfants d'Israël recommencèrent à faire le mal en la présence du Seigneur après la mort d'Aod, 2 Et le Seigneur les livra aux mains de Jabin, roi de Chanaan, qui régna dans Asor ; or, il avait pour général de son armée un homme du nom de Sisara; et lui-même habitait à Haroseth des nations.

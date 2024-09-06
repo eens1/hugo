@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Cérémonie du transport de l’arche dans le sanctuaire.
 ---
-
-
-Cérémonie du transport de l’arche dans le sanctuaire.
 
 
 1 Salomon donc apporta tout ce qu'avait voué David, son père, l'argent, l'or et tous les vases, et il les mit dans les trésors de la maison de Dieu.

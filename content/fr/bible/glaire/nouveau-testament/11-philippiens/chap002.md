@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Union.
+  Humilité.
+  Abaissement et gloire de Jésus-Christ.
+  Opérer le salut avec crainte et tremblement.
+  Zèle de saint Paul.
+  Vertu de Timothée.
+  Louange d’Epaphrodite.
 ---
-
-
-Union.
-Humilité.
-Abaissement et gloire de Jésus-Christ.
-Opérer le salut avec crainte et tremblement.
-Zèle de saint Paul.
-Vertu de Timothée.
-Louange d’Epaphrodite.
 
 
 1 Si donc il est quelque consolation dans le Christ, quelque douceur dans la charité, quelque communion d'esprit; s'il est des entrailles de commisération, 2 Comblez ma joie, étant dans les mêmes sentiments, ayant la même charité, la même âme, la même pensée; 3 Rien par esprit de contention, ni par vaine gloire, mais par humilité, croyant les autres au-dessus de soi, 4 Chacun ayant égard, non à ses propres intérêts, mais à ceux d'autrui.

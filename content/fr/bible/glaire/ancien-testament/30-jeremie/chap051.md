@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 51"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Suite de la prophétie contre Babylone.
+  Ordre donné par Jérémie à Saraïas qui allait à Babylone.
 ---
-
-
-Suite de la prophétie contre Babylone.
-Ordre donné par Jérémie à Saraïas qui allait à Babylone.
 
 
 1 Voici ce que dit le Seigneur : Voilà que moi je susciterai sur Babylone et sur ses habitants, qui ont élevé leur cœur contre moi, comme un vent pestilentiel. 2 Et j'enverrai contre Babylone des gens le van à la main; et ils la vanneront, et ils ruineront sa terre. De tous côtés ils sont venus sur elle au jour de son affliction. 3 Que celui qui tend son arc ne le tende pas, et que nul ne monte cuirassé ; n'épargnez point ses jeunes hommes ; tuez toute sa milice.

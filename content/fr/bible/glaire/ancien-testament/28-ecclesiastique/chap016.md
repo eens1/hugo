@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Ne pas se réjouir d’avoir beaucoup d’enfants, s’ils sont impies.
+  Dieu extermine les méchants.
+  Il récompense les bons.
+  Il voit le fond des cœurs.
+  Ses voies sont impénétrables, ses jugements terribles, sa puissance infinie.
 ---
-
-
-Ne pas se réjouir d’avoir beaucoup d’enfants, s’ils sont impies.
-Dieu extermine les méchants.
-Il récompense les bons.
-Il voit le fond des cœurs.
-Ses voies sont impénétrables, ses jugements terribles, sa puissance infinie.
 
 
 1 Ne te réjouis pas en des fils impies, s'ils se mutiplient; et ne mets pas ton bonheur en eux, s'ils n'ont pas la crainte de Dieu. 2 Ne te confie pas en leur vie, et sur leurs travaux ne porte pas tes regards.

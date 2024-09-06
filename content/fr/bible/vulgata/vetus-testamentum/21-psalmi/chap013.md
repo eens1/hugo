@@ -1,9 +1,8 @@
 ---
 title: "Caput 13"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:52+02:00
 draft: false
 ---
-
 
 
 1 In finem, Psalmus David. Dixit insipiens in corde suo: Non est Deus. Corrupti sunt, et abominabiles facti sunt in studiis suis: non est qui faciat bonum, non est usque ad unum.

@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Celui qui prêche l’évangile a le droit de vivre de l’Evangile.
+  Saint Paul met sa gloire à ne pas user de ce droit.
+  Il se fait tout à tous pour les attirer à Jésus-Christ.
+  Nous courons tous dans la lice.
+  Saint Paul nous y anime par son exemple.
 ---
-
-
-Celui qui prêche l’évangile a le droit de vivre de l’Evangile.
-Saint Paul met sa gloire à ne pas user de ce droit.
-Il se fait tout à tous pour les attirer à Jésus-Christ.
-Nous courons tous dans la lice.
-Saint Paul nous y anime par son exemple.
 
 
 1 Ne suis-je pas libre? Ne suis-je pas apôtre? N'ai-je pas vu Jésus-Christ Notre Seigneur? N'êtes-vous pas mon oeuvre dans le Seigneur? 2 Et si pour d'autres je ne suis pas apôtre, je le suis cependant pour vous ; car vous êtes le sceau de mon apostolat dans le Seigneur. 3 Ma défense contre ceux qui m'interrogent, la voici :4 N'avons-nous pas le pouvoir de manger et de boire? 5 N'avons-nous pas le pouvoir de mener partout avec nous une femme soeur, de même que les autres apôtres et les frères du Seigneur, et Céphas?

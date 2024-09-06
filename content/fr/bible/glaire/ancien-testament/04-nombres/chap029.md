@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 29"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Sacrifice pour la fête des Trompettes, pour celle de l’Expiation et pour celle des Tabernacles.
 ---
-
-
-Sacrifice pour la fête des Trompettes, pour celle de l’Expiation et pour celle des Tabernacles.
 
 
 1 Le premier jour du septième , mois sera aussi vénérable et saint pour vous : vous ne ferez aucune , œuvre servile en ce jour, parce que c'est le jour du son éclatant et des trompettes.

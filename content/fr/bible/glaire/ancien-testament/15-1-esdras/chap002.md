@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Dénombrement des enfants d’Israël qui retournèrent de Babylone en Judée avec Zorobabel.
 ---
-
-
-Dénombrement des enfants d’Israël qui retournèrent de Babylone en Judée avec Zorobabel.
 
 
 1 Voici les fils de la province qui montèrent d*entre les captifs qu'avait transportés à Babylone, Nabuchodonosor, roi de Babylone, et qui retournèrent à Jérusalem et en Juda, chacun dans sa ville.

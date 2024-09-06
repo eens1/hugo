@@ -1,9 +1,8 @@
 ---
 title: "Chapter 31"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 But after that he had heard the words of the sons of Laban, saying: Jacob hath taken away all that was our father's, and being enriched by his substance is become great.

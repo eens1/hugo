@@ -1,9 +1,8 @@
 ---
 title: "Chapter 27"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And David said in his heart: I shall one day or other fall into the hands of Saul: is it not better for me to flee, and to be saved in the land of the Philistines, that Saul may despair of me, and cease to seek me in all the coasts of Israel? I will flee then out of his hands.

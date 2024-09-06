@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Saint Paul salue les Thessaloniciens ; il rend grâces pour eux, et prêche parmi eux avec un grand succès.
+  Ils ont servi de modèle aux peuples voisins, chez qui leur foi est devenue célèbre.
 ---
-
-
-Saint Paul salue les Thessaloniciens ; il rend grâces pour eux, et prêche parmi eux avec un grand succès.
-Ils ont servi de modèle aux peuples voisins, chez qui leur foi est devenue célèbre.
 
 
 1 Paul, Silvain et Timothée, à l'Eglise des Thessaloniciens, en Dieu le Père, et le Seigneur Jésus-Christ.

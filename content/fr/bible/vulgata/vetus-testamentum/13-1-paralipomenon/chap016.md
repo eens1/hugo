@@ -1,9 +1,8 @@
 ---
 title: "Caput 16"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Attulerunt igitur arcam Dei, et constituerunt eam in medio tabernaculi, quod tetenderat ei David: et obtulerunt holocausta, et pacifica coram Deo.

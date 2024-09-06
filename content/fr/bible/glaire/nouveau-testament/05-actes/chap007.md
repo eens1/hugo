@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Discours de saint Etienne devant le Conseil des Juifs.
+  Il leur reproche leurs infidélités.
+  Il est emmené hors de la ville et lapidé.
+  Sa charité pour ses ennemis.
+  Saul consent à sa mort.
 ---
-
-
-Discours de saint Etienne devant le Conseil des Juifs.
-Il leur reproche leurs infidélités.
-Il est emmené hors de la ville et lapidé.
-Sa charité pour ses ennemis.
-Saul consent à sa mort.
 
 
 1 Alors le prince des prêtres lui demanda : Les choses sont-elles ainsi? 2 Il répondit : Hommes, mes frères et mes pères, écoutez : Le Dieu de gloire apparut à notre père Abraham lorsqu'il était en Mésopotamie, avant qu'il demeurât à Charan,

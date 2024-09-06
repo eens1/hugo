@@ -1,18 +1,18 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Parabole des vignerons homicides et de la pierre angulaire.
+  Rendre à César ce qui est à César.
+  Résurrection des morts.
+  Vie angélique.
+  Amour de Dieu et du prochain.
+  Le Messie Fils et Seigneur de David.
+  Scribes superbes.
+  Veuve donnant de son nécessaire.
 ---
-
-
-Parabole des vignerons homicides et de la pierre angulaire.
-Rendre à César ce qui est à César.
-Résurrection des morts.
-Vie angélique.
-Amour de Dieu et du prochain.
-Le Messie Fils et Seigneur de David.
-Scribes superbes.
-Veuve donnant de son nécessaire.
 
 
 1 Et il commença à leur parler en paraboles : Un homme planta une vigne ; il l'entoura d'une haie, creusa un pressoir, y bâtit une tour; il la loua ensuite à des vignerons, et partit pour un voyage.

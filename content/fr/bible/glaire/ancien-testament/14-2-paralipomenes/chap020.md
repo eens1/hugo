@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 20"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Les Moabites, les Ammonites et leurs alliés marchent contre Josaphat.
+  Ce prince a recours à Dieu, et ses ennemis se tuent entre eux.
+  Il fait alliance avec Ochozias, et il en est repris.
 ---
-
-
-Les Moabites, les Ammonites et leurs alliés marchent contre Josaphat.
-Ce prince a recours à Dieu, et ses ennemis se tuent entre eux.
-Il fait alliance avec Ochozias, et il en est repris.
 
 
 1 Après cela les enfants de Moab et les enfants d'Ammon, et avec eux des Ammonites, s'assemblèrent contre Josaphat pour combattre contre lui.

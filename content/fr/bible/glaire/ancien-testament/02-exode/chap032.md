@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 32"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Le peuple adore le veau d’or.
+  Moïse brise les tables de la loi.
+  Punition des Israélites.
+  Moïse prie pour eux.
 ---
-
-
-Le peuple adore le veau d’or.
-Moïse brise les tables de la loi.
-Punition des Israélites.
-Moïse prie pour eux.
 
 
 1 Cependant le peuple voyant le retard que mettait Moïse à descendre de la montagne, et s'étant assemblé contre Aaron, dit: Lève-toi, fais-nous des dieux qui nous précèdent; car pour Moïse, cet homme qui nous a retirés de la terre d'Egypte, nous ignorons ce qui lui est arrivé.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 5"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 Whosoever believeth that Jesus is the Christ, is born of God. And every one that loveth him who begot, loveth him also who is born of him.

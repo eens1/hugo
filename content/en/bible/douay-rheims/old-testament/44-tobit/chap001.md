@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 Tobias of the tribe and city of Nephtali, (which is in the upper parts of Galilee above Naasson, beyond the way that leadeth to the west, having on the right hand the city of Sephet,)

@@ -1,21 +1,21 @@
 ---
 title: "Chapitre 27"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Conseil des Juifs contre Jésus-Christ.
+  Désespoir de Judas.
+  Jésus devant Pilate ; Barabbas lui est préféré.
+  Cris des Juifs contre Jésus-Christ.
+  Couronnement d’épines ; insultes.
+  Jésus-Christ est conduit au Calvaire et crucifié.
+  Ténèbres.
+  Mort de Jésus-Christ.
+  Miracles après sa mort.
+  Joseph d’Arimathie prend soin de sa sépulture.
+  Gardes mis au sépulcre.
 ---
-
-
-Conseil des Juifs contre Jésus-Christ.
-Désespoir de Judas.
-Jésus devant Pilate ; Barabbas lui est préféré.
-Cris des Juifs contre Jésus-Christ.
-Couronnement d’épines ; insultes.
-Jésus-Christ est conduit au Calvaire et crucifié.
-Ténèbres.
-Mort de Jésus-Christ.
-Miracles après sa mort.
-Joseph d’Arimathie prend soin de sa sépulture.
-Gardes mis au sépulcre.
 
 
 1 Or le matin étant venu, tous les princes des prêtres et les anciens du peuple tinrent conseil contre Jésus, pour le livrer à la mort.

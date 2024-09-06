@@ -1,9 +1,8 @@
 ---
 title: "Chapter 11"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 And Roboam came to Jerusalem, and called together all the house of Juda and of Benjamin, a hundred and fourscore thousand chosen men and warriors, to fight against Israel, and to bring back his kingdom to him.

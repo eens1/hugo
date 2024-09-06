@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 18"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Ezéchias rétablit le culte du Seigneur dans sa pureté.
+  Sennachérib s’avance contre Jérusalem.
+  Discours impie et menaçants de Rabsacès, officier de Sennachérib.
 ---
-
-
-Ezéchias rétablit le culte du Seigneur dans sa pureté.
-Sennachérib s’avance contre Jérusalem.
-Discours impie et menaçants de Rabsacès, officier de Sennachérib.
 
 
 1 En la troisième année d'Osée, fils d'Ela, roi d'Israël, régna Ezéchias, fils d'Achaz, roi de Juda.

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Création du monde.
+  Dieu soumet toutes les créatures à l’homme.
 ---
-
-
-Création du monde.
-Dieu soumet toutes les créatures à l’homme.
 
 
 1 Au commencement Dieu créa le ciel et la terre.

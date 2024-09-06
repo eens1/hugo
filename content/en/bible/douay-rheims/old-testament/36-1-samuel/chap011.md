@@ -1,9 +1,8 @@
 ---
 title: "Chapter 11"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass about a month after this, that Naas, the Ammonite, came up, and began to fight against Jabes Galaad. And all the men of Jabes said to Naas: Make a covenant with us, and we will serve thee.

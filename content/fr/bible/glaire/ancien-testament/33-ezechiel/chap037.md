@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 37"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Prophétie du retour de la captivité des Juifs, sous la figure d’un champ plein d’ossements secs qui revivent.
+  Réunion d’Israël et de Juda.
+  Un seul roi les commandera.
+  Le sanctuaire du Seigneur sera fixé au milieu d’eux.
 ---
-
-
-Prophétie du retour de la captivité des Juifs, sous la figure d’un champ plein d’ossements secs qui revivent.
-Réunion d’Israël et de Juda.
-Un seul roi les commandera.
-Le sanctuaire du Seigneur sera fixé au milieu d’eux.
 
 
 1 La main du Seigneur fut sur moi, et elle me mena dehors par l'esprit du Seigneur, et elle me conduisit au milieu d'un champ, qui était plein d'ossements.

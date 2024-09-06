@@ -1,9 +1,8 @@
 ---
 title: "Chapter 29"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 In the tenth year, the tenth month, the eleventh day of the month, the word of the Lord came to me, saying:

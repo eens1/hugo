@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Fils qui doit naître à Isaïe.
+  Désolation prochaine des deux royaumes d’Israël et de Syrie.
+  Désolation de Juda.
+  Vains efforts des ennemis de Juda.
+  Le Seigneur devient une pierre de scandale pour les deux maisons d’Israël et de Juda.
+  Désolation du royaume des dix tribus.
 ---
-
-
-Fils qui doit naître à Isaïe.
-Désolation prochaine des deux royaumes d’Israël et de Syrie.
-Désolation de Juda.
-Vains efforts des ennemis de Juda.
-Le Seigneur devient une pierre de scandale pour les deux maisons d’Israël et de Juda.
-Désolation du royaume des dix tribus.
 
 
 1 Et le Seigneur me dit : Prends un grand livre et écris-y en style d'homme : Enlève promptement les dépouilles, prends vite le butin.

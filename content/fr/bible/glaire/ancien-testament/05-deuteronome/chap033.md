@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 33"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Moïse bénit les douze tribus et prédit ce qui doit leur arriver.
 ---
-
-
-Moïse bénit les douze tribus et prédit ce qui doit leur arriver.
 
 
 1 Voici la bénédiction dont Moïse, homme de Dieu, bénit les enfants d'Israël avant sa mort.

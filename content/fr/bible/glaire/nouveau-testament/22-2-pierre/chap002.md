@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Faux docteurs, châtiment qui leur est réservé.
+  Exemples de la justice de Dieu sur les démons, sur le monde par le déluge, sur Sodome et Gomorrhe.
+  Faux docteurs caractérisés.
+  Rechute pire que le premier état.
 ---
-
-
-Faux docteurs, châtiment qui leur est réservé.
-Exemples de la justice de Dieu sur les démons, sur le monde par le déluge, sur Sodome et Gomorrhe.
-Faux docteurs caractérisés.
-Rechute pire que le premier état.
 
 
 1 Mais il y a eu aussi de faux prophètes dans le peuple, comme il y aura également parmi vous des maîtres menteurs, qui introduiront des sectes de perdition, et renieront le Seigneur qui nous a rachetés, attirant sur eux une prompte perdition. 2 Et beaucoup verront leurs dérèglements, et par eux la voie de la vérité sera blasphémée. 3 Et, dans leur avarice, ils trafiqueront de vous au moyen de paroles artificieuses : leur jugement déjà ancien n'est pas interrompu, ni leur perte endormie.

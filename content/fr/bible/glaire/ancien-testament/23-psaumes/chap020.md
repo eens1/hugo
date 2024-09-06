@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 20"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Ce psaume est une suite du précédent.
+  Dans celui-là David demandait à Dieu la victoire sur ses ennemis.
+  Dans celui-ci il le remercie de la lui avoir accordée.
+  Il convient parfaitement à Jésus-Christ triomphant du démon et demandant la même grâce pour ses membres.
 ---
-
-
-Ce psaume est une suite du précédent.
-Dans celui-là David demandait à Dieu la victoire sur ses ennemis.
-Dans celui-ci il le remercie de la lui avoir accordée.
-Il convient parfaitement à Jésus-Christ triomphant du démon et demandant la même grâce pour ses membres.
 
 
 1 Pour la fin, psaume de David.

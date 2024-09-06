@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 146"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste relève la bonté, la sagesse et la puissance de Dieu, qui éclatent dans toutes ses œuvres, et dans le soin qu’il prend de ses créatures.
 ---
-
-
-Le Psalmiste relève la bonté, la sagesse et la puissance de Dieu, qui éclatent dans toutes ses œuvres, et dans le soin qu’il prend de ses créatures.
 
 
 1 Alléluia. Louez le Seigneur, parce qu'il est bon de lui chanter un psaume : qu'à notre Dieu louange soit agréable et digne de lui.

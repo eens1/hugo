@@ -1,9 +1,8 @@
 ---
 title: "Chapter 14"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 A wise woman buildeth her house: but the foolish will pull down with her hands that also which is built.

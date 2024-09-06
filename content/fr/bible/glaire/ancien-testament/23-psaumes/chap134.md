@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 134"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste exhorte les ministres du Seigneur à le louer des bontés qu’il a eues pour Jacob, et des faveurs dont il a comblé sa postérité.
 ---
-
-
-Le Psalmiste exhorte les ministres du Seigneur à le louer des bontés qu’il a eues pour Jacob, et des faveurs dont il a comblé sa postérité.
 
 
 1 Alléluia. Louez le nom du Seigneur, louez le Seigneur, vous ses serviteurs,

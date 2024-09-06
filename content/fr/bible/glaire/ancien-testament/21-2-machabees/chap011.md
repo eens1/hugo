@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Lysias vient en Judée avec une armée nombreuse.
+  Les Juifs invoquent le Seigneur et remportent la victoire.
+  Lysias leur demanda la paix ; Judas l’accorde.
+  Lettre de Lysias aux Juifs.
+  Lettre d’Antiochus Eupator à Lysias et aux Juifs.
+  Lettre des Romains aux Juifs.
 ---
-
-
-Lysias vient en Judée avec une armée nombreuse.
-Les Juifs invoquent le Seigneur et remportent la victoire.
-Lysias leur demanda la paix ; Judas l’accorde.
-Lettre de Lysias aux Juifs.
-Lettre d’Antiochus Eupator à Lysias et aux Juifs.
-Lettre des Romains aux Juifs.
 
 
 1 Or, peu de temps après, Lysias, gouverneur du roi et son parent, et préposé aux affaires du royaume, supportant avec peine ce qui était arrivé,

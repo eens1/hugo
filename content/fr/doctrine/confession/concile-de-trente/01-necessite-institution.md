@@ -1,9 +1,8 @@
 ---
 title: "Chap. 1 - De la nécessité, et de l'institution du sacrement de Pénitence"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 Si tous ceux qui sont régénérés par le Baptême en conservaient une assez grande reconnaissance envers Dieu pour demeurer constamment dans la justice qu'ils y ont reçue par sa grâce et son bienfait, il n'aurait pas été besoin d'établir d'autre sacrement que le Baptême pour la rémission des péchés. Mais Dieu, qui est riche en miséricorde, connaissant la fragilité de notre nature, a bien voulu encore établir un remède pour rendre la vie à ceux mêmes qui depuis le Baptême se seraient livrés à la servitude du péché et à la puissance du démon, et ce remède est le sacrement de Pénitence, par lequel le bienfait de la mort de Jésus-Christ est appliqué à ceux qui sont tombés après le Baptême.

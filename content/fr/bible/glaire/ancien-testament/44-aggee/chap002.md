@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Le temple rebâti paraît bien inférieur au premier ; mais sa gloire sera beaucoup plus grande par la présence du Messie.
+  Construction du temple précédée des vengeances du Seigneur, et suivie de ses bénédictions.
 ---
-
-
-Le temple rebâti paraît bien inférieur au premier ; mais sa gloire sera beaucoup plus grande par la présence du Messie.
-Construction du temple précédée des vengeances du Seigneur, et suivie de ses bénédictions.
 
 
 1 Au vingt-quatrième jour, au sixième mois, en la seconde année du roi Darius;

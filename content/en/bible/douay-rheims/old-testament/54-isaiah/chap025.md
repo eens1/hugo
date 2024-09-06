@@ -1,9 +1,8 @@
 ---
 title: "Chapter 25"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 O Lord, thou art my God, I will exalt O thee, and give glory to thy name: for thou hast done wonderful things, thy designs of old faithful, amen.

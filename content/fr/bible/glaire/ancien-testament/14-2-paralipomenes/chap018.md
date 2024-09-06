@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 18"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Josaphat fait alliance avec Achab.
+  Ils se liguent ensemble contre les Syriens.
+  Les faux prophètes promettent la victoire à Achab.
+  Michée prédit la mort de ce prince.
+  Bataille où Achab est blessé et meurt.
 ---
-
-
-Josaphat fait alliance avec Achab.
-Ils se liguent ensemble contre les Syriens.
-Les faux prophètes promettent la victoire à Achab.
-Michée prédit la mort de ce prince.
-Bataille où Achab est blessé et meurt.
 
 
 1 Josaphat fut donc riche, très illustre, et allié avec Achab.

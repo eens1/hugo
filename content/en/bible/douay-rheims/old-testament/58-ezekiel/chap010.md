@@ -1,9 +1,8 @@
 ---
 title: "Chapter 10"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 And I saw and behold in the firmament that was over the heads of the cherubims, there appeared over them as it were the sapphire stone, as the appearance of the likeness of a throne.

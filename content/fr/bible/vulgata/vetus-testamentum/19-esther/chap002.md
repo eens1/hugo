@@ -1,9 +1,8 @@
 ---
 title: "Caput 2"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 His ita gestis, postquam regis Assueri indignatio deferbuerat, recordatus est Vasthi, et quæ fecisset, vel quæ passa esset:

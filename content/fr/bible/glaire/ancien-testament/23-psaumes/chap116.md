@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 116"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste invite toutes les nations à louer le Seigneur de sa miséricorde et de sa fidélité à exécuter ses promesses.
+  Alleluia.
 ---
-
-
-Le Psalmiste invite toutes les nations à louer le Seigneur de sa miséricorde et de sa fidélité à exécuter ses promesses.
-Alleluia.
 
 
 1 Alléluia. Nations, louez toutes le Seigneur; peuples, louez-le tous;

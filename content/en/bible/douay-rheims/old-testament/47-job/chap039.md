@@ -1,9 +1,8 @@
 ---
 title: "Chapter 39"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 Knowest thou the time when the wild goats bring forth among the rocks, or hast thou observed the hinds when they fawn?

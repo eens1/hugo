@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Prédication de saint Jean ; sa pénitence ; son baptême ; ses reproches contre les Pharisiens et les Saduccéens.
+  Jésus-Christ vient à lui et reçoit son baptême.
 ---
-
-
-Prédication de saint Jean ; sa pénitence ; son baptême ; ses reproches contre les Pharisiens et les Saduccéens.
-Jésus-Christ vient à lui et reçoit son baptême.
 
 
 1 Or, en ces jours-là, vint Jean-Baptiste prêchant dans le désert de Judée,

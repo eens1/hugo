@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 46"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Eloge de Josué et de Caleb ; des juges en général, et en particulier de Samuel.
 ---
-
-
-Eloge de Josué et de Caleb ; des juges en général, et en particulier de Samuel.
 
 
 1 Jésus Navé, vaillant dans la guerre et successeur de Moïse parmi les prophètes ; il fut grand selon son nom,

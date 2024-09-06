@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
+summary: |
+  
+  Les parvis du temple et la ville sainte sont abandonnés à la profanation des gentils.
+  Prédication des deux témoins.
+  Puissance que Dieu leur donne.
+  Ils sont mis à mort par la bête qui monte de l’abîme.
+  Ils ressuscitent et montent au ciel.
+  La persécution dans laquelle ils sont mis à mort est la consommation du second malheur.
+  Septième trompette ; troisième malheur, qui est l’anathème dont le souverain Juge doit frapper la terre au jour de son avènement.
 ---
-
-
-Les parvis du temple et la ville sainte sont abandonnés à la profanation des gentils.
-Prédication des deux témoins.
-Puissance que Dieu leur donne.
-Ils sont mis à mort par la bête qui monte de l’abîme.
-Ils ressuscitent et montent au ciel.
-La persécution dans laquelle ils sont mis à mort est la consommation du second malheur.
-Septième trompette ; troisième malheur, qui est l’anathème dont le souverain Juge doit frapper la terre au jour de son avènement.
 
 
 1 Et un roseau long comme une perche me fut donné, et il me fut dit : Lève-toi et mesure le temple de Dieu, et l'autel, et ceux qui y adorent.

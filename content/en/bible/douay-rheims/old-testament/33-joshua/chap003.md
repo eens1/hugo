@@ -1,9 +1,8 @@
 ---
 title: "Chapter 3"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And Joshua rose before daylight, and removed the camp: and they departed from Setim, and came to the Jordan: he, and all the children of Israel, and they abode there for three days.

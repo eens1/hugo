@@ -1,9 +1,8 @@
 ---
 title: "Chapter 8"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 Now of the things which we have spoken, this is the sum: We have such an high priest who is set on the right hand of the throne of majesty in the heavens,

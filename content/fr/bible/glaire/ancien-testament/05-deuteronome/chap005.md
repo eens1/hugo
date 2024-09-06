@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Moïse rappelle au peuple les préceptes du Décalogue.
 ---
-
-
-Moïse rappelle au peuple les préceptes du Décalogue.
 
 
 1 Or, Moïse appela tout Israël et lui dit : Ecoute, Israël, les cérémonies et les ordonnances que moi, je vous fais entendre aujourd'hui ; apprenez-les et les accomplissez par vos œuvres.

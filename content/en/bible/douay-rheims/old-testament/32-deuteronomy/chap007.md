@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 When the Lord thy God shall have brought thee into the land, which thou art going in to possess, and shall have destroyed many nations before thee, the Hethite, and the Gergezite, and the Amorrhite, and the Chanaanite, and the Pherezite, and the Hevite, and the Jebusite, seven nations much more numerous than thou art, and stronger than thou:

@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 24"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Lois touchant le divorce.
+  Gages.
+  Lèpre.
+  Abandonner aux pauvres ce qui reste après la moisson et les vendanges.
 ---
-
-
-Lois touchant le divorce.
-Gages.
-Lèpre.
-Abandonner aux pauvres ce qui reste après la moisson et les vendanges.
 
 
 1 Si un homme a pris une femme, et qu'il l'ait eue, et qu'elle n'ait pas trouvé grâce à ses yeux à cause de quelque défaut honteux, il écrira un acte de répudiation ; il le mettra dans la main de cette femme, et il la renverra de sa maison.

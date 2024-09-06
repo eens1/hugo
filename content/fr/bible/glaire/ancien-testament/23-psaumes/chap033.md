@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 33"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David rend grâces à Dieu du salut qu’il lui a procuré.
+  Il exhorte tous les hommes à vivre dans la justice et à mettre leur confiance dans le Seigneur.
 ---
-
-
-David rend grâces à Dieu du salut qu’il lui a procuré.
-Il exhorte tous les hommes à vivre dans la justice et à mettre leur confiance dans le Seigneur.
 
 
 1 Psaume par David, lorsqu'il changea son visage devant Achimélech, qui le renvoya, et qu'il s'en alla.

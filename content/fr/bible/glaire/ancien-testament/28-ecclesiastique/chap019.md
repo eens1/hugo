@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 19"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Maux que causent le vin et les femmes.
+  Taire les défauts d’autrui.
+  Avertir son ami du mal qu’on dit de lui.
+  Vraie et fausse sagesse.
 ---
-
-
-Maux que causent le vin et les femmes.
-Taire les défauts d’autrui.
-Avertir son ami du mal qu’on dit de lui.
-Vraie et fausse sagesse.
 
 
 1 L'ouvrier adonné au vin ne s'enrichira pas ; et celui qui méprise les petites choses tombera peu à peu.

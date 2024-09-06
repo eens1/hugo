@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 25"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  David règle l’ordre des chantres et des musiciens.
 ---
-
-
-David règle l’ordre des chantres et des musiciens.
 
 
 1 Ainsi David et les chefs de l'armée séparèrent pour le ministère les fils d'Asaph, d'Héman et d'Idithun, afin qu'ils chantassent des prophéties sur des harpes, des psaltérions et des cymbales, s'acquittant, selon leur nombre, de l'emploi à eux assigné.

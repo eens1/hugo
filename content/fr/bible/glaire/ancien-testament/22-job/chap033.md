@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 33"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Eliu accuse Job de s’être élevé contre Dieu, et d’abuser des différentes voies dont Dieu se sert pour reprendre les hommes.
 ---
-
-
-Eliu accuse Job de s’être élevé contre Dieu, et d’abuser des différentes voies dont Dieu se sert pour reprendre les hommes.
 
 
 1 Ecoute donc, Job, mes paroles, et sois attentif à tous mes discours. 2 Voilà que j'ai ouvert ma bouche, que ma langue parle dans ma gorge.

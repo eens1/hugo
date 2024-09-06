@@ -1,9 +1,8 @@
 ---
 title: "Caput 27"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:47+02:00
 draft: false
 ---
-
 
 
 1 Ut autem iudicatum est navigare eum in Italiam, et tradi Paulum cum reliquis custodiis centurioni nomine Iulio cohortis Augustæ,

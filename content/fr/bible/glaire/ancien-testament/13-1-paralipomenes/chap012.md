@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Dénombrement de ceux qui se joignirent à David pendant la persécution de Saül, et de ceux qui vinrent lui déférer la royauté à Hébron, après la mort de ce prince.
 ---
-
-
-Dénombrement de ceux qui se joignirent à David pendant la persécution de Saül, et de ceux qui vinrent lui déférer la royauté à Hébron, après la mort de ce prince.
 
 
 1 Ceux-ci aussi vinrent vers David à Sicéleg, lorsqu'il fuyait encore Saül, fils de Cis; c'étaient des hommes très forts et d'excellents combattants,

@@ -1,9 +1,8 @@
 ---
 title: "Saint Thomas d'Aquin"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Saint Thomas d'Aquin, Summa Theologica, p. III., Q. 82, A. 9, *Est-il permis de recevoir la communion des excommuniés, des hérétiques ou des pécheurs, et d’entendre leur messe ?* :

@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Purification du temple par Judas Machabée.
+  Lysias régent du royaume de Syrie sous Antiochus Eupator.
+  Mort de Ptolémée Macron.
+  Courses de Gorgias sur les Juifs.
+  Victoires de Judas sur les Iduméens.
+  Défaite de Timothée.
+  Prise de Gazara.
 ---
-
-
-Purification du temple par Judas Machabée.
-Lysias régent du royaume de Syrie sous Antiochus Eupator.
-Mort de Ptolémée Macron.
-Courses de Gorgias sur les Juifs.
-Victoires de Judas sur les Iduméens.
-Défaite de Timothée.
-Prise de Gazara.
 
 
 1 Or Machabée, et ceux qui étaient avec lui, le Seigneur les protégeant, reprirent la cité et le temple. 2 Mais les autels que les étrangers avaient élevés sur les places publiques, de même que les temples des idoles, il les démolit. 3 Et le temple ayant été purifié, ils firent un autre autel; et ayant tiré du feu de pierres ignées, ils offrirent des sacrifices deux ans après et mirent la l'encens et les lampes, et les pains de proposition. 4 Ce qui ayant été fait, prosternés en terre, ils demandaient au Seigneur de ne plus tomber dans de tels maux; mais que, si un jour ils péchaient, ils fussent repris par lui avec plus de douceur, et non livrés à des hommes barbares et blasphémateurs. 5 Et il arriva qu'au jour où le temple avait été souillé par les étrangers, au même jour la purification se fit, le vingt-cinquième du mois de Casleu.

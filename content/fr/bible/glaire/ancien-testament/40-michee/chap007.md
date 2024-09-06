@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Petit nombre des justes dans la maison de Jacob.
+  Vengeances du Seigneur.
+  Attente de ses miséricordes.
+  Ruine de Babylone.
+  Rétablissement d’Israël et de toute la maison de Jacob.
+  Merveilles de leur délivrance.
 ---
-
-
-Petit nombre des justes dans la maison de Jacob.
-Vengeances du Seigneur.
-Attente de ses miséricordes.
-Ruine de Babylone.
-Rétablissement d’Israël et de toute la maison de Jacob.
-Merveilles de leur délivrance.
 
 
 1 Malheur à moi, parce que je suis devenu comme celui qui recueille en automne des grappes de raisins oubliées pendant la vendange; il n'y a pas une grappe à manger; mon âme a désiré quelques figues précoces.

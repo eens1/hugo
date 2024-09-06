@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 129"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Dans ce psaume, qui est un des sept pénitentiaux, l’auteur, du fond de l’abîme où ses péchés l’ont plongé, envisage la miséricorde du Sauveur et espère en sa bonté.
 ---
-
-
-Dans ce psaume, qui est un des sept pénitentiaux, l’auteur, du fond de l’abîme où ses péchés l’ont plongé, envisage la miséricorde du Sauveur et espère en sa bonté.
 
 
 1 Cantique des degrés. Des profondeurs de l'abîme j'ai crié vers vous, Seigneur ;

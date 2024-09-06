@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Vocation d’Abram, et promesse qui lui est faite.
+  Son entrée en Egypte.
 ---
-
-
-Vocation d’Abram, et promesse qui lui est faite.
-Son entrée en Egypte.
 
 
 1 Mais le Seigneur dit à Abram : Sors de ton pays et de ta parenté et de la maison de ton père, et viens dans la terre que je te montrerai

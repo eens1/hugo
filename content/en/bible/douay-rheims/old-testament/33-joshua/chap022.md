@@ -1,9 +1,8 @@
 ---
 title: "Chapter 22"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 At the same time Joshua called the Rubenites, and the Gadites, and the half tribe of Manasses,

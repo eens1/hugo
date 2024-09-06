@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 70"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste implore le secours de Dieu avec confiance.
+  Il promet de publier ses merveilles et d’en faire passer la mémoire jusqu’aux races futures.
+  La plupart des anciens et des modernes rapportent ce psaume, quant au sans littéral, à David, chassé de Jérusalem par son fils Absalom, et abandonné par plusieurs de ceux qui avaient toujours passé pour ses amis.
 ---
-
-
-Le Psalmiste implore le secours de Dieu avec confiance.
-Il promet de publier ses merveilles et d’en faire passer la mémoire jusqu’aux races futures.
-La plupart des anciens et des modernes rapportent ce psaume, quant au sans littéral, à David, chassé de Jérusalem par son fils Absalom, et abandonné par plusieurs de ceux qui avaient toujours passé pour ses amis.
 
 
 1 Des fils de Jonadab et des premiers captifs. C'est en vous. Seigneur, que j'ai mis mon espérance; que je ne sois pas confondu éternellement.

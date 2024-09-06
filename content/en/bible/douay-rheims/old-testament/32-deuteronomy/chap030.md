@@ -1,9 +1,8 @@
 ---
 title: "Chapter 30"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 Now when all these things shall be come upon thee, the blessing or the curse, which I have set forth before thee, and thou shalt be touched with repentance of thy heart among all the nations, into which the Lord thy God shall have scattered thee,

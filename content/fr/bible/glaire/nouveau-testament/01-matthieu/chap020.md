@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 20"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Parabole des ouvriers envoyés à la vigne.
+  Jésus-Christ prédit sa passion.
+  Demande des enfants de Zébédée.
+  Domination interdite.
+  Deux aveugles guéris près de Jéricho.
 ---
-
-
-Parabole des ouvriers envoyés à la vigne.
-Jésus-Christ prédit sa passion.
-Demande des enfants de Zébédée.
-Domination interdite.
-Deux aveugles guéris près de Jéricho.
 
 
 1 Le royaume des cieux est semblable à un père de famille qui sortit de grand matin, afin de louer des ouvriers pour sa vigne.

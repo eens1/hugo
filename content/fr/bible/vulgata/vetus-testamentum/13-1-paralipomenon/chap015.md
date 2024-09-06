@@ -1,9 +1,8 @@
 ---
 title: "Caput 15"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Fecit quoque sibi domos in Civitate David: et ædificavit locum arcæ Dei, tetenditque ei tabernaculum.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 30"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 Now when David and his men were come to Siceleg on the third day, the Amalecites had made an invasion on the south side upon Siceleg, and had smitten Siceleg, and burnt it with fire,

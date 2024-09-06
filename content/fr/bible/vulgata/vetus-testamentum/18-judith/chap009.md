@@ -1,9 +1,8 @@
 ---
 title: "Caput 9"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Quibus ascendentibus, Iudith ingressa est oratorium suum: et induens se cilicio, posuit cinerem super caput suum: et prosternens se Domino, clamabat ad Dominum, dicens:

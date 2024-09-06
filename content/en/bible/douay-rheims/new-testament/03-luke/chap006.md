@@ -1,9 +1,8 @@
 ---
 title: "Chapter 6"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass on the second first sabbath that, as he went through the corn fields, his disciples plucked the ears and did eat, rubbing them in their hands.

@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Règles de conduite à l’égard des personnes âgées ou jeunes.
+  Veuves qui méritent d’être assistées.
+  Veuves qui méritent d’être employées pour le service de l’Eglise.
+  Récompense des prêtres.
+  Accusation des prêtres ; leur ordination.
 ---
-
-
-Règles de conduite à l’égard des personnes âgées ou jeunes.
-Veuves qui méritent d’être assistées.
-Veuves qui méritent d’être employées pour le service de l’Eglise.
-Récompense des prêtres.
-Accusation des prêtres ; leur ordination.
 
 
 1 Ne reprends point durement les vieillards, mais avertis-les comme tes pères; les jeunes hommes, comme tes frères ; 2 Les femmes âgées, comme tes mères; les jeunes, comme tes soeurs, en toute chasteté.

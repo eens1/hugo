@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 43"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Les Juifs accusent Jérémie de mensonge ; ils se retirent en Egypte contre l’ordre du Seigneur ; ils emmènent avec eux Jérémie et Baruch.
+  Prophétie contre l’Egypte.
 ---
-
-
-Les Juifs accusent Jérémie de mensonge ; ils se retirent en Egypte contre l’ordre du Seigneur ; ils emmènent avec eux Jérémie et Baruch.
-Prophétie contre l’Egypte.
 
 
 1 Or il arriva que, lorsque Jérémie eut achevé toutes ces prophéties, disant au peuple toutes les paroles du Seigneur leur Dieu, paroles pour lesquelles le Seigneur leur Dieu l'avait envoyé vers eux,

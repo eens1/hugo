@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Le Prophète, parlant toujours au nom de son peuple, reconnaît la justice des jugements du Seigneur, et implore sa miséricorde avec confiance en ses promesses.
 ---
-
-
-Le Prophète, parlant toujours au nom de son peuple, reconnaît la justice des jugements du Seigneur, et implore sa miséricorde avec confiance en ses promesses.
 
 
 1 A cause de quoi le Seigneur notre Dieu a vérifié sa parole qu'il nous a dite, à nous, et à nos juges qui ont jugé Israël, et à nos princes, et à tout Israël et à Juda ; 2 Afin que le Seigneur amenât sur nous de grands maux, qui n'ont pas eu lieu sous le ciel, comme ils ont eu lieu dans Jérusalem, selon ce qui a été écrit dans la loi de Moïse,

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Les Samaritains accusent les Juifs devant Artaxerxès.
+  Ce prince défend de rebâtir Jérusalem.
 ---
-
-
-Les Samaritains accusent les Juifs devant Artaxerxès.
-Ce prince défend de rebâtir Jérusalem.
 
 
 1 Or les ennemis de Juda et de Benjamin apprirent que les enfants de la captivité bâtissaient un temple au Seigneur Dieu d'Israël :2 Et s'approchant de Zorobabel et des princes des pères, ils leur dirent : Nous bâtirons avec vous, parce que, comme vous, nous cherchons votre Dieu : voilà que nous, nous avons immolé des victimes depuis les jours d'Asor-Haddan, roi d'Assur, qui nous amena ici.

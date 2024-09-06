@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Divers peuples envoient vers Holoferne pour lui promettre obéissance.
+  Il descend des montagnes vers eux, détruit leurs villes, et coupe leur bois sacrés, afin que Nabuchodonosor soit seul adoré.
 ---
-
-
-Divers peuples envoient vers Holoferne pour lui promettre obéissance.
-Il descend des montagnes vers eux, détruit leurs villes, et coupe leur bois sacrés, afin que Nabuchodonosor soit seul adoré.
 
 
 1 Alors les rois et les princes de toutes les villes et de toutes les provinces, de la Syrie, ceux de la Mésopotamie, et de la Syrie de Sobal, de la Libye et de la Cilicie, envoyèrent leurs députés, lesquels, venant vers Holoferne, dirent :2 Que ton indignation contre nous cesse ; car il vaut mieux qu'en vivant, nous servions Nabuchodonosor le grand roi, et te soyons soumis, que si en mourant nous souffrions avec notre ruine les maux de la servitude.

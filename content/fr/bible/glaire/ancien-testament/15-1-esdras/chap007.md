@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Esdras est envoyé en Judée par Artaxerxès.
+  Edit de ce prince en faveur des Juifs.
 ---
-
-
-Esdras est envoyé en Judée par Artaxerxès.
-Edit de ce prince en faveur des Juifs.
 
 
 1 Or, après ces choses, sous le règne d'Artaxerxès, roi des Perses, Esdras, fils de Saraïas, fils d'Azarias, fils de Helcias,

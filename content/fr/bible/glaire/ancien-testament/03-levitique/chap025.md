@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 25"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Lois touchant le repos de la septième année et le jubilé de la cinquantième.
+  Lois contre l’usure.
+  Ordonnance en faveur des esclaves hébreux.
 ---
-
-
-Lois touchant le repos de la septième année et le jubilé de la cinquantième.
-Lois contre l’usure.
-Ordonnance en faveur des esclaves hébreux.
 
 
 1 Le Seigneur parla à Moïse sur la montagne de Sinaï, disant :2 Parle aux enfants d'Israël, et tu leur diras : Quand vous serez entrés dans la terre que je vous donnerai moi-même, sabbatise le sabbat en l'honneur du Seigneur.

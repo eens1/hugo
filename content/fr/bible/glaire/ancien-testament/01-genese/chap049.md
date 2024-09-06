@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 49"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Dernières paroles de Jacob.
+  Il prédit à chacun de ses fils ce qui doit lui arriver.
+  Il meurt.
 ---
-
-
-Dernières paroles de Jacob.
-Il prédit à chacun de ses fils ce qui doit lui arriver.
-Il meurt.
 
 
 1 Or Jacob appela ses fils et leur dit : Assemblez-vous, afin que je vous annonce ce qui doit vous arriver dans les jours derniers.

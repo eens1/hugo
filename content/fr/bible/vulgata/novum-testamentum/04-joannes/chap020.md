@@ -1,9 +1,8 @@
 ---
 title: "Caput 20"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Una autem sabbati, Maria Magdalene venit mane, cum adhuc tenebræ essent, ad monumentum: et vidit lapidem sublatum a monumento.

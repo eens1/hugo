@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Reproches et menaces contre Juda et Jérusalem.
+  Jour terrible des vengeances du Seigneur sur son peuple.
+  Désolation affreuse prête à tomber sur les enfants de Juda.
 ---
-
-
-Reproches et menaces contre Juda et Jérusalem.
-Jour terrible des vengeances du Seigneur sur son peuple.
-Désolation affreuse prête à tomber sur les enfants de Juda.
 
 
 1 Parole du Seigneur qui fut adressée à Sophonie, fils de Chusi, fils de Godolias, fils d'Amarias, fils d'Ezécias, aux jours de Josias, fils d'Amon, roi de Juda.

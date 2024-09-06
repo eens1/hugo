@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Moïse rappelle aux Israélites leurs murmures et leurs infidélités passés.
 ---
-
-
-Moïse rappelle aux Israélites leurs murmures et leurs infidélités passés.
 
 
 1 Ecoute Israël : Tu passeras aujourd'hui le Jourdain, afin que tu possèdes des nations très grandes et plus fortes que toi, des villes immenses et fortifiées jusqu'au ciel,

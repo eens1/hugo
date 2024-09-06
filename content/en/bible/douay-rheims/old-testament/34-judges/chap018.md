@@ -1,9 +1,8 @@
 ---
 title: "Chapter 18"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 In those days there was no king in Israel, and the tribe of Dan sought them an inheritance to dwell in: for unto that day they had not received their lot among the other tribes.

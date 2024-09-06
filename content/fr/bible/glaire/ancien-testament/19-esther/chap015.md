@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Avis de Mardochée à Esther après l’édit qu’Aman fit porter contre les Juifs.
+  Ce qui se passa lorsqu’Esther parut devant Assuérus.
+  Ceci aussi, je l’ai trouvé ajouté dans l’édition Vulgate.
 ---
-
-
-Avis de Mardochée à Esther après l’édit qu’Aman fit porter contre les Juifs.
-Ce qui se passa lorsqu’Esther parut devant Assuérus.
-Ceci aussi, je l’ai trouvé ajouté dans l’édition Vulgate.
 
 
 1 Et il manda à Esther (point de doute que ce ne fut Mardochée) d'entrer auprès du roi, et de le prier pour son peuple et pour sa patrie.

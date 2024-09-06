@@ -1,9 +1,8 @@
 ---
 title: "Symbole de la foi"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 > *Concile de Nicée I, Symbole de foi, 325* : "Nous croyons en un seul Dieu, Père tout-puissant, créateur de tous les êtres visibles et invisibles. Et en notre seul Seigneur, Jésus Christ le Fils de Dieu, né du Père, unique engendré, c'est-à-dire de la substance du Père, Dieu de Dieu, lumière de lumière, vrai Dieu de vrai Dieu, né, non pas créé, d'une unique substance avec le Père (ce qu'en grec on appelle homoousios), par qui tout a été fait, ce qui est dans le ciel et ce qui est sur la terre, qui à cause de notre salut est descendu et s'est incarné, s'est fait homme, a souffert et est ressuscité le troisième jour, est monté au cieux, viendra juger le vivants et les morts. Et en l'Esprit Saint." [^1]

@@ -1,9 +1,18 @@
 ---
 title: "Pape Martin V, Ad Evitanda Scandala"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
+summary: |
+  
+  
+  Abbé Craisson, *De la sépulture ecclésiastique*, 1868 : \"On sait que, d'après la bulle de Martin V *Ad evitanda*, il y a deux sortes d'excommuniés : ceux que l'on doit éviter et ceux qu'on peut tolérer. Par excommuniés qu'on doit éviter, on entend ceux qui sont dénoncés nommément comme tels, ou qui sont notoirement connus comme ayant frappé des clercs. Les excommuniés non compris dans ces deux catégories sont appelés tolérés.\" [^2]
+  
+  [^2]: Craisson 1868.
+  
+  Frère Peter Dimond, O.S.B., *Sacraments from Undeclared Heretics Debate* : \"Dans ce décret, nous voyons qu'il faut éviter : 1) ceux qui ont été déclarés (notoire en droit) ou 2) ceux qui n'ont pas été déclarés, mais qui ont frappé un clerc et dont la preuve ne peut être \"dissimulée par aucune tergiversation.\" Tergiversation signifie \"équivoque\" ou \"mensonge\". En d’autres termes, cela doit être si clair qu’il ne puisse être caché même par une argumentation malhonnête. Ceci est un autre exemple du point évoqué ci-dessus concernant les \"orthodoxes\" orientaux, qui ne cachent pas et ne peuvent pas cacher leur rejet de la papauté.\"
+  
+  [^3]: Traduit par le Frère Matthieu de Versoix. Original: \"In this decree we see that one has to avoid: 1) those who have been declared (notorious in law) or 2) those who have not been declared, but struck a cleric and the evidence for this cannot be “concealed by any tergiversation.” Tergiversation means “equivocation” or “falsehood.” In other words, it must be so clear that it cannot be hidden even by dishonest argumentation. This is another example of the point made above concerning the Eastern “Orthodox,” who do not and cannot conceal their rejection of the Papacy.\"
 ---
-
 
 
 Pape Martin V, Council of Constance, *Ad Evitanda Scandala*, 1418 : "Pour éviter les scandales et bien des dangers et soulager les consciences timorées par la teneur de ces présents, nous accordons miséricordieusement à tous les fidèles du Christ que désormais personne ne sera tenu de s'abstenir de communion avec qui que ce soit dans l'administration ou la réception des sacrements ou dans toute autre activité religieuse, ou d'actes non religieux quels qu'ils soient, ni d'éviter quiconque ni d'observer aucun interdit ecclésiastique, sous prétexte de toute sentence ou censure ecclésiastique promulguée globalement soit par la loi, soit par un individu; à moins que la sentence ou la censure en question n'ait été spécifiquement et expressément publiée ou dénoncée par le juge sur ou contre une personne, un collège, une université, une église, une communauté ou un lieu déterminé.

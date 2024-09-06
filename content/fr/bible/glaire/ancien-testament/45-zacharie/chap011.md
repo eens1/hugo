@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Incendie du temple ; ruine de Jérusalem ; pasteur suscité de Dieu, les deux houlettes de ce pasteur ; trois pasteurs infidèles retranchés en un mois.
+  Première houlette brisée.
+  Trente pièces d’argent données pour la récompense du pasteur.
+  Seconde houlette brisée.
+  Pasteur infidèle suscité sur la terre.
 ---
-
-
-Incendie du temple ; ruine de Jérusalem ; pasteur suscité de Dieu, les deux houlettes de ce pasteur ; trois pasteurs infidèles retranchés en un mois.
-Première houlette brisée.
-Trente pièces d’argent données pour la récompense du pasteur.
-Seconde houlette brisée.
-Pasteur infidèle suscité sur la terre.
 
 
 1 Ouvre tes portes, ô Liban, et qu'un feu dévore tes cèdres.

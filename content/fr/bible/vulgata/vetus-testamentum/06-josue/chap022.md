@@ -1,9 +1,8 @@
 ---
 title: "Caput 22"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Eodem tempore vocavit Iosue Rubenitas, et Gaditas, et dimidiam tribum Manasse,

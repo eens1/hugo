@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Description du temple bâti par Salomon.
 ---
-
-
-Description du temple bâti par Salomon.
 
 
 1 Il arriva donc, à la quatre cent quatre-vingtième année de la sortie des enfants d'Israël de la terre d'Egypte, à la quatrième année du règne de Salomon sur Israël, au mois de Zio (c'est le second mois de l'année), que l'on commença à bâtir la maison du Seigneur.

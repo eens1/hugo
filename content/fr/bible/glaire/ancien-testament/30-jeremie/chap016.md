@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Le Seigneur défend à son Prophète de se marier, et de prendre part au deuil ou à la joie de son peuple, à cause des vengeances qui sont près de tomber sur lui.
+  Captivité des enfants d’Israël, leur délivrance.
+  Double expédition de Nabuchodonosor.
+  Conversion des Gentils.
 ---
-
-
-Le Seigneur défend à son Prophète de se marier, et de prendre part au deuil ou à la joie de son peuple, à cause des vengeances qui sont près de tomber sur lui.
-Captivité des enfants d’Israël, leur délivrance.
-Double expédition de Nabuchodonosor.
-Conversion des Gentils.
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

@@ -1,9 +1,8 @@
 ---
 title: "Caput 10"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Quæ cum audisset Adonisedec rex Ierusalem, quod scilicet cepisset Iosue Hai, et subvertisset eam (sicut enim fecerat Iericho et regi eius, sic fecit Hai, et regi illius) et quod transfugissent Gabaonitæ ad Israel, et essent fœderati eorum,

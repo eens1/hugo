@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 47"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Eloge de Nathan, de David et de Salomon.
+  Chute de ce prince.
+  Mauvaise conduite de Roboam.
+  Impiété de Jéroboam.
+  Infidélité des Israélites.
 ---
-
-
-Eloge de Nathan, de David et de Salomon.
-Chute de ce prince.
-Mauvaise conduite de Roboam.
-Impiété de Jéroboam.
-Infidélité des Israélites.
 
 
 1 Après ces choses se leva Nathan, le prophète, aux jours de David.

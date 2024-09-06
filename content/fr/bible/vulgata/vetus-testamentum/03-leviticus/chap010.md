@@ -1,9 +1,8 @@
 ---
 title: "Caput 10"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Arreptisque Nadab, et Abiu filii Aaron thuribulis, posuerunt ignem, et incensum desuper, offerentes coram Domino ignem alienum: quod eis præceptum non erat.

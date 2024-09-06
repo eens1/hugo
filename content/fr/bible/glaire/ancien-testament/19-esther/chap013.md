@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Jusqu’ici est l’avant-propos. Ce qui suit était mis à l’endroit du volume où il est écrit : Et ils enlevèrent leurs biens ou leurs richesses.
+  Ce que nous avons trouvé dans la seule édition Vulgate.
+  Or voici quelle était la copie de la lettre.
+  Edit contre les Juifs.
+  Prière de Mardochée.
 ---
-
-
-Jusqu’ici est l’avant-propos. Ce qui suit était mis à l’endroit du volume où il est écrit : Et ils enlevèrent leurs biens ou leurs richesses.
-Ce que nous avons trouvé dans la seule édition Vulgate.
-Or voici quelle était la copie de la lettre.
-Edit contre les Juifs.
-Prière de Mardochée.
 
 
 1 Le roi très grand Artaxerxès, qui règne depuis l'Inde jusqu'à l'Ethiopie sur cent vingt-sept provinces, aux princes et aux chefs qui sont soumis à son empire, salut.

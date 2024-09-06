@@ -1,7 +1,6 @@
 ---
 title: "Philippians"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Murmures des Hébreux.
+  Dieu leur envoie des cailles et fait pleuvoir la manne.
+  Préceptes touchant la manière dont la manne doit être recueillie.
 ---
-
-
-Murmures des Hébreux.
-Dieu leur envoie des cailles et fait pleuvoir la manne.
-Préceptes touchant la manière dont la manne doit être recueillie.
 
 
 1 Et ils partirent d'Elim, et toute la multitude des enfants d'Israël vint au désert de Sin, qui est entre Elim et Sinaï, le quinzième jour du second mois après qu'ils furent sortis de la terre d'Egypte.

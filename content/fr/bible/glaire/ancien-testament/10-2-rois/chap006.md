@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  David va prendre l’arche à Cariathiarim.
+  Oza est frappé de mort pour l’avoir touchée.
+  David la laisse dans la maison d’Obédédom, puis la transfère à Jérusalem.
+  Il est raillé par Michol.
 ---
-
-
-David va prendre l’arche à Cariathiarim.
-Oza est frappé de mort pour l’avoir touchée.
-David la laisse dans la maison d’Obédédom, puis la transfère à Jérusalem.
-Il est raillé par Michol.
 
 
 1 Or, David rassembla de nouveau tous les hommes choisis d'Israël, au nombre de trente mille. 2 Et David se leva et s'en alla, et tout le peuple qui était avec lui d'entre les hommes de Juda, pour amener l'arche de Dieu, sur laquelle fut invoqué le nom du Seigneur des armées, assis entre les chérubins au-dessus d'elle,

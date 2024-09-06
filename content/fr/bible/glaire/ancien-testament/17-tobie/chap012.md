@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Tobie veut récompenser Raphaël.
+  Celui-ci découvre qui il est, et disparaît de devant eux.
 ---
-
-
-Tobie veut récompenser Raphaël.
-Celui-ci découvre qui il est, et disparaît de devant eux.
 
 
 1 Alors Tobie appela vers lui son fils, et lui dit : Que pouvons-nous donner à cet homme saint qui est venu avec toi?

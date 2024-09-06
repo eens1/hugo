@@ -1,9 +1,8 @@
 ---
 title: "Caput 4"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:47+02:00
 draft: false
 ---
-
 
 
 1 De cetero ergo, fratres, rogamus vos et obsecramus in Domino Iesu, ut quemadmodum accepistis a nobis quomodo oporteat vos ambulare, et placere Deo, sic et ambuletis ut abundetis magis.

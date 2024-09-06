@@ -1,9 +1,8 @@
 ---
 title: "Chapter 10"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 Amen, amen, I say to you: He that entereth not by the door into the sheepfold but climbeth up another way, the same is a thief and a robber.

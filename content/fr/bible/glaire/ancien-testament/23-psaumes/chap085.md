@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 85"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Ce psaume contient la prière d’un juste affligé ; il montre de plus que Dieu seul est vraiment grand et qu’il fait des prodiges et que toutes les nations reconnaîtront sa grandeur.
 ---
-
-
-Ce psaume contient la prière d’un juste affligé ; il montre de plus que Dieu seul est vraiment grand et qu’il fait des prodiges et que toutes les nations reconnaîtront sa grandeur.
 
 
 1 Inclinez, Seigneur, votre oreille, et exaucez-moi, parce que je suis sans ressource et pauvre.

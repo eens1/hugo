@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Baruch continue d’implorer la miséricorde du Seigneur au nom de ses frères.
+  Il exhorte Israël à reconnaître que son infidélité est la source de ses maux, et l’invite à rechercher la sagesse.
+  Elle ne vient que de Dieu.
+  Il l’a manifestée à Israël.
+  Prophétie de l’Incarnation du Verbe.
 ---
-
-
-Baruch continue d’implorer la miséricorde du Seigneur au nom de ses frères.
-Il exhorte Israël à reconnaître que son infidélité est la source de ses maux, et l’invite à rechercher la sagesse.
-Elle ne vient que de Dieu.
-Il l’a manifestée à Israël.
-Prophétie de l’Incarnation du Verbe.
 
 
 1 Et maintenant, Seigneur tout-puissant, Dieu d'Israël, une âme dans les angoisses, et un esprit inquiet crie vers vous; 2 Ecoutez, Seigneur, et ayez pitié, parce que vous êtes un Dieu miséricordieux, et ayez pitié de nous, parce que nous avons péché devant vous. 3 Parce que vous subsistez éternellement; et nous, périrons-nous pour jamais? 4 Seigneur tout-puissant, Dieu d'Israël, écoutez maintenant la prière des morts d'Israël, et des fils de ceux qui ont péché devant vous et qui n'ont pas écouté la voix du Seigneur leur Dieu, et les maux se sont attachés à nous.

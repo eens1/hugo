@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Dernières paroles de Tobie.
+  Il prédit la ruine de Ninive et le rétablissement de Jérusalem.
+  Le jeune Tobie sort de Ninive.
+  Sa mort.
 ---
-
-
-Dernières paroles de Tobie.
-Il prédit la ruine de Ninive et le rétablissement de Jérusalem.
-Le jeune Tobie sort de Ninive.
-Sa mort.
 
 
 1 Ainsi furent achevées les paroles de Tobie. Et, après qu'il eut recouvré la vue, Tobie vécut quarante-deux ans, et il vit les fils de ses petits-fils. 2 Et, ayant accompli cent deux ans, il fut enseveli honorablement dans Ninive. 3 Car à cinquante-six ans il perdit la lumière des yeux, et il la recouvra étant sexagénaire. 4 Mais tout le reste de sa vie se passa dans la joie ; et moyennant un grand progrès dans la crainte de Dieu, il mourut en paix.

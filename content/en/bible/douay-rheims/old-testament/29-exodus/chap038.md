@@ -1,9 +1,8 @@
 ---
 title: "Chapter 38"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 He made also the altar of holocaust of setim wood, five cubits square, and three in height:

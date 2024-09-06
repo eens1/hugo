@@ -1,19 +1,19 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  La sagesse donne une longue vie.
+  Avoir confiance en Dieu.
+  N’être pas sage à ses propres yeux.
+  Honorer le Seigneur par des présents ; souffrir ses corrections et ses épreuves.
+  Prix inestimable de la sagesse.
+  Le Seigneur a fondé la terre par la sagesse.
+  Paix de ceux qui possèdent la sagesse.
+  Faire du bien à son prochain.
+  Bonheur des justes.
 ---
-
-
-La sagesse donne une longue vie.
-Avoir confiance en Dieu.
-N’être pas sage à ses propres yeux.
-Honorer le Seigneur par des présents ; souffrir ses corrections et ses épreuves.
-Prix inestimable de la sagesse.
-Le Seigneur a fondé la terre par la sagesse.
-Paix de ceux qui possèdent la sagesse.
-Faire du bien à son prochain.
-Bonheur des justes.
 
 
 1 Mon fils, n'oublie pas ma loi, et que ton cœur garde mes préceptes, 2 Car ils t'apporteront la longueur des jours, des années de vie, et la paix.

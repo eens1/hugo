@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 88"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste représente la miséricorde de Dieu envers la maison de David, et les promesses qu’il lui avait faites ; il exalte sa vérité et sa fidélité à exécuter ses paroles ; mais il se plaint ensuite de ce que, malgré tant de promesses et de bontés, le royaume de Juda ait été renversé et la famille royale désolée ; enfin, il conjure le Seigneur de se souvenir de ses promesses, et de les exécuter.
+  La plupart des Pères rapportent ce psaume à la génération et au règne de Jésus-Christ.
 ---
-
-
-Le Psalmiste représente la miséricorde de Dieu envers la maison de David, et les promesses qu’il lui avait faites ; il exalte sa vérité et sa fidélité à exécuter ses paroles ; mais il se plaint ensuite de ce que, malgré tant de promesses et de bontés, le royaume de Juda ait été renversé et la famille royale désolée ; enfin, il conjure le Seigneur de se souvenir de ses promesses, et de les exécuter.
-La plupart des Pères rapportent ce psaume à la génération et au règne de Jésus-Christ.
 
 
 1 Intelligence d'Ethan l'Ezrahite.

@@ -1,9 +1,8 @@
 ---
 title: "Caput 5"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Tunc respondit Tobias patri suo, et dixit: Omnia quæcumque præcepisti mihi faciam pater.

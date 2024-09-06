@@ -1,19 +1,19 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Imiter Dieu et Jésus-Christ.
+  Bannir l’impudicité.
+  Vivre en enfant de lumière.
+  Fuir les oeuvres des ténèbres.
+  Racheter le temps.
+  Se remplir du Saint-Esprit.
+  Se respecter mutuellement.
+  Sainteté du mariage.
+  Devoirs du mari et de la femme.
 ---
-
-
-Imiter Dieu et Jésus-Christ.
-Bannir l’impudicité.
-Vivre en enfant de lumière.
-Fuir les oeuvres des ténèbres.
-Racheter le temps.
-Se remplir du Saint-Esprit.
-Se respecter mutuellement.
-Sainteté du mariage.
-Devoirs du mari et de la femme.
 
 
 1 Soyez donc les imitateurs de Dieu, comme enfants bien-aimés; 2 Et marchez dans l'amour, comme le Christ nous a aimés et s'est livré lui-même pour nous en oblation à Dieu, et en hostie de suave odeur.

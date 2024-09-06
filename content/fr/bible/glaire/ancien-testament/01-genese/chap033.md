@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 33"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Rencontre de Jacob et d’Esaü.
+  Jacob se retire à Socoth, et de là il se rend à Sichem.
 ---
-
-
-Rencontre de Jacob et d’Esaü.
-Jacob se retire à Socoth, et de là il se rend à Sichem.
 
 
 1 Mais Jacob, levant les yeux, vit Esaü venant, et avec lui quatre cents hommes ; il sépara aussitôt les enfants de Lia, de Rachel et des deux servantes ; 2 Il mit l'une et l'autre servante et leurs enfants en avant. Lia et ses enfants en second lieu, mais Rachel et Joseph les derniers.

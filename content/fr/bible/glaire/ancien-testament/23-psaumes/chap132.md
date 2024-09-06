@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 132"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Bonheur des Juifs rassemblés à Jérusalem après la captivité.
 ---
-
-
-Bonheur des Juifs rassemblés à Jérusalem après la captivité.
 
 
 1 Cantique des degrés de David. Voyez qu'il est bon et qu'il est agréable que des frères habitent ensemble !

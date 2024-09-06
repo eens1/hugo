@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Salomon bâtit plusieurs villes.
+  Il rend tributaires les restes des Chananéens ; règle le service des prêtres et des Lévites, et envoie une flotte à Ophir.
 ---
-
-
-Salomon bâtit plusieurs villes.
-Il rend tributaires les restes des Chananéens ; règle le service des prêtres et des Lévites, et envoie une flotte à Ophir.
 
 
 1 Or, vingt ans s'étant accomplis après que Salomon eut bâti la maison du Seigneur et sa propre maison,

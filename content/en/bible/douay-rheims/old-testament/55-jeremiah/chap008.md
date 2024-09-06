@@ -1,9 +1,8 @@
 ---
 title: "Chapter 8"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 At that time, saith the Lord, they shall cast out the bones of the kings of Juda, and the bones of the princes thereof, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves.

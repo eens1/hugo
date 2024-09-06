@@ -1,9 +1,8 @@
 ---
 title: "Chapter 11"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 In the fourth year of the reign of Ptolemy and Cleopatra, Dositheus, who said he was a priest, and of the Levitical race, and Ptolemy his son brought this epistle of Phurim, which they said Lysimachus the son of Ptolemy had interpreted in Jerusalem.

@@ -1,9 +1,8 @@
 ---
 title: "Caput 2"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Anno tertiodecimo Nabuchodonosor regis, vigesima et secunda die mensis primi, factum est verbum in domo Nabuchodonosor regis Assyriorum ut defenderet se.

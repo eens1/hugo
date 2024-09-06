@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  En vain les rois et les peuples de la terre s’opposent à l’établissement du règne de Jésus-Christ.
+  David les exhorte à se soumettre à lui.
 ---
-
-
-En vain les rois et les peuples de la terre s’opposent à l’établissement du règne de Jésus-Christ.
-David les exhorte à se soumettre à lui.
 
 
 1 Pourquoi les nations ont-elles frémi, et les peuples médité des choses vaines?

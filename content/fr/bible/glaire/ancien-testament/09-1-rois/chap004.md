@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Guerre des Philistins.
+  Les Israélites font venir l’arche qui est prise.
+  Mort d’Ophni, de Phinées, d’Héli et de la femme de Phinées.
 ---
-
-
-Guerre des Philistins.
-Les Israélites font venir l’arche qui est prise.
-Mort d’Ophni, de Phinées, d’Héli et de la femme de Phinées.
 
 
 1 Or il arriva en ces jours-là, que les Philistins se rassemblèrent pour le combat; et Israël sortit au devant des Philistins pour la bataille, et il campa près de la pierre du Secours. Mais les Philistins vinrent à Aphec,

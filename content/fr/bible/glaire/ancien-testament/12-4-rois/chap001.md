@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Moab secoue le joug d’Israël.
+  Ochozias envoie consulter Béelzébub sur sa maladie.
+  Elie lui prédit qu’il mourra.
+  Ce prince envoie des gens pour se saisir d’Elie.
+  Mort d’Ochozias.
+  Joram lui succède.
 ---
-
-
-Moab secoue le joug d’Israël.
-Ochozias envoie consulter Béelzébub sur sa maladie.
-Elie lui prédit qu’il mourra.
-Ce prince envoie des gens pour se saisir d’Elie.
-Mort d’Ochozias.
-Joram lui succède.
 
 
 1 Or, après la mort d'Achab, Moab se révolta contre Israël.

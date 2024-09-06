@@ -1,9 +1,8 @@
 ---
 title: "Caput 7"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Contigit autem et septem fratres una cum matre sua apprehensos compelli a rege edere contra fas carnes porcinas, flagris, et taureis cruciatos.

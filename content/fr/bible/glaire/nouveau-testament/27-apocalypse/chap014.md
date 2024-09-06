@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
+summary: |
+  
+  L’Agneau sur la montagne de Sion.
+  Evangile éternel porté à toutes les nations.
+  Ruine de Babylone annoncée.
+  Supplice de ceux qui auront adoré la bête ou son image.
+  Avènement de Jésus-Christ.
+  Moisson et vendange de la terre.
 ---
-
-
-L’Agneau sur la montagne de Sion.
-Evangile éternel porté à toutes les nations.
-Ruine de Babylone annoncée.
-Supplice de ceux qui auront adoré la bête ou son image.
-Avènement de Jésus-Christ.
-Moisson et vendange de la terre.
 
 
 1 Je regardai encore, et voilà que l'Agneau était debout sur la montagne de Sion, et avec lui cent quarante-quatre mille qui avaient son nom et le nom de son Père écrit sur leurs fronts. 2 Et j'entendis une voix du ciel, comme la voix de grandes eaux, et comme la voix d'un grand tonnerre, et la voix que j'entendis était comme le son de joueurs de harpe qui jouent de leurs harpes. 3 Ils chantaient comme un cantique nouveau devant le trône et devant les quatre animaux et les vieillards ; et nul ne pouvait chanter ce cantique, que les cent quarante-quatre mille qui ont été achetés de la terre.

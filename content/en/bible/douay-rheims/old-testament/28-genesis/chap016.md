@@ -1,9 +1,8 @@
 ---
 title: "Chapter 16"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 Now Sarai, the wife of Abram, had brought forth no children: but having a handmaid, an Egyptian, named Agar,

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 93"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste représente Dieu connaissant les crimes des méchants, et les punissant avec sévérité.
+  Psaume à David lui-même, au quatrième du sabbat.
 ---
-
-
-Le Psalmiste représente Dieu connaissant les crimes des méchants, et les punissant avec sévérité.
-Psaume à David lui-même, au quatrième du sabbat.
 
 
 1 Le Seigneur est le Dieu des vengeances : le Dieu des vengeances a agi avec liberté.

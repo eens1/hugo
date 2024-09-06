@@ -1,9 +1,8 @@
 ---
 title: "Chapter 44"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 And Joseph commanded the steward of his house, saying: Fill their sacks with corn, as much as they can hold: and put the money of every one in the top of his sack.

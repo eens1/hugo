@@ -1,9 +1,8 @@
 ---
 title: "Caput 7"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Anno centesimo quinquagesimo primo exiit Demetrius Seleuci filius ab urbe Roma, et ascendit cum paucis viris in civitatem maritimam, et regnavit illic.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 39"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste rend grâces à Dieu des secours qu’il lui a donnés.
+  Il lui en demande de nouveaux, et il espère les recevoir de sa bonté.
+  Une partie de cette belle prière ne trouve son application parfaite que dans le Messie comme saint Paul nous l’apprend dans Hébreux, 10, 5-8, et comme nous le montre d’ailleurs une simple lecture attentive du psaume lui-même.
 ---
-
-
-Le Psalmiste rend grâces à Dieu des secours qu’il lui a donnés.
-Il lui en demande de nouveaux, et il espère les recevoir de sa bonté.
-Une partie de cette belle prière ne trouve son application parfaite que dans le Messie comme saint Paul nous l’apprend dans Hébreux, 10, 5-8, et comme nous le montre d’ailleurs une simple lecture attentive du psaume lui-même.
 
 
 1 Pour la fin, psaume par David lui-même.

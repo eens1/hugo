@@ -1,9 +1,8 @@
 ---
 title: "Caput 22"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Abiit ergo David inde, et fugit in speluncam Odollam. Quod cum audissent fratres eius, et omnis domus patris eius, descenderunt ad eum illuc.

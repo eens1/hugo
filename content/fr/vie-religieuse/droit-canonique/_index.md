@@ -1,11 +1,11 @@
 ---
 title: "Droit canonique de 1917"
-date: 2024-09-06T18:40:59+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
+summary: |
+  
+  Des Religieux (Can. 487 à 681).
 ---
-
-
-Des Religieux (Can. 487 à 681).
 
 
 *Source : clerus.org.*

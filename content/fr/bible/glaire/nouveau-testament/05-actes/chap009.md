@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Saul persécute les fidèles.
+  Sa conversion, son baptême.
+  Il prêche à Damas, va à Jérusalem, se retire à Césarée, puis à Tarse.
+  Pierre guérit Enée et ressuscite Tabithe.
 ---
-
-
-Saul persécute les fidèles.
-Sa conversion, son baptême.
-Il prêche à Damas, va à Jérusalem, se retire à Césarée, puis à Tarse.
-Pierre guérit Enée et ressuscite Tabithe.
 
 
 1 Cependant Saul, respirant encore menaces et meurtre contre les disciples du Seigneur, vint auprès du prince des prêtres,

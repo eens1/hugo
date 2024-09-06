@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Naissance de Jésus-Christ.
+  Apparition de l’ange aux pasteurs.
+  Circoncision de Jésus-Christ.
+  Purification de Marie.
+  Siméon ; son cantique ; sa prophétie ; Anne la prophétesse.
+  Jésus au milieu des docteurs.
 ---
-
-
-Naissance de Jésus-Christ.
-Apparition de l’ange aux pasteurs.
-Circoncision de Jésus-Christ.
-Purification de Marie.
-Siméon ; son cantique ; sa prophétie ; Anne la prophétesse.
-Jésus au milieu des docteurs.
 
 
 1 Or il arriva en ces jours-là qu'il parut un édit de César Auguste, pour qu'on fît le dénombrement des habitants de toute la terre.

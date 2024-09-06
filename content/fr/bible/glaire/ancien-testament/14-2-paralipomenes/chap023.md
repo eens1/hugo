@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 23"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Joïada fait reconnaître Joas pour roi de Juda ; il fait tuer Athalie ; il engage le peuple à renouveler l’alliance avec le Seigneur.
 ---
-
-
-Joïada fait reconnaître Joas pour roi de Juda ; il fait tuer Athalie ; il engage le peuple à renouveler l’alliance avec le Seigneur.
 
 
 1 Or, en la septième année, Joïada, plein d'un nouveau courage, prit les centurions ; à savoir, Azarias fils de Jéroham, Ismahël fils de Johanan, Azarias fils d'Obed, Maasias fils d'Adaïas, et Elisaphat fils de Zéchri, et fit alliance avec eux;

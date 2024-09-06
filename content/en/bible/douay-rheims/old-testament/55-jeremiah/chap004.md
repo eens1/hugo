@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 If thou wilt return, O Israel, saith the Lord, return to me: if thou wilt take away thy stumblingblocks out of my sight, thou shalt not be moved.

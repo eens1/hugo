@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 29"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Désolation de Jérusalem et de la Judée.
+  Défaite des ennemis.
+  Rétablissement des enfants de Juda.
 ---
-
-
-Désolation de Jérusalem et de la Judée.
-Défaite des ennemis.
-Rétablissement des enfants de Juda.
 
 
 1 Malheur à Ariel, Ariel, cité qu'a prise d'assaut David ; une année s'est jointe à une année ; des solennités se sont écoulées.

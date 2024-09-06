@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 39"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Seigneur continue de montrer à Job la distance qu’il y a de la créature au Créateur.
+  Job reconnaît sa bassesse et se condamne au silence.
 ---
-
-
-Le Seigneur continue de montrer à Job la distance qu’il y a de la créature au Créateur.
-Job reconnaît sa bassesse et se condamne au silence.
 
 
 1 Est-ce que tu connais le temps de l'enfantement des chèvres sauvages dans les rochers? ou as-tu observé des biches lorsqu'elles enfantaient?

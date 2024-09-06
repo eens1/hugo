@@ -1,9 +1,8 @@
 ---
 title: "Chapter 24"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 And after five days, the high priest, Ananias, came down with some ancients and one Tertullus, an orator, who went to the governor against Paul.

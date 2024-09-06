@@ -1,20 +1,20 @@
 ---
 title: "Chapitre 19"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Flagellation.
+  Couronnement d’épines.
+  Pilate cherche les moyens de délivrer Jésus ; il l’abandonne.
+  Jésus est conduit au Calvaire et crucifié.
+  Inscription de la croix.
+  Partage de ses vêtements.
+  La sainte Vierge et saint Jean au pied de la croix.
+  Jésus a soif ; il meurt.
+  Son côté est percé.
+  Joseph et Nicodème prennent le soin d’ensevelir Jésus.
 ---
-
-
-Flagellation.
-Couronnement d’épines.
-Pilate cherche les moyens de délivrer Jésus ; il l’abandonne.
-Jésus est conduit au Calvaire et crucifié.
-Inscription de la croix.
-Partage de ses vêtements.
-La sainte Vierge et saint Jean au pied de la croix.
-Jésus a soif ; il meurt.
-Son côté est percé.
-Joseph et Nicodème prennent le soin d’ensevelir Jésus.
 
 
 1 Alors donc Pilate prit Jésus et le fit flageller.

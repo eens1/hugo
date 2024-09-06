@@ -1,9 +1,8 @@
 ---
 title: "Chapter 13"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 The same day Jesus going out of the house, sat by the sea side.

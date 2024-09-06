@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Achitophel conseille de poursuivre David ; Chusaï détruit ce conseil, et fait avertir David, qui passe le Jourdain.
+  Achitophel se pend.
+  Absalom poursuit David.
+  David reçoit des rafraîchissements.
 ---
-
-
-Achitophel conseille de poursuivre David ; Chusaï détruit ce conseil, et fait avertir David, qui passe le Jourdain.
-Achitophel se pend.
-Absalom poursuit David.
-David reçoit des rafraîchissements.
 
 
 1 Achitophel donc dit à Absalom : Je me choisirai douze mille hommes, et me levant, je poursuivrai David en cette nuit. 2 Et, fondant sur lui (car il est las et de mains défaillantes), je le frapperai ; et lorsqu'aura fui tout le peuple qui est avec lui, je frapperai le roi désolé.

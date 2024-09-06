@@ -1,9 +1,8 @@
 ---
 title: "Chapter 48"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Hear ye these things, O house of Jacob, you that are called by the name of Israel, and are come forth out of the waters of Juda, you who swear by the name of the Lord, and make mention of the God of Israel, but not in truth, nor in justice.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 I turned myself to other things, and I saw the oppressions that are done under the sun, and the tears of the innocent, and they had no comforter; and they were not able to resist their violence, being destitute of help from any.

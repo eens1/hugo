@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 49"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Eloge de Josias, de Jérémie, d’Ezéchiel, des douze petits prophètes, de Zorobabel, du grand-prêtre Jésus, de Néhémie, d’Hénoch, (de Joseph ? , ) de Seth, de Sem, d’Adam.
 ---
-
-
-Eloge de Josias, de Jérémie, d’Ezéchiel, des douze petits prophètes, de Zorobabel, du grand-prêtre Jésus, de Néhémie, d’Hénoch, (de Joseph ? , ) de Seth, de Sem, d’Adam.
 
 
 1 La mémoire de Josias est devenue une composition d'odeur, une œuvre de parfumeur.

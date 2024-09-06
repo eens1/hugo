@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Des fêtes de Pâque, de la Pentecôte et des Tabernacles.
+  Des juges et des magistrats dans les villes.
+  De la fuite de l’idolâtrie.
 ---
-
-
-Des fêtes de Pâque, de la Pentecôte et des Tabernacles.
-Des juges et des magistrats dans les villes.
-De la fuite de l’idolâtrie.
 
 
 1 Observe le mois des nouveaux grains, qui est le premier du printemps, afin que tu fasses la Pâque du Seigneur ton Dieu, parce que c'est en ce mois que le Seigneur ton Dieu t'a retiré de l'Egypte pendant la nuit.

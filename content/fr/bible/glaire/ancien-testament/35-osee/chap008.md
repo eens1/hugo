@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Reproches et menaces du Seigneur contre Israël.
+  Menaces contre Juda.
 ---
-
-
-Reproches et menaces du Seigneur contre Israël.
-Menaces contre Juda.
 
 
 1 Que dans ta bouche soit une trompette, comme l'aigle sur la maison du Seigneur, à cause qu'ils ont transgressé mon alliance, et que contre ma loi ils ont prévariqué.

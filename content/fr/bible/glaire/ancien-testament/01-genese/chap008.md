@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Les eaux se retirent.
+  Noé sort de l’arche ; il offre un sacrifice à Dieu, et Dieu fait alliance avec lui.
 ---
-
-
-Les eaux se retirent.
-Noé sort de l’arche ; il offre un sacrifice à Dieu, et Dieu fait alliance avec lui.
 
 
 1 Mais Dieu s'étant souvenu de Noé, et de toutes les bêtes sauvages, et de tous les animaux domestiques qui étaient avec lui dans l'arche, fit venir un vent sur la terre, et les eaux diminuèrent. 2 Et les sources de l'abîme et les cataractes du ciel furent fermées, et les pluies du ciel furent arrêtées. 3 Et les eaux se retirèrent de dessus la terre, allant et revenant, et elles commencèrent à décroître après cent cinquante jours. 4 Et l'arche s'arrêta au septième mois, le vingt-septième jour du mois, sur les montagnes de l'Arménie.

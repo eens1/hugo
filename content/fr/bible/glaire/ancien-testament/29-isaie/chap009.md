@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Premiers coups portés sur la maison d’Israël.
+  Délivrance de la maison de Juda.
+  Règne du Messie.
+  Maux qui doivent tomber sur Israël.
 ---
-
-
-Premiers coups portés sur la maison d’Israël.
-Délivrance de la maison de Juda.
-Règne du Messie.
-Maux qui doivent tomber sur Israël.
 
 
 1 Dans le premier temps a été allégée la terre de Zabulon, ainsi que la terre de Nephthali ; et dans le dernier, a été aggravée la voie de la mer, au-delà du Jourdain, la voie de la Galilée des nations.

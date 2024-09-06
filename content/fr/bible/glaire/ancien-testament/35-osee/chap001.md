@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Infidélité de Samarie et de ses enfants.
+  Sang de Jezrahel vengé par la maison de Jéhu.
+  Réprobation de la maison d’Israël.
+  Protection de la maison de Juda.
+  Multiplication des enfants d’Israël.
+  Réunion des enfants d’Israël avec les enfants de Juda.
 ---
-
-
-Infidélité de Samarie et de ses enfants.
-Sang de Jezrahel vengé par la maison de Jéhu.
-Réprobation de la maison d’Israël.
-Protection de la maison de Juda.
-Multiplication des enfants d’Israël.
-Réunion des enfants d’Israël avec les enfants de Juda.
 
 
 1 Parole du Seigneur qui fut adressée à Osée, fils de Bééri, dans les jours d'Ozias, de Joathan, d'Achaz et d'Ezéchias, rois de Juda, et dans les jours de Jéroboam, fils de Joas, roi d'Israël.

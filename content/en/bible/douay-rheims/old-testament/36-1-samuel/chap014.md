@@ -1,9 +1,8 @@
 ---
 title: "Chapter 14"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 Now it came to pass one day that Jonathan, the son of Saul, said to the young man that bore his armour: Come, and let us go over to the garrison of the Philistines, which is on the other side of yonder place. But he told not this to his father.

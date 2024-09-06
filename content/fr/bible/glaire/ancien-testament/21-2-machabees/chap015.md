@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Nicanor veut attaquer les Juifs.
+  Il blasphème contre le Seigneur.
+  Judas exhorte les siens ; il leur rapporte une vision qu’il a eue.
+  Il défait l’armée de Nicanor.
+  Nicanor est trouvé tué sur le champ de bataille ; sa tête et sa main sont suspendues à la vue de tous.
+  Actions de grâces rendues et fête instituée en l’honneur de cette victoire.
 ---
-
-
-Nicanor veut attaquer les Juifs.
-Il blasphème contre le Seigneur.
-Judas exhorte les siens ; il leur rapporte une vision qu’il a eue.
-Il défait l’armée de Nicanor.
-Nicanor est trouvé tué sur le champ de bataille ; sa tête et sa main sont suspendues à la vue de tous.
-Actions de grâces rendues et fête instituée en l’honneur de cette victoire.
 
 
 1 Or Nicanor, dès qu'il apprit que Judas était dans le pays de Samarie, résolut de commencer la guerre avec toutes ses forces le jour du sabbat.

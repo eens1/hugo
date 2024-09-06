@@ -1,21 +1,21 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Femme adultère présentée à Jésus-Christ.
+  Jésus lumière du monde.
+  Son Père lui rend témoignage.
+  Impénitence des Juifs prédite.
+  Crucifiement annoncé.
+  Qui commet le péché est esclave du péché.
+  Vrais enfants d’Abraham.
+  Le démon est le père du mensonge.
+  Qui est de Dieu entend les paroles de Dieu.
+  Jésus outragé laisse la défense de sa gloire à son Père.
+  Il déclare qu’il est avant Abraham.
 ---
-
-
-Femme adultère présentée à Jésus-Christ.
-Jésus lumière du monde.
-Son Père lui rend témoignage.
-Impénitence des Juifs prédite.
-Crucifiement annoncé.
-Qui commet le péché est esclave du péché.
-Vrais enfants d’Abraham.
-Le démon est le père du mensonge.
-Qui est de Dieu entend les paroles de Dieu.
-Jésus outragé laisse la défense de sa gloire à son Père.
-Il déclare qu’il est avant Abraham.
 
 
 1 Mais Jésus s'en alla à la montagne des Oliviers ;

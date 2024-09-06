@@ -1,9 +1,8 @@
 ---
 title: "Caput 2"
-date: 2024-09-06T18:40:56+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Fili accedens ad servitutem Dei, sta in iustitia, et timore, et præpara animam tuam ad tentationem.

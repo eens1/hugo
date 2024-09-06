@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Les Philistins renvoient l’arche.
+  Elle arrive à Bethsamès.
+  Bethsamites frappés de mort pour l’avoir regardée.
 ---
-
-
-Les Philistins renvoient l’arche.
-Elle arrive à Bethsamès.
-Bethsamites frappés de mort pour l’avoir regardée.
 
 
 1 L'arche du Seigneur fut donc dans le pays des Philistins pendant sept mois. 2 Et les Philistins appelèrent les prêtres et les devins, disant : Que ferons-nous de l'arche du Seigneur? indiquez-nous comment nous la renverrons en son lieu. Ceux-ci répondirent :3 Si vous renvoyez l'arche du Dieu d'Israël, ne la renvoyez point vide ; mais rendez-lui pour le péché ce que vous devez, et alors vous serez guéris; et vous saurez pourquoi sa main ne se retire pas de vous. 4 Les Philistins reprirent : Qu'est-ce que nous devons lui rendre pour le péché ? Et les prêtres répondirent :5 Vous ferez, selon le nombre des provinces des Philistins, cinq anus d'or, et cinq rats d'or, parce qu'il n'y a eu qu'une même plaie pour vous tous et pour vos satrapes. Vous ferez donc des représentations de vos anus, et des représentations des rats qui ont ravagé la terre ; et vous donnerez gloire au Dieu d'Israël; peut-être qu'il relèvera sa main de dessus vous, de dessus vos dieux, et de dessus votre terre. 6 Pourquoi aggravez-vous vos

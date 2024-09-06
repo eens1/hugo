@@ -1,9 +1,8 @@
 ---
 title: "Caput 11"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Venit autem Roboam in Ierusalem, et convocavit universam domum Iuda et Beniamin, centum octoginta millia electorum atque bellantium, ut dimicaret contra Israel, et converteret ad se regnum suum.

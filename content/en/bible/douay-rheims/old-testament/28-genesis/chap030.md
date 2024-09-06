@@ -1,9 +1,8 @@
 ---
 title: "Chapter 30"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 And Rachel seeing herself without children, envied her sister, and said to her husband: Give me children, otherwise I shall die.

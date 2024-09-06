@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Désirs ardents de l’Epouse.
+  Affection mutuelle des Epoux.
 ---
-
-
-Désirs ardents de l’Epouse.
-Affection mutuelle des Epoux.
 
 
 1 L'ÉPOUSE. Qu'il me baise d'un baiser de sa bouche ; car tes mamelles sont meilleures que le vin,

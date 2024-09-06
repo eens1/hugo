@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Cérémonies qu’on doit observer dans les sacrifices offerts pour les péchés d’ignorance.
 ---
-
-
-Cérémonies qu’on doit observer dans les sacrifices offerts pour les péchés d’ignorance.
 
 
 1 Le Seigneur parla encore à Moïse, disant :

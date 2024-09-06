@@ -1,9 +1,8 @@
 ---
 title: "Chapter 5"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 The ancients therefore that are among you, I beseech who am myself also an ancient and a witness of the sufferings of Christ, as also a partaker of that glory which is to be revealed in time to come:

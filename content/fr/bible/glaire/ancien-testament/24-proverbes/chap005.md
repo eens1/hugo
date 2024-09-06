@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Etre attentif à la sagesse.
+  Veiller sur ses pensées et sur ses paroles.
+  S’attacher à sa femme.
+  Fuir les femmes de mauvaise vie.
+  Eviter les femmes étrangères.
+  Suites funestes de l’adultère.
 ---
-
-
-Etre attentif à la sagesse.
-Veiller sur ses pensées et sur ses paroles.
-S’attacher à sa femme.
-Fuir les femmes de mauvaise vie.
-Eviter les femmes étrangères.
-Suites funestes de l’adultère.
 
 
 1 Mon fils, sois attentif à ma sagesse, et à ma prudence incline ton oreille,

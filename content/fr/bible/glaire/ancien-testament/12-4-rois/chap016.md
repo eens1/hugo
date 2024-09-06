@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Achaz se livre au culte des idoles.
+  Il est assiégé dans Jérusalem par Rasin et par Phacée.
+  Il appelle à son secours Théglath-Phalasar.
+  Il fait dresser dans le temple un autel conforme à celui de Damas.
+  Il meurt et Ezéchias lui succède.
 ---
-
-
-Achaz se livre au culte des idoles.
-Il est assiégé dans Jérusalem par Rasin et par Phacée.
-Il appelle à son secours Théglath-Phalasar.
-Il fait dresser dans le temple un autel conforme à celui de Damas.
-Il meurt et Ezéchias lui succède.
 
 
 1 En la dix-septième année de Phacée, fils de Romélie, régna Achaz, fils de Joatham, roi de Juda, 2 Achaz avait vingt ans lorsqu'il commença à régner, et il régna seize ans à Jérusalem : il ne fit point ce qui était agréable en la présence du Seigneur son Dieu, comme David son père;

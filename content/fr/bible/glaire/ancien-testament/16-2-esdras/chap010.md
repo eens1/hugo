@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Noms des signataires de l’alliance.
+  Divers règlements touchant l’observation des lois.
 ---
-
-
-Noms des signataires de l’alliance.
-Divers règlements touchant l’observation des lois.
 
 
 1 Or, les signataires furent Néhémias Athersatha, fils d'Hachélaï, et Sédécias,

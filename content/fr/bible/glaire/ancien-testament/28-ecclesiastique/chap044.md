@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 44"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Eloge des patriarches et des grands hommes de la nation des Hébreux, et particulièrement d’Hénoch, de Noé, d’Abraham, d’Isaac, de Jacob et de Joseph.
 ---
-
-
-Eloge des patriarches et des grands hommes de la nation des Hébreux, et particulièrement d’Hénoch, de Noé, d’Abraham, d’Isaac, de Jacob et de Joseph.
 
 
 1 Louons des hommes glorieux dans leur génération, et qui sont nos pères.

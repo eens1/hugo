@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Servitude des Israélites sous Chusan ; Othoniel est leur libérateur.
+  Servitude sous Eglon ; Aod les en délivre.
+  Samgar, troisième juge d’Israël.
 ---
-
-
-Servitude des Israélites sous Chusan ; Othoniel est leur libérateur.
-Servitude sous Eglon ; Aod les en délivre.
-Samgar, troisième juge d’Israël.
 
 
 1 Voici les nations que le Seigneur laissa, pour instruire par elles Israël et tous ceux qui ne connaissaient pas les guerres des Chananéens; 2 Afin que dans la suite leurs enfants apprissent à combattre contre les ennemis, et qu'ils s'accoutumassent à livrer bataille :3 Les cinq satrapes des Philistins, tous les Chananéens, les Sidoniens et les Hévéens qui habitaient sur la mont Liban, depuis la montagne de Baal-Hermon jusqu'à l'entrée d'Emath.

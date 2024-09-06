@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 Paul and Timothy, the servants of Jesus Christ: to all the saints in Christ Jesus who are at Philippi, with the bishops and deacons.

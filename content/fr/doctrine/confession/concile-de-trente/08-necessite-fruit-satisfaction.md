@@ -1,9 +1,8 @@
 ---
 title: "Chap. 8 - De la nécessité, et du fruit de la Satisfaction"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 Enfin, à l'égard de la Satisfaction, qui, de toutes les parties de la Pénitence, bien qu'en tout temps recommandée aux chrétiens par les saints Pères, se trouve cependant seule plus que les autres combattue en ce siècle, sous un grand prétexte de piété, par des gens qui ont une apparence de piété, mais qui en ont renié la vertu; le saint Concile déclare qu'il est entièrement faux et contraire à la parole de Dieu de dire que le Seigneur ne pardonne jamais la faute, qu'en même temps il ne remette toute la peine; car, outre l'autorité de la tradition divine, il se trouve dans les saintes Ecritures des exemples illustres et convaincants qui détrui sent manifestement cette erreur.

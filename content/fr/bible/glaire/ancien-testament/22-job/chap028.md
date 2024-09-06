@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 28"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Job recherche l’origine, le principe et la source de la sagesse.
 ---
-
-
-Job recherche l’origine, le principe et la source de la sagesse.
 
 
 1 L'argent a des sources de ses veines, et il y a pour l'or un lieu où il est mis en fusion.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 6"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 These are the precepts, and ceremonies, and judgments, which the Lord your God commanded that I should teach you, and that you should do them in the land into which you pass over to possess it:

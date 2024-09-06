@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Jonas envoyé à Ninive, s’enfuit de devant le Seigneur, et s’embarque pour aller à Tharsis.
+  Le vaisseau étant agité par une violente tempête, on tire au sort pour en découvrir la cause.
+  Le sort étant tombé sur Jonas, on le jette à la mer.
 ---
-
-
-Jonas envoyé à Ninive, s’enfuit de devant le Seigneur, et s’embarque pour aller à Tharsis.
-Le vaisseau étant agité par une violente tempête, on tire au sort pour en découvrir la cause.
-Le sort étant tombé sur Jonas, on le jette à la mer.
 
 
 1 Or, la parole du Seigneur fut adressée à Jonas, fils d'Amathi, disant :2 Lève-toi, et va dans Ninive la grande cité, et prêches-y, parce que sa malice est montée devant moi.

@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Parabole de la semence ; explication de cette parabole.
+  Lampe sous le boisseau.
+  Parabole de l’accroissement de la semence et du grain de sénevé.
+  Tempête apaisée.
 ---
-
-
-Parabole de la semence ; explication de cette parabole.
-Lampe sous le boisseau.
-Parabole de l’accroissement de la semence et du grain de sénevé.
-Tempête apaisée.
 
 
 1 Il commença de nouveau à enseigner auprès de la mer; et une grande multitude se rassembla autour de lui, de sorte que, montant dans la barque, il se tenait sur la mer, et toute la multitude était à terre le long du rivage.

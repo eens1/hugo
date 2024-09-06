@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 135"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste exalte la miséricorde du Seigneur par le récit des principales merveilles qu’il a opérées en faveur du peuple d’Israël.
 ---
-
-
-Le Psalmiste exalte la miséricorde du Seigneur par le récit des principales merveilles qu’il a opérées en faveur du peuple d’Israël.
 
 
 1 Alléluia. Glorifiez le Seigneur, parce qu'il est bon, parce qu'éternelle est sa miséricorde.

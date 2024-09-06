@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Guérison d’un homme qui avait une main desséchée.
+  Concours du peuple auprès de Jésus.
+  Election des apôtres.
+  Blasphème des pharisiens.
+  Péché contre le Saint-Esprit.
+  Mère et frères de Jésus-Christ.
 ---
-
-
-Guérison d’un homme qui avait une main desséchée.
-Concours du peuple auprès de Jésus.
-Election des apôtres.
-Blasphème des pharisiens.
-Péché contre le Saint-Esprit.
-Mère et frères de Jésus-Christ.
 
 
 1 Jésus entra une autre fois dans la synagogue ; or il s'y trouvait un homme qui avait une main desséchée.

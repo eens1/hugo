@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 34"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Mort de Moïse.
+  Sa sépulture.
+  Josué lui succède.
+  Eloge de Moïse.
 ---
-
-
-Mort de Moïse.
-Sa sépulture.
-Josué lui succède.
-Eloge de Moïse.
 
 
 1 Moïse donc monta des plaines de Moab sur la montagne de Nébo au sommet de Phasga contre Jéricho; et le Seigneur lui montra toute la terre de Galaad jusqu'à Dan,

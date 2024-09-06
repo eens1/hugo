@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Lois touchant le larcin, la fornication, l’usure, les dîmes, les prémices, etc.
 ---
-
-
-Lois touchant le larcin, la fornication, l’usure, les dîmes, les prémices, etc.
 
 
 1 Si quelqu'un vole un bœuf ou une brebis, et qu'il les tue ou les vende, il restituera cinq bœufs pour un bœuf et quatre brebis pour une brebis.

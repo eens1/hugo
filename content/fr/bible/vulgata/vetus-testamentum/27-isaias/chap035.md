@@ -1,9 +1,8 @@
 ---
 title: "Caput 35"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Lætabitur deserta et invia, et exultabit solitudo, et florebit quasi lilium.

@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 52"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Histoire du siège et de la prise de Jérusalem par Nabuchodonosor.
 ---
-
-
-Histoire du siège et de la prise de Jérusalem par Nabuchodonosor.
 
 
 1 Sédécias était âgé de vingt et un ans lorsqu'il commença à régner; et il régna onze ans dans Jérusalem; le nom de sa mère était Amital, fille de Jérémie de Lobna.

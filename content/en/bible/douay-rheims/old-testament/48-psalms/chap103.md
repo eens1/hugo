@@ -1,9 +1,8 @@
 ---
 title: "Chapter 103"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:30+02:00
 draft: false
 ---
-
 
 
 1 For David himself. Bless the Lord, O my soul: O Lord my God, thou art exceedingly great. Thou hast put on praise and beauty:

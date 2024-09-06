@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Puissance d’Arphaxad.
+  Il est vaincu par Nabuchodonosor, qui veut ensuite se faire rendre hommage par les autres peuples voisins.
 ---
-
-
-Puissance d’Arphaxad.
-Il est vaincu par Nabuchodonosor, qui veut ensuite se faire rendre hommage par les autres peuples voisins.
 
 
 1 Arphaxad donc, roi des Mèdes, avait subjugué un grand nombre de nations à son empire, et lui-même bâtit une ville très puissante, qu'il appela Ecbatane,

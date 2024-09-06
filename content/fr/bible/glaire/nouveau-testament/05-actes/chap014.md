@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Succès de la prédication de Paul et de Barnabé à Iconium.
+  Ils sont chassés et se réfugient à Lystre.
+  Paul y guérit un boiteux.
+  On veut leur sacrifier ; on les lapide.
+  Ils vont à Derbe.
+  Ils s’en retournent à Antioche de Syrie, en visitant les fidèles.
 ---
-
-
-Succès de la prédication de Paul et de Barnabé à Iconium.
-Ils sont chassés et se réfugient à Lystre.
-Paul y guérit un boiteux.
-On veut leur sacrifier ; on les lapide.
-Ils vont à Derbe.
-Ils s’en retournent à Antioche de Syrie, en visitant les fidèles.
 
 
 1 Or il arriva à Icone, qu'ils entrèrent ensemble dans la synagogue , et parlèrent de telle sorte, qu'une grande multitude de Juifs et de Grecs embrassa la foi. 2 Mais ceux des Juifs qui demeurèrent incrédules, excitèrent et irritèrent l'esprit des gentils contre les frères.

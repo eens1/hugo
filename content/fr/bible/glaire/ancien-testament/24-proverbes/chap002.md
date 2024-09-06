@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Avantages que l’on trouve dans la possession de la sagesse.
+  Maux que la sagesse fait éviter à ceux qui l’aiment et qui la possèdent.
 ---
-
-
-Avantages que l’on trouve dans la possession de la sagesse.
-Maux que la sagesse fait éviter à ceux qui l’aiment et qui la possèdent.
 
 
 1 Mon fils, si tu reçois mes paroles, et si tu caches mes commandements en toi,

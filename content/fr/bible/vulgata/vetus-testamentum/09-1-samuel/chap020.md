@@ -1,9 +1,8 @@
 ---
 title: "Caput 20"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Fugit autem David de Naioth, quæ est in Ramatha, veniensque locutus est coram Ionatha: Quid feci? quæ est iniquitas mea, et quod peccatum meum in patrem tuum, quia quærit animam meam?

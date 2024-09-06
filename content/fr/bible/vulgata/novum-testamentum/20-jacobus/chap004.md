@@ -1,9 +1,8 @@
 ---
 title: "Caput 4"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:47+02:00
 draft: false
 ---
-
 
 
 1 Unde bella, et lites in vobis? Nonne hinc? ex concupiscentiis vestris, quæ militant in membris vestris?

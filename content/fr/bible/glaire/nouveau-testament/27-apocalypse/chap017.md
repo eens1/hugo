@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
+summary: |
+  
+  Bête à sept têtes et à dix cornes, sur laquelle est assise une femme nommée la grande Babylone.
+  L’ange, qui montre à saint Jean cette femme et cette bête, lui explique le mystère de l’une et de l’autre.
 ---
-
-
-Bête à sept têtes et à dix cornes, sur laquelle est assise une femme nommée la grande Babylone.
-L’ange, qui montre à saint Jean cette femme et cette bête, lui explique le mystère de l’une et de l’autre.
 
 
 1 Alors vint un des sept anges qui avaient les sept coupes, et il me parla, disant: Viens, je te montrerai la condamnation de la grande prostituée, qui est assise sur les grandes eaux,

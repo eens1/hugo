@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 31"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Moïse nomme Josué pour son successeur.
+  Il ordonne qu’on lise la loi au peuple tous les sept ans.
+  Dieu lui annonce sa mort prochaine et lui ordonne de composer un cantique.
 ---
-
-
-Moïse nomme Josué pour son successeur.
-Il ordonne qu’on lise la loi au peuple tous les sept ans.
-Dieu lui annonce sa mort prochaine et lui ordonne de composer un cantique.
 
 
 1 Moïse alla donc, et il adressa toutes ces paroles à tout Israël, 2 Et il leur dit : J'ai cent vingt ans aujourd'hui, je ne peux plus sortir et entrer, surtout après que le Seigneur m'a dit : Tu ne passeras point ce Jourdain.

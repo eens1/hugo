@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Dieu ordonne de ruiner l’idolâtrie dans le pays de Chanaan, de payer les dîmes et les prémices, et de ne pas imiter les Chananéens.
 ---
-
-
-Dieu ordonne de ruiner l’idolâtrie dans le pays de Chanaan, de payer les dîmes et les prémices, et de ne pas imiter les Chananéens.
 
 
 1 Voici les préceptes et les ordonnances que vous devez pratiquer dans le pays que le Seigneur Dieu de tes pères va te donner, afin que tu le possèdes durant tous les jours que tu marcheras sur la terre.

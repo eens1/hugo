@@ -1,9 +1,8 @@
 ---
 title: "Chapter 14"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 Now the feast of the pasch and of the Azymes was after two days: and the chief priests and the scribes sought how they might by some wile lay hold on him and kill him.

@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Zèle de Tobie pour ensevelir les morts.
+  Il devient aveugle.
+  Sa constance au milieu de son affliction.
+  Reproches que sa femme lui fait.
 ---
-
-
-Zèle de Tobie pour ensevelir les morts.
-Il devient aveugle.
-Sa constance au milieu de son affliction.
-Reproches que sa femme lui fait.
 
 
 1 Or, après cela, comme c'était le jour de la fête du Seigneur, un bon repas fut préparé dans la maison de Tobie,

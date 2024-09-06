@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 34"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Dina, fille de Jacob, est violée par Sichem, fils d’Hémor.
+  Siméon et Lévi égorgent les Sichémites.
 ---
-
-
-Dina, fille de Jacob, est violée par Sichem, fils d’Hémor.
-Siméon et Lévi égorgent les Sichémites.
 
 
 1 Or Dina, fille de Lia, sortit pour voir les femmes de cette contrée. 2 Lorsque Sichem, fils d'Hémor Hévéen, prince du pays, l'eut vue, il l'aima passionnément ; et il l'enleva et dormit avec elle, faisant violence à cette jeune vierge. 3 Et son âme s'attacha fortement à elle ; et il adoucit sa tristesse par ses caresses. 4 Allant ensuite vers Hémor son père : Obtiens-moi, dit-il, cette jeune fille pour femme. 5 Ce que Jacob ayant appris, ses fils étant absents et occupés à paître les troupeaux, il garda le silence jusqu'à ce qu'ils revinrent.

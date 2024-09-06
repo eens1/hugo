@@ -1,9 +1,8 @@
 ---
 title: "Caput 16"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Et cum transisset sabbatum, Maria Magdalene, et Maria Iacobi, et Salome emerunt aromata ut venientes ungerent Iesum.

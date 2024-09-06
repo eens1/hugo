@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Azarias, roi de Juda, devient lépreux.
+  Joathan gouverne en sa place.
+  Zacharias, roi d’Israël, est tué par Sellum, qui s’empare du trône.
+  Manahem succède à Sellum, et a pour successeur Phacéia, et après lui Phacée.
+  Théglath-Phalasar transporte en Syrie une grande partie des Israélites.
+  Osée succède à Phacée, et Achaz à Joathan, roi de Juda
 ---
-
-
-Azarias, roi de Juda, devient lépreux.
-Joathan gouverne en sa place.
-Zacharias, roi d’Israël, est tué par Sellum, qui s’empare du trône.
-Manahem succède à Sellum, et a pour successeur Phacéia, et après lui Phacée.
-Théglath-Phalasar transporte en Syrie une grande partie des Israélites.
-Osée succède à Phacée, et Achaz à Joathan, roi de Juda
 
 
 1 En la vingt-septième année de Jéroboam, roi d'Israël, régna Azarias, fils d'Amasias, Juda. 2 Il avait seize ans lorsqu'il commença à régner, et il régna cinquante-deux ans dans Jérusalem : le nom de sa mère était Jéchélie de Jérusalem. 3 Et il fit ce qui était agréable devant le Seigneur, selon tout ce que fit Amasias, son père. 4 Cependant il ne démolit pas les hauts lieux, et le peuple sacrifiait encore et brûlait de l'encens sur les hauts lieux. 5 Mais le Seigneur frappa le roi, et il fut lépreux jusqu'au jour de sa mort, et il habitait dans la maison retirée, séparément : cependant Joathan, fils du roi, gouvernait le palais, et jugeait le peuple de la terre.

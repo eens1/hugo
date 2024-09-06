@@ -1,9 +1,8 @@
 ---
 title: "Chapter 15"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 And I saw another sign in heaven, great and wonderful: seven angels having the seven last plagues. For in them is filled up the wrath of God.

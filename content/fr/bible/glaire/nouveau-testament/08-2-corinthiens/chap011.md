@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Saint Paul est obligé de se louer pour confondre ses calomniateurs.
+  Son zèle pour les Corinthiens.
+  Pourquoi il veut exercer gratuitement son ministère à leur égard.
+  Faux apôtres.
+  Saint Paul se glorifie dans ses souffrances.
 ---
-
-
-Saint Paul est obligé de se louer pour confondre ses calomniateurs.
-Son zèle pour les Corinthiens.
-Pourquoi il veut exercer gratuitement son ministère à leur égard.
-Faux apôtres.
-Saint Paul se glorifie dans ses souffrances.
 
 
 1 Plût à Dieu que vous supportiez quelque peu de mon imprudence! mais supportez-moi; 2 Car je suis jaloux de vous d'une jalousie de Dieu. En effet, je vous ai fiancés à un époux unique, au Christ, pour vous présenter à lui comme une vierge pure.

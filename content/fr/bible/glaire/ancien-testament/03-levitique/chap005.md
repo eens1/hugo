@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Peine contre ceux qui ne découvrent pas au juge ce qu’ils savent.
+  Différents sacrifices d’expiation.
 ---
-
-
-Peine contre ceux qui ne découvrent pas au juge ce qu’ils savent.
-Différents sacrifices d’expiation.
 
 
 1 Si un homme a péché en ce qu'il a entendu la parole de quelqu'un qui jurait, et qu'il soit témoin pour avoir vu ou su la chose, à moins qu'il ne la dénonce, il portera son iniquité.

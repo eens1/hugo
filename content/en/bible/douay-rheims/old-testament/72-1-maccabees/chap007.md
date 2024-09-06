@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 In the hundred and fifty-first year, Demetrius, the son of Seleucus, departed from the city of Rome, and came up with few men into a city of the sea coast, and reigned there.

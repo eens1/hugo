@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And the men of Cariathiarim came, and fetched up the ark of the Lord, and carried it into the house of Abinadab, in Gabaa: and they sanctified Eleazar, his son, to keep the ark of the Lord.

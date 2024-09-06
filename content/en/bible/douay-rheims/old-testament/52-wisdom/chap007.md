@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 I myself am a mortal man, like all others, and of the race of him, that was first made of the earth, and in the womb of my mother I was fashioned to be flesh.

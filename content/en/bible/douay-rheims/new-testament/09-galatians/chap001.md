@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 Paul, an apostle, not of men, neither by man, but by Jesus Christ and God the Father, who raised him from the dead:

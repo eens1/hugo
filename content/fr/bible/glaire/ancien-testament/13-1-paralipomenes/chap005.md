@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Descendants de Ruben, de Gad, et de la demi-tribu de Manassé.
 ---
-
-
-Descendants de Ruben, de Gad, et de la demi-tribu de Manassé.
 
 
 1 Voici les fils de Ruben, premier-né d'Israël (car c'est lui qui était son premier-né; mais lorsqu'il eut violé le lit nuptial de son père, son droit d'aînesse fut donné aux fils de Joseph, fils d'Israël ; et Ruben ne fut plus réputé premier-né.

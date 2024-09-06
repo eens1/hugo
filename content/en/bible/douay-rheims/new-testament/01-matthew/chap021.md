@@ -1,9 +1,8 @@
 ---
 title: "Chapter 21"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 And when they drew nigh to Jerusalem and were come to Bethphage, unto mount Olivet, then Jesus sent two disciples,

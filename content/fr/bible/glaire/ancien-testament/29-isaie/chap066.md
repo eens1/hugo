@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 66"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Temple et sacrifice des Juifs rejetés.
+  Vengeance du Seigneur contre e peuple.
+  Sion enfante un peuple fidèle.
+  Le Seigneur se fait connaître aux nations.
+  Race nouvelle qui subsistera éternellement.
 ---
-
-
-Temple et sacrifice des Juifs rejetés.
-Vengeance du Seigneur contre e peuple.
-Sion enfante un peuple fidèle.
-Le Seigneur se fait connaître aux nations.
-Race nouvelle qui subsistera éternellement.
 
 
 1 Voici ce que dit le Seigneur: Le ciel est mon trône, et la terre l'escabeau de mes pieds; quelle est cette maison que vous me bâtirez? et quel est ce lieu de mon repos?

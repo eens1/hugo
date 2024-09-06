@@ -1,9 +1,8 @@
 ---
 title: "Chapter 9"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And David said: Is there any one, think you, left of the house of Saul, that I may shew kindness to him for Jonathan's sake?

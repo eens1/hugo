@@ -1,9 +1,8 @@
 ---
 title: "Chapter 36"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 Beseleel therefore, and Ooliab, and every wise man, to whom the Lord gave wisdom and understanding, to know how to work artificially, made the things that are necessary for the uses of the sanctuary, and which the Lord commanded.

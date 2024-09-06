@@ -1,9 +1,8 @@
 ---
 title: "Chapter 113"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:30+02:00
 draft: false
 ---
-
 
 
 1 When Israel went out of Egypt, the house of Jacob from a barbarous people:

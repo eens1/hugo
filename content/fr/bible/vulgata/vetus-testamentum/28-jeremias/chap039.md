@@ -1,9 +1,8 @@
 ---
 title: "Caput 39"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 Anno nono Sedeciæ regis Iuda, mense decimo, venit Nabuchodonosor rex Babylonis, et omnis exercitus eius ad Ierusalem, et obsidebant eam.

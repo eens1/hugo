@@ -1,9 +1,8 @@
 ---
 title: "Caput 18"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Factum est autem post hæc, ut percuteret David Philisthiim, et humiliaret eos, et tolleret Geth, et filias eius de manu Philisthiim,

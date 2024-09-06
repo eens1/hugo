@@ -1,9 +1,8 @@
 ---
 title: "Chapter 8"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass in the sixth year, in the sixth month, in the fifth day of the month, as I sat in my house, and the ancients of Juda sat before me, that the hand of the Lord God fell there upon me.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Amnon, fils de David, commet un inceste avec Thamar, sœur d’Absalom.
+  Son amour se change en haine contre elle.
+  Absalom fait tuer Amnon, et se sauve chez Tholomaï, roi de Gessur.
 ---
-
-
-Amnon, fils de David, commet un inceste avec Thamar, sœur d’Absalom.
-Son amour se change en haine contre elle.
-Absalom fait tuer Amnon, et se sauve chez Tholomaï, roi de Gessur.
 
 
 1 Or, il arriva après cela, qu'Amnon, fils de David, s'éprit d'amour pour la sœur d'Absalom, fils de David, femme très belle, du nom de Thamar ; 2 Et il l'aimait éperdument, à un tel point, qu'à cause de son amour il était malade, parce que comme elle était vierge, il lui paraissait difficile de rien faire déshonnêtement avec elle. 3 Or, Amnon avait un ami, du nom de Jonadab, fils de Semmaa, frère de David, homme très prudent, 4 Lequel lui demanda : Pourquoi, fils du roi, maigris-tu ainsi chaque jour? pourquoi ne me le dis-tu point? Et Amnon lui répondit : J'aime Thamar, la sœur de mon frère Absalom. 5 Jonadab lui dit : Couche-toi sur ton lit et feins une maladie ; et lorsque ton père viendra pour te visiter, dis-lui : Que Thamar, ma sœur, vienne, je vous prie, afin qu'elle me donne de la nourriture , et qu'elle me fasse un mets, pour que je mange de sa main. 6 C'est pourquoi Amnon se coucha, et commença à feindre d'être malade ; et lorsque le roi fut venu pour le visiter, Amnon dit au roi : Que Thamar, ma sœur,

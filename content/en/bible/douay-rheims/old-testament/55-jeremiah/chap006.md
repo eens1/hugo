@@ -1,9 +1,8 @@
 ---
 title: "Chapter 6"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Strengthen yourselves, ye sons of Benjamin, in the midst of Jerusalem, and sound the trumpet in Thecua, and set up the standard over Bethacarem: for evil is seen out of the north, and a great destruction.

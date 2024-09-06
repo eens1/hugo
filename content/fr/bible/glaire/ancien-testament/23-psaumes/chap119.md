@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 119"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste, plein de reconnaissance des secours qu’il a reçus du Seigneur, le prie de le délivrer de la langue et des mains de ses ennemis.
 ---
-
-
-Le Psalmiste, plein de reconnaissance des secours qu’il a reçus du Seigneur, le prie de le délivrer de la langue et des mains de ses ennemis.
 
 
 1 Cantique des degrés. J'ai crié vers le Seigneur, lorsque j'étais dans la tribulation, et il m'a exaucé.

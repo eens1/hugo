@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 The burden of the word of the Lord upon Israel. Thus saith the Lord, who stretcheth forth the heavens, and layeth the foundations of the earth, and formeth the spirit of man in him:

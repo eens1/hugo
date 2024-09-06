@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Suite du sermon après la cène.
+  Prédiction des persécutions.
+  Promesse du Paraclet.
+  Triple conviction qu’il doit produire, et lumière qu’il doit répandre.
+  Prière au nom de Jésus-Christ.
+  Confiance au milieu des tribulations.
 ---
-
-
-Suite du sermon après la cène.
-Prédiction des persécutions.
-Promesse du Paraclet.
-Triple conviction qu’il doit produire, et lumière qu’il doit répandre.
-Prière au nom de Jésus-Christ.
-Confiance au milieu des tribulations.
 
 
 1 Je vous ai dit ces choses, afin que vous ne soyez point scandalisés. 2 Ils vous chasseront des synagogues; et vient l'heure où quiconque vous fera mourir croira rendre hommage à Dieu ; 3 Et ils vous feront ainsi, parce qu'ils ne connaissent ni mon Père ni moi. 4 Or je vous ai dit ces choses, afin que lorsqu'en sera venue l'heure, vous vous souveniez que je vous les ai dites. 5 Mais je ne vous les ai pas dites dès le commencement, parce que j'étais encore avec vous. Et maintenant je m'en vais à celui qui m'a envoyé, et personne de vous ne me demande : Où allez-vous?

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 20"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass in the seventh year, in the fifth month, the tenth day of the month: there came men of the ancients of Israel to inquire of the Lord, and they sat before me.

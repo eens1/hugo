@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Dénombrement des emplois et des familles des Lévites.
 ---
-
-
-Dénombrement des emplois et des familles des Lévites.
 
 
 1 Le Seigneur parla encore à Moïse et à Aaron, disant :2 Fais le dénombrement des fils de Caath d'entre les Lévites, selon leurs familles et leurs maisons, 3 Depuis trente ans et au dessus, jusqu'à cinquante ans, de tous ceux qui entrent, pour se tenir et servir dans le tabernacle d'alliance.

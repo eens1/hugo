@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 And it shall come to pass in the last days, that the mountain of the house of the Lord shall be prepared in the top of the mountains, and high above the hills: and people shall flow to it.

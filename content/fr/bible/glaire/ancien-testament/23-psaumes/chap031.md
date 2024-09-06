@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 31"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David relève le bonheur de ceux dont les péchés sont effacés.
+  Il décrit sa résistance et son retour à Dieu, et il apprend aux pécheurs à éviter par une prompte conversion les châtiments dont ils sont menacés.
 ---
-
-
-David relève le bonheur de ceux dont les péchés sont effacés.
-Il décrit sa résistance et son retour à Dieu, et il apprend aux pécheurs à éviter par une prompte conversion les châtiments dont ils sont menacés.
 
 
 1 Bienheureux ceux dont les iniquités ont été remises et dont les péchés ont été couverts.

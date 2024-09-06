@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Dieu châtie avec patience ceux qui l’ont offensé pour leur donner lieu de faire pénitence.
+  Il instruit ses enfants par les châtiments qu’il exerce sur ses ennemis.
 ---
-
-
-Dieu châtie avec patience ceux qui l’ont offensé pour leur donner lieu de faire pénitence.
-Il instruit ses enfants par les châtiments qu’il exerce sur ses ennemis.
 
 
 1 Qu'il est bon et doux, Seigneur, votre esprit en toutes choses!2 Et c'est pour cela que vous châtiez par parties ceux qui s'égarent; au sujet de leurs fautes, vous les reprenez et les exhortez, afin qu'abandonnant le mal, ils croient en vous, Seigneur.

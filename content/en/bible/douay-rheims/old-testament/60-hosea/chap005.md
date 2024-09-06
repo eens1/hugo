@@ -1,9 +1,8 @@
 ---
 title: "Chapter 5"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 Hear ye this, O priests, and hearken, O ye house of Israel, and give ear, O house of the king: for there is a judgment against you, because you have been a snare to them whom you should have watched over and a net spread upon Thabor.

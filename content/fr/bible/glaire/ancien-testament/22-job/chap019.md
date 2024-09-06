@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 19"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Job se plaint de la dureté de ses amis.
+  Il expose ses peines, et se console par l’espérance de la résurrection.
 ---
-
-
-Job se plaint de la dureté de ses amis.
-Il expose ses peines, et se console par l’espérance de la résurrection.
 
 
 1 Or, répondant, Job dit :

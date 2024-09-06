@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Ochozias succède à Joram ; il est tué, ainsi que Joram, roi d’Israël, par Jéhu.
+  Athalie fait mourir tous les enfants d’Ochozias.
+  Joas seul est sauvé de ce carnage.
 ---
-
-
-Ochozias succède à Joram ; il est tué, ainsi que Joram, roi d’Israël, par Jéhu.
-Athalie fait mourir tous les enfants d’Ochozias.
-Joas seul est sauvé de ce carnage.
 
 
 1 Or les habitants de Jérusalem établirent roi, en sa place, Ochozias, le plus jeune de ses fils; car tous les aînés qui étaient avant lui, les voleurs Arabes qui avaient fait une irruption dans le camp, les avaient tués : ainsi régna Ochozias, fils de Joram, roi de Juda.

@@ -1,9 +1,8 @@
 ---
 title: "Caput 37"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 Et regnavit rex Sedecias filius Iosiæ pro Iechonia filio Ioakim: quem constituit regem Nabuchodonosor rex Babylonis in Terra Iuda:

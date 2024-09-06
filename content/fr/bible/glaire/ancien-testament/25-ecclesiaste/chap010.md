@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Suites funestes de l’imprudence.
+  Imprudents et esclaves élevés en dignité.
+  Caractère du médisant.
+  Roi enfant.
+  Prince débauché.
+  Ne point médire du roi.
 ---
-
-
-Suites funestes de l’imprudence.
-Imprudents et esclaves élevés en dignité.
-Caractère du médisant.
-Roi enfant.
-Prince débauché.
-Ne point médire du roi.
 
 
 1 Les mouches mourant gâtent la suavité d'un parfum. Une folie légère et de courte durée prévaut sur la sagesse et la gloire.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 For the rest therefore, brethren, pray and beseech you in the Lord Jesus that, as you have received from us, how you ought to walk and to please God, so also you would walk, that you may abound the more.

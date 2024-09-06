@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Rétablissement de Sion.
+  Concours des peuples qui y viennent rendre leurs hommages au Seigneur.
+  Paix dans toute la terre.
+  Sion et Samarie ramenées de captivité.
+  Puissance rendue à Sion.
+  Défaite des nations soulevées contre elle.
 ---
-
-
-Rétablissement de Sion.
-Concours des peuples qui y viennent rendre leurs hommages au Seigneur.
-Paix dans toute la terre.
-Sion et Samarie ramenées de captivité.
-Puissance rendue à Sion.
-Défaite des nations soulevées contre elle.
 
 
 1 Et il arrivera au dernier des jours que la montagne de la maison du Seigneur sera préparée sur le sommet des montagnes, et élevée au-dessus des collines ; et des peuples y afflueront.

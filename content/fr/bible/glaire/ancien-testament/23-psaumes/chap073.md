@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 73"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Plainte et prière à Dieu au sujet de son peuple qui a été livré à ses ennemis, et du temple brûlé et souillé par ces mêmes ennemis.
+  Le Psalmiste fait le récit des anciennes merveilles opérées par le Seigneur en faveur de son peuple ; il termine en demandant à Dieu de se souvenir de l’orgueil de ses ennemis et de les humilier.
 ---
-
-
-Plainte et prière à Dieu au sujet de son peuple qui a été livré à ses ennemis, et du temple brûlé et souillé par ces mêmes ennemis.
-Le Psalmiste fait le récit des anciennes merveilles opérées par le Seigneur en faveur de son peuple ; il termine en demandant à Dieu de se souvenir de l’orgueil de ses ennemis et de les humilier.
 
 
 1 Intelligence d'Asaph. Pourquoi, ô Dieu, nous avez-vous rejetés pour toujours, et pourquoi votre fureur s'est-elle irritée contre les brebis de votre pâturage?

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 18"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 At that hour the disciples came to Jesus, saying: Who, thinkest thou, is the greater in the kingdom of heaven?

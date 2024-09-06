@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 59"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Infidélité d’Israël, obstacle à sa délivrance.
+  Vengeance du Seigneur contre Babylone et ses alliés.
+  Délivrance d’Israël.
 ---
-
-
-Infidélité d’Israël, obstacle à sa délivrance.
-Vengeance du Seigneur contre Babylone et ses alliés.
-Délivrance d’Israël.
 
 
 1 Voici que la main du Seigneur n'est point raccourcie pour ne pouvoir sauver, et son oreille n'est point appesantie pour ne pas écouter ;

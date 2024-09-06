@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 35"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Pâque célébrée à Jérusalem sous Josias.
+  Ce prince attaque le roi d’Egypte et est tué dans le combat.
 ---
-
-
-Pâque célébrée à Jérusalem sous Josias.
-Ce prince attaque le roi d’Egypte et est tué dans le combat.
 
 
 1 Josias fit ensuite à Jérusalem la Pâque du Seigneur, laquelle fut immolée le quatorzième jour du premier mois;

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 Peter, an apostle of Jesus Christ, to the strangers dispersed through Pontus, Cappadocia, Asia and Bithynia, elect,

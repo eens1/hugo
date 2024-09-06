@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  
+  Lettre des Juifs de Judée à ceux d’Egypte, pour leur recommander de célébrer la fête de la nouvelle dédicace du temple.
+  Autre lettre pour les exhorter à célébrer avec eux la fête de la nouvelle dédicace du temple et celle du recouvrement du feu sacré.
 ---
-
-
-
-Lettre des Juifs de Judée à ceux d’Egypte, pour leur recommander de célébrer la fête de la nouvelle dédicace du temple.
-Autre lettre pour les exhorter à célébrer avec eux la fête de la nouvelle dédicace du temple et celle du recouvrement du feu sacré.
 
 
 1 Aux Juifs leurs frères qui sont répandus en Egypte, les Juifs qui sont dans Jérusalem et dans le pays de Judée, disent salut et heureuse paix. 2 Que Dieu bien vous fasse; qu'il se souvienne de l'alliance qu'il a contractée avec Abraham, Isaac et Jacob; qu'il se souvienne de ses serviteurs fidèles.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 41"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass in the seventh month, that Ismahel the son of Nathanias, the son of Elisama of the royal blood, and the nobles of the king, and ten men with him, came to Godolias the son of Ahicam into Masphath: and they ate bread there together in Masphath.

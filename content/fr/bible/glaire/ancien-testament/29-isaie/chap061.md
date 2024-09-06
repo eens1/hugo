@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 61"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Mission du prophète ou plutôt du Messie.
+  Délivrance et rétablissement d’Israël.
 ---
-
-
-Mission du prophète ou plutôt du Messie.
-Délivrance et rétablissement d’Israël.
 
 
 1 L'esprit du Seigneur est sur moi, parce que le Seigneur m'a oint ; pour annoncer sa parole à ceux qui sont doux, il m'a envoyé, pour guérir ceux qui ont le cœur contrit, pour prêcher la grâce aux captifs, et l'ouverture des prisons à ceux qui y sont renfermés;

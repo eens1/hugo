@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 32"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Lamentations sur la ruine de Pharaon.
+  Autres lamentations sur la ruine du peuple de l’Egypte.
 ---
-
-
-Lamentations sur la ruine de Pharaon.
-Autres lamentations sur la ruine du peuple de l’Egypte.
 
 
 1 Et il arriva, en la douzième année, au douzième mois, au premier jour du mois, que la parole du Seigneur me fut adressée, disant :

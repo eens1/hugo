@@ -1,18 +1,18 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Suite du sermon après la cène.
+  Jésus est la vigne ; ses disciples sont les sarments.
+  Vie et joie en lui seul.
+  Commandement de l’amour.
+  Choix des disciples.
+  Monde ennemi des fidèles.
+  Juifs inexcusables.
+  Témoignage de l’esprit de vérité.
 ---
-
-
-Suite du sermon après la cène.
-Jésus est la vigne ; ses disciples sont les sarments.
-Vie et joie en lui seul.
-Commandement de l’amour.
-Choix des disciples.
-Monde ennemi des fidèles.
-Juifs inexcusables.
-Témoignage de l’esprit de vérité.
 
 
 1 Moi je suis la vraie vigne, et mon Père est le vigneron.

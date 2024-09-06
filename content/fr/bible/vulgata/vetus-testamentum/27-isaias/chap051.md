@@ -1,9 +1,8 @@
 ---
 title: "Caput 51"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Audite me qui sequimini quod iustum est, et quæritis Dominum: attendite ad petram unde excisi estis, et ad cavernam laci, de qua præcisi estis.

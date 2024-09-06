@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Corruption général des habitants de Jérusalem.
+  Le Seigneur reproche aux Israélites leur infidélité et leur incrédulité.
+  Il annonce la punition de leurs crimes ; il promet de ne pas perdre entièrement son peuple.
 ---
-
-
-Corruption général des habitants de Jérusalem.
-Le Seigneur reproche aux Israélites leur infidélité et leur incrédulité.
-Il annonce la punition de leurs crimes ; il promet de ne pas perdre entièrement son peuple.
 
 
 1 Parcourez les rues de Jérusalem, et regardez, et considérez, et cherchez dans ses places publiques si vous trouvez un homme faisant la justice et cherchant la vérité, et je lui serai propice.

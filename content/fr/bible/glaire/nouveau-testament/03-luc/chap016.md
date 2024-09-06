@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Parabole de l’économe infidèle.
+  Nul ne peut servir deux maîtres.
+  Reproches contre les pharisiens.
+  Indissolubilité du mariage.
+  Mauvais riche, pauvre Lazare : supplice de l’un, récompense de l’autre.
 ---
-
-
-Parabole de l’économe infidèle.
-Nul ne peut servir deux maîtres.
-Reproches contre les pharisiens.
-Indissolubilité du mariage.
-Mauvais riche, pauvre Lazare : supplice de l’un, récompense de l’autre.
 
 
 1 Jésus (lisait encore à ses disciples : Il était un homme riche qui avait un économe ; et celui-ci fut accusé auprès de lui d'avoir dissipé ses biens. 2 Il l'appela, et lui dit: Qu'est-ce que j'entends dire de toi? Rends-moi compte de ton administration, car désormais tu ne pourras plus la conserver. 3 Alors l'économe dit en lui-même : Que ferai-je, puisque mon maître m'ôte l'administration de ses biens? Travailler à la terre, je n'en ai pas la force, et j'ai honte de mendier. 4 Je sais ce que je ferai, afin que, lorsque j'aurai été renvoyé de ma charge, il y en ait qui me reçoivent dans leurs maisons. 5 Ayant donc appelé chacun des débiteurs de son maître, il demanda au premier : Combien devez-vous à mon maître? 6 Il répondit : Cent barils d'huile. Et l'économe lui dit : Prenez votre obligation, et asseyez-vous vite, et écrivez cinquante.

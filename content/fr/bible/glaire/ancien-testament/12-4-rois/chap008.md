@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  La Sunamite revient dans Israël après les sept années de famine.
+  Elisée va à Damas et prédit la mort de Bénadad et le règne d’Hazaël.
+  Joram, fils de Josaphat, règne sur Juda.
+  Révolte des Iduméens.
+  Mort de Joram.
+  Ochozias lui succède.
 ---
-
-
-La Sunamite revient dans Israël après les sept années de famine.
-Elisée va à Damas et prédit la mort de Bénadad et le règne d’Hazaël.
-Joram, fils de Josaphat, règne sur Juda.
-Révolte des Iduméens.
-Mort de Joram.
-Ochozias lui succède.
 
 
 1 Or Elisée parla à cette femme dont il avait ressuscité le fils, disant : Lève-toi, va, toi et ta maison, et fais ton séjour partout où tu trouveras; car le Seigneur a appelé la famine, et elle viendra sur la terre pendant sept ans.

@@ -1,9 +1,8 @@
 ---
 title: "Caput 6"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Audite quæ Dominus loquitur: Surge, contende iudicio adversum montes, et audiant colles vocem tuam.

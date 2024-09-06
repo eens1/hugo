@@ -1,9 +1,8 @@
 ---
 title: "Chapter 37"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 The hand of the Lord was upon me, and brought me forth in the spirit of the Lord: and set me down in the midst of a plain that was full of bones.

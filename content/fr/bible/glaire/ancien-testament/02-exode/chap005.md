@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Moïse et Aaron se présentent devant Pharaon.
+  Pharaon surcharge les Israélites de nouveaux travaux.
+  Plaintes des Israélites contre Moïse et Aaron.
 ---
-
-
-Moïse et Aaron se présentent devant Pharaon.
-Pharaon surcharge les Israélites de nouveaux travaux.
-Plaintes des Israélites contre Moïse et Aaron.
 
 
 1 Après cela Moïse et Aaron entrèrent et dirent à Pharaon : Voici ce que dit le Seigneur Dieu d'Israël : Laisse aller mon peuple, afin qu'il me sacrifie dans le désert.

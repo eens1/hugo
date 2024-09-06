@@ -1,9 +1,8 @@
 ---
 title: "Chapter 13"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 Unto the end, a psalm for David. The fool hath said in his heart: There is no God. They are corrupt, and are become abominable in their ways: there is none that doth good, no not one.

@@ -1,9 +1,8 @@
 ---
 title: "Caput 18"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Cumque audisset Iethro, sacerdos Madian, cognatus Moysi, omnia quæ fecerat Deus Moysi, et Israeli populo suo, et quod eduxisset Dominus Israel de Ægypto:

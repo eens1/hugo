@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 30"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Vaine confiance de la Judée dans le secours de l’Egypte.
+  Rétablissement de Juda.
+  Défaite de ses ennemis.
 ---
-
-
-Vaine confiance de la Judée dans le secours de l’Egypte.
-Rétablissement de Juda.
-Défaite de ses ennemis.
 
 
 1 Malheur à vous, fils déserteurs, dit le Seigneur, de ce que vous formez des desseins, et non par moi, et que vous ourdissez une trame, et non par mon esprit, afin d'ajouter péché à péché; 2 Vous qui marchez pour descendre en Egypte, et n'avez pas interrogé ma bouche, espérant du secours de la force de Pharaon, et ayant confiance dans l'ombre de l'Egypte.

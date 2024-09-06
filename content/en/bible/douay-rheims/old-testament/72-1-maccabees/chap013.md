@@ -1,9 +1,8 @@
 ---
 title: "Chapter 13"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 Now Simon heard that Tryphon was gathering together a very great army to invade the land of Juda, and to destroy it.

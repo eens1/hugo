@@ -1,11 +1,11 @@
 ---
 title: "Première Règle de Saint François"
-date: 2024-09-06T18:40:59+02:00
+date: 2024-09-06T20:00:58+02:00
 draft: false
+summary: |
+  
+  Rédigée en 1210-1221.
 ---
-
-
-Rédigée en 1210-1221.
 
 
 *Source : Ubald 1905.*

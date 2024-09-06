@@ -1,9 +1,8 @@
 ---
 title: "Caput 30"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Cumque venissent David et viri eius in Siceleg die tertia, Amalecitæ impetum fecerant ex parte australi in Siceleg, et percusserant Siceleg, et succenderant eam igni.

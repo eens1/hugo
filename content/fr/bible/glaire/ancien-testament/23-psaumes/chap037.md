@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 37"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David représente à Dieu l’extrême misère où ses péchés l’ont plongé.
+  Il implore sa miséricorde avec une parfaite confiance et une profonde humilité.
 ---
-
-
-David représente à Dieu l’extrême misère où ses péchés l’ont plongé.
-Il implore sa miséricorde avec une parfaite confiance et une profonde humilité.
 
 
 1 Psaume de David, en souvenir touchant le sabbat.

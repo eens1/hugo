@@ -1,9 +1,8 @@
 ---
 title: "Chapter 5"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 And on the third day Esther put on her royal apparel, and stood in the inner court of the king's house, over against the king's hall: now he sat upon his throne in the hall of the palace, over against the door of the house.

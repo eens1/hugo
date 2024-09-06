@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  L’ange d’Ephèse loué de sa vertu, blâmé de son relachement.
+  L’ange de Smyrne riche dans sa pauvreté et heureux dans sa persécution.
+  L’ange de Pergame accusé de ne pas combattre assez les erreurs.
+  L’ange de Thyatire blâmé de laisser séduire les fidèles.
 ---
-
-
-L’ange d’Ephèse loué de sa vertu, blâmé de son relachement.
-L’ange de Smyrne riche dans sa pauvreté et heureux dans sa persécution.
-L’ange de Pergame accusé de ne pas combattre assez les erreurs.
-L’ange de Thyatire blâmé de laisser séduire les fidèles.
 
 
 1 Ecris à l'ange de l'église d'Ephèse : Voici ce que dit celui qui tient les sept étoiles dans sa main droite, qui marche au milieu des sept chandeliers d'or.

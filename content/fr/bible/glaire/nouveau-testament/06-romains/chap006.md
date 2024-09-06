@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Le baptisé mort au péché ne doit plus vivre que pour Dieu.
+  Nous ne sommes plus sous la loi, mais sous la grâce.
+  On doit se donner tout à Dieu, comme on s’est livré au péché.
+  Fruit du péché et de la justice.
 ---
-
-
-Le baptisé mort au péché ne doit plus vivre que pour Dieu.
-Nous ne sommes plus sous la loi, mais sous la grâce.
-On doit se donner tout à Dieu, comme on s’est livré au péché.
-Fruit du péché et de la justice.
 
 
 1 Que dirons-nous donc? Demeurerons-nous dans le péché, pour que la grâce abonde? 2 A Dieu ne plaise ! Car nous qui sommes morts au péché, comment y vivrons-nous encore? 3 Ignorez-vous que nous tous qui avons été baptisés dans le Christ Jésus, nous avons été baptisés en sa mort? 4 Car nous avons été ensevelis avec lui par le baptême pour mourir, afin que, comme le Christ est ressuscité des morts par la gloire du Père, nous aussi, nous marchions dans une nouveauté de vie.

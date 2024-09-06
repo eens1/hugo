@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 24"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Eloge de la sagesse ; son origine, sa puissance, son éternité.
+  Israël est devenu le lieu de sa demeure.
+  Progrès qu’elle a faits dans le monde.
+  Biens dont elle est la source.
+  Sa profondeur.
+  Merveilles qu’elle opère dans le monde
 ---
-
-
-Eloge de la sagesse ; son origine, sa puissance, son éternité.
-Israël est devenu le lieu de sa demeure.
-Progrès qu’elle a faits dans le monde.
-Biens dont elle est la source.
-Sa profondeur.
-Merveilles qu’elle opère dans le monde
 
 
 1 La sagesse louera son âme et, en Dieu, elle s'honorera, et au milieu de son peuple, elle se glorifiera,

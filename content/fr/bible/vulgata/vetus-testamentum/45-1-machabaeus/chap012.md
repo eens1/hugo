@@ -1,9 +1,8 @@
 ---
 title: "Caput 12"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Et vidit Ionathas quia tempus eum iuvat, et elegit viros, et misit eos Romam statuere, et renovare cum eis amicitiam:

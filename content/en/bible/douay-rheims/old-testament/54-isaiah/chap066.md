@@ -1,9 +1,8 @@
 ---
 title: "Chapter 66"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Thus saith the Lord: Heaven is my throne, and the earth my footstool: what is this house that you will build to me? and what is this place of my rest?

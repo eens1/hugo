@@ -1,20 +1,20 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Ptolémée Philométor usurpe le royaume d’Alexandre Balas.
+  Alexandre se sauve ; on lui tranche la tête.
+  Ptolémée meurt.
+  Démétrius Nicator monte sur le trône, comble d’honneurs Jonathas, accorde plusieurs privilèges aux Juifs.
+  Entreprise de Tryphon.
+  Soulèvement à Antioche.
+  Les Juifs sauvent Démétrius.
+  Ingratitude de ce prince.
+  Antiochus Théus est mis sur le trône et recherche l’amitié de Jonathas.
+  Guerre de Jonathas contre les troupes de Démétrius.
 ---
-
-
-Ptolémée Philométor usurpe le royaume d’Alexandre Balas.
-Alexandre se sauve ; on lui tranche la tête.
-Ptolémée meurt.
-Démétrius Nicator monte sur le trône, comble d’honneurs Jonathas, accorde plusieurs privilèges aux Juifs.
-Entreprise de Tryphon.
-Soulèvement à Antioche.
-Les Juifs sauvent Démétrius.
-Ingratitude de ce prince.
-Antiochus Théus est mis sur le trône et recherche l’amitié de Jonathas.
-Guerre de Jonathas contre les troupes de Démétrius.
 
 
 1 Or le roi d'Egypte assembla une armée qui était comme le sable du rivage de la mer, et un grand nombre de vaisseaux ; et il cherchait à s'emparer du royaume d'Alexandre par ruse et à l'ajouter à son royaume.

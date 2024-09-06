@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  L’Epouse cherche son bien-aimé et le trouve.
+  L’Epoux dans les bras duquel elle s’endort est comparé à Salomon, et l’Epouse au lit et à la litière de ce monarque.
 ---
-
-
-L’Epouse cherche son bien-aimé et le trouve.
-L’Epoux dans les bras duquel elle s’endort est comparé à Salomon, et l’Epouse au lit et à la litière de ce monarque.
 
 
 1 L'ÉPOUSE. Sur ma couche, pendant les nuits, j'ai cherché celui que chérit mon âme ; je l'ai cherché et ne l'ai pas trouvé. 2 Je me lèverai, et je ferai le tour de la cité : dans les bourgs et les places publiques, je chercherai celui que chérit mon âme ; je l'ai cherché et ne l'ai pas trouvé. 3 Elles m'ont rencontrée, les sentinelles qui gardent la cité : Celui que chérit mon âme, est-ce que vous ne l'avez pas vu ? 4 Lorsque je les ai eu un peu dépassées, j'ai rencontré celui que chérit mon âme : je l'ai saisi et je ne le laisserai pas aller, jusqu'à ce que je l'introduise dans la maison de ma mère, et dans la chambre de celle qui m'a donné le jour.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 9"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 Now there was a man of Benjamin, whose name was Cis, the son of Abiel, the son of Seror, the son of Bechorath, the son of Aphia, the son of a man of Jemini, valiant and strong.

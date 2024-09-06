@@ -1,9 +1,8 @@
 ---
 title: "Chapter 29"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Now these are the words of the letter which Jeremiah the prophet sent from Jerusalem to the residue of the ancients that were carried into captivity, and to the priests, and to the prophets, and to all the people, whom Nabuchodonosor had carried away from Jerusalem to Babylon:

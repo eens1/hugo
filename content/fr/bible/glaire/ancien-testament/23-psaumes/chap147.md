@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 147"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste exhorte Jérusalem à louer le Seigneur de son rétablissement et de tous les biens dont il l’a comblée.
 ---
-
-
-Le Psalmiste exhorte Jérusalem à louer le Seigneur de son rétablissement et de tous les biens dont il l’a comblée.
 
 
 1 Jérusalem, loue le Seigneur: loue ton Dieu, ô Sion. 2 Parce qu'il a affermi les serrures de tes portes : il a béni tes fils au milieu de toi.

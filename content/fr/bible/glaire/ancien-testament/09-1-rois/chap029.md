@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 29"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Les princes des Philistins obligent Achis de renvoyer David à Siceleg.
 ---
-
-
-Les princes des Philistins obligent Achis de renvoyer David à Siceleg.
 
 
 1 Toutes les troupes des Philistins s'assemblèrent donc à Aphec; mais Israël aussi campa près de la fontaine de Jezraël.

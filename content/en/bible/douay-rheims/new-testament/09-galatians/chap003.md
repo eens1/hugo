@@ -1,9 +1,8 @@
 ---
 title: "Chapter 3"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 O senseless Galatians, who hath bewitched you that you should not obey the truth: before whose eyes Jesus Christ hath been set forth, crucified among you?

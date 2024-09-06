@@ -1,9 +1,8 @@
 ---
 title: "Chapter 5"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 Naaman, general of the army, of the king of Syria, was a great man with his master, and honourable: for by him the Lord gave deliverance to Syria: and he was a valiant man, and rich, but a leper.

@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Jérémie déplore le malheur du peuple juif.
+  Le Seigneur cherche un homme sage qui comprenne ses jugements.
+  Femmes appelées pour pleurer la désolation de Juda.
+  Vengeance du Seigneur sur Juda et sur les peuples voisins.
 ---
-
-
-Jérémie déplore le malheur du peuple juif.
-Le Seigneur cherche un homme sage qui comprenne ses jugements.
-Femmes appelées pour pleurer la désolation de Juda.
-Vengeance du Seigneur sur Juda et sur les peuples voisins.
 
 
 1 Qui donnera à ma tête de l'eau, et à mes yeux une fontaine de larmes? et je pleurerai jour et nuit les morts de la fille de mon peuple.

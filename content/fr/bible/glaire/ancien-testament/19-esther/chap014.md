@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Pénitence d’Esther ; sa prière avant d’aller trouver le roi Assuérus.
 ---
-
-
-Pénitence d’Esther ; sa prière avant d’aller trouver le roi Assuérus.
 
 
 1 La reine Esther aussi eut recours au Seigneur, effrayée du péril qui était imminent. 2 Et, quittant ses habits de reine, elle prit des vêtements conformes aux pleurs et au deuil, et au lieu de ses diverses essences, elle couvrit sa tête de cendre et de boue : elle affligea son corps par les jeûnes; et tous les lieux où auparavant elle avait accoutumé de se réjouir, elle les remplit de ses cheveux qu'elle s'arrachait. 3 Et elle priait le Seigneur Dieu d'Israël, disant : Mon Seigneur, qui seul êtes notre roi, secourez-moi dans mon abandon, puisque hors de vous il n'est aucun autre aide.

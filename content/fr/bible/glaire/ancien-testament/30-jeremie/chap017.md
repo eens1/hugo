@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Vengeances du Seigneur contre l’infidélité de Juda.
+  Maudit celui qui met sa confiance dans l’homme ; heureux qui la met en Dieu.
+  Le prophète implore la protection du Seigneur.
+  Sanctification du sabbat.
 ---
-
-
-Vengeances du Seigneur contre l’infidélité de Juda.
-Maudit celui qui met sa confiance dans l’homme ; heureux qui la met en Dieu.
-Le prophète implore la protection du Seigneur.
-Sanctification du sabbat.
 
 
 1 Le péché de Juda a été écrit avec une plume de fer et avec une pointe de diamant, et gravé sur l'étendue de leur cœur et sur les cornes de leurs autels.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Alliance entre Hiram et Salomon.
+  Hiram lui fournit le bois nécessaire pour la construction du temple.
+  Salomon choisir dans Israël ceux qui devaient travailler à cet édifice.
 ---
-
-
-Alliance entre Hiram et Salomon.
-Hiram lui fournit le bois nécessaire pour la construction du temple.
-Salomon choisir dans Israël ceux qui devaient travailler à cet édifice.
 
 
 1 Hiram, roi de Tyr, envoya aussi ses serviteurs vers Salomon; car il apprit qu'on l'avait oint roi, en la place de son père, parce qu'Hiram avait toujours été l'ami de David.

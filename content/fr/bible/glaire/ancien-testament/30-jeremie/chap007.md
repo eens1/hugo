@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Vaine confiance des Juifs dans le temple du Seigneur, tandis qu’ils le déshonorent par leurs crimes.
+  Le Seigneur défend à Jérémie de prier pour ce peuple.
+  Sacrifices inutiles sans l’obéissance.
 ---
-
-
-Vaine confiance des Juifs dans le temple du Seigneur, tandis qu’ils le déshonorent par leurs crimes.
-Le Seigneur défend à Jérémie de prier pour ce peuple.
-Sacrifices inutiles sans l’obéissance.
 
 
 1 Parole qui a été adressée à Jérémie par le Seigneur, disant :

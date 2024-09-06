@@ -1,9 +1,8 @@
 ---
 title: "Chapter 20"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass after the course of a year, at the time that kings go out to battle, Joab gathered together an army and the strength of the troops, and wasted the land of the children of Ammon: and went and besieged Rabba. But David stayed at Jerusalem, when Joab smote Rabba, and destroyed it.

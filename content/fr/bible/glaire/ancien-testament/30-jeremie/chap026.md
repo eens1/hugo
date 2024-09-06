@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 26"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Jérémie prophétisant la ruine de Jérusalem est présenté aux princes de Juda pour être condamné à mort ; les princes et le peuple le reconnaissent innocent.
+  Exemple de Michée épargné par Ezéchias, et d’Urie mis à mort par Joakim.
 ---
-
-
-Jérémie prophétisant la ruine de Jérusalem est présenté aux princes de Juda pour être condamné à mort ; les princes et le peuple le reconnaissent innocent.
-Exemple de Michée épargné par Ezéchias, et d’Urie mis à mort par Joakim.
 
 
 1 Au commencement du règne de Joakim, fils de Josias, roi de Juda, cette parole du Seigneur me fut adressée, disant :

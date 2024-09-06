@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 And these are the words of the book, which Baruch the son of Nerias, the son of Maasias, the son of Sedecias, the son of Sedei, the son Helcias, wrote in Babylonia.

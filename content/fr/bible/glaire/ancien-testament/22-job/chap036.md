@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 36"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Eliu continue à défendre l’équité des jugements de Dieu.
+  Il exhorte Job à profiter des peines dont Dieu l’a châtié, et relève la puissance du Seigneur.
 ---
-
-
-Eliu continue à défendre l’équité des jugements de Dieu.
-Il exhorte Job à profiter des peines dont Dieu l’a châtié, et relève la puissance du Seigneur.
 
 
 1 Continuant de nouveau, Eliu dit ceci :

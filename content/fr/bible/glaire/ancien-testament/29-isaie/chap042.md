@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 42"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Caractère du libérateur d’Israël.
+  Félicité des peuples sous son règne.
+  Ruine de Babylone.
+  Délivrance d’Israël.
+  Aveuglement de ce peuple.
+  Sa captivité.
 ---
-
-
-Caractère du libérateur d’Israël.
-Félicité des peuples sous son règne.
-Ruine de Babylone.
-Délivrance d’Israël.
-Aveuglement de ce peuple.
-Sa captivité.
 
 
 1 Voici mon serviteur, je le soutiendrai; mon élu, en qui s'est complue mon âme ; j'ai répandu mon esprit sur lui ; il annoncera la justice aux nations.

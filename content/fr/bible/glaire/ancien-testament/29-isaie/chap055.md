@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 55"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Tous les hommes sont appelés à la foi et à la pénitence.
+  Dieu miséricordieux et véritable dans ses promesses.
+  Bonheur de ceux qui reviennent à Dieu.
 ---
-
-
-Tous les hommes sont appelés à la foi et à la pénitence.
-Dieu miséricordieux et véritable dans ses promesses.
-Bonheur de ceux qui reviennent à Dieu.
 
 
 1 Vous tous qui avez soif, venez vers les eaux; et vous qui n'avez pas d'argent, hâtez-vous, achetez et mangez; venez, achetez sans argent et sans aucun échange du vin et du lait.

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 28"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Ruine du royaume d’Ephraïm.
+  Désolation du royaume de Juda.
 ---
-
-
-Ruine du royaume d’Ephraïm.
-Désolation du royaume de Juda.
 
 
 1 Malheur à la couronne d'orgueil, aux hommes ivres d'Ephraïm, à la fleur qui tombe, à la gloire de son exultation, à ceux qui étaient au haut de la vallée très grasse, chancelant par le vin.

@@ -1,9 +1,8 @@
 ---
 title: "Caput 13"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Iosue senex, provectæque ætatis erat, et dixit Dominus ad eum: Senuisti, et longævus es, terraque latissima derelicta est, quæ necdum sorte divisa est:

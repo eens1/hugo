@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  David apprend la fuite d’Israël et la mort de Saül et de Jonathas.
+  Il fait mourir celui qui se vantait d’avoir tué Saül.
+  Plainte de David sur la mort de Saül et de Jonathas.
 ---
-
-
-David apprend la fuite d’Israël et la mort de Saül et de Jonathas.
-Il fait mourir celui qui se vantait d’avoir tué Saül.
-Plainte de David sur la mort de Saül et de Jonathas.
 
 
 1 Or, il arriva, après que Saül fut mort, que David revint de la défaite d'Amalec, et qu'il demeura à Siceleg pendant deux jours. 2 Mais au troisième jour, il parut un homme, venant du camp de Saül, le vêtement déchiré et la tête couverte de poussière; et dès qu'il arriva auprès de David, il tomba sur sa face, et se prosterna. 3 Et David lui demanda : D'où viens-tu? Celui-ci lui répondit : Je me suis échappé du camp d'Israël. 4 David lui demanda encore : Qu'est-ce qui a été fait ? Apprends-le moi. Il répondit : Le peuple s'est enfui de la bataille, et beaucoup d'entre le peuple, ayant succombé, sont morts; et Saül même et Jonathas son fils ont péri.

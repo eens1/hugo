@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  On rétablit l’autel des holocaustes.
+  On célèbre la fête des tabernacles.
+  On jette les fondements du temple.
 ---
-
-
-On rétablit l’autel des holocaustes.
-On célèbre la fête des tabernacles.
-On jette les fondements du temple.
 
 
 1 Et déjà était venu le septième mois, et les enfants d'Israël étaient en leurs cités : le peuple s'assembla donc comme un seul homme dans Jérusalem. 2 Et Josué, fils de Josédec, se leva, et ses frères prêtres, Zorobabel, fils de Salathiel, et ses frères, et ils bâtirent l'autel du Dieu d'Israël, pour y offrir des holocaustes, comme il est écrit dans la loi de Moïse, homme de Dieu. 3 Or ils placèrent l'autel de Dieu sur ses bases, les peuples de la terre cherchant à les effrayer, et ils offrirent sur cet autel l'holocauste au Seigneur matin et soir. 4 Et ils firent la solennité des tabernacles comme il est écrit, et l'holocauste tous les jours avec ordre, selon le précepte, l'œuvre du jour en son jour. 5 Et après cela fut offert l'holocauste perpétuel, tant dans les calendes que dans toutes les solennités du Seigneur, qui lui étaient consacrées, et dans toutes celles dans lesquelles on offrait volontairement un présent au Seigneur.

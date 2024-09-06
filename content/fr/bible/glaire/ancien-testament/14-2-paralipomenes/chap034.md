@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 34"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Piété de Josias.
+  Il répare le temple, où on trouve le livre de la loi.
+  Il envoie consulter la prophétesse Olda.
+  Renouvellement de l’alliance avec le Seigneur.
 ---
-
-
-Piété de Josias.
-Il répare le temple, où on trouve le livre de la loi.
-Il envoie consulter la prophétesse Olda.
-Renouvellement de l’alliance avec le Seigneur.
 
 
 1 Josias avait huit ans lorsqu'il commença à régner, et il régna trente et un ans à Jérusalem,

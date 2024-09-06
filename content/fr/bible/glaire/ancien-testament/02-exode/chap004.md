@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Miracles que Dieu fait en faveur de Moïse.
+  Moïse retourne en Egypte.
+  Circoncision de son fils.
+  Aaron se joint à lui.
 ---
-
-
-Miracles que Dieu fait en faveur de Moïse.
-Moïse retourne en Egypte.
-Circoncision de son fils.
-Aaron se joint à lui.
 
 
 1 Répondant, Moïse dit : Ils ne me croiront point, et ils n'écouteront point ma voix, mais ils diront : Non, le Seigneur ne t'a pas apparu. 2 Le Seigneur lui dit donc : Qu'est-ce que tu tiens en ta main? Il répondit : Une verge. 3 Le Seigneur ajouta : Jette-la à terre. Il la jeta, et elle fut changée en serpent ; de sorte que Moïse s'enfuyait. 4 Mais le Seigneur dit : Etends ta main et prends sa queue. Il l'étendit, saisit la queue, et elle fut changée en verge.

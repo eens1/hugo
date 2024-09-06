@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 23"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Dernières paroles de David.
+  Noms des plus vaillants hommes de son armée.
 ---
-
-
-Dernières paroles de David.
-Noms des plus vaillants hommes de son armée.
 
 
 1 Mais voici les dernières paroles de David. David, fils d'Isaï, a parlé ; l'homme institué le christ du Dieu de Jacob, l'excellent psalmiste d'Israël, a dit :

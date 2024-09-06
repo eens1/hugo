@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 For this Melchisedech was king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings and blessed him:

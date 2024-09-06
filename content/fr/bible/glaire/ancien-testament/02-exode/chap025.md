@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 25"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Ordonnances du Seigneur touchant l’Arche, la table des pains de proposition et le chandelier d’or.
 ---
-
-
-Ordonnances du Seigneur touchant l’Arche, la table des pains de proposition et le chandelier d’or.
 
 
 1 Et le Seigneur parla à Moïse, disant :2 Dis aux enfants d'Israël qu'ils prennent pour moi des prémices; vous les recevrez de tout homme qui les offrira de son plein gré.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 But the children of Israel transgressed the commandment, and took to their own use of that which was accursed. For Achan, the son of Charmi, the son of Zabdi, the son of Zare, of the tribe of Juda, took something of the anathema: and the Lord was angry against the children of Israel.

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Ezéchiel est transporté en esprit dans le temple ; il y voit les abominations qui s’y commettent.
+  Le Seigneur lui annonce les vengeances qu’il va exercer.
 ---
-
-
-Ezéchiel est transporté en esprit dans le temple ; il y voit les abominations qui s’y commettent.
-Le Seigneur lui annonce les vengeances qu’il va exercer.
 
 
 1 Or il arriva en la sixième année, au sixième mois, au cinquième jour du mois, que, lorsque j'étais assis dans ma maison, et que les vieillards de Juda étaient assis devant moi, tomba là sur moi la main du Seigneur Dieu.

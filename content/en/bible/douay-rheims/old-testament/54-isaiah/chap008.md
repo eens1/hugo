@@ -1,9 +1,8 @@
 ---
 title: "Chapter 8"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 And the Lord said to me: Take thee a great book, and write in it with a man's pen. Take away the spoils with speed, quickly take the prey.

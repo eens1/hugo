@@ -1,9 +1,8 @@
 ---
 title: "Caput 2"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Exultavit cor meum in Domino, et exaltatum est cornu meum in Deo meo: dilatatum est os meum super inimicos meos: quia lætata sum in salutari tuo.

@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 19"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Prière que David met dans la bouche de son peuple pour demander à Dieu l’heureux succès de ses armes.
 ---
-
-
-Prière que David met dans la bouche de son peuple pour demander à Dieu l’heureux succès de ses armes.
 
 
 1 Pour la fin, psaume de David.

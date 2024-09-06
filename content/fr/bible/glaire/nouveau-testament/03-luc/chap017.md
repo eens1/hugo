@@ -1,18 +1,18 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Scandale.
+  Pardon des injures.
+  Puissance de la foi.
+  Nous sommes des serviteurs inutiles.
+  Guérison de dix lépreux.
+  Royaume de Dieu.
+  Jours de séduction.
+  Avènement de Jésus-Christ.
 ---
-
-
-Scandale.
-Pardon des injures.
-Puissance de la foi.
-Nous sommes des serviteurs inutiles.
-Guérison de dix lépreux.
-Royaume de Dieu.
-Jours de séduction.
-Avènement de Jésus-Christ.
 
 
 1 Jésus dit encore à ses disciples : Il est impossible qu'il n'arrive des scandales; mais malheur à celui par qui ils arrivent !

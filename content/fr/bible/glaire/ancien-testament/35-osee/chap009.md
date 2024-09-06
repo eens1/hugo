@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Vengeances que le Seigneur exercera sur Israël.
+  Infidélité de ce peuple.
 ---
-
-
-Vengeances que le Seigneur exercera sur Israël.
-Infidélité de ce peuple.
 
 
 1 Ne te réjouis pas, Israël; n'exulte pas comme les peuples : parce que tu as forniqué en te séparant de ton Dieu, tu as aimé la récompense plus que toutes les aires de blé.

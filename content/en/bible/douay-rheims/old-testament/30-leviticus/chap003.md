@@ -1,9 +1,8 @@
 ---
 title: "Chapter 3"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 And if his oblation be a sacrifice of peace offerings, and he will offer of the herd, whether male or female: he shall offer them without blemish before the Lord.

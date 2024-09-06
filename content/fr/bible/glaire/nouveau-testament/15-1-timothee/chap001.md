@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Saint Paul salue Timothée.
+  Questions non édifiantes.
+  Charité, fin des commandements.
+  Sainteté et usage de la loi.
+  Paul donné pour exemple de la miséricorde de Dieu.
+  Vie épiscopale.
+  Milice sainte.
 ---
-
-
-Saint Paul salue Timothée.
-Questions non édifiantes.
-Charité, fin des commandements.
-Sainteté et usage de la loi.
-Paul donné pour exemple de la miséricorde de Dieu.
-Vie épiscopale.
-Milice sainte.
 
 
 1 Paul, apôtre de Jésus-Christ, selon le commandement de Dieu notre Sauveur, et du Christ Jésus, notre espérance,

@@ -1,9 +1,8 @@
 ---
 title: "Caput 5"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Factum est autem, cum turbæ irruerunt in eum, ut audirent verbum Dei, et ipse stabat secus stagnum Genesareth.

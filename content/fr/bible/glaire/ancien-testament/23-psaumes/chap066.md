@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 66"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David prie Dieu de répandre toutes ses miséricordes et sa lumière sur son peuple, et de remplir de joie toutes les nations en envoyant le Sauveur, qu’il doit leur donner.
+  Pour la fin.
 ---
-
-
-David prie Dieu de répandre toutes ses miséricordes et sa lumière sur son peuple, et de remplir de joie toutes les nations en envoyant le Sauveur, qu’il doit leur donner.
-Pour la fin.
 
 
 1 Dans les hymnes, psaume d'un cantique de David.

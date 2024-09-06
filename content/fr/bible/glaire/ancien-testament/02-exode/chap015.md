@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Cantique d’action de grâces après le passage de la mer Rouge.
+  Campement de Moïse, où Moïse adoucit les eaux.
 ---
-
-
-Cantique d’action de grâces après le passage de la mer Rouge.
-Campement de Moïse, où Moïse adoucit les eaux.
 
 
 1 Alors Moïse et les enfants d'Israël chantèrent ce cantique au Seigneur, et dirent : Chantons le Seigneur, car il s'est glorieusement signalé ; il a précipité dans la mer le cheval et celui qui le montait.

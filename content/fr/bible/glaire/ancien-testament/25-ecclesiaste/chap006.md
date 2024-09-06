@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Malheureuse condition de l’avare.
+  Il a du bien, et il n’ose pas en jouir.
 ---
-
-
-Malheureuse condition de l’avare.
-Il a du bien, et il n’ose pas en jouir.
 
 
 1 Il y a encore un autre mal que j'ai vu sous le soleil, et qui est même fréquent parmi les hommes :

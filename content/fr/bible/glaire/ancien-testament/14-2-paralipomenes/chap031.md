@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 31"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Les Israélites brisent les idoles et renversent leurs autels.
+  Offrandes des prémices et des dîmes.
+  Règlement pour le ministère des prêtres et des Lévites.
 ---
-
-
-Les Israélites brisent les idoles et renversent leurs autels.
-Offrandes des prémices et des dîmes.
-Règlement pour le ministère des prêtres et des Lévites.
 
 
 1 Lorsque ces choses eurent été faites selon les rites, tous ceux d'Israël qui se trouvèrent dans les villes de Juda sortirent et brisèrent tous les simulacres ; ils coupèrent les bois sacrés, démolirent les hauts lieux, et détruisirent les autels, non seulement dans tout Juda et Benjamin, mais aussi dans Ephraïm et dans Manassé, jusqu'à ce qu'ils eussent tout renversé, et tous les enfants d'Israël retournèrent dans leurs possessions et dans leurs villes.

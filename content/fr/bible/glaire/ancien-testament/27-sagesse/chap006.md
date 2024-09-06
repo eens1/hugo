@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Rois et juges de la terre exhortés à acquérir la sagesse.
+  Supplices rigoureux préparés à ceux qui gouvernent injustement.
+  La sagesse se présente à ceux qui l’aiment et la cherchent.
+  Combien il est avantageux de la posséder.
 ---
-
-
-Rois et juges de la terre exhortés à acquérir la sagesse.
-Supplices rigoureux préparés à ceux qui gouvernent injustement.
-La sagesse se présente à ceux qui l’aiment et la cherchent.
-Combien il est avantageux de la posséder.
 
 
 1 Mieux vaut la sagesse que les forces, et l'homme prudent que le courageux.

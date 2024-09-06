@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Saint Paul salue Tite.
+  Devoirs des prêtres et des évêques.
+  Saint Paul exhorte Tite à reprendre les faux docteurs.
+  Tout est pur pour ceux qui sont purs.
+  On renonce à Dieu en vivant mal
 ---
-
-
-Saint Paul salue Tite.
-Devoirs des prêtres et des évêques.
-Saint Paul exhorte Tite à reprendre les faux docteurs.
-Tout est pur pour ceux qui sont purs.
-On renonce à Dieu en vivant mal
 
 
 1 Paul, serviteur de Dieu et apôtre de Jésus-Christ, selon la foi des élus de Dieu, et la connaissance de la vérité, qui est selon la piété,

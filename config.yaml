@@ -20,7 +20,7 @@ languages:
           url: /en/blog
           weight: 20
         - name: Contact
-          url: /fr/contact
+          url: /en/contact
         - name: Français
           url: /fr
     params:
@@ -41,7 +41,7 @@ languages:
           url: /fr/blog
           weight: 20
         - name: Contact
-          url: /en/contact
+          url: /fr/contact
         - name: English
           url: /en
     params:

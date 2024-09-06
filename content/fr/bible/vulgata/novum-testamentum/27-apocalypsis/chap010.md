@@ -1,9 +1,8 @@
 ---
 title: "Caput 10"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Et vidi alium Angelum fortem descendentem de cælo amictum nube, et iris in capite eius, et facies eius erat ut sol, et pedes eius tamquam columnæ ignis:

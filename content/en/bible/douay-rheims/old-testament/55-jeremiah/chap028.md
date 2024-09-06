@@ -1,9 +1,8 @@
 ---
 title: "Chapter 28"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass in that year, in the beginning of the reign of Sedecias king of Juda, in the fourth year, in the fifth month, that Hananias the son of Azur, a prophet of Gabaon spoke to me, in the house of the Lord before the priests, and all the people, saying:

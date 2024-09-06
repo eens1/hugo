@@ -1,9 +1,8 @@
 ---
 title: "Chapter 24"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And the anger of the Lord was again kindled against Israel, and stirred up David among them, saying: Go, number Israel and Juda.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 45"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 And when you shall begin to divide the land by lot, separate ye firstfruits to the Lord, a portion of the land to be holy, in length twenty-five thousand and in breadth ten thousand: it shall be holy in all the borders thereof round about.

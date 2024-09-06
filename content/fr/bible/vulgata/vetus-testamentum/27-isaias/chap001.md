@@ -1,9 +1,8 @@
 ---
 title: "Caput 1"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Visio Isaiæ filii Amos, quam vidit super Iudam et Ierusalem in diebus Oziæ, Ioathan, Achaz, et Ezechiæ regum Iuda.

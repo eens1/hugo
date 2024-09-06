@@ -1,9 +1,8 @@
 ---
 title: "Chap. 7 - Des cas éservés"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 Comme il est de l'ordre et de l'essence de tout jugement que nul ne prononce de sentence que sur ceux qui lui sont soumis, l'Eglise de Dieu a toujours été persuadée, et le saint Concile confirme la même vérité, qu'elle est nulle l’Absolution qu'un prêtre prononce sur une personne sur laquelle il n'a point de juridiction ordinaire ou subdéléguée.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 13"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 In the three and twentieth year of Joas son of Ochozias, king of Juda, Joachaz, the son of Jehu, reigned over Israel, in Samaria, seventeen years.

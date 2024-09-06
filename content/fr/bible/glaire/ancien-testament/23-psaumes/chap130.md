@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 130"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste prend le Seigneur à témoin que son cœur a été très éloigné des sentiments d’orgueil et d’ambition que ses ennemis lui supposaient injustement.
 ---
-
-
-Le Psalmiste prend le Seigneur à témoin que son cœur a été très éloigné des sentiments d’orgueil et d’ambition que ses ennemis lui supposaient injustement.
 
 
 1 Cantique des degrés de David. Seigneur, mon cœur ne s'est pas exalté, et mes yeux ne se sont pas élevés. Je n'ai pas non plus marché dans les grandeurs, ni dans les choses merveilleuses au-dessus de moi.

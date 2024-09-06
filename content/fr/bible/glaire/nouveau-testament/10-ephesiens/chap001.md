@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Saint Paul salue les Ephésiens.
+  Il bénit le Seigneur, qui nous a comblés de grâces et prédestinées en Jésus-Christ.
+  Réunion du ciel et de la terre, des Juifs et des gentils, en Jésus-Christ.
+  L’Apôtre demande à Dieu, pour les Ephésiens, l’esprit de sagesse et de lumière, et leur fait remarquer le suprême degré de gloire auquel Jésus-Christ a été élevé.
 ---
-
-
-Saint Paul salue les Ephésiens.
-Il bénit le Seigneur, qui nous a comblés de grâces et prédestinées en Jésus-Christ.
-Réunion du ciel et de la terre, des Juifs et des gentils, en Jésus-Christ.
-L’Apôtre demande à Dieu, pour les Ephésiens, l’esprit de sagesse et de lumière, et leur fait remarquer le suprême degré de gloire auquel Jésus-Christ a été élevé.
 
 
 1 Paul, apôtre de Jésus-Christ par la volonté de Dieu, à tous les saints qui sont à Ephèse, et aux fidèles en Jésus-Christ.

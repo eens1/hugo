@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Bonheur de celui qui ne pèche pas par la langue.
+  Malheur de l’avare.
+  Se souvenir de la mort.
+  Faire un bon usage de ses biens.
+  Fragilité de la vie.
+  Bonheur de celui qui s’applique à rechercher la sagesse.
 ---
-
-
-Bonheur de celui qui ne pèche pas par la langue.
-Malheur de l’avare.
-Se souvenir de la mort.
-Faire un bon usage de ses biens.
-Fragilité de la vie.
-Bonheur de celui qui s’applique à rechercher la sagesse.
 
 
 1 Bienheureux l'homme qui n'est pas tombé par les paroles de sa bouche, et qui n'est pas tourmenté par le remords du péché !

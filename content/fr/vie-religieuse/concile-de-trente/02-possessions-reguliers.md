@@ -1,9 +1,8 @@
 ---
 title: "Chap. 2 - Ne rien posséder en propre"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Il ne sera donc permis à aucun régulier, tant hommes que femmes, de tenir ou de posséder en propre, ni même au nom du couvent, des biens meubles ou immeubles, de quelque qualité qu'ils soient, et de quelque manière qu'ils aient été acquis; mais incontinent on les remettra entre les mains du supérieur, et ils seront incorporés au couvent. 

@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Mort d’Antiochus Epiphane ; son fils Eupator lui succède.
+  Eupator vient en Judée avec une puissante armée.
+  Prise de Bethsur.
+  Les Juifs sont assiégés dans le temple.
+  Paix entre Eupator et les Juifs.
 ---
-
-
-Mort d’Antiochus Epiphane ; son fils Eupator lui succède.
-Eupator vient en Judée avec une puissante armée.
-Prise de Bethsur.
-Les Juifs sont assiégés dans le temple.
-Paix entre Eupator et les Juifs.
 
 
 1 Et le roi Antiochus parcourait les hautes provinces, et il apprit qu'Elymaïde, en Perse, était une cité très célèbre et abondante en argent et en or,

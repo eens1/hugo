@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 42"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Plusieurs choses dont il ne faut pas rougir.
+  Attention qu’un père doit avoir pour ses filles.
+  Fuir la compagnie des femmes.
+  Louanges des œuvres du Seigneur.
 ---
-
-
-Plusieurs choses dont il ne faut pas rougir.
-Attention qu’un père doit avoir pour ses filles.
-Fuir la compagnie des femmes.
-Louanges des œuvres du Seigneur.
 
 
 1 Ne répète pas les paroles que tu as entendues, pour révéler ce qui est secret, et tu seras vraiment sans confusion, et tu trouveras grâce aux yeux de tous les hommes; ne rougis pas de toutes ces choses que je vais te dire; et ne fais acception de personne pour pécher.

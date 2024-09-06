@@ -1,9 +1,8 @@
 ---
 title: "Caput 7"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:47+02:00
 draft: false
 ---
-
 
 
 1 Hic enim Melchisedech, rex Salem, sacerdos Dei summi, qui obviavit Abrahæ regresso a cæde regum, et benedixit ei:

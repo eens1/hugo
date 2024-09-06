@@ -1,9 +1,8 @@
 ---
 title: "Chapter 6"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 That night the king passed without sleep, and he commanded the histories and chronicles of former times to be brought him. And when they were reading them before him,

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 9"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 I saw the Lord standing upon the altar, and he said: Strike the hinges, and let the lintels be shook: for there is covetousness in the head of them all, and I will slay the last of them with the sword: there shall be no flight for them: they shall flee, and he that shall flee of them shall not be delivered.

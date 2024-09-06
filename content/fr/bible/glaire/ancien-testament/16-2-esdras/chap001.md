@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Néhémias apprend le triste état de Jérusalem.
+  Prière qu’il adresse au Seigneur.
 ---
-
-
-Néhémias apprend le triste état de Jérusalem.
-Prière qu’il adresse au Seigneur.
 
 
 1 Paroles de Néhémias, fils de Helchias. Et il arriva au mois de Casleu, en l'année vingtième, que j'étais dans le château de Suse.

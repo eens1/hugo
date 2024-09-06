@@ -1,9 +1,8 @@
 ---
 title: "Caput 25"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Factum est autem anno nono regni eius, mense decimo, decima die mensis, venit Nabuchodonosor rex Babylonis, ipse et omnis exercitus eius in Ierusalem, et circumdederunt eam: et extruxerunt in circuitu eius munitiones.

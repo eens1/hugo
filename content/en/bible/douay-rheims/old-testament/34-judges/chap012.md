@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 But behold there arose a sedition in Ephraim. And passing towards the north, they said to Jephte: When thou wentest to fight against the children of Ammon, why wouldst thou not call us, that we might go with thee? Therefore we will burn thy house.

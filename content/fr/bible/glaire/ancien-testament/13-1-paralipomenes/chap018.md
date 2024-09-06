@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 18"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Diverses victoires de David.
+  Thoü, roi d’Hémath, lui envoie son fils pour le féliciter.
+  Dénombrement des principaux officiers de David.
 ---
-
-
-Diverses victoires de David.
-Thoü, roi d’Hémath, lui envoie son fils pour le féliciter.
-Dénombrement des principaux officiers de David.
 
 
 1 Or il arriva après cela que David battit les Philistins et les humilia, qu'il enleva Geth et ses filles de la main des Philistins,

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Parabole d’un aigle qui coupe la tête d’un cèdre, et plante une vigne ; cette vigne étend ses branches vers un second aigle, et est arrachée par le premier.
+  Explication de cette parabole.
+  Rejeton du cèdre planté sur la montagne d’Israël.
 ---
-
-
-Parabole d’un aigle qui coupe la tête d’un cèdre, et plante une vigne ; cette vigne étend ses branches vers un second aigle, et est arrachée par le premier.
-Explication de cette parabole.
-Rejeton du cèdre planté sur la montagne d’Israël.
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

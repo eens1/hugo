@@ -1,9 +1,4 @@
----
-title: "Cinq Martyrs du Maroc"
-date: 2024-09-06T18:40:43+02:00
-draft: false
----
-
+# Cinq Martyrs du Maroc
 
 Premiers Martyrs de l'Ordre des Frères Mineurs.
 

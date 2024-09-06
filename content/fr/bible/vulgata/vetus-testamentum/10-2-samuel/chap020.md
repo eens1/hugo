@@ -1,9 +1,8 @@
 ---
 title: "Caput 20"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Accidit quoque ut ibi esset vir Belial, nomine Seba, filius Bochri, vir Iemineus: et cecinit buccina, et ait: Non est nobis pars in David, neque hereditas in filio Isai: revertere in tabernacula tua Israel.

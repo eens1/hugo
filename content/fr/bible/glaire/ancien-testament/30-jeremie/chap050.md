@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 50"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Prophétie de la ruine de Babylone par les Mèdes et les Perses, et de la délivrance d’Israël et de Juda.
 ---
-
-
-Prophétie de la ruine de Babylone par les Mèdes et les Perses, et de la délivrance d’Israël et de Juda.
 
 
 1 Parole que le Seigneur dit sur Babylone et sur les Chaldéens par l'entremise de Jérémie, le prophète.

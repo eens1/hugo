@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Désolation de la Judée par le fléau des insectes et de la sécheresse.
+  Exhortation à la pénitence.
+  Jour terrible qui doit succéder à ce premier fléau.
 ---
-
-
-Désolation de la Judée par le fléau des insectes et de la sécheresse.
-Exhortation à la pénitence.
-Jour terrible qui doit succéder à ce premier fléau.
 
 
 1 Parole du Seigneur qui fut adressée à Joël, fils de Phatuel.

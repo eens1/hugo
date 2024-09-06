@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Bonheur des justes et malheur des méchants après la mort.
+  Récompense de la chasteté.
+  Suites funestes de l’adultère.
 ---
-
-
-Bonheur des justes et malheur des méchants après la mort.
-Récompense de la chasteté.
-Suites funestes de l’adultère.
 
 
 1 Mais les âmes des justes sont dans la main de Dieu, et le tourment de la mort ne les touchera pas.

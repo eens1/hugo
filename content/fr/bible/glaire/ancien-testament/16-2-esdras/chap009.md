@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Pénitence du peuple.
+  Prière que les Lévites font à Dieu.
+  Renouvellement de l’alliance.
 ---
-
-
-Pénitence du peuple.
-Prière que les Lévites font à Dieu.
-Renouvellement de l’alliance.
 
 
 1 Or, au vingt-quatrième jour de ce mois, les enfants d'Israël s'assemblèrent dans le jeûne, dans des sacs, et ayant de la terre sur eux.

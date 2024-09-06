@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 20"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Madeleine va au sépulcre ; elle avertit Pierre et Jean ; ils y viennent ensemble.
+  Apparition des anges et de Jésus à Madeleine.
+  Jésus apparaît aux apôtres et leur donne le Saint-Esprit.
+  Seconde apparition de Jésus aux apôtres.
+  Thomas voit et croit.
 ---
-
-
-Madeleine va au sépulcre ; elle avertit Pierre et Jean ; ils y viennent ensemble.
-Apparition des anges et de Jésus à Madeleine.
-Jésus apparaît aux apôtres et leur donne le Saint-Esprit.
-Seconde apparition de Jésus aux apôtres.
-Thomas voit et croit.
 
 
 1 Or le premier jour de la semaine, au matin, quand les ténèbres duraient encore, Marie-Madeleine vint au sépulcre, et vit la pierre ôtée du tombeau.

@@ -1,9 +1,8 @@
 ---
 title: "Caput 26"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 In die illa cantabitur canticum istud in terra Iuda: Urbs fortitudinis nostræ Sion salvator, ponetur in ea murus et antemurale.

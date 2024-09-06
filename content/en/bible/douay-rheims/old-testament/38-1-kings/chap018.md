@@ -1,9 +1,8 @@
 ---
 title: "Chapter 18"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 After many days, the word of the Lord came to Elias, in the third year, saying: Go, and shew thyself to Achab, that I may give rain upon the face of the earth.

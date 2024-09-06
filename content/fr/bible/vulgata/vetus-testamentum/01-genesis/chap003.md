@@ -1,9 +1,8 @@
 ---
 title: "Caput 3"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Sed et serpens erat callidior cunctis animantibus terræ quæ fecerat Dominus Deus. Qui dixit ad mulierem: Cur præcepit vobis Deus ut non comederetis de omni ligno paradisi?

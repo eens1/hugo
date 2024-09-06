@@ -1,9 +1,8 @@
 ---
 title: "Chapter 25"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And Samuel died, and all Israel was gathered together, and they mourned for him, and buried him in his house in Ramatha. And David rose, and went down into the wilderness of Pharan.

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Prière de Tobie et de Sara, fille de Raguel.
+  Le Seigneur les exauce, et envoie à leur secours l’ange Raphaël.
 ---
-
-
-Prière de Tobie et de Sara, fille de Raguel.
-Le Seigneur les exauce, et envoie à leur secours l’ange Raphaël.
 
 
 1 Alors Tobie gémit, et commença à prier avec larmes, 2 Disant : Vous êtes juste. Seigneur, et tous vos jugements sont droits, et toutes vos voies sont miséricorde, vérité et justice.

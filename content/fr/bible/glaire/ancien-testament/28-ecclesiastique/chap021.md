@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Fuir le péché ; expier ses fautes.
+  Maux que cause l’orgueil.
+  Fin malheureuse des méchants.
+  Différents effets de la parole sage.
+  Caractère de l’insensé.
+  Le délateur se rend odieux.
 ---
-
-
-Fuir le péché ; expier ses fautes.
-Maux que cause l’orgueil.
-Fin malheureuse des méchants.
-Différents effets de la parole sage.
-Caractère de l’insensé.
-Le délateur se rend odieux.
 
 
 1 Mon fils, as-tu péché? ne recommence pas de nouveau; mais prie pour tes fautes anciennes, afin qu'elles te soient remises. 2 Comme à l'aspect d'un serpent fuis les péchés; car si tu en approches, ils te saisiront. 3 Ce sont des dents de lions que ses dents, tuant les âmes des hommes.

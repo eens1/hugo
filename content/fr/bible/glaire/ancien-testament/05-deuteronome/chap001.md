@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Récit abrégé de ce qui arriva aux Israélites depuis leur départ de Sinaï jusqu’à leur seconde arrivée à Cades.
 ---
-
-
-Récit abrégé de ce qui arriva aux Israélites depuis leur départ de Sinaï jusqu’à leur seconde arrivée à Cades.
 
 
 1 Voici les paroles que Moïse dit à tout Israël au-delà du Jourdain au désert, dans la plaine, contre la mer Rouge, entre Pharan, Thophel, Laban et Haséroth, où il y a beaucoup d'or ;

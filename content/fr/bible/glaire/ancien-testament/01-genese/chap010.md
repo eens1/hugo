@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Dénombrement des fils de Noé.
+  Pays que chacun d’eux a possédé.
 ---
-
-
-Dénombrement des fils de Noé.
-Pays que chacun d’eux a possédé.
 
 
 1 Voici les générations des fils de Noé, Sem, Cham et Japheth : car il leur naquit des fils après le déluge.

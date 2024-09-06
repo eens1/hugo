@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Consécration d’Aaron et de ses fils.
+  Consécration du tabernacle et de tout ce qui devait y servir.
 ---
-
-
-Consécration d’Aaron et de ses fils.
-Consécration du tabernacle et de tout ce qui devait y servir.
 
 
 1 Le Seigneur parla encore à Moïse, disant :2 Prends Aaron avec ses fils, leurs vêtements, l'huile de l'onction, le veau pour le péché, les deux béliers et la corbeille des azymes, 3 Et tu réuniras toute l'assemblée devant la porte du tabernacle.

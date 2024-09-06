@@ -1,9 +1,8 @@
 ---
 title: "Chapter 40"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 In the five and twentieth year of our captivity, in the beginning of the year, the tenth day of the month, the fourteenth year after the city was destroyed: in the selfsame day the hand of the Lord was upon me, and he brought me thither.

@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 31"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Job se justifie devant ses amis en leur exposant le détail de la conduite qu’il a tenue dans le temps de sa prospérité.
 ---
-
-
-Job se justifie devant ses amis en leur exposant le détail de la conduite qu’il a tenue dans le temps de sa prospérité.
 
 
 1 J'ai fait un pacte avec mes yeux pour ne pas même penser à une vierge.

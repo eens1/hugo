@@ -1,9 +1,8 @@
 ---
 title: "Chapter 11"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 And there was given me a reed, like unto a rod. And it was said to me: Arise, and measure the temple of God and the altar and them that adore therein.

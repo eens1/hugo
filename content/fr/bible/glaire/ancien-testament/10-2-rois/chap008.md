@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Victoires de David sur divers peuples.
+  Thoü, roi d’Emath, lui envoie son fils pour le féliciter.
+  Dénombrement des principaux officiers de David.
 ---
-
-
-Victoires de David sur divers peuples.
-Thoü, roi d’Emath, lui envoie son fils pour le féliciter.
-Dénombrement des principaux officiers de David.
 
 
 1 Or, il arriva après cela que [David battit les Philistins et les humilia ; et David ôta le frein du tribut de la main des Philistins.

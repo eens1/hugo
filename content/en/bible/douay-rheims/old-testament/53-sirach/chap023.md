@@ -1,9 +1,8 @@
 ---
 title: "Chapter 23"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 O Lord, father, and sovereign ruler of my life, leave me not to their counsel: nor suffer me to fall by them.

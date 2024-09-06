@@ -1,9 +1,8 @@
 ---
 title: "Caput 26"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Tabernaculum vero ita facies: Decem cortinas de bysso retorta, et hyacintho, ac purpura, coccoque bis tincto, variatas opere plumario facies.

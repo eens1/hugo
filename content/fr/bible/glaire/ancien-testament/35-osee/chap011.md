@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Amour et soins paternels du Seigneur pour Israël.
+  Ingratitude et infidélité de ce peuple.
+  Vengeances qui tomberont sur lui.
+  Tendresse du Seigneur à son égard.
+  Promesse de son retour et de son rétablissement.
+  Faux attachement d’Israël ; fidélité de Juda.
 ---
-
-
-Amour et soins paternels du Seigneur pour Israël.
-Ingratitude et infidélité de ce peuple.
-Vengeances qui tomberont sur lui.
-Tendresse du Seigneur à son égard.
-Promesse de son retour et de son rétablissement.
-Faux attachement d’Israël ; fidélité de Juda.
 
 
 1 Comme un matin passe, ainsi a passé le roi d'Israël. Parce qu'Israël était un enfant, je l'ai aimé, et de l'Egypte j'ai rappelé mon fils.

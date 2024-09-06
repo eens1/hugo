@@ -1,9 +1,8 @@
 ---
 title: "Caput 10"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Amen, amen dico vobis: qui non intrat per ostium in ovile ovium, sed ascendit aliunde: ille fur est, et latro.

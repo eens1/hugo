@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Nous sommes morts à la loi par Jésus-Christ pour servir Dieu selon l’esprit.
+  La loi est sainte par elle-même, mais la concupiscence en prend occasion de s’irriter davantage.
+  Le juste ne fait pas ce qu’il veut.
+  La loi de la chair combat en lui contre la loi de l’esprit.
+  Il n’a de secours à attendre que de la grâce.
 ---
-
-
-Nous sommes morts à la loi par Jésus-Christ pour servir Dieu selon l’esprit.
-La loi est sainte par elle-même, mais la concupiscence en prend occasion de s’irriter davantage.
-Le juste ne fait pas ce qu’il veut.
-La loi de la chair combat en lui contre la loi de l’esprit.
-Il n’a de secours à attendre que de la grâce.
 
 
 1 Ignorez-vous, mes frères (je parle à ceux qui connaissent la loi), que la loi ne domine sur l'homme que pendant le temps qu'il vit? 2 Car la femme, qui est soumise à un mari, le mari vivant, est liée par la loi; mais si son mari meurt, elle est affranchie de la loi du mari.

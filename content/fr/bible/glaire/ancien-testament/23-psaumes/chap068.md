@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 68"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David implore de Dieu le secours contre ses ennemis qui l’opprimaient injustement.
+  Il prend Dieu à témoin de son innocence ; il l’intéresse à le secourir, par intérêt pour sa propre gloire.
+  Il prédit le malheur de ses persécuteurs, le retour de son peuple, le rétablissement de Jérusalem et des villes de Juda.
+  Les Pères et les commentateurs reconnaissent unanimement que ce psaume regarde le Messie.
+  Les preuves en sont trop claires, pour que nous ayons à les faire remarquer dans les notes.
 ---
-
-
-David implore de Dieu le secours contre ses ennemis qui l’opprimaient injustement.
-Il prend Dieu à témoin de son innocence ; il l’intéresse à le secourir, par intérêt pour sa propre gloire.
-Il prédit le malheur de ses persécuteurs, le retour de son peuple, le rétablissement de Jérusalem et des villes de Juda.
-Les Pères et les commentateurs reconnaissent unanimement que ce psaume regarde le Messie.
-Les preuves en sont trop claires, pour que nous ayons à les faire remarquer dans les notes.
 
 
 1 Pour la fin, pour ceux qui seront changés, par David.

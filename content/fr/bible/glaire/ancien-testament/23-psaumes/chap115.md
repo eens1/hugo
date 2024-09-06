@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 115"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste, au milieu des maux dont il est accablé, se soutient par sa foi et par sa confiance dans les promesses du Seigneur.
+  Alleluia.
 ---
-
-
-Le Psalmiste, au milieu des maux dont il est accablé, se soutient par sa foi et par sa confiance dans les promesses du Seigneur.
-Alleluia.
 
 
 1 Alléluia. J'ai cru, c'est pourquoi j'ai parlé; mais j'ai été humilié jusqu'à l'excès.

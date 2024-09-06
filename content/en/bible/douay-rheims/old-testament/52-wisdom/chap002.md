@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 For they have said, reasoning with themselves, but not right: The time of our life is short and tedious, and in the end of a man there is no remedy, and no man hath been known to have returned from hell:

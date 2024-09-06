@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David, pénétré de douleur de ses péchés et accablé des maux qui en étaient la peine, implore la miséricorde de Dieu.
+  Il est si sûr d’être exaucé, qu’il reproche à ses ennemis d’avoir en vain espéré sa perte.
 ---
-
-
-David, pénétré de douleur de ses péchés et accablé des maux qui en étaient la peine, implore la miséricorde de Dieu.
-Il est si sûr d’être exaucé, qu’il reproche à ses ennemis d’avoir en vain espéré sa perte.
 
 
 1 Pour la fin, dans les cantiques, psaume de David, pour l'octave.

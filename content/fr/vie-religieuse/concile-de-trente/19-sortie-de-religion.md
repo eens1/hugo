@@ -1,9 +1,8 @@
 ---
 title: "Chap. 19 - Sortie de religion"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Nul régulier quel qu'il soit, qui prétendra étre entré par force ou par crainte en religion, ou qui dira même qu'il a fait profession avant l'âge requis, ou quelque chose semblable, ou qui voudra quitter l'habit pour quelque cause que ce soit, ou s'en aller avec l'habit sans la permission des supérieurs, ne sera point écouté, sinon dans les cinq premières années du jour de sa profession, et si encore alors il n'a déduit devant son supérieur et devant l’Ordinaire les raisons qu'il prétend faire valoir.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 It came to pass also, that seven brethren, together with their mother, were apprehended, and compelled by the king to eat swine's flesh against the law, for which end they were tormented with whips and scourges.

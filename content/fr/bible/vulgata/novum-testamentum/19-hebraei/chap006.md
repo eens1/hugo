@@ -1,9 +1,8 @@
 ---
 title: "Caput 6"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:47+02:00
 draft: false
 ---
-
 
 
 1 Quapropter intermittentes inchoationis Christi sermonem, ad perfectiora feramur, non rursum iacientes fundamentum pœnitentiæ ab operibus mortuis, et fidei ad Deum,

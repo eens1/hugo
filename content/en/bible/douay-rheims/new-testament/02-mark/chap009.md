@@ -1,9 +1,8 @@
 ---
 title: "Chapter 9"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 And after six days, Jesus taketh with him Peter and James and John, and leadeth them up into an high mountain apart by themselves, and was transfigured before them.

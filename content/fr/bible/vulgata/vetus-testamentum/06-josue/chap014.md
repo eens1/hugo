@@ -1,9 +1,8 @@
 ---
 title: "Caput 14"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Hoc est, quod possederunt filii Israel in Terra Chanaan, quam dederunt eis Eleazar sacerdos, et Iosue filius Nun, et principes familiarum per tribus Israel:

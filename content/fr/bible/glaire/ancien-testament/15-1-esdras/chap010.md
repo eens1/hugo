@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Repentir des Israélites.
+  Esdras leur ordonne de renvoyer les femmes étrangères.
+  Dénombrement de ceux qui avaient commis cette prévarication.
 ---
-
-
-Repentir des Israélites.
-Esdras leur ordonne de renvoyer les femmes étrangères.
-Dénombrement de ceux qui avaient commis cette prévarication.
 
 
 1 Ainsi donc Esdras priant, implorant, pleurant, et étendu devant le temple de Dieu, une très grande assemblée d'hommes, de femmes et d'enfants d'Israël se réunit auprès de lui, et le peuple pleura d'un grand pleur. 2 Alors Séchénias, fils de Jéhiel, d'entre les enfants d'Elam, répondit à Esdras : Nous avons prévariqué contre notre Dieu, et nous avons pris des femmes étrangères des peuples de la terre ; et maintenant, si on a du repentir de cela en Israël, 3 Faisons alliance avec le Seigneur notre Dieu, en sorte que nous rejetions toutes les femmes, et ceux qui sont nés d'elles, suivant la volonté du Seigneur et de ceux qui craignent le précepte du Seigneur notre Dieu : qu'il soit fait selon la loi. 4 Lève-toi, c'est à toi d'ordonner, et nous, nous serons avec toi; sois fort et agis.

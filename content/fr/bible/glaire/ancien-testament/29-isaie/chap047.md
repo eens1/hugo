@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 47"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Ruine de Babylone.
+  Punition de sa dureté, de son orgueil et de sa fausse sagesse.
 ---
-
-
-Ruine de Babylone.
-Punition de sa dureté, de son orgueil et de sa fausse sagesse.
 
 
 1 Descends, assieds-toi dans la poussière, vierge, fille de Babylone; assieds-toi sur la terre; il n'y a pas de trône pour la fille des Chaldéens, tu ne seras plus appelée délicate et tendre.

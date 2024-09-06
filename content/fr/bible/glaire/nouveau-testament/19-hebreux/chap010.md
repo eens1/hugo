@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Insuffisance des victimes légales ; leur abolition.
+  Efficacité du sacrifice de Jésus-Christ.
+  L’Apôtre exhorte les Hébreux à s’approcher de Dieu avec confiance, à demeurer fermes dans la foi, s’entraider et à s’entrexhorter.
+  Il les presse par le double motif des maux qu’ils auraient à craindre, s’ils ne persévéraient pas, et des biens qu’ils ont à espérer, s’ils persévèrent.
 ---
-
-
-Insuffisance des victimes légales ; leur abolition.
-Efficacité du sacrifice de Jésus-Christ.
-L’Apôtre exhorte les Hébreux à s’approcher de Dieu avec confiance, à demeurer fermes dans la foi, s’entraider et à s’entrexhorter.
-Il les presse par le double motif des maux qu’ils auraient à craindre, s’ils ne persévéraient pas, et des biens qu’ils ont à espérer, s’ils persévèrent.
 
 
 1 Car la loi n'ayant que l'ombre des biens futurs, et non l'image même des choses, ne peut jamais, par les mêmes hosties qui s'offrent continuellement chaque année, rendre parfaits ceux qui s'approchent de l'autel, 2 Autrement on aurait cessé de les offrir, puisque, une fois purifiés, ceux qui rendent ce culte n'auraient plus la conscience du péché ; 3 Cependant chaque année on y fait mention des péchés. 4 Parce qu'en effet, il est impossible que les péchés soient effacés par du sang de taureaux et de boucs. 5 C'est pourquoi, en entrant dans le monde, il dit : Vous n'avez pas voulu d'hostie ni d'oblation, mais vous m'avez formé un corps.

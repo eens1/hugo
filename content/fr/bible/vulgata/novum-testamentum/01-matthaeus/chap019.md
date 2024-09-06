@@ -1,9 +1,8 @@
 ---
 title: "Caput 19"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Et factum est, cum consumasset Iesus sermones istos, migravit a Galilæa, et venit in fines Iudææ trans Iordanem,

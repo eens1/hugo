@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Derniers avis de David à Salomon.
+  Adonias est mis à mort.
+  Abiathar est relégué.
+  Joab est tué au pied de l’autel.
+  Séméi est puni de mort.
 ---
-
-
-Derniers avis de David à Salomon.
-Adonias est mis à mort.
-Abiathar est relégué.
-Joab est tué au pied de l’autel.
-Séméi est puni de mort.
 
 
 1 Or, approchèrent les jours où David devait mourir, et ils ordonna à Salomon, son fils, disant :2 Moi j'entre dans la voie de toute la terre : fortifie-toi, et sois homme. 3 Observe les commandements du Seigneur ton Dieu, afin que tu marches dans ses voies, que tu gardes ses cérémonies, ses préceptes, ses ordonnances et ses lois, comme il est écrit dans la loi de Moïse, afin que tu comprennes tout ce que tu feras et toutes tes démarches,

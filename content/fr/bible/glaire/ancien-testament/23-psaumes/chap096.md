@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 96"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Ce Psaume représente le règne du Seigneur, la confusion des méchants et la joie des justes.
+  Les uns croient qu’il fut composé par David, lorsqu’après la mort de Saül il se vit paisiblement établi dans son pays, et en possession du royaume que le Seigneur lui avait promis.
+  D’autres pensent qu’il contient les actions de grâces des Juifs, délivrés de la captivité de Babylone, et la description de la vengeance exercée par le Seigneur contre les Babyloniens.
+  Les Pères l’expliquent du premier et du second avènement de Jésus-Christ, de son règne dans l’Eglise et de la vocation des Gentils.
 ---
-
-
-Ce Psaume représente le règne du Seigneur, la confusion des méchants et la joie des justes.
-Les uns croient qu’il fut composé par David, lorsqu’après la mort de Saül il se vit paisiblement établi dans son pays, et en possession du royaume que le Seigneur lui avait promis.
-D’autres pensent qu’il contient les actions de grâces des Juifs, délivrés de la captivité de Babylone, et la description de la vengeance exercée par le Seigneur contre les Babyloniens.
-Les Pères l’expliquent du premier et du second avènement de Jésus-Christ, de son règne dans l’Eglise et de la vocation des Gentils.
 
 
 1 A David. Quand sa terre fut restituée. Le Seigneur a établi son règne, que la terre exulte : que des îles en quantité se livrent à la joie.

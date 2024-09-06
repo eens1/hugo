@@ -1,9 +1,8 @@
 ---
 title: "Chapter 18"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 In the third year of Osee, the son of Ela, king of Israel, reigned Ezechias, the son of Achaz, king of Juda.

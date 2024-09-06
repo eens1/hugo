@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David se fortifie contre la crainte qu’on voulait lui donner de ses ennemis, par la vue de la justice de Dieu, et de son attention à punir les impies et à protéger les innocents.
 ---
-
-
-David se fortifie contre la crainte qu’on voulait lui donner de ses ennemis, par la vue de la justice de Dieu, et de son attention à punir les impies et à protéger les innocents.
 
 
 1 Pour la fin, psaume de David

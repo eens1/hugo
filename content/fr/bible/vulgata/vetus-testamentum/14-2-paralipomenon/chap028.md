@@ -1,9 +1,8 @@
 ---
 title: "Caput 28"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Viginti annorum erat Achaz cum regnare cœpisset: et sedecim annis regnavit in Ierusalem: non fecit rectum in conspectu Domini sicut David pater eius:

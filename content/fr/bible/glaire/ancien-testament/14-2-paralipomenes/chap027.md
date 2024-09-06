@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 27"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Piété de Joatham.
+  Sa victoire sur les Ammonites.
+  Achaz lui succède.
 ---
-
-
-Piété de Joatham.
-Sa victoire sur les Ammonites.
-Achaz lui succède.
 
 
 1 Jonatham avait vingt-cinq ans quand il commença à régner, et il régna seize ans à Jérusalem; le nom de sa mère était Jérusa, fille de Sadoc.

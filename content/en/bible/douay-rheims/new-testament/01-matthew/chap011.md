@@ -1,9 +1,8 @@
 ---
 title: "Chapter 11"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass, when Jesus had made an end of commanding his twelve disciples, he passed from thence, to teach and to preach in their cities.

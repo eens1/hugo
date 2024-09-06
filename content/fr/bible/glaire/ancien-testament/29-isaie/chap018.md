@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 18"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Malheur à l’Ethiopie, qui croit le Seigneur trop faible pour défendre la maison de Juda.
+  Le peuple de Juda, délivré, viendra offrir des présents au Seigneur.
 ---
-
-
-Malheur à l’Ethiopie, qui croit le Seigneur trop faible pour défendre la maison de Juda.
-Le peuple de Juda, délivré, viendra offrir des présents au Seigneur.
 
 
 1 Malheur à la terre qui retentit par la cymbale de ses ailes, qui est au-delà des fleuves d'Ethiopie,

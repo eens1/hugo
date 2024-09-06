@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Siège et prise de Jéricho.
+  Rahab associée au peuple de Dieu.
+  Imprécation contre celui qui rebâtira Jéricho.
 ---
-
-
-Siège et prise de Jéricho.
-Rahab associée au peuple de Dieu.
-Imprécation contre celui qui rebâtira Jéricho.
 
 
 1 Or, Jéricho était fermée et fortifiée, dans la crainte des enfants d'Israël, et nul n'osait sortir ou entrer.

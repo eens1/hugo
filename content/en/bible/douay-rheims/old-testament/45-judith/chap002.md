@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 In the thirteenth year of the reign of Nabuchodonosor, the two and twentieth day of the first month, the word was given out in the house of Nabuchodonosor king of the Assyrians, that he would revenge himself.

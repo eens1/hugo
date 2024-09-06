@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Exhortation à la patience dans les tentations et les épreuves.
+  Avantage des afflictions et des souffrances.
+  Celui qui espère dans le Seigneur ne sera pas confondu.
+  Malheur à celui qui perd la patience.
+  S’humilier sous la main du Seigneur ; espérer en sa miséricorde.
 ---
-
-
-Exhortation à la patience dans les tentations et les épreuves.
-Avantage des afflictions et des souffrances.
-Celui qui espère dans le Seigneur ne sera pas confondu.
-Malheur à celui qui perd la patience.
-S’humilier sous la main du Seigneur ; espérer en sa miséricorde.
 
 
 1 Mon fils, entrant au service de Dieu, sois ferme dans la justice et dans la crainte, et prépare ton âme à la tentation.

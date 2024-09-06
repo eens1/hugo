@@ -1,9 +1,8 @@
 ---
 title: "Chapter 10"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 In the third year of Cyrus, king of the Persians, a word was revealed to Daniel, surnamed Baltassar, and a true word, and great strength: and he understood the word: for there is need of understanding in a vision.

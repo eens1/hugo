@@ -1,9 +1,8 @@
 ---
 title: "Caput 15"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Et quidam descendentes de Iudæa, docebant fratres: Quia nisi circumcidamini secundum morem Moysi, non potestis salvari.

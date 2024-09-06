@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Prière du prophète Jérémie
+  Jérémie expose au Seigneur la misère de son peuple, et le conjure de rappeler ce même peuple à lui.
 ---
-
-
-Prière du prophète Jérémie
-Jérémie expose au Seigneur la misère de son peuple, et le conjure de rappeler ce même peuple à lui.
 
 
 1 Souvenez-vous, Seigneur, de ce qui nous est arrivé; considérez et regardez notre opprobre.

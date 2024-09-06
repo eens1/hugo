@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 29"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Prophétie contre le roi d’Egypte.
+  Désolation de l’Egypte, et son rétablissement.
+  Autre prophétie de la désolation de l’Egypte.
+  Promesses en faveur d’Israël.
 ---
-
-
-Prophétie contre le roi d’Egypte.
-Désolation de l’Egypte, et son rétablissement.
-Autre prophétie de la désolation de l’Egypte.
-Promesses en faveur d’Israël.
 
 
 1 En la dixième année, au dixième mois, au onzième jour du mois, la parole du Seigneur me fut adressée, disant:

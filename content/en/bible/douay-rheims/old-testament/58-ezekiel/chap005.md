@@ -1,9 +1,8 @@
 ---
 title: "Chapter 5"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 And thou, son of man, take thee a sharp knife that shaveth the hair: and cause it to pass over thy head, and over thy beard: and take thee a balance to weigh in, and divide the hair.

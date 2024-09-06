@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Devoirs mutuels des enfants et des pères, des serviteurs et des maîtres.
+  Armes spirituelles des chrétiens contre les démons.
+  Saint Paul se recommande aux prières des Ephésiens ; il leur envoie Tychique.
+  Salutations.
 ---
-
-
-Devoirs mutuels des enfants et des pères, des serviteurs et des maîtres.
-Armes spirituelles des chrétiens contre les démons.
-Saint Paul se recommande aux prières des Ephésiens ; il leur envoie Tychique.
-Salutations.
 
 
 1 Enfants, obéissez à vos parents dans le Seigneur; car cela est juste. 2 Honore ton père et ta mère (c'est le premier commandement fait avec une promesse),

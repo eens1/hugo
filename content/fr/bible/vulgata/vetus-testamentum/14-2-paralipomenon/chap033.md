@@ -1,9 +1,8 @@
 ---
 title: "Caput 33"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Duodecim annorum erat Manasses cum regnare cœpisset, et quinquagintaquinque annis regnavit in Ierusalem.

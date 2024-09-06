@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 26"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David nous apprend dans ce psaume que ceux qui ont mis, comme lui, toute leur espérance dans le Seigneur et tout leur bonheur à demeurer dans maison, n’ont rien à craindre de la part des hommes, qui ne sauraient leur ravir les biens du ciel, seuls dignes de leurs désirs.
 ---
-
-
-David nous apprend dans ce psaume que ceux qui ont mis, comme lui, toute leur espérance dans le Seigneur et tout leur bonheur à demeurer dans maison, n’ont rien à craindre de la part des hommes, qui ne sauraient leur ravir les biens du ciel, seuls dignes de leurs désirs.
 
 
 1 Psaume de David, avant qu'il fût oint. Le Seigneur est ma lumière et mon salut : qui craindrai-je? Le Seigneur est le protecteur de ma vie; par qui serai-je intimidé ?

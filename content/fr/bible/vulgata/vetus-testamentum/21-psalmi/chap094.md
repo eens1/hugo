@@ -1,9 +1,8 @@
 ---
 title: "Caput 94"
-date: 2024-09-06T18:40:56+02:00
+date: 2024-09-06T20:00:53+02:00
 draft: false
 ---
-
 
 
 1 Laus Cantici ipsi David. Venite, exultemus Domino: iubilemus Deo salutari nostro:

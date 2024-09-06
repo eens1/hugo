@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Les Israélites attaquent la ville de Haï.
+  Ils sont repoussés avec perte.
+  Crime d’Achan découvert et puni.
 ---
-
-
-Les Israélites attaquent la ville de Haï.
-Ils sont repoussés avec perte.
-Crime d’Achan découvert et puni.
 
 
 1 Or, les enfants d'Israël transgressèrent le commandement, et s'approprièrent de l'anathème; car Achan, fils de Charmi, fils de Zabdi, fils de Zaré, de la tribu de Juda, prit quelque chose de l'anathème, et le Seigneur fut irrité contre les enfants d'Israël.

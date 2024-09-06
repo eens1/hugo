@@ -1,9 +1,8 @@
 ---
 title: "Caput 6"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Væ qui opulenti estis in Sion, et confiditis in monte Samariæ: optimates capita populorum, ingredientes pompatice domum Israel.

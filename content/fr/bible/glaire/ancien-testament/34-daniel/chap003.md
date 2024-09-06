@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Statue d’or dressée par Nabuchodonosor.
+  Les trois compagnons de Daniel refusent d’adorer cette statue ; ils sont jetés dans une fournaise ardente.
+  Dieu les y conserve.
+  Prière d’Azarias et de ses compagnons.
+  Cantique d’Azarias et de ses compagnons.
+  Ordonnance de Nabuchodonosor.
 ---
-
-
-Statue d’or dressée par Nabuchodonosor.
-Les trois compagnons de Daniel refusent d’adorer cette statue ; ils sont jetés dans une fournaise ardente.
-Dieu les y conserve.
-Prière d’Azarias et de ses compagnons.
-Cantique d’Azarias et de ses compagnons.
-Ordonnance de Nabuchodonosor.
 
 
 1 Le roi Nabuchodonosor fit une statue d'or de soixante coudées de hauteur, de six coudées de largeur, et la plaça dans le champ de Dura, de la province de Babylone.

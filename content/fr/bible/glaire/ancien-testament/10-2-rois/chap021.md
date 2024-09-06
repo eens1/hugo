@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Famine de trois ans dans Israël.
+  David livre aux Gabaonites sept personnes de la famille de Saül.
+  Piété de Respha envers le corps de ces princes.
+  David les fait ensevelir.
+  Guerre contre les Philistins.
 ---
-
-
-Famine de trois ans dans Israël.
-David livre aux Gabaonites sept personnes de la famille de Saül.
-Piété de Respha envers le corps de ces princes.
-David les fait ensevelir.
-Guerre contre les Philistins.
 
 
 1 Il y eut aussi une famine, dans les jours de David, pendant trois ans continuels : et David consulta l'oracle du Seigneur. Et le Seigneur dit : C'est à cause de Saül et de sa maison de sang, parce qu'il a tué les Gabaonites. 2 Les Gabaonites donc appelés, le roi leur dit (or, les Gabaonites n'étaient point des enfants d'Israël, mais les restes des Amorrhéens ; car les enfants d'Israël leur avaient fait serment, et Saül voulut les frapper par zèle, comme pour les enfants d'Israël et de Juda);

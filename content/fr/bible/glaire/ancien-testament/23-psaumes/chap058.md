@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 58"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David représente à Dieu l’injustice et la violence de ses persécuteurs.
+  Il en prédit le châtiment et il annonce les louanges qu’il rendra au Seigneur pour les secours qu’il espère recevoir de sa bonté.
+  On remarque aisément dans ce psaume des prophéties très claires de la vocation des Gentils, de la dispersion et de la réprobation des Juifs, et enfin, de leur retour à l’Eglise chrétienne.
+  Pour la fin.
 ---
-
-
-David représente à Dieu l’injustice et la violence de ses persécuteurs.
-Il en prédit le châtiment et il annonce les louanges qu’il rendra au Seigneur pour les secours qu’il espère recevoir de sa bonté.
-On remarque aisément dans ce psaume des prophéties très claires de la vocation des Gentils, de la dispersion et de la réprobation des Juifs, et enfin, de leur retour à l’Eglise chrétienne.
-Pour la fin.
 
 
 1 Ne perdez pas entièrement; par David, pour une inscription de titre, quand Saül envoya des gens et fit garder sa maison afin de le tuer (I Rois 19, 11).

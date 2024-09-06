@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Vision d’un bélier à deux cornes, et d’un bouc qui n’en a qu’une.
+  Cette corne unique se rompt, mais il s’en forme quatre à sa place.
+  Explication de cette vision par l’ange Gabriel.
+  Roi imprudent, ses efforts, ses victoires, sa chute, sa perte.
 ---
-
-
-Vision d’un bélier à deux cornes, et d’un bouc qui n’en a qu’une.
-Cette corne unique se rompt, mais il s’en forme quatre à sa place.
-Explication de cette vision par l’ange Gabriel.
-Roi imprudent, ses efforts, ses victoires, sa chute, sa perte.
 
 
 1 En la troisième année du règne du roi Baltassar, une vision m'apparut. Moi, Daniel, après ce que j'avais vu au commencement,

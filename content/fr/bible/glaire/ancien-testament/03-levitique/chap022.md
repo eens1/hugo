@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Défense aux prêtres de toucher aux choses saintes, lorsqu’ils sont impurs.
+  Qui sont ceux qui doivent manger les choses saintes.
+  Qualité des victimes qu’on doit offrir.
 ---
-
-
-Défense aux prêtres de toucher aux choses saintes, lorsqu’ils sont impurs.
-Qui sont ceux qui doivent manger les choses saintes.
-Qualité des victimes qu’on doit offrir.
 
 
 1 Le Seigneur parla aussi à Moïse, disant :2 Parle à Aaron et à ses fils, afin qu'ils s'abstiennent de ce qui a été consacré par les enfants d'Israël, et qu'ils ne souillent pas le nom des choses qui me sont consacrées, qu'ils offrent eux-mêmes. Je suis le Seigneur. 3 Dis à eux et à leurs descendants : Tout homme de votre race qui s'approchera des choses qui auront été consacrées et que les enfants d'Israël auront offertes au Seigneur, mais dans lequel est une impureté, périra devant le Seigneur. C'est moi qui suis le Seigneur.

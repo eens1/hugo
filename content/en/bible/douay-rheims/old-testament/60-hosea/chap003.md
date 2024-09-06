@@ -1,9 +1,8 @@
 ---
 title: "Chapter 3"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 And the Lord said to me: Go yet again, and love a woman beloved of her friend, and an adulteress: as the Lord loveth the children of Israel, and they look to strange gods, and love the husks of the grapes.

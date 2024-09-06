@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Avantages de la chasteté.
+  Suites malheureuses de l’adultère.
+  Mort des justes heureuse, quoique précipitée.
+  Justes retirés du monde par miséricorde.
+  Malheur des méchants à la mort.
 ---
-
-
-Avantages de la chasteté.
-Suites malheureuses de l’adultère.
-Mort des justes heureuse, quoique précipitée.
-Justes retirés du monde par miséricorde.
-Malheur des méchants à la mort.
 
 
 1 Ô combien belle est une génération chaste et glorieuse ! car sa mémoire est immortelle, et elle est connue de Dieu et des hommes. 2 Lorsqu'elle est présente, on l'imite, et on la regrette lorsqu'elle s'est retirée ; couronnée pour jamais, elle triomphe, après avoir remporté le prix de la victoire dans les combats incontaminés.

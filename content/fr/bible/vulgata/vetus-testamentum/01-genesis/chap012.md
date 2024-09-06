@@ -1,9 +1,8 @@
 ---
 title: "Caput 12"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Dixit autem Dominus ad Abram: Egredere de terra tua, et de cognatione tua, et de domo patris tui, et veni in terram, quam monstrabo tibi.

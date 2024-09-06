@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Naissance d’Isaac.
+  Agar est chassée.
+  Alliance entre Abimélech et Abraham.
 ---
-
-
-Naissance d’Isaac.
-Agar est chassée.
-Alliance entre Abimélech et Abraham.
 
 
 1 Or le Seigneur visita Sara, comme il l'avait promis, et il accomplit ce qu'il avait dit.

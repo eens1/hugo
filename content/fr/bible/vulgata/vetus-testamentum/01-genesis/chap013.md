@@ -1,9 +1,8 @@
 ---
 title: "Caput 13"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Ascendit ergo Abram de Ægypto, ipse et uxor eius, et omnia quæ habebat, et Lot cum eo ad australem plagam.

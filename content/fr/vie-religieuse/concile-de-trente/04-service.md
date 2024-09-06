@@ -1,9 +1,8 @@
 ---
 title: "Chap. 4 - Ne pas se donner au service de qui que ce soit, ni s'éloigner du couvent"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Le saint Concile défend qu'aucun régulier, sans la permission de son supérieur, sous prétexte de prêcher, d'enseigner ou de faire quelque oeuvre pie, ne se mette au service d'aucun prélat, prince, université, communauté, ou de quelque autre personne ou maison que ce soit; nul privilége ou faculté obtenue d'ailleurs ne lui servira de rien à ce sujet, et s'il y contrevient, il sera puni comme désobéissant, à la discrétion de son supérieur.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 26"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Discours de Paul devant Agrippa.
+  Festus traite Paul d’insensé.
+  Agrippa reconnaît l’innocence de Paul.
 ---
-
-
-Discours de Paul devant Agrippa.
-Festus traite Paul d’insensé.
-Agrippa reconnaît l’innocence de Paul.
 
 
 1 Alors Agrippa dit à Paul : On te permet de parler pour te défendre. Paul aussitôt, étendant la main, commença sa justification. 2 Roi Agrippa, je m'estime heureux d'avoir, sur toutes les choses dont les Juifs m'accusent, à me défendre aujourd'hui devant vous, 3 Surtout, vous connaissant toutes choses, et les coutumes et les questions qui existent parmi les Juifs. C'est pourquoi je vous supplie de m'écouter avec patience.

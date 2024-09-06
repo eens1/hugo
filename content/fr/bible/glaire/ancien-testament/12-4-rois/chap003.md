@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Le roi de Moab refuse de payer le tribut au roi d’Israël.
+  Ce prince marche contre lui avec le roi de Juda et celui d’Edom.
+  Elisée délivre leur armée près de mourir de soif.
+  Les Moabites sont vaincus.
 ---
-
-
-Le roi de Moab refuse de payer le tribut au roi d’Israël.
-Ce prince marche contre lui avec le roi de Juda et celui d’Edom.
-Elisée délivre leur armée près de mourir de soif.
-Les Moabites sont vaincus.
 
 
 1 Or, Joram, fils d'Achab, régna sur Israël dans Samarie, la dix-huitième année de Josaphat, roi de Juda; et il régna douze ans. 2 Et il fit le mal devant le Seigneur, mais non comme son père et sa mère, car il détruisit les statues de Baal qu'avait faites son père.

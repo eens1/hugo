@@ -1,9 +1,8 @@
 ---
 title: "Caput 10"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:47+02:00
 draft: false
 ---
-
 
 
 1 Ipse autem ego Paulus obsecro vos per mansuetudinem, et modestiam Christi, qui in facie quidem humilis sum inter vos, absens autem confido in vos.

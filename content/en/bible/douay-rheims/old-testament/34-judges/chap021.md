@@ -1,9 +1,8 @@
 ---
 title: "Chapter 21"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 Now the children of Israel had also sworn in Maspha, saying: None of us shall give of his daughters to the children of Benjamin to wife.

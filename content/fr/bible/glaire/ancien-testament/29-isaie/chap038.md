@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 38"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Maladie d’Ezéchias.
+  Sa guérison miraculeuse.
+  Rétrogradation du soleil.
+  Cantique d’Ezéchias.
 ---
-
-
-Maladie d’Ezéchias.
-Sa guérison miraculeuse.
-Rétrogradation du soleil.
-Cantique d’Ezéchias.
 
 
 1 En ces jours-là, Ezéchias fut malade jusqu'à la mort, et entra auprès de lui Isaïe, le prophète, fils d'Amos, et lui dit : Voici ce que dit le Seigneur : Mets ordre à ta maison, parce que tu mourras, toi, et tu ne vivras pas.

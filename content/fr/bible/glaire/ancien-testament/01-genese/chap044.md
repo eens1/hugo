@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 44"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Joseph fait mettre sa coupe dans sac de Benjamin.
+  Il traite ses frères comme des voleurs.
+  Juda s’offre à demeurer esclave à la place de Benjamin.
 ---
-
-
-Joseph fait mettre sa coupe dans sac de Benjamin.
-Il traite ses frères comme des voleurs.
-Juda s’offre à demeurer esclave à la place de Benjamin.
 
 
 1 Or Joseph commanda à l'intendant de sa maison disant : Emplis les sacs de ces hommes d'autant de blé qu'ils en peuvent contenir, et mets l'argent de chacun dans le haut de son sac. 2 Mais place à l'entrée du sac du plus jeune ma coupe d'argent, et le prix du blé qu'il a donné. Et il fut fait ainsi.

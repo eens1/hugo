@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Vivre non selon les passions des hommes, mai selon la volonté de Dieu.
+  Veiller et prier.
+  Pratiquer la charité.
+  Parler et agir par l’esprit de Dieu.
+  Se réjouir dans les souffrances.
+  Dieu juge ici les siens et leur est fidèle.
 ---
-
-
-Vivre non selon les passions des hommes, mai selon la volonté de Dieu.
-Veiller et prier.
-Pratiquer la charité.
-Parler et agir par l’esprit de Dieu.
-Se réjouir dans les souffrances.
-Dieu juge ici les siens et leur est fidèle.
 
 
 1 Le Christ donc ayant souffert pour nous en sa chair, armez vous aussi de la même pensée, car celui qui a souffert en sa chair cesse de pécher; 2 En sorte que ce n'est plus selon les convoitises des hommes, mais selon la volonté de Dieu qu'il vit, durant ce qui lui reste de temps dans la chair.

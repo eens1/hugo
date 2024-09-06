@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Premiers habitants de Jérusalem après le retour de la captivité.
+  Noms des prêtres et des Lévites qui revinrent au temple.
+  Généalogie de Saül.
 ---
-
-
-Premiers habitants de Jérusalem après le retour de la captivité.
-Noms des prêtres et des Lévites qui revinrent au temple.
-Généalogie de Saül.
 
 
 1 Tout Israël fut donc dénombré, et leur nombre total écrit dans le Livre des rois d'Israël et de Juda; et ils furent transportés à Babylone à cause de leur péché.

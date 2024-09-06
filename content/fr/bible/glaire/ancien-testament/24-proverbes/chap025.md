@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 25"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Cœur des rois impénétrable.
+  Ne pas s’élever soi-même.
+  Parole dite à propos.
+  Promesse sans effet.
+  Tristesse du cœur.
+  Faire du bien à ses ennemis.
+  Mettre des bornes à sa curiosité.
 ---
-
-
-Cœur des rois impénétrable.
-Ne pas s’élever soi-même.
-Parole dite à propos.
-Promesse sans effet.
-Tristesse du cœur.
-Faire du bien à ses ennemis.
-Mettre des bornes à sa curiosité.
 
 
 1 Voici encore des paraboles de Salomon, qu'ont recueillies les hommes d'Ezéchias, roi de Juda.

@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 48"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Prophétie de l’expédition de Nabuchodonosor contre les Moabites ; de leur captivité et de leur retour.
 ---
-
-
-Prophétie de l’expédition de Nabuchodonosor contre les Moabites ; de leur captivité et de leur retour.
 
 
 1 A Moab, voici ce que dit le Seigneur des armées, Dieu d'Israël : Malheur à Nabo, parce qu'elle a été dévastée et couverte de confusion ; Cariathaïm a été prise; la forte a été couverte de confusion, et elle a tremblé,

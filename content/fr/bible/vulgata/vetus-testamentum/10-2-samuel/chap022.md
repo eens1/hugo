@@ -1,9 +1,8 @@
 ---
 title: "Caput 22"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Locutus est autem David Domino verba carminis huius, in die qua liberavit eum Dominus de manu omnium inimicorum suorum, et de manu Saul.

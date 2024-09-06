@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Elimélech se retire dans le pays de Moab.
+  Il y meurt.
+  Ses fils s’y marient.
+  Noémi sa femme avec Ruth, sa bru, retourne à Bethléhem.
 ---
-
-
-Elimélech se retire dans le pays de Moab.
-Il y meurt.
-Ses fils s’y marient.
-Noémi sa femme avec Ruth, sa bru, retourne à Bethléhem.
 
 
 1 Aux jours d'un juge, lorsque les juges gouvernaient, il y eut une famine sur la terre. Or, un homme s'en alla de Bethléhem de Juda, pour voyager dans le pays de Moab, avec sa femme et ses deux enfants.

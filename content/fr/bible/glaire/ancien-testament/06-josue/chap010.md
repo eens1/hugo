@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Siège de Gabaon.
+  Josué marche à son secours.
+  Il arrête le soleil, fait mourir les rois vaincus, et prend plusieurs villes.
 ---
-
-
-Siège de Gabaon.
-Josué marche à son secours.
-Il arrête le soleil, fait mourir les rois vaincus, et prend plusieurs villes.
 
 
 1 Lorsque Adonisédec, roi de Jérusalem, eut appris ces choses, savoir, que Josué avait pris Haï et qu'il l'avait détruite (car comme il avait fait à Jéricho et à son roi, ainsi fit-il à Haï et à son roi), et que les Gabaonites avaient passés aux Israélites, et qu'ils étaient leurs alliés,

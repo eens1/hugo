@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Judith se pare et se rend avec sa servante au camp des Assyriens.
+  Elle y est arrêtée et conduite à Holoferne, qui est épris de sa beauté.
 ---
-
-
-Judith se pare et se rend avec sa servante au camp des Assyriens.
-Elle y est arrêtée et conduite à Holoferne, qui est épris de sa beauté.
 
 
 1 Or il arriva que quand Judith eut cessé de crier vers le Seigneur, elle se leva du lieu dans lequel elle était étendue, prosternée devant le Seigneur; 2 Et elle appela sa servante, et, descendant dans sa maison, elle ôta son cilice, et se dépouilla des vêtements de son veuvage ; 3 Puis elle lava son corps, s'oignit d'un parfum excellent, sépara les cheveux de sa tête, mit une mitre sur sa tête, se revêtit des habits de sa joie, et mit des sandales à ses pieds; elle prit aussi des petits ornements de la main droite, des lis, ainsi que des pendants d'oreilles et des anneaux, et se para de tous ses ornements.

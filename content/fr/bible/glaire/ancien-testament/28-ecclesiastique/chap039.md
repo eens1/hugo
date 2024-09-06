@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 39"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Occupation du sage ; gloire qui l’accompagne.
+  Les Israélites exhortés à bénir le Seigneur dans ses ouvrages.
+  Dieu récompense les bons et punit les méchants.
+  Toutes les créatures exécutent ses ordres.
 ---
-
-
-Occupation du sage ; gloire qui l’accompagne.
-Les Israélites exhortés à bénir le Seigneur dans ses ouvrages.
-Dieu récompense les bons et punit les méchants.
-Toutes les créatures exécutent ses ordres.
 
 
 1 Le sage recherchera la sagesse de tous les anciens, et il vaquera à l'étude des prophètes. 2 Il conservera les récits des hommes célèbres, et il entrera en même temps dans les mystères des paraboles.

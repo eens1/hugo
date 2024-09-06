@@ -1,9 +1,8 @@
 ---
 title: "Chapter 47"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 And he brought me again to the gate of the house, and behold waters issued out from under the threshold of the house toward the east: for the forefront of the house looked toward the east: but the waters came down to the right side of the temple to the south part of the altar.

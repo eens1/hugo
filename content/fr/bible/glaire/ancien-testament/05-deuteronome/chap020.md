@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 20"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Loi pour la guerre.
+  Ordonnance pour les sièges des villes.
+  Traitement envers les Chananéens.
 ---
-
-
-Loi pour la guerre.
-Ordonnance pour les sièges des villes.
-Traitement envers les Chananéens.
 
 
 1 Lorsque tu sortiras pour la guerre contre tes ennemis, et que tu verras une cavalerie, des chars, et un corps d'armée ennemie plus considérable que celui que tu auras, tu ne les craindras point, parce que le Seigneur ton Dieu est avec toi, lui qui t'a retiré de l'Egypte.

@@ -1,22 +1,22 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Mission des apôtres.
+  Hérode souhaite de voir Jésus-Christ.
+  Retour et retraite des apôtres.
+  Multiplication des cinq pains.
+  Confession de saint Pierre.
+  Croix et renoncement à soi-même.
+  Transfiguration de Jésus-Christ.
+  Guérison d’un enfant lunatique.
+  Passion prédite.
+  Qui sera le plus grand.
+  Jacques et Jean veulent faire tomber le feu du ciel.
+  Dispositions pour suivre Jésus-Christ.
 ---
-
-
-Mission des apôtres.
-Hérode souhaite de voir Jésus-Christ.
-Retour et retraite des apôtres.
-Multiplication des cinq pains.
-Confession de saint Pierre.
-Croix et renoncement à soi-même.
-Transfiguration de Jésus-Christ.
-Guérison d’un enfant lunatique.
-Passion prédite.
-Qui sera le plus grand.
-Jacques et Jean veulent faire tomber le feu du ciel.
-Dispositions pour suivre Jésus-Christ.
 
 
 1 Jésus, ayant appelé les douze apôtres, leur donna vertu et puissance sur tous les démons, et le pouvoir de guérir les maladies.

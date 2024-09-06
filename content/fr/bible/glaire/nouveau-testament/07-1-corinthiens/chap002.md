@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Saint Paul n’emploie ni l’éloquence, ni la sagesse humaine.
+  Il prêche toutefois la sagesse, mais c’est celle de Dieu, cachée au monde et révélée par l’Esprit de Dieu.
+  Il n’y a que ceux qui sont éclairés par l’Esprit de Dieu qui puissent comprendre cette sagesse.
 ---
-
-
-Saint Paul n’emploie ni l’éloquence, ni la sagesse humaine.
-Il prêche toutefois la sagesse, mais c’est celle de Dieu, cachée au monde et révélée par l’Esprit de Dieu.
-Il n’y a que ceux qui sont éclairés par l’Esprit de Dieu qui puissent comprendre cette sagesse.
 
 
 1 Pour moi, mes frères, lorsque je suis venu vers vous, je ne suis point venu vous annoncer le témoignage du Christ dans la sublimité du discours et de la sagesse.

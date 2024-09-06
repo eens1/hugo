@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Cyrus permet aux Juifs de retourner à Jérusalem et d’y rebâtir le temple.
+  Il leur rend les vases sacrés.
 ---
-
-
-Cyrus permet aux Juifs de retourner à Jérusalem et d’y rebâtir le temple.
-Il leur rend les vases sacrés.
 
 
 1 En la première année de Cyrus, roi des Perses, afin que fût accomplie la parole du Seigneur, annoncée par la bouche de Jérémie, le Seigneur suscita l'esprit de Cyrus, roi des Perses, et fit publier dans tout son royaume un édit, même par écrit, disant :

@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Présentation de saint Jean-Baptiste.
+  Baptême, tentation et prédication de Jésus-Christ.
+  Vocation de Pierre et d’André, de Jacques et de Jean.
+  Guérison de la belle-mère de saint Pierre.
+  Prédication et miracles de Jésus-Christ.
+  Guérison d’un lépreux.
 ---
-
-
-Présentation de saint Jean-Baptiste.
-Baptême, tentation et prédication de Jésus-Christ.
-Vocation de Pierre et d’André, de Jacques et de Jean.
-Guérison de la belle-mère de saint Pierre.
-Prédication et miracles de Jésus-Christ.
-Guérison d’un lépreux.
 
 
 1 Commencement de l'Evangile de Jésus-Christ, fils de Dieu.

@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Zèle de saint Paul pour les Juifs.
+  Prérogatives de ce peuple.
+  Leur chute ne rend pas les promesses de Dieu vaines et sans effet.
+  Dieu choisit par miséricorde et abandonne par justice ceux qu’il veut.
+  Gentils appelés, Juifs rejetés.
 ---
-
-
-Zèle de saint Paul pour les Juifs.
-Prérogatives de ce peuple.
-Leur chute ne rend pas les promesses de Dieu vaines et sans effet.
-Dieu choisit par miséricorde et abandonne par justice ceux qu’il veut.
-Gentils appelés, Juifs rejetés.
 
 
 1 Je dis la vérité dans le Christ, je ne mens pas, ma conscience me rendant témoignage par l'Esprit-Saint, 2 Qu'il y a une grande tristesse en moi, et une douleur continuelle dans mon coeur. 3 Car je désirais ardemment d'être moi-même anathème à l'égard du Christ, pour mes frères, qui sont mes proches selon la chair,

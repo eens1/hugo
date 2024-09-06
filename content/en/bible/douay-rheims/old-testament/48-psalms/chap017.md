@@ -1,9 +1,8 @@
 ---
 title: "Chapter 17"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 Unto the end, for David, the servant of the Lord, who spoke to the Lord the words of this canticle, in the day that the Lord delivered him from the hand of all his enemies, and from the hand of Saul: and he said:

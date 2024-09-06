@@ -1,9 +1,8 @@
 ---
 title: "Caput 27"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Facies et altare de lignis setim, quod habebit quinque cubitus in longitudine, et totidem in latitudine, idest quadrum, et tres cubitos in altitudine.

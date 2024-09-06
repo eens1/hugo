@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 40"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Le grand échanson et le grand panetier du roi d’Egypte sont mis en prison.
+  Joseph explique leurs songes.
 ---
-
-
-Le grand échanson et le grand panetier du roi d’Egypte sont mis en prison.
-Joseph explique leurs songes.
 
 
 1 Ces choses s'étant ainsi passées, il arriva que deux eunuques, l'échanson du roi d'Egypte et le panetier, offensèrent leur maître. 2 Et Pharaon, irrité contre eux (car l'un commandait aux échansons et l'autre aux panetiers), 3 Les envoya dans la prison du chef des soldats, où Joseph aussi était détenu. 4 Mais le gardien de la prison leur donna Joseph pour les servir. Quelque temps s'était écoulé, et eux étaient détenus dans la prison.

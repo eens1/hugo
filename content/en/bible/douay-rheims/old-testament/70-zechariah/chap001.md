@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 In the eighth month, in the second year of king Darius, the word of the Lord came to Zechariah the son of Barachias, the son of Addo, the prophet, saying:

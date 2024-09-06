@@ -1,9 +1,8 @@
 ---
 title: "Chapter 33"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Woe to thee that spoilest, shalt not thou thyself also be spoiled? and thou that despisest, shalt not thyself also be despised? when thou shalt have made an end of spoiling, thou shalt be spoiled: when being wearied thou shalt cease to despise, thou shalt be despised.

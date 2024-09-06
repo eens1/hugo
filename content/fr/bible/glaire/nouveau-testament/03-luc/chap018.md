@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 18"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Paraboles de la veuve importune à un mauvais juge ; du pharisien et du publicain.
+  Enfants présentés à Jésus-Christ.
+  Conseil de perfection.
+  Salut des riches difficile.
+  Récompense promise à ceux qui quittent tout pour Jésus-Christ.
+  Passion prédite.
+  Guérison d’un aveugle près de Jéricho.
 ---
-
-
-Paraboles de la veuve importune à un mauvais juge ; du pharisien et du publicain.
-Enfants présentés à Jésus-Christ.
-Conseil de perfection.
-Salut des riches difficile.
-Récompense promise à ceux qui quittent tout pour Jésus-Christ.
-Passion prédite.
-Guérison d’un aveugle près de Jéricho.
 
 
 1 Il leur proposait aussi cette parabole, sur ce qu'il faut toujours prier, et ne se lasser jamais.

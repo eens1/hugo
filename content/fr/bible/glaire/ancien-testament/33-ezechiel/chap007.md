@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  La ruine de la terre d’Israël est proche.
+  Dieu répandra sa fureur sur elle sans être touché de ses maux.
+  Ses habitants périront par le glaive, la peste et la famine.
+  Leurs richesses ne les sauveront pas.
+  Le sanctuaire même sera violé.
+  Ils seront accablés de maux et privés de toute consolation.
 ---
-
-
-La ruine de la terre d’Israël est proche.
-Dieu répandra sa fureur sur elle sans être touché de ses maux.
-Ses habitants périront par le glaive, la peste et la famine.
-Leurs richesses ne les sauveront pas.
-Le sanctuaire même sera violé.
-Ils seront accablés de maux et privés de toute consolation.
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

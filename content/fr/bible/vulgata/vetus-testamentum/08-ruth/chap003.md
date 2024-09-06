@@ -1,9 +1,8 @@
 ---
 title: "Caput 3"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Postquam autem reversa est ad socrum suam, audivit ab ea: Filia mea, quæram tibi requiem, et providebo ut bene sit tibi.

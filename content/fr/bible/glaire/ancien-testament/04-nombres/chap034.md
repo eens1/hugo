@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 34"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Limites de la terre promise.
+  Noms de ceux qui doivent en faire le partage.
 ---
-
-
-Limites de la terre promise.
-Noms de ceux qui doivent en faire le partage.
 
 
 1 Le Seigneur parla encore à Moïse, disant :2 Ordonne aux enfants d'Israël, et tu leur diras : Lorsque vous serez entrés dans la terre de Chanaan, et qu'elle vous sera échue en possession par le sort, c'est par ces frontières qu'elle sera bornée :

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 38"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Now Saphatias the son of Mathan, and Gedelias the son of Phassur, and Juchal the son of Selemias, and Phassur the son of Melchias heard the words that Jeremiah spoke to all the people, saying:

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 19"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 And the two angels came to Sodom in the evening, and Lot was sitting in the gate of the city. And seeing them, he rose up and went to meet them: and worshipped prostrate to the ground.

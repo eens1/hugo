@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Judith conseille aux Israélites de s’avancer vers les Assyriens.
+  Achior embrasse la religion des Juifs.
+  Les Israélites s’avancent vers les Assyriens qui, s’apercevant de la mort d’Holoferne, sont saisis de trouble.
 ---
-
-
-Judith conseille aux Israélites de s’avancer vers les Assyriens.
-Achior embrasse la religion des Juifs.
-Les Israélites s’avancent vers les Assyriens qui, s’apercevant de la mort d’Holoferne, sont saisis de trouble.
 
 
 1 Alors Judith dit à tout le peuple : Écoutez-moi, mes frères; suspendez cette tête sur nos murs ; 2 Et lorsque le soleil sera levé, que chacun prenne ses armes, et sortez avec impétuosité; non point pour que vous descendiez au bas de la montagne, mais comme faisant une attaque. 3 Alors il sera nécessaire que les gardes avancées s'en aillent éveiller leur prince pour le combat; 4 Et, lorsque leurs chefs auront couru au tabernacle d'Holoferne, et qu'ils l'auront trouvé un corps sans tête, qui a roulé dans son sang, la crainte tombera sur eux. 5 Et, lorsque vous les verrez fuir, allez après eux avec assurance, parce que le Seigneur les foulera sous vos pieds.

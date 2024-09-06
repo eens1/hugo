@@ -1,9 +1,8 @@
 ---
 title: "Chapter 15"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 But when Nicanor understood that Judas was in the places of Samaria, he purposed to set upon him with all violence, on the sabbath day.

@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 90"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste représente le bonheur de ceux qui sont sous la protection de Dieu, et qui mettent en lui leur confiance.
 ---
-
-
-Le Psalmiste représente le bonheur de ceux qui sont sous la protection de Dieu, et qui mettent en lui leur confiance.
 
 
 1 Louange de cantique à David. Celui qui habite dans le secours du Très-Haut demeurera sous la protection du Dieu du ciel.

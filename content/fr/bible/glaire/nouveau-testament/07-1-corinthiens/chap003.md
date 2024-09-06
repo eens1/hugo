@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Les Corinthiens, étant encore charnels, n’ont pu recevoir des instructions spirituelles.
+  Les ministres plantent et arrosent ; c’est Dieu qui donne la croissance.
+  Jésus-Christ est le seul fondement de la prédication évangélique.
+  L’ouvrage bâti sur ce fondement sera éprouvé par le feu.
+  Les chrétiens sont le temple de Dieu.
+  La sagesse du monde est une folie.
+  Ne pas mettre sa gloire dans les hommes.
 ---
-
-
-Les Corinthiens, étant encore charnels, n’ont pu recevoir des instructions spirituelles.
-Les ministres plantent et arrosent ; c’est Dieu qui donne la croissance.
-Jésus-Christ est le seul fondement de la prédication évangélique.
-L’ouvrage bâti sur ce fondement sera éprouvé par le feu.
-Les chrétiens sont le temple de Dieu.
-La sagesse du monde est une folie.
-Ne pas mettre sa gloire dans les hommes.
 
 
 1 Aussi, mes frères, je n'ai pu moi-même vous parler comme à des hommes spirituels, mais comme à des hommes charnels. Comme à de petits enfants en Jésus-Christ,

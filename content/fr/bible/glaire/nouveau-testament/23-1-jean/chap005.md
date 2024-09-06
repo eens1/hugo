@@ -1,18 +1,18 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Amour de Dieu et du prochain.
+  Commandements de Dieu non pénibles.
+  Foi victorieuse du monde.
+  Témoins qui déposent pour Jésus-Christ.
+  Qui ne croit pas en Jésus-Christ fait Dieu menteur, et n’a pas la vie.
+  Demandes exaucées.
+  Péché qui conduit à la mort.
+  Jésus-Christ vrai Dieu.
 ---
-
-
-Amour de Dieu et du prochain.
-Commandements de Dieu non pénibles.
-Foi victorieuse du monde.
-Témoins qui déposent pour Jésus-Christ.
-Qui ne croit pas en Jésus-Christ fait Dieu menteur, et n’a pas la vie.
-Demandes exaucées.
-Péché qui conduit à la mort.
-Jésus-Christ vrai Dieu.
 
 
 1 Quiconque croit que Jésus est le Christ est né de Dieu. Et quiconque aime celui qui a engendré aime aussi celui qui est né de lui. 2 Nous connaissons que nous aimons les enfants de Dieu lorsque nous aimons Dieu et que nous gardons ses commandements. 3 Car l'amour de Dieu, c'est que nous gardions ses commandements : et ses commandements ne sont pas pénibles. 4 Parce que tous ceux qui sont nés de Dieu triomphent du monde ; et la victoire qui triomphe du monde, c'est notre foi.

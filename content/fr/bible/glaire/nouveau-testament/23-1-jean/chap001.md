@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Jésus-Christ vie éternelle apparue aux hommes.
+  Société entre Dieu et nous.
+  Marcher dans la lumière, pour être en société avec Dieu.
+  Se dire sans péché, c’est mentir et accuser Dieu même de mensonge.
 ---
-
-
-Jésus-Christ vie éternelle apparue aux hommes.
-Société entre Dieu et nous.
-Marcher dans la lumière, pour être en société avec Dieu.
-Se dire sans péché, c’est mentir et accuser Dieu même de mensonge.
 
 
 1 Ce qui était dès le commencement, ce que nous avons entendu, ce que nous avons vu de nos yeux, ce que nous avons contemplé et touché par nos mains, du Verbe de la vie2 (Car la vie s'est manifestée, nous l'avons vue, nous l'attestons, et nous vous l'annonçons, cette vie éternelle qui nous est apparue) ;

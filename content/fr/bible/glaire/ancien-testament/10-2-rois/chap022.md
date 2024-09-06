@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Cantique de David pour remercier Dieu de l’avoir délivré de tous ses ennemis.
 ---
-
-
-Cantique de David pour remercier Dieu de l’avoir délivré de tous ses ennemis.
 
 
 1 Or, David dit au Seigneur les paroles de ce cantique, au jour où le Seigneur le délivra de la main de tous ses ennemis et de la main de Saül. 2 Et il dit : Le Seigneur est mon rocher, et ma force, et mon sauveur.

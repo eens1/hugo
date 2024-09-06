@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  La frayeur se répand dans le camp des Assyriens ; ils prennent la fuite.
+  Les Israélites se jettent sur eux, les poursuivent, s’emparent de leurs dépouilles, et donnent à Judith celles d’Holoferne
 ---
-
-
-La frayeur se répand dans le camp des Assyriens ; ils prennent la fuite.
-Les Israélites se jettent sur eux, les poursuivent, s’emparent de leurs dépouilles, et donnent à Judith celles d’Holoferne
 
 
 1 Et lorsque toute l'armée eut appris qu'Holoferne avait été décapité, l'esprit et le conseil s'enfuirent loin d'eux, et poussés seulement par la frayeur et l'inquiétude, ils cherchèrent un secours dans la fuite ; 2 En sorte que nul ne parlait à son compagnon; mais, baissant la tête et abandonnant tout, ils se hâtaient d'échapper aux Hébreux, qu'ils entendaient venir armés sur eux, et ils fuyaient çà et là par les chemins des campagnes et les sentiers des collines. 3 C'est pourquoi les enfants d'Israël, les voyant fuir, les suivirent. Ils descendirent donc des montagnes, sonnant des trompettes et poussant de grands cris après eux. 4 Et comme les Assyriens, n'étant pas réunis, allaient dans leur fuite en se précipitant, les enfants d'Israël, au contraire, les poursuivant en formant un seul corps, battaient tous ceux pouvaient atteindre.

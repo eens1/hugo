@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Ruth va se coucher aux pieds de Booz.
+  Booz lui promet de l’épouser.
 ---
-
-
-Ruth va se coucher aux pieds de Booz.
-Booz lui promet de l’épouser.
 
 
 1 Or, après que Ruth fut retournée près de sa belle-mère, elle entendit d'elle : Ma fille, je chercherai pour toi du repos, et je pourvoirai à ce que bien t'arrive. 2 Ce Booz, aux jeunes filles duquel tu t'es jointe dans le champ, est notre parent; et cette nuit il vanne l'aire de l'orge.

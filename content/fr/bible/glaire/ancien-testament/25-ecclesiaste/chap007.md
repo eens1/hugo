@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Vaine curiosité.
+  Bonne réputation.
+  Utilité des corrections.
+  Avantage de la sagesse.
+  Point de juste qui ne pèche.
+  Négliger les discours des hommes.
+  La femme dangereuse.
 ---
-
-
-Vaine curiosité.
-Bonne réputation.
-Utilité des corrections.
-Avantage de la sagesse.
-Point de juste qui ne pèche.
-Négliger les discours des hommes.
-La femme dangereuse.
 
 
 1 Qu'est-il nécessaire à l'homme de rechercher ce qui est au-dessus de lui, lorsqu'il ignore ce qui lui est avantageux dans sa vie, durant le nombre des jours de son pèlerinage, et dans le temps qui comme l'ombre passe? ou qui pourra lui indiquer ce qui après lui doit arriver sous le soleil? 2 Mieux vaut une bonne réputation que les parfums précieux; et le jour de la mort que le jour de la naissance.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Elisée fait revenir sur l’eau le fer d’une cognée.
+  Il découvre au roi d’Israël les desseins du roi de Syrie contre lui.
+  Le roi de Syrie envoie des soldats pour arrêter le prophète ; il assiège Samarie et y cause une grande famine.
 ---
-
-
-Elisée fait revenir sur l’eau le fer d’une cognée.
-Il découvre au roi d’Israël les desseins du roi de Syrie contre lui.
-Le roi de Syrie envoie des soldats pour arrêter le prophète ; il assiège Samarie et y cause une grande famine.
 
 
 1 Or, les fils des prophètes dirent à Elisée : Voilà que ce lieu dans lequel nous habitons avec vous est étroit pour nous. 2 Laissez-nous aller jusqu'au Jourdain, afin que chacun prenne son bois de la forêt, et que nous nous bâtissions là un lieu pour y habiter. Elisée répondit : Allez. 3 Et l'un d'eux dit : Venez donc vous aussi avec vos serviteurs. Il répondit : J'irai. 4 Et il s'en alla avec eux. Et lorsqu'ils furent venus au Jourdain, ils coupèrent leur bois. 5 Mais il arriva que, comme l'un d'eux abattait son bois, le fer de la cognée tomba dans l'eau; et celui-là s'écria et dit : Hélas! hélas! hélas! mon seigneur, c'était le même que j'avais emprunté. 6 Alors l'homme de Dieu dit : Où est-il tombé? Et il lui montra l'endroit. Elisée coupa donc un morceau de bois et le jeta là, et le fer nagea, 7 Et il dit : Prends-le. Celui-ci étendit la main et le prit.

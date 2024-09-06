@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Saint Paul exhorte Philémon à recevoir Onésime, son esclave, qui, s’étant enfui de chez lui, était venu trouver l’Apôtre à Rome, et y avait reçu le baptême.
 ---
-
-
-Saint Paul exhorte Philémon à recevoir Onésime, son esclave, qui, s’étant enfui de chez lui, était venu trouver l’Apôtre à Rome, et y avait reçu le baptême.
 
 
 1 Paul, prisonnier du Christ Jésus, et Timothée, son frère, à Philémon, notre bien-aimé et notre coopérateur,

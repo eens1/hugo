@@ -1,9 +1,8 @@
 ---
 title: "Chapter 15"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And a while after, when the days of the wheat harvest were at hand, Samson came, meaning to visit his wife, and he brought her a kid of the flock. And when he would have gone into her chamber, as usual, her father would not suffer him, saying:

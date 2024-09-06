@@ -1,9 +1,8 @@
 ---
 title: "Caput 7"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Post hæc autem ambulabat Iesus in Galilæam, non enim volebat in Iudæam ambulare: quia quærebant eum Iudæi interficere.

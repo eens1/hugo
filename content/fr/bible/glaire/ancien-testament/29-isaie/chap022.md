@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Siège de Jérusalem par les Assyriens.
+  Sobna destitué de son office, et remplacé par Eliacim.
 ---
-
-
-Siège de Jérusalem par les Assyriens.
-Sobna destitué de son office, et remplacé par Eliacim.
 
 
 1 Malheur accablant de la vallée de Vision. Qu'as-tu donc, toi aussi, que tu es montée tout entière sur les toits?

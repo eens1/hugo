@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 36"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Moïse fait travailler aux ouvrages que le Seigneur avait ordonnés.
+  Construction du tabernacle.
 ---
-
-
-Moïse fait travailler aux ouvrages que le Seigneur avait ordonnés.
-Construction du tabernacle.
 
 
 1 Béséléel donc et Ooliab et tous les hommes sages auxquels le Seigneur avait donné la sagesse et l'intelligence, pour qu'ils sussent exécuter habilement, firent ce qui était nécessaire aux usages du sanctuaire, et ce qu'avait ordonné le Seigneur.

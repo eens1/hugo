@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 24"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  David fait faire le dénombrement du peuple.
+  Il est en est repris par le prophète (Gad ? ).
+  Peste que Dieu envoie dans Israël.
 ---
-
-
-David fait faire le dénombrement du peuple.
-Il est en est repris par le prophète (Gad ? ).
-Peste que Dieu envoie dans Israël.
 
 
 1 Et la fureur du Seigneur recommença à s'irriter contre Israël, et il excita parmi eux, David, disant : Va, dénombre Israël et Juda.

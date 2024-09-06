@@ -1,9 +1,8 @@
 ---
 title: "Caput 8"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Et factum est deinceps, et ipse iter faciebat per civitates, et castella prædicans, et evangelizans regnum Dei: et duodecim cum illo,

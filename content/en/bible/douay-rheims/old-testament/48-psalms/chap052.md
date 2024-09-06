@@ -1,9 +1,8 @@
 ---
 title: "Chapter 52"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:30+02:00
 draft: false
 ---
-
 
 
 1 Unto the end, for Maeleth, understandings to David. The fool said in his heart: There is no God.

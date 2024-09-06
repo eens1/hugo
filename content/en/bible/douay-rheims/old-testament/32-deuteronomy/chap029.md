@@ -1,9 +1,8 @@
 ---
 title: "Chapter 29"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 These are the words of the covenant which the Lord commanded Moses to make with the children of Israel in the land of Moab: beside that covenant which he made with them in Horeb.

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 23"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Job souhaite de pouvoir se présenter au tribunal de Dieu, et d’y paraître soutenu par le Médiateur en qui il espère.
+  Il est touché de confiance, de crainte et de reconnaissance.
 ---
-
-
-Job souhaite de pouvoir se présenter au tribunal de Dieu, et d’y paraître soutenu par le Médiateur en qui il espère.
-Il est touché de confiance, de crainte et de reconnaissance.
 
 
 1 Mais, répondant, Job dit :

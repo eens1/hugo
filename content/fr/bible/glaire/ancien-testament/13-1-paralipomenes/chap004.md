@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Descendants de Juda.
+  Enfants de Siméon.
 ---
-
-
-Descendants de Juda.
-Enfants de Siméon.
 
 
 1 Les fils de Juda : Pharès. Hesron, Charmi, Hur et Sobal.

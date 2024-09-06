@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Daniel implore la miséricorde du Seigneur pour son peuple.
+  L’ange Gabriel lui annonce le temps précis de la venue du Messie.
 ---
-
-
-Daniel implore la miséricorde du Seigneur pour son peuple.
-L’ange Gabriel lui annonce le temps précis de la venue du Messie.
 
 
 1 En la première année de Darius, fils d'Assuérus, de la race des Mèdes, qui régna sur le royaume des Chaldéens;

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 In the second year of the reign of Nabuchodonosor, Nabuchodonosor had a dream, and his spirit was terrified, and his dream went out of his mind.

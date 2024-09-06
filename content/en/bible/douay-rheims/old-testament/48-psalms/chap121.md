@@ -1,9 +1,8 @@
 ---
 title: "Chapter 121"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:30+02:00
 draft: false
 ---
-
 
 
 1 A gradual canticle. I rejoiced at the things that were said to me: We shall go into the house of the Lord.

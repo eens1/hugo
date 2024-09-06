@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 28"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Résurrection de Jésus-Christ.
+  Apparition de l’ange aux saintes femmes.
+  Jésus-Christ même leur apparaît.
+  Gardes corrompus par les princes des prêtres.
+  Apparition de Jésus en Galilée.
+  Mission des apôtres.
 ---
-
-
-Résurrection de Jésus-Christ.
-Apparition de l’ange aux saintes femmes.
-Jésus-Christ même leur apparaît.
-Gardes corrompus par les princes des prêtres.
-Apparition de Jésus en Galilée.
-Mission des apôtres.
 
 
 1 Or la nuit du sabbat, le premier jour de la semaine commençant à luire, Marie-Madeleine et l'autre Marie vinrent pour voir le sépulcre. 2 Et voilà qu'il se fit un grand tremblement de terre; car un ange du Seigneur descendit du ciel, et s'approchant, il renversa la pierre et s'assit dessus :3 Son visage était comme un éclair, et son vêtement comme la neige. 4 Par la crainte qu'il leur inspira, les gardes furent épouvantés, et devinrent comme morts. 5 Mais l'ange prenant la parole, dit aux femmes : Ne craignez point, vous; car je sais que vous cherchez Jésus, qui a été crucifié :6 Il n'est point ici ; car il est ressuscité, comme il l'a dit; venez, et voyez le lieu où le Seigneur était déposé :7 Et allant promptement, dites à ses disciples qu'il est ressuscité : et voici qu'il va devant vous en Galilée ; c'est là que vous le verrez. Ainsi je vous l'ai dit d'avance. 8 Elles sortirent aussitôt du sépulcre avec crainte et avec une grande joie, courant porter ces nouvelles à ses disciples. 9 Et voilà que Jésus se

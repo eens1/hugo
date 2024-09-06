@@ -1,9 +1,8 @@
 ---
 title: "Chapter 8"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 But Judas Machabeus, and they that were with him, went privately into the towns: and calling together their kinsmen and friends, and taking unto them such as continued in the Jews' religion, they assembled six thousand men.

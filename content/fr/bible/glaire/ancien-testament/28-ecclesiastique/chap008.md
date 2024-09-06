@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Ne pas avoir de démêlés avec un homme puissant.
+  Ne pas faire de reproches à celui qui se corrige.
+  Ecouter les sages et les vieillards.
+  Ne pas irriter les passions des méchants.
+  Ne pas découvrir son secret à un étranger.
 ---
-
-
-Ne pas avoir de démêlés avec un homme puissant.
-Ne pas faire de reproches à celui qui se corrige.
-Ecouter les sages et les vieillards.
-Ne pas irriter les passions des méchants.
-Ne pas découvrir son secret à un étranger.
 
 
 1 N'aie point de démêlés avec un puissant, de peur que tu ne tombes entre ses mains. 2 Ne dispute pas avec un homme riche, de peur qu'il ne suscite contre toi un procès ;

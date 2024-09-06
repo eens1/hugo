@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 For behold the day shall come kindled as a furnace: and all the proud, and all that do wickedly shall be stubble: and the day that cometh shall set them on fire, saith the Lord of hosts, it shall not leave them root, nor branch.

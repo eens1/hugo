@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 23"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Mort de Sara.
+  Abraham achète une caverne pour l’enterrer.
 ---
-
-
-Mort de Sara.
-Abraham achète une caverne pour l’enterrer.
 
 
 1 Or Sara vécut cent vingt-sept ans. 2 Et elle mourut dans la ville d'Arbée, qui est Hébron, dans la terre de Chanaan; et Abraham vint pour faire le deuil et pour la pleurer.

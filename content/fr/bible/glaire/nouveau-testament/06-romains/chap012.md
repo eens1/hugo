@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Préceptes de morale.
+  Nos corps hostie vivante.
+  Renouvellement de l’esprit.
+  Nous sommes tous un même corps, dont chaque membre a ses fonctions propres qu’il doit remplir.
+  Principaux devoirs de la vie chrétienne.
 ---
-
-
-Préceptes de morale.
-Nos corps hostie vivante.
-Renouvellement de l’esprit.
-Nous sommes tous un même corps, dont chaque membre a ses fonctions propres qu’il doit remplir.
-Principaux devoirs de la vie chrétienne.
 
 
 1 Je vous conjure donc, mes frères, par la miséricorde de Dieu, d'offrir vos corps en hostie vivante, sainte, agréable à Dieu, pour que votre culte soit raisonnable.

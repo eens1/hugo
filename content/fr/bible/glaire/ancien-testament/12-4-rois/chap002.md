@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Enlèvement d’Elie.
+  Ce prophète promet à Elisée de lui communiquer son esprit ; il lui laisse son manteau.
+  Elisée sépare les eaux du Jourdain et rend saines celles de Jéricho.
+  Quarante enfants sont dévorés pour s’être moqués de ce prophète.
 ---
-
-
-Enlèvement d’Elie.
-Ce prophète promet à Elisée de lui communiquer son esprit ; il lui laisse son manteau.
-Elisée sépare les eaux du Jourdain et rend saines celles de Jéricho.
-Quarante enfants sont dévorés pour s’être moqués de ce prophète.
 
 
 1 Or il arriva, lorsque le Seigneur voulut enlever Elie au ciel dans le tourbillon, qu'Elie et Elisée sortaient de Galgala.

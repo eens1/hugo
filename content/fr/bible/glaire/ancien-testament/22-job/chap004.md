@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Eliphaz accuse Job d’impatience.
+  Il soutient que l’homme ne peut être affligé que pour ses péchés, et que Job ne doit pas se croire innocent devant Dieu.
 ---
-
-
-Eliphaz accuse Job d’impatience.
-Il soutient que l’homme ne peut être affligé que pour ses péchés, et que Job ne doit pas se croire innocent devant Dieu.
 
 
 1 Or, répondant, Eliphaz, Thémanite, dit :

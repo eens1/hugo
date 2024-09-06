@@ -1,18 +1,18 @@
 ---
 title: "Chapitre 18"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  S’humilier.
+  Devenir enfant.
+  Fuir le scandale.
+  Parabole de la brebis égarée.
+  Correction fraternelle.
+  Pouvoir des clefs.
+  Pardon des injures.
+  Parabole du créancier et du débiteur.
 ---
-
-
-S’humilier.
-Devenir enfant.
-Fuir le scandale.
-Parabole de la brebis égarée.
-Correction fraternelle.
-Pouvoir des clefs.
-Pardon des injures.
-Parabole du créancier et du débiteur.
 
 
 1 En ce moment-là les disciples s'approchèrent de Jésus, disant : Qui, pensez-vous, est le plus grand dans le royaume des cieux?

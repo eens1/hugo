@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 Then Booz went up to the gate, and sat there. And when he had seen the kinsman going by, of whom he had spoken before, he said to him, calling him by his name: Turn aside for a little while, and sit down here. He turned aside, and sat down.

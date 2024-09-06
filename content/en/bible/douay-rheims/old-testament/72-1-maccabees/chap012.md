@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 And Jonathan saw that the time served him, and he chose certain men, and sent them to Rome, to confirm and to renew the amity with them:

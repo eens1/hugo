@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Nadab et Abiu consumés par le feu du ciel.
+  Le vin défendu aux prêtres.
+  Aaron laisse consumer toute la victime pour le péché.
 ---
-
-
-Nadab et Abiu consumés par le feu du ciel.
-Le vin défendu aux prêtres.
-Aaron laisse consumer toute la victime pour le péché.
 
 
 1 Alors Nadab et Abiu ayant pris les encensoirs, mirent du feu et de l'encens dessus, offrant devant le Seigneur un feu étranger; ce qui ne leur avait pas été ordonné.

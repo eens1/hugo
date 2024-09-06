@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 111"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste décrit le bonheur de celui qui craint le Seigneur et qui est fidèle à observer sa loi.
+  Alleluia du retour d’Aggée et de Zacharie.
 ---
-
-
-Le Psalmiste décrit le bonheur de celui qui craint le Seigneur et qui est fidèle à observer sa loi.
-Alleluia du retour d’Aggée et de Zacharie.
 
 
 1 Bienheureux l'homme qui craint le Seigneur, il mettra toutes ses volontés dans ses commandements.

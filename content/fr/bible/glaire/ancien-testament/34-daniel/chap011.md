@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Empire des Perses ruiné par le roi des Grecs.
+  Guerre contre les rois du midi et du septentrion.
+  Roi impie ; ses expéditions contre l’Egypte et la Judée ; sa fin malheureuse.
 ---
-
-
-Empire des Perses ruiné par le roi des Grecs.
-Guerre contre les rois du midi et du septentrion.
-Roi impie ; ses expéditions contre l’Egypte et la Judée ; sa fin malheureuse.
 
 
 1 Or moi, dès la première année de Darius le Mède, je me prêtais à ce qu'il devint fort et puissant.

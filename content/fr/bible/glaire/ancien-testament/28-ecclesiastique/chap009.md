@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Ne pas être jaloux de sa femme.
+  Fuir la compagnie des femmes étrangères.
+  Conserver ses anciens amis.
+  Ne pas envier la gloire des méchants.
+  S’éloigner des grands.
+  Se lier avec les sages.
+  S’occuper de Dieu.
 ---
-
-
-Ne pas être jaloux de sa femme.
-Fuir la compagnie des femmes étrangères.
-Conserver ses anciens amis.
-Ne pas envier la gloire des méchants.
-S’éloigner des grands.
-Se lier avec les sages.
-S’occuper de Dieu.
 
 
 1 Ne sois pas jaloux de la femme de ton sein, de peur qu'elle ne montre contre toi la malice d'une instruction funeste.

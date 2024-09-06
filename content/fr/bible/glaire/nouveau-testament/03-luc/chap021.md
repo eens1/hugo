@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Veuve donnant de son indigence.
+  Jésus prédit la ruine du temple ; questions des disciples à l’occasion de cette prédiction, et réponse de Jésus-Christ.
+  Signes de la ruine de Jérusalem.
+  Signes du dernier avènement de Jésus-Christ.
 ---
-
-
-Veuve donnant de son indigence.
-Jésus prédit la ruine du temple ; questions des disciples à l’occasion de cette prédiction, et réponse de Jésus-Christ.
-Signes de la ruine de Jérusalem.
-Signes du dernier avènement de Jésus-Christ.
 
 
 1 Or Jésus, regardant, vit des riches qui mettaient leurs aumônes dans le tronc.

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 60"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David invoque le secours du Seigneur avec cette ferme confiance que lui inspire la puissante protection dont il l’a toujours honoré.
+  Pour la fin.
 ---
-
-
-David invoque le secours du Seigneur avec cette ferme confiance que lui inspire la puissante protection dont il l’a toujours honoré.
-Pour la fin.
 
 
 1 Dans les hymnes de David.

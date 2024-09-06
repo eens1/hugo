@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Chandelier d’or ayant sept lampes sur sept branches, et deux oliviers à ses côtés.
+  Zorobabel achèvera le temple dont il a posé les fondements.
+  Les sept lampes sont les sept yeux du Seigneur ; les deux oliviers sont les deux oints de l’huile sainte.
 ---
-
-
-Chandelier d’or ayant sept lampes sur sept branches, et deux oliviers à ses côtés.
-Zorobabel achèvera le temple dont il a posé les fondements.
-Les sept lampes sont les sept yeux du Seigneur ; les deux oliviers sont les deux oints de l’huile sainte.
 
 
 1 Et l'ange qui parlait en moi revint, et me réveilla comme un homme qu'on réveille de son sommeil.

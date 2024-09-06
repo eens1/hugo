@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Parabole du festin des noces.
+  Rendre à César ce qui est à César.
+  Résurrection des morts.
+  Vie angélique.
+  Amour de Dieu et du prochain.
+  Le Messie, fils et seigneur de David.
 ---
-
-
-Parabole du festin des noces.
-Rendre à César ce qui est à César.
-Résurrection des morts.
-Vie angélique.
-Amour de Dieu et du prochain.
-Le Messie, fils et seigneur de David.
 
 
 1 Jésus reprenant, leur parla de nouveau en paraboles, disant :2 Le royaume des cieux est semblable à un roi qui fit les noces de son fils. 3 Or il envoya ses serviteurs appeler les conviés aux noces; mais ils ne voulurent point venir. 4 Il envoya encore d'autres serviteurs, disant : Dites aux conviés : Voilà que j'ai préparé mon festin, mes boeufs et les animaux engraissés ont été tués; tout est prêt, venez aux noces. 5 Mais ils n'en tinrent compte, et ils s'en allèrent, l'un à sa maison des champs, et l'autre à son négoce. 6 Les autres se saisirent des serviteurs, et après les avoir outragés, ils les tuèrent. 7 Or lorsque le roi l'eut appris, il en fut irrité; et ayant envoyé ses armées, il extermina ces meurtriers et brûla leur ville. 8 Alors il dit à ses serviteurs : Les noces ont été préparées, mais ceux qui avaient été conviés, n'en ont pas été dignes. 9 Allez donc dans les carrefours, et tous ceux que vous trouverez, appelez-les aux noces. 10 Et ses serviteurs s'étant dispersés sur les chemins, rassemblèrent

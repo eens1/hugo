@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 33"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Avantage de la crainte de Dieu.
+  Dieu par son juste jugement relève les uns et abaisse les autres.
+  Fin que l’auteur s’est proposée en écrivant cet ouvrage.
+  Se conserver l’autorité dans sa famille.
+  Manière dont il faut traiter les esclaves.
 ---
-
-
-Avantage de la crainte de Dieu.
-Dieu par son juste jugement relève les uns et abaisse les autres.
-Fin que l’auteur s’est proposée en écrivant cet ouvrage.
-Se conserver l’autorité dans sa famille.
-Manière dont il faut traiter les esclaves.
 
 
 1 A la rencontre de celui qui craint le Seigneur, ne viendront pas les maux ; mais dans la tentation, Dieu le conservera et le délivrera des maux. 2 Le sage ne hait ni les commandements ni les justices, et il ne sera pas brisé comme un vaisseau dans la tempête.

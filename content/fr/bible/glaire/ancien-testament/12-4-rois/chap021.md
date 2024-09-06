@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Impiété de Manassé.
+  Menaces du Seigneur contre Jérusalem.
+  Mort de Manassé.
+  Amon lui succède.
+  Il est tué par ses serviteurs.
+  Josias règne en sa place.
 ---
-
-
-Impiété de Manassé.
-Menaces du Seigneur contre Jérusalem.
-Mort de Manassé.
-Amon lui succède.
-Il est tué par ses serviteurs.
-Josias règne en sa place.
 
 
 1 Manassé avait douze ans lorsqu'il commença à régner, et il régna cinquante-cinq ans dans Jérusalem : le nom de sa mère était Haphsiba.

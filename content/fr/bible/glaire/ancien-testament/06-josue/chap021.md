@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Villes données aux Lévites pour demeures.
 ---
-
-
-Villes données aux Lévites pour demeures.
 
 
 1 Alors vinrent les princes des familles de Lévi vers Eléazar, le prêtre, vers Josué, fils de Nun, et vers les chefs des familles de chaque tribu des enfants d'Israël. 2 Et ils leur parlèrent à Silo, dans la terre de Chanaan, et dirent : Le Seigneur a ordonné par l'entremise de Moïse, qu'on nous donnât des villes pour habiter, et leur faubourgs pour nourrir les bêtes.

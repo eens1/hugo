@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Job reproche à ses amis la fausse confiance qu’ils ont dans leurs lumières.
+  Il relève la souveraine puissance de Dieu.
 ---
-
-
-Job reproche à ses amis la fausse confiance qu’ils ont dans leurs lumières.
-Il relève la souveraine puissance de Dieu.
 
 
 1 Et Job, répondant, dit :

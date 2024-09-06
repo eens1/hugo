@@ -1,9 +1,8 @@
 ---
 title: "Caput 24"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Septem annorum erat Ioas cum regnare cœpisset: et quadraginta annis regnavit in Ierusalem, nomen matris eius Sebia de Bersabee.

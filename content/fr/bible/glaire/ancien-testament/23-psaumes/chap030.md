@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 30"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  C’est une prière pleine de ferveur, de confiance et d’humilité que le Psalmiste adresse à Dieu pour implorer sons secours.
+  Jésus-Christ, en s’en servant sur la croix, nous a montré que les souffrances de David étaient la figure des siennes.
 ---
-
-
-C’est une prière pleine de ferveur, de confiance et d’humilité que le Psalmiste adresse à Dieu pour implorer sons secours.
-Jésus-Christ, en s’en servant sur la croix, nous a montré que les souffrances de David étaient la figure des siennes.
 
 
 1 Pour la fin, psaume de David, pour l'extase.

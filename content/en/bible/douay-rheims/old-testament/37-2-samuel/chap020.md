@@ -1,9 +1,8 @@
 ---
 title: "Chapter 20"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And there happened to be there a man of Belial, whose name was Seba, the son of Bochri, a man of Jemini: and he sounded the trumpet, and said: We have no part in David, nor inheritance in the son of Isai: return to thy dwellings, O Israel.

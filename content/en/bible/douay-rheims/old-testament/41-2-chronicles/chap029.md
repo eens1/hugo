@@ -1,9 +1,8 @@
 ---
 title: "Chapter 29"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 Now Ezechias began to reign, when he was five and twenty years old, and he reigned nine and twenty years in Jerusalem: the name of his mother was Abia, the daughter of Zacharias.

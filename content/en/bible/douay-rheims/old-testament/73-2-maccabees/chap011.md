@@ -1,9 +1,8 @@
 ---
 title: "Chapter 11"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 A short time after this Lysias, the king's lieutenant, and cousin, and who had chief charge over all the affairs, being greatly displeased with what had happened,

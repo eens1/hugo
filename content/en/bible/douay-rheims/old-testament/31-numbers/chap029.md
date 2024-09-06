@@ -1,9 +1,8 @@
 ---
 title: "Chapter 29"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 The first day also of the seventh month shall be venerable and holy unto you; you shall do no servile work therein, because it is the day of the sounding and of trumpets.

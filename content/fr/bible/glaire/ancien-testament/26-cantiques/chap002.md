@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  L’Epoux et l’Epouse continuent à faire mutuellement leur éloge.
+  Leur ravissement et leur fidélité.
 ---
-
-
-L’Epoux et l’Epouse continuent à faire mutuellement leur éloge.
-Leur ravissement et leur fidélité.
 
 
 1 L'ÉPOUX. Je suis la fleur des champs et le lis des vallées.

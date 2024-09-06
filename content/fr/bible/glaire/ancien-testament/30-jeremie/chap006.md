@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Désolation de Jérusalem et de Juda.
+  Infidélité des Juifs.
+  Fausse paix qui leur est promise.
+  S’instruire de la bonne voie ; et y marcher.
+  Sentinelles établies et non écoutées.
+  Jérémie est établi sur le peuple de Seigneur pour l’éprouver.
 ---
-
-
-Désolation de Jérusalem et de Juda.
-Infidélité des Juifs.
-Fausse paix qui leur est promise.
-S’instruire de la bonne voie ; et y marcher.
-Sentinelles établies et non écoutées.
-Jérémie est établi sur le peuple de Seigneur pour l’éprouver.
 
 
 1 Fortifiez-vous, fils de Benjamin, au milieu de Jérusalem, et dans Thécua sonnez de la trompette, et sur Bethacarem levez l'étendard; parce qu'un mal a été vu du côté de l'aquilon, ainsi qu'une grande destruction.

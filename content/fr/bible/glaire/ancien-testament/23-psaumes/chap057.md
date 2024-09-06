@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 57"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David s’élève contre les mauvais conseillers qui irritaient Saül contre lui.
+  Prières et prédictions contre eux.
+  Ils périront, et tout le monde connaîtra la justice et la providence du Seigneur.
+  Pour la fin.
 ---
-
-
-David s’élève contre les mauvais conseillers qui irritaient Saül contre lui.
-Prières et prédictions contre eux.
-Ils périront, et tout le monde connaîtra la justice et la providence du Seigneur.
-Pour la fin.
 
 
 1 Ne perdez pas entièrement; par David, pour une inscription de titre.

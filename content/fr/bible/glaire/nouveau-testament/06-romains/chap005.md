@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Avantages de la justification.
+  L’amour de Dieu envers nous, fondement de notre confiance.
+  De même que le péché et la mort sont entrés dans le monde par un seul homme, de même aussi la grâce et la vie se sont répandues sur un grand nombre par un seul.
 ---
-
-
-Avantages de la justification.
-L’amour de Dieu envers nous, fondement de notre confiance.
-De même que le péché et la mort sont entrés dans le monde par un seul homme, de même aussi la grâce et la vie se sont répandues sur un grand nombre par un seul.
 
 
 1 Etant donc justifiés par la foi, nous avons la paix avec Dieu par Jésus-Christ Notre Seigneur, 2 Par qui aussi nous avons accès par la foi à cette grâce en laquelle nous sommes établis, et nous nous glorifions dans l'espérance de la gloire des enfants de Dieu.

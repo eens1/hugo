@@ -1,9 +1,8 @@
 ---
 title: "Chapter 28"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 Achaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: he did not that which was right in the sight of the Lord as David his father had done,

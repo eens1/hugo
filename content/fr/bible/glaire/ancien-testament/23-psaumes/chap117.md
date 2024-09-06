@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 117"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste exhorte à louer le Seigneur à cause de sa grande miséricorde.
+  Il décrit les dangers auxquels il a été exposé, et marque la manière dont il en est sorti.
+  Alleluia.
 ---
-
-
-Le Psalmiste exhorte à louer le Seigneur à cause de sa grande miséricorde.
-Il décrit les dangers auxquels il a été exposé, et marque la manière dont il en est sorti.
-Alleluia.
 
 
 1 Louez le Seigneur, parce qu'il est bon, parce que pour jamais est sa miséricorde.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 51"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Give ear to me, you that follow that which is just, and you that seek the Lord: look unto the rock whence you are hewn, and to the hole of the pit from which you are dug out.

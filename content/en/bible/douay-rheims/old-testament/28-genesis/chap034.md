@@ -1,9 +1,8 @@
 ---
 title: "Chapter 34"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 And Dina the daughter of Lia went out to see the women of that country.

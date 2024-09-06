@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 24"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Lois pour l’entretien des lampes et des pains de proposition.
+  Blasphémateur lapidé.
+  Peine contre les blasphémateurs et contre les homicides.
+  Lois du talion.
 ---
-
-
-Lois pour l’entretien des lampes et des pains de proposition.
-Blasphémateur lapidé.
-Peine contre les blasphémateurs et contre les homicides.
-Lois du talion.
 
 
 1 Le Seigneur parla encore à Moïse, disant :

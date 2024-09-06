@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Mission d’Amos.
+  Vengeances du Seigneur contre Damas, contre les Philistins, contre les Tyriens, contre les Iduméens, contre les Ammonites.
 ---
-
-
-Mission d’Amos.
-Vengeances du Seigneur contre Damas, contre les Philistins, contre les Tyriens, contre les Iduméens, contre les Ammonites.
 
 
 1 Paroles d'Amos, qui fut un des pasteurs de Thécué, paroles relatives aux choses qu'il a vues touchant Israël, au temps d'Ozias, roi de Juda, et de Jéroboam, fils de Joas, roi d'Israël, deux ans avant le tremblement de terre.

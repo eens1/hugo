@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 24"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  L’intendant de la maison d’Abraham va en Mésopotamie demander une femme pour Isaac ; il obtient Rébecca.
 ---
-
-
-L’intendant de la maison d’Abraham va en Mésopotamie demander une femme pour Isaac ; il obtient Rébecca.
 
 
 1 Or Abraham était vieux et plein de jours ; et le Seigneur l'avait béni en toutes choses.

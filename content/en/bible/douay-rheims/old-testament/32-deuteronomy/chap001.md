@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 These are the words, which Moses spoke to all Israel beyond the Jordan, in the plain wilderness, over against the Red Sea, between Pharan and Thophel and Laban and Haseroth, where there is very much gold.

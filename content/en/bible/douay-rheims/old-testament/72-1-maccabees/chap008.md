@@ -1,9 +1,8 @@
 ---
 title: "Chapter 8"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 Now Judas heard of the fame of the Romans, that they are powerful and strong, and willingly agree to all things that are requested of them: and that whosoever have come to them, they have made amity with them, and that they are mighty in power.

@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 48"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Reproches contre Israël.
+  Sa délivrance gratuite.
+  Promesse d’un libérateur, c’est-à-dire du Messie figuré par Cyrus.
+  Délivrance d’Israël.
 ---
-
-
-Reproches contre Israël.
-Sa délivrance gratuite.
-Promesse d’un libérateur, c’est-à-dire du Messie figuré par Cyrus.
-Délivrance d’Israël.
 
 
 1 Ecoutez ceci, maison de Jacob, vous qui êtes appelés du nom d'Israël, et êtes sortis des eaux de Juda, qui jurez au nom du Seigneur, qui vous souvenez du Dieu d'Israël, mais non dans la vérité et la justice.

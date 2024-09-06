@@ -1,9 +1,8 @@
 ---
 title: "Chapter 10"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 For the law, having a shadow of the good things to come, not the very image of the things, by the selfsame sacrifices which they offer continually every year, can never make the comers thereunto perfect.

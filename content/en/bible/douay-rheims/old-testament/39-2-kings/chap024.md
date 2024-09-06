@@ -1,9 +1,8 @@
 ---
 title: "Chapter 24"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 In his days Nabuchodonosor, king of Babylon came up, and Joakim became his servant three years: then again he rebelled against him.

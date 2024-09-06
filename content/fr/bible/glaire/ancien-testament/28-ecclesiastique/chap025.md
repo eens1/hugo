@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 25"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Trois choses agréables et trois détestables.
+  Acquérir de bonne heure la sagesse.
+  Neuf choses qui paraissent heureuses.
+  Avantages de la crainte de Dieu.
+  La malice de la femme est le plus insupportable des maux.
 ---
-
-
-Trois choses agréables et trois détestables.
-Acquérir de bonne heure la sagesse.
-Neuf choses qui paraissent heureuses.
-Avantages de la crainte de Dieu.
-La malice de la femme est le plus insupportable des maux.
 
 
 1 Mon esprit se plaît en trois choses qui sont approuvées devant Dieu et devant les hommes :2 L'union des frères ; l'amour des proches; un mari et une femme qui s'accordent bien ensemble.

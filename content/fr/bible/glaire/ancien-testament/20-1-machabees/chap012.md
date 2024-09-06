@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Jonathas renouvelle l’alliance avec les Romains et avec les Lacédémoniens.
+  Il met en fuite l’armée de Démétrius.
+  Il tourne ses armes contre les Arabes et les Syriens.
+  Simon étend ses conquêtes jusqu’à Joppé.
+  Jonathas est pris à Ptolémaïde par Tryphon.
 ---
-
-
-Jonathas renouvelle l’alliance avec les Romains et avec les Lacédémoniens.
-Il met en fuite l’armée de Démétrius.
-Il tourne ses armes contre les Arabes et les Syriens.
-Simon étend ses conquêtes jusqu’à Joppé.
-Jonathas est pris à Ptolémaïde par Tryphon.
 
 
 1 Or Jonathas vit que le temps le favorisait, et il choisit des hommes, et les envoya à Rome, pour établir et renouveler amitié avec les Romains;

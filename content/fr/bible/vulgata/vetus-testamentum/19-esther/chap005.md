@@ -1,9 +1,8 @@
 ---
 title: "Caput 5"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:52+02:00
 draft: false
 ---
-
 
 
 1 Die autem tertio induta est Esther regalibus vestimentis, et stetit in atrio domus regiæ, quod erat interius, contra basilicam regis: at ille sedebat super solium suum in consistorio palatii contra ostium domus.

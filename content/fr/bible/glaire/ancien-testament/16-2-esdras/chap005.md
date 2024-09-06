@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Murmures des pauvres contre les riches.
+  Exhortations de Néhémias aux riches.
+  Son désintéressement.
 ---
-
-
-Murmures des pauvres contre les riches.
-Exhortations de Néhémias aux riches.
-Son désintéressement.
 
 
 1 Alors il se fit une grande clameur du peuple et de ses femmes contre leurs frères, les Juifs.

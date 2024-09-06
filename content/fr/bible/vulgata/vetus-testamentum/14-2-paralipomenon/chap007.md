@@ -1,9 +1,8 @@
 ---
 title: "Caput 7"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Cumque complesset Salomon fundens preces, ignis descendit de cælo, et devoravit holocausta et victimas: et maiestas Domini implevit domum.

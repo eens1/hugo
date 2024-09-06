@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  David fait faire le dénombrement de son peuple ; il en est repris par le prophète Gad.
+  Peste que Dieu envoie en Israël.
 ---
-
-
-David fait faire le dénombrement de son peuple ; il en est repris par le prophète Gad.
-Peste que Dieu envoie en Israël.
 
 
 1 Or Satan s'éleva contre Israël, et excita David à dénombrer Israël.

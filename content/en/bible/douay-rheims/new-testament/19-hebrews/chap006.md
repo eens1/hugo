@@ -1,9 +1,8 @@
 ---
 title: "Chapter 6"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 Wherefore, leaving the word of the beginning of Christ, let us go on to things more perfect: not laying again the foundation of penance from dead works and of faith towards God,

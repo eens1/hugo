@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Le mystère de la vocation des gentils est révélé à saint Paul, et l’exécution lui en est confiée.
+  C’est pour eux qu’il est dans les liens.
+  Il demande à Dieu pour les Ephésiens deux sortes de grâces, dont les unes regardent le coeur et les autres l’esprit.
 ---
-
-
-Le mystère de la vocation des gentils est révélé à saint Paul, et l’exécution lui en est confiée.
-C’est pour eux qu’il est dans les liens.
-Il demande à Dieu pour les Ephésiens deux sortes de grâces, dont les unes regardent le coeur et les autres l’esprit.
 
 
 1 C'est pour cela que moi, Paul, je suis le prisonnier du Christ Jésus, pour vous gentils;

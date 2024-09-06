@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 51"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Tout en reprochant à Doëg, l’Iduméen, d’avoir irrité Saül contre David, et d’avoir été cause de la mort des prêtres du Seigneur qui étaient à Nobé (voir 1 Rois, 22, verset 9 et suivants), le Psalmiste représente la malignité des médisants, les châtiments qui leur sont préparés, la vanité de la confiance qu’ils ont en leurs richesses, et le bonheur des justes qui mettent, comme lui, toute leur espérance en Dieu.
 ---
-
-
-Tout en reprochant à Doëg, l’Iduméen, d’avoir irrité Saül contre David, et d’avoir été cause de la mort des prêtres du Seigneur qui étaient à Nobé (voir 1 Rois, 22, verset 9 et suivants), le Psalmiste représente la malignité des médisants, les châtiments qui leur sont préparés, la vanité de la confiance qu’ils ont en leurs richesses, et le bonheur des justes qui mettent, comme lui, toute leur espérance en Dieu.
 
 
 1 Pour la fin. Intelligence à David,

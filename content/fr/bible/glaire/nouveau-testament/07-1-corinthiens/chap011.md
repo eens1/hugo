@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Les hommes en priant doivent avoir la tête nue, et les femmes la tête voilée.
+  Les Corinthiens sont repris de ne pas célébrer la fête du Seigneur avec assez d’ordre.
+  Institution de l’Eucharistie.
+  S’éprouver soi-même avant de s’en approcher.
+  Se juger pour ne pas être jugé.
 ---
-
-
-Les hommes en priant doivent avoir la tête nue, et les femmes la tête voilée.
-Les Corinthiens sont repris de ne pas célébrer la fête du Seigneur avec assez d’ordre.
-Institution de l’Eucharistie.
-S’éprouver soi-même avant de s’en approcher.
-Se juger pour ne pas être jugé.
 
 
 1 Soyez mes imitateurs, comme moi je le suis du Christ.

@@ -1,9 +1,8 @@
 ---
 title: "Caput 13"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 Hæc dicit Dominus ad me: Vade, et posside tibi lumbare lineum, et pones illud super lumbos tuos, et in aquam non inferes illud.

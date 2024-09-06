@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  L’arche est amenée de Cariathiarim.
+  Oza est frappé de mort.
+  L’arche est déposée dans la maison d’Obédédom.
 ---
-
-
-L’arche est amenée de Cariathiarim.
-Oza est frappé de mort.
-L’arche est déposée dans la maison d’Obédédom.
 
 
 1 Or David tint conseil avec les tribuns, les centurions et tous les princes,

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  De quelle manière le chandelier d’or doit être placé.
+  Consécration des Lévites.
 ---
-
-
-De quelle manière le chandelier d’or doit être placé.
-Consécration des Lévites.
 
 
 1 Le Seigneur parla encore à Moïse, disant :2 Parle à Aaron et tu lui diras : Lorsque tu auras placé les sept lampes, que le chandelier soit dressé à la partie australe. Ordonne donc que les lampes regardent contre le nord vis-à-vis de la table des pains de proposition ; c'est contre cette partie que leurs le chandelier regarde, qu'elles devront luire. 3 Et Aaron le fit, et il posa les lampes sur le chandelier, comme avait ordonné le Seigneur à Moïse. 4 Or voici la façon du chandelier : il était d'or ductile, tant la tige du milieu, que tout ce qui sortait des deux côtés des branches : c'est selon le modèle que montra le Seigneur à Moïse, que Moïse fit le chandelier.

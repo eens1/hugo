@@ -1,9 +1,8 @@
 ---
 title: "Chapter 8"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass after this that David defeated the Philistines, and brought them down, and David took the bridle of tribute out of the hand of the Philistines,

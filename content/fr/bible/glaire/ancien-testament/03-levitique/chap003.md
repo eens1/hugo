@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Cérémonies qu’on doit observer dans les sacrifices pacifiques.
 ---
-
-
-Cérémonies qu’on doit observer dans les sacrifices pacifiques.
 
 
 1 Que si son oblation est une hostie de sacrifices pacifiques, et qu'il veuille offrir d'entre les bœufs un mâle ou une femelle, il les offrira sans tâche au Seigneur; 2 Et il mettra la main sur la tête de sa victime qui sera immolée à l'entrée du tabernacle de témoignage, et les fils d'Aaron, prêtres, répandront le sang autour de l'autel. 3 Et ils offriront de l'hostie des sacrifices pacifiques en oblation au Seigneur, la graisse qui couvre les entrailles et tout ce qu'il y a de graisse au dedans ;

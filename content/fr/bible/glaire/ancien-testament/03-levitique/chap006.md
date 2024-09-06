@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Autres sacrifices d’expiation.
+  Lois touchant l’holocauste de chaque jour, le feu perpétuel, les offrandes, de fleur de farine, celles des grands prêtres au jour de leur onction ; les hosties pour le péché.
 ---
-
-
-Autres sacrifices d’expiation.
-Lois touchant l’holocauste de chaque jour, le feu perpétuel, les offrandes, de fleur de farine, celles des grands prêtres au jour de leur onction ; les hosties pour le péché.
 
 
 1 Le Seigneur parla à Moïse disant :2 L'homme qui a péché, et qui, le Seigneur méprisé, a nié à son prochain le dépôt qui avait été confié à sa foi, ou qui par violence a ravi quelque chose, ou a fait une fraude, 3 Ou bien encore a trouvé une chose perdue, et le niant, s'est de plus parjuré, et a fait quelqu'autre des nombreux péchés dans lesquels ont coutume de tomber les hommes, 4 Convaincu de son délit, rendra5 En entier tout ce qu'il a voulu retenir par fraude, et par-dessus la cinquième partie au maître auquel il avait causé le dommage.

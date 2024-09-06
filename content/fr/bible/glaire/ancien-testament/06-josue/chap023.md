@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 23"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Josué exhorte les enfants d’Israël à observer la loi du Seigneur.
+  Maux dont il les menace, s’ils deviennent infidèles.
 ---
-
-
-Josué exhorte les enfants d’Israël à observer la loi du Seigneur.
-Maux dont il les menace, s’ils deviennent infidèles.
 
 
 1 Or, beaucoup de temps s'étant écoulé, après que le Seigneur eut donné la paix à Israël, et toutes les nations à l'entour ayant été soumises, enfin Josué, étant déjà très vieux et d'un âge fort avancé, 2 Appela tout Israël, les anciens, les princes, les chefs et les magistrats, et leur dit : Je suis vieux, et d'un âge très avancé;

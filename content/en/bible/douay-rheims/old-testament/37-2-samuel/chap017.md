@@ -1,9 +1,8 @@
 ---
 title: "Chapter 17"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And Achitophel said to Absalom: I will choose me twelve thousand men, and I will arise and pursue after David this night.

@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Postérité d’Issachar, de Benjamin, de Nephthali, de Manassé, d’Ephraïm et d’Aser.
 ---
-
-
-Postérité d’Issachar, de Benjamin, de Nephthali, de Manassé, d’Ephraïm et d’Aser.
 
 
 1 Or les fils d'Issachar furent : Thola et Phua, Jasub et Siméron ; quatre.

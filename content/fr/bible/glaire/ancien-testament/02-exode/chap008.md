@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Seconde plaie, les grenouilles ; troisième, les moucherons ; quatrième, les mouches.
+  Vaines promesses de Pharaon.
 ---
-
-
-Seconde plaie, les grenouilles ; troisième, les moucherons ; quatrième, les mouches.
-Vaines promesses de Pharaon.
 
 
 1 Le Seigneur dit aussi a Moïse : Entre auprès de Pharaon, et tu lui diras : Voici ce que dit le Seigneur : Laisse aller mon peuple, afin qu'il me sacrifie :2 Mais si tu ne veux pas le laisser aller, voici que moi je frapperai tout ton pays de grenouilles. 3 Car le fleuve fera jaillir des grenouilles, qui monteront, et entreront dans ta maison et dans la chambre où est ton lit, et sur ton lit. et dans les maisons de tes serviteurs, et au milieu de ton peuple, et dans tes fours, et sur les restes de tes aliments.

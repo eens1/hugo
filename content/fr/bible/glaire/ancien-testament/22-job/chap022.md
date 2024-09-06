@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Eliphaz reproche à Job les crimes dont il le suppose coupable, et il l’exhorte à se convertir au Seigneur.
 ---
-
-
-Eliphaz reproche à Job les crimes dont il le suppose coupable, et il l’exhorte à se convertir au Seigneur.
 
 
 1 Alors, répondant, Eliphaz, le Thémanite, dit :

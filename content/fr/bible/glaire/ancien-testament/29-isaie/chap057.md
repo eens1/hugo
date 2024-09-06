@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 57"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Mort du juste.
+  Reproche aux Juifs idolâtres.
+  Retour du peuple de sa captivité.
+  Malheur aux méchants.
 ---
-
-
-Mort du juste.
-Reproche aux Juifs idolâtres.
-Retour du peuple de sa captivité.
-Malheur aux méchants.
 
 
 1 Le juste périt, et il n'est personne qui y pense en son cœur; les hommes de miséricorde sont enlevés du monde, parce qu'il n'est personne qui ait de l'intelligence ; car c'est à cause de la malice qu'a été enlevé le juste.

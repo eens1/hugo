@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 Woe is me, for I am become as one that gleaneth in autumn the grapes of the vintage: there is no cluster to eat, my soul desired the first ripe figs.

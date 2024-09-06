@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 But Simon, of whom we spoke before, who was the betrayer of the money, and of his country, spoke ill of Onias, as though he had incited Heliodorus to do these things, and had been the promoter of evils:

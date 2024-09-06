@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Les Ammonites assiègent Jabès de Galaad.
+  Saül va au secours de cette ville et les mit en fuite.
+  Il est de nouveau reconnu roi à Galgala.
 ---
-
-
-Les Ammonites assiègent Jabès de Galaad.
-Saül va au secours de cette ville et les mit en fuite.
-Il est de nouveau reconnu roi à Galgala.
 
 
 1 Et il arriva environ un mois après que Naas, roi des Ammonites, monta et commença à combattre contre Jabès-Galaad. Et tous les hommes de Jabès dirent à Naas : Acceptez-nous comme alliés, et nous vous servirons.

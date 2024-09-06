@@ -1,9 +1,8 @@
 ---
 title: "Caput 10"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Cum vero moras faceret Tobias, causa nuptiarum, solicitus erat pater eius Tobias, dicens: Putas quare moratur filius meus, aut quare detentus est ibi?

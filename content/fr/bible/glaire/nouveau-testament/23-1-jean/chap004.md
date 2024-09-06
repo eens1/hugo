@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Discernement des esprits.
+  S’aimer les uns les autres.
+  Amour de Dieu envers nous, modèle de l’amour que nous devons à nos frères.
+  Celui qui demeure dans la charité demeure en Dieu.
+  Confiance qu’inspire la charité.
+  Celui qui hait son frère n’aime pas Dieu.
 ---
-
-
-Discernement des esprits.
-S’aimer les uns les autres.
-Amour de Dieu envers nous, modèle de l’amour que nous devons à nos frères.
-Celui qui demeure dans la charité demeure en Dieu.
-Confiance qu’inspire la charité.
-Celui qui hait son frère n’aime pas Dieu.
 
 
 1 Mes bien-aimés, ne croyez point à tout esprit, mais éprouvez les esprits, s'ils sont de Dieu; parce que beaucoup de faux prophètes se sont élevés dans le monde.

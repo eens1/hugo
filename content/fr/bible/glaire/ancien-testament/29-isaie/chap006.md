@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Isaïe voit la gloire du Seigneur.
+  Le Seigneur l’envoie porter sa parole aux enfants d’Israël et de Juda ; il lui annonce leur endurcissement, et les différentes révolutions qu’ils doivent éprouver.
 ---
-
-
-Isaïe voit la gloire du Seigneur.
-Le Seigneur l’envoie porter sa parole aux enfants d’Israël et de Juda ; il lui annonce leur endurcissement, et les différentes révolutions qu’ils doivent éprouver.
 
 
 1 En l'année où est mort le roi Ozias, je vis le Seigneur assis sur un trône haut et élevé; et ce qui était sous lui remplissait le temple,

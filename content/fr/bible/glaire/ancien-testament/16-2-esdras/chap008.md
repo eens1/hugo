@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Esdras lit la loi devant le peuple.
+  Célébration de la fête des tabernacles.
 ---
-
-
-Esdras lit la loi devant le peuple.
-Célébration de la fête des tabernacles.
 
 
 1 Et le septième mois était venu, et les enfants d'Israël étaient dans leurs villes. Or tout le peuple s'assembla comme un seul homme dans la place qui est devant la porte des eaux; et ils dirent à Esdras, le scribe, d'apporter le livre de la loi de Moïse que le Seigneur avait prescrite à Israël.

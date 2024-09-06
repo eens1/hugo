@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Aumônes abondantes des Eglises de Macédoine pour les saints de Jérusalem.
+  Saint Paul exhorte les Corinthiens à imiter la charité de ces Eglises.
+  Il rend témoignage à leur bonne volonté.
+  Il leur recommande ceux qu’il envoie pour recueillir leurs aumônes.
 ---
-
-
-Aumônes abondantes des Eglises de Macédoine pour les saints de Jérusalem.
-Saint Paul exhorte les Corinthiens à imiter la charité de ces Eglises.
-Il rend témoignage à leur bonne volonté.
-Il leur recommande ceux qu’il envoie pour recueillir leurs aumônes.
 
 
 1 Nous vous faisons connaître, mes frères, la grâce de Dieu, qui a été accordée aux Eglises de Macédoine :2 C'est que dans les épreuves nombreuses de la tribulation, ils en ont eu une joie abondante, et que leur pauvreté extrême a répandu avec abondance les richesses de leur charité sincère. 3 Car je leur rends ce témoignage qu'ils ont donné de leur propre mouvement autant qu'ils pouvaient, et même plus qu'ils ne pouvaient, 4 Nous conjurant avec beaucoup d'instances d'accepter leurs aumônes, et leur part à la dispensation qui se fait pour les saints.

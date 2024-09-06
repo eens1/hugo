@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Construction de la tour de Babel.
+  Confusion des langues.
+  Postérité de Sem.
 ---
-
-
-Construction de la tour de Babel.
-Confusion des langues.
-Postérité de Sem.
 
 
 1 Or la terre n'avait qu'un seul langage et qu'une seule langue. 2 Et lorsque les hommes partirent de l'orient, ils trouvèrent une plaine dans la terre de Sennaar, et ils y habitèrent.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 24"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 And when Balaam saw that it pleased the Lord that he should bless Israel, he went not as he had gone before, to seek divination: but setting his face towards the desert,

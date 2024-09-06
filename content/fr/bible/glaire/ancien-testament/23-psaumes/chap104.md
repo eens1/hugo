@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 104"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Ce psaume contient des actions de grâces pour tous les bienfaits du Seigneur envers son peuple, et le récit de ses bienfaits depuis la vocation d’Abraham jusqu’à l’entrée des Hébreux dans la Terre Promise.
+  Alleluia.
 ---
-
-
-Ce psaume contient des actions de grâces pour tous les bienfaits du Seigneur envers son peuple, et le récit de ses bienfaits depuis la vocation d’Abraham jusqu’à l’entrée des Hébreux dans la Terre Promise.
-Alleluia.
 
 
 1 Louez le Seigneur, et invoquez son nom : annoncez, parmi les nations, ses œuvres.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  David est sacré roi de Juda, et Isboseth, fils de Saül, est établi roi d’Israël.
+  Combat entre l’armée de David et celle d’Isboseth.
+  David est victorieux.
 ---
-
-
-David est sacré roi de Juda, et Isboseth, fils de Saül, est établi roi d’Israël.
-Combat entre l’armée de David et celle d’Isboseth.
-David est victorieux.
 
 
 1 Et après cela David consulta le Seigneur, disant : Est-ce que je monterai dans une des villes de Juda? Et le Seigneur lui dit : Monte. Alors David demanda : Où monterai-je? Et le Seigneur lui répondit : A Hébron.

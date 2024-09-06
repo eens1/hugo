@@ -1,9 +1,8 @@
 ---
 title: "Chapter 34"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 The word that came to Jeremiah from the Lord, when Nabuchodonosor king of Babylon, and all his army, and all the kingdoms of the earth, that were under the power of his hand, and all the people fought against Jerusalem and against all the cities thereof, saying:

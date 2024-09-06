@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Idole de Michas.
 ---
-
-
-Idole de Michas.
 
 
 1 Il y eut en ce temps-là un certain homme de la montagne d'Ephraïm, du nom de Michas, 2 Qui dit à sa mère : Les mille et cent sicles d'argent, que vous aviez mis à part, et au sujet desquels, vous aviez juré, moi l'entendant, voici que je les ai, et qu'ils sont avec moi. Sa mère lui répondit : Béni soit mon fils par le Seigneur !3 Michas les rendit donc à sa mère, qui lui avait dit : J'ai consacré et voué cet argent au Seigneur, afin que mon fils le reçoive de ma main, et qu'il fasse une image taillée au ciseau et une idole de fonte ; et maintenant je te le remets. 4 Il les rendit donc à sa mère, qui prit deux cents sicles d'argent et les donna à un orfèvre, afin qu'il en fit une image taillée au ciseau et une idole de fonte, qui demeura dans la maison de Michas. 5 Michas aussi éleva séparément dans sa maison un petit temple au dieu, et fit un éphod, des théraphim, c'est-à-dire un vêtement sacerdotal, et des idoles; puis il remplit la main d'un de ses fils; et celui-ci devint son prêtre.

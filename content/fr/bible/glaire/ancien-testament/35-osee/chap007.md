@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Reproches et menaces du Seigneur contre Israël.
 ---
-
-
-Reproches et menaces du Seigneur contre Israël.
 
 
 1 Lorsque je voulais guérir Israël, l'iniquité d'Ephraïm et la malice de Samarie ont été révélées, parce qu'ils ont commis le mensonge; et un voleur est entré pillant, un brigand a pillé au dehors.

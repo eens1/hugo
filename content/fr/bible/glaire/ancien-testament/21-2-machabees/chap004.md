@@ -1,19 +1,19 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Calomnies de Simon.
+  Jason obtient à prix d’argent la souveraine sacrificature.
+  Il commet toutes sortes d’impiétés.
+  Antiochus est reçu à Jérusalem ; Ménélaüs supplante Jason.
+  Il est accusé devant Antiochus et laisse à sa place Lysimaque.
+  Onias reprend Ménélaüs, et est tué par Andronique.
+  Antiochus venge la mort d’Onias.
+  Lysimaque est tué par le peuple.
+  Ménélaüs rachète sa vie par une somme d’argent.
 ---
-
-
-Calomnies de Simon.
-Jason obtient à prix d’argent la souveraine sacrificature.
-Il commet toutes sortes d’impiétés.
-Antiochus est reçu à Jérusalem ; Ménélaüs supplante Jason.
-Il est accusé devant Antiochus et laisse à sa place Lysimaque.
-Onias reprend Ménélaüs, et est tué par Andronique.
-Antiochus venge la mort d’Onias.
-Lysimaque est tué par le peuple.
-Ménélaüs rachète sa vie par une somme d’argent.
 
 
 1 Mais Simon, le délateur qui a été dit des sommes d'argent et de la patrie, parlait mal d'Onias, comme si Onias avait inspiré à Héliodore ce qu'il avait fait, et qu'il eût été l'instigateur de ces maux; 2 Et le pourvoyeur de la cité et le défenseur de sa nation, et le zélateur de la loi de Dieu, il osait le dire formant des desseins contre le royaume. 3 Mais comme cette inimitié allait si loin que même par quelques amis de Simon, il se commettait des meurtres,

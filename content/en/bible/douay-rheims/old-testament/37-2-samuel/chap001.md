@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 Now it came to pass, after Saul was dead, that David returned from the slaughter of the Amalecites, and abode two days in Siceleg.

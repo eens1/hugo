@@ -1,9 +1,8 @@
 ---
 title: "Vatican II"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 Vatican II est un faux concile proclamé en 1965, qui a non seulement été appelé et confirmé par des antipapes élus non canoniquement, mais qui de plus contient des enseignements très notoirement hérétiques. L'émergence de ce faux concile fait entrer le monde dans la période que l'on nomme *La Grande Apostasie*, bien que cette apostasie était déjà rampante bien avant la promulgation de ce faux concile. 

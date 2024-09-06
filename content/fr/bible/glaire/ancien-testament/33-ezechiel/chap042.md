@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 42"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Description et usage des appartements qui étaient vis-à-vis du temple dans le parvis des prêtres.
+  Dimension de toute l’étendue du parvis extérieur.
 ---
-
-
-Description et usage des appartements qui étaient vis-à-vis du temple dans le parvis des prêtres.
-Dimension de toute l’étendue du parvis extérieur.
 
 
 1 Et il me fit passer dans le parvis extérieur par la voie qui conduit à l'aquilon, et m'introduisit dans la chambre du trésor, qui était vis-à-vis de l'édifice séparé, et vis-à-vis de la maison tournée vers l'aquilon.

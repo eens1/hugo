@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 32"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Sennachérib s’avance contre Jérusalem.
+  Ezéchias exhorte son peuple.
+  Blasphèmes de Sennachérib.
+  Un ange extermine son armée.
+  Gloire d’Ezéchias et sa mort.
+  Manassé lui succède.
 ---
-
-
-Sennachérib s’avance contre Jérusalem.
-Ezéchias exhorte son peuple.
-Blasphèmes de Sennachérib.
-Un ange extermine son armée.
-Gloire d’Ezéchias et sa mort.
-Manassé lui succède.
 
 
 1 Après ces choses si fidèlement exécutées, Sennachérib, roi des Assyriens, vint et entra dans Juda ; il assiégea les villes fortifiées, voulant les prendre.

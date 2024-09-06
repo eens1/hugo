@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Judith, étant restée seule auprès d’Holoferne, lui tranche la tête, et sort avec la fille qui la servait.
+  Elle arrive à Béthulie, où elle est reçue avec un grand étonnement et beaucoup d’applaudissements.
+  On fait venir Achior qui reconnaît la tête d’Holoferne.
 ---
-
-
-Judith, étant restée seule auprès d’Holoferne, lui tranche la tête, et sort avec la fille qui la servait.
-Elle arrive à Béthulie, où elle est reçue avec un grand étonnement et beaucoup d’applaudissements.
-On fait venir Achior qui reconnaît la tête d’Holoferne.
 
 
 1 Or, dès que le soir fut venu, ses serviteurs se hâtèrent de rentrer en leurs logis, et Vagao ferma les portes de la chambre, et s'en alla.

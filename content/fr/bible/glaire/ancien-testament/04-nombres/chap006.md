@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Consécration des Nazaréens.
+  Bénédiction que les prêtres doivent donner au peuple.
 ---
-
-
-Consécration des Nazaréens.
-Bénédiction que les prêtres doivent donner au peuple.
 
 
 1 Le Seigneur parla encore à Moïse, disant :2 Parle aux enfants d'Israël, et tu leur diras : Un homme ou une femme, lorsqu'ils auront fait un vœu pour se sanctifier, et qu'ils auront voulu se consacrer au Seigneur, 3 S'abstiendront de vin et de tout ce qui peut enivrer. Ils ne boiront point de vinaigre, qui est fait de vin, ni de quelque autre breuvage enivrant que ce soit, ni de rien de ce qui est exprimé du raisin; ils ne mangeront point de raisins frais, ni secs4 Durant tous les jours qu'ils seront consacrés par vœu au Seigneur; ils ne mangeront rien de ce qui peut venir de la vigne depuis le raisin sec jusqu'au pépin. 5 Durant tout le temps de sa séparation le rasoir ne passera point sur sa tête, jusqu'à ce que soit accompli le jour jusqu'auquel il est consacré au Seigneur. Il sera saint, laissant croître la chevelure de sa tête.

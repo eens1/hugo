@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 128"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste exhorte les enfants d’Israël à louer le Seigneur de la protection qu’il leur a accordée.
 ---
-
-
-Le Psalmiste exhorte les enfants d’Israël à louer le Seigneur de la protection qu’il leur a accordée.
 
 
 1 Cantique des degrés. Souvent ils m'ont attaqué depuis ma jeunesse, qu'Israël le dise maintenant.

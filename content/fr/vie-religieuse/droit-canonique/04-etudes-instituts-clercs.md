@@ -1,9 +1,8 @@
 ---
 title: "Chap. 4 - Des études dans les instituts de clercs (587-591)"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 **587**

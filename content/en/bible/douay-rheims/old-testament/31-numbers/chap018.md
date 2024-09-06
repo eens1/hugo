@@ -1,9 +1,8 @@
 ---
 title: "Chapter 18"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 And the Lord said to Aaron: Thou, and thy sons, and thy father's house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the sins of your priesthood.

@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Mort d’Abia.
+  Asa lui succède.
+  Zara, roi d’Ethiopie, vient l’attaquer.
+  Asa remporte sur lui la victoire.
 ---
-
-
-Mort d’Abia.
-Asa lui succède.
-Zara, roi d’Ethiopie, vient l’attaquer.
-Asa remporte sur lui la victoire.
 
 
 1 Abia dormit ensuite avec ses pères, et on l'ensevelit dans la cité de David, et son fils Asa régna en sa place ; et, durant ses jours, la terre se reposa pendant dix ans.

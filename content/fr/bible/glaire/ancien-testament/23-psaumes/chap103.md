@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 103"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste loue le Seigneur à la vue de sa grandeur, de sa sagesse et de sa puissance qui éclate dans ses ouvrages.
 ---
-
-
-Le Psalmiste loue le Seigneur à la vue de sa grandeur, de sa sagesse et de sa puissance qui éclate dans ses ouvrages.
 
 
 1 De David lui-même. Bénis, mon âme, le Seigneur : Seigneur mon Dieu, votre magnificence a paru avec un grand éclat. Vous avez revêtu la louange et l'honneur ;

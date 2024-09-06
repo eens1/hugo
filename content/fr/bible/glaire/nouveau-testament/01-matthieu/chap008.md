@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Guérison d’un lépreux et de beaucoup d’autres malades.
+  Dispositions pour suivre Jésus-Christ.
+  Tempête apaisée.
+  Démons chassés, pourceaux précipités.
 ---
-
-
-Guérison d’un lépreux et de beaucoup d’autres malades.
-Dispositions pour suivre Jésus-Christ.
-Tempête apaisée.
-Démons chassés, pourceaux précipités.
 
 
 1 Or, lorsqu'il fut descendu de la montagne, une grande foule le suivit :2 Et voilà qu'un lépreux venant à lui l'adorait, disant : Seigneur, si vous voulez, vous pouvez me guérir.

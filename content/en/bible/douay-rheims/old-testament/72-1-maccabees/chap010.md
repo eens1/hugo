@@ -1,9 +1,8 @@
 ---
 title: "Chapter 10"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 Now in the hundred and sixtieth year, Alexander, the son of Antiochus, surnamed the Illustrious, came up and took Ptolemais, and they received him, and he reigned there.

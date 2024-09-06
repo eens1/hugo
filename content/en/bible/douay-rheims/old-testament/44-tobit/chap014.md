@@ -1,9 +1,8 @@
 ---
 title: "Chapter 14"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 And the words of Tobias were ended. And after Tobias was restored to his sight, he lived two and forty years, and saw the children of his grandchildren.

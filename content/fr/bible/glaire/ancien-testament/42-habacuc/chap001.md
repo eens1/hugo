@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Plaintes du prophète sur les iniquités de Juda.
+  Vengeances du Seigneur exercées sur les Chaldéens.
+  Châtiment de Nabuchodonosor.
+  Dieu ne laisse pas l’oppression impunie.
 ---
-
-
-Plaintes du prophète sur les iniquités de Juda.
-Vengeances du Seigneur exercées sur les Chaldéens.
-Châtiment de Nabuchodonosor.
-Dieu ne laisse pas l’oppression impunie.
 
 
 1 Malheur accablant qu'a vu Habacuc, le prophète.

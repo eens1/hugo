@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Multiplication des cinq pains et des deux poissons.
+  Jésus marche sur la mer.
+  La nourriture qui ne périt pas.
+  Jésus-Christ déclare que sa chair et son sang sont une nourriture et un breuvage.
+  Plusieurs se scandalisent de ses paroles et l’abandonnent.
+  Les douze apôtres demeurent avec lui.
+  Jésus prédit l’infidélité de l’un d’eux.
 ---
-
-
-Multiplication des cinq pains et des deux poissons.
-Jésus marche sur la mer.
-La nourriture qui ne périt pas.
-Jésus-Christ déclare que sa chair et son sang sont une nourriture et un breuvage.
-Plusieurs se scandalisent de ses paroles et l’abandonnent.
-Les douze apôtres demeurent avec lui.
-Jésus prédit l’infidélité de l’un d’eux.
 
 
 1 Après cela Jésus s'en alla de l'autre côté de la mer de Galilée, c'est-à-dire de Tibériade;

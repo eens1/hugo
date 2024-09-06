@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 But there were also false prophets among the people, even as there shall be among you lying teachers who shall bring in sects of perdition and deny the Lord who bought them: bringing upon themselves swift destruction.

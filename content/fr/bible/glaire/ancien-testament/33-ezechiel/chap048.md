@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 48"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  La terre d’Israël partagée en douze tribus.
+  Portion consacrée pour le temple et pour la ville sainte.
+  Partage des lévites et du prince.
+  Noms des portes de la ville.
 ---
-
-
-La terre d’Israël partagée en douze tribus.
-Portion consacrée pour le temple et pour la ville sainte.
-Partage des lévites et du prince.
-Noms des portes de la ville.
 
 
 1 Et voici les noms des tribus, depuis les confins de l'aquilon, le long de la voie de Béthalon, lorsqu'on va à Emath : la cour d'Enan sera la borne du côté de Damas vers l'aquilon, le long de la voie d'Emath. Et à lui sera le côté oriental, la mer; Dan, une portion.

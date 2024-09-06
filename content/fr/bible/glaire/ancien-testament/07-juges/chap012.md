@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Guerre entre Ephraïm et Galaad.
+  Mort de Jephté.
+  Abésan, Ahialon, Abdon, juges d’Israël.
 ---
-
-
-Guerre entre Ephraïm et Galaad.
-Mort de Jephté.
-Abésan, Ahialon, Abdon, juges d’Israël.
 
 
 1 Mais voilà que dans Ephraïm s'éleva une sédition; car les hommes de cette tribu passant vers l'aquilon, dirent à Jephté : Pourquoi marchant au combat contre les enfants d'Ammon, n'as-tu pas voulu nous appeler, afin que nous allassions avec toi? Aussi incendierons-nous ta maison. 2 Jephté leur répondit : Nous avions un grand débat moi et mon peuple Contre les enfants d'Ammon; je vous ai appelés, pour me donner du secours, et vous ne l'avez pas Voulu faire. 3 Ce que voyant, j'ai mis mon âme en mes mains, j'ai passé chez les enfants d'Ammon, et le Seigneur les a livrés en mes mains. En quoi ai-je mérité que vous vous éleviez contre moi pour me faire la guerre?

@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 29"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  On peut voir dans les interprètes les opinions diverses sur le motif et l’occasion de la composition de ce psaume.
+  Quant à nous ; il nous semble qu’on peut le considérer comme un cantique d’actions de grâces que David rend à Dieu pour la santé qu’il lui redonnée par un effet de sa divine bonté.
+  Dans le sens spirituel, il convient parfaitement à Jésus-Christ ressuscité et à toutes les âmes qui ont été guéries des faiblesses où leur orgueil les avait fait tomber.
+  Psaume pour servir de cantique.
 ---
-
-
-On peut voir dans les interprètes les opinions diverses sur le motif et l’occasion de la composition de ce psaume.
-Quant à nous ; il nous semble qu’on peut le considérer comme un cantique d’actions de grâces que David rend à Dieu pour la santé qu’il lui redonnée par un effet de sa divine bonté.
-Dans le sens spirituel, il convient parfaitement à Jésus-Christ ressuscité et à toutes les âmes qui ont été guéries des faiblesses où leur orgueil les avait fait tomber.
-Psaume pour servir de cantique.
 
 
 1 A la dédicace de la maison David.

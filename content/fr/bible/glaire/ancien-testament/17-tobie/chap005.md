@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  L’ange Raphaël s’engage à accompagner le jeune Tobie jusqu’à Ragès ; larmes de sa mère ; confiance de son père.
 ---
-
-
-L’ange Raphaël s’engage à accompagner le jeune Tobie jusqu’à Ragès ; larmes de sa mère ; confiance de son père.
 
 
 1 Alors Tobie répondit à son père, et dit : Tout ce que vous m'avez ordonné, je le ferai, mon père. 2 Mais comment pourrai-je retirer cet argent, je l'ignore : cet homme ne me connaît point, et moi je ne le connais point, quelle marque lui donnerai-je? Mais je ne sais pas même le chemin par où l'on peut aller là.

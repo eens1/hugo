@@ -1,9 +1,8 @@
 ---
 title: "Chapter 27"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 And when morning was come, all the chief priests and ancients of the people took counsel against Jesus, that they might put him to death.

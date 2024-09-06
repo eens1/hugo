@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Nathan reprend David de son péché.
+  Ce prince le confesse et en obtient le pardon.
+  Mort du fils qui était le fruit de son crime.
+  Naissance de Salomon.
+  Prise de Rabbath.
+  Rigueurs exercées contre les Ammonites
 ---
-
-
-Nathan reprend David de son péché.
-Ce prince le confesse et en obtient le pardon.
-Mort du fils qui était le fruit de son crime.
-Naissance de Salomon.
-Prise de Rabbath.
-Rigueurs exercées contre les Ammonites
 
 
 1 Le Seigneur donc envoya Nathan vers David; et lorsque Nathan fut venu vers lui, il lui dit : Deux hommes étaient dans une ville, l'un riche et l'autre pauvre. 2 Le riche avait des brebis et des bœufs en très grand nombre ; 3 Mais le pauvre n'avait absolument rien, hors une brebis très petite, qu'il avait achetée et nourrie, et qui avait grandi chez lui en même temps que ses enfants, mangeant de son pain, buvant de sa coupe, et dormant sur son sein, et elle était pour lui comme une fille. 4 Mais un étranger étant venu chez le riche, et s'abstenant de prendre de ses brebis et de ses bœufs, pour faire un festin à cet étranger, qui était venu chez lui, il enleva la brebis de l'homme pauvre, et apprêta un mets à l'homme qui était venu chez lui.

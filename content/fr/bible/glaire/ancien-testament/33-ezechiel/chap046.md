@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 46"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Règlement pour l’ouverture de la porte oriental du parvis des prêtres.
+  Par quelle porte le roi et le peuple doivent entrer et sortir du temple.
+  Diverses sortes de sacrifices.
+  Dons du prince.
+  Cuisine du temple.
 ---
-
-
-Règlement pour l’ouverture de la porte oriental du parvis des prêtres.
-Par quelle porte le roi et le peuple doivent entrer et sortir du temple.
-Diverses sortes de sacrifices.
-Dons du prince.
-Cuisine du temple.
 
 
 1 Voici ce que dit le Seigneur Dieu : La porte du parvis intérieur qui regarde vers l'orient sera fermée les six jours dans lesquels on travaille ; mais le jour du sabbat elle sera ouverte; et aussi le jour des calendes elle sera ouverte.

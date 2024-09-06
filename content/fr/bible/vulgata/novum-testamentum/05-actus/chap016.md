@@ -1,9 +1,8 @@
 ---
 title: "Caput 16"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Pervenit autem Derben, et Lystram. Et ecce discipulus quidam erat ibi nomine Timotheus, filius mulieris Iudææ fidelis, patre Gentili.

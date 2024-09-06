@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Lois sur les sacrifices offerts pour expier les fautes, et sur les sacrifices pacifiques.
+  Défense de manger de la graisse et du sang.
 ---
-
-
-Lois sur les sacrifices offerts pour expier les fautes, et sur les sacrifices pacifiques.
-Défense de manger de la graisse et du sang.
 
 
 1 Voici aussi la loi de l'hostie pour le délit, elle est très sainte :2 C'est pourquoi là où sera immolé l'holocauste, sera aussi tuée la victime pour le délit; son sang sera répandu autour de l'autel. 3 On en offrira la queue et la graisse qui couvre les entrailles :4 Les deux reins, la graisse qui est près des flancs et la membrane réticulaire du foie avec les reins ; 5 Et le prêtre les brûlera sur l'autel : c'est l'holocauste du Seigneur pour le délit. 6 Tout mâle de la race sacerdotale mangera de ces chairs dans un lieu saint, parce que c'est une chose très sainte. 7 Comme pour le péché est offerte l'hostie, de même aussi l'hostie pour le délit : une seule loi sera pour les deux hosties : c'est au prêtre qui les a offertes qu'elles appartiendront.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 26"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 After the blood of the guilty was shed, the Lord said to Moses and to Eleazar the son of Aaron, the priest:

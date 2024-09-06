@@ -1,9 +1,8 @@
 ---
 title: "Chapter 16"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And the lot of the sons of Joseph fell from the Jordan over against Jericho and the waters thereof, on the east: the wilderness which goeth up from Jericho to the mountain of Bethel:

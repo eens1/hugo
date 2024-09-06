@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 32"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Comment doivent se conduire dans les repas, celui qui en a le soin, et les vieillards et les jeunes gens qui y sont conviés.
+  Avantages de la crainte de Dieu.
+  Ne rien faire sans conseil.
 ---
-
-
-Comment doivent se conduire dans les repas, celui qui en a le soin, et les vieillards et les jeunes gens qui y sont conviés.
-Avantages de la crainte de Dieu.
-Ne rien faire sans conseil.
 
 
 1 Les convives t'ont-ils établi chef? ne t'élève pas ; sois parmi eux comme l'un d'entre eux.

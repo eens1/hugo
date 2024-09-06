@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Jonas est englouti par son poisson.
+  Il invoque le Seigneur.
+  Le poisson le jette vivant sur le bord de la mer.
 ---
-
-
-Jonas est englouti par son poisson.
-Il invoque le Seigneur.
-Le poisson le jette vivant sur le bord de la mer.
 
 
 1 Et le Seigneur prépara un grand poisson, afin qu'il engloutît Jonas ; et Jonas fut dans le ventre du poisson pendant trois jours et trois nuits.

@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 39"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Joseph mérite la confiance de son maître Putiphar ; mais il est accusé par sa femme et mis en prison.
 ---
-
-
-Joseph mérite la confiance de son maître Putiphar ; mais il est accusé par sa femme et mis en prison.
 
 
 1 Joseph donc fut mené en Egypte, et Putiphar Egyptien, eunuque de Pharaon et chef de l'armée, l'acheta de la main des Ismaélites par lesquels il avait été amené. 2 Et le Seigneur fut avec lui, et c'était un homme prospérant en toutes choses : il demeura dans la maison de son maître, 3 Qui connaissait très bien que le Seigneur était avec lui, et que tout ce qu'il faisait, le Seigneur le dirigerait entre ses mains. 4 Ainsi Joseph trouva grâce devant son maître, et il le servait; préposé par lui à toutes choses, il gouvernait la maison qui lui était confiée, et tout ce qui avait été remis à ses soins. 5 Et le Seigneur bénit la maison de l'Egyptien à cause de Joseph, et il multiplia tous ses biens, tant à la ville que dans les champs. 6 Et il ne connaissait autre chose que le pain dont il se nourrissait. Or Joseph était beau de visage et d'un aspect très agréable.

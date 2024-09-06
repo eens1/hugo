@@ -1,9 +1,8 @@
 ---
 title: "Chapter 19"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 And Achab told Jezabel all that Elias had done, and how he had slain all the prophets with the sword.

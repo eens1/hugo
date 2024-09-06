@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 Paul, a servant of God and an apostle of Jesus Christ, according to the faith of the elect of God and the acknowledging of the truth, which is according to godliness:

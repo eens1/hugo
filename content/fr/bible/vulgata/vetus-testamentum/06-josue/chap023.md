@@ -1,9 +1,8 @@
 ---
 title: "Caput 23"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Evoluto autem multo tempore, postquam pacem dederat Dominus Israeli, subiectis in gyro nationibus universis, et Iosue iam longævo, et persenilis ætatis:

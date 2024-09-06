@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Siba, serviteur de Miphiboseth, calomnie son maître auprès de David.
+  Séméi outrage David.
+  Absalom entre dans Jérusalem.
+  Chusaï se présente devant lui.
+  Absalom abuse des femmes de son père.
 ---
-
-
-Siba, serviteur de Miphiboseth, calomnie son maître auprès de David.
-Séméi outrage David.
-Absalom entre dans Jérusalem.
-Chusaï se présente devant lui.
-Absalom abuse des femmes de son père.
 
 
 1 Or, lorsque David eut dépassé un peu le haut de la montagne, parut à sa rencontre Siba, serviteur de Miphiboseth, avec deux ânes, qui étaient chargés de deux cents pains, et de cent grappes de raisins secs, et de cent panerées de figues sèches, et d'une outre de vin. 2 Et le roi dit à Siba : Que veut dire cela? Et Siba répondit : Les ânes sont pour les serviteurs du roi, afin qu'ils y montent; les pains et les figues pour nourrir vos serviteurs; mais le vin, pour boire, si quelqu'un tombe en défaillance dans le désert. 3 Et le roi reprit : Où est le fils de ton seigneur? Et Siba répondit au roi : Il est demeuré à Jérusalem, disant : Aujourd'hui la maison d'Israël me rendra le royaume de mon père.

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 29"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Alliance confirmée de nouveau entre Dieu et Israël.
+  Menaces contre les violateurs de cette alliance.
 ---
-
-
-Alliance confirmée de nouveau entre Dieu et Israël.
-Menaces contre les violateurs de cette alliance.
 
 
 1 Voici les paroles de l'alliance que le Seigneur ordonna à Moïse de faire avec les enfants d'Israël dans la terre de Moab, outre l'autre alliance qu'il fit avec eux à Horeb. 2 Moïse donc appela tout Israël et leur dit : Vous, vous avez vu tout ce qu'a fait le Seigneur devant vous dans la terre d'Egypte, à Pharaon, à tous ses serviteurs et à toute sa terre,

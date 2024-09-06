@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 25"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Baldad soutient que l’homme ne peut, sans présomption, prétendre se justifier devant Dieu.
 ---
-
-
-Baldad soutient que l’homme ne peut, sans présomption, prétendre se justifier devant Dieu.
 
 
 1 Or, répondant, Baldad, le Subite, dit :

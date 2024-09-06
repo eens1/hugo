@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 24"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Résurrection de Jésus-Christ.
+  Apparition des anges aux saintes femmes.
+  Jésus-Christ apparaît aux deux disciples qui allaient à Emmaüs, et aux apôtres, auxquels il prouve sa résurrection et promet le Saint-Esprit.
+  Ascension de Jésus-Christ.
 ---
-
-
-Résurrection de Jésus-Christ.
-Apparition des anges aux saintes femmes.
-Jésus-Christ apparaît aux deux disciples qui allaient à Emmaüs, et aux apôtres, auxquels il prouve sa résurrection et promet le Saint-Esprit.
-Ascension de Jésus-Christ.
 
 
 1 Mais le premier jour de la semaine, elles vinrent de grand matin au sépulcre, apportant les parfums qu'elles avaient préparés ;

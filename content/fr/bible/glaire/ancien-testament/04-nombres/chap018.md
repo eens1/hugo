@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 18"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Fonctions des prêtres et des Lévites.
+  Prémices et dîmes pour leur subsistance.
 ---
-
-
-Fonctions des prêtres et des Lévites.
-Prémices et dîmes pour leur subsistance.
 
 
 1 Et le Seigneur dit à Aaron : Toi et tes fils, et la maison de ton père avec toi, vous porterez l'iniquité du sanctuaire : et toi et tes fils vous porterez ensemble les péchés de votre sacerdoce; 2 Mais prends aussi avec toi tes frères de la tribu de Lévi, et le sceptre de ton père, et qu'ils t'assistent et te servent; mais toi et tes fils, vous servirez dans le tabernacle du témoignage.

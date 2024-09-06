@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Jésus dans la barque de Pierre.
+  Pêche miraculeuse.
+  Guérison d’un lépreux et d’un paralytique.
+  Vocation de saint Matthieu.
+  Pièce d’étoffe neuve.
+  Outres neuves.
+  Vin nouveau.
 ---
-
-
-Jésus dans la barque de Pierre.
-Pêche miraculeuse.
-Guérison d’un lépreux et d’un paralytique.
-Vocation de saint Matthieu.
-Pièce d’étoffe neuve.
-Outres neuves.
-Vin nouveau.
 
 
 1 Or il arriva que lorsque la foule se précipitait sur lui pour entendre la parole de Dieu, il se tenait lui-même auprès du lac de Génésareth.

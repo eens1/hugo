@@ -1,9 +1,8 @@
 ---
 title: "Caput 20"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 In diebus illis ægrotavit Ezechias usque ad mortem: et venit ad eum Isaias filius Amos, propheta, dixitque ei: Hæc dicit Dominus Deus: Præcipe domui tuæ: morieris enim tu, et non vives.

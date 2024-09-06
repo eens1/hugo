@@ -1,9 +1,8 @@
 ---
 title: "Caput 5"
-date: 2024-09-06T18:40:56+02:00
+date: 2024-09-06T20:00:53+02:00
 draft: false
 ---
-
 
 
 1 Ne temere quid loquaris, neque cor tuum sit velox ad proferendum sermonem coram Deo. Deus enim in cælo, et tu super terram: idcirco sint pauci sermones tui.

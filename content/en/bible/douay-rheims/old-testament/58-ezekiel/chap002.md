@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 This was the vision of the likeness of the glory of the Lord, and I saw, and I fell upon my face, and I heard the voice of one that spoke, and he said to me: Son of man, stand upon thy feet, and I will speak to thee.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 9"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass when Solomon had finished the building of the house of the Lord, and the king's house, and all that he desired and was pleased to do,

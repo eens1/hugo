@@ -1,9 +1,8 @@
 ---
 title: "Caput 19"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Cum disperdiderit Dominus Deus tuus gentes, quarum tibi traditurus est terram, et possederis eam, habitaverisque in urbibus eius et in ædibus:

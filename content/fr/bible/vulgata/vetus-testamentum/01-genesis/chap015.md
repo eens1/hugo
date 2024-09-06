@@ -1,9 +1,8 @@
 ---
 title: "Caput 15"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 His itaque transactis, factus est sermo Domini ad Abram per visionem dicens: Noli timere Abram, ego protector tuus sum, et merces tua magna nimis.

@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Naissance du Messie.
+  Réprobation des Juifs.
+  Conversion des gentils.
+  Rappel des Juifs.
+  Israël délivré de la puissance des Assyriens.
+  Restes de Jacob exaltés.
+  L’idolâtrie détruite parmi eux.
 ---
-
-
-Naissance du Messie.
-Réprobation des Juifs.
-Conversion des gentils.
-Rappel des Juifs.
-Israël délivré de la puissance des Assyriens.
-Restes de Jacob exaltés.
-L’idolâtrie détruite parmi eux.
 
 
 1 Maintenant tu seras ravagée, ville de voleurs; ils ont mis le siège devant nous; avec la verge ils frapperont la joue du juge d'Israël.

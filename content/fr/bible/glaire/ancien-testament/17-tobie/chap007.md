@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Mariage du jeune Tobie avec Sara, fille de Raguel.
 ---
-
-
-Mariage du jeune Tobie avec Sara, fille de Raguel.
 
 
 1 Ils entrèrent donc chez Raguel, et Raguel les reçut avec joie. 2 Et Raguel, jetant les yeux sur Tobie, dit à Anne, sa femme : Comme ce jeune homme ressemble à mon cousin !3 Et après qu'il eut dit cela, il demanda : D'où êtes-vous, mes jeunes frères? Et eux répondirent : Nous sommes de la tribu de Nephthali, de la captivité de Ninive. 4 Et Raguel leur dit : Connaissez-vous Tobie, mon frère? Ils lui répondirent : Nous le connaissons. 5 Et comme Raguel disait beaucoup de bien de Tobie, l'ange lui dit : Tobie, dont vous vous informez, est le père de ce jeune homme. 6 Et Raguel se précipita, et le baisa avec larmes, et, pleurant sur son cou, 7 Il dit : Que la bénédiction soit sur toi, mon fils ; car tu es le fils d'un bon et excellent homme. 8 Et Anne, sa femme, et Sara, leur fille, commencèrent à pleurer.

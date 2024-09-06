@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Etre circonspect dans ses paroles.
+  S’acquitter de ses vœux.
+  Ne point se scandaliser du renversement de la justice.
+  L’avare est insatiable.
+  Riche malheureux au milieu de ses richesses.
 ---
-
-
-Etre circonspect dans ses paroles.
-S’acquitter de ses vœux.
-Ne point se scandaliser du renversement de la justice.
-L’avare est insatiable.
-Riche malheureux au milieu de ses richesses.
 
 
 1 Ne dis rien témérairement, et que ton cœur ne se hâte pas de proférer une parole devant Dieu. Car Dieu est dans le ciel, et toi sur la terre : à cause de cela, que tes paroles soient en petit nombre. 2 Les rêves suivent les soins multipliés ; et c'est dans les discours multipliés que se trouvera la folie.

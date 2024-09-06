@@ -1,9 +1,8 @@
 ---
 title: "Caput 30"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Misit quoque Ezechias ad omnem Israel et Iudam: scripsitque epistolas ad Ephraim et Manassen ut venirent ad domum Domini in Ierusalem, et facerent Phase Domino Deo Israel.

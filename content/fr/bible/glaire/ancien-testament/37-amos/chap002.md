@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Vengeance du Seigneur contre Moab, contre Juda et contre Israël.
+  Ingratitude et infidélité des Israélites.
+  Vengeances du Seigneur sur eux.
 ---
-
-
-Vengeance du Seigneur contre Moab, contre Juda et contre Israël.
-Ingratitude et infidélité des Israélites.
-Vengeances du Seigneur sur eux.
 
 
 1 Voici ce que dit le Seigneur : A cause des trois et même des quatre crimes de Moab, je ne le convertirai pas, parce qu'ils ont brûlé les os du roi d'Edom, jusqu'à les réduire en cendres.

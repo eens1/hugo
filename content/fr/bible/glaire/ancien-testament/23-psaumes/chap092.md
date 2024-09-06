@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 92"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste relève la grandeur et la puissance de Dieu.
+  Il déclare que la sainteté doit être le principal ornement de sa maison.
+  Les Pères et la plupart des rabbins croient que ce psaume regarde le temps du Messie ; mais les premiers l’expliquent comme étant déjà accompli dans la personne de Jésus-Christ et dans son règne, et les derniers le considèrent comme une prophétie du Messie à venir.
+  Louange de cantique à David lui-même, au jour avant le sabbat, quand la terre fut fondée.
 ---
-
-
-Le Psalmiste relève la grandeur et la puissance de Dieu.
-Il déclare que la sainteté doit être le principal ornement de sa maison.
-Les Pères et la plupart des rabbins croient que ce psaume regarde le temps du Messie ; mais les premiers l’expliquent comme étant déjà accompli dans la personne de Jésus-Christ et dans son règne, et les derniers le considèrent comme une prophétie du Messie à venir.
-Louange de cantique à David lui-même, au jour avant le sabbat, quand la terre fut fondée.
 
 
 1 Le Seigneur a établi son règne, il a été revêtu de force, et il s'est ceint. Car il a affermi le globe de la terre, lequel ne sera point ébranlé.

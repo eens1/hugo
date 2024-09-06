@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Dernière cène de Jésus-Christ.
+  Il lave les pieds de ses apôtres.
+  Prédiction de la trahison de Judas.
+  Glorification de Jésus.
+  Commandement de l’amour.
+  Renoncement de saint Pierre prédit.
 ---
-
-
-Dernière cène de Jésus-Christ.
-Il lave les pieds de ses apôtres.
-Prédiction de la trahison de Judas.
-Glorification de Jésus.
-Commandement de l’amour.
-Renoncement de saint Pierre prédit.
 
 
 1 Avant la fête de la pâque, Jésus sachant que son heure était venue de passer de ce monde à son Père, comme il avait aimé les siens, qui étaient dans le monde, il les aima jusqu'à la fin.

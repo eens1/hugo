@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  L’Epoux est retrouvé.
+  Eloge de l’Epoux.
+  Trouble de l’Epoux ou de l’Epouse.
 ---
-
-
-L’Epoux est retrouvé.
-Eloge de l’Epoux.
-Trouble de l’Epoux ou de l’Epouse.
 
 
 1 L'ÉPOUSE. Mon bien-aimé est descendu dans son jardin, dans le parterre des aromates, afin de se repaître dans les jardins, et de cueillir des lis.

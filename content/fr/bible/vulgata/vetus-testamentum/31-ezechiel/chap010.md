@@ -1,9 +1,8 @@
 ---
 title: "Caput 10"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 Et vidi, et ecce in firmamento, quod erat super caput cherubim, quasi lapis sapphirus, quasi species similitudinis solii, apparuit super ea.

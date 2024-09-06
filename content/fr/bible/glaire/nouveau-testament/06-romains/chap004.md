@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Abraham justifié non par ses oeuvres, mais par la foi en Dieu.
+  Abraham justifié par la foi avant la circoncision, est le père des croyants circoncis ou incirconcis.
+  C’est par la foi et non par la loi qu’on est héritier d’Abraham.
+  Fermeté de la foi d’Abraham.
+  Ses imitateurs justifiés comme lui.
 ---
-
-
-Abraham justifié non par ses oeuvres, mais par la foi en Dieu.
-Abraham justifié par la foi avant la circoncision, est le père des croyants circoncis ou incirconcis.
-C’est par la foi et non par la loi qu’on est héritier d’Abraham.
-Fermeté de la foi d’Abraham.
-Ses imitateurs justifiés comme lui.
 
 
 1 Quel avantage dirons-nous donc qu'Abraham, notre père, a eu selon la chair? 2 Car si Abraham a été justifié par les oeuvres, il a de quoi se glorifier, mais non devant Dieu.

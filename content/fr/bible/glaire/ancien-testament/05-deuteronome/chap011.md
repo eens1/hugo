@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Moïse continue d’exhorter les Israélites à observer les préceptes du Seigneur.
+  Bénédiction sur ceux qui les observeront.
+  Malédiction sur ceux qui les violeront.
 ---
-
-
-Moïse continue d’exhorter les Israélites à observer les préceptes du Seigneur.
-Bénédiction sur ceux qui les observeront.
-Malédiction sur ceux qui les violeront.
 
 
 1 C'est pourquoi aime le Seigneur ton Dieu, observe ses préceptes et ses cérémonies, ses ordonnances et ses commandements en tout temps. 2 Reconnaissez aujourd'hui ce que vos fils ignorent, eux qui n'ont pas vu les châtiments du Seigneur votre Dieu, ses merveilles, sa main puissante et son bras étendu ; 3 Les signes et les œuvres qu'il a faits au milieu de l'Egypte au roi Pharaon et à toute sa terre ; 4 A toute l'armée des Egyptiens, à ses chevaux et à ses chariots : de quelle manière les eaux de la mer Rouge les ont couverts, lorsqu'ils vous poursuivaient, et comment le Seigneur les a détruits jusqu'au présent jour ; 5 Ce qu'il vous a fait à vous-mêmes dans le désert, jusqu'à ce que vous soyez venus en ce lieu ; 6 Et à Dathan et à Abiron, fils d'Eliab, qui fut fils de Ruben, que la terre, ayant ouvert sa bouche, engloutit avec leurs maisons, leurs tentes et tout leur bien qu'ils avaient au milieu d'Israël.

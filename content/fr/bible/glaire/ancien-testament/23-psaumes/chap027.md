@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 27"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste implore le secours de Dieu contre ses ennemis ; il le loue par avance de la protection qu’il lui doit donner, et que sa foi lui rend présente.
+  Les Pères rapportent ce psaume à Jésus-Christ qui, dans sa passion, adresse ses prières à Dieu, son Père.
 ---
-
-
-Le Psalmiste implore le secours de Dieu contre ses ennemis ; il le loue par avance de la protection qu’il lui doit donner, et que sa foi lui rend présente.
-Les Pères rapportent ce psaume à Jésus-Christ qui, dans sa passion, adresse ses prières à Dieu, son Père.
 
 
 1 Vers vous. Seigneur, je crierai : Mon Dieu, ne gardez pas le silence, en vous éloignant de moi, de peur que si vous vous taisez, en vous éloignant de moi, je ne devienne semblable à ceux qui descendent dans la fosse.

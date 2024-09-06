@@ -1,9 +1,8 @@
 ---
 title: "Chapter 47"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:30+02:00
 draft: false
 ---
-
 
 
 1 A psalm of a canticle, for the sons of Core, on the second day of the week.

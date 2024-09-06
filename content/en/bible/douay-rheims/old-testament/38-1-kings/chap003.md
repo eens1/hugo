@@ -1,9 +1,8 @@
 ---
 title: "Chapter 3"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And the kingdom was established in the hand of Solomon, and he made affinity with Pharao, the king of Egypt: for he took his daughter, and brought her into the city of David: until he had made an end of building his own house, and the house of the Lord, and the wall of Jerusalem round about.

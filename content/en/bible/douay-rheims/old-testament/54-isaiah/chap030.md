@@ -1,9 +1,8 @@
 ---
 title: "Chapter 30"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Woe to you, apostate children, saith the Lord, that you would take counsel, and not of me: and would begin a web, and not by my spirit, that you might add sin upon sin:

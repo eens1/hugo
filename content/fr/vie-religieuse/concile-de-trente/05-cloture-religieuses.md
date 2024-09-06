@@ -1,9 +1,8 @@
 ---
 title: "Chap. 5 - Clôture des religieuses"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Le saint Concile, renouvelant la Constitution de Boniface VIII, qui commence, Periculoso, commande à tous les évêques, sous la protestation du jugement de Dieu et sous la menace de la malédiction éternelle, que par l'autorité ordinaire qu'ils ont sur tous les monastères qui leur sont soumis, et à l'égard des autres par autorité du Siege apostolique, ils aient un soin tout particulier de faire rétablir la clôture des religieuses là où elle aura été violée, et de la conserver où elle ne l'a point été; réprimant par censures ecclésiastiques et par autres peines, sans égard à aucun appel, les désobéissants et ceux qui contredisent, et appelant même pour cela, s'il en est besoin, le secours du bras séculier.

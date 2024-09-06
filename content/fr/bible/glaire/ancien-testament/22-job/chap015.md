@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Eliphaz accuse Job d’imiter les blasphémateurs, et soutient que les méchants sont sans cesse tourmentés dans cette vie.
 ---
-
-
-Eliphaz accuse Job d’imiter les blasphémateurs, et soutient que les méchants sont sans cesse tourmentés dans cette vie.
 
 
 1 Alors, répondant, Eliphaz, le Thémanite, dit :

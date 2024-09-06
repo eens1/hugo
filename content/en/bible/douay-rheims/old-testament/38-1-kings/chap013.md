@@ -1,9 +1,8 @@
 ---
 title: "Chapter 13"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 And behold there came a man of God out of Juda, by the word of the Lord, to Bethel, when Jeroboam was standing upon the altar, and burning incense.

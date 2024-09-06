@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Excellence du sacerdoce de Jésus-Christ qui, assis dans le ciel à la droite de son Père, offre dans le sanctuaire céleste une victime céleste.
+  Insuffisance de l’ancienne alliance prouvée par la promesse même d’une alliance nouvelle.
 ---
-
-
-Excellence du sacerdoce de Jésus-Christ qui, assis dans le ciel à la droite de son Père, offre dans le sanctuaire céleste une victime céleste.
-Insuffisance de l’ancienne alliance prouvée par la promesse même d’une alliance nouvelle.
 
 
 1 Mais voici l'abrégé de ce que je dis : Nous avons un pontife tel, qu'il est assis à la droite du trône de la Majesté dans les cieux. 2 Ministre du sanctuaire et du vrai tabernacle, que le Seigneur a dressé, et non pas un homme. 3 Car tout pontife est établi pour offrir des dons et des victimes ; d'où il est nécessaire que celui-ci ait aussi quelque chose à offrir. 4 Si donc il était sur la terre, il ne serait pas même prêtre, y en ayant déjà pour offrir les dons selon la loi, 5 Qui sont ministres d'un culte, modèle et ombre des choses célestes ; comme il fut répondu à Moïse, lorsqu'il devait dresser le tabernacle : Vois [dit Dieu), et fais toutes choses selon le modèle qui t'a été montré sur la montagne.

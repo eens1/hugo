@@ -1,9 +1,8 @@
 ---
 title: "Chapter 24"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 Now these were the divisions of the sons of Aaron: The sons of Aaron: Nadab, and Abiu, and Eleazar, and Ithamar.

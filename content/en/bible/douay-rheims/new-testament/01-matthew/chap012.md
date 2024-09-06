@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 At that time Jesus went through the corn on the sabbath: and his disciples being hungry, began to pluck the ears, and to eat.

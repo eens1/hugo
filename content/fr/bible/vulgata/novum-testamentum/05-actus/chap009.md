@@ -1,9 +1,8 @@
 ---
 title: "Caput 9"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Saulus autem adhuc spirans minarum, et cædis in discipulos Domini, accessit ad principem Sacerdotum,

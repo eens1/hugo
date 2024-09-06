@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 24"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David montre ici les sentiments de confiance, d’humilité et de pénitence avec lesquels on doit recourir à Dieu dans toutes les adversités.
 ---
-
-
-David montre ici les sentiments de confiance, d’humilité et de pénitence avec lesquels on doit recourir à Dieu dans toutes les adversités.
 
 
 1 Pour la fin, psaume de David. Vers vous. Seigneur, j'ai élevé mon âme :

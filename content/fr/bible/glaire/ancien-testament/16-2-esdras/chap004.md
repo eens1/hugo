@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Les ennemis des Juifs veulent les empêcher de rebâtir les murs de Jérusalem.
+  Ordre que Néhémias donna pour se garantir de leur violence.
 ---
-
-
-Les ennemis des Juifs veulent les empêcher de rebâtir les murs de Jérusalem.
-Ordre que Néhémias donna pour se garantir de leur violence.
 
 
 1 Or il arriva que lorsque Sanaballat eut appris que nous bâtissions le mur, il fut très irrité, et, extrêmement ému, il railla les Juifs, 2 Et dit devant ses frères et une grande foule de Samaritains : Que font ces Juifs imbéciles? Est-ce que les nations les laisseront faire? Est-ce qu'ils sacrifieront et achèveront en un seul jour? Est-ce qu'ils pourront bâtir en tirant d'entre des monceaux de poussière les pierres qui ont été brûlées? 3 Mais même Tobie, l'Ammanite, qui était près de lui, dit : Qu'ils bâtissent; et si un renard monte, il franchira leur mur de pierre. 4 Ecoutez, ô notre Dieu, parce que nous sommes devenus un objet de mépris, détournez l'opprobre sur leur tête, et livrez-les au mépris dans une terre de captivité. 5 Ne couvrez point leur iniquité, et que leur crime ne soit point effacé de devant votre face ; car ils ont raillé ceux qui bâtissaient.

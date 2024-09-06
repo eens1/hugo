@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 After these things, I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that they should not blow upon the earth nor upon the sea nor on any tree.

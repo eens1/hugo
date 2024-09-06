@@ -1,9 +1,8 @@
 ---
 title: "Chapter 9"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 In the mean time, when Demetrius heard that Nicanor and his army were fallen in battle, he sent again Bacchides and Alcimus into Judea; and the right wing of his army with them.

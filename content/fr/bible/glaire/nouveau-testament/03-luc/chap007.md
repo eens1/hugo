@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Guérison du serviteur du centurion.
+  Résurrection du fils de la veuve de Naïm.
+  Saint Jean députe deux de ses disciples vers Jésus-Christ.
+  Eloge de saint Jean.
+  Jésus-Christ et saint Jean rejetés par les Juifs.
+  Pécheresse qui parfume les pieds de Jésus-Christ.
 ---
-
-
-Guérison du serviteur du centurion.
-Résurrection du fils de la veuve de Naïm.
-Saint Jean députe deux de ses disciples vers Jésus-Christ.
-Eloge de saint Jean.
-Jésus-Christ et saint Jean rejetés par les Juifs.
-Pécheresse qui parfume les pieds de Jésus-Christ.
 
 
 1 Lorsqu'il eut fini de faire entendre toutes ces paroles au peuple, il entra dans Capharnaüm.

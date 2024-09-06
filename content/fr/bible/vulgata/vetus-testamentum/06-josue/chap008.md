@@ -1,9 +1,8 @@
 ---
 title: "Caput 8"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Dixit autem Dominus ad Iosue: Ne timeas, neque formides: tolle tecum omnem multitudinem pugnatorum, et consurgens ascende in oppidum Hai. ecce tradidi in manu tua regem eius, et populum, urbemque et terram.

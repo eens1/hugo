@@ -1,9 +1,8 @@
 ---
 title: "Chapter 25"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 And Israel at that time abode in Settim, and the people committed fornication with the daughters of Moab,

@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Ne se rendre pas légèrement caution pour un autre.
+  Imiter la diligence de la fourmi.
+  Peinture de l’homme apostat.
+  Exhortation à l’étude la loi et de la sagesse.
+  Eviter la rencontre et la compagnie d’une femme corrompue.
+  Enormité de l’adultère.
+  Difficulté d’obtenir le pardon de ce crime.
 ---
-
-
-Ne se rendre pas légèrement caution pour un autre.
-Imiter la diligence de la fourmi.
-Peinture de l’homme apostat.
-Exhortation à l’étude la loi et de la sagesse.
-Eviter la rencontre et la compagnie d’une femme corrompue.
-Enormité de l’adultère.
-Difficulté d’obtenir le pardon de ce crime.
 
 
 1 Mon fils, si tu t'es rendu garant pour ton ami, et que tu aies engagé à un étranger ta main,

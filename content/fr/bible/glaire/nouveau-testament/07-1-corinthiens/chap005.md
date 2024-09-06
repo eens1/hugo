@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Incestueux dans l’Eglise de Corinthe.
+  Saint Paul le livre à Satan.
+  Il recommande aux Corinthiens de se séparer de ceux qui se rendent coupables de grands crimes.
 ---
-
-
-Incestueux dans l’Eglise de Corinthe.
-Saint Paul le livre à Satan.
-Il recommande aux Corinthiens de se séparer de ceux qui se rendent coupables de grands crimes.
 
 
 1 Il n'est bruit que d'une fornication commise parmi vous, d'une fornication telle, qu'il n'en existe pas chez les gentils mêmes ; jusque-là que quelqu'un a la femme de son père.

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Un envoyé de Dieu reprend les Israélites d’avoir épargné les Chananéens.
+  Infidélité des Israélites depuis la mort de Josué.
 ---
-
-
-Un envoyé de Dieu reprend les Israélites d’avoir épargné les Chananéens.
-Infidélité des Israélites depuis la mort de Josué.
 
 
 1 Or, l'ange du Seigneur monta de Galgala au lieu des pleurants, et dit : Je vous ai retirés de l'Egypte, je vous ai introduits dans la terre pour laquelle j'ai fait serment à vos pères, et j'ai promis que je ne rendrais jamais vaine mon alliance avec vous;

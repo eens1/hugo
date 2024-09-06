@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Josué envoie deux espions pour reconnaître la ville de Jéricho.
+  Rahab les sauve ; ils lui promettent qu’on lui conservera la vie.
 ---
-
-
-Josué envoie deux espions pour reconnaître la ville de Jéricho.
-Rahab les sauve ; ils lui promettent qu’on lui conservera la vie.
 
 
 1 Josué, fils de Nun, envoya donc de Sétim deux hommes comme espions secrets, et il leur dit : Allez et considérez la terre et la ville de Jéricho. Et ceux-ci s'étant mis en chemin, entrèrent dans la maison d'une femme de mauvaise vie, du nom de Rahab, et se reposèrent chez elle.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Sage, au nom des fidèles Israélites, loue le Seigneur de les avoir préservés de l’idolâtrie.
+  Aveuglement de ceux qui fabriquent des idoles et de ceux qui les adorent.
+  Culte impie des animaux.
 ---
-
-
-Le Sage, au nom des fidèles Israélites, loue le Seigneur de les avoir préservés de l’idolâtrie.
-Aveuglement de ceux qui fabriquent des idoles et de ceux qui les adorent.
-Culte impie des animaux.
 
 
 1 Mais vous, notre Dieu, vous êtes doux et véritable, patient, et avec miséricorde disposant toutes choses. 2 Car, si nous péchions, nous sommes à vous, connaissant votre grandeur, et si nous ne péchions pas, nous savons que vous tenez compte de nous. 3 Vous connaître, en effet, c'est une justice consommée; et comprendre votre justice et votre force, c'est la racine de l'immortalité. 4 Aussi, elles ne nous ont pas induits en erreur, les inventions de l'art funeste des hommes, ni une ombre de la peinture, travail sans fruit, ni une figure sculptée de diverses couleurs, 5 Dont l'aspect donne à un insensé de la passion, en sorte qu'il aime la ressemblance d'une image sans âme. 6 Les amateurs des mauvaises choses sont dignes de mettre leur espérance en de tels dieux, aussi bien ceux qui les font, et ceux qui les aiment, et ceux qui les adorent.

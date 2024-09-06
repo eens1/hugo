@@ -1,9 +1,8 @@
 ---
 title: "Chapter 13"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 Now there were in the church which was at Antioch prophets and doctors, among whom was Barnabas and Simon who was called Niger, and Lucius of Cyrene and Manahen who was the foster brother of Herod the tetrarch, and Saul.

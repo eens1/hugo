@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 But at that time shall Michael rise up, the great prince, who standeth for the children of thy people: and a time shall come, such as never was from the time that nations began, even until that time. And at that time shall thy people be saved, every one that shall be found written in the book.

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Séparation des tribus.
+  Roboam demeure roi de Juda et de Benjamin.
 ---
-
-
-Séparation des tribus.
-Roboam demeure roi de Juda et de Benjamin.
 
 
 1 Or Roboam partit pour Sichem; car c'est là que tout Israël s'était assemblé pour l'établir roi.

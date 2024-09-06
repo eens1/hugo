@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 33"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Le peuple s’humilie et pleure son péché.
+  Moïse parle à Dieu face à face.
+  Il le prie de lui montrer son visage.
 ---
-
-
-Le peuple s’humilie et pleure son péché.
-Moïse parle à Dieu face à face.
-Il le prie de lui montrer son visage.
 
 
 1 Le Seigneur parla ensuite à Moïse, disant : Va, monte de ce lieu, toi et ton peuple que j'ai retiré de la terre d'Egypte, en la terre que j'ai jurée à Abraham, à Isaac et à Jacob, disant : C'est à ta postérité que je la donnerai;

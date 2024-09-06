@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Discours de saint Paul aux Juifs, et fureur des Juifs contre lui.
+  Le tribun veut le faire fouetter.
+  Il se déclare citoyen romain.
 ---
-
-
-Discours de saint Paul aux Juifs, et fureur des Juifs contre lui.
-Le tribun veut le faire fouetter.
-Il se déclare citoyen romain.
 
 
 1 Hommes, mes frères et mes pères, écoutez ma défense que je vais entreprendre devant vous. 2 Quand ils entendirent qu'il leur parlait en langue hébraïque, il se fit encore un plus grand silence. 3 Il dit donc : Je suis Juif, né à Tarse en Cilicie, élevé dans cette ville aux pieds de Gamaliel, instruit selon la vérité de la loi de nos pères, zélateur de cette loi, comme vous l'êtes vous tous aujourd'hui ;

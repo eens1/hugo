@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Dispute à Antioche sur les observations légales.
+  Saint Paul et saint Barnabé vont à Jérusalem consulter les Apôtres.
+  Concile de Jérusalem.
+  Lettre du concile.
+  Jude et Silas envoyés à Antioche avec Paul et Barnabé.
+  Paul et Barnabé se séparent.
 ---
-
-
-Dispute à Antioche sur les observations légales.
-Saint Paul et saint Barnabé vont à Jérusalem consulter les Apôtres.
-Concile de Jérusalem.
-Lettre du concile.
-Jude et Silas envoyés à Antioche avec Paul et Barnabé.
-Paul et Barnabé se séparent.
 
 
 1 Et quelques-uns, qui étaient descendus de Judée, enseignaient aux frères : Si vous n'êtes circoncis suivant le rit de Moïse, vous ne pouvez être sauvés.

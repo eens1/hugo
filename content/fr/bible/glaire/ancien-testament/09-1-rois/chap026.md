@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 26"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  David se retire vers le désert de Ziph.
+  Saül vient l’y chercher.
+  David entre la nuit dans sa tente, et emporte sa lance et sa coupe.
+  Saül reconnaît l’innocence de David.
 ---
-
-
-David se retire vers le désert de Ziph.
-Saül vient l’y chercher.
-David entre la nuit dans sa tente, et emporte sa lance et sa coupe.
-Saül reconnaît l’innocence de David.
 
 
 1 Cependant les Ziphéens vinrent vers Saül à Gabaa, disant : Voici que David est caché sur la colline d'Hachila, qui est vis-à-vis du désert.

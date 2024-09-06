@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 40"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Nabuzardan met Jérémie en liberté.
+  Le Prophète se retire auprès de Godolias.
+  Les Juifs dispersés par la fuite se rassemblent.
+  Baalis, roi des Ammonites, envoie Ismahel pour tuer Godolias.
 ---
-
-
-Nabuzardan met Jérémie en liberté.
-Le Prophète se retire auprès de Godolias.
-Les Juifs dispersés par la fuite se rassemblent.
-Baalis, roi des Ammonites, envoie Ismahel pour tuer Godolias.
 
 
 1 Paroles qui furent adressées à Jérémie par le Seigneur après qu'il fut mis en liberté à Rama par Nabuzardan, chef de la milice, quand il le prit lié de chaînes au milieu de ceux qui émigraient de Jérusalem et de Juda et étaient conduits à Babylone.

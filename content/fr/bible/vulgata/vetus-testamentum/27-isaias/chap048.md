@@ -1,9 +1,8 @@
 ---
 title: "Caput 48"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Audite hæc domus Iacob, qui vocamini nomine Israel, et de aquis Iuda existis, qui iuratis in nomine Domini, et Dei Israel recordamini non in veritate, neque in iustitia.

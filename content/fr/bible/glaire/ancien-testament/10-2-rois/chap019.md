@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 19"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  David continue de pleurer Absalom.
+  Joab l’oblige de se montrer à son peuple.
+  La tribu de Juda le ramène à Jérusalem.
+  Il pardonne à Séméi.
+  Il reçoit Miphiboseth.
+  Berzellaï lui laisse son fils.
+  Murmure d’Israël contre Juda.
 ---
-
-
-David continue de pleurer Absalom.
-Joab l’oblige de se montrer à son peuple.
-La tribu de Juda le ramène à Jérusalem.
-Il pardonne à Séméi.
-Il reçoit Miphiboseth.
-Berzellaï lui laisse son fils.
-Murmure d’Israël contre Juda.
 
 
 1 Or, on annonça à Joab que le roi pleurait, et qu'il se lamentait sur son fils.

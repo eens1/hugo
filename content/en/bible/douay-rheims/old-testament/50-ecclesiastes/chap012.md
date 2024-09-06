@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 Remember thy Creator in the days of thy youth, before the time of affliction come, and the years draw nigh of which thou shalt say: They please me not:

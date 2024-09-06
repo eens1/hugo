@@ -1,9 +1,8 @@
 ---
 title: "Chapter 26"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:30+02:00
 draft: false
 ---
-
 
 
 1 The psalm of David before he was anointed. The Lord is my light and my salvation, whom shall I fear? The Lord is the protector of my life: of whom shall I be afraid?

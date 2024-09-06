@@ -1,9 +1,8 @@
 ---
 title: "Caput 70"
-date: 2024-09-06T18:40:56+02:00
+date: 2024-09-06T20:00:52+02:00
 draft: false
 ---
-
 
 
 1 Psalmus David, Filiorum Ionadab, et priorum captivorum. In te Domine speravi, non confundar in æternum:

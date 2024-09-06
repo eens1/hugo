@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 And the Lord said to him: Go in, thou and all thy house, into the ark: for thee I have seen just before me in this generation.

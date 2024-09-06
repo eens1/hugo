@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 38"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Prophétie contre Gog.
+  Ce prince viendra avec une armée nombreuse contre les enfants d’Israël récemment revenus de leur captivité.
+  Le Seigneur exterminera ce prince et son armée.
 ---
-
-
-Prophétie contre Gog.
-Ce prince viendra avec une armée nombreuse contre les enfants d’Israël récemment revenus de leur captivité.
-Le Seigneur exterminera ce prince et son armée.
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

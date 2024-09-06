@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 35"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Prophétie contre l’Idumée, qui sera réduite en solitude, pour avoir répandu le sang des Israélites, et s’être réjouie de leurs malheurs.
 ---
-
-
-Prophétie contre l’Idumée, qui sera réduite en solitude, pour avoir répandu le sang des Israélites, et s’être réjouie de leurs malheurs.
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

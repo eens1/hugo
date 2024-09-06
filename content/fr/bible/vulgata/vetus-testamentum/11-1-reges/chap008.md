@@ -1,9 +1,8 @@
 ---
 title: "Caput 8"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Tunc congregati sunt omnes maiores natu Israel cum principibus tribuum, et duces familiarum filiorum Israel ad regem Salomonem in Ierusalem: ut deferrent arcam fœderis Domini, de civitate David, id est, de Sion.

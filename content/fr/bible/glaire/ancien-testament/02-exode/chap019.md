@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 19"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Les Israélites arrivent auprès de Sinaï.
+  Moïse monte sur la montagne.
+  Il revient et ordonne au peuple de se préparer à recevoir les ordres du Seigneur.
+  Dieu fait éclater sa gloire sur la montagne.
 ---
-
-
-Les Israélites arrivent auprès de Sinaï.
-Moïse monte sur la montagne.
-Il revient et ordonne au peuple de se préparer à recevoir les ordres du Seigneur.
-Dieu fait éclater sa gloire sur la montagne.
 
 
 1 Au troisième mois de la sortie d'Israël de la terre d'Egypte, en ce jour-là, ils vinrent au désert de Sinaï.

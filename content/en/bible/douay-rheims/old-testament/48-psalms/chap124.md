@@ -1,9 +1,8 @@
 ---
 title: "Chapter 124"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:30+02:00
 draft: false
 ---
-
 
 
 1 A gradual canticle. They that trust in the Lord shall be as mount Sion: he shall not be moved for ever that dwelleth

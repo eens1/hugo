@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Samson enlève les portes de Gaza.
+  Dalila lui coupe les cheveux.
+  Il renverse sur lui le temple de Dagon.
 ---
-
-
-Samson enlève les portes de Gaza.
-Dalila lui coupe les cheveux.
-Il renverse sur lui le temple de Dagon.
 
 
 1 Il alla aussi à Gaza, et là il vit une femme de mauvaise vie, et il entra chez elle.

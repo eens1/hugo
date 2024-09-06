@@ -1,9 +1,8 @@
 ---
 title: "Chapter 11"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 And when they were drawing near to Jerusalem and to Bethania, at the mount of Olives, he sendeth two of his disciples,

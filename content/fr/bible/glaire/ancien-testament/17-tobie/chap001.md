@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Origine de Tobie.
+  Sa fidélité à la loi.
+  Naissance de son fils.
+  Il demeure fidèle dans sa captivité.
+  Situation où il se trouve sous Salmanasar, sous Sennachérib, et après la mort de ce prince.
 ---
-
-
-Origine de Tobie.
-Sa fidélité à la loi.
-Naissance de son fils.
-Il demeure fidèle dans sa captivité.
-Situation où il se trouve sous Salmanasar, sous Sennachérib, et après la mort de ce prince.
 
 
 1 Tobie, de la tribu et de la ville de Nephthali (qui est dans la haute Galilée, au-dessus de Naasson, derrière le chemin qui conduit à l'occident, ayant à gauche la ville de Séphet),

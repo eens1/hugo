@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Reproches et menaces contre les femmes de Samarie.
+  Les Israélites abandonnés à leur dépravation.
+  Fléaux dont ils n’ont pas profité.
+  Vengeances du Seigneur.
+  Exhortation aux Israélites d’aller au-devant de leur Dieu.
 ---
-
-
-Reproches et menaces contre les femmes de Samarie.
-Les Israélites abandonnés à leur dépravation.
-Fléaux dont ils n’ont pas profité.
-Vengeances du Seigneur.
-Exhortation aux Israélites d’aller au-devant de leur Dieu.
 
 
 1 Ecoutez cette parole, vaches grasses qui êtes sur la montagne de Samarie, qui opprimez les indigènes et qui écrasez les pauvres, qui dites à vos maîtres : Apportez, et nous boirons.

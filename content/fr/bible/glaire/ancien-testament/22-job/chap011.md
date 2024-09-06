@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Sophar accuse Job de présomption et d’orgueil, et l’exhorte à se convertir au Seigneur.
 ---
-
-
-Sophar accuse Job de présomption et d’orgueil, et l’exhorte à se convertir au Seigneur.
 
 
 1 Or, répondant, Sophar, le Naamathite, dit :

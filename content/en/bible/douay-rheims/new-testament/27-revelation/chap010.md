@@ -1,9 +1,8 @@
 ---
 title: "Chapter 10"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 And I saw another mighty angel come down from heaven, clothed with a cloud. And a rainbow was on his head: and his face, as the sun, and his feet as pillars of fire.

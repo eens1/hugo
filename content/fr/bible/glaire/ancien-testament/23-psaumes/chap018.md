@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 18"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David admire la puissance, la sagesse et la bonté de Dieu manifestées aux hommes par ses ouvrages exposés à leurs yeux, par la loi donnée aux Juifs et par le Rédempteur envoyé au monde.
 ---
-
-
-David admire la puissance, la sagesse et la bonté de Dieu manifestées aux hommes par ses ouvrages exposés à leurs yeux, par la loi donnée aux Juifs et par le Rédempteur envoyé au monde.
 
 
 1 Pour la fin, psaume de David.

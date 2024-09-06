@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Martyre des sept frères Machabées et de leur mère.
 ---
-
-
-Martyre des sept frères Machabées et de leur mère.
 
 
 1 Or, il arriva que sept frères qu'on avait pris aussi avec leur mère, étaient pressés par le roi, de manger contre la défense de la loi divine, de la chair de porc, après qu'ils avaient été déchirés avec des fouets et des nerfs de bœuf.

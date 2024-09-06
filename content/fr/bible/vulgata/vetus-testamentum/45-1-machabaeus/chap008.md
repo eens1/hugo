@@ -1,9 +1,8 @@
 ---
 title: "Caput 8"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Et audivit Iudas nomen Romanorum, quia sunt potentes viribus, et acquiescunt ad omnia, quæ postulantur ab eis: et quicumque accesserunt ad eos, statuerunt cum eis amicitias, et quia sunt potentes viribus.

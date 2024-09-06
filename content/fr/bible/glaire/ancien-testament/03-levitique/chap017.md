@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Défense de sacrifier au Seigneur en aucun autre lieu qu’à l’entrée du tabernacle.
+  Défense de manger du sang des animaux et de la chair des bêtes mortes d’elles-mêmes, ou tuées par d’autres bêtes.
 ---
-
-
-Défense de sacrifier au Seigneur en aucun autre lieu qu’à l’entrée du tabernacle.
-Défense de manger du sang des animaux et de la chair des bêtes mortes d’elles-mêmes, ou tuées par d’autres bêtes.
 
 
 1 Le Seigneur parla encore à Moïse, disant :2 Parle à Aaron et à ses fils et à tous les enfants d'Israël, leur disant : Voici la parole qu'a commandée le Seigneur, disant :

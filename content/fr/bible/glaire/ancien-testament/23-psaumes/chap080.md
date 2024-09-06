@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 80"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste invite le peuple à célébrer avec joie la fête des trompettes.
+  Il rapporte l’origine et la cause de l’établissement de cette solennité, et expose l’ingratitude des Israélites et les promesses du Seigneur.
+  Pour la fin.
 ---
-
-
-Le Psalmiste invite le peuple à célébrer avec joie la fête des trompettes.
-Il rapporte l’origine et la cause de l’établissement de cette solennité, et expose l’ingratitude des Israélites et les promesses du Seigneur.
-Pour la fin.
 
 
 1 Pour les pressoirs, psaume d'Asaph lui-même.

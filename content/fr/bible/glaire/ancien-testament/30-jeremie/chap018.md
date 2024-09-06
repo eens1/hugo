@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 18"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Comme le potier fait de son argile ce qu’il veut, ainsi le Seigneur dispose de son peuple comme il lui plaît.
+  Infidélité de Juda.
 ---
-
-
-Comme le potier fait de son argile ce qu’il veut, ainsi le Seigneur dispose de son peuple comme il lui plaît.
-Infidélité de Juda.
 
 
 1 Parole qui fut adressée à Jérémie par le Seigneur, disant :

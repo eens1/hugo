@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 41"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Description du Saint, du sanctuaire, et des chambres contigües au temple.
 ---
-
-
-Description du Saint, du sanctuaire, et des chambres contigües au temple.
 
 
 1 Et il m'introduisit dans le temple ; et il mesura les poteaux de l'entrée du temple, ils avaient six coudées de largeur d'un côté, et six coudées de l'autre côté; largeur du tabernacle.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 16"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 And he said also to his disciples: There was a certain rich man who had a steward: and the same was accused unto him, that he had wasted his goods.

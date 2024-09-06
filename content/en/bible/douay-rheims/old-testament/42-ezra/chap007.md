@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 Now after these things in the reign of Artaxerxes king of the Persians, Esdras the son of Saraias, the son of Azarias, the son of Helcias,

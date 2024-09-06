@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 24"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Marmite rouillée et pleine de chair, figure de Jérusalem assiégée par les Chaldéens.
+  Le Seigneur annonce à Ezéchiel la perte de ce qu’il avait de plus cher, et lui défend d’en faire aucun deuil, afin de figurer l’état où se trouveraient les enfants d’Israël après la ruine du Temple.
 ---
-
-
-Marmite rouillée et pleine de chair, figure de Jérusalem assiégée par les Chaldéens.
-Le Seigneur annonce à Ezéchiel la perte de ce qu’il avait de plus cher, et lui défend d’en faire aucun deuil, afin de figurer l’état où se trouveraient les enfants d’Israël après la ruine du Temple.
 
 
 1 Or la parole du Seigneur me fut adressée en la neuvième année, au dixième mois, au dixième jour du mois, disant:

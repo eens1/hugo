@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Reproches et avertissement aux douze tribus d’Israël.
+  Nations prises à témoin de leurs crimes.
+  Annonce des vengeances du Seigneur sur Samarie et sur le royaume des dix tribus.
 ---
-
-
-Reproches et avertissement aux douze tribus d’Israël.
-Nations prises à témoin de leurs crimes.
-Annonce des vengeances du Seigneur sur Samarie et sur le royaume des dix tribus.
 
 
 1 Ecoutez la parole que le Seigneur a dite sur vous, fils d'Israël, et sur toute la famille que j'ai retirée de la terre d'Egypte.

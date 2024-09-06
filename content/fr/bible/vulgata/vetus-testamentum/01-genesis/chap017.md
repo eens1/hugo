@@ -1,9 +1,8 @@
 ---
 title: "Caput 17"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Postquam vero nonaginta et novem annorum esse cœperat, apparuit ei Dominus: dixitque ad eum: Ego Deus omnipotens: ambula coram me, et esto perfectus.

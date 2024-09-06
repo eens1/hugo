@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Lois pour la conduite des prêtres.
+  Défauts qui excluent du sacerdoce.
 ---
-
-
-Lois pour la conduite des prêtres.
-Défauts qui excluent du sacerdoce.
 
 
 1 Le Seigneur dit aussi à Moïse : Parle aux prêtres, fils d'Aaron, et tu leur diras : Qu'un prêtre ne se souille point à la mort de ses concitoyens ;

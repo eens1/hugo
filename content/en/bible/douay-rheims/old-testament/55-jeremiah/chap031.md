@@ -1,9 +1,8 @@
 ---
 title: "Chapter 31"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 At that time, saith the Lord, I will be the God of all the families of Israel, and they shall be my people.

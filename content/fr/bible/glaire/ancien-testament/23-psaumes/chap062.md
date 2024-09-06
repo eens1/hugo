@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 62"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David représente vivement dans ce psaume la soif ardente qu’il avait pour Dieu, le désir de revoir son tabernacle, et la confiance en sa puissante protection.
 ---
-
-
-David représente vivement dans ce psaume la soif ardente qu’il avait pour Dieu, le désir de revoir son tabernacle, et la confiance en sa puissante protection.
 
 
 1 Psaume de David lorsqu'il était dans le désert de l'Idumée (I Rois 22, 5).

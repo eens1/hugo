@@ -1,9 +1,8 @@
 ---
 title: "Caput 8"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:52+02:00
 draft: false
 ---
-
 
 
 1 Die illo dedit rex Assuerus Esther reginæ domum Aman adversarii Iudæorum, et Mardochæus ingressus est ante faciem regis. Confessa est enim ei Esther quod esset patruus suus.

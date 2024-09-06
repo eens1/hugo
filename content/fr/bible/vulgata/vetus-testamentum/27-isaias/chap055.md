@@ -1,9 +1,8 @@
 ---
 title: "Caput 55"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Omnes sitientes venite ad aquas: et qui non habetis argentum, properate, emite, et comedite: venite, emite absque argento, et absque ulla commutatione vinum et lac.

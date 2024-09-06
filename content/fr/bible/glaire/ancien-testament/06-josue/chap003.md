@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Les Israélites passent le Jourdain.
 ---
-
-
-Les Israélites passent le Jourdain.
 
 
 1 Ainsi, Josué se levant de nuit, leva le camp ; et sortant de Sétim ils vinrent au Jourdain, lui et tous les enfants d'Israël, et ils demeurèrent là trois jours.

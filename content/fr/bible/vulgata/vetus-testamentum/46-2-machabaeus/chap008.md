@@ -1,9 +1,8 @@
 ---
 title: "Caput 8"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Iudas vero Machabæus, et qui cum illo erant, introibant latenter in castella: et convocantes cognatos, et amicos, et eos, qui permanserunt in Iudaismo, assumentes, eduxerunt ad se sex millia virorum.

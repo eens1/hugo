@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 31"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Le Seigneur exhorte le roi d’Egypte à considérer la puissance du roi d’Assyrie, qui, quoique beaucoup plus grande, avait néanmoins été détruite, et lui annonce le même sort.
 ---
-
-
-Le Seigneur exhorte le roi d’Egypte à considérer la puissance du roi d’Assyrie, qui, quoique beaucoup plus grande, avait néanmoins été détruite, et lui annonce le même sort.
 
 
 1 Et il arriva en la onzième année, au troisième mois, au premier jour du mois, que la parole du Seigneur me fut adressée, disant :

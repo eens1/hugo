@@ -1,9 +1,8 @@
 ---
 title: "Caput 27"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 In die illa visitabit Dominus in gladio suo duro, et grandi, et forti, super Leviathan serpentem vectem, et super Leviathan serpentem tortuosum, et occidet cetum, qui in mari est.

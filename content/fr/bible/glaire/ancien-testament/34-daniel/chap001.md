@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Daniel, Ananias, Misaël et Azarias, choisis pour servir à la cour de Nabuchodonosor.
+  Ils ne veulent pas se souiller en mangeant des viandes de la table du roi.
+  Dieu les remplit de lumières.
 ---
-
-
-Daniel, Ananias, Misaël et Azarias, choisis pour servir à la cour de Nabuchodonosor.
-Ils ne veulent pas se souiller en mangeant des viandes de la table du roi.
-Dieu les remplit de lumières.
 
 
 1 En la troisième année du règne de Joakim, roi de Juda, Nabuchodonosor, roi de Babylone, vint à Jérusalem et l'assiégea.

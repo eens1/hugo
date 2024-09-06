@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass in the day that Moses had finished the tabernacle, and set it up, and had anointed and sanctified it with all its vessels, the altar likewise and all the vessels thereof,

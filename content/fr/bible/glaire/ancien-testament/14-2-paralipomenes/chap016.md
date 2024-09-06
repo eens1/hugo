@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Asa appelle à son secours le roi de Syrie contre Baasa, roi d’Israël, et il en est repris par le prophète Hanani.
+  Maladie et mort d’Asa.
 ---
-
-
-Asa appelle à son secours le roi de Syrie contre Baasa, roi d’Israël, et il en est repris par le prophète Hanani.
-Maladie et mort d’Asa.
 
 
 1 Mais à l'année trente-sixième de son règne, Baasa, roi d'Israël, monta en Juda, et environna d'un mur Rama, afin que nul du royaume d'Asa ne pût sûrement sortir et entrer.

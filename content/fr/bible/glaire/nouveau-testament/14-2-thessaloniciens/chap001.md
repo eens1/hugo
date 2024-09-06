@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Saint Paul salue les Thessaloniciens.
+  Il rend grâces à Dieu de leur foi et de leur constance dans les maux.
+  Il annonce les vengeances qui seront exercées sur les méchants, et la gloire dont les justes seront comblés à l’avènement de Jésus-Christ.
 ---
-
-
-Saint Paul salue les Thessaloniciens.
-Il rend grâces à Dieu de leur foi et de leur constance dans les maux.
-Il annonce les vengeances qui seront exercées sur les méchants, et la gloire dont les justes seront comblés à l’avènement de Jésus-Christ.
 
 
 1 Paul et Silvain, et Timothée, à l'Eglise des Thessaloniciens, en Dieu notre Père, et en Notre Seigneur Jésus-Christ,

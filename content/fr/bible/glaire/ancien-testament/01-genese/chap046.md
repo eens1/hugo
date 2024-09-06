@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 46"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Jacob vient en Egypte ; dénombrement de ses enfants.
+  Entrevue de Jacob et de Joseph.
 ---
-
-
-Jacob vient en Egypte ; dénombrement de ses enfants.
-Entrevue de Jacob et de Joseph.
 
 
 1 Israël donc partit avec tout ce qu'il avait, vint au Puits du Serment; et là , des victimes immolées au Dieu de son père Isaac,

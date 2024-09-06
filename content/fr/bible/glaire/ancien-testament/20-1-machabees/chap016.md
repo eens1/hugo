@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Guerre de Cendébée contre les Juifs.
+  Il est mis en fuite par les fils de Simon.
+  Simon est tué par Ptolémée, son gendre.
+  Jean Hyrcan succède à Simon son père.
 ---
-
-
-Guerre de Cendébée contre les Juifs.
-Il est mis en fuite par les fils de Simon.
-Simon est tué par Ptolémée, son gendre.
-Jean Hyrcan succède à Simon son père.
 
 
 1 Or Jean monta de Gazara, et annonça à Simon, son père, ce que Cendébée avait fait dans leur peuple.

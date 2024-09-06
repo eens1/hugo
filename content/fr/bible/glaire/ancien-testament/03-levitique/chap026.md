@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 26"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Le Seigneur promet de grands biens à ceux qui observeront ses commandements ; et il menace de grands maux ceux qui les violeront.
 ---
-
-
-Le Seigneur promet de grands biens à ceux qui observeront ses commandements ; et il menace de grands maux ceux qui les violeront.
 
 
 1 Je suis le Seigneur votre Dieu : Vous ne vous ferez point d'idole ni d'image taillée au ciseau ; vous n'érigerez point de monuments et vous ne poserez point de pierre remarquable dans votre terre, pour que vous l'adoriez. Car je suis le Seigneur votre Dieu.

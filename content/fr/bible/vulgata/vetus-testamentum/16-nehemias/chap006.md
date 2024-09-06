@@ -1,9 +1,8 @@
 ---
 title: "Caput 6"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Factum est autem, cum audisset Sanaballat, et Tobias, et Gossem Arabs, et ceteri inimici nostri, quod ædificassem ego murum, et non esset in ipso residua interruptio (usque ad tempus autem illud valvas non posueram in portis)

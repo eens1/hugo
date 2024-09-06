@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 19"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Zachée reçoit Jésus-Christ.
+  Parabole des dix mines et des sujets rebelles.
+  Entrée de Jésus-Christ dans Jérusalem.
+  Il pleure sur cette ville et lui annonce sa ruine.
+  Il chasse du temple les marchands.
 ---
-
-
-Zachée reçoit Jésus-Christ.
-Parabole des dix mines et des sujets rebelles.
-Entrée de Jésus-Christ dans Jérusalem.
-Il pleure sur cette ville et lui annonce sa ruine.
-Il chasse du temple les marchands.
 
 
 1 Jésus étant entré dans Jéricho, le traversait. 2 Or il y avait un homme appelé Zachée; il était chef des publicains, et même fort riche. 3 Et il cherchait à voir qui était Jésus, et il ne le pouvait, à cause de la foule, parce qu'il était très petit de taille. 4 Courant donc en avant, il monta sur un sycomore pour le voir, parce qu'il devait passer par là.

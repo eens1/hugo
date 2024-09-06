@@ -1,9 +1,8 @@
 ---
 title: "Chapter 22"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 And the inhabitants of Jerusalem made Ochozias his youngest son king in his place: for the rovers of the Arabians, who had broke in upon the camp, had killed all that were his elder brothers. So Ochozias the son of Joram king of Juda reigned.

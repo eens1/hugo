@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 Hear the word of the Lord, ye children of Israel, for the Lord shall enter into judgment with the inhabitants of the land: for there is no truth, and there is no mercy, and there is no knowledge of God in the land.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 This is the book of the commandments of God, and the law, that is for ever: all they that keep it, shall come to life: but they that have forsaken it, to death.

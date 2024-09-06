@@ -1,9 +1,8 @@
 ---
 title: "Caput 7"
-date: 2024-09-06T18:40:56+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Sum quidem et ego mortalis homo, similis omnibus, et ex genere terreni illius, qui prior factus est, et in ventre matris figuratus sum caro,

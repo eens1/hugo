@@ -1,9 +1,8 @@
 ---
 title: "Caput 3"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Similiter et mulieres subditæ sint viris suis: ut et si qui non credunt verbo, per mulierem conversationem sine verbo lucrifiant,

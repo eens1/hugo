@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 And he began to speak to them in parables: A certain man planted a vineyard and made a hedge about it and dug a place for the winefat and built a tower and let it to husbandmen: and went into a far country.

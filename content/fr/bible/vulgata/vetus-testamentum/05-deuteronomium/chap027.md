@@ -1,9 +1,8 @@
 ---
 title: "Caput 27"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Præcepit autem Moyses et seniores Israel, populo dicentes: Custodite omne mandatum quod præcipio vobis hodie.

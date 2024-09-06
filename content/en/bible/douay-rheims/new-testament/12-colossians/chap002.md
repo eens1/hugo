@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 For I would have you know what manner of care I have for you and for them that are at Laodicea and whosoever have not seen my face in the flesh:

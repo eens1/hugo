@@ -1,9 +1,8 @@
 ---
 title: "Chapter 37"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 Every friend will say: I also am his friend: but there is a friend, that is only a friend in name. Is not this a grief even to death?

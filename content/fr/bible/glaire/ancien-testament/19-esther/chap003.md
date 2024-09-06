@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Elévation d’Aman.
+  Sa haine contre Mardochée.
+  Il obtient un édit du roi pour faire mourir tous les Juifs, sujets d’Assuérus.
 ---
-
-
-Elévation d’Aman.
-Sa haine contre Mardochée.
-Il obtient un édit du roi pour faire mourir tous les Juifs, sujets d’Assuérus.
 
 
 1 Après cela, le roi Assuérus éleva Aman, fils d'Amadath, qui était de la race d'Agag; et il mit son trône au-dessus de tous les princes qu'il avait auprès de lui.

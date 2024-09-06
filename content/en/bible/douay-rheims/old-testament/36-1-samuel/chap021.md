@@ -1,9 +1,8 @@
 ---
 title: "Chapter 21"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And David came to Nobe, to Achimelech, the priest and Achimelech was astonished at David's coming. And he said to him: Why art thou alone, and no man with thee?

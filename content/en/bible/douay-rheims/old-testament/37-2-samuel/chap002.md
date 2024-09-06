@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And after these things David consulted the Lord, saying: Shall I go up into one of the cities of Juda? And the Lord said to him: Go up. And David said: Whither shall I go up? And he answered him: Into Hebron.

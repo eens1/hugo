@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 And departing from thence we came into the wilderness that leadeth to the Red Sea, as the Lord had spoken to me: and we compassed mount Seir a long time.

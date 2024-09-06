@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass in the days of Achaz the son of Joathan, the son of Ozias, king of Juda, that Rasin king of Syria and Phacee the son of Romelia king of Israel, came up to Jerusalem, to fight against it: but they could not prevail over it.

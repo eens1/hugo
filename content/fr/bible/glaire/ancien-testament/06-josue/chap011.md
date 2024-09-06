@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Victoires de Josué sur le roi d’Asor, et sur plusieurs autres rois ligués contre Israël.
 ---
-
-
-Victoires de Josué sur le roi d’Asor, et sur plusieurs autres rois ligués contre Israël.
 
 
 1 Lorsque Jabin, roi d'Asor, eut appris ces choses, il envoya vers Jobab, roi de Madon, vers le roi de Séméron, vers le roi d'Achsaph,

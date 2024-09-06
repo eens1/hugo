@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Prophétie contre ceux qui méprisent les menaces des prophètes.
+  Mort de l’un d’entre eux.
+  Promesses en faveur des Israélites captifs et dispersés.
+  Le char du Seigneur sort de la ville, et s’arrête sur la montagne des Oliviers.
 ---
-
-
-Prophétie contre ceux qui méprisent les menaces des prophètes.
-Mort de l’un d’entre eux.
-Promesses en faveur des Israélites captifs et dispersés.
-Le char du Seigneur sort de la ville, et s’arrête sur la montagne des Oliviers.
 
 
 1 Et un esprit m'éleva, et me conduisit à la porte orientale de la maison du Seigneur, qui regarde le soleil levant ; et voilà à l'entrée de la porte vingt-cinq hommes, et je vis au milieu d'eux Jézonias, fils d'Azur, et Pheltias, fils de Banaïas, princes du peuple.

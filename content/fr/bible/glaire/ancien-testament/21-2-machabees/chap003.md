@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Bonheur des Juifs sous le pontificat d’Onias III.
+  Simon, préfet du temple, fait savoir à Séleucus, roi de Syrie, qu’il y a de grands trésors dans le temple.
+  Héliodore est envoyé pour les enlever.
+  Dieu le châtie par la main des anges.
 ---
-
-
-Bonheur des Juifs sous le pontificat d’Onias III.
-Simon, préfet du temple, fait savoir à Séleucus, roi de Syrie, qu’il y a de grands trésors dans le temple.
-Héliodore est envoyé pour les enlever.
-Dieu le châtie par la main des anges.
 
 
 1 Donc, lorsque la sainte cité était habitée en toute paix, et que les lois aussi étaient encore parfaitement observées, à cause de la piété d'Onias, le pontife, et des esprits, qui avaient en haine le mal,

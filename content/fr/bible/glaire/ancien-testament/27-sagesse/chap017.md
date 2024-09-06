@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Jugements de Dieu.
+  Ténèbres de l’Egypte et frayeur des Egyptiens, tandis que le reste du monde jouissait de la lumière et vaquait librement à ses travaux.
 ---
-
-
-Jugements de Dieu.
-Ténèbres de l’Egypte et frayeur des Egyptiens, tandis que le reste du monde jouissait de la lumière et vaquait librement à ses travaux.
 
 
 1 Grands sont vos jugements, Seigneur, et inexprimables vos paroles : à cause de cela les âmes sans science se sont égarées.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 29"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 Now all the troops of the Philistines were gathered together to Aphec: and Israel also encamped by the fountain, which is in Jezrahel.

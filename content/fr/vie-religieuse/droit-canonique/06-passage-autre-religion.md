@@ -1,9 +1,8 @@
 ---
 title: "Chap. 6 - Le passage a une autre religion (632 - 636)"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 **632**

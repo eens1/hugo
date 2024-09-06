@@ -1,9 +1,8 @@
 ---
 title: "Chapter 46"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 Valiant in war was Jesus the son of Nave, who was successor of Moses among the prophets, who was great according to his name,

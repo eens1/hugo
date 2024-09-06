@@ -1,9 +1,8 @@
 ---
 title: "Caput 10"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Post Abimelech surrexit dux in Israel Thola filius Phua patrui Abimelech, vir de Issachar, qui habitavit in Samir montis Ephraim:

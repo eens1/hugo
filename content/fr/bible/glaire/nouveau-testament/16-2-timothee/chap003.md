@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Faux docteurs annoncés et caractérisés.
+  Il faut les fuir, leur progrès aura des bornes.
+  Saint Paul exhorte Timothée à suivre son exemple, à souffrir la persécution, à conserver le dépôt de la foi, à s’instruire par l’Ecriture.
 ---
-
-
-Faux docteurs annoncés et caractérisés.
-Il faut les fuir, leur progrès aura des bornes.
-Saint Paul exhorte Timothée à suivre son exemple, à souffrir la persécution, à conserver le dépôt de la foi, à s’instruire par l’Ecriture.
 
 
 1 Or, sache qu'à la fin des jours, viendront des temps périlleux.

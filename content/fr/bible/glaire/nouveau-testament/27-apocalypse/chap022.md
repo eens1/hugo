@@ -1,21 +1,21 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
+summary: |
+  
+  Suite de la description de la Jérusalem céleste.
+  Conclusion de ce livre.
+  Paroles véritables ; heureux qui les garde.
+  Adorer Dieu.
+  Prophétie non scellée.
+  Avènement du Seigneur.
+  Heureux qui se purifie dans le sang de l’Agneau.
+  Témoignage de Jésus-Christ ; désir de son avènement.
+  Ne rien ajouter au livre de l’Apocalypse, n’en rien retrancher.
+  Avènement promis.
+  Salut de l’Apôtre.
 ---
-
-
-Suite de la description de la Jérusalem céleste.
-Conclusion de ce livre.
-Paroles véritables ; heureux qui les garde.
-Adorer Dieu.
-Prophétie non scellée.
-Avènement du Seigneur.
-Heureux qui se purifie dans le sang de l’Agneau.
-Témoignage de Jésus-Christ ; désir de son avènement.
-Ne rien ajouter au livre de l’Apocalypse, n’en rien retrancher.
-Avènement promis.
-Salut de l’Apôtre.
 
 
 1 Il me montra aussi un fleuve d'eau vive, brillant comme du cristal, sortant du trône de Dieu et de l'Agneau. 2 Au milieu de la place de la ville, sur les deux rivages du fleuve, était l'arbre de vie portant douze fruits, et, chaque mois donnant son fruit; et les feuilles de l'arbre sont pour la guérison des nations. 3 Il n'y aura plus là aucune malédiction; mais le trône de Dieu et de l'Agneau y sera, et ses serviteurs le serviront. 4 Ils verront sa face et son nom sera sur leur front. 5 Il n'y aura plus là de nuit, et ils n'auront pas besoin de lampe, ni de la lumière du soleil, parce que le Seigneur les éclairera, et ils régneront dans les siècles des siècles.

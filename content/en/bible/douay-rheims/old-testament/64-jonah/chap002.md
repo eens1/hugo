@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 Now the Lord prepared a great fish to swallow up Jonah: and Jonah was in the belly of a fish for three days and three nights.

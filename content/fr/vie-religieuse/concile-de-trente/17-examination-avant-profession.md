@@ -1,9 +1,8 @@
 ---
 title: "Chap. 17 - Examination avant la profession"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Le saint Concile voulant pourvoir à la liberté de la profession des vierges qui doivent être consacrées à Dieu, établit et ordonne qu'une fille qui veut prendre l'habit, ayant plus de douze ans, ne le prendra point, et qu'ensuite ni elle ni telle autre que ce soit ne fera point profession, que l'évêque, ou, s'il est absent ou empêché, son vicaire général ou quelque autre par eux commis et à leurs dépens, n'ait soigneusement examiné la volonté de la fille, si elle n'a point été contrainte ou séduite, et si elle sait bien ce qu'elle fait.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 In the seventh year of Jehu, Joas began to reign: and he reigned forty years in Jerusalem. The name of his mother was Sebia, of Bersabee.

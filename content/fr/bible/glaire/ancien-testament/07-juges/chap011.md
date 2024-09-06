@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Jephté, choisi pour être chef des Israélites, combat les Ammonites, et les défait.
+  Son vœu.
 ---
-
-
-Jephté, choisi pour être chef des Israélites, combat les Ammonites, et les défait.
-Son vœu.
 
 
 1 En ce temps-là fut Jephté Galaadite, homme très fort, et guerrier, fils d'une femme de mauvaise vie, lequel naquit de Galaad. 2 Or Galaad eut une femme dont il eut des fils, qui après qu'ils eurent grandi, chassèrent Jephté, disant : Tu ne pourras pas être héritier dans la maison de notre père, parce que c'est d'une autre mère que tu es né. 3 Et Jephté les fuyant et les évitant, habita dans la terre de Tob. Alors se joignirent à lui des hommes dénués de tout et exerçant des brigandages, et ils le suivaient comme leur chef.

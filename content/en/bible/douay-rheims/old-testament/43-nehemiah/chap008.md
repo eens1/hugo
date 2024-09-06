@@ -1,9 +1,8 @@
 ---
 title: "Chapter 8"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 And the seventh month came: and the children of Israel were in their cities. And all the people were gathered together as one man to the street which is before the water gate, and they spoke to Esdras the scribe, to bring the book of the law of Moses, which the Lord had commanded to Israel.

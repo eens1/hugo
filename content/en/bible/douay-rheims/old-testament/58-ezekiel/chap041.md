@@ -1,9 +1,8 @@
 ---
 title: "Chapter 41"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 And he brought me into the temple, and he measured the fronts six cubits broad on this side, and six cubits on that side, the breadth of the tabernacle.

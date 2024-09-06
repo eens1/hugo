@@ -1,9 +1,8 @@
 ---
 title: "Caput 4"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:52+02:00
 draft: false
 ---
-
 
 
 1 Quæ cum audisset Mardochæus, scidit vestimenta sua, et indutus est sacco, spargens cinerem capiti: et in platea mediæ civitatis voce magna clamabat, ostendens amaritudinem animi sui,

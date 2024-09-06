@@ -1,9 +1,8 @@
 ---
 title: "Chapter 14"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Her time is near at hand, and her days shall not be prolonged. For the Lord will have mercy on Jacob, and will yet choose out of Israel, and will make them rest upon their own ground: and the stranger shall be joined with them, and shall adhere to the house of Jacob.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 10"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 At that time the Lord said to me: Hew thee two tables of stone like the former, and come up to me into the mount: and thou shalt make an ark of wood,

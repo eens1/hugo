@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Ruine de Babylone.
+  Nuit qui menace l’Idumée.
+  Malheurs qui doivent tomber sur l’Arabie.
 ---
-
-
-Ruine de Babylone.
-Nuit qui menace l’Idumée.
-Malheurs qui doivent tomber sur l’Arabie.
 
 
 1 Malheur accablant du désert de la mer. Comme des tourbillons viennent de l'Africus, il vient du désert, d'une terre affreuse.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 19"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
+summary: |
+  
+  Joie et cantique des saints sur la ruine de Babylone.
+  Le Verbe de Dieu apparaît suivi des armées du ciel.
+  Dernier combat de la bête et du Verbe de Dieu.
 ---
-
-
-Joie et cantique des saints sur la ruine de Babylone.
-Le Verbe de Dieu apparaît suivi des armées du ciel.
-Dernier combat de la bête et du Verbe de Dieu.
 
 
 1 Après cela j'entendis comme la voix d'une grande multitude dans le ciel, disant : Alléluia. Le salut, la gloire et la vertu sont à notre Dieu, 2 Parce que ses jugements sont véritables et justes, qu'il a fait justice de la grande prostituée qui a corrompu la terre par sa prostitution, et qu'il a vengé le sang de ses serviteurs répandu par ses mains. 3 Et une seconde fois ils dirent: Alléluia. Et sa fumée monte dans les siècles des siècles.

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Vanité des hommes qui, au lieu de reconnaître Dieu dans ses créatures, les ont prises elles-mêmes pour des dieux.
+  Folie et aveuglement de ceux qui ont donné le nom de dieux aux ouvrages de la main des hommes.
 ---
-
-
-Vanité des hommes qui, au lieu de reconnaître Dieu dans ses créatures, les ont prises elles-mêmes pour des dieux.
-Folie et aveuglement de ceux qui ont donné le nom de dieux aux ouvrages de la main des hommes.
 
 
 1 Ainsi, vains sont tous les hommes en qui n'est pas la science de Dieu, et qui par les biens visibles n'ont pu comprendre Celui qui est, et n'ont pas, en considérant les œuvres, connu quel était l'ouvrier ;

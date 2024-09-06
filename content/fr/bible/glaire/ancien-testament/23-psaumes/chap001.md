@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Ce Psaume contient comme un précis de toute la doctrine du psautier et un abrégé de toute la morale.
+  Le Psalmiste y représente que le bonheur de l’homme en cette vie consiste à s’éloigner des maximes et des mœurs des impies, et à s’attacher constamment à la loi de Dieu.
 ---
-
-
-Ce Psaume contient comme un précis de toute la doctrine du psautier et un abrégé de toute la morale.
-Le Psalmiste y représente que le bonheur de l’homme en cette vie consiste à s’éloigner des maximes et des mœurs des impies, et à s’attacher constamment à la loi de Dieu.
 
 
 1 Heureux l'homme qui n'est pas allé au conseil des impies, qui ne s'est pas arrêté dans la voie des pécheurs, qui ne s'est pas assis dans la chaire de pestilence ;

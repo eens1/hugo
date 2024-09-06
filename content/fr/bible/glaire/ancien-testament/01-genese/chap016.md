@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Abram épouse Agar.
+  Fuite d’Agar.
+  Naissance d’Ismaël.
 ---
-
-
-Abram épouse Agar.
-Fuite d’Agar.
-Naissance d’Ismaël.
 
 
 1 Cependant Saraï femme d'Abram ne lui avait pas donné d'enfants; mais ayant une servante égyptienne du nom d'Agar, 2 Elle dit à son mari : Voilà que le Seigneur m'a rendue stérile, pour que je n'aie pas d'enfants; prends ma servante, peut-être qu'au moins par elle j'aurai des enfants. Abram ayant consenti à sa prière,

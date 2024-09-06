@@ -1,9 +1,8 @@
 ---
 title: "Chap. 4 - De la Contrition"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 La Contrition, qui tient le premier lieu entre les actes du pénitent dont on vient de parler, est une douleur intérieure, et une détestation du péché commis, avec la résolution de ne plus pécher à l'avenir. Ce mouvement de contrition a été nécessaire en tout temps pour obtenir le pardon des péchés; et dans l'homme tombé depuis le Baptême, il sert de préparation pour la rémission des péchés, s'il se trouve joint à la confiance en la miséricorde divine, et au désir de faire les autres choses qui sont requises pour recevoir comme il faut ce sacrement. 

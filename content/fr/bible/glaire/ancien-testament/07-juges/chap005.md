@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Cantique de Debbora.
 ---
-
-
-Cantique de Debbora.
 
 
 1 Or, Debbora et Barac, fils d'Abinoem, chantèrent en ce jour-là, disant :

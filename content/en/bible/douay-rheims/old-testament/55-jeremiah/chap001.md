@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 The words of Jeremiah the son of Helcias, of the priests that were in Anathoth, in the land of Benjamin.

@@ -1,18 +1,18 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Faux et vrai pasteur.
+  Jésus est la porte des brebis ; il est le bon pasteur.
+  Caractère du mercenaire.
+  Brebis réunies sous un seul pasteur.
+  Jésus quitte sa vie pour la reprendre.
+  Les brebis de Jésus entendent sa voix.
+  Les Juifs veulent le lapider.
+  Il prouve sa divinité par ses oeuvres.
 ---
-
-
-Faux et vrai pasteur.
-Jésus est la porte des brebis ; il est le bon pasteur.
-Caractère du mercenaire.
-Brebis réunies sous un seul pasteur.
-Jésus quitte sa vie pour la reprendre.
-Les brebis de Jésus entendent sa voix.
-Les Juifs veulent le lapider.
-Il prouve sa divinité par ses oeuvres.
 
 
 1 En vérité, en vérité, je vous le dis : Celui qui n'entre point par la porte dans le bercail des brebis, mais y monte par ailleurs, est un voleur et un larron.

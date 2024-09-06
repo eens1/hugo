@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Dieu ordonne à Ezéchiel de représenter sur une brique le siège de Jérusalem ; de porter pendant un certain nombre de jours l’infidélité d’Israël et celle de Juda ; de manger et de boire par mesure, et de se nourrir d’un pain souillé, pour figurer la misère extrême de son peuple.
 ---
-
-
-Dieu ordonne à Ezéchiel de représenter sur une brique le siège de Jérusalem ; de porter pendant un certain nombre de jours l’infidélité d’Israël et celle de Juda ; de manger et de boire par mesure, et de se nourrir d’un pain souillé, pour figurer la misère extrême de son peuple.
 
 
 1 Et toi, fils d'un homme, prends une brique, mets-la devant toi, et tu y traceras la cité de Jérusalem.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 34"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Jugement du Seigneur sur Sédécias.
+  Violation de la loi touchant l’année sabbatique.
+  Vengeances du Seigneur contre l’infidélité de son peuple.
 ---
-
-
-Jugement du Seigneur sur Sédécias.
-Violation de la loi touchant l’année sabbatique.
-Vengeances du Seigneur contre l’infidélité de son peuple.
 
 
 1 Parole qui fut adressée à Jérémie par le Seigneur, lorsque Nabuchodonosor, roi de Babylone, et toute son armée, et tous les royaumes de la terre qui étaient sous le pouvoir de sa main, et tous les peuples combattaient contre Jérusalem et contre toutes ses villes, disant :

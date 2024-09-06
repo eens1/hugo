@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 28"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste convie tous les justes à venir louer Dieu dans son temple.
+  Il représente les effets merveilleux de la voix du Seigneur qui éclate dans son tonnerre ; mais qui selon les Pères de l’Eglise fait sentir plus heureusement sa force dans la conversion des âmes par la prédication de l’Evangile.
 ---
-
-
-Le Psalmiste convie tous les justes à venir louer Dieu dans son temple.
-Il représente les effets merveilleux de la voix du Seigneur qui éclate dans son tonnerre ; mais qui selon les Pères de l’Eglise fait sentir plus heureusement sa force dans la conversion des âmes par la prédication de l’Evangile.
 
 
 1 Pour la consommation du tabernacle. Apportez au Seigneur, enfants de Dieu, apportez au Seigneur des petits de béliers.

@@ -1,9 +1,8 @@
 ---
 title: "Caput 27"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Et ait David in corde suo: Aliquando incidam una die in manus Saul: nonne melius est ut fugiam, et salver in Terra Philisthinorum, ut desperet Saul, cessetque me quærere in cunctis finibus Israel? fugiam ergo manus eius.

@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 100"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste, en représentant à Dieu l’innocence avec laquelle il a gouverné son peuple, apprend à tous les princes la conduite qu’ils doivent tenir dans la conduite de leurs Etats, dans le choix de leur ministres et dans l’usage de leur puissance.
 ---
-
-
-Le Psalmiste, en représentant à Dieu l’innocence avec laquelle il a gouverné son peuple, apprend à tous les princes la conduite qu’ils doivent tenir dans la conduite de leurs Etats, dans le choix de leur ministres et dans l’usage de leur puissance.
 
 
 1 Psaume à David (ou de David lui même). Je vous chanterai la miséricorde et la justice, ô Seigneur : Je les chanterai sur le psaltérion,

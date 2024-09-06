@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David exprime dans ce psaume les sentiments d’une âme que Dieu conduit lui-même et qu’il nourrit de sa grâce, de sa parole et de ses instructions.
 ---
-
-
-David exprime dans ce psaume les sentiments d’une âme que Dieu conduit lui-même et qu’il nourrit de sa grâce, de sa parole et de ses instructions.
 
 
 1 Psaume de David. Le Seigneur me conduit, et rien ne me manquera;

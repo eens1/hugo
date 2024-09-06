@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Création de l’homme ; prérogatives que Dieu lui a données.
+  Faveurs que Dieu a faites aux Israélites.
+  Bontés de Dieu envers les pécheurs pénitents.
+  Exhortation à la pénitence.
 ---
-
-
-Création de l’homme ; prérogatives que Dieu lui a données.
-Faveurs que Dieu a faites aux Israélites.
-Bontés de Dieu envers les pécheurs pénitents.
-Exhortation à la pénitence.
 
 
 1 Dieu a créé de la terre l'homme; et c'est à son image qu'il l'a fait.

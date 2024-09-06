@@ -1,9 +1,8 @@
 ---
 title: "Chapter 49"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Give ear, ye islands, and hearken, ye people from afar. The Lord hath called me from the womb, from the bowels of my mother he hath been mindful of my name.

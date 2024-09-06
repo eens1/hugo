@@ -1,9 +1,8 @@
 ---
 title: "Chap. 7 - La sortie de l'état religieux (637 - 645)"
-date: 2024-09-06T18:40:59+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 **637**

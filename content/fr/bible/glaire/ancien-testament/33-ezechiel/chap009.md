@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Sept hommes paraissent ; l’un est envoyé marquer d’un signe tous ceux qui gémissent des désordres de Jérusalem ; les six autres ont ordre d’exterminer tous ceux qui ne seront pas marqués de ce signe.
+  Exécution de cet ordre.
 ---
-
-
-Sept hommes paraissent ; l’un est envoyé marquer d’un signe tous ceux qui gémissent des désordres de Jérusalem ; les six autres ont ordre d’exterminer tous ceux qui ne seront pas marqués de ce signe.
-Exécution de cet ordre.
 
 
 1 Et il cria à mes oreilles d'une voix forte, disant : Les visitations de la ville s'approchent, et chacun a un instrument de meurtre dans sa main.

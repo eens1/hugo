@@ -1,9 +1,8 @@
 ---
 title: "Caput 13"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 In die autem illo lectum est in volumine Moysi audiente populo: et inventum est scriptum in eo, quod non debeant introire Ammonites et Moabites in ecclesiam Dei usque in æternum:

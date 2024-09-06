@@ -1,9 +1,8 @@
 ---
 title: "Chapter 19"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:25+02:00
 draft: false
 ---
-
 
 
 1 After these things, I heard as it were the voice of much people in heaven, saying: Alleluia. Salvation and glory and power is to our God.

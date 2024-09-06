@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Saül cherche les ânesses de son père.
+  Il va trouver Samuel.
+  Samuel le retient chez lui.
 ---
-
-
-Saül cherche les ânesses de son père.
-Il va trouver Samuel.
-Samuel le retient chez lui.
 
 
 1 Or, il était un homme de la tribu de Benjamin nommé Cis, fils d'Abiel, fils de Séror, fils de Béchorath, fils d'Aphia, fils d'un homme de Jémini, courageux et robuste.

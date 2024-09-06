@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 38"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Seigneur montre à Job la distance qu’il y a entre la créature et le Créateur.
 ---
-
-
-Le Seigneur montre à Job la distance qu’il y a entre la créature et le Créateur.
 
 
 1 Or, répondant à Job du milieu d'un tourbillon, le Seigneur dit:

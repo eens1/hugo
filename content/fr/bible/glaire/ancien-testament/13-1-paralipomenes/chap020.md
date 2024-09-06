@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 20"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Prise de Rabba.
+  Rigueurs exercées contre les Ammonites.
+  Victoires remportées sur les Philistins.
 ---
-
-
-Prise de Rabba.
-Rigueurs exercées contre les Ammonites.
-Victoires remportées sur les Philistins.
 
 
 1 Or il arriva qu'après le cours d'une année, au temps que les rois ont coutume d'aller à la guerre, Joab assembla l'armée, l'élite de la milice, et ravagea la terre des enfants d'Ammon ; puis il alla et assiégea Rabba ; mais David demeura à Jérusalem pendant que Joab battit Rabba et la détruisit.

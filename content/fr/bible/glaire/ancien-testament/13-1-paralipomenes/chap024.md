@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 24"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  David règle l’ordre et les fonctions des prêtres et des Lévites.
 ---
-
-
-David règle l’ordre et les fonctions des prêtres et des Lévites.
 
 
 1 Or voici quelle fut la classification des fils d'Aaron. Les fils d'Aaron étaient Nadab, Abiu, Eléazar et Ithamar.

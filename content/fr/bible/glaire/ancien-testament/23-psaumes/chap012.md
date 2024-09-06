@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David prie le Seigneur de ne pas le laisser tomber dans la mort que son ennemi veut lui donner, et il fait cette prière avec une ferveur et une confiance qui peuvent servir de modèle à tous ceux qui veulent recourir à Dieu.
 ---
-
-
-David prie le Seigneur de ne pas le laisser tomber dans la mort que son ennemi veut lui donner, et il fait cette prière avec une ferveur et une confiance qui peuvent servir de modèle à tous ceux qui veulent recourir à Dieu.
 
 
 1 Pour la fin, psaume de David. Jusques à quand. Seigneur, m'oublierez-vous pour toujours? Jusques a quand détournerez-vous de moi votre visage?

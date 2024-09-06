@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Abiam imite l’impiété de Roboam.
+  Il meurt et est remplacé par Asa son fils, qui imite la piété de David.
+  Josaphat son fils lui succède.
+  Nadab est tué par Baasa, qui règne en sa place.
 ---
-
-
-Abiam imite l’impiété de Roboam.
-Il meurt et est remplacé par Asa son fils, qui imite la piété de David.
-Josaphat son fils lui succède.
-Nadab est tué par Baasa, qui règne en sa place.
 
 
 1 Ainsi en la dix-huitième année du règne de Jéroboam, fils de Nabath, Abiam régna sur Juda. 2 Il régna trois ans dans Jérusalem ; le nom de sa mère était Maacha, fille d'Abessalom.

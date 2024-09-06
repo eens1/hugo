@@ -1,9 +1,8 @@
 ---
 title: "Caput 5"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Seniores ergo, qui in vobis sunt, obsecro, consenior et testis Christi passionum: qui et eius, quæ in futuro revelanda est, gloriæ communicator:

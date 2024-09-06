@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Le roi des Ammonites outrage les messagers de David.
+  Défaite des Ammonites et des Syriens.
 ---
-
-
-Le roi des Ammonites outrage les messagers de David.
-Défaite des Ammonites et des Syriens.
 
 
 1 Or, il arriva après cela que le roi des enfants d'Ammon mourut, et Hanon, son fils, régna en sa place. 2 Et David dit : Je ferai miséricorde à Hanon, fils de Naas, comme son père m'a fait miséricorde. David envoya donc, le consolant par ses serviteurs de la mort de son père. Mais lorsque les serviteurs de David furent venus dans la terre des enfants d'Ammon,

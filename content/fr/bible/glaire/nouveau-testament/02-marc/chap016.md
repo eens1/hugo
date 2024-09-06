@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Résurrection de Jésus-Christ.
+  Apparition de l’ange aux saintes femmes.
+  Jésus-Christ apparaît lui-même à Madeleine, à deux disciples et aux onze apôtres.
+  Ascension de Jésus-Christ.
 ---
-
-
-Résurrection de Jésus-Christ.
-Apparition de l’ange aux saintes femmes.
-Jésus-Christ apparaît lui-même à Madeleine, à deux disciples et aux onze apôtres.
-Ascension de Jésus-Christ.
 
 
 1 Lorsque le sabbat fut passé, Marie-Madeleine, et Marie, mère de Jacques, et Salomé, achetèrent des parfums pour venir embaumer Jésus.

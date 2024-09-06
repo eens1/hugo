@@ -1,9 +1,8 @@
 ---
 title: "Caput 6"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Sed non post multum temporis misit rex senem quemdam Antiochenum, qui compelleret Iudæos ut se transferrent a patriis, et Dei legibus:

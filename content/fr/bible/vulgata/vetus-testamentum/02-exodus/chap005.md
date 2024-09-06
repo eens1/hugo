@@ -1,9 +1,8 @@
 ---
 title: "Caput 5"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Post hæc ingressi sunt Moyses et Aaron, et dixerunt Pharaoni: Hæc dicit Dominus Deus Israel: Dimitte populum meum ut sacrificet mihi in deserto.

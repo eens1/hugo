@@ -1,9 +1,8 @@
 ---
 title: "Chapter 10"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 And rising up from thence, he cometh into the coast of Judea beyond the Jordan: and the multitude flocked to him again. And as he was accustomed, he taught them again.

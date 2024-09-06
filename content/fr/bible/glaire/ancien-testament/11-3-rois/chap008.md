@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Dédicace du temple de Salomon.
+  Salomon offre à Dieu sa prière et bénit le peuple.
+  Nombre des victimes immolées dans cette solennité.
 ---
-
-
-Dédicace du temple de Salomon.
-Salomon offre à Dieu sa prière et bénit le peuple.
-Nombre des victimes immolées dans cette solennité.
 
 
 1 Alors s'assemblèrent tous les anciens d'Israël avec les princes des tribus, et les chefs des familles des enfants d'Israël, auprès du roi Salomon dans Jérusalem, pour transporter l'arche de l'alliance du Seigneur de la cité de David, c'est-à-dire, de Sion.

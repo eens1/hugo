@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Murmure de Marie et d’Aaron contre Moïse.
+  Eloge que Dieu fait de Moïse.
+  Marie frappée de lèpre.
 ---
-
-
-Murmure de Marie et d’Aaron contre Moïse.
-Eloge que Dieu fait de Moïse.
-Marie frappée de lèpre.
 
 
 1 Or Marie et Aaron parlèrent contre Moïse à cause de sa femme l'Éthiopienne, 2 Et dirent : Est-ce par le seul Moïse qu'a parlé le Seigneur? Ne nous a-t-il pas également parlé ? Ce qu'ayant entendu le Seigneur, 3 (Car Moïse était l'homme le plus doux de tous les hommes qui demeuraient sur la terre)

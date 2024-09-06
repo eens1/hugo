@@ -1,9 +1,8 @@
 ---
 title: "Chapter 11"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 In the mean time there arose a murmuring of the people against the Lord, as it were repining at their fatigue. And when the Lord heard it he was angry. And the fire of the Lord being kindled against them, devoured them that were at the uttermost part of the camp.

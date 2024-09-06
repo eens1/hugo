@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 45"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Le Seigneur reprend Baruch, qui se plaignait de ne pas trouver de repos ; il lui promet de lui conserver la vie au milieu des maux dont les autres sont accablés.
 ---
-
-
-Le Seigneur reprend Baruch, qui se plaignait de ne pas trouver de repos ; il lui promet de lui conserver la vie au milieu des maux dont les autres sont accablés.
 
 
 1 Parole que Jérémie, le prophète, dit à Baruch, fils de Nérias, lorsqu'il eut écrit dans un livre ces paroles sorties de la bouche de Jérémie, la quatrième année de Joakim, fils de Josias, roi de Juda, disant :

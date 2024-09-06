@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Jonathas, accompagné de on écuyer, attaque les Philistins.
+  Erreur répandue dans leur camp.
+  Saül les poursuit.
+  Jonathas en danger de périr pour avoir violé, sans le savoir, le serment de son père.
+  Victoire de Saül.
 ---
-
-
-Jonathas, accompagné de on écuyer, attaque les Philistins.
-Erreur répandue dans leur camp.
-Saül les poursuit.
-Jonathas en danger de périr pour avoir violé, sans le savoir, le serment de son père.
-Victoire de Saül.
 
 
 1 Et il arriva un certain jour que Jonathas, fils de Saül, dit au jeune homme, son écuyer : Viens et passons jusqu'à la garnison des Philistins, qui est au-delà de ce lieu. Mais il ne déclara point cela à son père. 2 Or, Saül demeurait à l'extrémité de Gabaa, sous le grenadier qui était à Magron; et le peuple était avec lui, au nombre d'environ six cents hommes.

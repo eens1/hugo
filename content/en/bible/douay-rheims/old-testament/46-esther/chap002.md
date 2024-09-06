@@ -1,9 +1,8 @@
 ---
 title: "Chapter 2"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 After this, when the wrath of king Assuerus was appeased, he remembered Vasthi, and what she had done and what she had suffered:

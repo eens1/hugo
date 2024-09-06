@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Le grand-prêtre Jésus est accusé par Satan.
+  On lui ôte ses habits sales, et on lui en donne de rechange.
+  Le Seigneur l’exhorte à être fidèle, et promet de récompenser sa fidélité.
+  Orient ou germe promis.
+  Pierre mystérieuse.
 ---
-
-
-Le grand-prêtre Jésus est accusé par Satan.
-On lui ôte ses habits sales, et on lui en donne de rechange.
-Le Seigneur l’exhorte à être fidèle, et promet de récompenser sa fidélité.
-Orient ou germe promis.
-Pierre mystérieuse.
 
 
 1 Et le Seigneur me montra le grand-prêtre Jésus qui était debout devant l'ange du Seigneur, et Satan était à sa droite, afin de s'opposer à lui.

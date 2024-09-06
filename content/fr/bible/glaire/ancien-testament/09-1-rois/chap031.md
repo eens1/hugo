@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 31"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Combat des Philistins contre Israël.
+  Mort de Saül et de ses fils.
 ---
-
-
-Combat des Philistins contre Israël.
-Mort de Saül et de ses fils.
 
 
 1 Cependant les Philistins combattaient contre Israël; et les hommes d'Israël s'enfuirent devant les Philistins, et tombèrent morts sur la montagne de Gelboé.

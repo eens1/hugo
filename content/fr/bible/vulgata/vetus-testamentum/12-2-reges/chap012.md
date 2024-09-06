@@ -1,9 +1,8 @@
 ---
 title: "Caput 12"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Anno septimo Iehu regnavit Ioas: et quadraginta annis regnavit in Ierusalem. nomen matris eius Sebia de Bersabee.

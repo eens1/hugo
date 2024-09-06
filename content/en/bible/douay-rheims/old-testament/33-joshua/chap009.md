@@ -1,9 +1,8 @@
 ---
 title: "Chapter 9"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 Now when these things were heard of, all the kings beyond the Jordan, that dwelt in the mountains, and in the plains, in the places near the sea, and on the coasts of the great sea, they also that dwell by Libanus, the Hethite, and the Amorrhite, the Chanaanite, the Pherezite, and the Hevite, and the Jebusite,

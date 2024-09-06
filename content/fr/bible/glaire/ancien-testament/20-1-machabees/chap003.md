@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Judas Machabée succède à Mathathias son père.
+  Il défait et tue Apollonius.
+  Il marche contre Séron et le défait.
+  Les victoires de Judas irritent Antiochus.
+  Lysias envoie une armée nombreuse contre les Juifs.
+  Judas et les siens se préparent à combattre les ennemis.
 ---
-
-
-Judas Machabée succède à Mathathias son père.
-Il défait et tue Apollonius.
-Il marche contre Séron et le défait.
-Les victoires de Judas irritent Antiochus.
-Lysias envoie une armée nombreuse contre les Juifs.
-Judas et les siens se préparent à combattre les ennemis.
 
 
 1 Et Judas, son fils, qui était appelé Machabée, se leva à sa place ;

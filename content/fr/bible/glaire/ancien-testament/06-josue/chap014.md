@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Caleb demande Hébron pour son héritage et l’obtient.
 ---
-
-
-Caleb demande Hébron pour son héritage et l’obtient.
 
 
 1 Voici ce qu'ont possédé les enfants d'Israël dans la terre de Chanaan que leur donnèrent Eléazar, le prêtre, et Josué, fils de Nun et les princes des familles de chaque tribu d'Israël, 2 Distribuant tout par le sort, comme avait ordonné le Seigneur par l'entremise de Moïse, aux neuf tribus et à la demi-tribu de Manassé.

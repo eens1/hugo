@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Volume volant qui est appelé malédiction, et qui consume la maison des prévaricateurs.
+  Femme assise dans une amphore ; elle est appelée l’impiété, et l’amphore est fermée par une masse de plomb.
+  Deux femmes ailées enlèvent cette amphore, et la portent dans la terre de Sennaar.
 ---
-
-
-Volume volant qui est appelé malédiction, et qui consume la maison des prévaricateurs.
-Femme assise dans une amphore ; elle est appelée l’impiété, et l’amphore est fermée par une masse de plomb.
-Deux femmes ailées enlèvent cette amphore, et la portent dans la terre de Sennaar.
 
 
 1 Et je me retournai, et je levai mes yeux; et je vis, et voilà un volume volant.

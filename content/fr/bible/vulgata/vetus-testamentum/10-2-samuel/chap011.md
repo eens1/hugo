@@ -1,9 +1,8 @@
 ---
 title: "Caput 11"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Factum est autem, vertente anno, eo tempore quo solent reges ad bella procedere, misit David Ioab, et servos suos cum eo, et universum Israel, et vastaverunt filios Ammon, et obsederunt Rabba: David autem remansit in Ierusalem.

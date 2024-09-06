@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 35"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Moïse déclare au peuple les ordonnances du Seigneur.
+  Le peuple apporte ses offrandes.
+  Béséléel et Ooliab sont nommés pour travailler au tabernacle.
 ---
-
-
-Moïse déclare au peuple les ordonnances du Seigneur.
-Le peuple apporte ses offrandes.
-Béséléel et Ooliab sont nommés pour travailler au tabernacle.
 
 
 1 Ainsi, toute la multitude des enfants d'Israël assemblée, il leur dit : Voici ce que le Seigneur a commandé que l'on fasse. 2 Pendant six jours, vous travaillerez, le septième jour vous sera saint, étant le sabbat et le repos du Seigneur ; celui qui travaillera en ce jour-là sera mis à mort. 3 Vous n'allumerez de feu dans aucune de vos demeures au jour du sabbat.

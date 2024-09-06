@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Piété de Josias.
+  On trouve dans le temple le livre de la loi.
+  Josias, effrayé en entendant la lecture de ce livre, consulte la prophétesse Holda.
 ---
-
-
-Piété de Josias.
-On trouve dans le temple le livre de la loi.
-Josias, effrayé en entendant la lecture de ce livre, consulte la prophétesse Holda.
 
 
 1 Josias avait huit ans lorsqu'il commença à régner, et il régna trente-un ans à Jérusalem : le nom de sa mère était Idida, fille de Hadaïa de Bésécath.

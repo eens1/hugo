@@ -1,9 +1,8 @@
 ---
 title: "Chapter 51"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 A prayer of Jesus the son of Sirach. I will give glory to thee, O Lord, O King, and I will praise thee, O God my Saviour.

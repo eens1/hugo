@@ -1,9 +1,8 @@
 ---
 title: "Caput 45"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Hæc dicit Dominus christo meo Cyro, cuius apprehendi dexteram, ut subiiciam ante faciem eius Gentes, et dorsa regum vertam, et aperiam coram eo ianuas, et portæ non claudentur.

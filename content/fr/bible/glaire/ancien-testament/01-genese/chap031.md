@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 31"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Fuite de Jacob.
+  Laban le poursuit.
+  Alliance entre eux.
 ---
-
-
-Fuite de Jacob.
-Laban le poursuit.
-Alliance entre eux.
 
 
 1 Or après que Jacob eut entendu les paroles des fils de Laban, qui disaient : Jacob a enlevé tout ce qui était à notre père, et enrichi de son bien, il est devenu un grand personnage, 2 Et qu'il eut aussi remarqué que le visage de Laban n'était pas pour lui comme hier et avant-hier,

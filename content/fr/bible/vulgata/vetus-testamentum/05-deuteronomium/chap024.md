@@ -1,9 +1,8 @@
 ---
 title: "Caput 24"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Si acceperit homo uxorem, et habuerit eam, et non invenerit gratiam ante oculos eius propter aliquam fœditatem: scribet libellum repudii, et dabit in manu illius, et dimittet eam de domo sua.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Grandeur d’Assuérus.
+  Puissance de Mardochée.
+  Explication d’un songe qu’il avait eu.
 ---
-
-
-Grandeur d’Assuérus.
-Puissance de Mardochée.
-Explication d’un songe qu’il avait eu.
 
 
 1 Or le roi Assuérus rendit toute la terre et toutes les îles de la mer tributaires. 2 Sa force, et son empire, et la dignité et la grandeur à laquelle il éleva Mardochée, sont écrits dans les livres des Mèdes et des Perses; 3 Et comme Mardochée, de la race judaïque, devint le second après le roi Assuérus, grand parmi les Juifs, et agréable à la foule de ses frères, cherchant le bien pour son peuple, et ne disant que ce qui intéressait la paix de sa race.

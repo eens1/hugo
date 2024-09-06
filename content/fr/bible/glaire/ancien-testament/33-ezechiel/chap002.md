@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Mission d’Ezéchiel.
+  Infidélité des enfants d’Israël.
+  Le Seigneur exhorte son Prophète à ne pas craindre leurs menaces et à ne pas imiter leur indocilité.
+  Une main lui présente un livre rempli de plaintes lugubres.
 ---
-
-
-Mission d’Ezéchiel.
-Infidélité des enfants d’Israël.
-Le Seigneur exhorte son Prophète à ne pas craindre leurs menaces et à ne pas imiter leur indocilité.
-Une main lui présente un livre rempli de plaintes lugubres.
 
 
 1 Telle fut la vision de l'image de la gloire du Seigneur; et je vis; et je tombai sur ma face, et j'entendis la voix de quelqu'un parlant. Et il me dit : Fils d'un homme, tiens-toi sur tes pieds, et je te parlerai.

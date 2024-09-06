@@ -1,9 +1,8 @@
 ---
 title: "Chapter 13"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass after this that Ammon the son of David loved the sister of Absalom the son of David, who was very beautiful, and her name was Thamar.

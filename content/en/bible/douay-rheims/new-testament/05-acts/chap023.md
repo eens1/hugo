@@ -1,9 +1,8 @@
 ---
 title: "Chapter 23"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 And Paul, looking upon the council, said: Men, brethren, I have conversed with all good conscience before God until this present day.

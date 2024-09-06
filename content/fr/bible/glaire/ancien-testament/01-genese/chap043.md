@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 43"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Retour des frères de Joseph en Egypte avec Benjamin.
+  Joseph leur fait un festin.
 ---
-
-
-Retour des frères de Joseph en Egypte avec Benjamin.
-Joseph leur fait un festin.
 
 
 1 Cependant la famine pesai! violemment sur toute la terre. 2 Et les vivres qu'ils avaient apportés de l'Egypte, étant consommés, Jacob dit à ses fils : Retournez, et achetez-nous quelques provisions. 3 Juda répondit : Cet homme nous a fait une déclaration sous le sceau du serment, disant : Vous ne verrez point ma face si vous n'amenez votre frère le plus jeune avec vous. 4 Si donc vous voulez l'envoyer avec nous, nous irons ensemble, et nous achèterons ce qui vous est nécessaire. 5 Mais si vous ne voulez pas, nous n'irons pas; car cet homme, comme souvent nous l'avons dit, nous a fait une déclaration, disant : Vous ne verrez point ma face, sans votre frère le plus jeune.

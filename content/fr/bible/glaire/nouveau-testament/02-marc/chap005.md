@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Légion de démons chassée ; pourceaux précipités.
+  Hémorroïsse guérie.
+  Fille de Jaïre ressuscitée.
 ---
-
-
-Légion de démons chassée ; pourceaux précipités.
-Hémorroïsse guérie.
-Fille de Jaïre ressuscitée.
 
 
 1 Et ils vinrent de l'autre côté de la mer dans le pays des Géraséniens.

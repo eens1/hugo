@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 40"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Erection du tabernacle.
+  Il est couvert de la nuée qui représentait la majesté de Dieu.
 ---
-
-
-Erection du tabernacle.
-Il est couvert de la nuée qui représentait la majesté de Dieu.
 
 
 1 Le Seigneur parla ensuite à Moïse, disant :2 Au premier mois, au premier jour du mois, tu dresseras le tabernacle de témoignage; 3 Et tu y mettras l'arche et tu suspendras devant elle le voile. 4 Puis, la table portée, tu mettras sur elle ce qui a été légitimement ordonné. Le chandelier sera placé avec ses lampes, 5 Ainsi que l'autel d'or sur lequel se brûle de l'encens devant l'arche du témoignage. Tu poseras le voile à l'entrée du tabernacle, 6 Et devant le voile l'autel de l'holocauste ; 7 Le bassin que tu rempliras d'eau, entre l'autel et le tabernacle. 8 Tu entoureras de rideaux le parvis et son entrée.

@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 58"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Hypocrisie des Juifs condamnée.
+  Leurs faux jeûnes.
+  Manière de bien observer le sabbat.
+  Récompense de ceux qui l’observent fidèlement.
 ---
-
-
-Hypocrisie des Juifs condamnée.
-Leurs faux jeûnes.
-Manière de bien observer le sabbat.
-Récompense de ceux qui l’observent fidèlement.
 
 
 1 Crie et ne cesse point; comme la trompette élève ta voix, et annonce à mon peuple ses crimes, et à la maison de Jacob ses péchés.

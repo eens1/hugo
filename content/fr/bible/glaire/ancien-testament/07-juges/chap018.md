@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 18"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Six cents hommes de la tribu de Dan vont s’établir à Laïs.
+  Ils enlèvent le prêtre et l’idole de Michas.
 ---
-
-
-Six cents hommes de la tribu de Dan vont s’établir à Laïs.
-Ils enlèvent le prêtre et l’idole de Michas.
 
 
 1 En ces jours-là il n'y avait point de roi en Israël, et la tribu de Dan se cherchait une possession pour y habiter ; car jusqu'à ce jour elle n'avait pas reçu de lot parmi les autres tribus. 2 Les enfants de Dan envoyèrent donc cinq hommes de leur race et de leur famille, des plus vaillants de Saraa et d'Esthaol, pour explorer la terre, et l'examiner avec soin; et ils leur dirent : Allez et considérez la terre. Lorsque ceux-ci, s'étant mis en chemin, furent venus à la montagne d'Ephraïm, et qu'ils furent entrés dans la maison de Michas. ils s'y reposèrent ; 3 Et reconnaissant la voix du jeune Lévite, et se trouvant dans son logis, ils lui demandèrent : Qui t'a amené ici? qu'y fais-tu? pour quel motif as-tu voulu y venir ? 4 Il leur répondit : Michas a fait pour moi telle et telle chose, et il ma loué moyennant un salaire, pour que je lui serve de prêtre. 5 Or, ils le prièrent de consulter le Seigneur, afin qu'ils pussent savoir s'ils feraient un heureux voyage, et si leur entreprise aurait son effet. 6 Il leur

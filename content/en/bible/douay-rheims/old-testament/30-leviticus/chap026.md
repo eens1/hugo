@@ -1,9 +1,8 @@
 ---
 title: "Chapter 26"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 I am the Lord your God. You shall not make to yourselves any idol or graven thing: neither shall you erect pillars, nor set up a remarkable stone in your land, to adore it. For I am the Lord your God.

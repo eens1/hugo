@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 37"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Jalousie des fils de Jacob contre Joseph, leur frère ; ils le vendent, et il est mené en Egypte.
 ---
-
-
-Jalousie des fils de Jacob contre Joseph, leur frère ; ils le vendent, et il est mené en Egypte.
 
 
 1 Mais Jacob habita dans la terre de Chanaan, dans laquelle son père avait été comme étranger.

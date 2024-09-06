@@ -1,9 +1,8 @@
 ---
 title: "Caput 28"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Factum est autem in diebus illis, congregaverunt Philisthiim agmina sua, ut præpararentur ad bellum contra Israel: dixitque Achis ad David: Sciens nunc scito, quoniam mecum egredieris in castris tu, et viri tui.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Nabuchodonosor envoie Holoferne avec une puissante armée pour s’assujettir tous les peuples voisins.
+  Premiers exploits d’Holoferne.
+  Il s’avance jusqu’à Damas.
 ---
-
-
-Nabuchodonosor envoie Holoferne avec une puissante armée pour s’assujettir tous les peuples voisins.
-Premiers exploits d’Holoferne.
-Il s’avance jusqu’à Damas.
 
 
 1 A la treizième année du roi Nabuchodonosor, le vingt-deuxième jour du premier mois, dans la maison de Nabuchodonosor, roi des Assyriens, déclaration fut faite qu'il se vengerait. 2 Il appela donc tous les anciens, et tous les chefs, et ses guerriers, et il tint avec eux son conseil secret ; 3 Et il dit que sa pensée était uniquement de subjuguer toute la terre à son empire. 4 Comme cette parole plut à tous, le roi Nabuchodonosor fit venir Holoferne, le prince de sa milice, 5 Et lui dit : Sors contre le royaume d'occident, et contre ceux principalement qui ont méprisé mon commandement. 6 Ton œil n'épargnera aucun royaume, et tu me subjugueras toute ville fortifiée.

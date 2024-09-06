@@ -1,9 +1,8 @@
 ---
 title: "Chapter 3"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 As to the rest, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not wearisome, but to you is necessary.

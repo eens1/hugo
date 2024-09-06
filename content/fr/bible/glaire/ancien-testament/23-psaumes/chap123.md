@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 123"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Ce psaume contient les actions de grâces des captifs délivrés de leurs ennemis, ils reconnaissent que, sans une protection particulière de Dieu, ils étaient perdus sans ressource.
 ---
-
-
-Ce psaume contient les actions de grâces des captifs délivrés de leurs ennemis, ils reconnaissent que, sans une protection particulière de Dieu, ils étaient perdus sans ressource.
 
 
 1 Cantique des degrés. Si le Seigneur n'eût été au milieu de nous, dise maintenant Israël;

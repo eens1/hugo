@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
+summary: |
+  
+  Femme revêtue du soleil.
+  Dragon à sept têtes.
+  Enfant mâle qui doit gouverner les nations, et qui est enlevé vers Dieu.
+  Combats des bons et des mauvais anges.
+  Dragon précipité du ciel en terre.
+  Il poursuit la femme, jette un fleuve après elle, va faire la guerre à ses enfants, et est forcé de s’arrêter sur le sable de la mer.
 ---
-
-
-Femme revêtue du soleil.
-Dragon à sept têtes.
-Enfant mâle qui doit gouverner les nations, et qui est enlevé vers Dieu.
-Combats des bons et des mauvais anges.
-Dragon précipité du ciel en terre.
-Il poursuit la femme, jette un fleuve après elle, va faire la guerre à ses enfants, et est forcé de s’arrêter sur le sable de la mer.
 
 
 1 Et un grand prodige parut dans le ciel : Une femme revêtue du soleil, ayant la lune sous ses pieds, et sur sa tête une couronne de douze étoiles.

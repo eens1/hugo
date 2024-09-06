@@ -1,9 +1,8 @@
 ---
 title: "Chapter 14"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 But after the space of three years Judas, and they that were with him, understood that Demetrius, the son of Seleucus, was come up with a great power, and a navy by the haven of Tripolis, to places proper for his purpose,

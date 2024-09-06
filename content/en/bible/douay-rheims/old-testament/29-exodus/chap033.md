@@ -1,9 +1,8 @@
 ---
 title: "Chapter 33"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 And the Lord spoke to Moses, saying: Go, get thee up from this place, thou and thy people which thou hast brought out of the land of Egypt, into the land concerning which I swore to Abraham, Isaac, and Jacob, saying: To thy seed I will give it:

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 13"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Un prophète prédit devant Jéroboam la naissance de Josias et la destruction des hauts lieux.
+  Ce prophète est tué par un lion pour avoir désobéi au commandement de Dieu.
+  Jéroboam persiste dans son impiété.
 ---
-
-
-Un prophète prédit devant Jéroboam la naissance de Josias et la destruction des hauts lieux.
-Ce prophète est tué par un lion pour avoir désobéi au commandement de Dieu.
-Jéroboam persiste dans son impiété.
 
 
 1 Et voilà qu'un homme de Dieu vint avec les paroles du Seigneur, de Juda à Béthel, Jéroboam étant près de l'autel et jetant de l'encens.

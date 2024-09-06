@@ -1,11 +1,11 @@
 ---
 title: "Concile de Trente"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
+summary: |
+  
+  Session 14
 ---
-
-
-Session 14
 
 
 *Source : Dassance 1842, t. 1, pp. 34-80*.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 20"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Now Phassur the son of Emmer, the priest, who was appointed chief in the house of the Lord, heard Jeremiah prophesying these words.

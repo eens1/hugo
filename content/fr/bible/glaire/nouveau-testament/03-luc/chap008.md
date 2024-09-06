@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Parabole de la semence et son explication.
+  Lampe sur le chandelier.
+  Mère et frères de Jésus-Christ.
+  Tempête apaisée.
+  Légion de démons chassée.
+  Hémorroïsse guérie.
+  Fille de Jaïre ressuscitée.
 ---
-
-
-Parabole de la semence et son explication.
-Lampe sur le chandelier.
-Mère et frères de Jésus-Christ.
-Tempête apaisée.
-Légion de démons chassée.
-Hémorroïsse guérie.
-Fille de Jaïre ressuscitée.
 
 
 1 Et il arriva ensuite que Jésus parcourait les villes et les villages; prêchant et annonçant le royaume de Dieu; et les douze étaient avec lui, 2 Ainsi que quelques femmes, qu'il avait délivrées des esprits malins et de leurs maladies : Marie, appelée Madeleine, de laquelle sept démons étaient sortis,

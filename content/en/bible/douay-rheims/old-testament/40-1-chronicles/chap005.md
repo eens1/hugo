@@ -1,9 +1,8 @@
 ---
 title: "Chapter 5"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 Now the sons of Ruben the firstborn of Israel, (for he was his firstborn: but forasmuch as he defiled his father's bed, his first birthright was given to the sons of Joseph the son of Israel, and he was not accounted for the firstborn.

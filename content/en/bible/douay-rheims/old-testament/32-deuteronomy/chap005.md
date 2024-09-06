@@ -1,9 +1,8 @@
 ---
 title: "Chapter 5"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 And Moses called all Israel, and said to them: Hear, O Israel, the ceremonies and judgments, which I speak in your ears this day: learn them, and fulfil them in work.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 25"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Crime des Israélites avec les filles des Moabites.
+  Zèle de Phinées.
+  Dieu lui promet le sacerdoce
 ---
-
-
-Crime des Israélites avec les filles des Moabites.
-Zèle de Phinées.
-Dieu lui promet le sacerdoce
 
 
 1 Or, en ce temps-là Israël demeurait à Settim, et le peuple forniqua avec les filles de Moab,

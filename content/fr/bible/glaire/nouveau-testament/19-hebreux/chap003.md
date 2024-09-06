@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Supériorité de Jésus-Christ sur Moïse.
+  Saint Paul exhorte les Hébreux à s’affermir dans la foi, et à demeurer attachés à Jésus-Christ.
+  Exhortation que l’Esprit-Saint leur adresse dans le livre des Psaumes.
 ---
-
-
-Supériorité de Jésus-Christ sur Moïse.
-Saint Paul exhorte les Hébreux à s’affermir dans la foi, et à demeurer attachés à Jésus-Christ.
-Exhortation que l’Esprit-Saint leur adresse dans le livre des Psaumes.
 
 
 1 Vous donc, mes frères saints, participants à la vocation céleste, considérez l'apôtre et le pontife de notre confession, Jésus,

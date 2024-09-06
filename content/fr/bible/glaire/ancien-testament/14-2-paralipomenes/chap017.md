@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Josaphat succède à Asa.
+  Sa piété, ses grands biens.
+  Soin qu’il prend de faire instruire le peuple.
+  Dénombrement de ses troupes et de ses officiers.
 ---
-
-
-Josaphat succède à Asa.
-Sa piété, ses grands biens.
-Soin qu’il prend de faire instruire le peuple.
-Dénombrement de ses troupes et de ses officiers.
 
 
 1 Or Josaphat, son fils, régna en sa place, et prévalut contre Israël. 2 Et il établit des légions de soldats dans toutes les villes de Juda qui étaient entourées de murs, et il posta des garnisons dans la terre de Juda et dans les villes d'Ephraïm qu'avait prises Asa, son père. 3 Et le Seigneur fut avec Josaphat, parce qu'il marcha dans les premières voies de David, son père, et il n'espéra pas dans les Baalim,

@@ -1,9 +1,8 @@
 ---
 title: "Références"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Bareille Georges. (1922). Code du droit canonique, modifications introduites dans la précédente législation de l'Eglise. Librairie Cardeilhac-Soubiron, éditeur.

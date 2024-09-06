@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 51"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Actions de grâces de l’auteur.
+  Comment il a acquis la sagesse.
+  Exhortation à la recherche de la sagesse.
 ---
-
-
-Actions de grâces de l’auteur.
-Comment il a acquis la sagesse.
-Exhortation à la recherche de la sagesse.
 
 
 1 Prière de Jésus, fils de Sirach: Je vous glorifierai, Seigneur roi, et je vous louerai, vous qui êtes mon Dieu, mon sauveur,

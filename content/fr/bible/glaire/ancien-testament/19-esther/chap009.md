@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Les Juifs, suivant l’ordre du roi, tuent tous ceux qui avaient conspiré leur perte.
+  Ils établissent une fête en mémoire de leur délivrance.
 ---
-
-
-Les Juifs, suivant l’ordre du roi, tuent tous ceux qui avaient conspiré leur perte.
-Ils établissent une fête en mémoire de leur délivrance.
 
 
 1 Ainsi le treizième jour du douzième mois que nous avons déjà dit s'appeler Adar, quand le massacre des Juifs était préparé, et que leurs ennemis respiraient le sang, les Juifs, au contraire, commencèrent à être les plus forts et à se venger de leurs adversaires, 2 Et ils s'assemblèrent dans toutes les villes, les bourgs, et d'autres lieux, pour étendre la main contre leurs ennemis et leurs persécuteurs ; et nul n'osa résister, parce que la crainte de leur puissance avait saisi tous les peuples. 3 Car et les juges des provinces, et les chefs, et les gouverneurs et tout dignitaire qui était préposé à chaque lieu et à chaque ouvrage, élevaient les Juifs par la crainte de Mardochée, 4 Qu'on savait être prince du palais, et pouvoir beaucoup : la renommée de son nom aussi croissait tous les jours, et volait dans les bouches de tout le monde.

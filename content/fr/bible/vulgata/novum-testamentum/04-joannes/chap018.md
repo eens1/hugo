@@ -1,9 +1,8 @@
 ---
 title: "Caput 18"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Hæc cum dixisset Iesus, egressus est cum discipulis suis trans Torrentem Cedron, ubi erat hortus, in quem introivit ipse, et discipuli eius.

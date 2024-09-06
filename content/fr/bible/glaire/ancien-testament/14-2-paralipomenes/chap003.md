@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Salomon commence à bâtir le temple.
+  Plan de cet édifice.
+  Description des chérubins qui étaient dans le sanctuaire, et des colonnes qui étaient aux deux côtés de la porte du temple.
 ---
-
-
-Salomon commence à bâtir le temple.
-Plan de cet édifice.
-Description des chérubins qui étaient dans le sanctuaire, et des colonnes qui étaient aux deux côtés de la porte du temple.
 
 
 1 Ainsi Salomon commença à bâtir la maison du Seigneur à Jérusalem, sur la montagne de Moria, qui avait été montrée à David, son père, au lieu qu'avait préparé David dans l'aire d'Ornan, le Jébuséen.

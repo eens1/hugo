@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Pureté, désintéressement, sollicitude de saint Paul dans la prédication de l’Evangile.
+  Fidélité des Thessaloniciens.
+  Jugement terrible sur les Juifs.
+  Affection de saint Paul pour les Thessaloniciens.
 ---
-
-
-Pureté, désintéressement, sollicitude de saint Paul dans la prédication de l’Evangile.
-Fidélité des Thessaloniciens.
-Jugement terrible sur les Juifs.
-Affection de saint Paul pour les Thessaloniciens.
 
 
 1 Car vous-mêmes, mes frères, vous savez que notre entrée parmi vous n'a pas été vaine, 2 Puisque d'abord ayant souffert (comme vous le savez) et subi des outrages dans Philippes, nous avons eu en notre Dieu la confiance de vous annoncer l'Evangile de Dieu avec beaucoup de sollicitude.

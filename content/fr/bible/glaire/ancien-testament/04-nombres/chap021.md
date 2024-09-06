@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Victoire des Israélites sur les Chananéens.
+  Nouveau murmure.
+  Serpent d’airain.
+  Guerre contre Séhon et contre Og.
 ---
-
-
-Victoire des Israélites sur les Chananéens.
-Nouveau murmure.
-Serpent d’airain.
-Guerre contre Séhon et contre Og.
 
 
 1 Lorsque le roi d'Arad Chananéen, qui habitait vers le midi, eut appris cela, c'est-à-dire, qu'Israël était venu par le chemin des espions, il combattit contre lui, et étant vainqueur, il en emporta le butin.

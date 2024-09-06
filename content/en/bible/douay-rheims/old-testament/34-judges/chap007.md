@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 Then Jerobaal, who is the same as Gedeon, rising up early, and all the people with him, came to the fountain that is called Harad. Now the camp of Madian was in the valley, on the north side of the high hill.

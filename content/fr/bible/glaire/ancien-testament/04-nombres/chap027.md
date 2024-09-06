@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 27"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Lois touchant les héritages.
+  Moïse considère la terre de Chanaan.
+  Josué est nommé pour lui succéder.
 ---
-
-
-Lois touchant les héritages.
-Moïse considère la terre de Chanaan.
-Josué est nommé pour lui succéder.
 
 
 1 Or, vinrent les filles de Salphaad, fils d'Hépher, fils de Galaad, fils de Machir, fils de Manassé, qui fut fils de Joseph, dont les noms sont Maala, Noa, Hégla, Melcha et Thersa,

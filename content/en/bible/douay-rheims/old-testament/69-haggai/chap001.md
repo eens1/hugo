@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 In the second year of Darius the king, in the sixth month, in the first day of the month, the word of the Lord came by the hand of Haggai the prophet, to Zorobabel the son of Salathiel, governor of Juda, and to Jesus the son of Josedec the high priest, saying:

@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Persécution contre les fidèles.
+  Philippe prêche en Samarie.
+  Simon le Magicien est baptisé.
+  Pierre et Jean donnent le Saint-Esprit aux Samaritains.
+  Simon veut acheter ce pouvoir.
+  Eunuque de la reine d’Ethiopie baptisé par Philippe.
 ---
-
-
-Persécution contre les fidèles.
-Philippe prêche en Samarie.
-Simon le Magicien est baptisé.
-Pierre et Jean donnent le Saint-Esprit aux Samaritains.
-Simon veut acheter ce pouvoir.
-Eunuque de la reine d’Ethiopie baptisé par Philippe.
 
 
 1 Or il s'éleva en ce temps-là une grande persécution contre l'Eglise qui était à Jérusalem, et tous, excepté les apôtres, furent dispersés dans les régions de la Judée et de la Samarie. 2 Des hommes craignant Dieu ensevelirent Etienne, et firent ses funérailles avec un grand deuil. 3 Cependant Saul ravageait l'Eglise, entrant dans les maisons; et entraînant des hommes et des femmes, il les jetait en prison.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 10"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 1 And having called his twelve disciples together, he gave them power over unclean spirits, to cast them out, and to heal all manner of diseases, and all manner of infirmities.

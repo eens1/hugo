@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 145"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste représente le bonheur de ceux qui mettent toute leur espérance dans le Seigneur.
 ---
-
-
-Le Psalmiste représente le bonheur de ceux qui mettent toute leur espérance dans le Seigneur.
 
 
 1 Alléluia, d'Aggée et de Zacharie.

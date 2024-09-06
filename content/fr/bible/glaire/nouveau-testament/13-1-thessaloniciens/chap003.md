@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Timothée envoyé aux Thessaloniciens pour les fortifier dans leurs tribulations.
+  Témoignage avantageux qu’il rend de leur foi et de leur charité.
+  Saint Paul désire aller les voir.
+  Il leur souhaite l’accroissement dans le bien.
 ---
-
-
-Timothée envoyé aux Thessaloniciens pour les fortifier dans leurs tribulations.
-Témoignage avantageux qu’il rend de leur foi et de leur charité.
-Saint Paul désire aller les voir.
-Il leur souhaite l’accroissement dans le bien.
 
 
 1 C'est pourquoi ne supportant pas un plus long délai, nous préférâmes demeurer seuls à Athènes,

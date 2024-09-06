@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 40"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Description du temple montré en esprit à Ezéchiel.
+  Description des portes, vestibules et parvis du peuple et des prêtres, et du vestibule du temple.
 ---
-
-
-Description du temple montré en esprit à Ezéchiel.
-Description des portes, vestibules et parvis du peuple et des prêtres, et du vestibule du temple.
 
 
 1 En la vingt-cinquième année de notre transmigration, au commencement de l'année, au dixième jour du mois, en la quatorzième année, après qu'eut été frappée la cité ; en ce même jour, la main du Seigneur fut sur moi. et il m'amena là.

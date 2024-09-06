@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 25"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Derniers siège de Jérusalem par Nabuchodonosor.
+  Sédécias est pris et emmené à Babylone.
+  Nabuzardan met le feu à la ville et en transporte les habitants.
+  Godolias est établi gouverneur du pays.
+  Le peuple s’enfuit en Egypte.
+  Joachin est en faveur auprès d’Evil-Mérodach.
 ---
-
-
-Derniers siège de Jérusalem par Nabuchodonosor.
-Sédécias est pris et emmené à Babylone.
-Nabuzardan met le feu à la ville et en transporte les habitants.
-Godolias est établi gouverneur du pays.
-Le peuple s’enfuit en Egypte.
-Joachin est en faveur auprès d’Evil-Mérodach.
 
 
 1 Or il arriva en la neuvième année du règne de Sédécias, au dixième jour, au dixième mois, que Nabuchodonosor, roi de Babylone, vint, lui et toute son armée, contre Jérusalem ; et ils l'investirent, et y construisirent tout autour des fortifications.

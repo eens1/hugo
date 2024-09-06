@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 29"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Job fait la description de son premier état.
 ---
-
-
-Job fait la description de son premier état.
 
 
 1 Job prenant encore de nouveau sa parabole, dit :

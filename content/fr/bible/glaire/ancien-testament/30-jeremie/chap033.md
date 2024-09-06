@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 33"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Promesses du retour de Juda et du rétablissement de Jérusalem.
+  Exécution des promesses à l’égard d’Israël et de Juda.
+  Nouveau germe de la race de David.
+  Alliance du Seigneur avec les deux races royale et sacerdotale.
+  Promesse du Seigneur en faveur de Jacob et de David.
 ---
-
-
-Promesses du retour de Juda et du rétablissement de Jérusalem.
-Exécution des promesses à l’égard d’Israël et de Juda.
-Nouveau germe de la race de David.
-Alliance du Seigneur avec les deux races royale et sacerdotale.
-Promesse du Seigneur en faveur de Jacob et de David.
 
 
 1 Et la parole du Seigneur fut adressée à Jérémie une seconde fois, lorsqu'il était encore enfermé dans le vestibule de la prison, disant :

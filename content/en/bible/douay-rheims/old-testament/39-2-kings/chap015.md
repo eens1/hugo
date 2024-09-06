@@ -1,9 +1,8 @@
 ---
 title: "Chapter 15"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 In the seven and twentieth year of Jeroboam, king of Israel, reigned Azarias, son of Amasias, king of Juda.

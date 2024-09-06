@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 16"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Cantique de Judith.
+  Elle va à Jérusalem avec le peuple célébrer sa victoire.
+  Elle revient à Béthulie où elle meurt couverte de gloire et fort âgée.
 ---
-
-
-Cantique de Judith.
-Elle va à Jérusalem avec le peuple célébrer sa victoire.
-Elle revient à Béthulie où elle meurt couverte de gloire et fort âgée.
 
 
 1 Alors Judith chanta ce cantique au Seigneur, disant :

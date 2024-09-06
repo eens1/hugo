@@ -1,9 +1,8 @@
 ---
 title: "Chapter 31"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 And when these things had been duly celebrated, all Israel that were found in the cities of Juda, went out, and they broke the idols, and cut down the groves, demolished the high places, and destroyed the altars, not only out of all Juda and Benjamin, but out of Ephraim also and Manasses, till they had utterly destroyed them: then all the children of Israel returned to their possessions and cities.

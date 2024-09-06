@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Honneurs rendus à Mardochée.
+  Confusion d’Aman.
 ---
-
-
-Honneurs rendus à Mardochée.
-Confusion d’Aman.
 
 
 1 Le roi passa cette nuit sans dormir, et il commanda qu'on lui apportât les histoires et les annales des temps antérieurs. Et comme on les lisait, lui présent, 2 On vint à cet endroit où était écrit de quelle manière Mardochée avait dénoncé les emhûches de Bagathan et de Tharès, eunuques qui avaient voulu égorger le roi Assuérus. 3 Ce que le roi ayant entendu, il demanda : Quel honneur et quelle récompense Mardochée a-t-il obtenus pour cette fidélité? Ses serviteurs et ses ministres répondirent : Il n'a reçu absolument aucune récompense. 4 Et aussitôt le roi : Qui est, dit-il, dans le vestibule? Or Aman était entré dans le vestibule intérieur de la maison du roi, pour lui conseiller de commander que Mardochée fût attaché à la potence qui lui avait été préparée. 5 Les serviteurs répondirent : C'est Aman qui est dans le vestibule. Le roi reprit : Qu'il entre.

@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Guerres de Judas contre les Iduméens et contre les Ammonites.
+  Expéditions de Simon dans la Galilée, et de Judas dans le pays de Galaad.
+  Joseph et Azarias, laissés en Judée, s’avancent témérairement contre Gorgias, et sont vaincus.
+  Judas, revenu en Judée, marche contre les Iduméens et les Philistins.
 ---
-
-
-Guerres de Judas contre les Iduméens et contre les Ammonites.
-Expéditions de Simon dans la Galilée, et de Judas dans le pays de Galaad.
-Joseph et Azarias, laissés en Judée, s’avancent témérairement contre Gorgias, et sont vaincus.
-Judas, revenu en Judée, marche contre les Iduméens et les Philistins.
 
 
 1 Et il arriva que dès que les nations d'alentour apprirent que l'autel et le sanctuaire avaient été bâtis comme auparavant, elles furent très irritées ; 2 Et elles songeaient à détruire ceux de la race de Jacob qui étaient parmi eux, et elles commencèrent à tuer quelques-uns d'entre le peuple et à poursuivre les autres,

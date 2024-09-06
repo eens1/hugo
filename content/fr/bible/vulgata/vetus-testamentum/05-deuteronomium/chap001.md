@@ -1,9 +1,8 @@
 ---
 title: "Caput 1"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Hæc sunt verba, quæ locutus est Moyses ad omnem Israel trans Iordanem in solitudine campestri, contra Mare rubrum, inter Pharan et Thophel et Laban et Haseroth, ubi auri est plurimum:

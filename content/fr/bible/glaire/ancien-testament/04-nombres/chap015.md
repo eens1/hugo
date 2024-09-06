@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 15"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Lois touchant les sacrifices.
+  Prémices du pain dues aux Lévites.
+  Expiation des péchés d’omission.
+  Violateur du sabbat.
+  Frange des vêtements.
 ---
-
-
-Lois touchant les sacrifices.
-Prémices du pain dues aux Lévites.
-Expiation des péchés d’omission.
-Violateur du sabbat.
-Frange des vêtements.
 
 
 1 Le Seigneur parla à Moïse, disant :

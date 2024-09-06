@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Les chrétiens enfants de Dieu.
+  Qui commet le péché est enfant du diable.
+  Qui est né de Dieu ne pèche pas.
+  Qui n’aime pas son frère demeure dans la mort.
+  Aimer non de parole, mais réellement.
+  Dieu demeure en nous par son Esprit.
 ---
-
-
-Les chrétiens enfants de Dieu.
-Qui commet le péché est enfant du diable.
-Qui est né de Dieu ne pèche pas.
-Qui n’aime pas son frère demeure dans la mort.
-Aimer non de parole, mais réellement.
-Dieu demeure en nous par son Esprit.
 
 
 1 Voyez quelle charité le Père a eue pour nous, de vouloir que nous soyons appelés, et que nous soyons réellement enfants de Dieu! Si donc le monde ne nous connaît pas, c'est parce qu'il ne le connaît pas. 2 Mes bien-aimés, nous sommes maintenant enfants de Dieu ; mais on ne voit pas encore ce que nous serons. Nous savons que lorsqu'il apparaîtra nous serons semblables à lui, parce que nous le verrons tel qu'il est.

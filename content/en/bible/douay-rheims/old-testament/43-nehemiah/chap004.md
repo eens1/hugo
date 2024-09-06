@@ -1,9 +1,8 @@
 ---
 title: "Chapter 4"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass, that when Sanaballat heard that we were building the wall he was angry: and being moved exceedingly he scoffed at the Jews.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 25"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 Moreover David and the chief officers of the army separated for the ministry the sons of Asaph, and of Heman, and of Idithun: to prophesy with harps, and with psalteries, and with cymbals according to their number serving in their appointed office.

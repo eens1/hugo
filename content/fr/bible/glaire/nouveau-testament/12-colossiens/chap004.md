@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Devoirs des maîtres.
+  Persévérance dans la prière.
+  Sagesse dans les discours.
+  Plusieurs personnages loués par saint Paul.
+  L’Apôtre salue les Laodicéens ; il donne un avis à Archippe.
 ---
-
-
-Devoirs des maîtres.
-Persévérance dans la prière.
-Sagesse dans les discours.
-Plusieurs personnages loués par saint Paul.
-L’Apôtre salue les Laodicéens ; il donne un avis à Archippe.
 
 
 1 Maîtres, rendez à vos serviteurs ce qui est juste et équitable, sachant que vous aussi vous avez un maître dans le ciel.

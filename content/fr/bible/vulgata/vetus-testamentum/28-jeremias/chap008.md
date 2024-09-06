@@ -1,9 +1,8 @@
 ---
 title: "Caput 8"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 In illo tempore, ait Dominus: Eiicient ossa regum Iuda, et ossa principum eius, et ossa sacerdotum, et ossa prophetarum, et ossa eorum, qui habitaverunt Ierusalem, de sepulchris suis:

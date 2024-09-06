@@ -1,9 +1,8 @@
 ---
 title: "Chapter 5"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 Set not thy heart upon unjust possessions, and say not: I have enough to live on: for it shall be of no service in the time of vengeance and darkness.

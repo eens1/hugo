@@ -1,9 +1,8 @@
 ---
 title: "Chapter 9"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 All these things have I considered in my heart, that I might carefully understand them: there are just men and wise men, and their works are in the hand of God: and yet man knoweth not whether he be worthy of love, or hatred:

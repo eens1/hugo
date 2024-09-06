@@ -1,9 +1,8 @@
 ---
 title: "Chapter 1"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 The vision of Isaiah the Son of Amos, which he saw concerning Juda and Jerusalem in the days of Ozias, Joathan, Achaz, and Ezechias, kings of Juda.

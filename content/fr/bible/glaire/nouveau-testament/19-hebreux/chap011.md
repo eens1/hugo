@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Définition, excellence, avantages et modèles de la foi.
 ---
-
-
-Définition, excellence, avantages et modèles de la foi.
 
 
 1 Or la foi est le fondement des choses qu'on doit espérer, et la démonstration de celles qu'on ne voit point. 2 Car c'est par elle que les anciens ont reçu témoignage. 3 C'est par la foi que nous savons que les siècles ont été formés par la parole de Dieu; de manière que ce qui était invisible est devenu visible.

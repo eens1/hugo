@@ -1,9 +1,8 @@
 ---
 title: "Caput "
-date: 2024-09-06T18:40:56+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Multorum nobis, et magnorum per legem, et prophetas, aliosque qui secuti sunt illos, sapientia demonstrata est: in quibus oportet laudare Israel doctrinæ et sapientiæ causa: quia non solum ipsos loquentes necesse est esse peritos, sed etiam extraneos posse et dicentes et scribentes doctissimos fieri.

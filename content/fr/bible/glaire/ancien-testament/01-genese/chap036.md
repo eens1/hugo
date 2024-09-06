@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 36"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Dénombrement des descendants d’Esaü.
 ---
-
-
-Dénombrement des descendants d’Esaü.
 
 
 1 Voici les générations d'Esaü ; c'est le même qu'Edom.

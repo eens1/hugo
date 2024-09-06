@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Esther devient l’épouse d’Assuérus.
+  Mardochée découvre la conspiration de deux eunuques.
 ---
-
-
-Esther devient l’épouse d’Assuérus.
-Mardochée découvre la conspiration de deux eunuques.
 
 
 1 Ces choses s'étant ainsi passées, après que l'indignation du roi Assuérus se fut calmée, il se souvint de Vasthi, et de ce qu'elle avait fait, et de ce qu'elle avait souffert. 2 Alors les serviteurs du roi et ses ministres dirent : Qu'on cherche pour le roi de jeunes filles vierges et belles, 3 Et qu'on envoie des gens qui considèrent dans toutes les provinces les jeunes filles vierges et belles, et qu'ils les amènent à la ville de Suse, et les mettent dans la maison des femmes, sous la main d'Egée, l'eunuque, qui est le préposé et le gardien des femmes du roi, et qu'elles prennent une parure de femme, et toutes les autres choses nécessaires à leur usage. 4 Et celle qui entre toutes plaira aux yeux du roi, celle-là régnera à la place de Vasthi. Ce discours plut au roi, et il ordonna qu'on fît comme ils avaient conseillé.

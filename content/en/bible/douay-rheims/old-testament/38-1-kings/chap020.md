@@ -1,9 +1,8 @@
 ---
 title: "Chapter 20"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 And Benadad, king of Syria, gathered together all his host, and there were two and thirty kings with him, and horses, and chariots: and going up, he fought against Samaria, and besieged it.

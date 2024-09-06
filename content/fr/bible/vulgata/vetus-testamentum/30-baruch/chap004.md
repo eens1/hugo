@@ -1,9 +1,8 @@
 ---
 title: "Caput 4"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 Hic liber mandatorum Dei, et lex, quæ est in æternum: omnes, qui tenent eam, pervenient ad vitam: qui autem dereliquerunt eam, in mortem.

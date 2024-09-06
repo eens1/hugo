@@ -1,9 +1,8 @@
 ---
 title: "Caput 8"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Recordatus autem Deus Noe, cunctorumque animantium, et omnium iumentorum, quæ erant cum eo in arca, adduxit spiritum super terram, et imminutæ sunt aquæ.

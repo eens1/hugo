@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Apologie de saint Paul contre les faux apôtres.
+  Puissance du ministère évangélique.
+  Vanité des faux apôtres.
+  Saint Paul ne s’attribue point les travaux des autres.
+  Nul ne doit se glorifier qu’en Dieu.
 ---
-
-
-Apologie de saint Paul contre les faux apôtres.
-Puissance du ministère évangélique.
-Vanité des faux apôtres.
-Saint Paul ne s’attribue point les travaux des autres.
-Nul ne doit se glorifier qu’en Dieu.
 
 
 1 Et moi-même, Paul, je vous conjure par la mansuétude et la modestie du Christ, moi qui, étant présent, parais humble parmi vous, tandis qu'absent je suis plein de hardiesse, 2 Je vous prie que, quand je serai présent, je n'aie pas à user sans ménagement de cette hardiesse qu'on m'impute, à l'égard de quelques-uns qui se persuadent que nous marchons selon la chair.

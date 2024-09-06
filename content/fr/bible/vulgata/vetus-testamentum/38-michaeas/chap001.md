@@ -1,9 +1,8 @@
 ---
 title: "Caput 1"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 1 Verbum Domini, quod factum est ad Michæam Morasthiten, in diebus Ioathan, Achaz, et Ezechiæ regum Iuda: quod vidit super Samariam, et Ierusalem.

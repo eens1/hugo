@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Insuffisance de l’ancien sacerdoce, et perfection du sacerdoce nouveau, prouvées par les cérémonies mêmes de l’ancien culte.
+  Médiation de Jésus-Christ fondée sur ce qu’il est en même temps prêtre et victime.
+  Nécessité de la mort de Jésus-Christ.
+  Prix infini de son sang.
 ---
-
-
-Insuffisance de l’ancien sacerdoce, et perfection du sacerdoce nouveau, prouvées par les cérémonies mêmes de l’ancien culte.
-Médiation de Jésus-Christ fondée sur ce qu’il est en même temps prêtre et victime.
-Nécessité de la mort de Jésus-Christ.
-Prix infini de son sang.
 
 
 1 La première alliance a eu aussi des ordonnances relatives au culte, et le sanctuaire terrestre. 2 Car on fit le premier tabernacle, dans lequel se trouvaient les chandeliers, la table et l'exposition des pains ; ce qui s'appelle le Saint.

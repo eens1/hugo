@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Entrée dans Jérusalem.
+  Figuier maudit.
+  Vendeurs chassés du temple.
+  Puissance de la foi.
+  Autorité de Jésus.
+  Baptême de Jean.
 ---
-
-
-Entrée dans Jérusalem.
-Figuier maudit.
-Vendeurs chassés du temple.
-Puissance de la foi.
-Autorité de Jésus.
-Baptême de Jean.
 
 
 1 Comme ils approchaient de Jérusalem et de Béthanie, près du mont des Oliviers, il envoya deux de ses disciples,

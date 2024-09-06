@@ -1,9 +1,8 @@
 ---
 title: "Caput 26"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:52+02:00
 draft: false
 ---
-
 
 
 1 Psalmus David priusquam liniretur. Dominus illuminatio mea, et salus mea, quem timebo? Dominus protector vitæ meæ, a quo trepidabo?

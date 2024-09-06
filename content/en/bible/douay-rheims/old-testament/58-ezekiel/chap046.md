@@ -1,9 +1,8 @@
 ---
 title: "Chapter 46"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 Thus saith the Lord God: The gate of the inner court that looketh toward the east, shall be shut the six days, on which work is done; but on the sabbath day it shall be opened, yea and on the day of the new moon it shall be opened.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 12"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 Thou indeed, O Lord, art just, if I plead with thee, but yet I will speak what is just to thee: Why doth the way of the wicked prosper: why is it well with all them that transgress, and do wickedly?

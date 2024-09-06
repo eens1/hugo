@@ -1,18 +1,18 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Multiplication des sept pains.
+  Prodige demandé et refusé.
+  Levain des pharisiens.
+  Guérison d’un aveugle.
+  Confession de saint Pierre.
+  Passion prédite.
+  Saint Pierre repris.
+  Croix et renoncement à soi-même.
 ---
-
-
-Multiplication des sept pains.
-Prodige demandé et refusé.
-Levain des pharisiens.
-Guérison d’un aveugle.
-Confession de saint Pierre.
-Passion prédite.
-Saint Pierre repris.
-Croix et renoncement à soi-même.
 
 
 1 En ces jours-là, comme la multitude était grande encore et n'avait pas de quoi manger, il appela ses disciples et leur dit :

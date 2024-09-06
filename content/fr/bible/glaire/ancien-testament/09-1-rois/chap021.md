@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 21"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  David va à Nobé vers le grand-prêtre Achimélech, et se retire auprès d’Achis, roi de Geth.
 ---
-
-
-David va à Nobé vers le grand-prêtre Achimélech, et se retire auprès d’Achis, roi de Geth.
 
 
 1 Or. David vint à Nobé vers Achimélech, le prêtre ; et Achimélech fut tout étonné de ce que David était venu. Et il lui dit : Pourquoi es-tu seul, et que personne n'est avec toi?

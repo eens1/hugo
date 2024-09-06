@@ -1,9 +1,8 @@
 ---
 title: "Chapter 7"
-date: 2024-09-06T18:40:42+02:00
+date: 2024-09-06T20:00:33+02:00
 draft: false
 ---
-
 
 
 1 In the first year of Baltasar, king of Babylon, Daniel saw a dream: and the vision of his head was upon his bed: and writing the dream, he comprehended it in a few words: and relating the sum of it in short, he said:

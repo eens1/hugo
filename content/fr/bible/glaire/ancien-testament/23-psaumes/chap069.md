@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 69"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David demande à Dieu une prompte assistance contre la malice et les insultes de ses ennemis.
+  Pour la fin, psaume de David.
 ---
-
-
-David demande à Dieu une prompte assistance contre la malice et les insultes de ses ennemis.
-Pour la fin, psaume de David.
 
 
 1 En mémoire de ce que le Seigneur l'avait sauvé.

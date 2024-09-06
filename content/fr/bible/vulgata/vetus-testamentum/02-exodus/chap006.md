@@ -1,9 +1,8 @@
 ---
 title: "Caput 6"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Dixitque Dominus ad Moysen: Nunc videbis quæ facturus sim Pharaoni: per manum enim fortem dimittet eos, et in manu robusta eiiciet illos de terra sua.

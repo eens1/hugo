@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 60"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Rétablissement de Jérusalem.
+  Les nations se soumettent à elle.
+  Sa gloire, sa joie, ses richesses, sa paix.
 ---
-
-
-Rétablissement de Jérusalem.
-Les nations se soumettent à elle.
-Sa gloire, sa joie, ses richesses, sa paix.
 
 
 1 Lève-toi, reçois la lumière, Jérusalem, parce qu'est venue ta lumière, et que la gloire du Seigneur sur toi s'est levée.

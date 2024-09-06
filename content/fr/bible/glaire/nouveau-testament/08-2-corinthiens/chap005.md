@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 5"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Exil de cette vie.
+  Soupirs vers le ciel.
+  Tribunal de Jésus-Christ.
+  Tous doivent vivre pour lui.
+  C’est par lui que nous sommes réconciliés avec Dieu.
+  Les Apôtres sont des ambassadeurs.
 ---
-
-
-Exil de cette vie.
-Soupirs vers le ciel.
-Tribunal de Jésus-Christ.
-Tous doivent vivre pour lui.
-C’est par lui que nous sommes réconciliés avec Dieu.
-Les Apôtres sont des ambassadeurs.
 
 
 1 En effet, nous savons que si cette maison de terre que nous habitons présentement se dissout, nous avons une autre maison construite par Dieu, non par la main des hommes, et éternelle dans les cieux. 2 Et pour cela nous gémissons, désirant d'être revêtus de notre habitation qui est du ciel; 3 Si toutefois nous sommes trouvés vêtus, et non pas nus.

@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Quatre anges retiennent les quatre vents.
+  Douze mille Israélites de chacune des douze tribus sont marqués du signe de Dieu.
+  Troupe innombrable de toute nation devant le trône.
+  Cantique des anges.
+  Quelle est cette troupe ?
+  Récompense dont elle jouira éternellement.
 ---
-
-
-Quatre anges retiennent les quatre vents.
-Douze mille Israélites de chacune des douze tribus sont marqués du signe de Dieu.
-Troupe innombrable de toute nation devant le trône.
-Cantique des anges.
-Quelle est cette troupe ?
-Récompense dont elle jouira éternellement.
 
 
 1 Après cela, je vis quatre anges qui étaient aux quatre coins de la terre, et qui retenaient les quatre vents de la terre, pour qu'ils ne soufflassent point sur la terre, ni sur la mer, ni sur aucun arbre. 2 Et je vis un autre ange qui montait de l'orient et portait le signe du Dieu vivant; et il cria d'une voix forte aux quatre anges auxquels il a été donné de nuire à la terre et à la mer, 3 Disant : Ne nuisez ni à la terre ni à la mer, ni aux arbres, jusqu'à ce que nous ayons mis le sceau sur le front des serviteurs de notre Dieu.

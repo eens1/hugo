@@ -1,9 +1,8 @@
 ---
 title: "Outside the Church no Salvation"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 To be saved, it is absolutely necessary to profess the traditional Catholic faith and be a member of the Catholic Church. This dogmatic teaching admits of no exception. However, many heretics today pervert the meaning that the Church gave once and for all to the dogma Outside the Church there is no salvation, in particular by attaching themselves to erroneous human traditions.

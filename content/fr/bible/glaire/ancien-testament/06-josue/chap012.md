@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Dénombrement des rois vaincus par les Israélites.
 ---
-
-
-Dénombrement des rois vaincus par les Israélites.
 
 
 1 Voici les rois que battirent les enfants d'Israël, et dont ils possédèrent la terre au-delà du Jourdain, vers le levant, depuis le torrent d'Arnon jusqu'à la montagne d'Hermon, et toute la contrée orientale qui regarde le désert.

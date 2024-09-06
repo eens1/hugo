@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Noms des principaux d’entre les prêtres et les Lévites qui revinrent avec Zorobabel.
+  Dédicace des murs de Jérusalem.
 ---
-
-
-Noms des principaux d’entre les prêtres et les Lévites qui revinrent avec Zorobabel.
-Dédicace des murs de Jérusalem.
 
 
 1 Or voici les prêtres et les Lévites qui montèrent avec Zorobabel, fils de Salathiel, et avec Josué : Saraïa, Jérémie, Esdras, 2 Amaria, Melluch, Hattus, 3 Sébénias, Rhéum, Mérimuth, 4 Addo, Genthon, Abia, 5 Miamin, Madia, Belga, 6 Séméia et Joïarib, Idaïa, Sellum, Amoc, Helcias, 7 Idaïa. Ceux-là furent les princes des prêtres et leurs frères dans les jours de Josué.

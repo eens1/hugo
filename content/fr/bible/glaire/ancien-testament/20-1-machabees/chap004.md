@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Judas Machabée attaque séparément Nicanor et Gorgias, et les met en déroute.
+  Il remporte la victoire sur Lysias.
+  Il va à Jérusalem, purifie les lieux saints, et fortifie la montagne de Sion.
 ---
-
-
-Judas Machabée attaque séparément Nicanor et Gorgias, et les met en déroute.
-Il remporte la victoire sur Lysias.
-Il va à Jérusalem, purifie les lieux saints, et fortifie la montagne de Sion.
 
 
 1 Alors Gorgias prit cinq mille hommes de pied, et mille cavaliers choisis, et ils levèrent le camp durant la nuit,

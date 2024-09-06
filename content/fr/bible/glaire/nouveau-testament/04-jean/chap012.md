@@ -1,21 +1,21 @@
 ---
 title: "Chapitre 12"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Marie parfume les pieds de Jésus.
+  Murmures de Judas.
+  Les Juifs veulent tuer Lazare.
+  Entrée de Jésus à Jérusalem ; des gentils demandent à le voir.
+  Discours de Jésus à cette occasion.
+  Trouble de Jésus.
+  Voix du ciel.
+  Puissance de la croix.
+  Marcher pendant la lumière.
+  Incrédulité des Juifs.
+  La parole de Jésus condamnera ceux qui ne la reçoivent pas.
 ---
-
-
-Marie parfume les pieds de Jésus.
-Murmures de Judas.
-Les Juifs veulent tuer Lazare.
-Entrée de Jésus à Jérusalem ; des gentils demandent à le voir.
-Discours de Jésus à cette occasion.
-Trouble de Jésus.
-Voix du ciel.
-Puissance de la croix.
-Marcher pendant la lumière.
-Incrédulité des Juifs.
-La parole de Jésus condamnera ceux qui ne la reçoivent pas.
 
 
 1 Jésus donc, six jours avant la pâque, vint à Béthanie, où était mort Lazare qu'avait ressuscité Jésus.

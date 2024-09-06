@@ -1,17 +1,17 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Imposteurs qui mépriseront la promesse du second avènement de Jésus-Christ.
+  Embrasement du monde.
+  Patience de Dieu.
+  Avènement de Jésus-Christ.
+  Monde renouvelé.
+  Saint Paul loué ; difficulté de ses Epîtres.
+  Croître en grâce et en silence.
 ---
-
-
-Imposteurs qui mépriseront la promesse du second avènement de Jésus-Christ.
-Embrasement du monde.
-Patience de Dieu.
-Avènement de Jésus-Christ.
-Monde renouvelé.
-Saint Paul loué ; difficulté de ses Epîtres.
-Croître en grâce et en silence.
 
 
 1 Voici, mes bien-aimés, la seconde lettre que je vous écris; dans l'une et l'autre je réveille vos âmes sincères par mes avertissements; 2 Afin que vous vous souveniez des paroles des saints prophètes, que je vous ai rappelées, et des commandements que vos apôtres vous ont faits au nom du Seigneur et Sauveur.

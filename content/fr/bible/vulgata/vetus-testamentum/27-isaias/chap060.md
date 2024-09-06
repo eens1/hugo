@@ -1,9 +1,8 @@
 ---
 title: "Caput 60"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Surge illuminare Ierusalem: quia venit lumen tuum, et gloria Domini super te orta est.

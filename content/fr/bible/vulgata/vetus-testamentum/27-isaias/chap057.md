@@ -1,9 +1,8 @@
 ---
 title: "Caput 57"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Iustus perit, et non est qui recogitet in corde suo: et viri misericordiæ colliguntur, quia non est qui intelligat, a facie enim malitiæ collectus est iustus.

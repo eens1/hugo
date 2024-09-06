@@ -1,9 +1,8 @@
 ---
 title: "Chapter 17"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 In the twelfth year of Achaz king of Juda, Osee the son of Ela reigned in Samaria, over Israel, nine years.

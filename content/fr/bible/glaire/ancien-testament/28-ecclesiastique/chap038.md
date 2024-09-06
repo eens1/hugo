@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 38"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Honorer les médecins ; se servir de leurs remèdes.
+  Prier le Seigneur ; se purifier de ses péchés.
+  Pleurer la mort de ses amis avec modération, se souvenir qu’on doit aussi mourir.
+  Repos nécessaire pour acquérir la sagesse.
+  La prière sanctifie le travail.
 ---
-
-
-Honorer les médecins ; se servir de leurs remèdes.
-Prier le Seigneur ; se purifier de ses péchés.
-Pleurer la mort de ses amis avec modération, se souvenir qu’on doit aussi mourir.
-Repos nécessaire pour acquérir la sagesse.
-La prière sanctifie le travail.
 
 
 1 Honore le médecin, à cause de la nécessité ; car le Très-Haut l'a créé. 2 Car toute médecine vient de Dieu, et recevra du roi des présents. 3 La science du médecin élèvera sa tête, et en présence des grands il sera loué.

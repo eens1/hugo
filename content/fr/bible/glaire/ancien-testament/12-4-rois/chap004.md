@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Elisée augmente l’huile d’une pauvre femme.
+  Il obtient de Dieu un enfant à une pauvre Sunamite : cet enfant meurt, et il ressuscite.
+  Il adoucit l’amertume de quelques herbes, et rassasie cent personnes avec quelques pains.
 ---
-
-
-Elisée augmente l’huile d’une pauvre femme.
-Il obtient de Dieu un enfant à une pauvre Sunamite : cet enfant meurt, et il ressuscite.
-Il adoucit l’amertume de quelques herbes, et rassasie cent personnes avec quelques pains.
 
 
 1 Or une certaine femme d'entre les femmes des prophètes criait à Elisée, disant : Ton serviteur, mon mari, est mort; et toi, tu sais que ton serviteur fut craignant le Seigneur : et voilà qu'un créancier vient, afin de prendre mes deux fils pour le servir. 2 Elisée lui dit : Que veux-tu que je fasse pour toi? Dis-moi, qu'as-tu dans ta maison? Et elle répondit : Je n'ai, moi ta servante, dans ma maison qu'un peu d'huile dont je m'oins. 3 Il lui dit : Va, emprunte de tes voisines un grand nombre de vases vides, 4 Puis rentre, et ferme ta porte, lorsque tu seras dedans, toi et tes fils ; verse de cette huile dans tous ces vases; et quand ils seront pleins, tu les emporteras. 5 C'est pourquoi cette femme s'en alla et ferma la porte sur elle et sur ses fils ; ceux-ci lui présentaient les vases, et elle y versait l'huile. 6 Et lorsque les vases furent pleins, elle dit à son fils : Apporte-moi encore un vase. Et il lui répondit : Je n'en ai point. Et l'huile s'arrêta. 7 Or cette femme vint et raconta tout à l'homme de

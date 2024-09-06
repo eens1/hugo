@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 114"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste délivré par le secours du Seigneur de la mort dont il était menacé, lui témoigne sa gratitude, son amour et sa confiance.
+  Alleluia.
 ---
-
-
-Le Psalmiste délivré par le secours du Seigneur de la mort dont il était menacé, lui témoigne sa gratitude, son amour et sa confiance.
-Alleluia.
 
 
 1 Alléluia. J'ai aimé, parce que le Seigneur exaucera la voix de ma prière.

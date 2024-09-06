@@ -1,9 +1,8 @@
 ---
 title: "Chap. 8 - Monastères sans visiteurs réguliers ordinaires"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Tous les monastères qui ne sont point soumis à des chapitres généraux ou aux évêques, et qui n'ont point leurs visiteurs réguliers ordinaires, mais qui ont coutume d'être régis sous la protection et direction immédiate du Siege apostolique, seront tenus dans l'année après la clôture du présent Concile, et ensuite tous les trois ans, de se réunir en congrégation, selon la forme de la Constitution d'Innocent III au concile général, laquelle commence, In singulis, et là seront députées certaines personnes régulières pour délibérer et ordonner touchant l'ordre et la manière de former lesdites congrégations et d'exécuter les statuts qui auront été faits. 

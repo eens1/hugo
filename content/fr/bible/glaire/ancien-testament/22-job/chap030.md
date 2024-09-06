@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 30"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Job décrit l’état où il est tombé.
 ---
-
-
-Job décrit l’état où il est tombé.
 
 
 1 Mais maintenant je suis tourné en ridicule par des hommes plus jeunes que moi, dont autrefois je n'aurais pas daigné mettre les pères avec les chiens de mon troupeau ;

@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 42"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Arrivée des frères de Joseph en Egypte.
+  Joseph fait arrêter Siméon, et ne renvoie les autres qu’à condition qu’ils amèneront (amènent) Benjamin.
 ---
-
-
-Arrivée des frères de Joseph en Egypte.
-Joseph fait arrêter Siméon, et ne renvoie les autres qu’à condition qu’ils amèneront (amènent) Benjamin.
 
 
 1 Or Jacob apprenant que l'on vendait des vivres en Egypte, dit à ses fils : Pourquoi êtes-vous si négligents? 2 J'ai appris qu'on vend du blé en Egypte; descendez-y, et achetez ce qui nous est nécessaire, afin que nous puissions vivre, et que nous ne soyons pas consumés par la disette. 3 Ainsi, descendant pour acheter du blé en Egypte, les dix frères de Joseph4 (Benjamin ayant été retenu dans la maison par Jacob qui avait dit à ses frères : C'est de peur qu'en chemin il n'éprouve quelque accident)5 Entrèrent dans la terre d'Egypte avec d'autres qui allaient pour en acheter; car la famine était dans la terre de Chanaan.

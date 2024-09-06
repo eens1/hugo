@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Saint Paul exhorte les Philippiens à demeurer fermes dans le Seigneur.
+  Il leur recommande ses coopérateurs.
+  Il leur souhaite la paix.
+  Il loue leur libéralité, et leur souhaite la récompense.
+  Salutations.
 ---
-
-
-Saint Paul exhorte les Philippiens à demeurer fermes dans le Seigneur.
-Il leur recommande ses coopérateurs.
-Il leur souhaite la paix.
-Il loue leur libéralité, et leur souhaite la récompense.
-Salutations.
 
 
 1 C'est pourquoi, mes frères très chers et très désirés, ma gloire et ma couronne, demeurez ainsi fermes dans le Seigneur, mes bien-aimés,

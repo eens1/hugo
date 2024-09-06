@@ -1,9 +1,8 @@
 ---
 title: "Caput 17"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:46+02:00
 draft: false
 ---
-
 
 
 1 Et ait ad discipulos suos: Impossibile est ut non veniant scandala: væ autem illi, per quem veniunt.

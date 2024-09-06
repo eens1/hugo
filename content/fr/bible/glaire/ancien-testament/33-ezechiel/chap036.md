@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 36"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Promesse du retour des enfants d’Israël et du rétablissement de leur terre.
+  Ce ne sera pas à cause de leurs mérites, mais pour la gloire du Seigneur.
+  Dieu leur donnera un cœur et un esprit nouveaux.
+  Les biens dont il les comblera le feront reconnaître pour le Seigneur.
 ---
-
-
-Promesse du retour des enfants d’Israël et du rétablissement de leur terre.
-Ce ne sera pas à cause de leurs mérites, mais pour la gloire du Seigneur.
-Dieu leur donnera un cœur et un esprit nouveaux.
-Les biens dont il les comblera le feront reconnaître pour le Seigneur.
 
 
 1 Mais toi, fils d'un homme, prophétise sur les montagnes d'Israël, et tu diras : Montagnes d'Israël, écoutez la parole du Seigneur;

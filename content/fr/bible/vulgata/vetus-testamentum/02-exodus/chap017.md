@@ -1,9 +1,8 @@
 ---
 title: "Caput 17"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Igitur profecta omnis multitudo filiorum Israel de deserto Sin per mansiones suas, iuxta sermonem Domini, castrametati sunt in Raphidim, ubi non erat aqua ad bibendum populo.

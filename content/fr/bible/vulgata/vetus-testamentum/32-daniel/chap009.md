@@ -1,9 +1,8 @@
 ---
 title: "Caput 9"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 In anno primo Darii filii Assueri de semine Medorum, qui imperavit super regnum Chaldæorum:

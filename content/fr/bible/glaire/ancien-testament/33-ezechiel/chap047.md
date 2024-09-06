@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 47"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:42+02:00
 draft: false
+summary: |
+  
+  Eaux qui sortent de dessous la porte orientale du temple, et qui, se grossissant à mesure qu’elles avancent, vont se rendre dans la mer Morte dont elles assainissent les eaux.
+  Limites de la terre d’Israël.
 ---
-
-
-Eaux qui sortent de dessous la porte orientale du temple, et qui, se grossissant à mesure qu’elles avancent, vont se rendre dans la mer Morte dont elles assainissent les eaux.
-Limites de la terre d’Israël.
 
 
 1 Et il me fit revenir vers la porte de la maison; et voici que des eaux sortaient de dessous le seuil vers l'orient; car la face de la maison regardait vers l'orient; or les eaux descendaient au côté droit du temple, vers le midi de l'autel.

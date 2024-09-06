@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Adoration des Mages.
+  Fuite de Jésus en Egypte.
+  Meurtre des enfants de Bethléem par Hérode.
+  Retour de Jésus de l’Egypte.
 ---
-
-
-Adoration des Mages.
-Fuite de Jésus en Egypte.
-Meurtre des enfants de Bethléem par Hérode.
-Retour de Jésus de l’Egypte.
 
 
 1 Lors donc que Jésus fut né en Bethléem de Juda, aux jours du roi Hérode, voilà que des mages vinrent de l'Orient à Jérusalem,

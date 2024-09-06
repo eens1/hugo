@@ -1,9 +1,8 @@
 ---
 title: "Chapter 32"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 And the people seeing that Moses delayed to come down from the mount, gathering together against Aaron, said: Arise, make us gods, that may go before us: For as to this Moses, the man that brought us out of the land of Egypt, we know not what has befallen him.

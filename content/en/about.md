@@ -1,9 +1,8 @@
 ---
 title: "About"
-date: 2024-09-06T18:40:35+02:00
+date: 2024-09-06T20:00:23+02:00
 draft: false
 ---
-
 
 
 This site promotes the traditional Catholic faith necessary for salvation. It is produced and administered by Bro. Matthieu of Versoix, O.F.M.Cap.

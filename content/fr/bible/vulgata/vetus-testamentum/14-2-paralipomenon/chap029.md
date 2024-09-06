@@ -1,9 +1,8 @@
 ---
 title: "Caput 29"
-date: 2024-09-06T18:40:55+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Igitur Ezechias regnare cœpit, cum vigintiquinque esset annorum, et vigintinovem annis regnavit in Ierusalem: nomen matris eius Abia, filia Zachariæ.

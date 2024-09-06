@@ -1,9 +1,8 @@
 ---
 title: "Chapter 18"
-date: 2024-09-06T18:40:37+02:00
+date: 2024-09-06T20:00:26+02:00
 draft: false
 ---
-
 
 
 1 And when Jethro the priest of Madian, the kinsman of Moses, had heard all the things that God had done to Moses, and to Israel his people, and that the Lord had brought forth Israel out of Egypt:

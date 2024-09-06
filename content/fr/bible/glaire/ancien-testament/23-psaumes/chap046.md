@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 46"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Ce psaume convient à Jésus-Christ montant au ciel et régnant dans son Eglise.
+  Le Psalmiste exhorte toutes les nations à le louer à la vue de sa grandeur et de sa puissance.
 ---
-
-
-Ce psaume convient à Jésus-Christ montant au ciel et régnant dans son Eglise.
-Le Psalmiste exhorte toutes les nations à le louer à la vue de sa grandeur et de sa puissance.
 
 
 1 Pour la fin, pour les fils de Coré, psaume.

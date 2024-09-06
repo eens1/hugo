@@ -1,9 +1,8 @@
 ---
 title: "Chap. 2 - La réserve des péchés (893-900)"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:56+02:00
 draft: false
 ---
-
 
 
 **893**

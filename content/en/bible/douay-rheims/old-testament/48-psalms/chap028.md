@@ -1,9 +1,8 @@
 ---
 title: "Chapter 28"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:30+02:00
 draft: false
 ---
-
 
 
 1 A psalm for David, at the finishing of the tabernacle. Bring to the Lord, O ye children of God: bring to the Lord the offspring of rams.

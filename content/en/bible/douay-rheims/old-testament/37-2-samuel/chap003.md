@@ -1,9 +1,8 @@
 ---
 title: "Chapter 3"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:27+02:00
 draft: false
 ---
-
 
 
 1 Now there was a long war between the house of Saul and the house of David: David prospering and growing always stronger and stronger, but the house of Saul decaying daily.

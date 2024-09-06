@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Folie de celui qui en s’embarquant invoque une idole.
+  Prophétie de la ruine de l’idolâtrie.
+  Origine de l’idolâtrie.
+  Maux dont elle est la source.
 ---
-
-
-Folie de celui qui en s’embarquant invoque une idole.
-Prophétie de la ruine de l’idolâtrie.
-Origine de l’idolâtrie.
-Maux dont elle est la source.
 
 
 1 Un autre encore, pensant a naviguer, et commençant à faire route à travers les flots impétueux, invoque un bois plus fragile que celui qui le porte. 2 Car le désir d'acquérir l'a inventé, et un ouvrier l'a fabriqué par son adresse.

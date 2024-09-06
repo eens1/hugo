@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Distinction des animaux purs et des animaux impurs.
 ---
-
-
-Distinction des animaux purs et des animaux impurs.
 
 
 1 Le Seigneur parla encore à Moïse et à Aaron, disant :2 Dites aux enfants d'Israël : Voici les animaux que vous devez manger, d'entre tous les animaux de la terre :

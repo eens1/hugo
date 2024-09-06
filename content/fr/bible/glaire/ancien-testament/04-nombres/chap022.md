@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 22"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Les Israélites campent dans les plaines de Moab.
+  Balac, roi des Moabites envoie chercher le devin Balaam.
 ---
-
-
-Les Israélites campent dans les plaines de Moab.
-Balac, roi des Moabites envoie chercher le devin Balaam.
 
 
 1 Et étant partis, ils campèrent dans les plaines de Moab, vis-à-vis de l'endroit où est situé Jéricho, au-delà du Jourdain.

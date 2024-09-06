@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Murmures des Israélites à Raphidim.
+  Dieu fait sortir l’eau du rocher.
+  Défaite des Amalécites.
 ---
-
-
-Murmures des Israélites à Raphidim.
-Dieu fait sortir l’eau du rocher.
-Défaite des Amalécites.
 
 
 1 Ainsi toute la multitude des enfants d'Israël étant partie du désert de Sin, et ayant fait des séjours, selon les paroles du Seigneur, ils campèrent à Raphidim, où il n'y avait pas d'eau à boire pour le peuple,

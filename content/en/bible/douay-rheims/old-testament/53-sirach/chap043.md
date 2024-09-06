@@ -1,9 +1,8 @@
 ---
 title: "Chapter 43"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 The firmament on high is his beauty, the beauty of heaven with its glorious shew.

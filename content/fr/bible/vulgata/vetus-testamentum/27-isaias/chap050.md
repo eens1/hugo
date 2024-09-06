@@ -1,9 +1,8 @@
 ---
 title: "Caput 50"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Hæc dicit Dominus: Quis est hic liber repudii matris vestræ, quo dimisi eam? aut quis est creditor meus, cui vendidi vos? ecce in iniquitatibus vestris venditi estis, et in sceleribus vestris dimisi matrem vestram.

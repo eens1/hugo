@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 84"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste loue Dieu d’avoir délivré son peuple de la captivité, et il le prie de l’établir dans une paix solide, et une parfaite tranquillité.
+  Il y a dans ce psaume plusieurs passages qui peuvent s’appliquer au peuple chrétien racheté du péché et de la mort par Jésus-Christ.
 ---
-
-
-Le Psalmiste loue Dieu d’avoir délivré son peuple de la captivité, et il le prie de l’établir dans une paix solide, et une parfaite tranquillité.
-Il y a dans ce psaume plusieurs passages qui peuvent s’appliquer au peuple chrétien racheté du péché et de la mort par Jésus-Christ.
 
 
 1 Pour la fin, aux fils de Coré, psaume.

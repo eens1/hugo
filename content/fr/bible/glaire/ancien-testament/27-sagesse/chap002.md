@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Faux raisonnement des impies qui nient l’immortalité de l’âme, et qui mettent le souverain bien dans la jouissance des plaisirs sensibles.
+  Leur haine contre le juste.
+  Le démon auteur de la mort.
 ---
-
-
-Faux raisonnement des impies qui nient l’immortalité de l’âme, et qui mettent le souverain bien dans la jouissance des plaisirs sensibles.
-Leur haine contre le juste.
-Le démon auteur de la mort.
 
 
 1 Ils ont dit, en effet, pensant faussement en eux-mêmes : Il est court et plein d'ennui le temps de notre vie, et il n'est pas de jouissance à la fin de l'homme, et il n'est personne qu'on sache être revenu des enfers ;

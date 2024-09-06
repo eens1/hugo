@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Ruine de Samarie.
+  Israël est exhorté à se convertir au Seigneur.
+  Biens dont le Seigneur comblera les enfants d’Israël au temps de leur retour.
 ---
-
-
-Ruine de Samarie.
-Israël est exhorté à se convertir au Seigneur.
-Biens dont le Seigneur comblera les enfants d’Israël au temps de leur retour.
 
 
 1 Périsse Samarie, puisqu'elle a poussé son Dieu à l'exaspération ; qu'ils périssent par le glaive, que leurs petits enfants soient écrasés, et que ses femmes enceintes soient coupées en deux.

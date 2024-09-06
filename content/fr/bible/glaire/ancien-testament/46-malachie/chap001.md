@@ -1,14 +1,14 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Ingratitude des Israélites envers le Seigneur.
+  Mépris des prêtres pour son autel.
+  On lui offrira en tout lieu une oblation pure.
+  Son nom sera respecté parmi les nations.
 ---
-
-
-Ingratitude des Israélites envers le Seigneur.
-Mépris des prêtres pour son autel.
-On lui offrira en tout lieu une oblation pure.
-Son nom sera respecté parmi les nations.
 
 
 1 Malheur accablant de la parole du Seigneur, adressée à Israël, par l'entremise de Malachie.

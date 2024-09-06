@@ -1,9 +1,8 @@
 ---
 title: "Chapter 10"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 1 Ask ye of the Lord rain in the latter season, and the Lord will make snows, and will give them showers of rain, to every one grass in the field.

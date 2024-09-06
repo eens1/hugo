@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Sincérité des Apôtres dans l’exercice du ministère évangélique.
+  Incrédulité des réprouvés.
+  Force des Apôtres au milieu des persécutions.
+  Récompense éternelle pour les peines si courtes de cette vie.
+  Les choses visibles passent.
 ---
-
-
-Sincérité des Apôtres dans l’exercice du ministère évangélique.
-Incrédulité des réprouvés.
-Force des Apôtres au milieu des persécutions.
-Récompense éternelle pour les peines si courtes de cette vie.
-Les choses visibles passent.
 
 
 1 C'est pourquoi, chargés de ce ministère en vertu de la miséricorde que nous avons obtenue, nous ne perdons pas courage ; 2 Mais nous repoussons de nous les passions honteuses qui se cachent, ne marchant point dans l'artifice, et n'altérant point la parole de Dieu, mais nous recommandant, par la manifestation de la vérité, à toute conscience d'homme devant Dieu.

@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 26"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Troisième dénombrement des enfants d’Israël.
 ---
-
-
-Troisième dénombrement des enfants d’Israël.
 
 
 1 Après que le sang des coupables eut été répandu, le Seigneur dit à Moïse et à Eléazar, le prêtre, fils d'Aaron:2 Faites le dénombrement complet des enfants d'Israël depuis vingt ans et au-dessus, selon leurs maisons et leur parenté, de tous ceux qui peuvent aller aux combats.

@@ -1,9 +1,8 @@
 ---
 title: "Caput 25"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:50+02:00
 draft: false
 ---
-
 
 
 1 Mortuus est autem Samuel, et congregatus est universus Israel, et planxerunt eum, et sepelierunt eum in domo sua in Ramatha. Consurgensque David descendit in desertum Pharan.

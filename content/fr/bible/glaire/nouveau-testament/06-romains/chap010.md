@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Zèle sans science des Juifs.
+  Ils s’efforcent d’établir leur propre justice, et rejettent celle qui vient de Dieu par la foi.
+  Il faut que la bouche confesse ce que le coeur croit.
+  Prédicateurs envoyés.
+  Election des gentils.
+  Incrédulité des Juifs.
 ---
-
-
-Zèle sans science des Juifs.
-Ils s’efforcent d’établir leur propre justice, et rejettent celle qui vient de Dieu par la foi.
-Il faut que la bouche confesse ce que le coeur croit.
-Prédicateurs envoyés.
-Election des gentils.
-Incrédulité des Juifs.
 
 
 1 Assurément, mes frères, le désir de mon coeur et mes supplications à Dieu ont pour objet leur salut. 2 Car je leur rends ce témoignage qu'ils ont du zèle pour Dieu, mais non selon la science, 3 Parce que, ignorant la justice de Dieu, et cherchant à établir la leur, ils ne sont pas soumis à la justice de Dieu. 4 Car la fin de la loi est le Christ, pour justifier tout croyant.

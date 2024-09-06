@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 7"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:44+02:00
 draft: false
+summary: |
+  
+  Scandale des pharisiens sur ce que les disciples de Jésus mangeaient sans avoir lavé leurs mains.
+  Guérison de la fille de la Chananéenne.
+  Guérison d’un homme sourd et muet.
 ---
-
-
-Scandale des pharisiens sur ce que les disciples de Jésus mangeaient sans avoir lavé leurs mains.
-Guérison de la fille de la Chananéenne.
-Guérison d’un homme sourd et muet.
 
 
 1 Et les pharisiens et quelques scribes venus de Jérusalem, s'assemblèrent auprès de Jésus; 2 Et ayant vu quelques-uns de ses disciples manger du pain avec des mains impures, c'est-à-dire qui n'avaient pas été lavées, ils les en blâmèrent.

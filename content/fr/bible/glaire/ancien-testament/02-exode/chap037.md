@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 37"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Béséléel fait l’arche, la table des pains de proposition, le chandelier, l’autel du parfum, et compose le parfum lui-même.
 ---
-
-
-Béséléel fait l’arche, la table des pains de proposition, le chandelier, l’autel du parfum, et compose le parfum lui-même.
 
 
 1 Or Béséléel fit aussi l'arche de bois de sétim, ayant deux coudées et demie en longueur, et une coudée et demie en largeur; la hauteur aussi était d'une coudée et demie ; et il la revêtit d'un or très pur au dedans et au dehors.

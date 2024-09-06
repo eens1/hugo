@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 37"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Consternation d’Ezéchias.
+  Isaïe le rassure.
+  Blasphèmes de Sennachérib.
+  Prière d’Ezéchias.
+  Isaïe lui promet le secours du Seigneur.
+  L’ange du Seigneur extermine l’armée de Sennachérib.
 ---
-
-
-Consternation d’Ezéchias.
-Isaïe le rassure.
-Blasphèmes de Sennachérib.
-Prière d’Ezéchias.
-Isaïe lui promet le secours du Seigneur.
-L’ange du Seigneur extermine l’armée de Sennachérib.
 
 
 1 Et il arriva que lorsque le roi Ezéchias les eut entendues, il déchira ses vêtements, et se couvrit d'un sac, et entra dans la maison du Seigneur.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Le jeune Tobie et Raphaël arrivent à Ninive.
+  Tobie recouvre la vue.
+  Sara arrive, on célèbre la noce.
 ---
-
-
-Le jeune Tobie et Raphaël arrivent à Ninive.
-Tobie recouvre la vue.
-Sara arrive, on célèbre la noce.
 
 
 1 Comme ils s'en retournaient, ils arrivèrent à Charan, qui est à moitié chemin, en allant vers Ninive, le onzième jour,

@@ -1,9 +1,8 @@
 ---
 title: "Caput 5"
-date: 2024-09-06T18:40:52+02:00
+date: 2024-09-06T20:00:48+02:00
 draft: false
 ---
-
 
 
 1 Omnis, qui credit, quoniam Iesus est Christus, ex Deo natus est. Et omnis, qui diligit eum qui genuit, diligit et eum qui natus est ex eo.

@@ -1,9 +1,8 @@
 ---
 title: "Chapter 27"
-date: 2024-09-06T18:40:40+02:00
+date: 2024-09-06T20:00:31+02:00
 draft: false
 ---
-
 
 
 1 Boast not for to morrow, for thou knowest not what the day to come may bring forth.

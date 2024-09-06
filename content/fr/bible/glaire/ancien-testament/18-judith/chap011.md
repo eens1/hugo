@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 11"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Holoferne demande à Judith pourquoi elle a quitté son peuple pour venir vers lui.
+  Elle lui répond en flattant ses espérances, et il lui fait de grandes promesses.
 ---
-
-
-Holoferne demande à Judith pourquoi elle a quitté son peuple pour venir vers lui.
-Elle lui répond en flattant ses espérances, et il lui fait de grandes promesses.
 
 
 1 Alors Holoferne lui dit : Ayez l'esprit calme, et ne craignez pas en votre cœur, parce que je n'ai jamais nui à un homme qui a voulu servir le roi Nabuchodonosor. 2 Et si votre peuple ne m'avait point méprisé, je n'aurais pas levé ma lance sur lui. 3 Mais maintenant, dites-moi par quel motif vous êtes-vous retirée d'eux, et vous a-t-il plu de venir vers nous?

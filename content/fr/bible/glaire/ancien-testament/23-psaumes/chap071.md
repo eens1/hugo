@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 71"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:39+02:00
 draft: false
+summary: |
+  
+  David prie le Seigneur de combler de ses lumières et des grâces Salomon, qui venait de monter sur le trône.
+  Il prédit la grandeur et la félicité de son règne, et sous la figure du règne de Salomon, il décrit celui de Jésus-Christ.
 ---
-
-
-David prie le Seigneur de combler de ses lumières et des grâces Salomon, qui venait de monter sur le trône.
-Il prédit la grandeur et la félicité de son règne, et sous la figure du règne de Salomon, il décrit celui de Jésus-Christ.
 
 
 1 Psaume pour Salomon.

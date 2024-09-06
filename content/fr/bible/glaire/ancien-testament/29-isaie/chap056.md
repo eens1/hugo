@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 56"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:41+02:00
 draft: false
+summary: |
+  
+  Bonheur de ceux qui observent les commandements de Dieu.
+  L’étranger et l’eunuque reçus parmi le peuple du Seigneur.
+  Reproches contre les pasteurs et les gardes de Jérusalem.
 ---
-
-
-Bonheur de ceux qui observent les commandements de Dieu.
-L’étranger et l’eunuque reçus parmi le peuple du Seigneur.
-Reproches contre les pasteurs et les gardes de Jérusalem.
 
 
 1 Voici ce que dit le Seigneur: Gardez le jugement et pratiquez la justice; parce que mon salut est près de venir, et ma justice, d'être révélée.

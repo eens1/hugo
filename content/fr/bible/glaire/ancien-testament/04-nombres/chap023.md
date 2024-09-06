@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 23"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:35+02:00
 draft: false
+summary: |
+  
+  Balaam bénit par deux fois les Israélites au lieu de maudire.
 ---
-
-
-Balaam bénit par deux fois les Israélites au lieu de maudire.
 
 
 1 Alors Balaam dit à Balac : Bâtis-moi ici sept autels et prépare autant de veaux, et des béliers en même nombre. 2 Et, lorsqu'il eut fait selon la parole de Balaam, ils placèrent ensemble un veau et un bélier sur l'autel. 3 Et Balaam dit à Balac : Tiens-toi un peu auprès de ton holocauste, jusqu'à ce que j'aille voir si par hasard le Seigneur se présentera à moi ; et tout ce qu'il me commandera, je te le dirai.

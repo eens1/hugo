@@ -1,9 +1,8 @@
 ---
 title: "Chapter 16"
-date: 2024-09-06T18:40:38+02:00
+date: 2024-09-06T20:00:28+02:00
 draft: false
 ---
-
 
 
 1 So they brought the ark of God, and set it in the midst of the tent, which David had pitched for it: and they offered holocausts, and peace offerings before God.

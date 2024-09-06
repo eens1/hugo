@@ -1,9 +1,8 @@
 ---
 title: "Caput 42"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 Et eduxit me in atrium exterius per viam ducentem ad Aquilonem, et introduxit me in gazophylacium, quod erat contra separatum ædificium, et contra ædem vergentem ad Aquilonem.

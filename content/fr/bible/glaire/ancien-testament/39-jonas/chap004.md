@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 4"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Jonas s’afflige de ce que sa prophétie n’est pas accomplie.
+  Le Seigneur lui fait comprendre les raisons qui l’ont porté à pardonner à Ninive.
 ---
-
-
-Jonas s’afflige de ce que sa prophétie n’est pas accomplie.
-Le Seigneur lui fait comprendre les raisons qui l’ont porté à pardonner à Ninive.
 
 
 1 Et Jonas fut affligé d'une grande affliction, et il s'irrita;

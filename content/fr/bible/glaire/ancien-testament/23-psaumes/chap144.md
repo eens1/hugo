@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 144"
-date: 2024-09-06T18:40:47+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Le Psalmiste relève la bonté et la grandeur du Seigneur.
+  Il invite toutes les créatures à se joindre à lui pour bénir son saint nom.
 ---
-
-
-Le Psalmiste relève la bonté et la grandeur du Seigneur.
-Il invite toutes les créatures à se joindre à lui pour bénir son saint nom.
 
 
 1 Louange à David (ou de David lui-même). Je vous exalterai, ô mon Dieu, roi : je bénirai votre nom dans les siècles, et dans les siècles des siècles.

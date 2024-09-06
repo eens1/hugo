@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:50+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Lettre vivante écrite sur les tables du coeur par le Saint-Esprit.
+  Nulle bonne pensée, si Dieu ne la donne.
+  Ministère de la lettre et de l’esprit, de mort et de vie.
+  Voile sur le coeur des Juifs.
+  Transformation par le Saint-Esprit.
 ---
-
-
-Lettre vivante écrite sur les tables du coeur par le Saint-Esprit.
-Nulle bonne pensée, si Dieu ne la donne.
-Ministère de la lettre et de l’esprit, de mort et de vie.
-Voile sur le coeur des Juifs.
-Transformation par le Saint-Esprit.
 
 
 1 Commencerons-nous de nouveau à nous recommander nous-mêmes? ou (comme quelques-uns) avons-nous besoin de lettres de recommandation auprès de vous, ou même de vous? 2 Vous êtes vous-mêmes notre lettre, écrite dans nos coeurs, laquelle est connue et lue de tous les hommes, 3 Etant manifestement reconnus pour être la lettre du Christ écrite par notre ministère, non avec de l'encre, mais avec l'Esprit du Dieu vivant; non sur des tables de pierre, mais sur les tables charnelles du coeur.

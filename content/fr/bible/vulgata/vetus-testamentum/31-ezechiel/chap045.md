@@ -1,9 +1,8 @@
 ---
 title: "Caput 45"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:55+02:00
 draft: false
 ---
-
 
 
 1 Cumque cœperitis terram dividere sortito, separate primitias Domino, sanctificatum de terra, longitudine vigintiquinque millia, et latitudine decem millia: sanctificatum erit in omni termino eius per circuitum.

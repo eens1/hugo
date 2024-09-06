@@ -1,15 +1,15 @@
 ---
 title: "Chapitre 25"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Mort de Samuel.
+  David se retire dans le désert de Pharan.
+  Nabal lui refuse des vivres : Abigaïl apaise David.
+  Nabal meurt.
+  David épouse Abigaïl et Achinoam, et Michol est donnée à Phalti.
 ---
-
-
-Mort de Samuel.
-David se retire dans le désert de Pharan.
-Nabal lui refuse des vivres : Abigaïl apaise David.
-Nabal meurt.
-David épouse Abigaïl et Achinoam, et Michol est donnée à Phalti.
 
 
 1 Or, Samuel mourut, et tout Israël fut assemblé ; et ils le pleurèrent, et ils l'ensevelirent dans sa maison à Ramatha. Et David, se levant, descendit dans le désert de Pharan.

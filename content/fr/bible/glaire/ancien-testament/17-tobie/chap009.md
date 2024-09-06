@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 9"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  L’ange va trouver Gabélus, reçoit de lui l’argent, et l’amène aux noces de Tobie.
 ---
-
-
-L’ange va trouver Gabélus, reçoit de lui l’argent, et l’amène aux noces de Tobie.
 
 
 1 Alors Tobie appela vers lui l'ange, qu'il croyait certainement être un homme, et lui dit : Azarias, mon frère, je demande que tu écoutes mes paroles. 2 Quand je me livrerais à toi comme esclave, je ne serais pas dignement reconnaissant de tes soins.

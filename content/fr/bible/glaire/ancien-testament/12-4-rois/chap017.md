@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 17"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:37+02:00
 draft: false
+summary: |
+  
+  Siège de Samarie par Salmanasar.
+  La ville est prise et les Israélites transportés dans l’Assyrie.
+  Colonies envoyées dans Samarie à la place des Israélites.
 ---
-
-
-Siège de Samarie par Salmanasar.
-La ville est prise et les Israélites transportés dans l’Assyrie.
-Colonies envoyées dans Samarie à la place des Israélites.
 
 
 1 En la douzième année d'Achaz, roi de Juda, Osée, fils d'Ela, régna à Samarie sur Israël pendant neuf ans. 2 Et il fit le mal devant le Seigneur, mais non comme les rois d'Israël qui furent avant lui. 3 Salmanasar, roi des Assyriens, monta contre lui, et Osée fut asservi à Salmanasar, roi des Assyriens, et il lui payait des tributs.

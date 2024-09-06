@@ -1,9 +1,8 @@
 ---
 title: "Chapter 8"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 On that day king Assuerus gave the house of Aman, the Jews' enemy, to queen Esther, and Mardochai came in before the king. For Esther had confessed to him that he was her uncle.

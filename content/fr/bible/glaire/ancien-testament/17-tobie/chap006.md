@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 6"
-date: 2024-09-06T18:40:46+02:00
+date: 2024-09-06T20:00:38+02:00
 draft: false
+summary: |
+  
+  Le jeune Tobie étant en route, un poisson veut le dévorer.
+  Tobie le prend par ordre de l’ange.
+  L’ange lui conseille d’épouser Sara, fille de Raguel.
 ---
-
-
-Le jeune Tobie étant en route, un poisson veut le dévorer.
-Tobie le prend par ordre de l’ange.
-L’ange lui conseille d’épouser Sara, fille de Raguel.
 
 
 1 Tobie partit donc, et le chien le suivit; et il s'arrêta à la première hôtellerie près du fleuve du Tigre.

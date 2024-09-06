@@ -1,9 +1,8 @@
 ---
 title: "Saint François guérit un lépreux de l'âme et du corps"
-date: 2024-09-06T18:40:43+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
-
 
 
 *Source: Riche 1847, pp. 93-146*.

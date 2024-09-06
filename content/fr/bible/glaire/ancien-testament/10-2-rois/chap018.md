@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 18"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  Victoire de l’armée de David contre Absalom, qui, en s’enfuyant, demeure suspendu à un arbre.
+  Joab le perce.
+  David pleure sa mort.
 ---
-
-
-Victoire de l’armée de David contre Absalom, qui, en s’enfuyant, demeure suspendu à un arbre.
-Joab le perce.
-David pleure sa mort.
 
 
 1 Ainsi David, son peuple passé en revue, établit sur eux des tribuns et des centurions. 2 Et il mit une troisième partie de ses troupes sous la main de Joab, une troisième partie sous la main d'Abisaï, fils de Sarvia, frère de Joab, et une troisième partie sous la main d'Ethaï, qui était de Geth; et le roi dit au peuple : J'irai moi aussi avec vous. 3 Et le peuple répondit : Vous ne sortirez point; car si nous fuyons, ils n'attacheront pas beaucoup d'importance à nous; et si la moitié de nous tombe, ils n'y prendront pas assez d'intérêt, parce que vous seul, vous êtes compté pour dix mille. Il vaut donc mieux que vous nous soyez un appui dans la ville. 4 Le roi leur dit : Je ferai ce qui vous semble bon. Le roi donc s'arrêta près de la porte : et le peuple sortait selon ses bandes, par cent et par mille.

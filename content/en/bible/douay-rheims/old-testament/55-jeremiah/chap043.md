@@ -1,9 +1,8 @@
 ---
 title: "Chapter 43"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 And it came to pass, that when Jeremiah had made an end of speaking to the people all the words of the Lord their God, for which the Lord their God had sent him to them, all these words:

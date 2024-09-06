@@ -1,9 +1,8 @@
 ---
 title: "Chapter 43"
-date: 2024-09-06T18:40:41+02:00
+date: 2024-09-06T20:00:32+02:00
 draft: false
 ---
-
 
 
 1 And now thus saith the Lord that created thee, O Jacob, and formed thee, O Israel: Fear not, for I have redeemed thee, and called thee by thy name: thou art mine.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 8"
-date: 2024-09-06T18:40:48+02:00
+date: 2024-09-06T20:00:40+02:00
 draft: false
+summary: |
+  
+  Excellence de la sagesse.
+  Avantages que l’on trouve dans la possession de la sagesse.
+  C’est de Dieu qu’on la reçoit.
 ---
-
-
-Excellence de la sagesse.
-Avantages que l’on trouve dans la possession de la sagesse.
-C’est de Dieu qu’on la reçoit.
 
 
 1 La sagesse, au contraire, atteint avec force d'une extrémité à une autre extrémité, et dispose toutes choses avec douceur.

@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 3"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Crimes de Ninive ; vengeances du Seigneur sur elle.
+  Exemple qui lui est proposé dans la désolation de No-Ammon.
+  Désolation et ruine de Ninive.
 ---
-
-
-Crimes de Ninive ; vengeances du Seigneur sur elle.
-Exemple qui lui est proposé dans la désolation de No-Ammon.
-Désolation et ruine de Ninive.
 
 
 1 Malheur, cité de sang, tout entière au mensonge, pleine de brigandages ; la rapine ne te quittera pas.

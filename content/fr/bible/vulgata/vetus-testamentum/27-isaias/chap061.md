@@ -1,9 +1,8 @@
 ---
 title: "Caput 61"
-date: 2024-09-06T18:40:57+02:00
+date: 2024-09-06T20:00:54+02:00
 draft: false
 ---
-
 
 
 1 Spiritus Domini super me, eo quod unxerit Dominus me: ad annunciandum mansuetis misit me, ut mederer contritis corde, et prædicarem captivis indulgentiam, et clausis apertionem:

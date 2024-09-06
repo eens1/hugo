@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 27"
-date: 2024-09-06T18:40:45+02:00
+date: 2024-09-06T20:00:36+02:00
 draft: false
+summary: |
+  
+  David se retire de nouveau auprès d’Achis, roi de Geth, qui lui donne Siceleg.
+  Il fait des courses sur les ennemis d’Israël.
 ---
-
-
-David se retire de nouveau auprès d’Achis, roi de Geth, qui lui donne Siceleg.
-Il fait des courses sur les ennemis d’Israël.
 
 
 1 Et David dit en son cœur : Je tomberai enfin un jour dans les mains de Saül. Ne vaut-il pas mieux que je m'enfuie, et que je me sauve dans la terre des Philistins, afin que Saül perde l'espoir et cesse de me chercher dans tous les confins d'Israël? Je fuirai donc ses mains. 2 Ainsi David se leva, et s'en alla, lui et six cents hommes avec lui, vers Achis, fils de Maoch, roi de Geth. 3 Et David habita avec Achis à Geth, lui et ses hommes, chaque homme et sa maison ; et David et ses deux femmes, Achinoam de Jezraël et Abigaïl, femme de Nabal du Carmel. 4 Et l'on annonça à Saül que David s'était enfui à Geth, et il ne continua plus à le chercher.

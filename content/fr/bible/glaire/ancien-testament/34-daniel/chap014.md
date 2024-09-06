@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:49+02:00
+date: 2024-09-06T20:00:43+02:00
 draft: false
+summary: |
+  
+  Daniel découvre l’imposture des prêtres de Bel, fait mourir un dragon adoré par les Babyloniens, est jeté dans la fosse aux lions, et en est délivré.
 ---
-
-
-Daniel découvre l’imposture des prêtres de Bel, fait mourir un dragon adoré par les Babyloniens, est jeté dans la fosse aux lions, et en est délivré.
 
 
 1 Or Daniel était convive du roi, et honoré au-dessus de tous ses amis.

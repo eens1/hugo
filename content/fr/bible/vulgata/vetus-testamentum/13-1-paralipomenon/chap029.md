@@ -1,9 +1,8 @@
 ---
 title: "Caput 29"
-date: 2024-09-06T18:40:54+02:00
+date: 2024-09-06T20:00:51+02:00
 draft: false
 ---
-
 
 
 1 Locutusque est David rex ad omnem ecclesiam: Salomonem filium meum unum elegit Deus, adhuc puerum et tenellum: opus namque grande est, neque enim homini præparatur habitatio, sed Deo.

@@ -1,9 +1,8 @@
 ---
 title: "Caput 16"
-date: 2024-09-06T18:40:53+02:00
+date: 2024-09-06T20:00:49+02:00
 draft: false
 ---
-
 
 
 1 Observa mensem novarum frugum, et verni primum temporis, ut facias Phase Domino Deo tuo: quoniam in isto mense eduxit te Dominus Deus tuus de Ægypto nocte.

@@ -1,9 +1,8 @@
 ---
 title: "Pape Eugene IV, Concile de Bâle"
-date: 2024-09-06T18:40:58+02:00
+date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
-
 
 
 Pape Eugène IV, Council of Basel, Sess. 20, Jan. 22, 1435 : "Pour éviter les scandales et bien des dangers et pour soulager les consciences timorées, ce saint synode décrète que désormais personne ne sera obligé de s'abstenir de communion avec qui que ce soit dans l'administration et la réception des sacrements ou dans toute autre matière sacrée ou profane, ni d'éviter quelqu'un ou d'observer un interdit ecclésiastique, en raison de toute sentence, censure, suspension ou interdiction ecclésiastique qui a été promulguée d'une manière générale par une personne ou par la loi, à moins que la sentence, l'interdiction, la suspension ou la censure n'ait été spécifiquement ou expressément promulguée ou prononcée par un juger contre une personne, un collège, une université, une église ou un lieu déterminé, ou s'il est clair que quelqu'un a encouru une peine d'excommunication avec une telle notoriété qu'elle ne peut être dissimulée ou excusée de quelque manière que ce soit par la loi. Car le synode souhaite que de telles personnes soient évitées conformément aux sanctions canoniques. Cependant, par cela, il n'entend aucun soulagement ou faveur à ceux qui sont ainsi excommuniés, suspendus, interdits ou interdits." [^1]

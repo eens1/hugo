@@ -1,9 +1,8 @@
 ---
 title: "Chapter 3"
-date: 2024-09-06T18:40:39+02:00
+date: 2024-09-06T20:00:29+02:00
 draft: false
 ---
-
 
 
 1 Then the kings and the princes of all the cities and provinces, of Syria, Mesopotamia, and Syria Sobal, and Libya, and Cilicia sent their ambassadors, who coming to Holofernes, said:

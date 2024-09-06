@@ -1,13 +1,13 @@
 ---
 title: "Chapitre 14"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Pharaon poursuit les Israélites.
+  Les eaux de la mer Rouge s’ouvrent pour donner passage aux Hébreux.
+  Les Egyptiens sont ensevelis sous les eaux.
 ---
-
-
-Pharaon poursuit les Israélites.
-Les eaux de la mer Rouge s’ouvrent pour donner passage aux Hébreux.
-Les Egyptiens sont ensevelis sous les eaux.
 
 
 1 Or le Seigneur parla à Moïse, disant :2 Dis aux enfants d'Israël qu'ils retournent, et qu'ils campent vis-à-vis de Phihahiroth, qui est entre Magdalum et la mer, contre Béelséphon : c'est la vue de ce lieu que vous poserez votre camp, près de la mer.

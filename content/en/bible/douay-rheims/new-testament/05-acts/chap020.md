@@ -1,9 +1,8 @@
 ---
 title: "Chapter 20"
-date: 2024-09-06T18:40:36+02:00
+date: 2024-09-06T20:00:24+02:00
 draft: false
 ---
-
 
 
 1 And after the tumult was ceased, Paul calling to him the disciples and exhorting them, took his leave and set forward to go into Macedonia.

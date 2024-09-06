@@ -1,12 +1,12 @@
 ---
 title: "Chapitre 1"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Dénombrement des Israélites qui vinrent en Egypte ; nouveau roi qui les opprime à cause de leur accroissement et de leur multiplication.
+  Sages-femmes récompensées pour avoir sauvé les enfants des Hébreux.
 ---
-
-
-Dénombrement des Israélites qui vinrent en Egypte ; nouveau roi qui les opprime à cause de leur accroissement et de leur multiplication.
-Sages-femmes récompensées pour avoir sauvé les enfants des Hébreux.
 
 
 1 Voici les noms des fils d'Israël qui entrèrent en Egypte avec Jacob : chacun y entra avec sa maison :

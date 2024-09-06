@@ -1,16 +1,16 @@
 ---
 title: "Chapitre 2"
-date: 2024-09-06T18:40:51+02:00
+date: 2024-09-06T20:00:45+02:00
 draft: false
+summary: |
+  
+  Prier et rendre grâces pour tous.
+  Volonté de Dieu à l’égard du salut.
+  Médiation et rédemption de Jésus-Christ.
+  Paul, apôtre des gentils.
+  Conditions de la prière.
+  Modestie et soumission recommandées aux femmes.
 ---
-
-
-Prier et rendre grâces pour tous.
-Volonté de Dieu à l’égard du salut.
-Médiation et rédemption de Jésus-Christ.
-Paul, apôtre des gentils.
-Conditions de la prière.
-Modestie et soumission recommandées aux femmes.
 
 
 1 Je demande donc instamment avant tout, qu'on fasse des supplications, des prières, des demandes, des actions de grâces pour tous les hommes, 2 Pour les rois et tous ceux qui sont en dignité, afin que nous menions une vie paisible et tranquille, en toute piété et chasteté. 3 Car cela est bon et agréable à notre Sauveur Dieu, 4 Qui veut que tous les hommes soient sauvés, et viennent à la connaissance de la vérité, 5 Car il n'y a qu'un Dieu et qu'an médiateur entre Dieu et les hommes, le Christ Jésus homme,

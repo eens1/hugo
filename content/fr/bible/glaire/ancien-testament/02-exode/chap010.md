@@ -1,11 +1,11 @@
 ---
 title: "Chapitre 10"
-date: 2024-09-06T18:40:44+02:00
+date: 2024-09-06T20:00:34+02:00
 draft: false
+summary: |
+  
+  Huitième plaie, les sauterelles ; neuvième, les ténèbres.
 ---
-
-
-Huitième plaie, les sauterelles ; neuvième, les ténèbres.
 
 
 1 Et le Seigneur dit à Moïse : Entre auprès de Pharaon ; car c'est moi qui ai endurci son cœur et celui de ses serviteurs, afin que je fasse sur lui ces signes de ma puissance, 2 Et que tu racontes aux oreilles de ton fils et de tes neveux, combien de fois j'ai brisé les Egyptiens et j'ai fait mes signes au milieu d'eux, et que vous sachiez que je suis le Seigneur.
