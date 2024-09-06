@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+{{ block "head" . }}
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{{ .Site.Title }}</title>
+
+{{ $styles := resources.Match "css/*.css" }}
+{{ range $styles }}
+{{ $style := . | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+{{ end }}
+
+{{ $scripts := resources.Match "js/*.js" }}
+{{ range $scripts }}
+{{ $script := . | resources.Minify | resources.Fingerprint }}
+<script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+{{ end }}
+
+{{ end }}
+</head>
+
+<body>
+
+<header>
+{{ $headerPartial := printf "partials/%s/header.html" .Section }}
+{{ if templates.Exists $headerPartial }}
+	{{ partial $headerPartial . }}
+{{ else }}
+	{{ partial "header.html" . }}
+{{ end }}
+</header>
+
+<main>
+{{ partial "nav.html" . }}
+
+{{ block "main" . }}
+<!-- This will be replaced by content from other templates -->
+{{ end }}
+</main>
+
+<footer>
+{{ $footerPartial := printf "partials/%s/footer.html" .Section }}
+{{ if templates.Exists $footerPartial }}
+	{{ partial $footerPartial . }}
+{{ else }}
+	{{ partial "footer.html" . }}
+{{ end }}
+</footer>
+
+</body>
+</html>

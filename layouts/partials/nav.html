@@ -1,0 +1,23 @@
+<nav class="navbar">
+
+<div class="logo">
+<a href="{{ .Site.Home.RelPermalink }}">
+<img src="/images/logo.svg" alt="Placeholder">
+</a>
+</div>
+
+<div class="hamburger">
+<div class="line"></div>
+<div class="line"></div>
+<div class="line"></div>
+</div>
+
+<ul class="nav-links">
+	{{ $currentPage := . }}
+	{{ range .Site.Menus.main }}
+	<li><a href="{{ .URL }}" class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">{{ .Name }}</a></li>
+	{{ end }}
+</ul>
+
+</nav>
+
