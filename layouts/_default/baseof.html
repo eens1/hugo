@@ -36,7 +36,12 @@
 </header>
 
 <main>
-{{ partial "nav.html" . }}
+{{ $navPartial := printf "partials/%s/nav.html" .Section }}
+{{ if templates.Exists $navPartial }}
+	{{ partial $navPartial . }}
+{{ else }}
+	{{ partial "nav.html" . }}
+{{ end }}
 
 {{ block "main" . }}
 <!-- This will be replaced by content from other templates -->
