@@ -111,5 +111,18 @@ ceux qui entraient dans le temple du Seigneur; et tout ce qui chaque jour était
 
 </footer>
 
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>

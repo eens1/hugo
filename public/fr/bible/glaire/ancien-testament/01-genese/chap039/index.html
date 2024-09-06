@@ -108,5 +108,18 @@ me corrompre ; et, lorsque j&rsquo;ai poussé des cris, 15 Et qu&rsquo;il a ente
 
 </footer>
 
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>

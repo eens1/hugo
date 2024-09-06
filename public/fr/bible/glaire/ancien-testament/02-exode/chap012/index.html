@@ -133,5 +133,18 @@ y a quelque reste, vous le brûlerez au feu. 11 Or c&rsquo;est ainsi que vous le
 
 </footer>
 
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>

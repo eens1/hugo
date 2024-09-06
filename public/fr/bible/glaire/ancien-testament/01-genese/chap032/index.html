@@ -122,5 +122,18 @@ verrai, peut-être qu&rsquo;il me deviendra propice. 21 C&rsquo;est pourquoi les
 
 </footer>
 
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>

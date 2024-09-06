@@ -125,5 +125,18 @@ II. Plainte à Dieu, du chapitre 13, verset 13 au chapitre 14. ― 4° Sa sincé
 
 </footer>
 
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>

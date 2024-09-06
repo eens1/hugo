@@ -128,5 +128,18 @@ et qu&rsquo;il le prépose sur la terre d&rsquo;Egypte; 34 Afin qu&rsquo;il éta
 
 </footer>
 
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>

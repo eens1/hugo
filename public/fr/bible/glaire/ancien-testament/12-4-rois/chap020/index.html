@@ -116,5 +116,18 @@ qu&rsquo;elle rétrograde d&rsquo;autant de degrés? 10 Et Ezéchias dit : Il es
 
 </footer>
 
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>

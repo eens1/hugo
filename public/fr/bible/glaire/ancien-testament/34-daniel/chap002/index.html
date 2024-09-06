@@ -147,5 +147,18 @@ devant le roi : Il n&rsquo;y a pas d&rsquo;homme sur la terre qui puisse, ô roi
 
 </footer>
 
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>

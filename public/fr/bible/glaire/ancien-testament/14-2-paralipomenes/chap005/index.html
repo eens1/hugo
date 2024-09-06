@@ -113,5 +113,18 @@ présent jour. 10 Il n&rsquo;y avait rien dans l&rsquo;arche, si ce n&rsquo;est 
 
 </footer>
 
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>

@@ -113,5 +113,18 @@ Elie, fléchit les genoux, l&rsquo;implora, et dit : Homme de Dieu, ne dédaigne
 
 </footer>
 
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>

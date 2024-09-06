@@ -140,5 +140,18 @@ vis-à-vis de Jéricho, contre l&rsquo;orient du Jourdain, ce fut sur la tribu d
 
 </footer>
 
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>

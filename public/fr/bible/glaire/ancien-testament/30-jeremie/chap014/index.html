@@ -130,5 +130,18 @@ Juda comme Juda l’a traité lui-même, chapitre 15, versets 1 à 9. ― 5° J�
 
 </footer>
 
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>

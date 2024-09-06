@@ -118,5 +118,18 @@ enfants, 55 Car c&rsquo;est de moi que sont esclaves les enfants d&rsquo;Israël
 
 </footer>
 
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>
