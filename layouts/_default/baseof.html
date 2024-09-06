@@ -49,7 +49,7 @@
 </main>
 
 <footer>
-{{ $footerPartial := printf "partials/%s/footer.html" .Section }}
+{{ $footerPartial := printf "partials/%s/footer.html" .Lang }}
 {{ if templates.Exists $footerPartial }}
 	{{ partial $footerPartial . }}
 {{ else }}

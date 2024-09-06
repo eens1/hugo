@@ -3,7 +3,8 @@
 {{ .Content }}
 
 <ul>
-{{ range .Pages.ByTitle }}
+{{ $sortedPages := sort .Pages ".File.LogicalName" }}
+{{ range $sortedPages }}
 <li>
   <a href="{{ .Permalink }}">{{ .Title }}</a>
 </li>

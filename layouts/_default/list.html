@@ -2,11 +2,16 @@
 
 <h1>{{ .Title }}</h1>
 
+<div class="content">
+<article>
 {{ .Content }}
+</article>
+</div>
 
 <ul>
 
-{{ range .Pages.ByTitle }}
+{{ $sortedPages := sort .Pages ".File.LogicalName" }}
+{{ range $sortedPages }}
 	<li>
 	<a href="{{ .Permalink }}">{{ .Title }}</a>
 	</li>

@@ -25,7 +25,7 @@ a {
 a:hover {
 	text-decoration: underline;
 }
-article {
+main {
 	min-height: 400px;
 }
 header .title a {
