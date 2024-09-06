@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>English on Extra Ecclesia Non Salus</title>
     <link>http://localhost:1313/en/</link>
     <description>Recent content in English on Extra Ecclesia Non Salus</description>
@@ -14,6 +15,21 @@
       <pubDate>Fri, 06 Sep 2024 13:42:45 +0200</pubDate>
       <guid>http://localhost:1313/en/about/</guid>
       <description>This site promotes the traditional Catholic faith necessary for salvation. It is produced and administered by Bro. Matthieu of Versoix, O.F.M.Cap.&#xA;Please visit Most Holy Family Monastery&amp;rsquo;s websites, vaticancatholic.com and endtimes.video, for crucial information about the traditional Catholic faith necessary for Salvation.</description>
+=======
+    <title>En on My New Hugo Site</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content in En on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Sep 2024 12:26:25 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/en/test/</link>
+      <pubDate>Fri, 06 Sep 2024 12:26:25 +0200</pubDate>
+      <guid>http://localhost:1313/en/test/</guid>
+      <description>This is a test.</description>
+>>>>>>> parent of 2b469f7 (update)
     </item>
   </channel>
 </rss>
