@@ -118,18 +118,5 @@ prouvé que ce que vous avez dit est vrai ou faux : autrement, par la vie de Pha
 
 </footer>
 
-
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
-
 </body>
 </html>
