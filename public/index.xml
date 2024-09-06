@@ -6,14 +6,14 @@
     <description>Recent content in some title on Extra Ecclesia Non Salus</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Sep 2024 14:57:23 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 14:57:41 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/en/test/</link>
-      <pubDate>Fri, 06 Sep 2024 14:57:23 +0200</pubDate>
-      <guid>http://localhost:1313/en/test/</guid>
-      <description></description>
+      <link>http://localhost:1313/test/</link>
+      <pubDate>Fri, 06 Sep 2024 14:57:41 +0200</pubDate>
+      <guid>http://localhost:1313/test/</guid>
+      <description>some test</description>
     </item>
     <item>
       <title>About</title>
