@@ -474,9 +474,6 @@
     <loc>http://localhost:1313/fr/vie-religieuse/freres-mineurs/capucins/constitutions/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/envoi/</loc>
-    <lastmod>2024-09-06T20:00:57+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/fr/doctrine/croyances-necessaires/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
@@ -9151,8 +9148,6 @@
                 href="http://localhost:1313/fr/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/apologetique/cinq-martyrs-du-maroc/</loc>
-  </url><url>
     <loc>http://localhost:1313/fr/bible/glaire/ancien-testament/06-josue/chap034/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/archive/06/</loc>
@@ -9168,6 +9163,8 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/categories/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/apologetique/cinq-martyrs-du-maroc/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/tags/</loc>
     <xhtml:link

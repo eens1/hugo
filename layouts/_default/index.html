@@ -1,13 +1,39 @@
 {{ define "main" }}
 
+<div class="content">
+<article>
 {{ .Content }}
+</article>
+</div>
+
+{{ $pages := .Pages }}
+
+{{ $sortBy := .Params.sort_by | default "title" }}
+{{ $sortOrder := .Params.sort_reverse | default false }}
+
+{{ if eq $sortBy "title" }}
+  {{ $pages = sort $pages ".Title" }}
+{{ else if eq $sortBy "date" }}
+  {{ $pages = sort $pages ".Date" }}
+{{ else if eq $sortBy "filename" }}
+  {{ $pages = sort $pages ".File.LogicalName" }}
+{{ else }}
+  {{ $pages = sort $pages $sortBy }}
+{{ end }}
+
+{{ if $sortOrder }}
+  {{ $pages = $pages.Reverse }}
+{{ end }}
 
 <ul>
-{{ $sortedPages := sort .Pages ".File.LogicalName" }}
-{{ range $sortedPages }}
-<li>
-  <a href="{{ .Permalink }}">{{ .Title }}</a>
-</li>
+{{ range $pages }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </li>
 {{ end }}
 </ul>
+
+
 {{ end }}
+
+
