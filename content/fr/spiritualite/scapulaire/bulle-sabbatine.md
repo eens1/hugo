@@ -1,5 +1,6 @@
-# Scapulaire
-
+---
+title: "Bulle Sabbatine du Pape Jean XXII"
+---
 
 > *Pape Jean XXII, Sacratissimo uti culmine (Bulle Sabbatine), 1322* : " Jean, évêque, serviteur des serviteurs de Dieu, à tous et à chacun des fidèles, tant présent que futurs, qui verront ces Lettres, salut et bénédiction apostolique.
 

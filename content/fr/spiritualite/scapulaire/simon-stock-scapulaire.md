@@ -1,12 +1,9 @@
 ---
 title: "La Très-Sainte Vierge apparaît à Simon de Stock et lui remet le Scapulaire"
 date: 2024-09-06T20:02:57+02:00
-draft: false
-summary: |
-  
-  Voir la [Bulle Sabbatine](/doctrine/pape-jean-xxii/bulle-sabbatine.html) du pape Jean XXII.
 ---
 
+Voir la [Bulle Sabbatine](/doctrine/pape-jean-xxii/bulle-sabbatine.html) du pape Jean XXII.
 
 *Source: Alfred Monbrun, *Vie de saint Simon de Stock*, chap. XII, 1869*.
 

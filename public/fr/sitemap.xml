@@ -10709,8 +10709,6 @@
   </url><url>
     <loc>http://localhost:1313/fr/spiritualite/glossaire/mort/dom-bernardin-de-mendoza-mort-sans-confession/</loc>
   </url><url>
-    <loc>http://localhost:1313/fr/spiritualite/scapulaire/bulle-sabbatine/</loc>
-  </url><url>
     <loc>http://localhost:1313/fr/vie-religieuse/carmel/elie-elisee/tradition/francois-de-sainte-marie/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/vie-religieuse/freres-mineurs/premiere-regle/01/</loc>
@@ -10718,6 +10716,8 @@
     <loc>http://localhost:1313/fr/vie-religieuse/freres-mineurs/premiere-regle/10/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/archive/06/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/spiritualite/scapulaire/bulle-sabbatine/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/categories/</loc>
     <xhtml:link

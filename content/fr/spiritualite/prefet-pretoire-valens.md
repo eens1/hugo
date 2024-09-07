@@ -4,7 +4,6 @@ date: 2024-09-06T20:02:57+02:00
 draft: false
 ---
 
-
 <p><i>Vies des Pères des déserts d’Orient</i>, R. P. Michel-Ange Marin, Tome VIII, pp. 366-372, 1824.</p>
 <hr>
 
