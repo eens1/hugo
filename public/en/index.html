@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<meta name="generator" content="Hugo 0.125.4"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta name="generator" content="Hugo 0.125.4"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=46169&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -33,6 +33,8 @@
 <script src="/js/nav.js" defer></script>
 
 
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 
 </head>
@@ -109,31 +111,31 @@
 <ul>
 
   <li>
-    <a href="http://localhost:1313/en/about/">About</a>
+    <a href="http://localhost:46169/en/about/">About</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/en/apologetics/">Apologetics</a>
+    <a href="http://localhost:46169/en/apologetics/">Apologetics</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/en/bible/">Bible</a>
+    <a href="http://localhost:46169/en/bible/">Bible</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/en/blog/">Blog</a>
+    <a href="http://localhost:46169/en/blog/">Blog</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/en/contact/">Contact</a>
+    <a href="http://localhost:46169/en/contact/">Contact</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/en/doctrine/">Doctrine</a>
+    <a href="http://localhost:46169/en/doctrine/">Doctrine</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/en/spirituality/">Spirituality</a>
+    <a href="http://localhost:46169/en/spirituality/">Spirituality</a>
   </li>
 
 </ul>
@@ -148,6 +150,19 @@
 	
 
 </footer>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 </body>
 </html>

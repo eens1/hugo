@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aggaeus on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:1313/fr/bible/vulgata/vetus-testamentum/42-aggaeus/</link>
+    <link>http://localhost:46169/fr/bible/vulgata/vetus-testamentum/42-aggaeus/</link>
     <description>Recent content in Aggaeus on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:00:56 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/bible/vulgata/vetus-testamentum/42-aggaeus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:46169/fr/bible/vulgata/vetus-testamentum/42-aggaeus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Caput 1</title>
-      <link>http://localhost:1313/fr/bible/vulgata/vetus-testamentum/42-aggaeus/chap001/</link>
+      <link>http://localhost:46169/fr/bible/vulgata/vetus-testamentum/42-aggaeus/chap001/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:56 +0200</pubDate>
-      <guid>http://localhost:1313/fr/bible/vulgata/vetus-testamentum/42-aggaeus/chap001/</guid>
+      <guid>http://localhost:46169/fr/bible/vulgata/vetus-testamentum/42-aggaeus/chap001/</guid>
       <description>1 In anno secundo Darii regis, in mense sexto, in die una mensis, factum est verbum Domini in manu Aggæi prophetæ ad Zorobabel filium Salathiel, ducem Iuda, et ad Iesum, filium Iosedec, sacerdotem magnum, dicens:&#xA;2 Hæc ait Dominus exercituum, dicens: Populus iste dicit: Nondum venit tempus domus Domini ædificandæ.&#xA;3 Et factum est verbum Domini in manu Aggæi prophetæ, dicens:&#xA;4 Numquid tempus vobis est ut habitetis in domibus laqueatis, et domus ista deserta?</description>
     </item>
     <item>
       <title>Caput 2</title>
-      <link>http://localhost:1313/fr/bible/vulgata/vetus-testamentum/42-aggaeus/chap002/</link>
+      <link>http://localhost:46169/fr/bible/vulgata/vetus-testamentum/42-aggaeus/chap002/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:56 +0200</pubDate>
-      <guid>http://localhost:1313/fr/bible/vulgata/vetus-testamentum/42-aggaeus/chap002/</guid>
+      <guid>http://localhost:46169/fr/bible/vulgata/vetus-testamentum/42-aggaeus/chap002/</guid>
       <description>1 In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.&#xA;2 In septimo mense, vigesima et prima mensis, factum est verbum Domini in manu Aggæi prophetæ, dicens:&#xA;3 Loquere ad Zorobabel filium Salathiel, ducem Iuda, et ad Iesum filium Iosedec sacerdotem magnum, et ad reliquos populi, dicens:&#xA;4 Quis in vobis est derelictus, qui vidit domum istam in gloria sua prima? et quid vos videtis hanc nunc?</description>
     </item>
   </channel>

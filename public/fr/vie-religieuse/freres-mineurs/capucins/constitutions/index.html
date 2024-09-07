@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=46169&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -32,6 +32,8 @@
 <script src="/js/nav.js" defer></script>
 
 
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 
 </head>
@@ -106,55 +108,55 @@
 <ul>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/capucins/constitutions/01/">Chapitre 1</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/capucins/constitutions/01/">Chapitre 1</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/capucins/constitutions/10/">Chapitre 10</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/capucins/constitutions/10/">Chapitre 10</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/capucins/constitutions/11/">Chapitre 11</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/capucins/constitutions/11/">Chapitre 11</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/capucins/constitutions/12/">Chapitre 12</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/capucins/constitutions/12/">Chapitre 12</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/capucins/constitutions/02/">Chapitre 2</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/capucins/constitutions/02/">Chapitre 2</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/capucins/constitutions/03/">Chapitre 3</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/capucins/constitutions/03/">Chapitre 3</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/capucins/constitutions/04/">Chapitre 4</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/capucins/constitutions/04/">Chapitre 4</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/capucins/constitutions/05/">Chapitre 5</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/capucins/constitutions/05/">Chapitre 5</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/capucins/constitutions/06/">Chapitre 6</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/capucins/constitutions/06/">Chapitre 6</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/capucins/constitutions/07/">Chapitre 7</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/capucins/constitutions/07/">Chapitre 7</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/capucins/constitutions/08/">Chapitre 8</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/capucins/constitutions/08/">Chapitre 8</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/capucins/constitutions/09/">Chapitre 9</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/capucins/constitutions/09/">Chapitre 9</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/capucins/constitutions/00/">Préface</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/capucins/constitutions/00/">Préface</a>
   </li>
 
 </ul>
@@ -174,6 +176,19 @@
 
 
 </footer>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 </body>
 </html>

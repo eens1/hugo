@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=46169&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -32,6 +32,8 @@
 <script src="/js/nav.js" defer></script>
 
 
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 
 </head>
@@ -106,67 +108,67 @@
 <ul>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/01/">Caput 1</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/01/">Caput 1</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/10/">Caput 10</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/10/">Caput 10</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/11/">Caput 11</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/11/">Caput 11</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/12/">Caput 12</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/12/">Caput 12</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/02/">Caput 2</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/02/">Caput 2</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/03/">Caput 3</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/03/">Caput 3</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/04/">Caput 4</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/04/">Caput 4</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/05/">Caput 5</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/05/">Caput 5</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/06/">Caput 6</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/06/">Caput 6</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/07/">Caput 7</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/07/">Caput 7</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/08/">Caput 8</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/08/">Caput 8</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/09/">Caput 9</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/09/">Caput 9</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/13/">Confirmationis Regula conclusio</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/13/">Confirmationis Regula conclusio</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/archive/">En latin</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/archive/">En latin</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/00/">Prologus</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/00/">Prologus</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/14/">Testamentum Sancti Francisci</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/regle-testament/la/14/">Testamentum Sancti Francisci</a>
   </li>
 
 </ul>
@@ -186,6 +188,19 @@
 
 
 </footer>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 </body>
 </html>

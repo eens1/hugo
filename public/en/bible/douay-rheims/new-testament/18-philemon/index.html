@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=46169&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -32,6 +32,8 @@
 <script src="/js/nav.js" defer></script>
 
 
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 
 </head>
@@ -105,7 +107,7 @@
 <ul>
 
   <li>
-    <a href="http://localhost:1313/en/bible/douay-rheims/new-testament/18-philemon/chap001/">Chapter 1</a>
+    <a href="http://localhost:46169/en/bible/douay-rheims/new-testament/18-philemon/chap001/">Chapter 1</a>
   </li>
 
 </ul>
@@ -124,6 +126,19 @@
 	
 
 </footer>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 </body>
 </html>

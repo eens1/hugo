@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=46169&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -32,6 +32,8 @@
 <script src="/js/nav.js" defer></script>
 
 
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 
 </head>
@@ -106,67 +108,67 @@
 <ul>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/05/">Article cinquième</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/05/">Article cinquième</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/02/">Article deuxième</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/02/">Article deuxième</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/10/">Article dixième</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/10/">Article dixième</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/12/">Article douzième</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/12/">Article douzième</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/08/">Article huitième</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/08/">Article huitième</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/09/">Article neuvième</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/09/">Article neuvième</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/11/">Article onzième</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/11/">Article onzième</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/01/">Article premier</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/01/">Article premier</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/14/">Article quatorzième</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/14/">Article quatorzième</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/04/">Article quatrième</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/04/">Article quatrième</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/15/">Article quinzième</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/15/">Article quinzième</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/07/">Article septième</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/07/">Article septième</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/06/">Article sixième</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/06/">Article sixième</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/13/">Article treizième</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/13/">Article treizième</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/03/">Article troisième</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/03/">Article troisième</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/nicolas-iii/00/">Prologue</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/nicolas-iii/00/">Prologue</a>
   </li>
 
 </ul>
@@ -186,6 +188,19 @@
 
 
 </footer>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 </body>
 </html>

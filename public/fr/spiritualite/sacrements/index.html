@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=46169&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -32,6 +32,8 @@
 <script src="/js/nav.js" defer></script>
 
 
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 
 </head>
@@ -107,35 +109,35 @@
 <ul>
 
   <li>
-    <a href="http://localhost:1313/fr/spiritualite/sacrements/cardinal-jean-de-lugo/">Cardinal Jean de Lugo</a>
+    <a href="http://localhost:46169/fr/spiritualite/sacrements/cardinal-jean-de-lugo/">Cardinal Jean de Lugo</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/spiritualite/sacrements/excommunication-de-fait/">Excommunication de fait</a>
+    <a href="http://localhost:46169/fr/spiritualite/sacrements/excommunication-de-fait/">Excommunication de fait</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/spiritualite/sacrements/excommunies-a-eviter/">Excommuniés à éviter</a>
+    <a href="http://localhost:46169/fr/spiritualite/sacrements/excommunies-a-eviter/">Excommuniés à éviter</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/spiritualite/sacrements/notoriete/">Notoriété</a>
+    <a href="http://localhost:46169/fr/spiritualite/sacrements/notoriete/">Notoriété</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/spiritualite/sacrements/pape-eugene-iv-sess-20/">Pape Eugene IV, Concile de Bâle</a>
+    <a href="http://localhost:46169/fr/spiritualite/sacrements/pape-eugene-iv-sess-20/">Pape Eugene IV, Concile de Bâle</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/spiritualite/sacrements/pape-martin-v-ad-evitanda-scandala/">Pape Martin V, Ad Evitanda Scandala</a>
+    <a href="http://localhost:46169/fr/spiritualite/sacrements/pape-martin-v-ad-evitanda-scandala/">Pape Martin V, Ad Evitanda Scandala</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/spiritualite/sacrements/sacrements-de-l-excommunie/">Sacrements de l&#39;excommunié</a>
+    <a href="http://localhost:46169/fr/spiritualite/sacrements/sacrements-de-l-excommunie/">Sacrements de l&#39;excommunié</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/spiritualite/sacrements/saint-thomas-d-aquin/">Saint Thomas d&#39;Aquin</a>
+    <a href="http://localhost:46169/fr/spiritualite/sacrements/saint-thomas-d-aquin/">Saint Thomas d&#39;Aquin</a>
   </li>
 
 </ul>
@@ -155,6 +157,19 @@
 
 
 </footer>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 </body>
 </html>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=46169&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -32,6 +32,8 @@
 <script src="/js/nav.js" defer></script>
 
 
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 
 </head>
@@ -105,35 +107,35 @@
 <ul>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/pauvrete/berdnardin-d-asti-usage-du-manteau/">Frère Bernardin d&#39;Asti sur l&#39;usage du manteau</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/pauvrete/berdnardin-d-asti-usage-du-manteau/">Frère Bernardin d&#39;Asti sur l&#39;usage du manteau</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/pauvrete/lettre-saint-pierre-d-alcantara/">Lettre de saint Pierre d’Alcantara à sainte Térèse d’Avila au sujet des rentes de son Monastère</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/pauvrete/lettre-saint-pierre-d-alcantara/">Lettre de saint Pierre d’Alcantara à sainte Térèse d’Avila au sujet des rentes de son Monastère</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/pauvrete/pauvrete-de-saint-pierre-d-alcantara/">Pauvreté de Saint Pierre d&#39;Alcantara</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/pauvrete/pauvrete-de-saint-pierre-d-alcantara/">Pauvreté de Saint Pierre d&#39;Alcantara</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/pauvrete/saint-francois-livres/">Réponses de Saint François à propos des livres</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/pauvrete/saint-francois-livres/">Réponses de Saint François à propos des livres</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/pauvrete/revelations-jean-de-medina/">Révélations de Jésus-Christ au Frère Capucin Jean de Médina</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/pauvrete/revelations-jean-de-medina/">Révélations de Jésus-Christ au Frère Capucin Jean de Médina</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/pauvrete/saint-francois-sainte-pauvrete/">Saint François à propos de la sainte pauvreté</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/pauvrete/saint-francois-sainte-pauvrete/">Saint François à propos de la sainte pauvreté</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/pauvrete/saint-francois-demander-l-aumones/">Saint François au sujet de la quête</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/pauvrete/saint-francois-demander-l-aumones/">Saint François au sujet de la quête</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/pauvrete/saint-francois-possessions/">Saint François au sujet des possessions</a>
+    <a href="http://localhost:46169/fr/vie-religieuse/freres-mineurs/pauvrete/saint-francois-possessions/">Saint François au sujet des possessions</a>
   </li>
 
 </ul>
@@ -153,6 +155,19 @@
 
 
 </footer>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 </body>
 </html>

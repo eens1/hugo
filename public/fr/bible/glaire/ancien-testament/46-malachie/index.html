@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=46169&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -32,6 +32,8 @@
 <script src="/js/nav.js" defer></script>
 
 
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 
 </head>
@@ -105,19 +107,19 @@
 <ul>
 
   <li>
-    <a href="http://localhost:1313/fr/bible/glaire/ancien-testament/46-malachie/chap001/">Chapitre 1</a>
+    <a href="http://localhost:46169/fr/bible/glaire/ancien-testament/46-malachie/chap001/">Chapitre 1</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/bible/glaire/ancien-testament/46-malachie/chap002/">Chapitre 2</a>
+    <a href="http://localhost:46169/fr/bible/glaire/ancien-testament/46-malachie/chap002/">Chapitre 2</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/bible/glaire/ancien-testament/46-malachie/chap003/">Chapitre 3</a>
+    <a href="http://localhost:46169/fr/bible/glaire/ancien-testament/46-malachie/chap003/">Chapitre 3</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/bible/glaire/ancien-testament/46-malachie/chap004/">Chapitre 4</a>
+    <a href="http://localhost:46169/fr/bible/glaire/ancien-testament/46-malachie/chap004/">Chapitre 4</a>
   </li>
 
 </ul>
@@ -137,6 +139,19 @@
 
 
 </footer>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 </body>
 </html>

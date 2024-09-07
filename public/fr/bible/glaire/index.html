@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=46169&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -32,6 +32,8 @@
 <script src="/js/nav.js" defer></script>
 
 
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 
 </head>
@@ -108,11 +110,11 @@
 <ul>
 
   <li>
-    <a href="http://localhost:1313/fr/bible/glaire/ancien-testament/">Ancien Testament</a>
+    <a href="http://localhost:46169/fr/bible/glaire/ancien-testament/">Ancien Testament</a>
   </li>
 
   <li>
-    <a href="http://localhost:1313/fr/bible/glaire/nouveau-testament/">Nouveau Testament</a>
+    <a href="http://localhost:46169/fr/bible/glaire/nouveau-testament/">Nouveau Testament</a>
   </li>
 
 </ul>
@@ -132,6 +134,19 @@
 
 
 </footer>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 </body>
 </html>
