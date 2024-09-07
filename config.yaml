@@ -24,7 +24,7 @@ languages:
         - name: Français
           url: /fr
     params:
-      dateFormat: ":date_long"
+      dateFormat: "Jan 2, 2006"
 
   fr:
     languageName: "Français"
@@ -45,4 +45,4 @@ languages:
         - name: English
           url: /en
     params:
-      dateFormat: ":date_long"
+      dateFormat: "2 Jan 2006"
