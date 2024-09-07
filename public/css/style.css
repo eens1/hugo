@@ -38,6 +38,9 @@ article h3 {
 footer, .footnotes {
 	font-size: 14px;
 }
+footer p, .footnotes p {
+   margin: 5px;
+}
 blockquote {
 	margin: 17px 15px 17px 15px;
 }
