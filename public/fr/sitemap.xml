@@ -1134,6 +1134,9 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/peches/generalites/</loc>
     <lastmod>2024-09-06T20:02:56+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/fr/doctrine/glossaire/</loc>
+    <lastmod>2024-09-06T20:02:56+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/apologetique/hors-de-l-eglise-pas-de-salut/histoire/</loc>
     <lastmod>2024-09-06T20:02:56+02:00</lastmod>
   </url><url>
@@ -1258,9 +1261,6 @@
     <lastmod>2024-09-06T20:02:56+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/papaute/</loc>
-    <lastmod>2024-09-06T20:02:56+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/</loc>
     <lastmod>2024-09-06T20:02:56+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/pardon/</loc>
@@ -2004,9 +2004,6 @@
     <loc>http://localhost:1313/fr/vie-religieuse/concile-de-trente/05-cloture-religieuses/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/droit-canonique/05-indulgences/</loc>
-    <lastmod>2024-09-06T20:00:57+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/fr/vie-religieuse/droit-canonique/05-obligations-privileges/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
@@ -2037,9 +2034,6 @@
     <loc>http://localhost:1313/fr/vie-religieuse/concile-de-trente/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/</loc>
-    <lastmod>2024-09-06T20:00:57+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/fr/doctrine/croyances-necessaires/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
@@ -2058,9 +2052,6 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/doctrine/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/droit-canonique/</loc>
-    <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/vie-religieuse/droit-canonique/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
@@ -2431,49 +2422,7 @@
     <loc>http://localhost:1313/fr/bible/vulgata/vetus-testamentum/46-2-machabaeus/chap009/</loc>
     <lastmod>2024-09-06T20:00:56+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/01-necessite-institution/</loc>
-    <lastmod>2024-09-06T20:00:56+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/droit-canonique/01-ministre/</loc>
-    <lastmod>2024-09-06T20:00:56+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/02-difference-bapteme/</loc>
-    <lastmod>2024-09-06T20:00:56+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/droit-canonique/02-reserve-des-peches/</loc>
-    <lastmod>2024-09-06T20:00:56+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/03-parties-effets/</loc>
-    <lastmod>2024-09-06T20:00:56+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/droit-canonique/03-sujet/</loc>
-    <lastmod>2024-09-06T20:00:56+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/04-contrition/</loc>
-    <lastmod>2024-09-06T20:00:56+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/droit-canonique/04-lieu/</loc>
-    <lastmod>2024-09-06T20:00:56+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/05-confession/</loc>
-    <lastmod>2024-09-06T20:00:56+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/06-ministre-absolution/</loc>
-    <lastmod>2024-09-06T20:00:56+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/07-cas-reserves/</loc>
-    <lastmod>2024-09-06T20:00:56+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/08-necessite-fruit-satisfaction/</loc>
-    <lastmod>2024-09-06T20:00:56+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/09-oeuvres-de-satisfaction/</loc>
-    <lastmod>2024-09-06T20:00:56+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/fr/doctrine/commandements/</loc>
-    <lastmod>2024-09-06T20:00:56+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/</loc>
     <lastmod>2024-09-06T20:00:56+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/contact/</loc>
@@ -10695,8 +10644,6 @@
   </url><url>
     <loc>http://localhost:1313/fr/bible/glaire/ancien-testament/06-josue/chap034/</loc>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/obligations-penitent/</loc>
-  </url><url>
     <loc>http://localhost:1313/fr/spiritualite/glossaire/joie/saint-francois-d-assise/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/spiritualite/glossaire/mort/</loc>
@@ -10728,6 +10675,8 @@
     <loc>http://localhost:1313/fr/apologetique/cinq-martyrs-du-maroc/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/vie-religieuse/freres-mineurs/cinq-martyrs-du-maroc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/obligations-penitent/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/tags/</loc>
     <xhtml:link
