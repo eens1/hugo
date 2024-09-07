@@ -8,37 +8,23 @@
 </article>
 </div>
 
-
 {{ $pages := .Pages }}
-
-{{ $sortBy := .Params.sort_by | default "title" }}
-{{ $sortOrder := .Params.sort_reverse | default false }}
-
-{{ if eq $sortBy "title" }}
-  {{ $pages = sort $pages ".Title" }}
-{{ else if eq $sortBy "date" }}
-  {{ $pages = sort $pages ".Date" }}
-{{ else if eq $sortBy "filename" }}
-  {{ $pages = sort $pages ".File.LogicalName" }}
-{{ else }}
-  {{ $pages = sort $pages $sortBy }}
-{{ end }}
-
-{{ if $sortOrder }}
-  {{ $pages = $pages.Reverse }}
-{{ end }}
+{{ $sortedPages := sort $pages "File.Path" }}
 
 <ul>
-{{ range $pages }}
-  <li>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
-  </li>
+{{ range $sortedPages }}
+
+   {{ $path := .File.Path }}
+   {{ if eq (path.Base $path) "_index.md" }}
+   {{ $path = path.Dir $path }}
+   {{ end }}
+
+   <li>
+   <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+   <div>{{ .Params.summary }}</div>
+   </li>
+
 {{ end }}
 </ul>
-
-
-
-
-
 
 {{ end }}
