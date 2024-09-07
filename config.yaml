@@ -21,7 +21,7 @@ languages:
           weight: 20
         - name: Contact
           url: /en/contact
-        - name: Français
+        - name: 🇫🇷 Français
           url: /fr
     params:
       dateFormat: "Jan 2, 2006"
@@ -42,7 +42,7 @@ languages:
           weight: 20
         - name: Contact
           url: /fr/contact
-        - name: English
+        - name: 🇬🇧 English
           url: /en
     params:
       dateFormat: "2 Jan 2006"
