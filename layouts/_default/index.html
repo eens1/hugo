@@ -1,25 +1,10 @@
 {{ define "main" }}
 
+<hr>
 
-<!--
-{{ $currentLang := .Site.Language.Lang }}
-{{ $posts := where .Site.AllPages "Language.Lang" $currentLang }}
-{{ $posts := where $posts "RelPermalink" "ne" (printf "/%s/" $currentLang) }}
-{{ $posts := $posts.ByDate.Reverse }}
-{{ $latestPosts := first 10 $posts }}
-<h2>{{ i18n "latestPosts" | default "Latest Posts" }}</h2>
-<ul>
-{{ range $latestPosts }}
-<li>
-<em><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-{{ .Date.Format "January 2, 2006" }}
-</time></em> - 
-<a href="{{ .Permalink }}">{{ .Title }}</a>
-<div>{{ .Summary }}</div>
-</li>
-{{ end }}
-</ul>
--->
+{{ partial "latestblog.html" . }}
+
+<hr>
 
 <div class="content">
 <article>
@@ -27,33 +12,7 @@
 </article>
 </div>
 
-{{ $pages := .Pages }}
-
-{{ $sortBy := .Params.sort_by | default "title" }}
-{{ $sortOrder := .Params.sort_reverse | default false }}
-
-{{ if eq $sortBy "title" }}
-  {{ $pages = sort $pages ".Title" }}
-{{ else if eq $sortBy "date" }}
-  {{ $pages = sort $pages ".Date" }}
-{{ else if eq $sortBy "filename" }}
-  {{ $pages = sort $pages ".File.LogicalName" }}
-{{ else }}
-  {{ $pages = sort $pages $sortBy }}
-{{ end }}
-
-{{ if $sortOrder }}
-  {{ $pages = $pages.Reverse }}
-{{ end }}
-
-<ul>
-{{ range $pages }}
-  <li>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
-  </li>
-{{ end }}
-</ul>
-
+{{ partial "listposts.html" . }}
 
 {{ end }}
 

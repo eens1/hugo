@@ -2,7 +2,7 @@
 title: "Livres"
 date: 2024-09-06T20:00:57+02:00
 draft: false
-summary: |
+---
   
   
   Les sites du Monastère de la Très Sainte Famille contiennent des informations cruciales pour, entre autres, comprendre ce qui est arrivé à l'Église catholique après Vatican II et savoir ce qu'il faut faire pour se sauver.
@@ -34,8 +34,6 @@ summary: |
   * Jean-François de Reims, prédicateur Capucin. (1692). Le directeur pacifique des consciences. Quatrième édition, chez la Veuve de J. Molin, imprimeur du Roy.
   
   * Seguin Aîné. (1830). Le confesseur des gens de campagne, ou abrégé de la théologie morale, par le bienheureux Alphonse de Liguori, traduit de l'italien. Seguin Aîné, imprimeur-librairie.
----
-
 
 Voici mes recommandations de lectures.
 

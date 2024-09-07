@@ -1,9 +1,10 @@
 ---
-title: "Prière à sainte Thérèse de Lisieux"
+title: "Prière à sainte Thérèse de l'Enfant Jésus (de Lisieux)"
 date: 2024-09-06T20:02:57+02:00
 draft: false
 ---
 
+![](https://i.imgur.com/xZUVKeT.jpg)
 
 "Ô glorieuse sainte Thérèse, élevée par Dieu Tout-Puissant pour aider et conseiller l’humanité, j’implore votre miraculeuse intercession. Vous êtes à tel point si puissante pour obtenir auprès de Dieu les faveurs et les grâces, que la sainte Mère l’Église vous a nommée la plus grande Sainte des temps modernes. Avec ferveur, je vous supplie de répondre à ma demande (spécifiez votre demande). Et de réaliser vos promesses de vous trouver en Paradis pour faire du bien sur terre, et de faire tomber depuis le Ciel une pluie de roses. Dès lors, chère petite fleur, je ferai en sorte que votre appel soit partout connu, et je ne cesserai pas de conduire les gens vers Jésus à travers vous. Ainsi soit-il." [^1]
 

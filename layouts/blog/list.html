@@ -9,7 +9,6 @@
 {{ $dateFormat := .Site.Params.dateFormat | default ":date_long" }}
 <time>{{ .Date | time.Format $dateFormat }}</time> - 
 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-<div>{{ .Params.summary }}</div>
 {{ end }}
 
 {{ end }}

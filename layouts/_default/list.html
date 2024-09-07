@@ -8,23 +8,7 @@
 </article>
 </div>
 
-{{ $pages := .Pages }}
-{{ $sortedPages := sort $pages "File.Path" }}
-
-<ul>
-{{ range $sortedPages }}
-
-   {{ $path := .File.Path }}
-   {{ if eq (path.Base $path) "_index.md" }}
-   {{ $path = path.Dir $path }}
-   {{ end }}
-
-   <li>
-   <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-   <div>{{ .Params.summary }}</div>
-   </li>
+{{ partial "listposts.html" . }}
 
 {{ end }}
-</ul>
 
-{{ end }}
