@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Extra Ecclesia Nulla Salus</title>
+
+
+
+
+<link rel="stylesheet" href="/css/form.css">
+
+
+
+
+<link rel="stylesheet" href="/css/nav.css">
+
+
+
+
+<link rel="stylesheet" href="/css/style.css">
+
+
+
+
+
+
+<script src="/js/nav.js" defer></script>
+
+
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+
+</head>
+
+<body>
+
+<header>
+
+
+	
+
+</header>
+
+<main>
+
+
+	<nav class="navbar">
+
+<div class="logo">
+<a href="/fr/">
+<img src="/images/logo.svg" alt="Extra Ecclesia Nulla Salus">
+</a>
+
+</div>
+
+
+
+<div class="hamburger">
+<div class="line"></div>
+<div class="line"></div>
+<div class="line"></div>
+</div>
+
+<ul class="nav-links">
+
+
+<li><a href="/fr">Accueil</a></li>
+
+<li><a href="/fr/bible">Bible</a></li>
+
+<li><a href="/fr/doctrine">Doctrine</a></li>
+
+<li><a href="/fr/spiritualite">Spirtualité</a></li>
+
+<li><a href="/fr/blog">Blog</a></li>
+
+<li><a href="/fr/contact">Contact</a></li>
+
+<li><a href="/en">🇬🇧 English</a></li>
+
+</ul>
+
+</nav>
+
+
+
+
+
+<h1>Calcul des fêtes mobiles</h1>
+
+<div class="content">
+<article>
+<p>Les fêtes qui n&rsquo;ont pas de date fixe se calculent en référence à la fête de Pâques. Celle-ci, comme l&rsquo;a arrêté le concile de Nicée, se célèbre le dimanche après la pleine lune qui suit le 21 mars. <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>Il y a plusieurs manières de calculer la date exacte de la fête de Pâques, la plus connue étant la méthode de Gauss, dont voici l&rsquo;algorithme <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> :</p>
+<blockquote>
+<p>a = année % 19</p>
+</blockquote>
+<blockquote>
+<p>b = année % 4</p>
+</blockquote>
+<blockquote>
+<p>c = année % 7</p>
+</blockquote>
+<blockquote>
+<p>d = (19a + M) % 30</p>
+</blockquote>
+<blockquote>
+<p>e = (2b + 4c + 6d + N) % 7</p>
+</blockquote>
+<blockquote>
+<p>f = d + e</p>
+</blockquote>
+<blockquote>
+<p>Si f &lt;= 9, alors la date de la fête de Pâques est au mois de mars et le jour s&rsquo;obtient en ajoutant 22 à f.</p>
+</blockquote>
+<blockquote>
+<p>Si f &gt; 9, alors Pâques est au mois d&rsquo;avril, et le jour est f - 9, avec M et N variant en fonction de l&rsquo;année. Pour des années allant de 2000 à 2099, M = 24 et N = 5.</p>
+</blockquote>
+<p>46 jours avant Pâques.</p>
+<p>39 jours après Pâques.</p>
+<p>49 jours après Pâques.</p>
+<h2 id="pâques">Pâques</h2>
+<p>Les fêtes qui n&rsquo;ont pas de date fixe se calculent en référence à la fête de Pâques. Celle-ci, comme l&rsquo;a arrêté le concile de Nicée, se célèbre le dimanche après la pleine lune qui suit le 21 mars. <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>Il y a plusieurs manières de calculer la date exacte de la fête de Pâques, la plus connue étant la méthode de Gauss, dont voici l&rsquo;algorithme <sup id="fnref1:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>^, <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> :</p>
+<blockquote>
+<p>a = année % 19</p>
+</blockquote>
+<blockquote>
+<p>b = année % 4</p>
+</blockquote>
+<blockquote>
+<p>c = année % 7</p>
+</blockquote>
+<blockquote>
+<p>d = (19a + M) % 30</p>
+</blockquote>
+<blockquote>
+<p>e = (2b + 4c + 6d + N) % 7</p>
+</blockquote>
+<blockquote>
+<p>f = d + e</p>
+</blockquote>
+<blockquote>
+<p>Si f &lt;= 9, alors la date de la fête de Pâques est au mois de mars et le jour s&rsquo;obtient en ajoutant 22 à f.</p>
+</blockquote>
+<blockquote>
+<p>Si f &gt; 9, alors Pâques est au mois d&rsquo;avril, et le jour est f - 9, avec M et N variant en fonction de l&rsquo;année. Pour des années allant de 2000 à 2099, M = 24 et N = 5.</p>
+</blockquote>
+<h2 id="mercredi-des-cendres">Mercredi des cendres</h2>
+<p>46 jours avant Pâques.</p>
+<h2 id="ascension">Ascension</h2>
+<p>39 jours après Pâques.</p>
+<h2 id="pentecôte">Pentecôte</h2>
+<p>49 jours après Pâques.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Lefèbvre 1924.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>De Saint-German 1884, p. 3.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Bernard 1887, t. 1. p. 212.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+</article>
+</div>
+
+
+</main>
+
+<footer>
+
+
+	<p>Les références dans les notes de bas de page sont généralement données sous forme condensée. Les références complètes se trouvent <a href="/fr/references.html">ICI</a>.</p>
+
+
+</footer>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+</body>
+</html>

@@ -4,7 +4,6 @@ date: 2024-09-06T20:00:57+02:00
 draft: false
 ---
 
-
 Bareille Georges. (1922). Code du droit canonique, modifications introduites dans la précédente législation de l'Eglise. Librairie Cardeilhac-Soubiron, éditeur.
 
 Bareille J. abbé. (1884). Histoire de l'Eglise depuis la Création jusqu'au XIIe siècle, par l'abbé J.-E. Darras, continuée jusqu'au pontificat de Pie IX par l'abbé J. Bareille. Chez Louis Vivès, Librarie-Editeur.

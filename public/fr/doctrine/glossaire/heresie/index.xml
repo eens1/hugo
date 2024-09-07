@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hérésie on Extra Ecclesia Nulla Salus</title>
+    <link>http://localhost:1313/fr/doctrine/glossaire/heresie/</link>
+    <description>Recent content in Hérésie on Extra Ecclesia Nulla Salus</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 06 Sep 2024 20:02:55 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/doctrine/glossaire/heresie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dans la Bible</title>
+      <link>http://localhost:1313/fr/doctrine/glossaire/heresie/bible/</link>
+      <pubDate>Fri, 06 Sep 2024 20:02:55 +0200</pubDate>
+      <guid>http://localhost:1313/fr/doctrine/glossaire/heresie/bible/</guid>
+      <description>Tite 3:10 : &amp;ldquo;Evite un homme hérétique, après une première et une seconde admonition; Sachant qu&amp;rsquo;un tel homme est perverti, et qu&amp;rsquo;il pèche, puisqu&amp;rsquo;il est condamné par son propre jugement.&amp;rdquo; 1&#xA;Romains 16:17 : &amp;ldquo;Mais je vous prie, mes frères, d&amp;rsquo;observer ceux qui sèment des dissensions et des scandales contre la doctrine que vous avez apprise, et détournez-vous d&amp;rsquo;eux.&amp;rdquo; 2&#xA;Galates 1:8-9 : &amp;ldquo;Mais si nous-mêmes ou un ange du ciel vous évangélisait autrement que nous vous avons évangélisés, qu&amp;rsquo;il soit anathème.</description>
+    </item>
+    <item>
+      <title>Dans la Tradition</title>
+      <link>http://localhost:1313/fr/doctrine/glossaire/heresie/tradition/</link>
+      <pubDate>Fri, 06 Sep 2024 20:02:55 +0200</pubDate>
+      <guid>http://localhost:1313/fr/doctrine/glossaire/heresie/tradition/</guid>
+      <description>Pape Léon XIII, Satis Cognitum, 1896 : &amp;ldquo;Nul ne peut donc avoir part à l&amp;rsquo;autorité s&amp;rsquo;il n&amp;rsquo;est uni à Pierre, car il serait absurde de prétendre qu&amp;rsquo;un homme exclu de l&amp;rsquo;Eglise a l&amp;rsquo;autorité dans l&amp;rsquo;Eglise.&amp;rdquo; 1&#xA;Pape Grégoire XVI, Inter praecipuas, 8 mai 1844 : &amp;ldquo;Aussi est-il bien établi pour vous que, dès les premiers âges du christianisme, le propre des hérétiques fut de répudier la parole de Dieu transmise par la tradition, et de rejeter l&amp;rsquo;autorité de l&amp;rsquo;Eglise catholique, pour lacérer de leur main les Ecritures, ou en corrompre le sens par leur interprétation.</description>
+    </item>
+  </channel>
+</rss>

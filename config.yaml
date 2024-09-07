@@ -14,15 +14,32 @@ languages:
         - identifier: home
           name: Home
           url: /en
-          weight: 10
+          weight: 1
+
+        - name: Bible
+          url: /en/bible
+          weight: 2
+
+        - name: Doctrine
+          url: /en/doctrine
+          weight: 3
+
+        - name: Spirituality
+          url: /en/spirituality
+          weight: 4
+
         - identifier: blog
           name: Blog
           url: /en/blog
-          weight: 20
+          weight: 5
+
         - name: Contact
           url: /en/contact
+          weight: 6
+
         - name: 🇫🇷 Français
           url: /fr
+          weight: 7
     params:
       dateFormat: "Jan 2, 2006"
 
@@ -35,14 +52,31 @@ languages:
         - identifier: home
           name: Accueil
           url: /fr
-          weight: 10
+          weight: 1
+
+        - name: Bible
+          url: /fr/bible
+          weight: 2
+
+        - name: Doctrine
+          url: /fr/doctrine
+          weight: 3
+
+        - name: Spirtualité
+          url: /fr/spiritualite
+          weight: 4
+
         - identifier: blog
           name: Blog
           url: /fr/blog
-          weight: 20
+          weight: 5
+
         - name: Contact
           url: /fr/contact
+          weight: 6
+
         - name: 🇬🇧 English
           url: /en
+          weight: 7
     params:
       dateFormat: "2 Jan 2006"

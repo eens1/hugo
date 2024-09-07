@@ -4,5 +4,5 @@
 
 … The holy Catholic Church… her faith is the same in all times… You should be most desirous to preserve the faith in all its purity, since without it, it is impossible to do anything which merits Heaven.  ‘Without faith it is impossible to please God.’  Those who do not possess it may practice all the moral virtues, justice, sobriety, chastity, alms-deeds, prayers, mortification… When, therefore, you observe that those who believe not in the Church, practice some good works, offer many prayers, and lead an austere life, do not believe that they are on this account on the way of salvation, unless they have true faith; you commit an enormous sin if you believe that they can be saved outside of the Church; that they can have faith without believing in her, or that they can be saved without the faith.”
 
-## Index
+## General Index
 
