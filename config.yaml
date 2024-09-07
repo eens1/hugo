@@ -4,11 +4,6 @@ title: "Extra Ecclesia Nulla Salus"
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
 
-
-module:
-  imports:
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
-
 languages:
   en:
     languageName: "English"
