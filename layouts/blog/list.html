@@ -6,11 +6,10 @@
 
 {{ range .Pages }}
 
-
 {{ $dateFormat := .Site.Params.dateFormat | default ":date_long" }}
 <time>{{ .Date | time.Format $dateFormat }}</time> - 
 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-{{ .Render "summary" }}
+<div>{{ .Params.summary }}</div>
 {{ end }}
 
 {{ end }}

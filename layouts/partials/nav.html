@@ -4,7 +4,19 @@
 <a href="{{ .Site.Home.RelPermalink }}">
 <img src="/images/logo.svg" alt="Extra Ecclesia Nulla Salus">
 </a>
+
 </div>
+
+<!--
+<div>
+{{ $currentLang := .Site.Language.Lang }}
+{{ if eq $currentLang "en" }}
+<span class="emoji">🇬🇧</span>
+{{ else if eq $currentLang "fr" }}
+<span class="emoji">🇫🇷</span>
+{{ end }}
+</div>
+-->
 
 <div class="hamburger">
 <div class="line"></div>

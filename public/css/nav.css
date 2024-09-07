@@ -2,6 +2,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 10px;
 }
 
 .nav-links {
@@ -33,6 +34,11 @@
   height: 3px;
   background-color: #fff;
   margin: 3px 0;
+}
+
+.emoji {
+  font-size: 50px;
+  vertical-align: middle;
 }
 
 @media (max-width: 768px) {
