@@ -1374,7 +1374,7 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/vision-beatifique/</loc>
     <lastmod>2024-09-06T20:02:56+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/accusation/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/accusation/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/benediction/</loc>
@@ -1404,13 +1404,13 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/eglise/pastor-aeternus/01-institution-primaute-saint-pierre/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/concile-de-trente/01-necessite-institution/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/01-necessite-institution/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/foi/dei-filius/01-createur-de-toutes-choses/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/droit-canonique/01-ministre/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/droit-canonique/01-ministre/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/eglise/pastor-aeternus/02-perpetuite-primaute-saint-pierre/</loc>
@@ -1419,10 +1419,10 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/foi/dei-filius/02-revelation/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/concile-de-trente/02-difference-bapteme/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/02-difference-bapteme/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/droit-canonique/02-reserve-des-peches/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/droit-canonique/02-reserve-des-peches/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/foi/dei-filius/03-foi/</loc>
@@ -1431,13 +1431,13 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/eglise/pastor-aeternus/03-nature-et-caractere-primaute-saint-pierre/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/concile-de-trente/03-parties-effets/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/03-parties-effets/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/droit-canonique/03-sujet/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/droit-canonique/03-sujet/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/concile-de-trente/04-contrition/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/04-contrition/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/foi/dei-filius/04-foi-et-raison/</loc>
@@ -1446,25 +1446,25 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/eglise/pastor-aeternus/04-magistere-infaillible-du-souverain-pontife/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/droit-canonique/04-lieu/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/droit-canonique/04-lieu/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/concile-de-trente/05-confession/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/05-confession/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/droit-canonique/05-indulgences/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/droit-canonique/05-indulgences/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/concile-de-trente/06-ministre-absolution/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/06-ministre-absolution/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/concile-de-trente/07-cas-reserves/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/07-cas-reserves/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/concile-de-trente/08-necessite-fruit-satisfaction/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/08-necessite-fruit-satisfaction/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/concile-de-trente/09-oeuvres-de-satisfaction/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/09-oeuvres-de-satisfaction/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/charite/</loc>
@@ -1491,7 +1491,7 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/commandements/commandements-eglise/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/concile-de-trente/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/concile-de-trente/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/foi/dei-filius/</loc>
@@ -1506,7 +1506,7 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/concupiscence/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/conseils-evangeliques/</loc>
@@ -1515,7 +1515,7 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/contraception/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/contrition/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/contrition/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/conversion/</loc>
@@ -1527,7 +1527,7 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/damnation/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/bible/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/bible/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/conseils-evangeliques/bible/</loc>
@@ -1551,7 +1551,7 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/heresie/bible/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/necessite/tradition/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/necessite/tradition/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/conseils-evangeliques/tradition/</loc>
@@ -1578,7 +1578,7 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/heresie/tradition/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/definition/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/definition/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/conseils-evangeliques/definition/</loc>
@@ -1596,13 +1596,13 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/devotion/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/droit-canonique/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/droit-canonique/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/education/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/effets/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/effets/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/egalitarisme/</loc>
@@ -1626,7 +1626,7 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/eucharistie/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/examen/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/examen/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/extreme-onction/</loc>
@@ -1641,7 +1641,7 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/foi/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/forme/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/forme/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/gouvernement/</loc>
@@ -1665,31 +1665,31 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/frederic-ii/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/integrite/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/integrite/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/juridiction/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/juridiction/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/matiere/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/matiere/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/ministre/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/ministre/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/necessite/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/necessite/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/commandements/commandements-de-dieu/commandement-09-10/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/obligations-confesseur/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/obligations-confesseur/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/occasion-prochaine/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/occasion-prochaine/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/parrain/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/parrain/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/eglise/pastor-aeternus/00-preambule/</loc>
@@ -1704,7 +1704,7 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/commandements/commandements-eglise/commandement-01/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/propos/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/propos/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/commandements/commandements-de-dieu/commandement-04/</loc>
@@ -1713,10 +1713,10 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/commandements/commandements-eglise/commandement-04/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/robe/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/robe/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/satisfaction/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/satisfaction/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/commandements/commandements-de-dieu/commandement-07/</loc>
@@ -1734,7 +1734,7 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/commandements/commandements-eglise/commandement-03/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/validite/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/validite/</loc>
     <lastmod>2024-09-06T20:02:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/aliments/</loc>
@@ -1764,97 +1764,97 @@
     <loc>http://localhost:1313/fr/doctrine/glossaire/avortement/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/01-canon-1/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/01-canon-1/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/10-canon-10/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/10-canon-10/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/11-canon-11/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/11-canon-11/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/12-canon-12/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/12-canon-12/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/13-canon-13/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/13-canon-13/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/14-canon-14/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/14-canon-14/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/02-canon-2/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/02-canon-2/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/03-canon-3/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/03-canon-3/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/04-canon-4/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/04-canon-4/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/05-canon-5/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/05-canon-5/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/06-canon-6/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/06-canon-6/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/07-canon-7/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/07-canon-7/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/08-canon-8/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/08-canon-8/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/09-canon-9/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/09-canon-9/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/cierge/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/cierge/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/concile-de-trente/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/concile-de-trente/</loc>
+    <lastmod>2024-09-06T20:02:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/effets/bible/</loc>
+    <lastmod>2024-09-06T20:02:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/necessite/bible/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/autodafe/bible/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/effets/bible/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/effets/tradition/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/necessite/bible/</loc>
-    <lastmod>2024-09-06T20:02:54+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/effets/tradition/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/definition/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/autodafe/definition/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/definition/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/effets/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/effets/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/enfants/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/enfants/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/forme/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/forme/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/necessite/histoire/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/necessite/histoire/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/liceite/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/liceite/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/matiere/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/matiere/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/ministre/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/ministre/</loc>
-    <lastmod>2024-09-06T20:02:54+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/bapteme/necessite/</loc>
+    <loc>http://localhost:1313/fr/doctrine/bapteme/necessite/</loc>
     <lastmod>2024-09-06T20:02:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/doctrine/glossaire/saint-esprit/</loc>
@@ -10676,7 +10676,7 @@
   </url><url>
     <loc>http://localhost:1313/fr/vie-religieuse/freres-mineurs/cinq-martyrs-du-maroc/</loc>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/glossaire/confession/obligations-penitent/</loc>
+    <loc>http://localhost:1313/fr/doctrine/confession/obligations-penitent/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/tags/</loc>
     <xhtml:link
