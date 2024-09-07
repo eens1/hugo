@@ -1,11 +1,9 @@
 ---
 title: "Règle et Testament de saint François"
-date: 2024-09-06T20:00:58+02:00
+date: 2024-09-06T20:03:00+02:00
 draft: false
-summary: |
-  
-  Règle de 1223 approuvée par le pape Honorius III.
 ---
+
 
 
 *Jésus-Christ à Saint François* : "Jésus-Christ parut en forme visible dans une nuée toute brillante de lumière, qui d'une voix intelligible dit ces paroles : Petit homme, pourquoi te troubles-tu ? Est-ce toi qui as composé la Règle de ton Ordre ? Es-tu l'auteur de cet Institut ? As-tu inventé ce genre de vie ? N'est-ce pas moi qui t'a dicté tous les articles de la Règle ? 

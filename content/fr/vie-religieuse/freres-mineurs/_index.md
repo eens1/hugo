@@ -1,6 +1,6 @@
 ---
-title: "Frères Mineurs"
-date: 2024-09-06T20:00:57+02:00
+title: "Frères mineurs"
+date: 2024-09-06T20:02:59+02:00
 draft: false
 ---
 
