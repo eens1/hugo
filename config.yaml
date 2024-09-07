@@ -11,6 +11,7 @@ languages:
     contentDir: content/en
     menu:
       main:
+        - name: "🇬🇧"
         - identifier: home
           name: Home
           url: /en
