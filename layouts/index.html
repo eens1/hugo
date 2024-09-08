@@ -4,7 +4,15 @@
 {{ $defaultLang := .Site.Home.Language.Lang }}
 
 {{ if eq $currentLang $defaultLang }}
+   <hr>
+   {{ partial "latestblog.html" . }}
+   <hr>
+   <div class="content">
+   <article>
    {{ .Content }}
+   </article>
+   </div>
+   {{ partial "listposts.html" . }}
 {{ else }}
    <hr>
    {{ partial "latestblog.html" . }}
