@@ -1,3 +1,7 @@
+---
+title: ""
+---
+
 *Pope Innocent III, Fourth Lateran Council, Constitution 1, 1215, ex cathedra*: “There is indeed one universal Church of the faithful, **outside of which nobody at all is saved**, in which Jesus Christ is both priest and sacrifice.”
 
 *St. John Eudes, Man’s Contract With God In Baptism*: “… that you may have a true faith in those things which God has revealed, it is necessary that you should believe in the Catholic Church, in which alone you can learn with certainty what God has revealed… Certainly those who do not believe in the Catholic Church cannot have divine faith in the mysteries which they believe, but only natural and human faith… Thank God for having given you the precious gift of faith, and having made you a child of the holy Catholic Church, which is the faithful repository of the truths of salvation, and which all Christians are obliged to acknowledge as the true Church. 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marie on Extra Ecclesia Nulla Salus</title>
+    <link>http://localhost:1313/en/fr/doctrine/glossaire/marie/</link>
+    <description>Recent content in Marie on Extra Ecclesia Nulla Salus</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Sep 2024 20:02:56 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/fr/doctrine/glossaire/marie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dans la Bible</title>
+      <link>http://localhost:1313/en/fr/doctrine/glossaire/marie/bible/</link>
+      <pubDate>Fri, 06 Sep 2024 20:02:56 +0200</pubDate>
+      <guid>http://localhost:1313/en/fr/doctrine/glossaire/marie/bible/</guid>
+      <description>Isaïe 7:14 : &amp;ldquo;A cause de cela le Seigneur lui-même vous donnera un signe. Voilà que la vierge concevra et enfantera un fils, et son nom sera appelé Emmanuel&amp;rdquo; 1&#xA;Luc 1:26-38 : &amp;ldquo;Au sixième mois, l&amp;rsquo;ange Gabriel fut envoyé de Dieu dans la ville de Galilée, appelée Nazareth, à une vierge qu&amp;rsquo;avait épousée un homme nommé Joseph, de la maison de David; et le nom de la vierge était Marie.</description>
+    </item>
+  </channel>
+</rss>

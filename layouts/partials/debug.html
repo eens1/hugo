@@ -1,0 +1,23 @@
+
+{{ if .Site.IsServer }}
+    <strong>Debug Info:</strong><br>
+    Kind: {{ .Kind }}<br>
+    Type: {{ .Type }}<br>
+    {{ with .Section }}Section: {{ . }}<br>{{ end }}
+    {{ with .Layout }}Layout: {{ . }}<br>{{ end }}
+    {{ if .File }}
+      {{ with .File.Path }}Path: {{ . }}<br>{{ end }}
+      {{ with .File.LogicalName }}Logical Name: {{ . }}<br>{{ end }}
+      {{ with .File.Dir }}Dir: {{ . }}<br>{{ end }}
+      {{ with .File.TranslationBaseName }}TranslationBaseName: {{ . }}<br>{{ end }}
+    {{ end }}
+    {{ if .IsPage }}
+      {{ with .RelPermalink }}RelPermalink: {{ . }}<br>{{ end }}
+      {{ with .Date }}Date: {{ .Format "2006-01-02" }}<br>{{ end }}
+    {{ end }}
+    {{ if eq .Kind "taxonomy" }}
+      Taxonomy: {{ .Data.Singular }}<br>
+      Term: {{ .Data.Term }}<br>
+    {{ end }}
+  </div>
+{{ end }}

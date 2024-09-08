@@ -1,5 +1,5 @@
 ---
-title: Title
+title: ""
 ---
 
 *Pape Innocent III, Concile du Latran 4, can. 1, 1215* : "Il y a une seule Eglise universelle des fidèles, **en dehors de laquelle absolument personne n'est sauvé**, et dans laquelle le Christ est lui-même à la fois le prêtre et le sacrifice..." 

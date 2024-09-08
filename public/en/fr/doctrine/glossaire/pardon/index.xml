@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pardon on Extra Ecclesia Nulla Salus</title>
+    <link>http://localhost:1313/en/fr/doctrine/glossaire/pardon/</link>
+    <description>Recent content in Pardon on Extra Ecclesia Nulla Salus</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Sep 2024 20:02:56 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/fr/doctrine/glossaire/pardon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dans la Bible</title>
+      <link>http://localhost:1313/en/fr/doctrine/glossaire/pardon/bible/</link>
+      <pubDate>Fri, 06 Sep 2024 20:02:56 +0200</pubDate>
+      <guid>http://localhost:1313/en/fr/doctrine/glossaire/pardon/bible/</guid>
+      <description>Matthieu 18:23-35 : &amp;ldquo;C&amp;rsquo;est pourquoi le royaume des cieux est comparé à un homme-roi qui voulut compter avec ses serviteurs. Or, lorsqu&amp;rsquo;il eut commencé à compter, on lui en présenta un qui lui devait dix mille talents. Et comme il n&amp;rsquo;avait pas de quoi les rendre, son maître ordonna qu&amp;rsquo;on le vendît, lui, sa femme et ses filles, et tout ce qu&amp;rsquo;il avait, et qu&amp;rsquo;on payât.&#xA;Mais se jetant à ses pieds, le serviteur le priait, disant : Ayez patience à mon égard, et je vous rendrai tout.</description>
+    </item>
+    <item>
+      <title>Dans la Tradition</title>
+      <link>http://localhost:1313/en/fr/doctrine/glossaire/pardon/tradition/</link>
+      <pubDate>Fri, 06 Sep 2024 20:02:56 +0200</pubDate>
+      <guid>http://localhost:1313/en/fr/doctrine/glossaire/pardon/tradition/</guid>
+      <description>Saint Augustin, Enchirid. ad Laurentium, c. 73 : &amp;ldquo;Ainsi ces paroles de l&amp;rsquo;oraison dominicales : Pardonnez-nous comme nous pardonnons à ceux qui nous ont offensés, signifient proprement : Pardonnez-nous les péchés dont nous vous demandons le pardon, comme nous pardonnons nous-mêmes à ceux qui nous ont offensés, et qui nous demandent pardon.&amp;rdquo; 1&#xA;Saint Augustin, Enchirid. ad Laurent, c. 74 : &amp;ldquo;Quiconque ne pardonne pas du fond du coeur à celui qui lui demande pardon et qui se repent de sa faute, ne doit point s&amp;rsquo;attendre à ce que Dieu lui pardonne à lui-même ses péchés : car la vérité ne saurait mentir, et c&amp;rsquo;est elle qui a dit : Si vous ne pardonnez pas aux hommes leurs offenses, votre Père ne vous pardonnera pas non plus vos péchés.</description>
+    </item>
+  </channel>
+</rss>

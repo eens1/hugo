@@ -2,17 +2,17 @@ baseURL: https://eens.netlify.app/
 title: "Extra Ecclesia Nulla Salus" 
 
 defaultContentLanguage: "en"
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 languages:
   en:
     languageName: "English"
-    weight: 2
+    weight: 1
     contentDir: content/en
     menu:
       main:
         - identifier: home
-          url: /
+          url: /en
           weight: 1
           pre: <i class="fas fa-home"></i>
 
@@ -45,7 +45,7 @@ languages:
 
   fr:
     languageName: "Français"
-    weight: 3
+    weight: 2
     contentDir: content/fr
     menu:
       main:
@@ -80,4 +80,6 @@ languages:
           name: EN
     params:
       dateFormat: "2 Jan 2006"
+
+
 

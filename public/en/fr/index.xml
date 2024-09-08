@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Title on Extra Ecclesia Nulla Salus</title>
+    <link>http://localhost:1313/en/fr/</link>
+    <description>Recent content in Title on Extra Ecclesia Nulla Salus</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Sep 2024 05:12:36 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Videos</title>
+      <link>http://localhost:1313/en/fr/videos/</link>
+      <pubDate>Sun, 08 Sep 2024 05:12:36 +0200</pubDate>
+      <guid>http://localhost:1313/en/fr/videos/</guid>
+      <description>Vous pouvez visionner des vidéos sur la plateforme du Monastère de la Très Sainte Famille, disponible en plusieures langues :&#xA;endtimes.video (platforme principale, en anglais) endtimes.video/fr (platforme en français) </description>
+    </item>
+    <item>
+      <title>Livres</title>
+      <link>http://localhost:1313/en/fr/livres/</link>
+      <pubDate>Fri, 06 Sep 2024 20:00:57 +0200</pubDate>
+      <guid>http://localhost:1313/en/fr/livres/</guid>
+      <description>Voici mes recommandations de lectures.&#xA;Pour comprendre la Grande Apostasie actuelle vaticancatholic.com/what-really-happened-after-vatican-ii/ (en anglais) vaticancatholique.com/eglise-catholique-apres-vatican-ii/ (en français) Hors de l&amp;rsquo;Eglise pas de salut vaticancatholic.com/outside-the-church-there-is-no-salvation (en anglais) vaticancatholique.com/hors-de-eglise-catholique-pas-de-salut (en français) Bible Fillon L.-CL. (1899). La Sainte Bible (texte latin et traduction française) commentée d&amp;rsquo;après la Vulgate et les textes originaux, à l&amp;rsquo;usage des séminaires et du clergé. Letouzey et Ané, éditeurs, troisième édition.&#xA;Glaire J.B. abbé. (1905). La Sainte Bible selon la Vulgate, traduite en français, avec des notes, seule approuvée après examen fait à Rome par la Sacrée Congrégation de l&amp;rsquo;Index.</description>
+    </item>
+    <item>
+      <title>Références</title>
+      <link>http://localhost:1313/en/fr/references/</link>
+      <pubDate>Fri, 06 Sep 2024 20:00:57 +0200</pubDate>
+      <guid>http://localhost:1313/en/fr/references/</guid>
+      <description>Bareille Georges. (1922). Code du droit canonique, modifications introduites dans la précédente législation de l&amp;rsquo;Eglise. Librairie Cardeilhac-Soubiron, éditeur.&#xA;Bareille J. abbé. (1884). Histoire de l&amp;rsquo;Eglise depuis la Création jusqu&amp;rsquo;au XIIe siècle, par l&amp;rsquo;abbé J.-E. Darras, continuée jusqu&amp;rsquo;au pontificat de Pie IX par l&amp;rsquo;abbé J. Bareille. Chez Louis Vivès, Librarie-Editeur.&#xA;Barthe abbé, Fabre abbé. (1886). Catéchisme du catéchiste ou explication raisonnée de la doctrine chrétienne. V. Sarlit et Cie, librairies-éditeurs.&#xA;Battandier Albert Mgr.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/en/fr/contact/</link>
+      <pubDate>Fri, 06 Sep 2024 20:00:56 +0200</pubDate>
+      <guid>http://localhost:1313/en/fr/contact/</guid>
+      <description> Nom: Email: Message: Envoyer </description>
+    </item>
+    <item>
+      <title>A propos</title>
+      <link>http://localhost:1313/en/fr/a-propos/</link>
+      <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
+      <guid>http://localhost:1313/en/fr/a-propos/</guid>
+      <description>Ce site promeut la foi catholique traditionnelle nécessaire pour le salut. Il est réalisé et administré par le frère Matthieu de Versoix, O.F.M.Cap., frère mineur capucin traditionnel.&#xA;Je vous encourage fortement à visiter les sites du Monastère de la Très Sainte Famille, vaticancatholique.com et endtimes.video/fr, pour des informations cruciales sur la foi catholique traditionnelle nécessaire pour le salut.</description>
+    </item>
+  </channel>
+</rss>
