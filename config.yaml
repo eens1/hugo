@@ -2,7 +2,7 @@ baseURL: https://eens.netlify.app/
 title: "Extra Ecclesia Nulla Salus" 
 
 defaultContentLanguage: "en"
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 languages:
   en:
