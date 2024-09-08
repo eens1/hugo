@@ -27,7 +27,13 @@
 <ul class="nav-links">
 {{ $currentPage := . }}
 {{ range .Site.Menus.main }}
-<li><a href="{{ .URL }}">{{ .Name }}</a></li>
+<li>
+<a href="{{ .URL }}">
+{{ with .Pre }}{{ . | safeHTML }}{{ end }}
+{{ .Name }}
+</a>
+</li>
+
 {{ end }}
 </ul>
 

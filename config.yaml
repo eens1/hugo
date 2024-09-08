@@ -17,9 +17,9 @@ languages:
     menu:
       main:
         - identifier: home
-          name: Home
           url: /en
           weight: 1
+          pre: <i class="fas fa-home"></i>
 
         - name: Bible
           url: /en/bible
@@ -33,18 +33,18 @@ languages:
           url: /en/spirituality
           weight: 4
 
-        - identifier: blog
-          name: Blog
-          url: /en/blog
+        - identifier: apologetics
+          name: Apologetics 
+          url: /en/apologetics
           weight: 5
 
-        - name: Contact
-          url: /en/contact
+        - url: /en/contact
           weight: 6
+          name: Contact
 
-        - name: 🇫🇷 Français
-          url: /fr
+        - url: /fr
           weight: 7
+          name: FR
     params:
       dateFormat: "Jan 2, 2006"
 
@@ -55,9 +55,9 @@ languages:
     menu:
       main:
         - identifier: home
-          name: Accueil
           url: /fr
           weight: 1
+          pre: <i class="fas fa-home"></i>
 
         - name: Bible
           url: /fr/bible
@@ -71,17 +71,17 @@ languages:
           url: /fr/spiritualite
           weight: 4
 
-        - identifier: blog
-          name: Blog
-          url: /fr/blog
+        - identifier: apologetique
+          name: Apologétique
+          url: /fr/apologetique
           weight: 5
 
-        - name: Contact
-          url: /fr/contact
+        - url: /fr/contact
+          name: Contact
           weight: 6
 
-        - name: 🇬🇧 English
-          url: /en
+        - url: /en
           weight: 7
+          name: EN
     params:
       dateFormat: "2 Jan 2006"

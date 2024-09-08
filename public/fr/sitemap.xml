@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fr/blog/histoire-capucins-lyon/</loc>
-    <lastmod>2024-09-07T08:42:40+02:00</lastmod>
+    <loc>http://localhost:1313/fr/blog/saint-francois-et-le-sultan-d-egypte/</loc>
+    <lastmod>2024-09-08T05:46:09+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/</loc>
-    <lastmod>2024-09-07T08:42:40+02:00</lastmod>
+    <lastmod>2024-09-08T05:46:09+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -17,6 +17,9 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/videos/</loc>
+    <lastmod>2024-09-08T05:12:36+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/spiritualite/glossaire/</loc>
     <lastmod>2024-09-07T05:57:03+02:00</lastmod>
@@ -828,7 +831,7 @@
     <loc>http://localhost:1313/fr/spiritualite/glossaire/confession/</loc>
     <lastmod>2024-09-06T20:02:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/pierre-de-jean-olieu-confession-de-foi/</loc>
+    <loc>http://localhost:1313/fr/apologetique/pierre-de-jean-olieu-confession-de-foi/</loc>
     <lastmod>2024-09-06T20:02:57+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/spiritualite/prieres/confiteor/</loc>
@@ -10602,9 +10605,6 @@
     <loc>http://localhost:1313/fr/bible/glaire/ancien-testament/02-exode/chap009/</loc>
     <lastmod>2024-09-06T20:00:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/apologetique/pierre-de-jean-olieu-confession-de-foi/</loc>
-    <lastmod>2024-09-06T20:00:34+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/fr/apologetique/hors-de-l-eglise-pas-de-salut/bible/</loc>
     <lastmod>2024-09-06T20:00:34+02:00</lastmod>
   </url><url>
@@ -10620,7 +10620,7 @@
     <loc>http://localhost:1313/fr/apologetique/bible-prouve-catholicisme/</loc>
     <lastmod>2024-09-06T20:00:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/apologetique/sultan-egypte/</loc>
+    <loc>http://localhost:1313/fr/apologetique/saint-francois-converti-le-sultan-egypte/</loc>
     <lastmod>2024-09-06T20:00:34+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/apologetique/guerison-lepreux/</loc>
@@ -10672,7 +10672,7 @@
                 href="http://localhost:1313/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/doctrine/prefet-pretoire-valens/</loc>
+    <loc>http://localhost:1313/fr/apologetique/prefet-pretoire-valens/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/apologetique/cinq-martyrs-du-maroc/</loc>
   </url><url>

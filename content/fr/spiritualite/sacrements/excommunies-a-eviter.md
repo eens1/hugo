@@ -2,14 +2,11 @@
 title: "Excommuniés à éviter"
 date: 2024-09-06T20:00:57+02:00
 draft: false
-summary: |
-  
-  
-  E. Jombart, commentaire du can. 2267, 1958 : \"Les rapports de la vie, civile (conversations, cohabitation ou association, etc) sont interdits aux fidèles avec le *vitandus*, sauf au conjoint, aux parents, aux enfants, aux domestiques, aux sujets et généralement à moins d’avoir une excuse raisonnable (C. 2267). Les termes très adoucis de cette règle font admettre que sa violation ne dépasse pas la faute vémelle.\" [^4]
-  
-  [^4]: Jombard 1958, p. 530.
 ---
-
+  
+E. Jombart, commentaire du can. 2267, 1958 : "Les rapports de la vie, civile (conversations, cohabitation ou association, etc) sont interdits aux fidèles avec le *vitandus*, sauf au conjoint, aux parents, aux enfants, aux domestiques, aux sujets et généralement à moins d’avoir une excuse raisonnable (C. 2267). Les termes très adoucis de cette règle font admettre que sa violation ne dépasse pas la faute vémelle." [^4]
+  
+[^4]: Jombard 1958, p. 530.
 
 Droit canonique de 1917, can. 2258 : "p.1 Certains excommuniés sont "à éviter", d'autres sont "tolérés". p.2 Personne n'est "à éviter", s'il n'a été nommément excommunié par le Siège apostolique, si l'excommunication n'a pas été rendue publique et si le décret ou la sentence ne déclare expressément que le coupable doit être évité, sauf le cas du Can. 2343 p.1 n1." [^1]
 

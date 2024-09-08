@@ -2,10 +2,9 @@
 title: "Sacrements de l'excommunié"
 date: 2024-09-06T20:00:57+02:00
 draft: false
-summary: |
+--- 
   
-  
-  Droit canonique de 1917, can. 882 : En péril de mort, tous les prêtres, quoique non approuvés pour les confessions, absolvent validement et licitement n'importe quels pénitents de tous péchés ou censures, quoique réservés ou notoires, même si un prêtre approuvé est présent, les prescriptions des Can. 884; Can. 2252 demeurant sauves. [^2]
+Droit canonique de 1917, can. 882 : En péril de mort, tous les prêtres, quoique non approuvés pour les confessions, absolvent validement et licitement n'importe quels pénitents de tous péchés ou censures, quoique réservés ou notoires, même si un prêtre approuvé est présent, les prescriptions des Can. 884; Can. 2252 demeurant sauves. [^2]
   
   [^2]: https://www.clerus.org/bibliaclerusonline/es/eyb.htm#bhj
   
@@ -16,7 +15,6 @@ summary: |
   Droit canonique de 1917, can. 2252 : \"Ceux qui se trouvant en danger de mort, ont reçu d'un prêtre sans pouvoir spécial l'absolution d'une censure \"ab homine\" ou très spécialement réservée au Saint-Siège, sont tenus, une fois revenus à la santé, de recourir, sous peine de réincidence, à celui qui a porté la censure, s'il s'agit d'une censure \"ab homine\"; à la S. Pénitencerie, à l'évêque ou à un clerc muni du pouvoir nécessaire, conformément au Can. 2254 p.1, s'il s'agit d'une censure \"a jure\", et d'obéir à leurs prescriptions.\" [^4]
   
   [^4]: https://www.clerus.org/bibliaclerusonline/es/eys.htm#cr5
----
 
 
 Droit canonique de 1917, can. 2261 :  "p.1 Il est défendu à l'excommunié de produire et d'administrer les sacrements et les sacramentaux sauf les exceptions suivantes.

@@ -2,12 +2,12 @@
 title: "Pape Martin V, Ad Evitanda Scandala"
 date: 2024-09-06T20:00:57+02:00
 draft: false
-summary: |
+---
   
   
-  Abbé Craisson, *De la sépulture ecclésiastique*, 1868 : \"On sait que, d'après la bulle de Martin V *Ad evitanda*, il y a deux sortes d'excommuniés : ceux que l'on doit éviter et ceux qu'on peut tolérer. Par excommuniés qu'on doit éviter, on entend ceux qui sont dénoncés nommément comme tels, ou qui sont notoirement connus comme ayant frappé des clercs. Les excommuniés non compris dans ces deux catégories sont appelés tolérés.\" [^2]
+Abbé Craisson, *De la sépulture ecclésiastique*, 1868 : "On sait que, d'après la bulle de Martin V *Ad evitanda*, il y a deux sortes d'excommuniés : ceux que l'on doit éviter et ceux qu'on peut tolérer. Par excommuniés qu'on doit éviter, on entend ceux qui sont dénoncés nommément comme tels, ou qui sont notoirement connus comme ayant frappé des clercs. Les excommuniés non compris dans ces deux catégories sont appelés tolérés." [^2]
   
-  [^2]: Craisson 1868.
+[^2]: Craisson 1868.
   
   Frère Peter Dimond, O.S.B., *Sacraments from Undeclared Heretics Debate* : \"Dans ce décret, nous voyons qu'il faut éviter : 1) ceux qui ont été déclarés (notoire en droit) ou 2) ceux qui n'ont pas été déclarés, mais qui ont frappé un clerc et dont la preuve ne peut être \"dissimulée par aucune tergiversation.\" Tergiversation signifie \"équivoque\" ou \"mensonge\". En d’autres termes, cela doit être si clair qu’il ne puisse être caché même par une argumentation malhonnête. Ceci est un autre exemple du point évoqué ci-dessus concernant les \"orthodoxes\" orientaux, qui ne cachent pas et ne peuvent pas cacher leur rejet de la papauté.\"
   
