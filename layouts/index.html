@@ -1,20 +1,20 @@
 {{ define "main" }}
 
-{{ if eq .Site.Language.Lang .Site.DefaultContentLanguage }}
+{{ $currentLang := .Site.Language.Lang }}
+{{ $defaultLang := .Site.Home.Language.Lang }}
 
-{{ .Content }}
-
+{{ if eq $currentLang $defaultLang }}
+   {{ .Content }}
 {{ else }}
-
-<hr>
-{{ partial "latestblog.html" . }}
-<hr>
-<div class="content">
-<article>
-{{ .Content }}
-</article>
-</div>
-{{ partial "listposts.html" . }}
-
+   <hr>
+   {{ partial "latestblog.html" . }}
+   <hr>
+   <div class="content">
+   <article>
+   {{ .Content }}
+   </article>
+   </div>
+   {{ partial "listposts.html" . }}
 {{ end }}
+
 {{ end }}
