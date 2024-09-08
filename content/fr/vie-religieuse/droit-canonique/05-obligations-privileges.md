@@ -2,7 +2,7 @@
 title: "Chap. 5 - Obligations et privilèges des religieux (592-631)"
 date: 2024-09-06T20:00:57+02:00
 draft: false
-summary: |
+---
   
   
   **592**
@@ -438,7 +438,6 @@ summary: |
   p.3 S'il s'agit de renvoyer de la paroisse le curé ou le vicaire religieux,
   on fera ce qui est prévu au {Can. 454 p.5} et pour ce qui touche aux biens
   temporels, on s'en tiendra aux {Can. 533 p.1 n4} ; {Can. 535 p.3 n2} .
----
 
 
 ## Obligations des religieux (592-612)

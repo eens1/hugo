@@ -1,27 +1,28 @@
+
 {{ $pages := .Pages }}
-{{ $sortBy := .Params.sort_by | default "title" }}
-{{ $sortOrder := .Params.sort_reverse | default false }}
+{{ $sortedPages := sort $pages "File.Path" }}
 
-{{ if eq $sortBy "title" }}
-  {{ $pages = sort $pages ".Title" }}
-{{ else if eq $sortBy "date" }}
-  {{ $pages = sort $pages ".Date" }}
-{{ else if eq $sortBy "filename" }}
-  {{ $pages = sort $pages ".File.LogicalName" }}
-{{ else }}
-  {{ $pages = sort $pages $sortBy }}
+{{ $customSort := slice }}
+{{ range $sortedPages }}
+  {{ $filename := .File.LogicalName }}
+  {{ $parentDir := path.Base .File.Dir }}
+  
+  {{ if eq $filename "_index.md" }}
+    {{ $customSort = $customSort | append (dict "page" . "sortKey" $parentDir "permalink" .Permalink) }}
+  {{ else }}
+    {{ $customSort = $customSort | append (dict "page" . "sortKey" $filename "permalink" .Permalink) }}
+  {{ end }}
 {{ end }}
 
-{{ if $sortOrder }}
-  {{ $pages = $pages.Reverse }}
-{{ end }}
+{{ $sortedCustom := sort $customSort "sortKey" }}
 
 <ul>
-{{ range $pages }}
+{{ range $sortedCustom }}
   <li>
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-   <div>{{ .Params.summary }}</div>
+  {{ $page := .page }}
+    <a href="{{ .permalink }}">{{ $page.Title }}</a>
   </li>
+  <div>{{ $page.Params.Summary }}</div>
 {{ end }}
 </ul>
 

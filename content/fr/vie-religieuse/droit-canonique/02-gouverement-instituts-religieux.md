@@ -2,7 +2,7 @@
 title: "Chap. 2 - Du gouvernement des instituts religieux (499-537)"
 date: 2024-09-06T20:00:57+02:00
 draft: false
-summary: |
+---
   
   
   **499**
@@ -471,8 +471,6 @@ summary: |
   Les largesses prélevées sur les biens de la maison, de la province,
   de l'institut ne sont permises qu'à titre d'aumône ou pour une autre juste
   cause, avec la permission du supérieur et conformément aux institutions.
----
-
 
 ## Des Supérieurs et des chapitres (499-517)
 

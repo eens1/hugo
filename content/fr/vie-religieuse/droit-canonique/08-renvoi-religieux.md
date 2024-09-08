@@ -2,8 +2,7 @@
 title: "Chap. 8 - Le renvoi des religieux (646 - 672)"
 date: 2024-09-06T20:00:57+02:00
 draft: false
-summary: |
-  
+---  
   
   **647**
   p.1 Le profès de voeux temporaires, tant dans les ordres que dans les
@@ -277,7 +276,6 @@ summary: |
   il restera sous sa juridiction et sous sa spéciale vigilance,
   selon les prescriptions du {Can. 642} ;
   dans le cas contraire son cas sera présenté entre les mains du Saint-Siège.
----
 
 
 **646**

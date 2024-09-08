@@ -2,8 +2,7 @@
 title: "Chap. 3 - L'admission en religion (538 - 586)"
 date: 2024-09-06T20:00:57+02:00
 draft: false
-summary: |
-  
+---  
   
   **539**
   p.1 Dans les religions de voeux perpétuels, toutes les femmes,
@@ -580,7 +579,6 @@ summary: |
   p.3 S'il existe des arguments graves contre la validité de la profession et que
   le religieux comme moyen de prudence ne veut la renouveller,
   ni en demander la sanation, on devra exposer le cas au Siège apostolique.
----
 
 
 **538**
