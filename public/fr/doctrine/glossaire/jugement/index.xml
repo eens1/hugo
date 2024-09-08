@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jugement on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/doctrine/glossaire/jugement/</link>
+    <link>http://localhost:1313/fr/doctrine/glossaire/jugement/</link>
     <description>Recent content in Jugement on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:56 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/doctrine/glossaire/jugement/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/doctrine/glossaire/jugement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dans la Bible</title>
-      <link>https://eens.netlify.app/fr/doctrine/glossaire/jugement/bible/</link>
+      <link>http://localhost:1313/fr/doctrine/glossaire/jugement/bible/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:56 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/glossaire/jugement/bible/</guid>
+      <guid>http://localhost:1313/fr/doctrine/glossaire/jugement/bible/</guid>
       <description></description>
     </item>
     <item>
       <title>Dans la Tradition</title>
-      <link>https://eens.netlify.app/fr/doctrine/glossaire/jugement/tradition/</link>
+      <link>http://localhost:1313/fr/doctrine/glossaire/jugement/tradition/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:56 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/glossaire/jugement/tradition/</guid>
+      <guid>http://localhost:1313/fr/doctrine/glossaire/jugement/tradition/</guid>
       <description>Saint Thomas d&amp;rsquo;Aquin, Somme théologique, p. II-II, q. 60, a. 1 : &amp;ldquo;&amp;hellip; le jugement désigne proprement l&amp;rsquo;acte du juge considéré comme tel. Le mot juge (judex) signifie en quelque sorte celui qui proclame le droit (jus dicens).&amp;rdquo; 1&#xA;Pape Innocent III, Concile du Latran 4, Can. 1 : &amp;ldquo;Le Concile prononce anathème contre toutes les hérésies contraires à l&amp;rsquo;exposition de foi précédente; et ordonne que les hérétiques, après avoir été condamnés, seront livrés aux puissances séculières, en observant toutefois de dégrader les clercs avant de les livrer au bras séculier; on ordonne que les biens des laïques ainsi condamnés soient confisqués, et ceux des clercs, appliqués aux églises, dont ils ont reçu les rétributions; que l&amp;rsquo;on frappe aussi d&amp;rsquo;anathème ceux qui seront suspects d&amp;rsquo;hérésie, à moins qu&amp;rsquo;ils ne se justifient d&amp;rsquo;une manière convenable, suivant la nature du soupçon et la qualité de la personne; que tous les fidèles évitent de communiquer avec eux, jusqu&amp;rsquo;à ce qu&amp;rsquo;ils aient satisfait à l&amp;rsquo;Eglise, et qu&amp;rsquo;ils soient enfin condamnés comme hérétiques, s&amp;rsquo;ils persistent dans l&amp;rsquo;excommunication pendant un an.</description>
     </item>
     <item>
       <title>Jugement téméraire</title>
-      <link>https://eens.netlify.app/fr/doctrine/glossaire/jugement/jugement-temeraire/</link>
+      <link>http://localhost:1313/fr/doctrine/glossaire/jugement/jugement-temeraire/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:56 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/glossaire/jugement/jugement-temeraire/</guid>
+      <guid>http://localhost:1313/fr/doctrine/glossaire/jugement/jugement-temeraire/</guid>
       <description>Saint Alphone de Liguori : &amp;ldquo;Le jugement téméraire est péché mortel, quand, sans un fondement suffisant, on juge que le prochain a commis une faute grave; de sorte que ces jugements sont rarement mortels, parce qu&amp;rsquo;ordinairement on croit que le fondement est suffisant, ou qu&amp;rsquo;on ne forme pas des jugements absolus, mais seulement des soupçons qui, (quoique téméraires), ne sont ordinairement pas mortels, à moins qu&amp;rsquo;il ne s&amp;rsquo;agit d&amp;rsquo;énormités, comme d&amp;rsquo;hérésies, de parricides, etc.</description>
     </item>
   </channel>

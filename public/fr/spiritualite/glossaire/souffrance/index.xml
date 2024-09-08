@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Souffrance on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/spiritualite/glossaire/souffrance/</link>
+    <link>http://localhost:1313/fr/spiritualite/glossaire/souffrance/</link>
     <description>Recent content in Souffrance on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:57 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/spiritualite/glossaire/souffrance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/spiritualite/glossaire/souffrance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienheureuse Angele de Foligno : l’abjection</title>
-      <link>https://eens.netlify.app/fr/spiritualite/glossaire/souffrance/compagnes-de-jesus-christ-abjection/</link>
+      <link>http://localhost:1313/fr/spiritualite/glossaire/souffrance/compagnes-de-jesus-christ-abjection/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:57 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/spiritualite/glossaire/souffrance/compagnes-de-jesus-christ-abjection/</guid>
+      <guid>http://localhost:1313/fr/spiritualite/glossaire/souffrance/compagnes-de-jesus-christ-abjection/</guid>
       <description> </description>
     </item>
     <item>
       <title>Dans la Bible</title>
-      <link>https://eens.netlify.app/fr/spiritualite/glossaire/souffrance/bible/</link>
+      <link>http://localhost:1313/fr/spiritualite/glossaire/souffrance/bible/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:57 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/spiritualite/glossaire/souffrance/bible/</guid>
+      <guid>http://localhost:1313/fr/spiritualite/glossaire/souffrance/bible/</guid>
       <description></description>
     </item>
     <item>
       <title>Notre Seigneur à sainte Térèse d&#39;Avila</title>
-      <link>https://eens.netlify.app/fr/spiritualite/glossaire/souffrance/sainte-terese-d-avila/</link>
+      <link>http://localhost:1313/fr/spiritualite/glossaire/souffrance/sainte-terese-d-avila/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:57 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/spiritualite/glossaire/souffrance/sainte-terese-d-avila/</guid>
+      <guid>http://localhost:1313/fr/spiritualite/glossaire/souffrance/sainte-terese-d-avila/</guid>
       <description>&amp;ldquo;Notre Seigneur me dit un jour :&#xA;Penses-tu, ma fille, que le mérite consiste à jouir ? non, mais à travailler, à souffrir, et à aimer. Tu n’as vue nulle part que Saint Paul ai goûté plus d’une fois des délices célestes, tandis qu’il a eu très souvent à souffrir. Considère encore ma vie ; elle n’a été que souffrances, tu n’y trouves qu’une heure de bonheur, celle du Thabor. Garde-toi de croire, quand tu contemples ma Mère me tenant entre ses bras, que des joies si douces fussent exemptes d’un cruel martyre : dès qu’elle eut entendu les paroles de Siméon, mon Père l’éclaira pour lui montrer tout ce que j’aurais à souffrir.</description>
     </item>
   </channel>

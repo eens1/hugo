@@ -19,7 +19,7 @@
 <ul>
 {{ range $pages }}
   <li>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
    <div>{{ .Params.summary }}</div>
   </li>
 {{ end }}

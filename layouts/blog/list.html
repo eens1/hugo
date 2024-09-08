@@ -1,16 +1,25 @@
 {{ define "main" }}
 
+{{ partial "postnav.html" . }}
+
 <h1>{{ .Title }}</h1>
 
 {{ .Content }}
 
-{{ range .Pages }}
+{{ $pages := .Pages }}
+{{ $paginator := .Paginate $pages }}
 
-{{ $dateFormat := .Site.Params.dateFormat | default ":date_long" }}
-<time>{{ .Date | time.Format $dateFormat }}</time> - 
-<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+{{ range $paginator.Pages }}
+   {{ $dateFormat := .Site.Params.dateFormat | default ":date_long" }}
+   <article>
+   <time>{{ .Date | time.Format $dateFormat }}</time> - 
+   <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+   </article>
 {{ end }}
 
+{{ partial "pagination.html" . }}
+
 {{ end }}
+
 
 

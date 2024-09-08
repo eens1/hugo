@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apparitions on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/spiritualite/glossaire/apparitions/</link>
+    <link>http://localhost:1313/fr/spiritualite/glossaire/apparitions/</link>
     <description>Recent content in Apparitions on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:57 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/spiritualite/glossaire/apparitions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/spiritualite/glossaire/apparitions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dans la Bible</title>
-      <link>https://eens.netlify.app/fr/spiritualite/glossaire/apparitions/bible/</link>
+      <link>http://localhost:1313/fr/spiritualite/glossaire/apparitions/bible/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:57 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/spiritualite/glossaire/apparitions/bible/</guid>
+      <guid>http://localhost:1313/fr/spiritualite/glossaire/apparitions/bible/</guid>
       <description>1 Thessaloniciens 5:20-22 : &amp;ldquo;Ne méprisez pas les prophéties. Eprouvez tout; retenez ce qui est bon.&amp;rdquo; 1&#xA;Glaire 1905, p. 2829.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     <item>
       <title>Définition</title>
-      <link>https://eens.netlify.app/fr/spiritualite/glossaire/apparitions/definition/</link>
+      <link>http://localhost:1313/fr/spiritualite/glossaire/apparitions/definition/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:57 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/spiritualite/glossaire/apparitions/definition/</guid>
+      <guid>http://localhost:1313/fr/spiritualite/glossaire/apparitions/definition/</guid>
       <description></description>
     </item>
     <item>
       <title>La Salette</title>
-      <link>https://eens.netlify.app/fr/spiritualite/glossaire/apparitions/la-salette/</link>
+      <link>http://localhost:1313/fr/spiritualite/glossaire/apparitions/la-salette/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:57 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/spiritualite/glossaire/apparitions/la-salette/</guid>
+      <guid>http://localhost:1313/fr/spiritualite/glossaire/apparitions/la-salette/</guid>
       <description>Message de la Sainte Vierge : &amp;ldquo;Si mon peuple ne veut pas se soumettre, je suis forcée de laisser aller la main de mon Fils. Elle est si lourde et si pesante, que je ne puis plus la retenir.&#xA;Depuis le temps que je souffre pour vous autres ! Si je veux que mon Fils ne vous abandonne pas, je suis chargée de le prier sans cesse. Et pour vous autres, vous n&amp;rsquo;en faites pas cas.</description>
     </item>
     <item>
       <title>Le secret complet de La Salette</title>
-      <link>https://eens.netlify.app/fr/spiritualite/glossaire/apparitions/la-salette-complet/</link>
+      <link>http://localhost:1313/fr/spiritualite/glossaire/apparitions/la-salette-complet/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:57 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/spiritualite/glossaire/apparitions/la-salette-complet/</guid>
+      <guid>http://localhost:1313/fr/spiritualite/glossaire/apparitions/la-salette-complet/</guid>
       <description>Publié par Mélanie de La Salette, soeur Marie de la Croix, précédé d&amp;rsquo;un préface, suivi des dernières lettres de Mélanie et d&amp;rsquo;une lettre de Mgr Zola, évêque de Lecce, son directeur spirituel depuis 1867, 1881.&#xA;Je soumets cette publication au jugement du Saint-Siège Apostolique et je déclare condamner et rétracter à l&amp;rsquo;avance tout ce qu&amp;rsquo;il y trouverait de contraire à la doctrine Catholique.&#xA;MÉLANIE BERGÈRE DE LA SALETTE.&#xA;2° La publication du secret devait être faite : la sainte Vierge en a donné l&amp;rsquo;ordre à Mélanie ; et celle-ci l&amp;rsquo;a suivi.</description>
     </item>
   </channel>
