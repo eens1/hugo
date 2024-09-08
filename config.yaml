@@ -7,6 +7,11 @@ defaultContentLanguageInSubdir: true
 paginate: 20
 paginatePath: "page"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 languages:
   en:
     languageName: "English"

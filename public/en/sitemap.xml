@@ -4408,6 +4408,8 @@
                 href="http://localhost:1313/en/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/send/</loc>
+  </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"

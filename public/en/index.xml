@@ -454,7 +454,7 @@
       <link>http://localhost:1313/en/contact/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
       <guid>http://localhost:1313/en/contact/</guid>
-      <description></description>
+      <description> Name: Email: Message: Submit </description>
     </item>
     <item>
       <title>Chapter 1</title>
@@ -9541,6 +9541,13 @@
       <pubDate>Fri, 06 Sep 2024 17:20:30 +0200</pubDate>
       <guid>http://localhost:1313/en/blog/mary-is-not-co-redemptrix/</guid>
       <description> </description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/en/send/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/send/</guid>
+      <description>Message sent.</description>
     </item>
   </channel>
 </rss>

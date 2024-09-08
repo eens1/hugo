@@ -1644,7 +1644,7 @@
       <link>http://localhost:1313/fr/spiritualite/glossaire/souffrance/compagnes-de-jesus-christ-abjection/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:57 +0200</pubDate>
       <guid>http://localhost:1313/fr/spiritualite/glossaire/souffrance/compagnes-de-jesus-christ-abjection/</guid>
-      <description> </description>
+      <description>La Théologie de la Croix de Jésus-Christ, Angele de Foligni, traduit de l’original latin, pp. 50-59, 1696.&#xA;De la seconde des compagnes de Jésus-Christ, qui est l’abjection ou l’avilissement. Combien les Chrétiens y sont maintenant opposés. Raisons pourquoi il faut endurer le mépris, soit qu’on ait tort ou non. 1. La seconde des compagnes, dont le Fils de Dieu s’est associé durant qu’il a vécu sur la terre, a été un parfait mépris de soi, une grande abjection, et une ignominie honteuse, volontaire, et extrême qu’il a voulu subir ici continuellement.</description>
     </item>
     <item>
       <title>Cinquième Commandement</title>
@@ -1791,7 +1791,7 @@
       <link>http://localhost:1313/fr/spiritualite/glossaire/apparitions/la-salette-complet/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:57 +0200</pubDate>
       <guid>http://localhost:1313/fr/spiritualite/glossaire/apparitions/la-salette-complet/</guid>
-      <description>Publié par Mélanie de La Salette, soeur Marie de la Croix, précédé d&amp;rsquo;un préface, suivi des dernières lettres de Mélanie et d&amp;rsquo;une lettre de Mgr Zola, évêque de Lecce, son directeur spirituel depuis 1867, 1881.&#xA;Je soumets cette publication au jugement du Saint-Siège Apostolique et je déclare condamner et rétracter à l&amp;rsquo;avance tout ce qu&amp;rsquo;il y trouverait de contraire à la doctrine Catholique.&#xA;MÉLANIE BERGÈRE DE LA SALETTE.&#xA;2° La publication du secret devait être faite : la sainte Vierge en a donné l&amp;rsquo;ordre à Mélanie ; et celle-ci l&amp;rsquo;a suivi.</description>
+      <description>Publié par Mélanie de La Salette, soeur Marie de la Croix, précédé d&amp;rsquo;un préface, suivi des dernières lettres de Mélanie et d&amp;rsquo;une lettre de Mgr Zola, évêque de Lecce, son directeur spirituel depuis 1867, 1881.&#xA;Sommaire : Avant-propos L&#39;apparition de la Très-Sainte Vierge sur la montagne de Ls Salette Deux lettres récentes de mélanie Je soumets cette publication au jugement du Saint-Siège Apostolique et je déclare condamner et rétracter à l&amp;rsquo;avance tout ce qu&amp;rsquo;il y trouverait de contraire à la doctrine Catholique.</description>
     </item>
     <item>
       <title>Les enfants appartiennent à Dieu</title>
@@ -1980,7 +1980,7 @@
       <link>http://localhost:1313/fr/spiritualite/glossaire/enfer/sainte-therese-d-avila-vision-enfer/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:57 +0200</pubDate>
       <guid>http://localhost:1313/fr/spiritualite/glossaire/enfer/sainte-therese-d-avila-vision-enfer/</guid>
-      <description> </description>
+      <description>Oeuvres de sainte Térèse, traduites d&#39;après les manuscrits originaux par R. P. Marcel Bouix, Tome I, Vie de sainte Térèse, écrite par elle-même, pp. 443-449, 1852.&#xA;Étant un jour en oraison, je me trouvai en un instant, sans savoir de quelle manière, transportée corps et âme dans l’enfer. Je compris que Dieu voulait me faire voir la place que les démons m’y avaient préparée, et que j’aurais méritée par les péchés où je serais tombée si je n’avais changé de vie.</description>
     </item>
     <item>
       <title>Acte civil</title>
@@ -4892,7 +4892,7 @@
       <link>http://localhost:1313/fr/contact/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:56 +0200</pubDate>
       <guid>http://localhost:1313/fr/contact/</guid>
-      <description></description>
+      <description> Nom: Email: Message: Envoyer </description>
     </item>
     <item>
       <title>Caput </title>
@@ -23002,6 +23002,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/vie-religieuse/freres-mineurs/cinq-martyrs-du-maroc/</guid>
       <description>Premiers Martyrs de l&amp;rsquo;Ordre des Frères Mineurs.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/fr/envoi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/envoi/</guid>
+      <description>Message envoyé.</description>
     </item>
     <item>
       <title>Obligations du pénitent</title>
