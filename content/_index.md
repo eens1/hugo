@@ -1,6 +1,10 @@
 ---
-title: 'some title'
-date: 2024-09-06T12:06:18+02:00
+title: "Choose Your Language | Choisissez votre langue"
 ---
 
-Some homepage content.
+Welcome to our website. Please choose your language:
+
+Bienvenue sur notre site. Veuillez choisir votre langue:
+
+- [English](/en/)
+- [Français](/fr/)
