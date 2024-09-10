@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/fr/</loc>
-    <lastmod>2024-09-08T05:46:09+02:00</lastmod>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,9 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/spiritualite/glossaire/joie/saint-francois-d-assise/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/blog/saint-francois-et-le-sultan-d-egypte/</loc>
     <lastmod>2024-09-08T05:46:09+02:00</lastmod>
@@ -10640,8 +10643,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/fr/bible/glaire/ancien-testament/06-josue/chap034/</loc>
-  </url><url>
-    <loc>http://localhost:1313/fr/spiritualite/glossaire/joie/saint-francois-d-assise/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/spiritualite/glossaire/mort/</loc>
   </url><url>

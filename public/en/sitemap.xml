@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-09-06T20:02:28+02:00</lastmod>
+    <lastmod>2024-09-10T16:37:26+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -14,6 +14,9 @@
                 hreflang="en"
                 href="http://localhost:1313/en/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/blog/antipope-francis-blesses-all-false-religions/</loc>
+    <lastmod>2024-09-10T16:37:26+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/spirituality/religious-life/friars-minors/first-rule/01/</loc>
     <lastmod>2024-09-06T20:02:28+02:00</lastmod>
