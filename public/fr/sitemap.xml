@@ -15,6 +15,9 @@
                 href="http://localhost:1313/fr/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/vie-religieuse/glossaire/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/spiritualite/glossaire/joie/saint-francois-d-assise/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,9 +32,6 @@
   </url><url>
     <loc>http://localhost:1313/fr/catechisme/</loc>
     <lastmod>2024-09-07T05:31:14+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/vie-religieuse/glossaire/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/vie-religieuse/freres-mineurs/regle-testament/la/01/</loc>
     <lastmod>2024-09-06T20:03:00+02:00</lastmod>

@@ -9,6 +9,7 @@
 {{ $pages := .Pages }}
 {{ $paginator := .Paginate $pages }}
 
+<div class="listposts">
 {{ range $paginator.Pages }}
    {{ $dateFormat := .Site.Params.dateFormat | default ":date_long" }}
    <article>
@@ -16,6 +17,7 @@
    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
    </article>
 {{ end }}
+</div>
 
 {{ partial "pagination.html" . }}
 

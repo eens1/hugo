@@ -35,6 +35,9 @@ text-decoration: underline;
 main {
 min-height: 500px;
 }
+.listposts article {
+margin-bottom: 5px;
+}
 
 footer {
 margin-top: 50px;
