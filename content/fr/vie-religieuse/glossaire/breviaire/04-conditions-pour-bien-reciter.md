@@ -2,7 +2,7 @@
 title: "Conditions pour bien réciter le bréviaire"
 date: 2024-09-06T20:02:58+02:00
 draft: false
-summary: |
+---
   
   
   > Abbé Veghe, 1912 : \"L’office divin étant une prière vocale, la première condition exprimée par le mot *digne* regarde l’*exactitude*, que l’on doit apporter dans la récitation du Bréviaire. Pour cela il faut prononcer chaque mot, chaque syllabe, et il ne suffit pas de méditer, ni de lire des yeux. 
@@ -23,7 +23,6 @@ summary: |
   > Dans le droit, en effet, on est censé avoir rempli la loi, dès qu’on a fait ce qui est prescrit, alors même qu’on n’a pas l'intention de satisfaire. Ainsi, celui qui récite son office par dévotion, se réservant de le recommencer plus tard par obligation, satisfait. Il dit son office, l’Eglise s’en empare et le fait sien, s'appuyant sur cet axiome : *Nemo liberalis, nist liberatus*.\" [^1]
   
   [^1]: Veghe 1912, pp. 12-13.
----
 
 
 > Abbé Veghe, 1912 : "Le Bréviaire demande de l’*exactitude*, de l'*attention* et de la *dévotion* de la part de celui qui le dit. De là cette prière que l’on a coutume de réciter avant de commencer l’office : "Apert, Domine, os meum... etc., ut **digne**, **attente**, ac **devote** hoc officium recitare valeam." [^1]
