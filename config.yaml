@@ -7,6 +7,14 @@ defaultContentLanguageInSubdir: true
 paginate: 20
 paginatePath: "page"
 
+outputs:
+  home:
+    - HTML
+    - RSS
+  section:
+    - HTML
+    - RSS
+
 markup:
   goldmark:
     renderer:
