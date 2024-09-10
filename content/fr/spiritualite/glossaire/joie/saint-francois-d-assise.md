@@ -1,4 +1,7 @@
-# Joie parfaite selon saint François d'Assise
+---
+title: "Joie parfaite selon saint François d'Assise"
+date: 2024-09-10
+---
 
 "C'était pendant l'hiver ; un jour que saint François se rendait de Pérouse à Sainte-Marie-des-Anges par un froid très-rigoureux, il appela Frère Léon, qui se trouvait à quelques pas devant lui, et lui dit : 
 
