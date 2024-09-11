@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philémon on Extra Ecclesia Nulla Salus</title>
+    <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/18-philemon/</link>
+    <description>Recent content in Philémon on Extra Ecclesia Nulla Salus</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 06 Sep 2024 20:00:45 +0200</lastBuildDate>
+    <atom:link href="https://eens.netlify.app/fr/bible/glaire/nouveau-testament/18-philemon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapitre 1</title>
+      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/18-philemon/chap001/</link>
+      <pubDate>Fri, 06 Sep 2024 20:00:45 +0200</pubDate>
+      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/18-philemon/chap001/</guid>
+      <description>Saint Paul exhorte Philémon à recevoir Onésime, son esclave, qui, s’étant enfui de chez lui, était venu trouver l’Apôtre à Rome, et y avait reçu le baptême.</description>
+    </item>
+  </channel>
+</rss>
