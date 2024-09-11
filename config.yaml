@@ -99,4 +99,14 @@ languages:
           name: EN
           pre: <i class="fas fa-globe"></i>
 
+params:
+  headless_cms:
+    engine: "sveltia"
+    backend:
+      name: "github"
+      repo: "eens1/hugo"
+      branch: "main"
+      auth_endpoint: "https://github.com/login/oauth/authorize"
+      base_url: "https://api.github.com"
+      client_id: "Iv23liLiHrWbHsdkUa20"
 
