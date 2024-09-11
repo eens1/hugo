@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fêtes d&#39;obligation on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:41727/fr/calendrier/fetes-obligation/</link>
+    <link>https://eens.netlify.app/fr/calendrier/fetes-obligation/</link>
     <description>Recent content in Fêtes d&#39;obligation on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:53 +0200</lastBuildDate>
-    <atom:link href="http://localhost:41727/fr/calendrier/fetes-obligation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens.netlify.app/fr/calendrier/fetes-obligation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pour l&#39;Eglise universelle</title>
-      <link>http://localhost:41727/fr/calendrier/fetes-obligation/eglise-universelle/</link>
+      <link>https://eens.netlify.app/fr/calendrier/fetes-obligation/eglise-universelle/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:53 +0200</pubDate>
-      <guid>http://localhost:41727/fr/calendrier/fetes-obligation/eglise-universelle/</guid>
+      <guid>https://eens.netlify.app/fr/calendrier/fetes-obligation/eglise-universelle/</guid>
       <description>E. Jombart, Manuel de droit canon, 1958 : &amp;ldquo;Un jour de fête, comme un jour de jeûne ou d&amp;rsquo;abstinence, dure de minuit à minuit&amp;hellip; Il faut toujours vingt-quatre heures, mais plusieurs façons sont admises de calculer le point de départ (C. 33, § I).&amp;rdquo;1&#xA;Droit canonique de 1917, can. 1247 : &amp;ldquo;§ 1. Dies festi sub praecepto in universa Ecclesia sunt tantum : Omnes et singuli dies dominici, festa Nativitatis, Circumcisionis, Epiphaniae, Ascensionis et sanctissimi Corporis Christi, Immaculatae Conceptionis et Assumptionis Almae Genitricis Dei Mariae, sancti Ioseph eius sponsi, Beatorum Petri et Pauli Apostolorum, Omnium denique Sanctorum.</description>
     </item>
     <item>
       <title>Pour la France</title>
-      <link>http://localhost:41727/fr/calendrier/fetes-obligation/france/</link>
+      <link>https://eens.netlify.app/fr/calendrier/fetes-obligation/france/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:53 +0200</pubDate>
-      <guid>http://localhost:41727/fr/calendrier/fetes-obligation/france/</guid>
+      <guid>https://eens.netlify.app/fr/calendrier/fetes-obligation/france/</guid>
       <description>Convention entre le pape Pie VII et le gouvernement français, Indult pour la réduction des fêtes, 1802 : &amp;ldquo;Les jours de fêtes qui seront célébrés en France, outre les dimanches, sont :&#xA;La Naissance de notre Seigneur Jésus-Christ. L&amp;rsquo;Ascension. L&amp;rsquo;Assomption de la très-sainte Vierge. La fête de tous les saints.&amp;rdquo; 1 Caprara 1802, p. 127.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
   </channel>

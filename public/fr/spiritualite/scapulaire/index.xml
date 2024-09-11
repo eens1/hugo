@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scapulaire on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:41727/fr/spiritualite/scapulaire/</link>
+    <link>https://eens.netlify.app/fr/spiritualite/scapulaire/</link>
     <description>Recent content in Scapulaire on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:57 +0200</lastBuildDate>
-    <atom:link href="http://localhost:41727/fr/spiritualite/scapulaire/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens.netlify.app/fr/spiritualite/scapulaire/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Très-Sainte Vierge apparaît à Simon de Stock et lui remet le Scapulaire</title>
-      <link>http://localhost:41727/fr/spiritualite/scapulaire/simon-stock-scapulaire/</link>
+      <link>https://eens.netlify.app/fr/spiritualite/scapulaire/simon-stock-scapulaire/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:57 +0200</pubDate>
-      <guid>http://localhost:41727/fr/spiritualite/scapulaire/simon-stock-scapulaire/</guid>
+      <guid>https://eens.netlify.app/fr/spiritualite/scapulaire/simon-stock-scapulaire/</guid>
       <description>Voir la Bulle Sabbatine du pape Jean XXII.&#xA;Source: Alfred Monbrun, Vie de saint Simon de Stock, chap. XII, 1869.&#xA;La paix dont jouissait le Carmel ne fut pas d&amp;rsquo;abord universelle, protégé qu&amp;rsquo;il était par le Saint-Siége, et malgré le zèle de Simon de Stock. Depuis deux ans, l&amp;rsquo;Ordre des Carmes avait été solennellement reconnu Ordre-Mendiant, mais cette reconnaissance n&amp;rsquo;avait nullement arrêté la fougue de ses ennemis. Aux Religieux des autres Ordres s&amp;rsquo;étaient joints les Prêtres séculiers, et à tout prix on réclamait la suppression de ces Orientaux, aux usages inconnus jusqu&amp;rsquo;alors, aux prétentions trop belles pour qu&amp;rsquo;on ne leur en fît pas un crime.</description>
     </item>
     <item>
       <title>Bulle Sabbatine du Pape Jean XXII</title>
-      <link>http://localhost:41727/fr/spiritualite/scapulaire/bulle-sabbatine/</link>
+      <link>https://eens.netlify.app/fr/spiritualite/scapulaire/bulle-sabbatine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41727/fr/spiritualite/scapulaire/bulle-sabbatine/</guid>
+      <guid>https://eens.netlify.app/fr/spiritualite/scapulaire/bulle-sabbatine/</guid>
       <description>Pape Jean XXII, Sacratissimo uti culmine (Bulle Sabbatine), 1322 : &amp;quot; Jean, évêque, serviteur des serviteurs de Dieu, à tous et à chacun des fidèles, tant présent que futurs, qui verront ces Lettres, salut et bénédiction apostolique.&#xA;De même que sur le saint sommet du Paradis, on entend l&amp;rsquo;harmonie si douce et si suave des Anges dans le chant de la vision, quand on y contemple Jésus uni à la Divinité paternelle selon ces paroles : Seigneur, moi et le Père nous sommes un et qui me voit, voit aussi mon Père; et que le choeur des Anges ne finit pas de chanter : Saint, Saint, Saint; ainsi l&amp;rsquo;assemblée (céleste) ne cesse d&amp;rsquo;adresser des louanges à la sublime Vierge, en s&amp;rsquo;écriant : Vierge, Vierge, Vierge, sois notre miroir et aussi notre modèle.</description>
     </item>
   </channel>

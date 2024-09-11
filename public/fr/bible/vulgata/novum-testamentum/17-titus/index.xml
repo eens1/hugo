@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Titus on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:41727/fr/bible/vulgata/novum-testamentum/17-titus/</link>
+    <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/17-titus/</link>
     <description>Recent content in Titus on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:00:47 +0200</lastBuildDate>
-    <atom:link href="http://localhost:41727/fr/bible/vulgata/novum-testamentum/17-titus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/17-titus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Caput 1</title>
-      <link>http://localhost:41727/fr/bible/vulgata/novum-testamentum/17-titus/chap001/</link>
+      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/17-titus/chap001/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>http://localhost:41727/fr/bible/vulgata/novum-testamentum/17-titus/chap001/</guid>
+      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/17-titus/chap001/</guid>
       <description>1 Paulus servus Dei, Apostolus autem Iesu Christi secundum fidem electorum Dei, et agnitionem veritatis, quæ secundum pietatem est&#xA;2 in spem vitæ æternæ, quam promisit qui non mentitur, Deus, ante tempora sæcularia:&#xA;3 manifestavit autem temporibus suis verbum suum in prædicatione, quæ credita est mihi secundum præceptum Salvatoris nostri Dei:&#xA;4 Tito dilecto filio secundum communem fidem, gratia, et pax a Deo Patre, et Christo Iesu Salvatore nostro.&#xA;5 Huius rei gratia reliqui te Cretæ, ut ea, quæ desunt, corrigas, et constituas per civitates presbyteros, sicut et ego disposui tibi.</description>
     </item>
     <item>
       <title>Caput 2</title>
-      <link>http://localhost:41727/fr/bible/vulgata/novum-testamentum/17-titus/chap002/</link>
+      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/17-titus/chap002/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>http://localhost:41727/fr/bible/vulgata/novum-testamentum/17-titus/chap002/</guid>
+      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/17-titus/chap002/</guid>
       <description>1 Tu autem loquere quæ decent sanam doctrinam:&#xA;2 Senes ut sobrii sint, pudici, prudentes, sani in fide, in dilectione, in patientia:&#xA;3 Anus similiter in habitu sancto, non criminatrices, non multo vino servientes, bene docentes:&#xA;4 ut prudentiam doceant adolescentulas, ut viros suos ament, filios suos diligant,&#xA;5 prudentes, castas, sobrias, domus curam habentes, benignas, subditas viris suis, ut non blasphemetur verbum Dei.&#xA;6 Iuvenes similiter hortare ut sobrii sint.</description>
     </item>
     <item>
       <title>Caput 3</title>
-      <link>http://localhost:41727/fr/bible/vulgata/novum-testamentum/17-titus/chap003/</link>
+      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/17-titus/chap003/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>http://localhost:41727/fr/bible/vulgata/novum-testamentum/17-titus/chap003/</guid>
+      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/17-titus/chap003/</guid>
       <description>1 Admone illos principibus, et potestatibus subditos esse, dicto obedire, ad omne opus bonum paratos esse:&#xA;2 neminem blasphemare, non litigiosos esse, sed modestos, omnem ostendentes mansuetudinem ad omnes homines.&#xA;3 Eramus enim aliquando et nos insipientes, increduli, errantes, servientes desideriis, et voluptatibus variis, in malitia et invidia agentes, odibiles, odientes invicem.&#xA;4 Cum autem benignitas, et humanitas apparuit Salvatoris nostri Dei:&#xA;5 non ex operibus iustitiæ, quæ fecimus nos, sed secundum suam misericordiam salvos nos fecit per lavacrum regenerationis, et renovationis Spiritus sancti,</description>
     </item>
   </channel>
