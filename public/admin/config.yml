@@ -5,8 +5,6 @@ backend:
 media_folder: "static/images"
 public_folder: "/images"
 
-theme: dark
-
 collections:
   - name: "blog"
     label: "Blog"
@@ -16,4 +14,3 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
-

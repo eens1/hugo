@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:1313/fr/spiritualite/glossaire/mort/</link>
+    <link>http://localhost:41727/fr/spiritualite/glossaire/mort/</link>
     <description>Recent content on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <atom:link href="http://localhost:1313/fr/spiritualite/glossaire/mort/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:41727/fr/spiritualite/glossaire/mort/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/fr/spiritualite/glossaire/mort/dom-bernardin-de-mendoza-mort-sans-confession/</link>
+      <link>http://localhost:41727/fr/spiritualite/glossaire/mort/dom-bernardin-de-mendoza-mort-sans-confession/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/spiritualite/glossaire/mort/dom-bernardin-de-mendoza-mort-sans-confession/</guid>
+      <guid>http://localhost:41727/fr/spiritualite/glossaire/mort/dom-bernardin-de-mendoza-mort-sans-confession/</guid>
       <description>Dom Bernardin de Mendoza, mort sans Confession &amp;ldquo;&amp;hellip; la Sainte [sainte Térèse d&amp;rsquo;Avila] considérant que ce jeune gentil-homme était mort en la fleur de son âge, durant ce grand feu, et ces folles vanités de la jeunesse, elle ne se pu consoler de ce qu&amp;rsquo;il était mort sans confession; quoi que l&amp;rsquo;on lui dit qu&amp;rsquo;il avait témoigné beaucoup de signes de repentance. Notre Seigneur avait révélé à cette charitable Sainte, qu&amp;rsquo;en effet ce pauvre gentil-homme avait couru grand risque de son salut, et que pour le respect du service qu&amp;rsquo;il avait rendu à la sainte vierge sa mère, ayant donné une maison pour en faire un monastère de son ordre, il avait été délivré de l&amp;rsquo;Enfer : mais qu&amp;rsquo;au reste il ne sortirait point du Purgatoire, jusqu&amp;rsquo;à ce qu&amp;rsquo;on dit la première Messe dans le couvent qu&amp;rsquo;il avait fondé.</description>
     </item>
   </channel>

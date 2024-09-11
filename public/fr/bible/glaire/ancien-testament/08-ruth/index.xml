@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruth on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:1313/fr/bible/glaire/ancien-testament/08-ruth/</link>
+    <link>http://localhost:41727/fr/bible/glaire/ancien-testament/08-ruth/</link>
     <description>Recent content in Ruth on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:00:36 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/bible/glaire/ancien-testament/08-ruth/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:41727/fr/bible/glaire/ancien-testament/08-ruth/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapitre 1</title>
-      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/08-ruth/chap001/</link>
+      <link>http://localhost:41727/fr/bible/glaire/ancien-testament/08-ruth/chap001/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:36 +0200</pubDate>
-      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/08-ruth/chap001/</guid>
+      <guid>http://localhost:41727/fr/bible/glaire/ancien-testament/08-ruth/chap001/</guid>
       <description>Elimélech se retire dans le pays de Moab.&#xA;Il y meurt.&#xA;Ses fils s’y marient.&#xA;Noémi sa femme avec Ruth, sa bru, retourne à Bethléhem.</description>
     </item>
     <item>
       <title>Chapitre 2</title>
-      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/08-ruth/chap002/</link>
+      <link>http://localhost:41727/fr/bible/glaire/ancien-testament/08-ruth/chap002/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:36 +0200</pubDate>
-      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/08-ruth/chap002/</guid>
+      <guid>http://localhost:41727/fr/bible/glaire/ancien-testament/08-ruth/chap002/</guid>
       <description>Ruth va glaner dans les champs de Booz.&#xA;Booz la comble de bonté.</description>
     </item>
     <item>
       <title>Chapitre 3</title>
-      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/08-ruth/chap003/</link>
+      <link>http://localhost:41727/fr/bible/glaire/ancien-testament/08-ruth/chap003/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:36 +0200</pubDate>
-      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/08-ruth/chap003/</guid>
+      <guid>http://localhost:41727/fr/bible/glaire/ancien-testament/08-ruth/chap003/</guid>
       <description>Ruth va se coucher aux pieds de Booz.&#xA;Booz lui promet de l’épouser.</description>
     </item>
     <item>
       <title>Chapitre 4</title>
-      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/08-ruth/chap004/</link>
+      <link>http://localhost:41727/fr/bible/glaire/ancien-testament/08-ruth/chap004/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:36 +0200</pubDate>
-      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/08-ruth/chap004/</guid>
+      <guid>http://localhost:41727/fr/bible/glaire/ancien-testament/08-ruth/chap004/</guid>
       <description>Booz épouse Ruth.&#xA;Elle devient mère d’Obed, aïeule de David.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vie religieuse on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:1313/fr/vie-religieuse/</link>
+    <link>http://localhost:41727/fr/vie-religieuse/</link>
     <description>Recent content in Vie religieuse on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:03:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/vie-religieuse/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:41727/fr/vie-religieuse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prophéties</title>
-      <link>http://localhost:1313/fr/vie-religieuse/sainte-terese-d-avila-ordre/</link>
+      <link>http://localhost:41727/fr/vie-religieuse/sainte-terese-d-avila-ordre/</link>
       <pubDate>Fri, 06 Sep 2024 20:03:00 +0200</pubDate>
-      <guid>http://localhost:1313/fr/vie-religieuse/sainte-terese-d-avila-ordre/</guid>
+      <guid>http://localhost:41727/fr/vie-religieuse/sainte-terese-d-avila-ordre/</guid>
       <description>Sainte Térèse d&amp;rsquo;Avila, Vie écrite par elle-même : &amp;ldquo;J&amp;rsquo;étais profondément recueilie dans l&amp;rsquo;oraison, y goûtant beaucoup de douceur et un calme très pur, lorsque je me trouvai tout à coup environnée d&amp;rsquo;anges, et fort proche de Dieu. Je me mis à prier de toute mon âme pour les besoins de l&amp;rsquo;Eglise : sa divine Majesté me fît voir alors les grands services que devait rendre un certain ordre dans les derniers temps, et le mâle courage avec lequel les religieux de cet ordre devaient défendre la foi.</description>
     </item>
   </channel>

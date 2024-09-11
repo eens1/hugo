@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travail on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:1313/fr/vie-religieuse/glossaire/travail/</link>
+    <link>http://localhost:41727/fr/vie-religieuse/glossaire/travail/</link>
     <description>Recent content in Travail on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:03:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/vie-religieuse/glossaire/travail/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:41727/fr/vie-religieuse/glossaire/travail/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dans la Bible</title>
-      <link>http://localhost:1313/fr/vie-religieuse/glossaire/travail/bible/</link>
+      <link>http://localhost:41727/fr/vie-religieuse/glossaire/travail/bible/</link>
       <pubDate>Fri, 06 Sep 2024 20:03:00 +0200</pubDate>
-      <guid>http://localhost:1313/fr/vie-religieuse/glossaire/travail/bible/</guid>
+      <guid>http://localhost:41727/fr/vie-religieuse/glossaire/travail/bible/</guid>
       <description></description>
     </item>
     <item>
       <title>Dans la Tradition</title>
-      <link>http://localhost:1313/fr/vie-religieuse/glossaire/travail/tradition/</link>
+      <link>http://localhost:41727/fr/vie-religieuse/glossaire/travail/tradition/</link>
       <pubDate>Fri, 06 Sep 2024 20:03:00 +0200</pubDate>
-      <guid>http://localhost:1313/fr/vie-religieuse/glossaire/travail/tradition/</guid>
+      <guid>http://localhost:41727/fr/vie-religieuse/glossaire/travail/tradition/</guid>
       <description>Saint Thomas d&amp;rsquo;Aquin, Opuscules, 17, chap. 16 : &amp;ldquo;Le travail des mains n&amp;rsquo;est pas néanmoins le seul qui détruise l&amp;rsquo;oisiveté; l&amp;rsquo;étude de l&amp;rsquo;Ecriture sainte est bien plus propre à atteindre ce but&amp;hellip;&#xA;Le travail par lequel on acquiert la science nécessaire pour combattre les ennemis de la foi, dissipe aussi l&amp;rsquo;oisiveté&amp;hellip;&amp;rdquo; 1&#xA;Saint Thomas d&amp;rsquo;Aquin, Opuscules, 18, chap. 26 : &amp;ldquo;,,, l&amp;rsquo;Ecriture sainte, est en première ligne l&amp;rsquo;oeuvre de ceux qui ont choisi la vie contemplative&amp;hellip;&amp;rdquo; 2</description>
     </item>
   </channel>

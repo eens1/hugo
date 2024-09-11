@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portrait de Saint François on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:1313/fr/vie-religieuse/freres-mineurs/portrait-saint-francois/</link>
+    <link>http://localhost:41727/fr/vie-religieuse/freres-mineurs/portrait-saint-francois/</link>
     <description>Recent content in Portrait de Saint François on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:59 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/portrait-saint-francois/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:41727/fr/vie-religieuse/freres-mineurs/portrait-saint-francois/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Descriptions</title>
-      <link>http://localhost:1313/fr/vie-religieuse/freres-mineurs/portrait-saint-francois/descriptions/</link>
+      <link>http://localhost:41727/fr/vie-religieuse/freres-mineurs/portrait-saint-francois/descriptions/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:59 +0200</pubDate>
-      <guid>http://localhost:1313/fr/vie-religieuse/freres-mineurs/portrait-saint-francois/descriptions/</guid>
+      <guid>http://localhost:41727/fr/vie-religieuse/freres-mineurs/portrait-saint-francois/descriptions/</guid>
       <description>Floretti, Chronique du Moyen Age : &amp;ldquo;Nous pensons que ce ne sera pas sans plaisir que le lecteur trouvera ici le portrait qui nous a été laissé du glorieux petit pauvre du Christ. Nous extrayons de M. Chavin de Malan celui que nous présentons ici :&#xA;« François était de petite taille ; il avait la tête ronde, le visage un peu allongé, le front petit et uni, les yeux de médiocre grandeur, noirs et modestes, les cheveux bruns, les sourcils droits, le nez droit et fin, les oreilles petites et élevées, les tempes aplaties, la langue aiguë et ardente, la voix véhémente, douce et sonore, les dents serrées, blanches, égales, les lèvres fines et minces, la barbe noire et rare, le cou grêle, les épaules droites, les bras courts, les mains petites, les doigts effilés et les ongles longs, la jambe maigre, le pied petit, tout le corps d&amp;rsquo;une excessive maigreur.</description>
     </item>
     <item>
       <title>Peintures</title>
-      <link>http://localhost:1313/fr/vie-religieuse/freres-mineurs/portrait-saint-francois/peintures/</link>
+      <link>http://localhost:41727/fr/vie-religieuse/freres-mineurs/portrait-saint-francois/peintures/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:59 +0200</pubDate>
-      <guid>http://localhost:1313/fr/vie-religieuse/freres-mineurs/portrait-saint-francois/peintures/</guid>
+      <guid>http://localhost:41727/fr/vie-religieuse/freres-mineurs/portrait-saint-francois/peintures/</guid>
       <description></description>
     </item>
   </channel>
