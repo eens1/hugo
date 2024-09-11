@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -295,10 +295,9 @@ Que tout le mal qu&rsquo;ils ont fait vienne devant vous; et vendangez-les, comm
 
 </footer>
 
-
 <script>
   if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
+    window.netlifyIdentity.on("init", (user) => {
       if (!user) {
         window.netlifyIdentity.on("login", () => {
           document.location.href = "/admin/";
@@ -307,6 +306,7 @@ Que tout le mal qu&rsquo;ils ont fait vienne devant vous; et vendangez-les, comm
     });
   }
 </script>
+
 
 </body>
 </html>

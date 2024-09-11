@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -226,7 +226,7 @@ EN
 
    <div class="post-item">
    <li>
-   <a href="https://eens.netlify.app/fr/calendrier/fetes-obligation/eglise-universelle/">Pour l&#39;Eglise universelle</a>
+   <a href="http://localhost:1313/fr/calendrier/fetes-obligation/eglise-universelle/">Pour l&#39;Eglise universelle</a>
    </li>
    <div></div>
    </div>
@@ -234,7 +234,7 @@ EN
 
    <div class="post-item">
    <li>
-   <a href="https://eens.netlify.app/fr/calendrier/fetes-obligation/france/">Pour la France</a>
+   <a href="http://localhost:1313/fr/calendrier/fetes-obligation/france/">Pour la France</a>
    </li>
    <div></div>
    </div>
@@ -254,10 +254,9 @@ EN
 
 </footer>
 
-
 <script>
   if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
+    window.netlifyIdentity.on("init", (user) => {
       if (!user) {
         window.netlifyIdentity.on("login", () => {
           document.location.href = "/admin/";
@@ -266,6 +265,7 @@ EN
     });
   }
 </script>
+
 
 </body>
 </html>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -253,7 +253,7 @@ FR
 
    <div class="post-item">
    <li>
-   <a href="https://eens.netlify.app/en/bible/douay-rheims/old-testament/67-habakkuk/chap001/">Chapter 1</a>
+   <a href="http://localhost:1313/en/bible/douay-rheims/old-testament/67-habakkuk/chap001/">Chapter 1</a>
    </li>
    <div></div>
    </div>
@@ -261,7 +261,7 @@ FR
 
    <div class="post-item">
    <li>
-   <a href="https://eens.netlify.app/en/bible/douay-rheims/old-testament/67-habakkuk/chap002/">Chapter 2</a>
+   <a href="http://localhost:1313/en/bible/douay-rheims/old-testament/67-habakkuk/chap002/">Chapter 2</a>
    </li>
    <div></div>
    </div>
@@ -269,7 +269,7 @@ FR
 
    <div class="post-item">
    <li>
-   <a href="https://eens.netlify.app/en/bible/douay-rheims/old-testament/67-habakkuk/chap003/">Chapter 3</a>
+   <a href="http://localhost:1313/en/bible/douay-rheims/old-testament/67-habakkuk/chap003/">Chapter 3</a>
    </li>
    <div></div>
    </div>
@@ -288,10 +288,9 @@ FR
 
 </footer>
 
-
 <script>
   if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
+    window.netlifyIdentity.on("init", (user) => {
       if (!user) {
         window.netlifyIdentity.on("login", () => {
           document.location.href = "/admin/";
@@ -300,6 +299,7 @@ FR
     });
   }
 </script>
+
 
 </body>
 </html>

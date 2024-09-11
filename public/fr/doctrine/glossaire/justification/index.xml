@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justification on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/doctrine/glossaire/justification/</link>
+    <link>http://localhost:1313/fr/doctrine/glossaire/justification/</link>
     <description>Recent content in Justification on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:56 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/doctrine/glossaire/justification/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/doctrine/glossaire/justification/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dans la Bible </title>
-      <link>https://eens.netlify.app/fr/doctrine/glossaire/justification/bible/</link>
+      <link>http://localhost:1313/fr/doctrine/glossaire/justification/bible/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:56 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/glossaire/justification/bible/</guid>
+      <guid>http://localhost:1313/fr/doctrine/glossaire/justification/bible/</guid>
       <description>Romains 5:15 : &amp;ldquo;Mais il n&amp;rsquo;en est pas du don, comme du péché; car si par le péché d&amp;rsquo;un seul beaucoup sont morts, bien plus abondamment la grâce et le don de Dieu, par la grâce d&amp;rsquo;un seul homme, Jésus-Christ, se sont répandus sur un grand nombre.&amp;rdquo; 1&#xA;Jacques 2:24 : &amp;ldquo;Vous voyez donc que c&amp;rsquo;est par les oeuvres que l&amp;rsquo;homme est justifié, et non par la foi seulement.&amp;rdquo; 2</description>
     </item>
     <item>
       <title>Dans la Tradition </title>
-      <link>https://eens.netlify.app/fr/doctrine/glossaire/justification/tradition/</link>
+      <link>http://localhost:1313/fr/doctrine/glossaire/justification/tradition/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:56 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/glossaire/justification/tradition/</guid>
+      <guid>http://localhost:1313/fr/doctrine/glossaire/justification/tradition/</guid>
       <description>Concile de Trente, sess. 6, Décret touchant la Justification, chap. 3, 1547 : &amp;ldquo;Mais encore qu&amp;rsquo;il [Jésus-Christ] soit mort pour tous, tous néanmoins ne reçoivent pas le bienfait de sa Mort; mais ceux-là seulement, auxquels le mérite de sa Passion est communiqué.&amp;rdquo; 1&#xA;Chanut 1674, p. 37.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
   </channel>

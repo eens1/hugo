@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -250,10 +250,9 @@ Ezéchias pria pour eux, disant : Le Seigneur, qui est bon, se montrera propice1
 
 </footer>
 
-
 <script>
   if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
+    window.netlifyIdentity.on("init", (user) => {
       if (!user) {
         window.netlifyIdentity.on("login", () => {
           document.location.href = "/admin/";
@@ -262,6 +261,7 @@ Ezéchias pria pour eux, disant : Le Seigneur, qui est bon, se montrera propice1
     });
   }
 </script>
+
 
 </body>
 </html>
