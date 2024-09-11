@@ -2,360 +2,360 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genèse on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/</link>
+    <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/</link>
     <description>Recent content in Genèse on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:00:34 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapitre 1</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap001/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap001/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap001/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap001/</guid>
       <description>Création du monde.&#xA;Dieu soumet toutes les créatures à l’homme.</description>
     </item>
     <item>
       <title>Chapitre 10</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap010/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap010/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap010/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap010/</guid>
       <description>Dénombrement des fils de Noé.&#xA;Pays que chacun d’eux a possédé.</description>
     </item>
     <item>
       <title>Chapitre 11</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap011/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap011/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap011/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap011/</guid>
       <description>Construction de la tour de Babel.&#xA;Confusion des langues.&#xA;Postérité de Sem.</description>
     </item>
     <item>
       <title>Chapitre 12</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap012/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap012/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap012/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap012/</guid>
       <description>Vocation d’Abram, et promesse qui lui est faite.&#xA;Son entrée en Egypte.</description>
     </item>
     <item>
       <title>Chapitre 13</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap013/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap013/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap013/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap013/</guid>
       <description>Abram retourne d’Egypte dans la terre de Chanaan.&#xA;Lot se sépare de lui.&#xA;Abram reçoit de nouvelles assurances de la protection de Dieu.</description>
     </item>
     <item>
       <title>Chapitre 14</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap014/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap014/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap014/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap014/</guid>
       <description>Guerre de Chodorlahomor contre les rois de la Pentapole.&#xA;Abram délivre Lot.&#xA;Melchisédech bénit Abram.</description>
     </item>
     <item>
       <title>Chapitre 15</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap015/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap015/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap015/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap015/</guid>
       <description>Dieu promet un fils à Abram.&#xA;Alliance de Dieu avec Abram.</description>
     </item>
     <item>
       <title>Chapitre 16</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap016/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap016/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap016/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap016/</guid>
       <description>Abram épouse Agar.&#xA;Fuite d’Agar.&#xA;Naissance d’Ismaël.</description>
     </item>
     <item>
       <title>Chapitre 17</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap017/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap017/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap017/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap017/</guid>
       <description>Dieu apparaît à Abraham ; il change son nom et celui de Saraï.&#xA;Institution de la Circoncision.&#xA;Promesse de la naissance d’Isaac.</description>
     </item>
     <item>
       <title>Chapitre 18</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap018/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap018/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap018/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap018/</guid>
       <description>Apparition de trois anges à Abraham.&#xA;Promesse de la naissance d’Isaac.&#xA;Prédiction de la destruction de Sodome et de Gomorrhe.</description>
     </item>
     <item>
       <title>Chapitre 19</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap019/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap019/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap019/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap019/</guid>
       <description>Lot reçoit les anges à Sodome ; il se sauve à Ségor.&#xA;Destruction de Sodome et de Gomorrhe.&#xA;Inceste des filles de lot.</description>
     </item>
     <item>
       <title>Chapitre 2</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap002/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap002/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap002/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap002/</guid>
       <description>Repos du septième jour.&#xA;Description du Paradis.&#xA;Création d’Eve.&#xA;Institution du mariage.</description>
     </item>
     <item>
       <title>Chapitre 20</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap020/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap020/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap020/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap020/</guid>
       <description>Abraham se retire à Gérara.&#xA;Abimélech enlève Sara ; il la rend à Abraham.</description>
     </item>
     <item>
       <title>Chapitre 21</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap021/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap021/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap021/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap021/</guid>
       <description>Naissance d’Isaac.&#xA;Agar est chassée.&#xA;Alliance entre Abimélech et Abraham.</description>
     </item>
     <item>
       <title>Chapitre 22</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap022/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap022/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap022/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap022/</guid>
       <description>Sacrifice d’Isaac.&#xA;Dieu réitère ses promesses à Abraham.&#xA;Dénombrement des enfants de Nachor, frère d’Abraham.</description>
     </item>
     <item>
       <title>Chapitre 23</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap023/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap023/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap023/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap023/</guid>
       <description>Mort de Sara.&#xA;Abraham achète une caverne pour l’enterrer.</description>
     </item>
     <item>
       <title>Chapitre 24</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap024/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap024/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap024/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap024/</guid>
       <description>L’intendant de la maison d’Abraham va en Mésopotamie demander une femme pour Isaac ; il obtient Rébecca.</description>
     </item>
     <item>
       <title>Chapitre 25</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap025/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap025/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap025/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap025/</guid>
       <description>Abraham épouse Cétura.&#xA;Dénombrement des enfants nés de ce mariage.&#xA;Mort d’Abraham.&#xA;Postérité d’Ismaël ; sa mort.&#xA;Naissance d’Esaü et de Jacob.&#xA;Esaü vend son droit d’aînesse.</description>
     </item>
     <item>
       <title>Chapitre 26</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap026/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap026/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap026/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap026/</guid>
       <description>Voyage d’Isaac à Gérara ; son retour à Bersabée ; son alliance avec Abimélech.&#xA;Mariage d’Esaü.</description>
     </item>
     <item>
       <title>Chapitre 27</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap027/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap027/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap027/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap027/</guid>
       <description>Jacob surprend la bénédiction d’Esaü.&#xA;Menace d’Esaü contre Jacob, qui se retire en Mésopotamie.</description>
     </item>
     <item>
       <title>Chapitre 28</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap028/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap028/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap028/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap028/</guid>
       <description>Jacob quitte la maison de son père pour se retirer en Mésopotamie.&#xA;Esaü épouse Mahéleth, fille d’Ismaël.&#xA;Vision de Jacob à Béthel.</description>
     </item>
     <item>
       <title>Chapitre 29</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap029/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap029/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap029/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap029/</guid>
       <description>Jacob sert Laban pendant sept ans pour épouser Rachel ; mais Laban lui donne Lia.&#xA;Il sert encore sept ans pour avoir Rachel.&#xA;Naissance de Ruben (, de Siméon, de Lévi et de Juda ? ).</description>
     </item>
     <item>
       <title>Chapitre 3</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap003/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap003/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap003/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap003/</guid>
       <description>Tentation d’Eve par le serpent.&#xA;Le péché et sa punition.</description>
     </item>
     <item>
       <title>Chapitre 30</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap030/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap030/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap030/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap030/</guid>
       <description>Naissance de Dan, de Nephtali, de Gad, d’Aser, d’Issachar, de Dina et de Joseph.&#xA;Accord de Jacob et de Laban.</description>
     </item>
     <item>
       <title>Chapitre 31</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap031/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap031/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap031/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap031/</guid>
       <description>Fuite de Jacob.&#xA;Laban le poursuit.&#xA;Alliance entre eux.</description>
     </item>
     <item>
       <title>Chapitre 32</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap032/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap032/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap032/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap032/</guid>
       <description>Jacob fait annoncer son retour à Esaü ; celui-ci vient au-devant de lui.&#xA;Lutte de Jacob avec un ange.</description>
     </item>
     <item>
       <title>Chapitre 33</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap033/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap033/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap033/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap033/</guid>
       <description>Rencontre de Jacob et d’Esaü.&#xA;Jacob se retire à Socoth, et de là il se rend à Sichem.</description>
     </item>
     <item>
       <title>Chapitre 34</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap034/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap034/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap034/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap034/</guid>
       <description>Dina, fille de Jacob, est violée par Sichem, fils d’Hémor.&#xA;Siméon et Lévi égorgent les Sichémites.</description>
     </item>
     <item>
       <title>Chapitre 35</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap035/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap035/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap035/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap035/</guid>
       <description>Voyage de Jacob à Béthel.&#xA;Naissance de Benjamin.&#xA;Dénombrement des fils de Jacob.&#xA;Mort d’Isaac.</description>
     </item>
     <item>
       <title>Chapitre 36</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap036/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap036/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap036/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap036/</guid>
       <description>Dénombrement des descendants d’Esaü.</description>
     </item>
     <item>
       <title>Chapitre 37</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap037/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap037/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap037/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap037/</guid>
       <description>Jalousie des fils de Jacob contre Joseph, leur frère ; ils le vendent, et il est mené en Egypte.</description>
     </item>
     <item>
       <title>Chapitre 38</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap038/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap038/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap038/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap038/</guid>
       <description>Juda marie successivement deux de ses fils à Thamar.&#xA;Naissance de Pharès et de Zara.</description>
     </item>
     <item>
       <title>Chapitre 39</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap039/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap039/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap039/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap039/</guid>
       <description>Joseph mérite la confiance de son maître Putiphar ; mais il est accusé par sa femme et mis en prison.</description>
     </item>
     <item>
       <title>Chapitre 4</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap004/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap004/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap004/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap004/</guid>
       <description>Caïn et Abel ; leurs sacrifices.&#xA;Caïn tue Abel.&#xA;Descendants de Caïn.&#xA;Seth, fils d’Adam.&#xA;Enos, fils de Seth.</description>
     </item>
     <item>
       <title>Chapitre 40</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap040/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap040/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap040/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap040/</guid>
       <description>Le grand échanson et le grand panetier du roi d’Egypte sont mis en prison.&#xA;Joseph explique leurs songes.</description>
     </item>
     <item>
       <title>Chapitre 41</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap041/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap041/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap041/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap041/</guid>
       <description>Songes de Pharaon expliqués par Joseph.&#xA;Elévation de Joseph.&#xA;Naissance de Manassé et d’Ephraïm.&#xA;Stérilité en Egypte.</description>
     </item>
     <item>
       <title>Chapitre 42</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap042/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap042/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap042/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap042/</guid>
       <description>Arrivée des frères de Joseph en Egypte.&#xA;Joseph fait arrêter Siméon, et ne renvoie les autres qu’à condition qu’ils amèneront (amènent) Benjamin.</description>
     </item>
     <item>
       <title>Chapitre 43</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap043/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap043/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap043/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap043/</guid>
       <description>Retour des frères de Joseph en Egypte avec Benjamin.&#xA;Joseph leur fait un festin.</description>
     </item>
     <item>
       <title>Chapitre 44</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap044/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap044/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap044/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap044/</guid>
       <description>Joseph fait mettre sa coupe dans sac de Benjamin.&#xA;Il traite ses frères comme des voleurs.&#xA;Juda s’offre à demeurer esclave à la place de Benjamin.</description>
     </item>
     <item>
       <title>Chapitre 45</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap045/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap045/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap045/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap045/</guid>
       <description>Joseph se fait connaître à ses frères.&#xA;Ceux-ci s’en retournent vers Jacob chargés de présents.</description>
     </item>
     <item>
       <title>Chapitre 46</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap046/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap046/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap046/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap046/</guid>
       <description>Jacob vient en Egypte ; dénombrement de ses enfants.&#xA;Entrevue de Jacob et de Joseph.</description>
     </item>
     <item>
       <title>Chapitre 47</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap047/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap047/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap047/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap047/</guid>
       <description>Jacob arrive avec sa famille en Egypte.&#xA;Pharaon leur donne la terre de Gessen.&#xA;Maladie de Jacob.</description>
     </item>
     <item>
       <title>Chapitre 48</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap048/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap048/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap048/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap048/</guid>
       <description>Jacob bénit Ephraïm et Manassé ; il laisse à Joseph le champ voisin de Sichem.</description>
     </item>
     <item>
       <title>Chapitre 49</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap049/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap049/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap049/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap049/</guid>
       <description>Dernières paroles de Jacob.&#xA;Il prédit à chacun de ses fils ce qui doit lui arriver.&#xA;Il meurt.</description>
     </item>
     <item>
       <title>Chapitre 5</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap005/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap005/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap005/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap005/</guid>
       <description>Généalogie de Noé, remontant jusqu’à Adam, par les descendants de Seth.</description>
     </item>
     <item>
       <title>Chapitre 50</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap050/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap050/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap050/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap050/</guid>
       <description>Obsèques de Jacob.&#xA;Mort de Joseph.</description>
     </item>
     <item>
       <title>Chapitre 6</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap006/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap006/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap006/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap006/</guid>
       <description>Multiplication et corruption générale des hommes.&#xA;Prédiction du déluge.&#xA;Construction de l’arche.</description>
     </item>
     <item>
       <title>Chapitre 7</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap007/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap007/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap007/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap007/</guid>
       <description>Noé entre dans l’arche avec sa famille.&#xA;Il y fait entrer les animaux.&#xA;Le déluge.</description>
     </item>
     <item>
       <title>Chapitre 8</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap008/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap008/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap008/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap008/</guid>
       <description>Les eaux se retirent.&#xA;Noé sort de l’arche ; il offre un sacrifice à Dieu, et Dieu fait alliance avec lui.</description>
     </item>
     <item>
       <title>Chapitre 9</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap009/</link>
+      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap009/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:34 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/01-genese/chap009/</guid>
+      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/01-genese/chap009/</guid>
       <description>Alliance de Dieu avec Noé et sa postérité.&#xA;Malédiction contre Cham et Chanaan.&#xA;Bénédiction en faveur de Sem et de Japheth.</description>
     </item>
   </channel>

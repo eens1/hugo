@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Doctrine on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/doctrine/</link>
+    <link>http://localhost:1313/fr/doctrine/</link>
     <description>Recent content in Doctrine on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:00:57 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/doctrine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/doctrine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Liste des conciles oecuméniques </title>
-      <link>https://eens.netlify.app/fr/doctrine/liste-conciles-oecumeniques/</link>
+      <link>http://localhost:1313/fr/doctrine/liste-conciles-oecumeniques/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:57 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/liste-conciles-oecumeniques/</guid>
+      <guid>http://localhost:1313/fr/doctrine/liste-conciles-oecumeniques/</guid>
       <description>Sources : Guérin 1872.&#xA;On donne ici le nom du concile oecuménique, sa date, le nombre des évêques, le Pontificat, les causes et l&amp;rsquo;objet, la durée, le nombre des sessions, les empereurs et rois qui y assistèrent, et la disponibilité des actes.&#xA;Nicée I, 325, 318 évêques, pape saint Sylvestre I, Arianisme, 2 ou 3 mois, Constantin le Grand, actes perdus.&#xA;Constantinople I, 381, 150 évêques, pape saint Damase I, Macédonianisme, 2 mois, actes perdus</description>
     </item>
     <item>
       <title>Liste des papes</title>
-      <link>https://eens.netlify.app/fr/doctrine/liste-papes/</link>
+      <link>http://localhost:1313/fr/doctrine/liste-papes/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:57 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/liste-papes/</guid>
+      <guid>http://localhost:1313/fr/doctrine/liste-papes/</guid>
       <description>S. Pierre, de 33 à 67. S. Lin, de 67 à 78. S. Clôt, de 78 à 90. S. Clément 1er, de 90 à 100. S. Anaclet, de 100 à 112. S. Evariste, de 112 à 121. S. Alexandre Ier, de 121 à 132. S. Sixte Ier, de 132 à 142. S. Télespbore, de 142 à 154. S. Hygin, de 154 à 158. S. Pie Ier, de 158 à 167.</description>
     </item>
     <item>
       <title>Symbole de la foi</title>
-      <link>https://eens.netlify.app/fr/doctrine/symbole-de-la-foi/</link>
+      <link>http://localhost:1313/fr/doctrine/symbole-de-la-foi/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:57 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/symbole-de-la-foi/</guid>
+      <guid>http://localhost:1313/fr/doctrine/symbole-de-la-foi/</guid>
       <description>Concile de Nicée I, Symbole de foi, 325 : &amp;ldquo;Nous croyons en un seul Dieu, Père tout-puissant, créateur de tous les êtres visibles et invisibles. Et en notre seul Seigneur, Jésus Christ le Fils de Dieu, né du Père, unique engendré, c&amp;rsquo;est-à-dire de la substance du Père, Dieu de Dieu, lumière de lumière, vrai Dieu de vrai Dieu, né, non pas créé, d&amp;rsquo;une unique substance avec le Père (ce qu&amp;rsquo;en grec on appelle homoousios), par qui tout a été fait, ce qui est dans le ciel et ce qui est sur la terre, qui à cause de notre salut est descendu et s&amp;rsquo;est incarné, s&amp;rsquo;est fait homme, a souffert et est ressuscité le troisième jour, est monté au cieux, viendra juger le vivants et les morts.</description>
     </item>
   </channel>
