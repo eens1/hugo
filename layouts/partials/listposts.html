@@ -15,13 +15,16 @@
 
 {{ $sortedCustom := sort $customSort "sortKey" }}
 
+
 <ul>
 {{ range $sortedCustom }}
 {{ $page := .page }}
-<li>
- <a href="{{ .permalink }}">{{ $page.Title }}</a>
-</li>
-<div>{{ $page.Params.Summary }}</div>
+   <div class="post-item">
+   <li>
+   <a href="{{ .permalink }}">{{ $page.Title }}</a>
+   </li>
+   <div>{{ $page.Params.Summary }}</div>
+   </div>
 {{ end }}
 </ul>
 

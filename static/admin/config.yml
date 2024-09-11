@@ -5,6 +5,8 @@ backend:
 media_folder: "static/images"
 public_folder: "/images"
 
+theme: dark
+
 collections:
   - name: "blog"
     label: "Blog"
@@ -14,13 +16,4 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
-
-  - name: "settings"
-    label: "Site Settings"
-    files:
-      - name: "general"
-        label: "General Settings"
-        file: "config.yaml"
-        fields:
-          - {label: "Site Title", name: "title", widget: "string"}
 
