@@ -16,4 +16,8 @@
     "@tinacms/cli": "^1.6.3",
     "@types/node": "^22.5.4"
   }
+  "scripts": {
+    "dev": "tinacms dev -c \"hugo server -D\"",
+    "build": "tinacms build && hugo"
+  }
 }
