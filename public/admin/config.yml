@@ -1,11 +1,13 @@
-#backend:
-#  name: git-gateway
-#  branch: main
 backend:
-  name: github
-  repo: eens1/hugo # Path to your GitHub repository
-  # optional, defaults to master
-  # branch: main
+  name: git-gateway
+  branch: main
+
+
+#backend:
+#  name: github
+#  repo: eens1/hugo # Path to your GitHub repository
+#  # optional, defaults to master
+#  # branch: main
 
 commit_messages:
   create: Create {{collection}} “{{slug}}”
