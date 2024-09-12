@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frères Mineurs Déchaussés on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:1313/fr/vie-religieuse/freres-mineurs/dechausses/</link>
+    <link>https://eens.netlify.app/fr/vie-religieuse/freres-mineurs/dechausses/</link>
     <description>Recent content in Frères Mineurs Déchaussés on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:59 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/vie-religieuse/freres-mineurs/dechausses/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens.netlify.app/fr/vie-religieuse/freres-mineurs/dechausses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Constitutions</title>
-      <link>http://localhost:1313/fr/vie-religieuse/freres-mineurs/dechausses/constitutions/</link>
+      <link>https://eens.netlify.app/fr/vie-religieuse/freres-mineurs/dechausses/constitutions/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:59 +0200</pubDate>
-      <guid>http://localhost:1313/fr/vie-religieuse/freres-mineurs/dechausses/constitutions/</guid>
+      <guid>https://eens.netlify.app/fr/vie-religieuse/freres-mineurs/dechausses/constitutions/</guid>
       <description>Constitutions de saint Pierre d&amp;rsquo;Alcantara ajoutées aux précédentes : &amp;ldquo;Lorsqu&amp;rsquo;on eut fait les autres supérieurs de la province, le saint commissaire proposa aux pères quelques constitutions, qu&amp;rsquo;il estimait devoir être acceptées de tous, afin qu&amp;rsquo;étant jointes à celles, qui avaient été faites dès le premier établissement de la custodie, elles pussent toutes ensemble être observées dans les couvents de la province. Ces règles furent universellement approuvées de tous&amp;hellip;&#xA;Il est ordonné que dans toutes les maisons de la province on récitera l&amp;rsquo;office d&amp;rsquo;un ton bas, plein, et égal.</description>
     </item>
     <item>
       <title>Leur vie</title>
-      <link>http://localhost:1313/fr/vie-religieuse/freres-mineurs/dechausses/vie/</link>
+      <link>https://eens.netlify.app/fr/vie-religieuse/freres-mineurs/dechausses/vie/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:59 +0200</pubDate>
-      <guid>http://localhost:1313/fr/vie-religieuse/freres-mineurs/dechausses/vie/</guid>
+      <guid>https://eens.netlify.app/fr/vie-religieuse/freres-mineurs/dechausses/vie/</guid>
       <description>Père Marchese, Vie de saint Pierre d&amp;rsquo;Alcantara, vie dans le désert de la Rabida : &amp;ldquo;La manière de vivre que ces pères s&amp;rsquo;étaient prescrite sous la direction du B. Pierre était admirable; ils couchaient sur de certains fagot de sarment, où sur des ais toutes nues; ils ne portaient sandales ni socques, pour marquer même en cela une plus grande pauvreté;&#xA;ils ne mangeaient jamais de chair, ni ne buvaient de vin, et lorsque le Duc leur envoyait un peu de poisson aux fêtes de Pâques et de Noël, à peine pouvaient-ils se résoudre d&amp;rsquo;en goûter.</description>
     </item>
   </channel>
