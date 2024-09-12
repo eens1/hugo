@@ -1,6 +1,12 @@
+#backend:
+#  name: git-gateway
+#  branch: main
+
 backend:
-  name: git-gateway
-  branch: main
+  name: github
+  repo: eens1/site
+  # optional, defaults to master
+  # branch: main
 
 commit_messages:
   create: Create {{collection}} “{{slug}}”

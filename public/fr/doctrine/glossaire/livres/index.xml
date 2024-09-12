@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Livres on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/doctrine/glossaire/livres/</link>
+    <link>http://localhost:1313/fr/doctrine/glossaire/livres/</link>
     <description>Recent content in Livres on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:56 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/doctrine/glossaire/livres/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/doctrine/glossaire/livres/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Epikie</title>
-      <link>https://eens.netlify.app/fr/doctrine/glossaire/livres/epikie/</link>
+      <link>http://localhost:1313/fr/doctrine/glossaire/livres/epikie/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:56 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/glossaire/livres/epikie/</guid>
+      <guid>http://localhost:1313/fr/doctrine/glossaire/livres/epikie/</guid>
       <description>E. Jombart, Manuel de droit canon, 1958 : &amp;ldquo;a) Quand se présente une raison sérieuse de lire un ouvrage interdit (pour répondre aux attaques d&amp;rsquo;incroyants ou mettre en garde les croyants, pour un article dans un journal catholique, etc.) et qu&amp;rsquo;on n&amp;rsquo;a pas le temps de demander la permission, tout le monde admet qu&amp;rsquo;on peut user d&amp;rsquo;épikie. b) Lorsqu&amp;rsquo;il est possible de demander la permission, l&amp;rsquo;Eglise veut généralement qu&amp;rsquo;on la demande.</description>
     </item>
     <item>
       <title>Liste des livres interdits</title>
-      <link>https://eens.netlify.app/fr/doctrine/glossaire/livres/interdits/</link>
+      <link>http://localhost:1313/fr/doctrine/glossaire/livres/interdits/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:56 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/glossaire/livres/interdits/</guid>
+      <guid>http://localhost:1313/fr/doctrine/glossaire/livres/interdits/</guid>
       <description>Pape Léon XIII, Officiorum ac munerum, fév. 1897 : &amp;ldquo;Les livres des apostats, des hérétiques, des schismatiques et de tout autre écrivain, propageant l&amp;rsquo;hérésie ou le schisme, ou ébranlant en quelque façon les fondements de la religion, sont absolument prohibés.&#xA;Sont prohibés de même les ouvrages des auteurs non catholiques traitant de la religion ex professo, à moins qu&amp;rsquo;ils ne contiennent évidemment rien de contraire à la foi catholique.</description>
     </item>
     <item>
       <title>Publier</title>
-      <link>https://eens.netlify.app/fr/doctrine/glossaire/livres/publier/</link>
+      <link>http://localhost:1313/fr/doctrine/glossaire/livres/publier/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:56 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/glossaire/livres/publier/</guid>
+      <guid>http://localhost:1313/fr/doctrine/glossaire/livres/publier/</guid>
       <description>Droit canonique de 1917, can. 1384 : &amp;ldquo;§ 1. Ecclesiae est ius exigendi ne libros, quos ipsa iudicio suo antea non recognoverit, fideles edant, et a quibusvis editos ex iusta causa prohibendi.&#xA;§ 2. Quae sub hoc titulo de libris praescribuntur, publicationibus diariis, periodicis et aliis editis scriptis quibuslibet applicentur, nisi aliud constet.&amp;rdquo; 1&#xA;G. Bareille, commentaire du can. 1384 :&#xA;1 - &amp;ldquo;L&amp;rsquo;Église a le droit d&amp;rsquo;interdire aux fidèles : 1° d&amp;rsquo;éditer des livres, non soumis préalablement à sa censure et approuvés; — et 2° de prohiber pour de justes motifs les livres déjà édités, c.</description>
     </item>
   </channel>
