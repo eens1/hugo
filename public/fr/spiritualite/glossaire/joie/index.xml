@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joie on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:1313/fr/spiritualite/glossaire/joie/</link>
+    <link>https://eens.netlify.app/fr/spiritualite/glossaire/joie/</link>
     <description>Recent content in Joie on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/spiritualite/glossaire/joie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens.netlify.app/fr/spiritualite/glossaire/joie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Joie parfaite selon saint François d&#39;Assise</title>
-      <link>http://localhost:1313/fr/spiritualite/glossaire/joie/saint-francois-d-assise/</link>
+      <link>https://eens.netlify.app/fr/spiritualite/glossaire/joie/saint-francois-d-assise/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/spiritualite/glossaire/joie/saint-francois-d-assise/</guid>
+      <guid>https://eens.netlify.app/fr/spiritualite/glossaire/joie/saint-francois-d-assise/</guid>
       <description>&amp;ldquo;C&amp;rsquo;était pendant l&amp;rsquo;hiver ; un jour que saint François se rendait de Pérouse à Sainte-Marie-des-Anges par un froid très-rigoureux, il appela Frère Léon, qui se trouvait à quelques pas devant lui, et lui dit :&#xA;O Frère Léon ! plaise à Dieu que les Frères Mineurs donnent à toute la terre un grand exemple de sainteté ; néanmoins fais bien attention et note soigneusement que là n&amp;rsquo;est pas la joie parfaite.</description>
     </item>
   </channel>

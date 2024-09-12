@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eglise on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:1313/fr/doctrine/glossaire/eglise/</link>
+    <link>https://eens.netlify.app/fr/doctrine/glossaire/eglise/</link>
     <description>Recent content in Eglise on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:55 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/doctrine/glossaire/eglise/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens.netlify.app/fr/doctrine/glossaire/eglise/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dans la Bible</title>
-      <link>http://localhost:1313/fr/doctrine/glossaire/eglise/bible/</link>
+      <link>https://eens.netlify.app/fr/doctrine/glossaire/eglise/bible/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:55 +0200</pubDate>
-      <guid>http://localhost:1313/fr/doctrine/glossaire/eglise/bible/</guid>
+      <guid>https://eens.netlify.app/fr/doctrine/glossaire/eglise/bible/</guid>
       <description>Matthieu 16:15-19 : &amp;ldquo;Jésus leur demanda : Et vous, qui dites-vous que je suis ? Prenant la parole, Simon Pierre dit : Vous êtes le Christ, le fils du Dieu vivant. Et Jésus répondant, lui dit : Tu es heureux, Simon, fils de Jean, car ni la chair ni le sang ne t&amp;rsquo;ont révélé ceci, mais mon Père qui est dans les cieux. Aussi moi je te dis que tu es Pierre, et sur cette pierre je bâtirai mon Eglise, et les portes de l&amp;rsquo;enfer ne prévaudront point contre elle.</description>
     </item>
     <item>
       <title>Dans la Tradition</title>
-      <link>http://localhost:1313/fr/doctrine/glossaire/eglise/tradition/</link>
+      <link>https://eens.netlify.app/fr/doctrine/glossaire/eglise/tradition/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:55 +0200</pubDate>
-      <guid>http://localhost:1313/fr/doctrine/glossaire/eglise/tradition/</guid>
+      <guid>https://eens.netlify.app/fr/doctrine/glossaire/eglise/tradition/</guid>
       <description>Pape Léon XIII, Satis Cognitum, 1896 : &amp;ldquo;C&amp;rsquo;est pour toutes ces raisons que l&amp;rsquo;Eglise, dans les saintes lettres, est si souvent appelée un corps, et aussi le corps du Christ. Vous êtes le corps du Christ. Parce que l&amp;rsquo;Eglise est un corps, elle est visible aux yeux; parce qu&amp;rsquo;elle est le corps du Christ, elle est un corps vivant, actif, plein de sève, soutenu qu&amp;rsquo;il est et animé par Jésus-Christ qui le pénètre de sa vertu à peu près comme le tronc de la vigne nourrit et rend fertiles les rameaux qui lui sont unis.</description>
     </item>
   </channel>
