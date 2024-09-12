@@ -4,6 +4,7 @@
 
 backend:
   name: github
+  # repo must be public
   repo: eens1/hugo
   # optional, defaults to master
   # branch: main
