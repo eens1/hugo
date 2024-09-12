@@ -2,10 +2,6 @@ backend:
   name: git-gateway
   branch: main
 
-#backend:
-#  name: github
-#  repo: eens1/hugo
-
 commit_messages:
   create: Create {{collection}} “{{slug}}”
   update: Update {{collection}} “{{slug}}”
