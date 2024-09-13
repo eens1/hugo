@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nécessité pour le salut on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/doctrine/bapteme/necessite/</link>
+    <link>http://localhost:42213/fr/doctrine/bapteme/necessite/</link>
     <description>Recent content in Nécessité pour le salut on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:55 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/doctrine/bapteme/necessite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42213/fr/doctrine/bapteme/necessite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dans la Tradition</title>
-      <link>https://eens.netlify.app/fr/doctrine/bapteme/necessite/tradition/</link>
+      <link>http://localhost:42213/fr/doctrine/bapteme/necessite/tradition/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:55 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/bapteme/necessite/tradition/</guid>
+      <guid>http://localhost:42213/fr/doctrine/bapteme/necessite/tradition/</guid>
       <description>Concile de Trente, sess. 7, Décret des Sacrements, can. 5, 1547 : &amp;ldquo;Si quelqu&amp;rsquo;un dit, que le Baptême est libre, c&amp;rsquo;est-à-dire, qu&amp;rsquo;il n&amp;rsquo;est pas nécessaire au salut; Qu&amp;rsquo;il soit anathème.&amp;rdquo; 1&#xA;Pape Eugène IV, Concile de Florence, Cantate Domino, 1441 : &amp;ldquo;Au sujet des enfants, en raison du péril de mort qui peut souvent se rencontrer, comme il n&amp;rsquo;est pas possible de leur porter secours par un autre remède que par le sacrement du baptême, par lequel ils sont arrachés à la domination du diable et sont adoptés comme enfants de Dieu, elle avertit qu&amp;rsquo;il ne faut pas différer le baptême pendant quarante ou quatre-vingts jours ou une autre durée, comme font certains, mais qu&amp;rsquo;il doit être conféré le plus tôt qu&amp;rsquo;il sera commodément possible, mais de telle sorte que, s&amp;rsquo;il y a péril de mort immédiat, ils soient baptisés sans aucun délai, même par un laïc ou une femme, dans la forme de l&amp;rsquo;Eglise, si un prêtre fait défaut, comme il est contenu plus complètement dans le décret des Arméniens 1315.</description>
     </item>
     <item>
       <title>Dans la Bible</title>
-      <link>https://eens.netlify.app/fr/doctrine/bapteme/necessite/bible/</link>
+      <link>http://localhost:42213/fr/doctrine/bapteme/necessite/bible/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:54 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/bapteme/necessite/bible/</guid>
+      <guid>http://localhost:42213/fr/doctrine/bapteme/necessite/bible/</guid>
       <description>Jean 3:5 : Jésus répondit : En vérité, en vérité, je te le dis, si quelqu&amp;rsquo;un ne renaît de l&amp;rsquo;eau et de l&amp;rsquo;Esprit-Saint, il ne peut entrer dans le royaume de Dieu.&amp;quot; 1&#xA;Marc 16:16 : &amp;ldquo;Celui qui croira et sera baptisé sera sauvé : mais celui qui ne croira pas sera condamné.&amp;rdquo; 2&#xA;Matthieu 28:19 : &amp;ldquo;Allez donc, enseignez toutes les nations, les baptisant au nom du Père, et du Fils, et du Saint-Esprit; leur apprenant à garder tout ce que je vous ai commandé : et voici que je suis avec vous tous les jours, jusqu&amp;rsquo;à la consommation du siècle.</description>
     </item>
     <item>
       <title>Histoire</title>
-      <link>https://eens.netlify.app/fr/doctrine/bapteme/necessite/histoire/</link>
+      <link>http://localhost:42213/fr/doctrine/bapteme/necessite/histoire/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:54 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/bapteme/necessite/histoire/</guid>
+      <guid>http://localhost:42213/fr/doctrine/bapteme/necessite/histoire/</guid>
       <description>Annales des Frères Mineurs, au sujet du Frère Martin de Valence apôtre du Mexique, 1680 : &amp;ldquo;On lui présenta à Tlalmanalca un enfant malade, afin qu&amp;rsquo;il le baptisa, mais il expira avant que le Saint lui pût administrer ce Sacrement. Cette mort précipitée qui privait cette âme d&amp;rsquo;un grâce si nécessaire au salut, lui donna beaucoup de déplaisir : il prit ce petit cadavre, le posa sur l&amp;rsquo;Autel, se mit en prière, et dans peu de temps le mort ressuscita, fut baptisé, et se trouva parfaitement guéri.</description>
     </item>
   </channel>

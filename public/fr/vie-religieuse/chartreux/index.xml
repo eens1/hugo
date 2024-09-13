@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ordre des Chartreux on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/vie-religieuse/chartreux/</link>
+    <link>http://localhost:42213/fr/vie-religieuse/chartreux/</link>
     <description>Recent content in Ordre des Chartreux on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:58 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/vie-religieuse/chartreux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42213/fr/vie-religieuse/chartreux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nourriture</title>
-      <link>https://eens.netlify.app/fr/vie-religieuse/chartreux/nourriture/</link>
+      <link>http://localhost:42213/fr/vie-religieuse/chartreux/nourriture/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:58 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/vie-religieuse/chartreux/nourriture/</guid>
+      <guid>http://localhost:42213/fr/vie-religieuse/chartreux/nourriture/</guid>
       <description>Abbé Guibert, abbé de Nogent : &amp;ldquo;Ils reçoivent le Dimanche, du dépensier, pour nourriture, du pain et des légumes, qui sont leurs seuls mets, et qu&amp;rsquo;ils cuisent chez eux.&#xA;Ils ont de l&amp;rsquo;eau dans leurs cellules, qui vient par différents conduits.&#xA;Ils peuvent, aux Dimanches et aux jours de Fêtes, manger du fromage et du poisson, mais ils ne font usage de poisson qu&amp;rsquo;autant qu&amp;rsquo;on leur en donne, car ils n&amp;rsquo;en achètent pas.</description>
     </item>
     <item>
       <title>Profession</title>
-      <link>https://eens.netlify.app/fr/vie-religieuse/chartreux/profession/</link>
+      <link>http://localhost:42213/fr/vie-religieuse/chartreux/profession/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:58 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/vie-religieuse/chartreux/profession/</guid>
+      <guid>http://localhost:42213/fr/vie-religieuse/chartreux/profession/</guid>
       <description>Père De Tracy, profession des Chartreux de choeur : &amp;ldquo;Je promets stabilité et obéissance et conversion de mes moeurs devant Dieu et ses Saints, et les reliques de cet hermitage qui est construit en l&amp;rsquo;honneur de Dieu, de la bienheureuse Marie, toujours vierge, et du bienheureux Jean-Baptiste, en présence de Dom (N.), Prieur.&amp;rdquo; 1&#xA;De Tracy 1785, p. 165.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     <item>
       <title>Règle</title>
-      <link>https://eens.netlify.app/fr/vie-religieuse/chartreux/regle/</link>
+      <link>http://localhost:42213/fr/vie-religieuse/chartreux/regle/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:58 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/vie-religieuse/chartreux/regle/</guid>
+      <guid>http://localhost:42213/fr/vie-religieuse/chartreux/regle/</guid>
       <description>Père De Tracy : &amp;ldquo;Quoique S. Bruno n&amp;rsquo;ait pas formé de corps de règles, il ne laissa pas surement ses premiers disciples sans règlements. Le vénérable Guigues ayant embrassé l&amp;rsquo;institut du Saint cinq ou six ans après sa mort, et ayant demeuré avec ses premiers disciples, en écrivit les pratiques et coutumes, qui sans doute avaient été pour la plupart établies par S. Bruno.&amp;rdquo; 1&#xA;De Tracy 1785, p. 106.</description>
     </item>
   </channel>

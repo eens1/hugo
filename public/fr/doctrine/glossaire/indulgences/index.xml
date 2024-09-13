@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indulgences on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/doctrine/glossaire/indulgences/</link>
+    <link>http://localhost:42213/fr/doctrine/glossaire/indulgences/</link>
     <description>Recent content in Indulgences on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:56 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/doctrine/glossaire/indulgences/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42213/fr/doctrine/glossaire/indulgences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dans la Bible</title>
-      <link>https://eens.netlify.app/fr/doctrine/glossaire/indulgences/bible/</link>
+      <link>http://localhost:42213/fr/doctrine/glossaire/indulgences/bible/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:56 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/glossaire/indulgences/bible/</guid>
+      <guid>http://localhost:42213/fr/doctrine/glossaire/indulgences/bible/</guid>
       <description>Saint Paul commence par retrancher le pécheur de la communion des fidèles :&#xA;1 Corinthiens 5:1 : &amp;ldquo;Il n&amp;rsquo;est bruit que d&amp;rsquo;une fornication commise parmi vous, d&amp;rsquo;une fornication telle, qu&amp;rsquo;il n&amp;rsquo;en existe pas chez les gentils mêmes; jusque-là que quelqu&amp;rsquo;un a la femme de son père. Et vous êtes gonflés d&amp;rsquo;orgueil ! et vous n&amp;rsquo;êtes pas plutôt dans les pleurs, pour faire ôter d&amp;rsquo;au milieu de vous celui qui a commis cette action !</description>
     </item>
     <item>
       <title>Dans la Tradition</title>
-      <link>https://eens.netlify.app/fr/doctrine/glossaire/indulgences/tradition/</link>
+      <link>http://localhost:42213/fr/doctrine/glossaire/indulgences/tradition/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:56 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/glossaire/indulgences/tradition/</guid>
+      <guid>http://localhost:42213/fr/doctrine/glossaire/indulgences/tradition/</guid>
       <description>Pape Pie IV, Concile de Trente, Sess. 25, 4 déc. 1563 : &amp;ldquo;Le pouvoir de conferer les Indulgences ayant été accordé par Jésus-Christ à l&amp;rsquo;Eglife, qui dès les premiers temps même a usé de cette puiffance , qui lui a été donnée de Dieu; Le Saint Concile ordonne et prononce qu&amp;rsquo;on doit garder et retenir dans l&amp;rsquo;Eglife l’usage des Indulgences, comme tres-falutaire au Peuple Chrétien, et approuvé par l&amp;rsquo;autorité des Saints Conciles; et condamne en même temps d&amp;rsquo;Anathème tous ceux, ou qui disent qu&amp;rsquo;elles sont inutiles, ou qui nient que l&amp;rsquo;Eglise ait la puiffance de les accorder.</description>
     </item>
   </channel>

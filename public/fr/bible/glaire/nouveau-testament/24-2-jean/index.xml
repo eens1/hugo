@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 Jean on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/24-2-jean/</link>
+    <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/24-2-jean/</link>
     <description>Recent content in 2 Jean on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:00:45 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/bible/glaire/nouveau-testament/24-2-jean/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42213/fr/bible/glaire/nouveau-testament/24-2-jean/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapitre 1</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/24-2-jean/chap001/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/24-2-jean/chap001/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:45 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/24-2-jean/chap001/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/24-2-jean/chap001/</guid>
       <description>Saint Jean exhorte Electe et ses fils à demeurer fermes dans la charité et dans la foi ; à éviter les hérétiques et à n’avoir pas de commerce avec eux.</description>
     </item>
   </channel>

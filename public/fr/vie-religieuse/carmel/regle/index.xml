@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Règle on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/vie-religieuse/carmel/regle/</link>
+    <link>http://localhost:42213/fr/vie-religieuse/carmel/regle/</link>
     <description>Recent content in Règle on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:58 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/vie-religieuse/carmel/regle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42213/fr/vie-religieuse/carmel/regle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Règle de saint Albert</title>
-      <link>https://eens.netlify.app/fr/vie-religieuse/carmel/regle/regle-saint-albert/</link>
+      <link>http://localhost:42213/fr/vie-religieuse/carmel/regle/regle-saint-albert/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:58 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/vie-religieuse/carmel/regle/regle-saint-albert/</guid>
+      <guid>http://localhost:42213/fr/vie-religieuse/carmel/regle/regle-saint-albert/</guid>
       <description>Quelques mots désuets :&#xA;ès = en les item = ainsi icelui = celui-ci icelle = celle-ci ains = mais &amp;ldquo;Règle primitive d&amp;rsquo;Albert, patriarche de Jérusalem de l&amp;rsquo;an 1171, confirmé, corrigée et modifiée par notre très-saint père le pape Innocent IV l&amp;rsquo;an 1248, pour les religieux du Mont-Carmel.&#xA;Innocent, évêque serviteur des serviteurs de Dieu, à nos bien-aimés fils le prieur et les religieux hermites de Notre-Dame du Mont-Carmel, salut et bénédiction apostolique.</description>
     </item>
     <item>
       <title>Règle primitive</title>
-      <link>https://eens.netlify.app/fr/vie-religieuse/carmel/regle/regle-primitive/</link>
+      <link>http://localhost:42213/fr/vie-religieuse/carmel/regle/regle-primitive/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:58 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/vie-religieuse/carmel/regle/regle-primitive/</guid>
+      <guid>http://localhost:42213/fr/vie-religieuse/carmel/regle/regle-primitive/</guid>
       <description>Louis de sainte Térèse : &amp;ldquo;&amp;hellip; la règle des Nazaréens et les status qu&amp;rsquo;ils gardaient, furent la règle du Carmel primitif.&amp;rdquo; 1&#xA;Louis 1662, p. 77.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
   </channel>

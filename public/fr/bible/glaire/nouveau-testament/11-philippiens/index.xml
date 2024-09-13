@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phlippiens on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/11-philippiens/</link>
+    <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/11-philippiens/</link>
     <description>Recent content in Phlippiens on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:00:45 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/bible/glaire/nouveau-testament/11-philippiens/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42213/fr/bible/glaire/nouveau-testament/11-philippiens/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapitre 1</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/11-philippiens/chap001/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/11-philippiens/chap001/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:45 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/11-philippiens/chap001/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/11-philippiens/chap001/</guid>
       <description>Affection de saint Paul pour les Philippiens.&#xA;Les liens de saint Paul fortifient les fidèles.&#xA;Vérité prêchée par esprit d’envie.&#xA;Confiance de saint Paul.&#xA;Il est partagé entre Dieu et ses frères.&#xA;Grande grâce de souffrir pour Jésus-Christ.</description>
     </item>
     <item>
       <title>Chapitre 2</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/11-philippiens/chap002/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/11-philippiens/chap002/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:45 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/11-philippiens/chap002/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/11-philippiens/chap002/</guid>
       <description>Union.&#xA;Humilité.&#xA;Abaissement et gloire de Jésus-Christ.&#xA;Opérer le salut avec crainte et tremblement.&#xA;Zèle de saint Paul.&#xA;Vertu de Timothée.&#xA;Louange d’Epaphrodite.</description>
     </item>
     <item>
       <title>Chapitre 3</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/11-philippiens/chap003/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/11-philippiens/chap003/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:45 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/11-philippiens/chap003/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/11-philippiens/chap003/</guid>
       <description>Chrétien vrai circoncis.&#xA;Justice de la loi et de la foi.&#xA;Participation aux souffrances de Jésus-Christ.&#xA;Saint Paul ne se croit pas arrivé à la perfection, mais il y tend.&#xA;Faux apôtres ennemis de la croix.&#xA;Chrétiens citoyens du ciel.</description>
     </item>
     <item>
       <title>Chapitre 4</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/11-philippiens/chap004/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/11-philippiens/chap004/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:45 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/11-philippiens/chap004/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/11-philippiens/chap004/</guid>
       <description>Saint Paul exhorte les Philippiens à demeurer fermes dans le Seigneur.&#xA;Il leur recommande ses coopérateurs.&#xA;Il leur souhaite la paix.&#xA;Il loue leur libéralité, et leur souhaite la récompense.&#xA;Salutations.</description>
     </item>
   </channel>

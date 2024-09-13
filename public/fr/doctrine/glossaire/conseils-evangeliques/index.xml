@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conseils évangéliques on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/doctrine/glossaire/conseils-evangeliques/</link>
+    <link>http://localhost:42213/fr/doctrine/glossaire/conseils-evangeliques/</link>
     <description>Recent content in Conseils évangéliques on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:55 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/doctrine/glossaire/conseils-evangeliques/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42213/fr/doctrine/glossaire/conseils-evangeliques/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dans la Bible</title>
-      <link>https://eens.netlify.app/fr/doctrine/glossaire/conseils-evangeliques/bible/</link>
+      <link>http://localhost:42213/fr/doctrine/glossaire/conseils-evangeliques/bible/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:55 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/glossaire/conseils-evangeliques/bible/</guid>
+      <guid>http://localhost:42213/fr/doctrine/glossaire/conseils-evangeliques/bible/</guid>
       <description>1 Corinthiens 7:25 : &amp;ldquo;Quant aux vierges, je n&amp;rsquo;ai pas reçu de commandement du Seigneur, mais je donnerai un conseil, comme ayant obtenu de la miséricorde du Seigneur d&amp;rsquo;être fidèle.&amp;rdquo; 1&#xA;1 Corinthiens 7:38 : &amp;ldquo;Ainsi celui qui marie sa fille vierge fait bien; et celui qui ne la marie pas fait mieux.&amp;rdquo; 2&#xA;1 Corinthiens 9:11-12 : &amp;ldquo;Si nous avons semé en vous des biens spirituels, est-ce une grande chose que nous moissonnions de vos biens temporels ?</description>
     </item>
     <item>
       <title>Dans la Tradition</title>
-      <link>https://eens.netlify.app/fr/doctrine/glossaire/conseils-evangeliques/tradition/</link>
+      <link>http://localhost:42213/fr/doctrine/glossaire/conseils-evangeliques/tradition/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:55 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/glossaire/conseils-evangeliques/tradition/</guid>
+      <guid>http://localhost:42213/fr/doctrine/glossaire/conseils-evangeliques/tradition/</guid>
       <description>Saint Pierre d’Alcantara, extrait de la lettre à sainte Térèse d’Avila : &amp;ldquo;&amp;hellip; j’ai été étonné d’apprendre, que votre zèle, et votre piété mette au jugement des hommes savants, ce qui n’est pas de leur faculté ; s’il s’agissait d’un point de droit ou d’un cas de conscience, je crois qu’il serait bon de prendre conseil des jurisconsultes, et des théologiens : mais lorsqu’il est question de résoudre sur ce qui regarde la perfection de la vie, il n’y a que ceux qui y sont avancés, et qui la pratiquent, qui aient la capacité de donner sur ce sujet des conseils salutaires; parce que d’ordinaire il n’y a que ceux qui font parfaitement le bien, qui puissent en faire part à ceux qui veulent comme eux entrer dans la perfection, et dans le chemin de l’Évangile.</description>
     </item>
     <item>
       <title>Définition</title>
-      <link>https://eens.netlify.app/fr/doctrine/glossaire/conseils-evangeliques/definition/</link>
+      <link>http://localhost:42213/fr/doctrine/glossaire/conseils-evangeliques/definition/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:55 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/doctrine/glossaire/conseils-evangeliques/definition/</guid>
+      <guid>http://localhost:42213/fr/doctrine/glossaire/conseils-evangeliques/definition/</guid>
       <description>Saint Pierre Canisius, Le grand catéchisme : &amp;ldquo;On appelle conseils évangéliques les pratiques qui, sans étre précisément nécessaires à notre salut, nous sont cependant suggérées et conseillées par Jésus-Christ comme autant de moyens de nous sauver plus sûrement et avec moins de peine.&#xA;Il faut donc retenir avec soin la distinction que l&amp;rsquo;Ecriture établit entre les préceptes et les conseils, et entendre par ceux-là les choses dont l&amp;rsquo;observation est rigoureusement nécessaire, et par ceux-ci les choses qu&amp;rsquo;on est libre d&amp;rsquo;omettre, quoiqu&amp;rsquo;on soit invité à les observer comme favorables à la parfaite observation des préceptes mêmes.</description>
     </item>
   </channel>

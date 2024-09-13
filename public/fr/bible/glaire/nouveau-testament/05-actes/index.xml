@@ -2,206 +2,206 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Actes des Apôtres on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/</link>
+    <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/</link>
     <description>Recent content in Actes des Apôtres on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:00:44 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapitre 1</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap001/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap001/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap001/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap001/</guid>
       <description>Prologue de saint Luc.&#xA;Ascension de Jésus-Christ.&#xA;Retour des Apôtres à Jérusalem.&#xA;Saint Mathias est élu à la place de Judas.</description>
     </item>
     <item>
       <title>Chapitre 10</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap010/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap010/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap010/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap010/</guid>
       <description>Vision de Corneille.&#xA;Il envoie vers saint Pierre.&#xA;Saint Pierre va trouver Corneille et lui prêche Jésus.&#xA;Effusion du Saint-Esprit sur Corneille et sur plusieurs autres gentils : leur baptême.</description>
     </item>
     <item>
       <title>Chapitre 11</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap011/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap011/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap011/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap011/</guid>
       <description>Pierre repris rend raison de sa conduite.&#xA;Disciples dispersés prêchant aux Juifs, puis aux gentils.&#xA;Barnabé et Paul prêchent à Antioche.&#xA;Disciples appelés Chrétiens.&#xA;Prophétie d’Agabus.&#xA;Aumônes pour les chrétiens de Judée.</description>
     </item>
     <item>
       <title>Chapitre 12</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap012/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap012/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap012/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap012/</guid>
       <description>Martyre de saint Jacques le Majeur.&#xA;Emprisonnement et délivrance de saint Pierre.&#xA;Hérode Agrippa meurt frappé de Dieu.</description>
     </item>
     <item>
       <title>Chapitre 13</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap013/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap013/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap013/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap013/</guid>
       <description>Paul et Barnabé sont envoyés aux gentils.&#xA;Ils passent dans l’île de Chypre.&#xA;Le magicien Barjésu frappé d’aveuglement.&#xA;Conversion du proconsul Sergius Paulus.&#xA;Paul vient à Antioche de Pisidie, où il prêche dans la synagogue.&#xA;Les Juifs lui résistent.&#xA;Il se tourne vers les gentils.</description>
     </item>
     <item>
       <title>Chapitre 14</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap014/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap014/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap014/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap014/</guid>
       <description>Succès de la prédication de Paul et de Barnabé à Iconium.&#xA;Ils sont chassés et se réfugient à Lystre.&#xA;Paul y guérit un boiteux.&#xA;On veut leur sacrifier ; on les lapide.&#xA;Ils vont à Derbe.&#xA;Ils s’en retournent à Antioche de Syrie, en visitant les fidèles.</description>
     </item>
     <item>
       <title>Chapitre 15</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap015/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap015/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap015/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap015/</guid>
       <description>Dispute à Antioche sur les observations légales.&#xA;Saint Paul et saint Barnabé vont à Jérusalem consulter les Apôtres.&#xA;Concile de Jérusalem.&#xA;Lettre du concile.&#xA;Jude et Silas envoyés à Antioche avec Paul et Barnabé.&#xA;Paul et Barnabé se séparent.</description>
     </item>
     <item>
       <title>Chapitre 16</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap016/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap016/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap016/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap016/</guid>
       <description>Paul prend avec lui Timothée.&#xA;Il est détourné de prêcher en Asie et en Bythinie ; mais il est appelé en Macédoine.&#xA;Il arrive à Philippes ; conversion de Lydie.&#xA;Pythonisse délivrée.&#xA;Paul et Silas, fouettés et mis en prison, convertissent le geôlier ; leur délivrance.</description>
     </item>
     <item>
       <title>Chapitre 17</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap017/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap017/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap017/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap017/</guid>
       <description>Paul à Thessalonique ; les Juifs y soulèvent le peuple contre lui.&#xA;Il passe à Bérée ; les Juifs de Thessalonique l’y poursuivent.&#xA;Il est conduit à Athènes.&#xA;Il prêche dans l’Aréopage.</description>
     </item>
     <item>
       <title>Chapitre 18</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap018/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap018/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap018/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap018/</guid>
       <description>Paul vient à Corinthe ; il travaille des mains avec Aquila et Priscille.&#xA;Il quitte les Juifs et instruit les gentils.&#xA;Il est accusé devant le proconsul.&#xA;Il vient à Ephèse, va à Jérusalem, revient à Antioche, parcourt la Galatie et la Phrygie.&#xA;Apollon vient à Ephèse et passe en Achaïe.</description>
     </item>
     <item>
       <title>Chapitre 19</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap019/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap019/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap019/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap019/</guid>
       <description>Paul vient à Ephèse.&#xA;Disciples qui n’avaient reçu que le baptême de Jean.&#xA;Miracles de Paul.&#xA;Exorcistes.&#xA;Juifs battus par les démons.&#xA;Progrès de la parole divine.&#xA;Sédition contre Paul, excitée par Démétrius.</description>
     </item>
     <item>
       <title>Chapitre 2</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap002/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap002/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap002/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap002/</guid>
       <description>Descente du Saint-Esprit au jour de la Pentecôte.&#xA;Don des langues.&#xA;Première prédication de saint Pierre.&#xA;Trois mille hommes convertis.&#xA;Vie des premiers fidèles.</description>
     </item>
     <item>
       <title>Chapitre 20</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap020/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap020/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap020/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap020/</guid>
       <description>Paul va en Macédoine et en Grèce.&#xA;Il prêche à Troas.&#xA;Mort et résurrection d’Eutyque.&#xA;Paul arrive à Milet.&#xA;Il y assemble les prêtres et les évêques de l’Eglise d’Ephèse.&#xA;Discours de Paul dans cette assemblée.</description>
     </item>
     <item>
       <title>Chapitre 21</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap021/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap021/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap021/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap021/</guid>
       <description>Paul va à Jérusalem.&#xA;Filles de Philippe prophétesses.&#xA;Agabus prédit les liens de Paul.&#xA;Paul arrive à Jérusalem ; il se purifie dans le temple, est maltraité par les Juifs, et enchaîné par le tribun de la cohorte romaine.</description>
     </item>
     <item>
       <title>Chapitre 22</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap022/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap022/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap022/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap022/</guid>
       <description>Discours de saint Paul aux Juifs, et fureur des Juifs contre lui.&#xA;Le tribun veut le faire fouetter.&#xA;Il se déclare citoyen romain.</description>
     </item>
     <item>
       <title>Chapitre 23</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap023/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap023/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap023/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap023/</guid>
       <description>Paul se justifie devant le Conseil.&#xA;Il reçoit un soufflet par l’ordre du grand-prêtre.&#xA;Il divise les pharisiens d’avec les sadducéens.&#xA;Jésus-Christ lui apparaît.&#xA;Il découvre une conjuration contre sa vie ; il est envoyé au gouverneur Félix.</description>
     </item>
     <item>
       <title>Chapitre 24</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap024/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap024/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap024/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap024/</guid>
       <description>Paul accusé devant Félix ; il se défend ; il demeure prisonnier.&#xA;Félix, étant avec Drusille, fait venir Paul : il est effrayé par son discours.&#xA;Festus succède à Félix, qui laisse Paul en prison.</description>
     </item>
     <item>
       <title>Chapitre 25</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap025/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap025/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap025/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap025/</guid>
       <description>Les Juifs accusent Paul devant Festus.&#xA;Paul se défend et en appelle à César.&#xA;Agrippa et Bérénice viennent à Césarée.&#xA;Agrippa veut voir Paul.&#xA;Festus fait venir Paul devant Agrippa.</description>
     </item>
     <item>
       <title>Chapitre 26</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap026/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap026/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap026/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap026/</guid>
       <description>Discours de Paul devant Agrippa.&#xA;Festus traite Paul d’insensé.&#xA;Agrippa reconnaît l’innocence de Paul.</description>
     </item>
     <item>
       <title>Chapitre 27</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap027/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap027/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap027/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap027/</guid>
       <description>Paul est mis dans un vaisseau pour aller à Rome.&#xA;Description de son voyage.&#xA;Le vaisseau où il se trouvait est battu par la tempête.&#xA;Dieu donne à Paul tous ceux qui étaient avec lui.&#xA;Le vaisseau se brise ; tous se sauvent.</description>
     </item>
     <item>
       <title>Chapitre 28</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap028/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap028/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap028/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap028/</guid>
       <description>Paul et ceux qui étaient avec lui sont reçus à Malte.&#xA;Il est mordu par une vipère.&#xA;Il guérit les malades de cette île.&#xA;Il continue son voyage, arrive à Rome, prêche Jésus-Christ aux Juifs, leur reproche leur endurcissement, et leur annonce que les gentils leurs seront préférés.</description>
     </item>
     <item>
       <title>Chapitre 3</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap003/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap003/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap003/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap003/</guid>
       <description>Boiteux guéri à la porte du temple par saint Pierre au nom de Jésus-Christ.&#xA;Seconde prédication de saint Pierre.</description>
     </item>
     <item>
       <title>Chapitre 4</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap004/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap004/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap004/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap004/</guid>
       <description>Pierre et Jean mis en prison.&#xA;Accroissement du nombre des fidèles.&#xA;Les deux apôtres comparaissent devant le Conseil des Juifs.&#xA;Discours de Pierre.&#xA;Silence imposé aux apôtres.&#xA;Réponse de Pierre.&#xA;Prière de l’Eglise assemblée.&#xA;Nouvelle effusion du Saint-Esprit.&#xA;Union des fidèles.&#xA;Barnabé vend son bien.</description>
     </item>
     <item>
       <title>Chapitre 5</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap005/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap005/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap005/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap005/</guid>
       <description>Ananie et Saphire frappés de mort en punition de leur mensonge.&#xA;Miracles des Apôtres.&#xA;Les Apôtres sont emprisonnés, délivrés par un ange, puis amenés devant le Conseil.&#xA;Discours de Pierre.&#xA;Conseil de Gamaliel.&#xA;Les Apôtres pleins de joie d’avoir souffert des opprobres pour Jésus-Christ.</description>
     </item>
     <item>
       <title>Chapitre 6</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap006/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap006/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap006/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap006/</guid>
       <description>Murmures des Juifs grecs.&#xA;Election des sept diacres.&#xA;Etienne, plein de foi, fait des miracles.&#xA;Il est accusé faussement.</description>
     </item>
     <item>
       <title>Chapitre 7</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap007/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap007/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap007/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap007/</guid>
       <description>Discours de saint Etienne devant le Conseil des Juifs.&#xA;Il leur reproche leurs infidélités.&#xA;Il est emmené hors de la ville et lapidé.&#xA;Sa charité pour ses ennemis.&#xA;Saul consent à sa mort.</description>
     </item>
     <item>
       <title>Chapitre 8</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap008/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap008/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap008/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap008/</guid>
       <description>Persécution contre les fidèles.&#xA;Philippe prêche en Samarie.&#xA;Simon le Magicien est baptisé.&#xA;Pierre et Jean donnent le Saint-Esprit aux Samaritains.&#xA;Simon veut acheter ce pouvoir.&#xA;Eunuque de la reine d’Ethiopie baptisé par Philippe.</description>
     </item>
     <item>
       <title>Chapitre 9</title>
-      <link>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap009/</link>
+      <link>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap009/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:44 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/glaire/nouveau-testament/05-actes/chap009/</guid>
+      <guid>http://localhost:42213/fr/bible/glaire/nouveau-testament/05-actes/chap009/</guid>
       <description>Saul persécute les fidèles.&#xA;Sa conversion, son baptême.&#xA;Il prêche à Damas, va à Jérusalem, se retire à Césarée, puis à Tarse.&#xA;Pierre guérit Enée et ressuscite Tabithe.</description>
     </item>
   </channel>

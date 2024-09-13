@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Règle et Testament de saint François on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/vie-religieuse/freres-mineurs/regle-testament/</link>
+    <link>http://localhost:42213/fr/vie-religieuse/freres-mineurs/regle-testament/</link>
     <description>Recent content in Règle et Testament de saint François on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/vie-religieuse/freres-mineurs/regle-testament/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42213/fr/vie-religieuse/freres-mineurs/regle-testament/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

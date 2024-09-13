@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 Timothy on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/en/bible/douay-rheims/new-testament/16-2-timothy/</link>
+    <link>http://localhost:42213/en/bible/douay-rheims/new-testament/16-2-timothy/</link>
     <description>Recent content in 2 Timothy on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:00:25 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/en/bible/douay-rheims/new-testament/16-2-timothy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42213/en/bible/douay-rheims/new-testament/16-2-timothy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter 1</title>
-      <link>https://eens.netlify.app/en/bible/douay-rheims/new-testament/16-2-timothy/chap001/</link>
+      <link>http://localhost:42213/en/bible/douay-rheims/new-testament/16-2-timothy/chap001/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:25 +0200</pubDate>
-      <guid>https://eens.netlify.app/en/bible/douay-rheims/new-testament/16-2-timothy/chap001/</guid>
+      <guid>http://localhost:42213/en/bible/douay-rheims/new-testament/16-2-timothy/chap001/</guid>
       <description>1 Paul, an apostle of Jesus Christ, by the will of God, according to the promise of life which is in Christ Jesus:&#xA;2 To Timothy, my dearly beloved son. Grace, mercy and peace, from God the Father and from Christ Jesus our Lord.&#xA;3 I give thanks to God, whom I serve from my forefathers, with a pure conscience, that without ceasing I have a remembrance of thee in my prayers, night and day.</description>
     </item>
     <item>
       <title>Chapter 2</title>
-      <link>https://eens.netlify.app/en/bible/douay-rheims/new-testament/16-2-timothy/chap002/</link>
+      <link>http://localhost:42213/en/bible/douay-rheims/new-testament/16-2-timothy/chap002/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:25 +0200</pubDate>
-      <guid>https://eens.netlify.app/en/bible/douay-rheims/new-testament/16-2-timothy/chap002/</guid>
+      <guid>http://localhost:42213/en/bible/douay-rheims/new-testament/16-2-timothy/chap002/</guid>
       <description>1 Thou therefore, my son, be strong in Christ Jesus:&#xA;2 And the things which thou hast heard of me by many witnesses, the same commend to faithful men who shall be fit to teach others also.&#xA;3 Labour as a good soldier of Christ Jesus.&#xA;4 No man, being a soldier to God, entangleth himself with secular businesses: that he may please him to whom he hath engaged himself.</description>
     </item>
     <item>
       <title>Chapter 3</title>
-      <link>https://eens.netlify.app/en/bible/douay-rheims/new-testament/16-2-timothy/chap003/</link>
+      <link>http://localhost:42213/en/bible/douay-rheims/new-testament/16-2-timothy/chap003/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:25 +0200</pubDate>
-      <guid>https://eens.netlify.app/en/bible/douay-rheims/new-testament/16-2-timothy/chap003/</guid>
+      <guid>http://localhost:42213/en/bible/douay-rheims/new-testament/16-2-timothy/chap003/</guid>
       <description>1 Know also this, that in the last days shall come dangerous times.&#xA;2 Men shall be lovers of themselves, covetous, haughty, proud, blasphemers, disobedient to parents, ungrateful, wicked,&#xA;3 Without affection, without peace, slanderers, incontinent, unmerciful, without kindness,&#xA;4 Traitors, stubborn, puffed up, and lovers of pleasure more than of God:&#xA;5 Having an appearance indeed of godliness but denying the power thereof. Now these avoid.&#xA;6 For of these sort are they who creep into houses and lead captive silly women laden with sins, who are led away with divers desires:</description>
     </item>
     <item>
       <title>Chapter 4</title>
-      <link>https://eens.netlify.app/en/bible/douay-rheims/new-testament/16-2-timothy/chap004/</link>
+      <link>http://localhost:42213/en/bible/douay-rheims/new-testament/16-2-timothy/chap004/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:25 +0200</pubDate>
-      <guid>https://eens.netlify.app/en/bible/douay-rheims/new-testament/16-2-timothy/chap004/</guid>
+      <guid>http://localhost:42213/en/bible/douay-rheims/new-testament/16-2-timothy/chap004/</guid>
       <description>1 I charge thee, before God and Jesus Christ, who shall judge the living and the dead, by his coming and his kingdom:&#xA;2 Preach the word: be instant in season, out of season: reprove, entreat, rebuke in all patience and doctrine.&#xA;3 For there shall be a time when they will not endure sound doctrine but, according to their own desires, they will heap to themselves teachers having itching ears:</description>
     </item>
   </channel>

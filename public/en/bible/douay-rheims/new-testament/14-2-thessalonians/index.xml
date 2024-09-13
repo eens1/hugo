@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 Thessalonians on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/en/bible/douay-rheims/new-testament/14-2-thessalonians/</link>
+    <link>http://localhost:42213/en/bible/douay-rheims/new-testament/14-2-thessalonians/</link>
     <description>Recent content in 2 Thessalonians on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:00:24 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/en/bible/douay-rheims/new-testament/14-2-thessalonians/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:42213/en/bible/douay-rheims/new-testament/14-2-thessalonians/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter 1</title>
-      <link>https://eens.netlify.app/en/bible/douay-rheims/new-testament/14-2-thessalonians/chap001/</link>
+      <link>http://localhost:42213/en/bible/douay-rheims/new-testament/14-2-thessalonians/chap001/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:24 +0200</pubDate>
-      <guid>https://eens.netlify.app/en/bible/douay-rheims/new-testament/14-2-thessalonians/chap001/</guid>
+      <guid>http://localhost:42213/en/bible/douay-rheims/new-testament/14-2-thessalonians/chap001/</guid>
       <description>1 Paul and Sylvanus and Timothy, to the church of the Thessalonians. In God our Father and the Lord Jesus Christ,&#xA;2 Grace unto you: and peace from God our Father and from the Lord Jesus Christ.&#xA;3 We are bound to give thanks always to God for you, brethren, as it is fitting, because your faith groweth exceedingly and the charity of every one of you towards each other aboundeth.</description>
     </item>
     <item>
       <title>Chapter 2</title>
-      <link>https://eens.netlify.app/en/bible/douay-rheims/new-testament/14-2-thessalonians/chap002/</link>
+      <link>http://localhost:42213/en/bible/douay-rheims/new-testament/14-2-thessalonians/chap002/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:24 +0200</pubDate>
-      <guid>https://eens.netlify.app/en/bible/douay-rheims/new-testament/14-2-thessalonians/chap002/</guid>
+      <guid>http://localhost:42213/en/bible/douay-rheims/new-testament/14-2-thessalonians/chap002/</guid>
       <description>1 And we beseech you, brethren, by the coming of our Lord Jesus Christ and of our gathering together unto him:&#xA;2 That you be not easily moved from your sense nor be terrified, neither by spirit nor by word nor by epistle. as sent from us, as if the day of the Lord were at hand.&#xA;3 Let no man deceive you by any means: for unless there come a revolt first, and the man of sin be revealed, the son of perdition</description>
     </item>
     <item>
       <title>Chapter 3</title>
-      <link>https://eens.netlify.app/en/bible/douay-rheims/new-testament/14-2-thessalonians/chap003/</link>
+      <link>http://localhost:42213/en/bible/douay-rheims/new-testament/14-2-thessalonians/chap003/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:24 +0200</pubDate>
-      <guid>https://eens.netlify.app/en/bible/douay-rheims/new-testament/14-2-thessalonians/chap003/</guid>
+      <guid>http://localhost:42213/en/bible/douay-rheims/new-testament/14-2-thessalonians/chap003/</guid>
       <description>1 For the rest, brethren, pray for us that the word of God may run and may be glorified, even as among you:&#xA;2 And that we may be delivered from importunate and evil men: for all men have not faith.&#xA;3 But God is faithful, who will strengthen and keep you from evil.&#xA;4 And we have confidence concerning you in the Lord that the things which we command, you both do and will do.</description>
     </item>
   </channel>
