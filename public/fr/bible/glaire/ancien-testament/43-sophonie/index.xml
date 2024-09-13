@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sophonie on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:1313/fr/bible/glaire/ancien-testament/43-sophonie/</link>
+    <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/43-sophonie/</link>
     <description>Recent content in Sophonie on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:00:43 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/bible/glaire/ancien-testament/43-sophonie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens.netlify.app/fr/bible/glaire/ancien-testament/43-sophonie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapitre 1</title>
-      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/43-sophonie/chap001/</link>
+      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/43-sophonie/chap001/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:43 +0200</pubDate>
-      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/43-sophonie/chap001/</guid>
+      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/43-sophonie/chap001/</guid>
       <description>Reproches et menaces contre Juda et Jérusalem.&#xA;Jour terrible des vengeances du Seigneur sur son peuple.&#xA;Désolation affreuse prête à tomber sur les enfants de Juda.</description>
     </item>
     <item>
       <title>Chapitre 2</title>
-      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/43-sophonie/chap002/</link>
+      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/43-sophonie/chap002/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:43 +0200</pubDate>
-      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/43-sophonie/chap002/</guid>
+      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/43-sophonie/chap002/</guid>
       <description>Exhortation à prévenir la colère du Seigneur.&#xA;Menaces contre les Philistins, les Moabites, les Ammonites et les Ethiopiens.&#xA;Vengeances du Seigneur sur les Assyriens.&#xA;Ruine de Ninive.</description>
     </item>
     <item>
       <title>Chapitre 3</title>
-      <link>http://localhost:1313/fr/bible/glaire/ancien-testament/43-sophonie/chap003/</link>
+      <link>https://eens.netlify.app/fr/bible/glaire/ancien-testament/43-sophonie/chap003/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:43 +0200</pubDate>
-      <guid>http://localhost:1313/fr/bible/glaire/ancien-testament/43-sophonie/chap003/</guid>
+      <guid>https://eens.netlify.app/fr/bible/glaire/ancien-testament/43-sophonie/chap003/</guid>
       <description>Reproches contre Jérusalem et Juda.&#xA;Vengeances du Seigneur sur ce peuple.&#xA;Promesses du Seigneur en faveur de Sion et des Israélites.</description>
     </item>
   </channel>
