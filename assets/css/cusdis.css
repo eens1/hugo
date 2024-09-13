@@ -1,0 +1,59 @@
+
+
+.comment-dropdown {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.dropdown-btn {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  cursor: pointer;
+  font-size: 16px;
+  width: 100%;
+  text-align: left;
+}
+
+.dropdown-btn:hover {
+  background-color: #444;
+}
+
+.comment-box {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  border-radius: 0 0 8px 8px;
+  padding: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+  display: none; /* Hidden by default */
+}
+
+.comment-box.active {
+  display: block; /* Show when active class is added */
+}
+
+.comment-box h2 {
+  margin: 0 0 10px;
+  font-size: 1.5em;
+}
+
+#cusdis_thread {
+  color-scheme: dark;
+}
+
+#cusdis_thread * {
+  background-color: #1a1a1a !important;
+  color: #ffffff !important;
+}
+
+#cusdis_thread input, 
+#cusdis_thread textarea {
+  background-color: #2a2a2a !important;
+  border-color: #444444 !important;
+}
+
+#cusdis_thread button {
+  background-color: #3a3a3a !important;
+}
