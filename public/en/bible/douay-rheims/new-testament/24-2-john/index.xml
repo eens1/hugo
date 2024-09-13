@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 John on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:42213/en/bible/douay-rheims/new-testament/24-2-john/</link>
+    <link>http://localhost:1313/en/bible/douay-rheims/new-testament/24-2-john/</link>
     <description>Recent content in 2 John on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:00:25 +0200</lastBuildDate>
-    <atom:link href="http://localhost:42213/en/bible/douay-rheims/new-testament/24-2-john/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/bible/douay-rheims/new-testament/24-2-john/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter 1</title>
-      <link>http://localhost:42213/en/bible/douay-rheims/new-testament/24-2-john/chap001/</link>
+      <link>http://localhost:1313/en/bible/douay-rheims/new-testament/24-2-john/chap001/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:25 +0200</pubDate>
-      <guid>http://localhost:42213/en/bible/douay-rheims/new-testament/24-2-john/chap001/</guid>
+      <guid>http://localhost:1313/en/bible/douay-rheims/new-testament/24-2-john/chap001/</guid>
       <description>1 The Ancient to the lady Elect and her children, whom I love in the truth: and not I only, but also all they that have known the truth,&#xA;2 For the sake of the truth which dwelleth in us and shall be with us for ever.&#xA;3 Grace be with you, mercy and peace from God the Father and from Christ Jesus the Son of the Father: in truth and charity.</description>
     </item>
   </channel>

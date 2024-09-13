@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:42213/en/blog/</link>
+    <link>http://localhost:1313/en/blog/</link>
     <description>Recent content in Blog on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 10 Sep 2024 16:37:26 +0200</lastBuildDate>
-    <atom:link href="http://localhost:42213/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antipope Francis Blesses All False Religions</title>
-      <link>http://localhost:42213/en/blog/antipope-francis-blesses-all-false-religions/</link>
+      <link>http://localhost:1313/en/blog/antipope-francis-blesses-all-false-religions/</link>
       <pubDate>Tue, 10 Sep 2024 16:37:26 +0200</pubDate>
-      <guid>http://localhost:42213/en/blog/antipope-francis-blesses-all-false-religions/</guid>
+      <guid>http://localhost:1313/en/blog/antipope-francis-blesses-all-false-religions/</guid>
       <description> </description>
     </item>
     <item>
       <title>Mary Is Not &#34;Co-Redemptrix&#34;</title>
-      <link>http://localhost:42213/en/blog/mary-is-not-co-redemptrix/</link>
+      <link>http://localhost:1313/en/blog/mary-is-not-co-redemptrix/</link>
       <pubDate>Fri, 06 Sep 2024 17:20:30 +0200</pubDate>
-      <guid>http://localhost:42213/en/blog/mary-is-not-co-redemptrix/</guid>
+      <guid>http://localhost:1313/en/blog/mary-is-not-co-redemptrix/</guid>
       <description> </description>
     </item>
   </channel>
