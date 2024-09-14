@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apologetics on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:1313/en/apologetics/</link>
+    <link>https://eens.netlify.app/en/apologetics/</link>
     <description>Recent content in Apologetics on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/apologetics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens.netlify.app/en/apologetics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Saint Francis about an Antipope drawing many into error and death</title>
-      <link>http://localhost:1313/en/apologetics/saint-francis-prophecy-antipope/</link>
+      <link>https://eens.netlify.app/en/apologetics/saint-francis-prophecy-antipope/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/apologetics/saint-francis-prophecy-antipope/</guid>
+      <guid>https://eens.netlify.app/en/apologetics/saint-francis-prophecy-antipope/</guid>
       <description>Source: Washbourne 1882, pp .248-249.&#xA;&amp;ldquo;Act bravely, my Brethren ; take courage, and trust in the Lord. The time is fast approaching in which there will be great trials and afflictions; perplexities and dissensions, both spiritual and temporal, will abound; the charity of many will grow cold, and the malice of the wicked will increase.&#xA;The devils will have unusual power, the immaculate purity of our Order, and of others, will be so much obscured that there will be very few Christians who will obey the true Sovereign Pontiff and the Roman Church with loyal hearts and perfect charity.</description>
     </item>
   </channel>

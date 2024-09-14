@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Religious life on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:1313/en/religious-life/</link>
+    <link>https://eens.netlify.app/en/religious-life/</link>
     <description>Recent content in Religious life on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/en/religious-life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens.netlify.app/en/religious-life/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
