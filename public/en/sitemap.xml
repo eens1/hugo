@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://eens.netlify.app/en/</loc>
-    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -14,6 +14,22 @@
                 hreflang="en"
                 href="https://eens.netlify.app/en/"
                 />
+  </url><url>
+    <loc>https://eens.netlify.app/en/references/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eens.netlify.app/fr/references/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eens.netlify.app/en/references/"
+                />
+  </url><url>
+    <loc>https://eens.netlify.app/en/apologetics/saint-francis-prophecy-antipope/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eens.netlify.app/en/religious-life/friars-minors/capuchins/</loc>
     <lastmod>2024-09-12T00:00:00+00:00</lastmod>
