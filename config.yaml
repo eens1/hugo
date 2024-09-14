@@ -26,7 +26,7 @@ languages:
     weight: 1
     contentDir: content/en
     params:
-      dateFormat: "Jan 2, 2006"
+      dateFormat: "Jan 02, 2006"
     menu:
       main:
         - identifier: home
@@ -65,7 +65,7 @@ languages:
     weight: 2
     contentDir: content/fr
     params:
-      dateFormat: "2 Jan 2006"
+      dateFormat: "02 Jan 2006"
     menu:
       main:
         - identifier: home
