@@ -1,0 +1,11 @@
+<script>
+window.store = {
+  {{ range where .Site.Pages "Section" "blog" }}
+  "{{ .Permalink }}": {
+    "title": "{{ .Title }}",
+    "content": {{ .Content | plainify }},
+    "url": "{{ .Permalink }}"
+  },
+  {{ end }}
+};
+</script>

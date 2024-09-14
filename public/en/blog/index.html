@@ -45,10 +45,42 @@
 
 
 
+
+<script src="/js/search.js" defer></script>
+
+
+
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
+<script src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js"></script>
+<script>
+window.store = {
+  
+  "http:\/\/localhost:1313\/en\/blog\/antipope-francis-blesses-all-false-religions\/": {
+    "title": "Antipope Francis Blesses All False Religions",
+    "content": " ",
+    "url": "http:\/\/localhost:1313\/en\/blog\/antipope-francis-blesses-all-false-religions\/"
+  },
+  
+  "http:\/\/localhost:1313\/en\/blog\/mary-is-not-co-redemptrix\/": {
+    "title": "Mary Is Not \\\u0022Co-Redemptrix\\\u0022",
+    "content": " ",
+    "url": "http:\/\/localhost:1313\/en\/blog\/mary-is-not-co-redemptrix\/"
+  },
+  
+  "http:\/\/localhost:1313\/en\/blog\/": {
+    "title": "Blog",
+    "content": "",
+    "url": "http:\/\/localhost:1313\/en\/blog\/"
+  },
+  
+};
+</script>
+
+<script src="/js/search.js"></script>
+ 
 
 </head>
 
@@ -60,6 +92,12 @@
 	
 
 </header>
+
+<form id="search" action='' method="get">
+  <input type="text" id="search-input" name="query" placeholder="Search...">
+  <input type="submit" value="Search">
+</form>
+
 
 <main>
 
@@ -199,7 +237,7 @@ FR
    
    <div class="post-item">
    <time>Sep 06, 2024</time> - 
-   <a href="/en/blog/mary-is-not-co-redemptrix/">Mary Is Not &#34;Co-Redemptrix&#34;</a>
+   <a href="/en/blog/mary-is-not-co-redemptrix/">Mary Is Not \&#34;Co-Redemptrix\&#34;</a>
    </div>
 
 

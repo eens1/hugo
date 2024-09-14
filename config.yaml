@@ -11,9 +11,7 @@ outputs:
   home:
     - HTML
     - RSS
-  section:
-    - HTML
-    - RSS
+    - JSON
 
 markup:
   goldmark:
