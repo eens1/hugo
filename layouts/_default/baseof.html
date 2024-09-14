@@ -43,6 +43,12 @@
 {{ end }}
 </header>
 
+
+<form action="/search" method="get">
+  <input type="text" name="q" placeholder="Search...">
+  <button type="submit">Search</button>
+</form>
+
 <main>
 {{ $navPartial := printf "partials/%s/nav.html" .Section }}
 {{ if templates.Exists $navPartial }}

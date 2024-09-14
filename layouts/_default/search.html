@@ -1,0 +1,37 @@
+{{ define "main" }}
+<input type="text" id="search-input" placeholder="Search...">
+<ul id="search-results"></ul>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.6.2/fuse.min.js"></script>
+<script>
+// Fetch the index
+fetch('/index.json').then(function (response) {
+  return response.json();
+}).then(function (data) {
+  var options = {
+    shouldSort: true,
+    keys: ['title', 'content']
+  };
+  var fuse = new Fuse(data, options);
+  var searchInput = document.getElementById('search-input');
+  var searchResults = document.getElementById('search-results');
+
+  searchInput.addEventListener('keyup', function () {
+    var result = fuse.search(this.value);
+    searchResults.innerHTML = '';
+    if (result.length > 0) {
+      result.forEach(function (item) {
+        var li = document.createElement('li');
+        li.innerHTML = '<a href="' + item.item.permalink + '">' + item.item.title + '</a>';
+        searchResults.appendChild(li);
+      });
+    } else {
+      var li = document.createElement('li');
+      li.textContent = 'No results found';
+      searchResults.appendChild(li);
+    }
+  });
+});
+</script>
+{{ end }}
+
