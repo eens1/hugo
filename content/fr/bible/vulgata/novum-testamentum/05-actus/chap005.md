@@ -13,7 +13,7 @@ draft: false
 
 4 Nonne manens tibi manebat, et venundatum in tua erat potestate? Quare posuisti in corde tuo hanc rem? Non es mentitus hominibus, sed Deo.
 
-5 Audiens autem Ananias hæc verba, cecidit, et expiravit. Et factus est timor magnus super omnes, qui audierunt.
+5 Audiens autem Ananias haec verba, cecidit, et expiravit. Et factus est timor magnus super omnes, qui audierunt.
 
 6 Surgentes autem iuvenes amoverunt eum, et efferentes sepelierunt.
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Confestim cecidit ante pedes eius, et expiravit. Intrantes autem iuvenes invenerunt illam mortuam: et extulerunt, et sepelierunt ad virum suum.
 
-11 Et factus est timor magnus in universa ecclesia, et in omnes, qui audierunt hæc.
+11 Et factus est timor magnus in universa ecclesia, et in omnes, qui audierunt haec.
 
 12 Per manus autem Apostolorum fiebant signa, et prodigia multa in plebe. Et erant unanimiter omnes in porticu Salomonis.
 
@@ -35,15 +35,15 @@ draft: false
 
 15 ita ut in plateas eiicerent infirmos, et ponerent in lectulis et grabatis, ut, veniente Petro, saltem umbra illius obumbraret quemquam illorum, et liberarentur ab infirmitatibus suis.
 
-16 Concurrebat autem et multitudo vicinarum civitatum Ierusalem, afferentes ægros, et vexatos a spiritibus immundis: qui curabantur omnes.
+16 Concurrebat autem et multitudo vicinarum civitatum Ierusalem, afferentes aegros, et vexatos a spiritibus immundis: qui curabantur omnes.
 
-17 Exurgens autem princeps sacerdotum, et omnes, qui cum illo erant, (quæ est hæresis Sadducæorum) repleti sunt zelo:
+17 Exurgens autem princeps sacerdotum, et omnes, qui cum illo erant, (quae est haeresis Sadducaeorum) repleti sunt zelo:
 
 18 et iniecerunt manus in Apostolos, et posuerunt eos in custodia publica.
 
 19 Angelus autem Domini per noctem aperiens ianuas carceris, et educens eos, dixit:
 
-20 Ite, et stantes loquimini in templo plebi omnia verba vitæ huius.
+20 Ite, et stantes loquimini in templo plebi omnia verba vitae huius.
 
 21 Qui cum audissent, intraverunt diluculo in templum, et docebant. Adveniens autem princeps sacerdotum, et qui cum eo erant, convocaverunt concilium, et omnes seniores filiorum Israel: et miserunt ad carcerem ut adducerentur.
 
@@ -59,31 +59,31 @@ draft: false
 
 27 Et cum adduxissent illos, statuerunt in concilio: Et interrogavit eos princeps sacerdotum,
 
-28 dicens: Præcipiendo præcepimus vobis ne doceretis in nomine isto: et ecce replestis Ierusalem doctrina vestra: et vultis inducere super nos sanguinem hominis istius.
+28 dicens: Praecipiendo praecepimus vobis ne doceretis in nomine isto: et ecce replestis Ierusalem doctrina vestra: et vultis inducere super nos sanguinem hominis istius.
 
 29 Respondens autem Petrus, et Apostoli, dixerunt: Obedire oportet Deo magis, quam hominibus.
 
 30 Deus patrum nostrorum suscitavit Iesum, quem vos interemistis, suspendentes in ligno.
 
-31 Hunc principem, et salvatorem Deus exaltavit dextera sua ad dandam pœnitentiam Israeli, et remissionem peccatorum.
+31 Hunc principem, et salvatorem Deus exaltavit dextera sua ad dandam poenitentiam Israeli, et remissionem peccatorum.
 
 32 et nos sumus testes horum verborum, et Spiritus sanctus, quem dedit Deus omnibus obedientibus sibi.
 
-33 Hæc cum audissent, dissecabantur, et cogitabant interficere illos.
+33 Haec cum audissent, dissecabantur, et cogitabant interficere illos.
 
-34 Surgens autem quidam in concilio Pharisæus, nomine Gamaliel, legisdoctor honorabilis universæ plebi, iussit foras ad breve homines fieri.
+34 Surgens autem quidam in concilio Pharisaeus, nomine Gamaliel, legisdoctor honorabilis universae plebi, iussit foras ad breve homines fieri.
 
-35 dixitque ad illos: Viri Israelitæ attendite vobis super hominibus istis quid acturi sitis.
+35 dixitque ad illos: Viri Israelitae attendite vobis super hominibus istis quid acturi sitis.
 
 36 Ante hos enim dies extitit Theodas, dicens se esse aliquem, cui consensit numerus virorum circiter quadringentorum: qui occisus est: et omnes, qui credebant ei, dissipati sunt, et redacti ad nihilum.
 
-37 Post hunc extitit Iudas Galilæus in diebus professionis, et avertit populum post se, et ipse periit: et omnes, quotquot consenserunt ei, dispersi sunt.
+37 Post hunc extitit Iudas Galilaeus in diebus professionis, et avertit populum post se, et ipse periit: et omnes, quotquot consenserunt ei, dispersi sunt.
 
 38 Et nunc itaque dico vobis, discedite ab hominibus istis, et sinite illos: quoniam si est ex hominibus consilium hoc, aut opus, dissolvetur:
 
 39 si vero ex Deo est, non poteritis dissolvere illud, ne forte et Deo repugnare inveniamini. Consenserunt autem illi.
 
-40 Et convocantes Apostolos, cæsis denunciaverunt ne omnino loquerentur in nomine Iesu, et dimiserunt eos.
+40 Et convocantes Apostolos, caesis denunciaverunt ne omnino loquerentur in nomine Iesu, et dimiserunt eos.
 
 41 Et illi quidem ibant gaudentes a conspectu concilii, quoniam digni habiti sunt pro nomine Iesu contumeliam pati.
 

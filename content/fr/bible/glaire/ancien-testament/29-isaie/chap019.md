@@ -12,7 +12,7 @@ summary: |
 ---
 
 
-1 Malheur accablant de l'Egypte. Voici que le Seigneur montera sur un nuage léger, et qu'il entrera dans l'Egypte, et que seront ébranlés les simulacres de l'Egypte devant sa face, et le cœur de l'Egypte se fondra au milieu d'elle.
+1 Malheur accablant de l'Egypte. Voici que le Seigneur montera sur un nuage léger, et qu'il entrera dans l'Egypte, et que seront ébranlés les simulacres de l'Egypte devant sa face, et le coeur de l'Egypte se fondra au milieu d'elle.
 
 ***Note*** :  Is. 19, 1-25 : Prophétie contre l’Egypte. Elle se divise en deux parties : 1° tableau du châtiment qui menace l’Egypte ; 2° résultats de ce châtiment, conversion de l’Egypte.
 
@@ -57,7 +57,7 @@ summary: |
 
 ***Note*** :  Is. 19, 13 : Soutien ; littéralement angle (angulum). C’est à l’angle que se trouve la première pierre fondamentale d’un bâtiment. ― Memphis, capitale de l’Egypte, était située au nord du Caire, près du désert, non loin des pyramides de Saqqarah.
 
-14 Le Seigneur a répandu au milieu d'elle un esprit de vertige, et ils ont fait errer l'Egypte dans toutes ses œuvres, comme erre l'homme ivre et qui vomit. 15 Et il n'y aura pour l'Egypte rien à faire à la tête et à la queue, à celui qui plie et à celui qui refrène.
+14 Le Seigneur a répandu au milieu d'elle un esprit de vertige, et ils ont fait errer l'Egypte dans toutes ses oeuvres, comme erre l'homme ivre et qui vomit. 15 Et il n'y aura pour l'Egypte rien à faire à la tête et à la queue, à celui qui plie et à celui qui refrène.
 
 ***Note*** :  Is. 19, 15 : Il n’y aura ; littéralement il ne sera pas à l’Egypte d’ouvrage qu’elle fasse : tête et queue, etc. ; c’est-à-dire que l’Egypte n’aura aucun pouvoir, aucune autorité ni sur les grands ni sur les petits, etc. ― La tête, la queue, celui qui plie et celui qui réfrène. Ces mots, qu’on a déjà vus (voir Isaïe, 9, 14), sont ici à l’accusatif par hébraïsme, comme étant des expressions adverbiales.
 
@@ -66,7 +66,7 @@ summary: |
 
 ***Note*** :  Is. 19, 16-25 : L’Egypte, après avoir subi la vengeance divine, se convertira au Seigneur et jouira, comme l’Assyrie, de privilèges égaux à ceux d’Israël. Cette partie de la prophétie se divise en cinq alinéas commençant tous par ces mots : En ce jour-là, versets 16, 18, 19, 23 et 24.
 
-***Note*** :  Is. 19, 16 : Les Egyptiens ; littéralement l’Egypte, qui se prend aussi pour les habitants dans ce même sens, puisque ces verbes sont au pluriel. ― Sur eux ; littéralement sur elle ; le pronom se rapportant grammaticalement au nom Egypte (Ægyptus), féminin singulier.
+***Note*** :  Is. 19, 16 : Les Egyptiens ; littéralement l’Egypte, qui se prend aussi pour les habitants dans ce même sens, puisque ces verbes sont au pluriel. ― Sur eux ; littéralement sur elle ; le pronom se rapportant grammaticalement au nom Egypte (AEgyptus), féminin singulier.
 
 17 Et la terre de Juda sera à l'Egypte en effroi ; quiconque s'en souviendra sera effrayé à la vue du dessein que le Seigneur des armées lui-même a formé contre elle.
 
@@ -85,7 +85,7 @@ summary: |
 20 Ce sera en signe et en témoignage au Seigneur des armées dans la terre d'Egypte. Car ils crieront vers le Seigneur à la vue de l'oppresseur, et il leur enverra un sauveur et un défenseur, qui les délivrera.
 
 
-21 Et le Seigneur sera connu de l'Egypte, et les Egyptiens en ce jour-là connaîtront le Seigneur; et ils l'honoreront par des hosties et par des offrandes; et ils voueront des vœux et ils les acquitteront.
+21 Et le Seigneur sera connu de l'Egypte, et les Egyptiens en ce jour-là connaîtront le Seigneur; et ils l'honoreront par des hosties et par des offrandes; et ils voueront des voeux et ils les acquitteront.
 
 ***Note*** :  Is. 19, 21 : Les Egyptiens connaîtront le Seigneur. Le christianisme fut très florissant en Egypte pendant les premiers siècles. Alexandrie joua un rôle important dans la défense et la propagation de la religion chrétienne ; la vie monacale fleurit avec le plus grand éclat dans la Haute-Egypte.
 
@@ -103,5 +103,5 @@ summary: |
 
 25 Qu'a bénie le Seigneur des armées, disant : Béni soit mon peuple d'Egypte, et l'ouvrage de mes mains se fera par l'Assyrien, mais mon héritage est Israël.
 
-***Note*** :  Is. 19, 25 : Et l’ouvrage, etc. ; c’est-à-dire je me servirai du peuple assyrien comme d’un instrument pour agir, pour accomplir mes desseins. C’est la seule traduction compatible avec la Vulgate ; le commun des versions porte : L’Assyrien est l’ouvrage de mes mains, et Israël mon partage. Plusieurs considèrent l’Assyrien et Israël comme sujets de l’attribut béni soit ; mais le latin Assyrio, n’étant pas au nominatif, s’oppose formellement à cette interprétation aussi bien qu’à la précédente. De plus, l’expression mais mon héritage, Israël (hæreditas autem Israel) forme une nouvelle difficulté. Toutefois, il faut le reconnaître, l’hébreu est susceptible de ces deux explications ; la dernière est la seule conforme aux Septante.
+***Note*** :  Is. 19, 25 : Et l’ouvrage, etc. ; c’est-à-dire je me servirai du peuple assyrien comme d’un instrument pour agir, pour accomplir mes desseins. C’est la seule traduction compatible avec la Vulgate ; le commun des versions porte : L’Assyrien est l’ouvrage de mes mains, et Israël mon partage. Plusieurs considèrent l’Assyrien et Israël comme sujets de l’attribut béni soit ; mais le latin Assyrio, n’étant pas au nominatif, s’oppose formellement à cette interprétation aussi bien qu’à la précédente. De plus, l’expression mais mon héritage, Israël (haereditas autem Israel) forme une nouvelle difficulté. Toutefois, il faut le reconnaître, l’hébreu est susceptible de ces deux explications ; la dernière est la seule conforme aux Septante.
 

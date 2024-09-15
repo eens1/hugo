@@ -12,7 +12,7 @@ summary: |
 
 ***Note*** :  Ps. 103, 1 : Louange ; c’est ici le vrai sens du mot confessionem de la Vulgate, ainsi que du texte correspondant des Septante : l’hébreu porte majesté.
 
-***Note*** :  Ps. 103, 1-4 : Eloge de l’œuvre du premier et du second jours de la création.
+***Note*** :  Ps. 103, 1-4 : Eloge de l’oeuvre du premier et du second jours de la création.
 
 2 Couvert de lumière comme d'un vêtement; Etendant le ciel comme une tente;
 
@@ -55,7 +55,7 @@ summary: |
 
 ***Note*** :  Ps. 103, 14 : De l’herbe (herbam), l’hébreu signifie légume, plante nourrissante.
 
-15 Et que le vin réjouisse le cœur de l'homme ; Afin qu'il égaie son visage avec l'huile, et que le pain fortifie le cœur de l'homme.
+15 Et que le vin réjouisse le coeur de l'homme ; Afin qu'il égaie son visage avec l'huile, et que le pain fortifie le coeur de l'homme.
 
 ***Note*** :  Ps. 103, 15 : Avec l’huile. Les anciens croyaient que les onctions d’huile faites sur le corps étaient presque aussi nécessaires que la nourriture.
 
@@ -76,7 +76,7 @@ summary: |
 20 Vous avez établi des ténèbres, et la nuit a été faite : c'est durant la nuit que feront leurs courses toutes les bêtes de la forêt. 21 Les petits des lions rugiront, cherchant une proie, et demandant à Dieu leur pâture. 22 Le soleil s'est levé, et ils se sont rassemblés ; et ils se retireront dans leurs tanières. 23 Alors l'homme sortira pour son ouvrage, et pour son travail jusqu'au soir.
 
 
-24 Combien magnifiques sont vos œuvres, Seigneur! Vous avez fait toutes choses avec sagesse : la terre est remplie de vos biens.
+24 Combien magnifiques sont vos oeuvres, Seigneur! Vous avez fait toutes choses avec sagesse : la terre est remplie de vos biens.
 
 ***Note*** :  Ps. 103, 24-26 : Les habitants des mers.
 
@@ -96,7 +96,7 @@ summary: |
 28 Vous leur donnant, ils recueilleront : vous ouvrant votre main, tous seront remplis de vos biens. 29 Mais, vous détournant votre face, ils seront troublés : vous leur ôterez le souffle, et ils périront et retourneront dans leur poussière. 30 Vous enverrez votre esprit, et ils seront créés ; et vous renouvellerez la face de la terre.
 
 
-31 Soit la gloire du Seigneur à jamais célébrée : le Seigneur se réjouira dans ses œuvres,
+31 Soit la gloire du Seigneur à jamais célébrée : le Seigneur se réjouira dans ses oeuvres,
 
 ***Note*** :  Ps. 103, 31-35 : Gloire à Dieu pour toutes ses merveilles.
 

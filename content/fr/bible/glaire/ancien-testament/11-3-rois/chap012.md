@@ -55,7 +55,7 @@ sur vous un joug pesant; mais moi j'ajouterai à votre joug : mon père vous a d
 ***Note*** :  III Rois 12, 25 : Ici, comme en plusieurs autres passages, bâtir signifie rebâtir, faire des agrandissements, des embellissements.
 
 
-26 Et Jéroboam dit en son cœur : Maintenant le royaume retournera à la maison de David, 27 Si ce peuple monte à Jérusalem pour sacrifier dans la maison du Seigneur : et le cœur de ce peuple se tournera vers son seigneur Roboam, roi de Juda, et ils me tueront et retourneront à lui. 28 Et, ayant réfléchi mûrement à son dessein, il fit deux veaux d'or, et dit au peuple : Ne montez plus à Jérusalem; Israël, voici tes dieux qui t'ont retiré de la terre d'Egypte.
+26 Et Jéroboam dit en son coeur : Maintenant le royaume retournera à la maison de David, 27 Si ce peuple monte à Jérusalem pour sacrifier dans la maison du Seigneur : et le coeur de ce peuple se tournera vers son seigneur Roboam, roi de Juda, et ils me tueront et retourneront à lui. 28 Et, ayant réfléchi mûrement à son dessein, il fit deux veaux d'or, et dit au peuple : Ne montez plus à Jérusalem; Israël, voici tes dieux qui t'ont retiré de la terre d'Egypte.
 
 ***Note*** :  III Rois 12, 28 : Voir Tobie, 1, 5 ; Exode, 32, 8. ― Les veaux d’or étaient aussi une représentation du vrai Dieu.
 

@@ -61,7 +61,7 @@ summary: |
 
 ***Note*** :  I Macc. 12, 25 : La région d’Amath ; littéralement, la région d’Amathite. Plusieurs entendent qu’Amath est la même qu’Emath (en hébreu Hamath), ville située sur les frontières septentrionales de la Palestine.
 
-26 Et il envoya des espions dans leur camp; et ceux-ci, étant revenus, rapportèrent que les ennemis avaient résolu de les surprendre pendant la nuit. 27 Or, lorsque le soleil fut couché, Jonathas commanda aux siens de veiller et d'être en armes toute la nuit, prêts au combat, et il mit des gardes autour du camp. 28 Et les ennemis apprirent que Jonathas était prêt au combat avec les siens; et ils craignirent, et ils redoutèrent en leur cœur, et ils allumèrent des feux dans leur camp, et se retirèrent.
+26 Et il envoya des espions dans leur camp; et ceux-ci, étant revenus, rapportèrent que les ennemis avaient résolu de les surprendre pendant la nuit. 27 Or, lorsque le soleil fut couché, Jonathas commanda aux siens de veiller et d'être en armes toute la nuit, prêts au combat, et il mit des gardes autour du camp. 28 Et les ennemis apprirent que Jonathas était prêt au combat avec les siens; et ils craignirent, et ils redoutèrent en leur coeur, et ils allumèrent des feux dans leur camp, et se retirèrent.
 
 ***Note*** :  I Macc. 12, 28 : Ils allumèrent des feux dans leur camp, pour faire croire aux Juifs qu’ils étaient toujours là.
 

@@ -7,7 +7,7 @@ draft: false
 
 1 Fugit impius, nemine persequente: iustus autem quasi leo confidens, absque terrore erit.
 
-2 Propter peccata terræ multi principes eius: et propter hominis sapientiam, et horum scientiam quæ dicuntur, vita ducis longior erit.
+2 Propter peccata terrae multi principes eius: et propter hominis sapientiam, et horum scientiam quae dicuntur, vita ducis longior erit.
 
 3 Vir pauper calumnians pauperes, similis est imbri vehementi, in quo paratur fames.
 
@@ -19,7 +19,7 @@ draft: false
 
 7 Qui custodit legem, filius sapiens est: qui autem comessatores pascit, confundit patrem suum.
 
-8 Qui coacervat divitias usuris et fœnore, liberali in pauperes congregat eas.
+8 Qui coacervat divitias usuris et foenore, liberali in pauperes congregat eas.
 
 9 Qui declinat aures suas ne audiat legem, oratio eius erit execrabilis.
 
@@ -27,17 +27,17 @@ draft: false
 
 11 Sapiens sibi videtur vir dives: pauper autem prudens scrutabitur eum.
 
-12 In exultatione iustorum multa gloria est: regnantibus impiis ruinæ hominum.
+12 In exultatione iustorum multa gloria est: regnantibus impiis ruinae hominum.
 
 13 Qui abscondit scelera sua, non dirigetur: qui autem confessus fuerit, et reliquerit ea, misericordiam consequetur.
 
-14 Beatus homo, qui semper est pavidus: qui vero mentis est duræ, corruet in malum.
+14 Beatus homo, qui semper est pavidus: qui vero mentis est durae, corruet in malum.
 
 15 Leo rugiens, et ursus esuriens, princeps impius super populum pauperem.
 
 16 Dux indigens prudentia, multos opprimet per calumniam: qui autem odit avaritiam, longi fient dies eius.
 
-17 Hominem, qui calumniatur animæ sanguinem, si usque ad lacum fugerit, nemo sustinet.
+17 Hominem, qui calumniatur animae sanguinem, si usque ad lacum fugerit, nemo sustinet.
 
 18 Qui ambulat simpliciter, salvus erit: qui perversis graditur viis, concidet semel.
 
@@ -49,9 +49,9 @@ draft: false
 
 22 Vir, qui festinat ditari, et aliis invidet, ignorat quod egestas superveniet ei.
 
-23 Qui corripit hominem, gratiam postea inveniet apud eum magis quam ille, qui per linguæ blandimenta decipit.
+23 Qui corripit hominem, gratiam postea inveniet apud eum magis quam ille, qui per linguae blandimenta decipit.
 
-24 Qui subtrahit aliquid a patre suo, et a matre: et dicit hoc non esse peccatum, particeps homicidæ est.
+24 Qui subtrahit aliquid a patre suo, et a matre: et dicit hoc non esse peccatum, particeps homicidae est.
 
 25 Qui se iactat, et dilatat, iurgia concitat: qui vero sperat in Domino, sanabitur.
 

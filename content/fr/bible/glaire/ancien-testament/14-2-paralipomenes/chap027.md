@@ -31,5 +31,5 @@ summary: |
 6 Et Joatham s'affermit, parce qu'il avait dirigé ses voies devant le Seigneur son Dieu.
 
 
-7 Mais si le reste des actions de Joatham, tous ses combats, et ses œuvres sont écrits dans le Livre des rois d'Israël et de Juda. 8 Il avait vingt-cinq ans, lorsqu'il commença à régner, et il régna seize ans dans Jérusalem. 9 Et Joatham dormit avec ses pères, et on l'ensevelit dans la cité de David, et Achaz, son fils, régna en sa place.
+7 Mais si le reste des actions de Joatham, tous ses combats, et ses oeuvres sont écrits dans le Livre des rois d'Israël et de Juda. 8 Il avait vingt-cinq ans, lorsqu'il commença à régner, et il régna seize ans dans Jérusalem. 9 Et Joatham dormit avec ses pères, et on l'ensevelit dans la cité de David, et Achaz, son fils, régna en sa place.
 

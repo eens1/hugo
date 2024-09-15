@@ -23,7 +23,7 @@ summary: |
 
 ***Note*** :  Nb. 32, 8 : Cadèsbarné est le même que Cadès. Voir Nombres, 20, 1.
 
-9 Car, lorsqu'il furent venus jusqu'à la Vallée de la grappe de raisin, toute la contrée parcourue, ils bouleversèrent le cœur des enfants d'Israël, afin qu'ils n'entrassent point dans le pays que le Seigneur leur donna.
+9 Car, lorsqu'il furent venus jusqu'à la Vallée de la grappe de raisin, toute la contrée parcourue, ils bouleversèrent le coeur des enfants d'Israël, afin qu'ils n'entrassent point dans le pays que le Seigneur leur donna.
 
 ***Note*** :  Nb. 32, 9 : Voir Nombres, 13, 24.
 

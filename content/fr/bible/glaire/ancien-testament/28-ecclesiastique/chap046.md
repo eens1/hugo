@@ -38,7 +38,7 @@ summary: |
 11 Et le Seigneur donna la force à Caleb, et jusque dans sa vieillesse lui demeura sa vigueur, afin qu'il montât dans le lieu le plus élevé de cette terre, et sa postérité l'a obtenu en héritage; 12 Afin que tous les enfants d'Israël reconnussent qu'il est bon d'obéir au Dieu saint.
 
 
-13 Puis sont venus les juges, désignés chacun par son nom, dont le cœur ne s'est point perverti, et qui ne se sont pas détournés du Seigneur ; 14 Afin que leur mémoire soit en bénédiction, et que leurs os refleurissent en sortant de leur lieu;
+13 Puis sont venus les juges, désignés chacun par son nom, dont le coeur ne s'est point perverti, et qui ne se sont pas détournés du Seigneur ; 14 Afin que leur mémoire soit en bénédiction, et que leurs os refleurissent en sortant de leur lieu;
 
 ***Note*** :  Sir. 46, 14 : En sortant ; ou bien et qu’ils sortent. Une de ces deux expressions est évidemment sous-entendue, et a pour complément les mots de leur lieu (de loco suo) ; c’est-à-dire de leur tombeau. Voir, sur ce genre de construction notre observation, au 2° à la fin des Observations préliminaires des Psaumes. Quant à la figure des os qui doivent refleurir, comparer à Isaïe, 66, 14 ; Ezéchiel, 37, verset 3 et suivants.
 

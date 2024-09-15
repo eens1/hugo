@@ -24,16 +24,16 @@ Isaïe, 6, 1, commença à prophétiser ; Joathan régna de 758 à 742 ; Achaz d
 2 Ecoutez, cieux, et prête l'oreille, terre, parce que le Seigneur a parlé. J'ai nourri des fils et je les ai élevés, mais eux m'ont méprisé.
 
 ***Note*** :  Is. 1, 2-31 : Les versets 2 à 31 sont comme la préface de tout le livre. L’époque où cette préface a été composée est incertaine. Les versets 7 et 8 indiquent une époque pendant laquelle le royaume de Juda était ravagé par une armée étrangère. Il eut à subir trois invasions, du temps d’Isaïe, la première à la fin du règne de Joathan, et la seconde sous Achaz, l’une et l’autre de la part des Israélites et des Syriens, voir 4 Rois, 15, 37 ; 16, 5 ; Isaïe, 6, 1, la troisième sous Ezéchias, de la part des Assyriens, voir 4 Rois, 18, 13 ; Isaïe, chapitre 36. La plupart des commentateurs pensent avec vraisemblance que le chapitre 1 date de la première invasion. ― Le peuple n’a été sensible ni aux bienfaits que Dieu lui a accordés pendant les règnes d’Ozias et de Joathan (versets 2 et 3), ni aux calamités qui viennent de fondre sur lui (versets 4 à 9) ; il ne reste donc au Seigneur qu’à livrer son peuple au châtiment qu’il mérite et à le purifier par le feu de la tribulation, pour se faire ensuite du petit
-reste qui survivra un peuple selon son cœur (versets 10 à 31). Les versets 24 à 31 se rapportent spécialement au Messie.
+reste qui survivra un peuple selon son coeur (versets 10 à 31). Les versets 24 à 31 se rapportent spécialement au Messie.
 
 ***Note*** :  Is. 1, 2 : Ecoutez, etc. Dieu avait en vue, dans ces prophéties, non seulement les juifs, mais les chrétiens eux-mêmes, puisque saint Paul dit que toutes ces choses ont été écrites pour nous être un avertissement, à nous, pour qui est venue la fin des temps (voir 1 Corinthiens, 10, 11), (vérifier la concordance avec ce passage) et encore que tout ce qui a été écrit, a été écrit pour notre instruction (voir Romains, 15, 4) (pareil). ― Le verset 1 est le titre général du livre et de la collection des prophéties d’Isaïe. La première prophétie commence au verset 2.
 
-3 Un bœuf connaît son possesseur, un âne l'étable de son maître ; mais Israël ne m'a pas connu, et mon peuple n'a pas eu d'intelligence. 4 Malheur à la nation pécheresse, au peuple chargé d'iniquité, à la race perverse, aux enfants scélérats ; ils ont abandonné le Seigneur, ils ont blasphémé le saint d'Israël, ils sont retournés en arrière.
+3 Un boeuf connaît son possesseur, un âne l'étable de son maître ; mais Israël ne m'a pas connu, et mon peuple n'a pas eu d'intelligence. 4 Malheur à la nation pécheresse, au peuple chargé d'iniquité, à la race perverse, aux enfants scélérats ; ils ont abandonné le Seigneur, ils ont blasphémé le saint d'Israël, ils sont retournés en arrière.
 
 ***Note*** :  Is. 1, 4 : Le Saint d’Israël ; Dieu. L’idée de la sainteté de Dieu revient souvent dans les prophéties d’Isaïe. Voir Isaïe, 6, 3. La sainteté est le contraire du péché. Le saint est le juste et le pur, qui est au-dessus des autres par ses perfections. Dieu est le saint par excellence.
 
 
-5 Où vous frapperai-je encore, vous qui ajoutez à la prévarication? toute tête est languissante, et tout cœur abattu. 6 De la plante des pieds jusqu'au sommet de la tête, rien en lui de sain ; c'est blessure, meurtrissure, plaie enflammée, qui n'a été ni bandée, ni pansée, ni adoucie par l'huile.
+5 Où vous frapperai-je encore, vous qui ajoutez à la prévarication? toute tête est languissante, et tout coeur abattu. 6 De la plante des pieds jusqu'au sommet de la tête, rien en lui de sain ; c'est blessure, meurtrissure, plaie enflammée, qui n'a été ni bandée, ni pansée, ni adoucie par l'huile.
 
 ***Note*** :  Is. 1, 6 : Ni adoucie par l’huile. L’huile était le remède employé ordinairement pour guérir les plaies. Voir Luc, 10, 34.
 
@@ -97,5 +97,5 @@ reste qui survivra un peuple selon son cœur (versets 10 à 31). Les versets 24 
 
 ***Note*** :  Is. 1, 29 : Des jardins, etc. Comparer à Isaïe, 65, 3, où il est parlé de ces jardins dans lesquels se commettaient les actions les plus honteuses.
 
-30 Lorsque vous serez comme un chêne dont les feuilles tombent et comme un jardin sans eau. 31 Et votre force sera comme la cendre chaude de l'étoupe, et votre œuvre comme une étincelle; et ils s'embraseront l'un et l'autre ensemble, et il n'y aura personne qui l'éteigne.
+30 Lorsque vous serez comme un chêne dont les feuilles tombent et comme un jardin sans eau. 31 Et votre force sera comme la cendre chaude de l'étoupe, et votre oeuvre comme une étincelle; et ils s'embraseront l'un et l'autre ensemble, et il n'y aura personne qui l'éteigne.
 

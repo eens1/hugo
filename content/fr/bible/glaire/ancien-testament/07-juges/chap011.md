@@ -5,7 +5,7 @@ draft: false
 summary: |
   
   Jephté, choisi pour être chef des Israélites, combat les Ammonites, et les défait.
-  Son vœu.
+  Son voeu.
 ---
 
 
@@ -62,9 +62,9 @@ summary: |
 28 Mais le roi des enfants d'Ammon ne voulut point acquiescer aux paroles de Jephté, qu'il lui avez mandées par les messagers.
 
 
-29 Et l'esprit du Seigneur vint sur Jephté; et Jephté parcourant Galaad, et Manassé, de même que Maspha de Galaad, et de là passant jusqu'aux enfants d'Ammon, 30 Il voua un vœu au Seigneur, disant : Si vous livrez les enfants d'Ammon en mes mains, 31 Quiconque le premier sortira des portes de ma maison, et viendra à ma rencontre, lorsque je retournerai en paix du pays des enfants d'Ammon, je l'offrirai en holocauste au Seigneur.
+29 Et l'esprit du Seigneur vint sur Jephté; et Jephté parcourant Galaad, et Manassé, de même que Maspha de Galaad, et de là passant jusqu'aux enfants d'Ammon, 30 Il voua un voeu au Seigneur, disant : Si vous livrez les enfants d'Ammon en mes mains, 31 Quiconque le premier sortira des portes de ma maison, et viendra à ma rencontre, lorsque je retournerai en paix du pays des enfants d'Ammon, je l'offrirai en holocauste au Seigneur.
 
-***Note*** :  Juges 11, 31-40 : Contre le sentiment de tous les anciens, plusieurs interprètes modernes prétendent que la fille de Jephté ne fut pas réellement immolée, mais seulement consacrée au service du sanctuaire. Quelque opinion qu’on adopte, on ne peut rien conclure contre la divinité de la religion des Hébreux. Car le vœu de Jephté est un fait qui lui est entièrement personnel. Il n’était pas commandé par la loi, puisque la loi au contraire défendait si expressément le sacrifice de victimes humaines. C’est un fait isolé, et auquel le grand prêtre et la majorité du peuple ne prirent aucune part.
+***Note*** :  Juges 11, 31-40 : Contre le sentiment de tous les anciens, plusieurs interprètes modernes prétendent que la fille de Jephté ne fut pas réellement immolée, mais seulement consacrée au service du sanctuaire. Quelque opinion qu’on adopte, on ne peut rien conclure contre la divinité de la religion des Hébreux. Car le voeu de Jephté est un fait qui lui est entièrement personnel. Il n’était pas commandé par la loi, puisque la loi au contraire défendait si expressément le sacrifice de victimes humaines. C’est un fait isolé, et auquel le grand prêtre et la majorité du peuple ne prirent aucune part.
 
 
 32 Jephté passa ensuite chez les enfants d'Ammon, pour combattre contre eux ; et le Seigneur les livra en ses mains. 33 Il frappa aussi d'une très grande plaie vingt villes, depuis Aroer jusqu'à l'entrée de Mennith, et jusqu'à Abel, qui est plantée de vignes; et les enfants d'Ammon furent humiliés par les enfants d'Israël.
@@ -72,9 +72,9 @@ summary: |
 ***Note*** :  Juges 11, 33 : Depuis Aroer, non pas probablement Aroer sur l’Arnon, mais Aroer de Gad, à l’est de Rabbath-Ammon, jusqu’à l’entrée de Mennith, au sud, et jusqu’à Abel, qui est plantée de vignes ou Abel-Keramim, sur la route qui va d’Aroer à Bosra.
 
 
-34 Or, Jephté retournant à Maspha, dans sa maison, sa fille unique, car il n'avait pas d'autres enfants, vint au-devant de lui avec des chœurs et des tambours. 35 L'ayant vue, il déchira ses vêtements, et dit : Hélas! ma fille, tu m'as trompé, et toi-même tu t'es trompée; car j'ai ouvert ma bouche au Seigneur, et je ne pourrai pas faire autre chose.
+34 Or, Jephté retournant à Maspha, dans sa maison, sa fille unique, car il n'avait pas d'autres enfants, vint au-devant de lui avec des choeurs et des tambours. 35 L'ayant vue, il déchira ses vêtements, et dit : Hélas! ma fille, tu m'as trompé, et toi-même tu t'es trompée; car j'ai ouvert ma bouche au Seigneur, et je ne pourrai pas faire autre chose.
 
-***Note*** :  Juges 11, 35 : J’ai ouvert ma bouche au Seigneur ; j’ai prononcé un vœu fait au Seigneur.
+***Note*** :  Juges 11, 35 : J’ai ouvert ma bouche au Seigneur ; j’ai prononcé un voeu fait au Seigneur.
 
 36 Sa fille lui répondit : Mon père, si vous avez ouvert votre bouche au Seigneur, faites-moi tout ce que vous avez promis, là vengeance et la victoire sur les ennemis vous ayant été accordées.
 

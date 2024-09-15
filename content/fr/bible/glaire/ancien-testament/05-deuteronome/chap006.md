@@ -11,11 +11,11 @@ summary: |
 1 Voici les préceptes, les cérémonies et les ordonnances que le Seigneur votre Dieu a prescrites, afin que je vous les enseigne, et que vous les pratiquiez dans la terre dans laquelle vous allez passer pour la posséder, 2 Afin que tu craignes le Seigneur ton Dieu, et que tu gardes, tous les jours de ta vie, tous ses commandements et ses préceptes que moi, je te prescris, à toi, à tes fils et à tes petits-fils, pour que les jours soient prolongés. 3 Ecoute, Israël, et aie grand soin de faire ce que t'a ordonné le Seigneur, afin que bien t'arrive, et que tu sois encore multiplié, puisque le Seigneur Dieu de tes pères t'a promis une terre, où coulent du lait et du miel.
 
 
-4 Ecoute, Israël, le Seigneur notre Dieu est l'unique Seigneur. 5 Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme et de toute ta force.
+4 Ecoute, Israël, le Seigneur notre Dieu est l'unique Seigneur. 5 Tu aimeras le Seigneur ton Dieu de tout ton coeur, de toute ton âme et de toute ta force.
 
 ***Note*** :  Dr. 6, 5 : Voir Deutéronome, 11, 13 ; Matthieu, 22, 37 ; Marc, 12, 30 ; Luc, 10, 27.
 
-6 Et ces paroles que moi, je te prescris aujourd'hui seront dans ton cœur ; 7 Tu les raconteras aussi à tes enfants, et tu les méditeras, assis en ta maison, et marchant dans le chemin, dormant et te levant.
+6 Et ces paroles que moi, je te prescris aujourd'hui seront dans ton coeur ; 7 Tu les raconteras aussi à tes enfants, et tu les méditeras, assis en ta maison, et marchant dans le chemin, dormant et te levant.
 
 ***Note*** :  Dr. 6, 7 : Dormant, etc. ; c’est-à-dire en te couchant pour dormir, et en te réveillant.
 

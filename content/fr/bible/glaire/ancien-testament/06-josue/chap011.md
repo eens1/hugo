@@ -56,9 +56,9 @@ summary: |
 
 ***Note*** :  Josué 11, 19 : Gabaon. Voir 3 Rois, 3, 4.
 
-20 L'arrêt du Seigneur, en effet, avait été que leurs cœurs seraient endurcis, qu'ils combattraient contre Israël et qu'ils succomberaient, qu'ils ne mériteraient aucune clémence, et qu'ils périraient, comme avait ordonné le Seigneur à Moïse.
+20 L'arrêt du Seigneur, en effet, avait été que leurs coeurs seraient endurcis, qu'ils combattraient contre Israël et qu'ils succomberaient, qu'ils ne mériteraient aucune clémence, et qu'ils périraient, comme avait ordonné le Seigneur à Moïse.
 
-***Note*** :  Josué 11, 20 : Que leurs cœurs, etc. Voir Exode, 4, 21.
+***Note*** :  Josué 11, 20 : Que leurs coeurs, etc. Voir Exode, 4, 21.
 
 
 21 En ce temps-là Josué vint, et il tua les Enacim des montagnes d'Hébron, de Dabir, d'Anab, et de toute la montagne de Juda et d'Israël, et il détruisit leurs villes.

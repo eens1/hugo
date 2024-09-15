@@ -31,7 +31,7 @@ summary: |
 6 Dans la grande plaine qui est appelée Ragaü, près de l'Euphrate, du Tigre et de Jadason, dans la plaine d'Erioch, roi des Eliciens.
 
 
-7 Alors le royaume de Nabuchodonosor fut exalté, et son cœur s'éleva; et il envoya vers tous ceux qui habitaient dans la Cilicie, à Damas, sur le Liban, 8 Et vers les nations qui sont dans le Carmel et en Cédar, et vers les habitants de Galilée, dans la grande plaine d'Esdrélon,
+7 Alors le royaume de Nabuchodonosor fut exalté, et son coeur s'éleva; et il envoya vers tous ceux qui habitaient dans la Cilicie, à Damas, sur le Liban, 8 Et vers les nations qui sont dans le Carmel et en Cédar, et vers les habitants de Galilée, dans la grande plaine d'Esdrélon,
 
 ***Note*** :  Judith 1, 8 : Vers le Carmel. Voir l’Introduction à Josué. ― Cédar. Voir Psaumes, 119, 5.
 

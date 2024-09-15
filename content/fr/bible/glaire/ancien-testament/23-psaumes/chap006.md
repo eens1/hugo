@@ -11,7 +11,7 @@ summary: |
 
 1 Pour la fin, dans les cantiques, psaume de David, pour l'octave.
 
-***Note*** :  Ps. 6, 1 : Le mot traduit pour la fin signifie toujours dans les titres des Psaumes que le poème sacré est adressé au chef de chœur. L’hébreu porte : « Au chef de chœur sur les neginôth, schemînith. » Neginôth veut dire avec accompagnement d’instruments à cordes. Schemînith, à l’octave, avec des voix de basse. Pour l’explication de tous ces termes techniques, voir la note 20 à la fin du volume (appendices). ― Le sujet du psaume 6 est une prière à Dieu pour désarmer sa colère. C’est le premier des sept Psaumes pénitentiaux. On ne peut rien imaginer de plus tendre, de plus touchant et de plus profondément triste. Il faut cependant remarquer que, quoiqu’il puisse très bien être mis dans la bouche d’un pécheur repentant, il n’a pas été composé par un pécheur, mais par un infortuné, sous le poids de l’oppression. Il ne renferme aucune allusion à des péchés commis.
+***Note*** :  Ps. 6, 1 : Le mot traduit pour la fin signifie toujours dans les titres des Psaumes que le poème sacré est adressé au chef de choeur. L’hébreu porte : « Au chef de choeur sur les neginôth, schemînith. » Neginôth veut dire avec accompagnement d’instruments à cordes. Schemînith, à l’octave, avec des voix de basse. Pour l’explication de tous ces termes techniques, voir la note 20 à la fin du volume (appendices). ― Le sujet du psaume 6 est une prière à Dieu pour désarmer sa colère. C’est le premier des sept Psaumes pénitentiaux. On ne peut rien imaginer de plus tendre, de plus touchant et de plus profondément triste. Il faut cependant remarquer que, quoiqu’il puisse très bien être mis dans la bouche d’un pécheur repentant, il n’a pas été composé par un pécheur, mais par un infortuné, sous le poids de l’oppression. Il ne renferme aucune allusion à des péchés commis.
 
 
 2 Seigneur, ne me reprenez pas dans votre fureur, et ne me châtiez pas dans votre colère.
@@ -32,7 +32,7 @@ summary: |
 ***Note*** :  Ps. 6, 6 : Nul dans la mort, etc. Les morts dans un silence absolu et dans l’enfer ne profèrent que des paroles de désespoir et de blasphème. C’est à tort que quelques interprètes catholiques traduisent le mot infernus ou enfer de la Vulgate par tombeau, le mot hébreu correspondant scheôl n’a nullement cette signification ; les hébraïsants même rationalistes en conviennent. Il y a d’ailleurs un autre mot en hébreu pour signifier tombeau, sépulcre.
 
 
-7 Je me suis fatigué dans mon gémissement; je laverai chaque nuit mon lit de mes pleurs; j'arroserai ma couche de mes larmes. 8 Mon œil a été troublé par l'indignation; j'ai vieilli au milieu de tous mes ennemis.
+7 Je me suis fatigué dans mon gémissement; je laverai chaque nuit mon lit de mes pleurs; j'arroserai ma couche de mes larmes. 8 Mon oeil a été troublé par l'indignation; j'ai vieilli au milieu de tous mes ennemis.
 
 
 9 Retirez-vous de moi, vous tous qui opérez l'iniquité; parce que le Seigneur a exaucé la voix de mon pleur.

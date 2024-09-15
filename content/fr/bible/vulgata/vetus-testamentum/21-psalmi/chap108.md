@@ -25,7 +25,7 @@ draft: false
 
 10 Nutantes transferantur filii eius, et mendicent: et eiiciantur de habitationibus suis.
 
-11 Scrutetur fœnerator omnem substantiam eius: et diripiant alieni labores eius.
+11 Scrutetur foenerator omnem substantiam eius: et diripiant alieni labores eius.
 
 12 Non sit illi adiutor: nec sit qui misereatur pupillis eius.
 
@@ -41,7 +41,7 @@ draft: false
 
 18 Et dilexit maledictionem, et veniet ei: et noluit benedictionem, et elongabitur ab eo. Et induit maledictionem sicut vestimentum, et intravit sicut aqua in interiora eius, et sicut oleum in ossibus eius.
 
-19 Fiat ei sicut vestimentum, quo operitur: et sicut zona, qua semper præcingitur.
+19 Fiat ei sicut vestimentum, quo operitur: et sicut zona, qua semper praecingitur.
 
 20 Hoc opus eorum, qui detrahunt mihi apud Dominum: et qui loquuntur mala adversus animam meam.
 
@@ -49,7 +49,7 @@ draft: false
 
 22 quia egenus, et pauper ego sum: et cor meum conturbatum est intra me.
 
-23 Sicut umbra cum declinat, ablatus sum: et excussus sum sicut locustæ.
+23 Sicut umbra cum declinat, ablatus sum: et excussus sum sicut locustae.
 
 24 Genua mea infirmata sunt a ieiunio: et caro mea immutata est propter oleum.
 
@@ -57,9 +57,9 @@ draft: false
 
 26 Adiuva me Domine Deus meus: salvum me fac secundum misericordiam tuam.
 
-27 Et sciant quia manus tua hæc: et tu Domine fecisti eam.
+27 Et sciant quia manus tua haec: et tu Domine fecisti eam.
 
-28 Maledicent illi, et tu benedices: qui insurgunt in me, confundantur: servus autem tuus lætabitur.
+28 Maledicent illi, et tu benedices: qui insurgunt in me, confundantur: servus autem tuus laetabitur.
 
 29 Induantur qui detrahunt mihi, pudore: et operiantur sicut diploide confusione sua.
 

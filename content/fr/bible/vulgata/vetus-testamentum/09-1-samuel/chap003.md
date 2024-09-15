@@ -25,19 +25,19 @@ draft: false
 
 10 Et venit Dominus, et stetit: et vocavit, sicut vocaverat secundo, Samuel, Samuel. Et ait Samuel: Loquere Domine, quia audit servus tuus.
 
-11 Et dixit Dominus ad Samuelem: Ecce ego facio verbum in Israel: quod quicumque audierit, tinnient ambæ aures eius.
+11 Et dixit Dominus ad Samuelem: Ecce ego facio verbum in Israel: quod quicumque audierit, tinnient ambae aures eius.
 
-12 In die illa suscitabo adversum Heli omnia quæ locutus sum super domum eius: incipiam, et complebo.
+12 In die illa suscitabo adversum Heli omnia quae locutus sum super domum eius: incipiam, et complebo.
 
-13 Prædixi enim ei quod iudicaturus essem domum eius in æternum, propter iniquitatem, eo quod noverat indigne agere filios suos, et non corripuerit eos.
+13 Praedixi enim ei quod iudicaturus essem domum eius in aeternum, propter iniquitatem, eo quod noverat indigne agere filios suos, et non corripuerit eos.
 
-14 Idcirco iuravi Domui Heli quod non expietur iniquitas domus eius victimis et muneribus usque in æternum.
+14 Idcirco iuravi Domui Heli quod non expietur iniquitas domus eius victimis et muneribus usque in aeternum.
 
 15 Dormivit autem Samuel usque mane, aperuitque ostia domus Domini. Et Samuel timebat indicare visionem Heli.
 
-16 Vocavit ergo Heli Samuelem, et dixit: Samuel fili mi? Qui respondens, ait: Præsto sum.
+16 Vocavit ergo Heli Samuelem, et dixit: Samuel fili mi? Qui respondens, ait: Praesto sum.
 
-17 Et interrogavit eum: Quis est sermo, quem locutus est Dominus ad te? oro te ne celaveris me. hæc faciat tibi Deus, et hæc addat, si absconderis a me sermonem ex omnibus verbis, quæ dicta sunt tibi.
+17 Et interrogavit eum: Quis est sermo, quem locutus est Dominus ad te? oro te ne celaveris me. haec faciat tibi Deus, et haec addat, si absconderis a me sermonem ex omnibus verbis, quae dicta sunt tibi.
 
 18 Indicavit itaque ei Samuel universos sermones, et non abscondit ab eo. Et ille respondit: Dominus est: quod bonum est in oculis suis faciat.
 

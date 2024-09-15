@@ -23,7 +23,7 @@ summary: |
 4 Par ce qui est impur qu'est-ce qui sera purifié? et par un menteur qu'est-ce qui sera dit de vrai ? 5 Les divinations de l'erreur, et les augures mensongers, et les songes de ceux qui font le mal, c'est vanité.
 
 
-6 Comme le cœur des femmes qui sont en mal d'enfant, ton cœur est en proie à des visions imaginaires; à moins que par le Très-Haut ne te soit envoyée une vision, n'y applique pas ton cœur ;
+6 Comme le coeur des femmes qui sont en mal d'enfant, ton coeur est en proie à des visions imaginaires; à moins que par le Très-Haut ne te soit envoyée une vision, n'y applique pas ton coeur ;
 
 ***Note*** :  Sir. 34, 6 : A moins que par le Très-Haut, etc. Dieu se révélait quelquefois dans des songes. Voir Genèse, 37, verset 5 et suivants ; 41, verset 1 et suivants ; Daniel, 2, 1 ; 4, 2 ; Matthieu, 1, 20.
 

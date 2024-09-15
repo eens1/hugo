@@ -10,7 +10,7 @@ summary: |
 ---
 
 
-1 Tu ne verras point le bœuf de ton frère ou sa brebis égarés, en passant outre, mais tu les ramèneras à ton frère,
+1 Tu ne verras point le boeuf de ton frère ou sa brebis égarés, en passant outre, mais tu les ramèneras à ton frère,
 
 ***Note*** :  Dr. 22, 1 : Voir Exode, 23, 4.
 
@@ -18,13 +18,13 @@ summary: |
 
 ***Note*** :  Dr. 22, 2 : De toi. Ces mots, qui complètent le sens de la phrase, sont virtuellement renfermés dans le texte original.
 
-3 Tu feras pareillement pour l'âne, pour le vêtement et pour toute chose que ton frère aura perdue ; si tu la trouves, tu ne la négligeras point, comme étrangère. 4 Si tu vois que l'âne de ton frère, ou son bœuf est tombé dans le chemin, tu ne détourneras point les yeux, mais tu les relèveras avec lui.
+3 Tu feras pareillement pour l'âne, pour le vêtement et pour toute chose que ton frère aura perdue ; si tu la trouves, tu ne la négligeras point, comme étrangère. 4 Si tu vois que l'âne de ton frère, ou son boeuf est tombé dans le chemin, tu ne détourneras point les yeux, mais tu les relèveras avec lui.
 
 
 5 Une femme ne mettra point un vêtement d'homme, et un homme ne se servira point d'un vêtement de femme; car il est abominable devant Dieu, celui qui fait cela.
 
 
-6 Si marchant dans le chemin, tu trouves sur un arbre ou à terre un nid d'oiseau, et la mère couchée sur les petits ou sur les œufs, tu ne retiendras point la mère avec ses petits ; 7 Mais tu la laisseras aller en tenant les petits captifs, afin que bien t'arrive, et que tu vives longtemps.
+6 Si marchant dans le chemin, tu trouves sur un arbre ou à terre un nid d'oiseau, et la mère couchée sur les petits ou sur les oeufs, tu ne retiendras point la mère avec ses petits ; 7 Mais tu la laisseras aller en tenant les petits captifs, afin que bien t'arrive, et que tu vives longtemps.
 
 
 8 Lorsque tu auras bâti une maison nouvelle, tu feras un mur au toit tout autour, pour ne pas qu'il y ait du sang versé en ta maison, et que tu sois coupable, quelqu'un tombant et roulant de haut en bas.
@@ -34,7 +34,7 @@ summary: |
 
 ***Note*** :  Dr. 22, 9 : Le sens de ce verset qui paraît le plus simple et le plus naturel, est celui-ci : Ne sème rien dans ta vigne, pour ne pas que cette semence et le fruit de cette même vigne soient sanctifiés, c’est-à-dire consacrés à Dieu l’un et l’autre, et qu’ainsi ils soient perdus pour toi. D’ailleurs un pareil mélange n’était pas agréable au Seigneur. Comparer à Lévitique, 19, 19.
 
-10 Tu ne laboureras point avec un bœuf et un âne ensemble. 11 Tu ne te revêtiras point d'un vêtement qui soit tissu de laine et de fin.
+10 Tu ne laboureras point avec un boeuf et un âne ensemble. 11 Tu ne te revêtiras point d'un vêtement qui soit tissu de laine et de fin.
 
 
 12 Tu feras des cordons aux franges, aux quatre coins du manteau dont tu te couvriras.

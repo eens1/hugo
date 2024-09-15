@@ -14,14 +14,14 @@ summary: |
 
 ***Note*** :  III Rois 10, 1 : Voir 2 Paralipomènes, 9, 1 ; Matthieu, 12, 42 ; Luc, 11, 31. ― La renommée de Salomon au nom du Seigneur ; c’est-à-dire la renommée de Salomon acquise par tout ce qu’il avait fait pour le nom du Seigneur. ― Saba, capitale des Sabéens, dans l’Arabie heureuse, où l’on trouve de l’or, des pierres précieuses, de l’encens et des parfums en abondance.
 
-2 Et étant entrée dans Jérusalem avec une suite nombreuse, des richesses, des chameaux qui portaient des aromates, de l'or en quantité infinie et des pierres précieuses, elle vint vers le roi Salomon, et lui dit tout ce qu'elle avait en son cœur. 3 Et Salomon l'instruisit sur toutes les paroles qu'elle lui avait proposées, et il n'y a point de mot qui put être caché au roi, et sur lequel il ne lui répondît.
+2 Et étant entrée dans Jérusalem avec une suite nombreuse, des richesses, des chameaux qui portaient des aromates, de l'or en quantité infinie et des pierres précieuses, elle vint vers le roi Salomon, et lui dit tout ce qu'elle avait en son coeur. 3 Et Salomon l'instruisit sur toutes les paroles qu'elle lui avait proposées, et il n'y a point de mot qui put être caché au roi, et sur lequel il ne lui répondît.
 
 
 4 Or la reine de Saba, voyant toute la sagesse de Salomon, la maison qu'il avait bâtie, 5 Les mets de sa table, les logements de ses serviteurs, les divers ordres de ceux qui le servaient et leurs vêtements, ses échansons, et les holocaustes qu'il offrait dans la maison du Seigneur, n'avait plus son esprit;
 
 ***Note*** :  III Rois 10, 5 : N’avait plus son esprit ; était ravie, hors d’elle-même.
 
-6 Et elle dit au roi : Il est véritable le récit que j'ai ouï, dans mon pays, 7 De vos entretiens et de votre sagesse ; et je n'ai pas cru ceux qui me parlaient, jusqu'à ce que je sois venue moi-même et que j'aie vu de mes yeux ; et j'ai reconnu que la moitié ne m'avait pas été annoncée. Votre sagesse et vos œuvres sont plus grandes que la rumeur que j'ai entendue. 8 Heureux vos sujets, et heureux vos serviteurs, qui sont toujours devant vous et qui écoutent votre sagesse !9 Béni soit le Seigneur votre Dieu, à qui vous avez plu, et qui vous a placé sur le trône d'Israël, parce que le Seigneur a aimé Israël pour jamais, et qu'il vous a établi roi pour rendre les jugements et la justice. 10 La reine de Saba donna donc au roi cent vingt talents d'or, des parfums en très grande quantité, et des pierres précieuses : on n'apporta jamais depuis à Jérusalem des parfums aussi nombreux que ceux que donna la reine de Saba au roi Salomon.
+6 Et elle dit au roi : Il est véritable le récit que j'ai ouï, dans mon pays, 7 De vos entretiens et de votre sagesse ; et je n'ai pas cru ceux qui me parlaient, jusqu'à ce que je sois venue moi-même et que j'aie vu de mes yeux ; et j'ai reconnu que la moitié ne m'avait pas été annoncée. Votre sagesse et vos oeuvres sont plus grandes que la rumeur que j'ai entendue. 8 Heureux vos sujets, et heureux vos serviteurs, qui sont toujours devant vous et qui écoutent votre sagesse !9 Béni soit le Seigneur votre Dieu, à qui vous avez plu, et qui vous a placé sur le trône d'Israël, parce que le Seigneur a aimé Israël pour jamais, et qu'il vous a établi roi pour rendre les jugements et la justice. 10 La reine de Saba donna donc au roi cent vingt talents d'or, des parfums en très grande quantité, et des pierres précieuses : on n'apporta jamais depuis à Jérusalem des parfums aussi nombreux que ceux que donna la reine de Saba au roi Salomon.
 
 
 11 (Mais aussi la flotte d'Hiram, qui portait de l'or d'Ophir, apporta d'Ophir des bois odorants en très grande quantité et des pierres précieuses.
@@ -65,7 +65,7 @@ summary: |
 il n’était pas possible de se rendre en Espagne.
 
 
-23 Le roi Salomon surpassa donc tous les rois du monde en richesses et en sagesse. 24 Et toute la terre désirait voir la face de Salomon, pour écouter sa sagesse que Dieu avait mise en son cœur. 25 Et chacun lui envoyait des présents, des vases d'argent et d'or, des vêtements, des armes de guerre, des parfums, des chevaux et des mulets, à chaque année. 26 Et Salomon rassembla un grand nombre de chars et de cavaliers, et on lui disposa quatorze cents chars et douze mille cavaliers, et il les plaça dans les villes fortifiées, et près du roi dans Jérusalem.
+23 Le roi Salomon surpassa donc tous les rois du monde en richesses et en sagesse. 24 Et toute la terre désirait voir la face de Salomon, pour écouter sa sagesse que Dieu avait mise en son coeur. 25 Et chacun lui envoyait des présents, des vases d'argent et d'or, des vêtements, des armes de guerre, des parfums, des chevaux et des mulets, à chaque année. 26 Et Salomon rassembla un grand nombre de chars et de cavaliers, et on lui disposa quatorze cents chars et douze mille cavaliers, et il les plaça dans les villes fortifiées, et près du roi dans Jérusalem.
 
 ***Note*** :  III Rois 10, 26 : Voir 2 Paralipomènes, 1, 14 ; 3 Rois, 4, 26.
 

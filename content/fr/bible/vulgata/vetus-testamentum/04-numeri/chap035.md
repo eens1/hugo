@@ -5,31 +5,31 @@ draft: false
 ---
 
 
-1 Hæc quoque locutus est Dominus ad Moysen in campestribus Moab supra Iordanem, contra Iericho:
+1 Haec quoque locutus est Dominus ad Moysen in campestribus Moab supra Iordanem, contra Iericho:
 
-2 Præcipe filiis Israel ut dent Levitis de possessionibus suis
+2 Praecipe filiis Israel ut dent Levitis de possessionibus suis
 
 3 urbes ad habitandum, et suburbana earum per circuitum: ut ipsi in oppidis maneant, et suburbana sint pecoribus ac iumentis:
 
-4 quæ a muris civitatum forinsecus, per circuitum, mille passuum spatio tendentur.
+4 quae a muris civitatum forinsecus, per circuitum, mille passuum spatio tendentur.
 
-5 contra Orientem duo millia erunt cubiti, et contra Meridiem similiter erunt duo millia: ad mare quoque, quod respicit ad Occidentem, eadem mensura erit, et septentrionalis plaga æquali termino finietur. eruntque urbes in medio, et foris suburbana.
+5 contra Orientem duo millia erunt cubiti, et contra Meridiem similiter erunt duo millia: ad mare quoque, quod respicit ad Occidentem, eadem mensura erit, et septentrionalis plaga aequali termino finietur. eruntque urbes in medio, et foris suburbana.
 
-6 De ipsis autem oppidis, quæ Levitis dabitis, sex erunt in fugitivorum auxilia separata, ut fugiat ad ea qui fuderit sanguinem: et exceptis his, alia quadraginta duo oppida,
+6 De ipsis autem oppidis, quae Levitis dabitis, sex erunt in fugitivorum auxilia separata, ut fugiat ad ea qui fuderit sanguinem: et exceptis his, alia quadraginta duo oppida,
 
 7 id est, simul quadraginta octo cum suburbanis suis.
 
-8 Ipsæque urbes, quæ dabuntur de possessionibus filiorum Israel, ab his, qui plus habent, plures auferentur: et qui minus, pauciores. singuli iuxta mensuram hereditatis suæ dabunt oppida Levitis.
+8 Ipsaeque urbes, quae dabuntur de possessionibus filiorum Israel, ab his, qui plus habent, plures auferentur: et qui minus, pauciores. singuli iuxta mensuram hereditatis suae dabunt oppida Levitis.
 
 9 Ait Dominus ad Moysen:
 
 10 Loquere filiis Israel, et dices ad eos: Quando transgressi fueritis Iordanem in Terram Chanaan,
 
-11 decernite quæ urbes esse debeant in præsidia fugitivorum, qui nolentes sanguinem fuderint:
+11 decernite quae urbes esse debeant in praesidia fugitivorum, qui nolentes sanguinem fuderint:
 
 12 in quibus cum fuerit profugus, cognatus occisi non poterit eum occidere, donec stet in conspectu multitudinis, et causa illius iudicetur.
 
-13 De ipsis autem urbibus, quæ ad fugitivorum subsidia separantur,
+13 De ipsis autem urbibus, quae ad fugitivorum subsidia separantur,
 
 14 tres erunt trans Iordanem, et tres in Terra Chanaan,
 
@@ -51,17 +51,17 @@ draft: false
 
 23 et inimicitiis quidquam horum fecerit,
 
-24 et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quæstio ventilata:
+24 et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quaestio ventilata:
 
 25 liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur.
 
-26 Si interfector extra fines urbium, quæ exulibus deputatæ sunt,
+26 Si interfector extra fines urbium, quae exulibus deputatae sunt,
 
 27 fuerit inventus, et percussus ab eo qui ultor est sanguinis: absque noxa erit qui eum occiderit.
 
 28 debuerat enim profugus usque ad mortem Pontificis in urbe residere. postquam autem ille obierit, homicida revertetur in terram suam.
 
-29 Hæc sempiterna erunt, et legitima in cunctis habitationibus vestris.
+29 Haec sempiterna erunt, et legitima in cunctis habitationibus vestris.
 
 30 Homicida sub testibus punietur: ad unius testimonium nullus condemnabitur.
 
@@ -69,7 +69,7 @@ draft: false
 
 32 Exules et profugi ante mortem Pontificis nullo modo in urbes suas reverti poterunt:
 
-33 ne polluatis terram habitationis vestræ, quæ insontium cruore maculatur: nec aliter expiari potest, nisi per eius sanguinem, qui alterius sanguinem fuderit.
+33 ne polluatis terram habitationis vestrae, quae insontium cruore maculatur: nec aliter expiari potest, nisi per eius sanguinem, qui alterius sanguinem fuderit.
 
 34 Atque ita emundabitur vestra possessio, me commorante vobiscum. ego enim sum Dominus qui habito inter filios Israel.
 

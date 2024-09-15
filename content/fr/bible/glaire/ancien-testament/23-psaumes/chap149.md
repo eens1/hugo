@@ -13,7 +13,7 @@ summary: |
 ***Note*** :  Ps. 149, 1 : Le Psalmiste chante les victoires du peuple juif, revenu de la captivité, sur les tribus voisines qui leur avaient suscité toute sorte d’obstacles pour empêcher la reconstruction du temple. ― Les cinq premiers versets invitent à louer Dieu de ses bontés, et les quatre derniers proclament que ces louanges lui sont dues, parce qu’il a tiré vengeance des peuples ennemis d’Israël.
 
 
-2 Qu'Israël se réjouisse en celui qui l'a fait ; que les fils de Sion tressaillent d'allégresse en leur roi. 3 Qu'ils louent son nom en chœur : qu'ils le célèbrent sur le tambour et sur le psaltérion;
+2 Qu'Israël se réjouisse en celui qui l'a fait ; que les fils de Sion tressaillent d'allégresse en leur roi. 3 Qu'ils louent son nom en choeur : qu'ils le célèbrent sur le tambour et sur le psaltérion;
 
 
 4 Parce que le Seigneur se complaît dans son peuple, et qu'il exaltera les hommes doux et les sauvera.

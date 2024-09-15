@@ -19,14 +19,14 @@ summary: |
 
 ***Note*** :  II Par. 15, 5 : Par l’expression entrer et sortir, les Hébreux entendaient toutes les actions et toutes les situations de la vie.
 
-6 Car une nation combattra contre une nation, et une ville contre une ville, parce que le Seigneur les troublera de toutes sortes d'angoisses. 7 Vous donc, fortifiez-vous, et que vos mains ne s'affaiblissent point; car il y aura une récompense pour votre œuvre.
+6 Car une nation combattra contre une nation, et une ville contre une ville, parce que le Seigneur les troublera de toutes sortes d'angoisses. 7 Vous donc, fortifiez-vous, et que vos mains ne s'affaiblissent point; car il y aura une récompense pour votre oeuvre.
 
 
 8 Lorsqu'Asa eut entendu cela, c'est-à-dire les paroles et la prophétie d'Azarias, fils d'Oded, le prophète, il se fortifia, et enleva les idoles de toute la terre de Juda et de Benjamin, et des villes qu'il avait prises, du mont Ephraïm, et il dédia l'autel du Seigneur qui était devant le portique du Seigneur.
 
 ***Note*** :  II Par. 15, 8 : Il dédia. Dans le texte original, il renouvela, répara l’autel du Seigneur, l’autel des holocaustes qui avait été érigé une soixante d’années auparavant et avait sans doute besoin de réparations.
 
-9 Et il assembla tout Juda et Benjamin, et avec eux les étrangers venus d'Ephraïm, de Manassé, et de Siméon; car plusieurs s'étaient réfugiés d'Israël vers lui, voyant que le Seigneur son Dieu était avec lui. 10 Et lorsqu'ils furent venus à Jérusalem le troisième mois, l'an quinzième du règne d'Asa, 11 Ils immolèrent au Seigneur en ce jour-là, parmi les dépouilles et le butin qu'ils avaient emmené, sept cents bœufs et sept mille béliers. 12 Et le roi entra selon la coutume pour confirmer l'alliance, afin qu'ils cherchassent le Seigneur Dieu de leurs pères de tout leur cœur et de toute leur âme. 13 Or, si quelqu'un, dit-il, ne cherche pas le Seigneur Dieu d'Israël, qu'il meure, depuis le plus petit jusqu'au plus grand, depuis l'homme jusqu'à la femme. 14 Et ils le jurèrent au Seigneur avec une voix forte au milieu des cris de joie, au bruit de la trompette et au son des clairons, 15 Tous ceux qui étaient dans la Judée, avec exécration; car c'est en tout leur cœur qu'ils jurèrent, et avec leur entière volonté qu'ils
+9 Et il assembla tout Juda et Benjamin, et avec eux les étrangers venus d'Ephraïm, de Manassé, et de Siméon; car plusieurs s'étaient réfugiés d'Israël vers lui, voyant que le Seigneur son Dieu était avec lui. 10 Et lorsqu'ils furent venus à Jérusalem le troisième mois, l'an quinzième du règne d'Asa, 11 Ils immolèrent au Seigneur en ce jour-là, parmi les dépouilles et le butin qu'ils avaient emmené, sept cents boeufs et sept mille béliers. 12 Et le roi entra selon la coutume pour confirmer l'alliance, afin qu'ils cherchassent le Seigneur Dieu de leurs pères de tout leur coeur et de toute leur âme. 13 Or, si quelqu'un, dit-il, ne cherche pas le Seigneur Dieu d'Israël, qu'il meure, depuis le plus petit jusqu'au plus grand, depuis l'homme jusqu'à la femme. 14 Et ils le jurèrent au Seigneur avec une voix forte au milieu des cris de joie, au bruit de la trompette et au son des clairons, 15 Tous ceux qui étaient dans la Judée, avec exécration; car c'est en tout leur coeur qu'ils jurèrent, et avec leur entière volonté qu'ils
 cherchèrent le Seigneur; et ils le trouvèrent, et le Seigneur leur donna le repos à l'entour.
 
 
@@ -34,7 +34,7 @@ cherchèrent le Seigneur; et ils le trouvèrent, et le Seigneur leur donna le re
 
 ***Note*** :  II Par. 15, 16 : Un simulacre de Priape. Dans l’hébreu, un pieu d’Aschéra ou d’Astarté. ― Cédron, vallée à l’est et au sud-est de Jérusalem.
 
-17 Mais les hauts lieux restèrent en Israël; cependant le cœur d'Asa fut parfait durant tous ses jours. 18 Et les choses que son père avait vouées ainsi que lui-même, il les porta dans la maison du Seigneur : de l'argent, de l'or et différentes espèces de vases.
+17 Mais les hauts lieux restèrent en Israël; cependant le coeur d'Asa fut parfait durant tous ses jours. 18 Et les choses que son père avait vouées ainsi que lui-même, il les porta dans la maison du Seigneur : de l'argent, de l'or et différentes espèces de vases.
 
 
 19 Or il n'y eut point de guerre jusqu'à la trente-cinquième année du règne d'Asa.

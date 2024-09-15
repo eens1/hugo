@@ -5,29 +5,29 @@ draft: false
 ---
 
 
-1 Ascenditque Angelus Domini de Galgalis ad Locum flentium, et ait: Eduxi vos de Ægypto, et introduxi in Terram, pro qua iuravi patribus vestris: et pollicitus sum ut non facerem irritum pactum meum vobiscum in sempiternum:
+1 Ascenditque Angelus Domini de Galgalis ad Locum flentium, et ait: Eduxi vos de AEgypto, et introduxi in Terram, pro qua iuravi patribus vestris: et pollicitus sum ut non facerem irritum pactum meum vobiscum in sempiternum:
 
-2 ita dumtaxat ut non feriretis fœdus cum habitatoribus Terræ huius, sed aras eorum subverteretis: et noluistis audire vocem meam: cur hoc fecistis?
+2 ita dumtaxat ut non feriretis foedus cum habitatoribus Terrae huius, sed aras eorum subverteretis: et noluistis audire vocem meam: cur hoc fecistis?
 
 3 Quam ob rem nolui delere eos a facie vestra: ut habeatis hostes, et dii eorum sint vobis in ruinam.
 
-4 Cumque loqueretur Angelus Domini hæc verba ad omnes filios Israel: elevaverunt ipsi vocem suam, et fleverunt.
+4 Cumque loqueretur Angelus Domini haec verba ad omnes filios Israel: elevaverunt ipsi vocem suam, et fleverunt.
 
 5 Et vocatum est nomen loci illius: Locus flentium, sive lacrymarum: immolaveruntque ibi hostias Domini.
 
 6 Dimisit ergo Iosue populum, et abierunt filii Israel unusquisque in possessionem suam, ut obtinerent eam:
 
-7 servieruntque Domino cunctis diebus eius, et seniorum, qui longo post eum vixerunt tempore, et noverant omnia opera Domini, quæ fecerat cum Israel.
+7 servieruntque Domino cunctis diebus eius, et seniorum, qui longo post eum vixerunt tempore, et noverant omnia opera Domini, quae fecerat cum Israel.
 
 8 Mortuus est autem Iosue filius Nun, famulus Domini, centum et decem annorum,
 
-9 et sepelierunt eum in finibus possessionis suæ in Thamnathsare in monte Ephraim, a Septentrionali plaga montis Gaas.
+9 et sepelierunt eum in finibus possessionis suae in Thamnathsare in monte Ephraim, a Septentrionali plaga montis Gaas.
 
-10 Omnisque illa generatio congregata est ad patres suos: et surrexerunt alii, qui non noverant Dominum, et opera quæ fecerat cum Israel.
+10 Omnisque illa generatio congregata est ad patres suos: et surrexerunt alii, qui non noverant Dominum, et opera quae fecerat cum Israel.
 
 11 Feceruntque filii Israel malum in conspectu Domini, et servierunt Baalim.
 
-12 Ac dimiserunt Dominum Deum patrum suorum, qui eduxerat eos de Terra Ægypti: et secuti sunt deos alienos, deosque populorum, qui habitabant in circuitu eorum, et adoraverunt eos: et ad iracundiam concitaverunt Dominum,
+12 Ac dimiserunt Dominum Deum patrum suorum, qui eduxerat eos de Terra AEgypti: et secuti sunt deos alienos, deosque populorum, qui habitabant in circuitu eorum, et adoraverunt eos: et ad iracundiam concitaverunt Dominum,
 
 13 dimittentes eum, et servientes Baal et Astaroth.
 
@@ -39,7 +39,7 @@ draft: false
 
 17 fornicantes cum diis alienis, et adorantes eos. Cito deseruerunt viam, per quam ingressi fuerant patres eorum: et audientes mandata Domini, omnia fecere contraria.
 
-18 Cumque Dominus iudices suscitaret, in diebus eorum flectebatur misericordia, et audiebat afflictorum gemitus, et liberabat eos de cæde vastantium.
+18 Cumque Dominus iudices suscitaret, in diebus eorum flectebatur misericordia, et audiebat afflictorum gemitus, et liberabat eos de caede vastantium.
 
 19 Postquam autem mortuus esset iudex, revertebantur, et multo faciebant peiora quam fecerant patres eorum, sequentes deos alienos, servientes eis, et adorantes illos. Non dimiserunt adinventiones suas, et viam durissimam, per quam ambulare consueverunt.
 

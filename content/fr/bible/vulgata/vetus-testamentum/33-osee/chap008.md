@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 In gutture tuo sit tuba quasi aquila super domum Domini: pro eo quod transgressi sunt fœdus meum, et legem meam prævaricati sunt.
+1 In gutture tuo sit tuba quasi aquila super domum Domini: pro eo quod transgressi sunt foedus meum, et legem meam praevaricati sunt.
 
 2 Me invocabunt: Deus meus cognovimus te Israel.
 
@@ -15,7 +15,7 @@ draft: false
 
 5 proiectus est vitulus tuus Samaria, iratus est furor meus in eos. usquequo non poterunt emundari?
 
-6 Quia ex Israel et ipse est: artifex fecit illum, et non est Deus: quoniam in aranearum telas erit vitulus Samariæ.
+6 Quia ex Israel et ipse est: artifex fecit illum, et non est Deus: quoniam in aranearum telas erit vitulus Samariae.
 
 7 Quia ventum seminabunt, et turbinem metent: culmus stans non est in eo, germen non faciet farinam: quod et si fecerit, alieni comedent eam.
 
@@ -25,11 +25,11 @@ draft: false
 
 10 Sed et cum mercede conduxerint nationes, nunc congregabo eos: et quiescent paulisper ab onere regis, et principum.
 
-11 Quia multiplicavit Ephraim altaria ad peccandum: factæ sunt ei aræ in delictum.
+11 Quia multiplicavit Ephraim altaria ad peccandum: factae sunt ei arae in delictum.
 
-12 Scribam ei multiplices leges meas, quæ velut alienæ computatæ sunt.
+12 Scribam ei multiplices leges meas, quae velut alienae computatae sunt.
 
-13 Hostias offerent, immolabunt carnes, et comedent, et Dominus non suscipiet eas: nunc recordabitur iniquitatis eorum, et visitabit peccata eorum: ipsi in Ægyptum convertentur.
+13 Hostias offerent, immolabunt carnes, et comedent, et Dominus non suscipiet eas: nunc recordabitur iniquitatis eorum, et visitabit peccata eorum: ipsi in AEgyptum convertentur.
 
-14 Et oblitus est Israel factoris sui, et ædificavit delubra: et Iudas multiplicavit urbes munitas: et mittam ignem in civitates eius, et devorabit ædes illius.
+14 Et oblitus est Israel factoris sui, et aedificavit delubra: et Iudas multiplicavit urbes munitas: et mittam ignem in civitates eius, et devorabit aedes illius.
 

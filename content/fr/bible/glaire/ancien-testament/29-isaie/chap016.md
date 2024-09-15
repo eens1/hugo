@@ -53,7 +53,7 @@ summary: |
 
 ***Note*** :  Is. 16, 10 : Carmel ; montagne de la Palestine, célèbre par sa fertilité, et dont le nom a été employé pour signifier en général un lieu d’une fertilité extraordinaire.
 
-11 A cause de cela, le fond de mon cœur retentira sur Moab, comme la harpe, et mes entrailles sur le mur de briques cuites au feu.
+11 A cause de cela, le fond de mon coeur retentira sur Moab, comme la harpe, et mes entrailles sur le mur de briques cuites au feu.
 
 ***Note*** :  Is. 16, 11 : Sur le mur ; c’est-à-dire sur la ruine du mur. Comparer au verset 7.
 

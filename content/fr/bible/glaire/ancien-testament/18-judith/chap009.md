@@ -13,7 +13,7 @@ summary: |
 
 2 Seigneur, Dieu de mon père Siméon, qui lui avez donné un glaive pour se venger des étrangers qui commirent une violence dans leur profanation, et découvrirent la nudité d'une vierge pour sa confusion;
 
-***Note*** :  Judith 9, 2 : Voir Genèse, 34, 26. ― Judith loue ici le zèle que Siméon avait mis à venger la gloire de Dieu et l’outrage fait par les Sichémites à sa sœur ; mais nullement la manière inhumaine dont il avait exercé cette vengeance. Voir Genèse, 34, 30 ; 49, 5-7.
+***Note*** :  Judith 9, 2 : Voir Genèse, 34, 26. ― Judith loue ici le zèle que Siméon avait mis à venger la gloire de Dieu et l’outrage fait par les Sichémites à sa soeur ; mais nullement la manière inhumaine dont il avait exercé cette vengeance. Voir Genèse, 34, 30 ; 49, 5-7.
 
 3 Qui avez livré leurs femmes en proie, et leurs filles en captivité, et toutes leurs dépouilles en partage à vos serviteurs qui ont brûlé de zèle pour vous, venez, je vous prie. Seigneur mon Dieu, au secours de moi, veuve :
 
@@ -39,9 +39,9 @@ summary: |
 
 ***Note*** :  Judith 9, 13 : Par mes paroles gracieuses ; littéralement par les lèvres de ma grâce. Comparer (Psaumes, 44, 3) à l’expression la grâce est répandue sur vos lèvres. Ici, comme souvent ailleurs, saint Jérôme a donné à un mot latin, dérivé du grec, le sens qu’il a dans cette dernière langue. ― Judith se proposait d’user de sa beauté pour perdre Holoferne, mais son but unique était de sauver son peuple en faisant périr le chef de l’armée ennemie. C’est son intention qui fait le mérite de son action. Elle exposait sa propre vie pour le salut d’Israël. Elle avait d’ailleurs le droit de faire périr Holoferne, soit par ruse, soit par violence, puisque le général assyrien faisait la guerre aux habitants de Béthulie.
 
-14 Mettez-moi dans le cœur de la constance, afin que je le méprise; et de la force, afin que je le renverse. 15 Ce sera assurément un souvenir de votre nom, que la main d'une femme l'ait abattu.
+14 Mettez-moi dans le coeur de la constance, afin que je le méprise; et de la force, afin que je le renverse. 15 Ce sera assurément un souvenir de votre nom, que la main d'une femme l'ait abattu.
 
 ***Note*** :  Judith 9, 15 : Voir Juges, 4, 21 ; 5, 26.
 
-16 Car ce n'est point dans la multitude qu'est votre puissance, Seigneur, ni dans les forces des chevaux qu'est votre plaisir, et les superbes dès le commencement ne vous ont pas plu ; mais la prière des hommes humbles et doux vous a toujours plu. 17 Dieu des cieux, créateur des eaux, et seigneur de toute créature, exaucez-moi, pauvre suppliante, et qui présume de votre miséricorde. 18 Souvenez-vous, Seigneur, de votre alliance, et mettez la parole dans ma bouche, et fortifiez en mon cœur ma résolution, afin que votre maison vous demeure toujours consacrée ; 19 Et que toutes les nations reconnaissent que c'est vous qui êtes Dieu, et qu'il n'y en a point d'autre hors vous.
+16 Car ce n'est point dans la multitude qu'est votre puissance, Seigneur, ni dans les forces des chevaux qu'est votre plaisir, et les superbes dès le commencement ne vous ont pas plu ; mais la prière des hommes humbles et doux vous a toujours plu. 17 Dieu des cieux, créateur des eaux, et seigneur de toute créature, exaucez-moi, pauvre suppliante, et qui présume de votre miséricorde. 18 Souvenez-vous, Seigneur, de votre alliance, et mettez la parole dans ma bouche, et fortifiez en mon coeur ma résolution, afin que votre maison vous demeure toujours consacrée ; 19 Et que toutes les nations reconnaissent que c'est vous qui êtes Dieu, et qu'il n'y en a point d'autre hors vous.
 

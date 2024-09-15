@@ -56,7 +56,7 @@ summary: |
 
 ***Note*** :  Job 9, 26 : Comme, etc. , c’est-à-dire avec la rapidité des vaisseaux qui portent des fruits. Ces vaisseaux sont très rapides, soit parce qu’on les charge peu, soit parce qu’on abrège le temps de leur traversée le plus possible, afin que les fruits ne se corrompent pas.
 
-27 Lorsque je dis: Je ne parlerai plus ainsi, je change de visage, et je suis tourmenté par la douleur. 28 Je redoutais toutes mes œuvres, sachant que vous ne me pardonneriez pas, si je péchais. 29 Et si après cela je suis impie, pourquoi ai-je travaillé en vain?
+27 Lorsque je dis: Je ne parlerai plus ainsi, je change de visage, et je suis tourmenté par la douleur. 28 Je redoutais toutes mes oeuvres, sachant que vous ne me pardonneriez pas, si je péchais. 29 Et si après cela je suis impie, pourquoi ai-je travaillé en vain?
 
 ***Note*** :  Job 9, 29 : Pourquoi ai-je travaillé en vain, en prenant tant de soin d’éviter les moindres péchés, et en me purifiant de ceux dans lesquels je craignais d’être tombé.
 

@@ -19,18 +19,18 @@ summary: |
 ***Note*** :  Éz. 14, 2 : Disant (dicens). Voir, sur ce mot, Ezéchiel, 3, 16.
 
 
-3 Fils d'un homme, ces hommes ont mis leurs impuretés dans leurs cœurs, et placé le scandale de leur iniquité devant leur face; est-ce que consulté, je leur répondrai?
+3 Fils d'un homme, ces hommes ont mis leurs impuretés dans leurs coeurs, et placé le scandale de leur iniquité devant leur face; est-ce que consulté, je leur répondrai?
 
-***Note*** :  Éz. 14, 3 : Ces hommes, etc. ; c’est-à-dire qu’ils sont encore attachés de cœur à leur idolâtrie, et ils ont encore les yeux tournés vers ces idoles qui ont été pour eux des pierres d’achoppement et des sujets de chute (voir verset 6). Ils viennent néanmoins consulter, comme si leur cœur était droit, et leur intention pure.
+***Note*** :  Éz. 14, 3 : Ces hommes, etc. ; c’est-à-dire qu’ils sont encore attachés de coeur à leur idolâtrie, et ils ont encore les yeux tournés vers ces idoles qui ont été pour eux des pierres d’achoppement et des sujets de chute (voir verset 6). Ils viennent néanmoins consulter, comme si leur coeur était droit, et leur intention pure.
 
-4 A cause de cela, parle-leur, et tu leur diras : Voici ce que dit le Seigneur Dieu : Tout homme de la maison d'Israël qui aura mis ses impuretés dans son cœur, et aura placé le scandale de son iniquité devant sa face, et sera venu vers le prophète, m'interrogeant par lui, moi le Seigneur, je lui répondrai selon la multitude de ses impuretés;
+4 A cause de cela, parle-leur, et tu leur diras : Voici ce que dit le Seigneur Dieu : Tout homme de la maison d'Israël qui aura mis ses impuretés dans son coeur, et aura placé le scandale de son iniquité devant sa face, et sera venu vers le prophète, m'interrogeant par lui, moi le Seigneur, je lui répondrai selon la multitude de ses impuretés;
 
 ***Note*** :  Éz. 14, 4 : Le prophète ; c’est-à-dire le faux prophète.
 
-5 Afin que la maison d'Israël soit prise dans son cœur, par lequel ils se sont retirés de moi pour s'attacher à toutes leurs idoles.
+5 Afin que la maison d'Israël soit prise dans son coeur, par lequel ils se sont retirés de moi pour s'attacher à toutes leurs idoles.
 
 
-6 A cause de cela, dis à la maison d'Israël : Voici ce que dit le Seigneur Dieu : Convertissez-vous, retirez-vous de vos idoles, et de toutes vos souillures détournez vos faces. 7 Car tout homme de la maison d'Israël, et quiconque d'entre les prosélytes est étranger en Israël, s'il s'est détourné de moi et qu'il ait mis ses idoles dans son cœur, et qu'il ait placé le scandale de son iniquité devant sa face, et qu'il soit venu vers le prophète pour me consulter par lui ; moi, le Seigneur, je lui répondrai moi-même.
+6 A cause de cela, dis à la maison d'Israël : Voici ce que dit le Seigneur Dieu : Convertissez-vous, retirez-vous de vos idoles, et de toutes vos souillures détournez vos faces. 7 Car tout homme de la maison d'Israël, et quiconque d'entre les prosélytes est étranger en Israël, s'il s'est détourné de moi et qu'il ait mis ses idoles dans son coeur, et qu'il ait placé le scandale de son iniquité devant sa face, et qu'il soit venu vers le prophète pour me consulter par lui ; moi, le Seigneur, je lui répondrai moi-même.
 
 ***Note*** :  Éz. 14, 7 : Les prosélytes ; c’est-à-dire étrangers, sont les Chananéens, que les Israélites conservèrent parmi eux, à condition qu’ils renonceraient à l’idolâtrie, et qu’ils les serviraient.
 
@@ -39,7 +39,7 @@ summary: |
 
 9 Et lorsque le prophète a erré et qu'il a dit une parole, c'est moi, le Seigneur, qui ai trompé ce prophète; et j'étendrai ma main sur lui, et je l'effacerai du milieu de mon peuple d'Israël.
 
-***Note*** :  Éz. 14, 9 : Voir Ezéchiel, 13, 3. ― L’expression tromper un prophète, lorsqu’elle est appliquée à Dieu, signifie simplement que Dieu l’abandonne au dérèglement de son cœur, en permettant que, de son côté, un peuple corrompu se laisse séduire. Dieu, selon la remarque de saint Jérôme, use souvent de ce langage pour qu’on n’attribue pas à la vertu particulière des faux prophètes que le peuple soit ainsi trompé ; mais que l’on reconnaisse que c’est un effet de la colère de Dieu qui permet que des hommes dont le cœur est corrompu ferment les oreilles aux avis de ses prophètes, pour les ouvrir aux mensonges de ceux qui les trompent.
+***Note*** :  Éz. 14, 9 : Voir Ezéchiel, 13, 3. ― L’expression tromper un prophète, lorsqu’elle est appliquée à Dieu, signifie simplement que Dieu l’abandonne au dérèglement de son coeur, en permettant que, de son côté, un peuple corrompu se laisse séduire. Dieu, selon la remarque de saint Jérôme, use souvent de ce langage pour qu’on n’attribue pas à la vertu particulière des faux prophètes que le peuple soit ainsi trompé ; mais que l’on reconnaisse que c’est un effet de la colère de Dieu qui permet que des hommes dont le coeur est corrompu ferment les oreilles aux avis de ses prophètes, pour les ouvrir aux mensonges de ceux qui les trompent.
 
 
 10 Et ils porteront leur iniquité; selon l'iniquité de celui qui consulte, ainsi sera l'iniquité du prophète; 11 Afin que la maison d'Israël ne s'égare plus en se retirant de moi, et qu'elle ne se souille point par toutes ses prévarications ; mais qu'ils soient mon peuple, et que moi je sois leur Dieu, dit le Seigneur des armées.
@@ -68,7 +68,7 @@ summary: |
 
 21 Parce que voici ce que dit le Seigneur Dieu : Que si j'envoie à Jérusalem mes quatre jugements cruels, le glaive, la famine, les bêtes mauvaises, et la peste, afin que j'en tue homme et bétail, 22 Cependant il y sera laissé des hommes qui se sauveront, et feront sortir leurs fils et leurs filles; voilà qu'eux-mêmes viendront vers vous, et que vous verrez leur voie et leurs inventions, et que vous serez consolés du mal que j'aurai amené sur Jérusalem, et de tous les fléaux dont je l'aurai accablée.
 
-***Note*** :  Éz. 14, 22 : Vers vous qui êtes ici maintenant en captivité. ― Inventions ; c’est-à-dire actions, œuvres. Voir Isaïe, 3, 8.
+***Note*** :  Éz. 14, 22 : Vers vous qui êtes ici maintenant en captivité. ― Inventions ; c’est-à-dire actions, oeuvres. Voir Isaïe, 3, 8.
 
 
 23 Et ils vous consoleront, lorsque vous verrez leur voie et leurs inventions; et vous reconnaîtrez que ce n'est pas sans raison que j'aurai fait à Jérusalem tout ce que j'y aurai lait, dit le Seigneur Dieu.

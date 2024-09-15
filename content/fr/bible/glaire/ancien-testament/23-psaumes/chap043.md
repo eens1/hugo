@@ -14,9 +14,9 @@ summary: |
 ***Note*** :  Ps. 43, 1 : Aux fils de Coré. Voir le titre du Psaume 41 (Hébreu : 42). ― Ce psaume paraît avoir été composé pendant la guerre contre les Syriens et les Ammonites, voir 2 Rois, 8, 13 ; 3 Rois, 11, 15.
 
 
-2 Ô Dieu, nous avons entendu de nos oreilles; nos pères nous ont annoncé L'œuvre que vous avez opéré dans leurs jours et dans des jours anciens.
+2 Ô Dieu, nous avons entendu de nos oreilles; nos pères nous ont annoncé L'oeuvre que vous avez opéré dans leurs jours et dans des jours anciens.
 
-***Note*** :  Ps. 43, 2 : L’œuvre, etc. ; c’est-à-dire les prodiges opérés en Egypte, à la mer Rouge et dans le désert.
+***Note*** :  Ps. 43, 2 : L’oeuvre, etc. ; c’est-à-dire les prodiges opérés en Egypte, à la mer Rouge et dans le désert.
 
 ***Note*** :  Ps. 43, 2-9 : 1° Dieu, vous nous avez aidés dans la personne de nos pères (versets 2 à 4) ; 2° vous devez nous aider nous-mêmes (versets 5 à 9).
 
@@ -50,14 +50,14 @@ summary: |
 14 Vous nous avez rendu un sujet d'opprobre à nos voisins, un objet d'insulte et de dérision à ceux qui sont autour de nous. 15 Vous nous avez fait la fable des nations et le secouement de tête des peuples. 16 Tout le jour ma honte est devant moi, et la confusion de ma face m'a couvert entièrement, 17 A la voix de celui qui m'adresse des reproches et qui m'invective, à la face de mon ennemi et de celui qui me persécute.
 
 
-18 Tous ces maux sont venus sur nous et nous ne vous avons pas oublié, et nous n'avons pas iniquement agi contre votre alliance. 19 Et notre cœur ne s'est pas retiré en arrière; et vous avez détourné nos sentiers de votre voie.
+18 Tous ces maux sont venus sur nous et nous ne vous avons pas oublié, et nous n'avons pas iniquement agi contre votre alliance. 19 Et notre coeur ne s'est pas retiré en arrière; et vous avez détourné nos sentiers de votre voie.
 
 ***Note*** :  Ps. 43, 19 : Et vous avez détourné, etc. La plupart des interprètes, entre autres Symmaque et saint Jérôme, répètent dans cette seconde partie du verset la négative qui est dans la première ; de sorte que le sens est : Vous n’avez pas permis que nous suivions des sentiers opposés à la voie que vous nous aviez tracée. Il est certain que ce genre d’ellipse n’est pas rare dans les écrivains sacrés.
 
 20 Parce que vous nous avez humiliés dans un lieu d'affliction, l'ombre de la mort nous a enveloppés.
 
 
-21 Si nous avons oublié le nom de notre Dieu, et si nous avons étendu nos mains vers un Dieu étranger ; 22 Est-ce que Dieu ne s'en enquerra pas? Car il connaît, lui, les choses cachées du cœur. Puisque, à cause de vous, nous sommes mis à mort tout le jour; nous sommes regardés comme des brebis de tuerie.
+21 Si nous avons oublié le nom de notre Dieu, et si nous avons étendu nos mains vers un Dieu étranger ; 22 Est-ce que Dieu ne s'en enquerra pas? Car il connaît, lui, les choses cachées du coeur. Puisque, à cause de vous, nous sommes mis à mort tout le jour; nous sommes regardés comme des brebis de tuerie.
 
 ***Note*** :  Ps. 43, 22 : Voir Romains, 8, 36. ― Puisque à cause de vous, etc. Saint Paul, dans Romains, 8, 36, fait l’application de ce passage aux persécutions auxquelles les premiers chrétiens étaient en butte.
 

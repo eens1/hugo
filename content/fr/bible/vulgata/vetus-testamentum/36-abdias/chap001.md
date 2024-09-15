@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Visio Abdiæ. Hæc dicit Dominus Deus ad Edom: Auditum audivimus a Domino, et legatum ad gentes misit: Surgite, et consurgamus adversus eum in prælium.
+1 Visio Abdiae. Haec dicit Dominus Deus ad Edom: Auditum audivimus a Domino, et legatum ad gentes misit: Surgite, et consurgamus adversus eum in praelium.
 
 2 Ecce parvulum dedi te in Gentibus: contemptibilis tu es valde.
 
@@ -17,19 +17,19 @@ draft: false
 
 6 Quomodo scrutati sunt Esau, investigaverunt abscondita eius?
 
-7 Usque ad terminum emiserunt te: omnes viri fœderis tui illuserunt tibi: invaluerunt adversum te viri pacis tuæ: qui comedunt tecum, ponent insidias subter te: non est prudentia in eo.
+7 Usque ad terminum emiserunt te: omnes viri foederis tui illuserunt tibi: invaluerunt adversum te viri pacis tuae: qui comedunt tecum, ponent insidias subter te: non est prudentia in eo.
 
-8 Numquid non in die illa, dicit Dominus, perdam sapientes de Idumæa, et prudentiam de monte Esau?
+8 Numquid non in die illa, dicit Dominus, perdam sapientes de Idumaea, et prudentiam de monte Esau?
 
 9 Et timebunt fortes tui a Meridie, ut intereat vir de monte Esau.
 
-10 Propter interfectionem, et propter iniquitatem in fratrem tuum Iacob, operiet te confusio, et peribis in æternum.
+10 Propter interfectionem, et propter iniquitatem in fratrem tuum Iacob, operiet te confusio, et peribis in aeternum.
 
 11 In die cum stares adversus eum, quando capiebant alieni exercitum eius, et extranei ingrediebantur portas eius, et super Ierusalem mittebant sortem: tu quoque eras quasi unus ex eis.
 
-12 Et non despicies in die fratris tui, in die peregrinationis eius: et non lætaberis super filios Iuda in die perditionis eorum: et non magnificabis os tuum in die angustiæ.
+12 Et non despicies in die fratris tui, in die peregrinationis eius: et non laetaberis super filios Iuda in die perditionis eorum: et non magnificabis os tuum in die angustiae.
 
-13 Neque ingriederis portam populi mei in die ruinæ eorum: neque despicies et tu in malis eius in die vastitatis illius: et non emitteris adversus exercitum eius in die vastitatis illius.
+13 Neque ingriederis portam populi mei in die ruinae eorum: neque despicies et tu in malis eius in die vastitatis illius: et non emitteris adversus exercitum eius in die vastitatis illius.
 
 14 Neque stabis in exitibus ut interficias eos qui fugerint: et non concludes reliquos eius in die tribulationis.
 
@@ -39,11 +39,11 @@ draft: false
 
 17 Et in monte Sion erit salvatio, et erit sanctus: et possidebit domus Iacob eos qui se possederant.
 
-18 Et erit domus Iacob ignis, et domus Ioseph flamma, et domus Esau stipula: et succendentur in eis, et devorabunt eos: et non erunt reliquiæ domus Esau, quia Dominus locutus est.
+18 Et erit domus Iacob ignis, et domus Ioseph flamma, et domus Esau stipula: et succendentur in eis, et devorabunt eos: et non erunt reliquiae domus Esau, quia Dominus locutus est.
 
-19 Et hereditabunt hi, qui ad Austrum sunt, montem Esau, et qui in campestribus Philisthiim: et possidebunt regionem Ephraim, et regionem Samariæ: et Beniamin possidebit Galaad.
+19 Et hereditabunt hi, qui ad Austrum sunt, montem Esau, et qui in campestribus Philisthiim: et possidebunt regionem Ephraim, et regionem Samariae: et Beniamin possidebit Galaad.
 
-20 Et transmigratio exercitus huius filiorum Israel, omnia loca Chananæorum usque ad Sareptam: et transmigratio Ierusalem, quæ in Bosphoro est, possidebit civitates Austri.
+20 Et transmigratio exercitus huius filiorum Israel, omnia loca Chananaeorum usque ad Sareptam: et transmigratio Ierusalem, quae in Bosphoro est, possidebit civitates Austri.
 
 21 Et ascendent salvatores in montem Sion iudicare montem Esau: et erit Domino regnum.
 

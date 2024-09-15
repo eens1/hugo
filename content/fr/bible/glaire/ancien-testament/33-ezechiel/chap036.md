@@ -6,7 +6,7 @@ summary: |
   
   Promesse du retour des enfants d’Israël et du rétablissement de leur terre.
   Ce ne sera pas à cause de leurs mérites, mais pour la gloire du Seigneur.
-  Dieu leur donnera un cœur et un esprit nouveaux.
+  Dieu leur donnera un coeur et un esprit nouveaux.
   Les biens dont il les comblera le feront reconnaître pour le Seigneur.
 ---
 
@@ -67,11 +67,11 @@ summary: |
 
 24 Car je vous retirerai d'entre les nations, et je vous rassemblerai de tous les pays, et je vous ramènerai dans votre terre. 25 Et je répandrai sur vous une eau pure, et vous serez purifiés de toutes vos souillures, et je vous purifierai de toutes vos idoles.
 
-***Note*** :  Éz. 36, 25 : Et je répandrai, etc. ; allusion aux aspersions qui étaient usitées chez les anciens Hébreux pour se purifier des souillures légales, et qui figuraient la purification future par le sang de Jésus-Christ. ― Les Pères et la plupart des interprètes reconnaissent que les grandes promesses contenues dans ce verset et les suivants n’ont reçu leur entier accomplissement que dans la nouvelle alliance dont Jésus-Christ est le médiateur, et dont un caractère distinctif est cet enseignement par lequel Dieu, répandant son esprit en nous, nous donne un cœur nouveau et un esprit nouveau, c’est-à-dire de nouvelles affections, de nouveaux sentiments conformes aux vérités que la foi nous enseigne et aux règles que l’Evangile nous prescrit.
+***Note*** :  Éz. 36, 25 : Et je répandrai, etc. ; allusion aux aspersions qui étaient usitées chez les anciens Hébreux pour se purifier des souillures légales, et qui figuraient la purification future par le sang de Jésus-Christ. ― Les Pères et la plupart des interprètes reconnaissent que les grandes promesses contenues dans ce verset et les suivants n’ont reçu leur entier accomplissement que dans la nouvelle alliance dont Jésus-Christ est le médiateur, et dont un caractère distinctif est cet enseignement par lequel Dieu, répandant son esprit en nous, nous donne un coeur nouveau et un esprit nouveau, c’est-à-dire de nouvelles affections, de nouveaux sentiments conformes aux vérités que la foi nous enseigne et aux règles que l’Evangile nous prescrit.
 
-26 Et je vous donnerai un cœur nouveau, et je mettrai un esprit nouveau au milieu de vous ; et j'ôterai le cœur de pierre de votre chair, et je vous donnerai un cœur de chair.
+26 Et je vous donnerai un coeur nouveau, et je mettrai un esprit nouveau au milieu de vous ; et j'ôterai le coeur de pierre de votre chair, et je vous donnerai un coeur de chair.
 
-***Note*** :  Éz. 36, 26 : Voir Ezéchiel, 11, 19. ― Le cœur de pierre. Voir plus haut, Ezéchiel, note 11. 19.
+***Note*** :  Éz. 36, 26 : Voir Ezéchiel, 11, 19. ― Le coeur de pierre. Voir plus haut, Ezéchiel, note 11. 19.
 
 27 Et mon esprit, je le mettrai au milieu de vous; et je ferai que vous marchiez dans mes préceptes, et que vous gardiez mes ordonnances, et que vous les pratiquiez. 28 Et vous habiterez dans la terre que j'ai donnée à vos pères: vous serez mon peuple, et moi je serai votre Dieu.
 

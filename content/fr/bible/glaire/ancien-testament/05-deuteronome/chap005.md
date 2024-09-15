@@ -8,7 +8,7 @@ summary: |
 ---
 
 
-1 Or, Moïse appela tout Israël et lui dit : Ecoute, Israël, les cérémonies et les ordonnances que moi, je vous fais entendre aujourd'hui ; apprenez-les et les accomplissez par vos œuvres.
+1 Or, Moïse appela tout Israël et lui dit : Ecoute, Israël, les cérémonies et les ordonnances que moi, je vous fais entendre aujourd'hui ; apprenez-les et les accomplissez par vos oeuvres.
 
 ***Note*** :  Dr. 5, 1 : Ici commence le second discours de Moïse qui s’étend jusqu’au chapitre 26 et forme la partie principale d livre du Deutéronome.
 
@@ -42,7 +42,7 @@ summary: |
 ***Note*** :  Dr. 5, 11 : Voir Exode, 20, 7 ; Lévitique, 19, 12 ; Matthieu, 5, 33.
 
 
-12 Observe le jour du sabbat, afin de le sanctifier, comme t'a ordonné le Seigneur ton Dieu. 13 Pendant six jours tu travailleras, et tu feras tous tes ouvrages. 14 Mais le septième jour est celui du sabbat, c'est-à-dire le repos du Seigneur ton Dieu. Tu ne feras en ce jour aucun ouvrage, ni toi, ni ton fils, ni ta fille, ni ton serviteur, ni ta servante, ni ton bœuf, ni ton âne, ni aucune de tes bêtes, ni l'étranger qui est au-dedans de tes portes ; afin que ton serviteur et ta servante se reposent comme toi aussi.
+12 Observe le jour du sabbat, afin de le sanctifier, comme t'a ordonné le Seigneur ton Dieu. 13 Pendant six jours tu travailleras, et tu feras tous tes ouvrages. 14 Mais le septième jour est celui du sabbat, c'est-à-dire le repos du Seigneur ton Dieu. Tu ne feras en ce jour aucun ouvrage, ni toi, ni ton fils, ni ta fille, ni ton serviteur, ni ta servante, ni ton boeuf, ni ton âne, ni aucune de tes bêtes, ni l'étranger qui est au-dedans de tes portes ; afin que ton serviteur et ta servante se reposent comme toi aussi.
 
 ***Note*** :  Dr. 5, 14 : Voir Genèse, 2, 2; Exode, 20, 10 ; Hébreux, 4, 4. ― Tes portes ; hébraïsme, pour tes villes.
 
@@ -63,7 +63,7 @@ summary: |
 19 Et tu ne feras point de vol.
 
 
-20 Tu ne porteras point de faux témoignage contre ton prochain. 21 Tu ne convoiteras point la femme de ton prochain, ni sa maison, ni son champ, ni son serviteur, ni sa servante, ni son bœuf, ni son âne, ni aucune des choses qui sont à lui.
+20 Tu ne porteras point de faux témoignage contre ton prochain. 21 Tu ne convoiteras point la femme de ton prochain, ni sa maison, ni son champ, ni son serviteur, ni sa servante, ni son boeuf, ni son âne, ni aucune des choses qui sont à lui.
 
 ***Note*** :  Dr. 5, 21 : Voir Matthieu, 5, 28 ; Romains, 7, 7.
 

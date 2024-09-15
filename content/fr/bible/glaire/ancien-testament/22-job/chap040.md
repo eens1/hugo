@@ -15,7 +15,7 @@ summary: |
 singuliers de l’Egypte.
 
 
-2 Ceins tes reins comme un homme de cœur ; je t'interrogerai, et réponds-moi.
+2 Ceins tes reins comme un homme de coeur ; je t'interrogerai, et réponds-moi.
 
 ***Note*** :  Job 40, 2 : Ceins tes reins. Voir Job, 38, 3.
 
@@ -33,9 +33,9 @@ singuliers de l’Egypte.
 6 Dissipe les superbes dans ta fureur, et d'un regard humilie tout arrogant.
 
 
-7 Regarde tous les superbes et confonds-les; et brise les impies en leur lieu. 8 Cache-les dans la poussière tous ensemble, et plonge leurs faces dans la fosse. 9 Et moi, je confesserai que ta droite peut te sauver. 10 Vois, Béhémoth que j'ai fait avec toi mangera du foin comme le bœuf.
+7 Regarde tous les superbes et confonds-les; et brise les impies en leur lieu. 8 Cache-les dans la poussière tous ensemble, et plonge leurs faces dans la fosse. 9 Et moi, je confesserai que ta droite peut te sauver. 10 Vois, Béhémoth que j'ai fait avec toi mangera du foin comme le boeuf.
 
-***Note*** :  Job 40, 10 : Béhémoth ; à la lettre, bêtes d’une énorme grosseur, est ici un pluriel d’excellence. Quant à l’animal particulier que ce mot désigne, c’est la baleine, selon les anciens interprètes ; l’éléphant, selon quelques modernes ; mais Bochart semble avoir prouvé qu’on doit l’entendre de l’hippopotame. Les Pères de l’Eglise appliquent au démon ou aux méchants animés de son esprit ce qui est dit ici de Béhémoth. ― Le nom de Béhémoth est hébreu, mais il a été vraisemblablement choisi à cause de sa ressemblance avec le mot égyptien Pehemouth, l’hippopotame, littéralement le bœuf d’eau, composé de p, article, ehe bœuf, et mout eau. Il se nourrit d’herbe comme le bœuf. Ce trait est relevé parce qu’il est surprenant dans un animal qui vit dans l’eau. C’est parce qu’il est herbivore que cet animal est malfaisant. Il ravage pendant la nuit les récoltes sur le bord du Nil.
+***Note*** :  Job 40, 10 : Béhémoth ; à la lettre, bêtes d’une énorme grosseur, est ici un pluriel d’excellence. Quant à l’animal particulier que ce mot désigne, c’est la baleine, selon les anciens interprètes ; l’éléphant, selon quelques modernes ; mais Bochart semble avoir prouvé qu’on doit l’entendre de l’hippopotame. Les Pères de l’Eglise appliquent au démon ou aux méchants animés de son esprit ce qui est dit ici de Béhémoth. ― Le nom de Béhémoth est hébreu, mais il a été vraisemblablement choisi à cause de sa ressemblance avec le mot égyptien Pehemouth, l’hippopotame, littéralement le boeuf d’eau, composé de p, article, ehe boeuf, et mout eau. Il se nourrit d’herbe comme le boeuf. Ce trait est relevé parce qu’il est surprenant dans un animal qui vit dans l’eau. C’est parce qu’il est herbivore que cet animal est malfaisant. Il ravage pendant la nuit les récoltes sur le bord du Nil.
 
 11 Sa force est dans ses reins, et sa vertu dans le nombril de son ventre.
 
@@ -51,7 +51,7 @@ singuliers de l’Egypte.
 
 14 C'est lui qui est le commencement des voies de Dieu; celui qui l'a fait appliquera son glaive.
 
-***Note*** :  Job 40, 14 : Le commencement, etc. ; un chef-d’œuvre de la puissance de Dieu. ― Celui qui t’a fait, etc. ; c’est-à-dire Dieu seul qui l’a fait est capable de l’attaquer, de le vaincre et de le tuer ; ou selon d’autres (qui traduisent par le passé le futur du texte hébreu et de la Vulgate) : Dieu son créateur lui a donné son glaive, c’est-à-dire des dents tranchantes. L’hippopotame a des dents de la forme d’un sabre recourbé, harpé ; et l’éléphant, outre ses dents, a une trompe pour défense. ― Tous les commentateurs reconnaissent aujourd’hui dans ce glaive les dents de l’hippopotame. « Avec ses dents, dit Wood, l’hippopotame peut courber l’herbe aussi régulièrement qu’avec une faux. » Ces dents, dit l’abbé Prévot, dans son Histoire des voyages, « sont plus dures et plus blanches que l’ivoire. » Aussi les emploie-t-on volontiers comme dents artificielles.
+***Note*** :  Job 40, 14 : Le commencement, etc. ; un chef-d’oeuvre de la puissance de Dieu. ― Celui qui t’a fait, etc. ; c’est-à-dire Dieu seul qui l’a fait est capable de l’attaquer, de le vaincre et de le tuer ; ou selon d’autres (qui traduisent par le passé le futur du texte hébreu et de la Vulgate) : Dieu son créateur lui a donné son glaive, c’est-à-dire des dents tranchantes. L’hippopotame a des dents de la forme d’un sabre recourbé, harpé ; et l’éléphant, outre ses dents, a une trompe pour défense. ― Tous les commentateurs reconnaissent aujourd’hui dans ce glaive les dents de l’hippopotame. « Avec ses dents, dit Wood, l’hippopotame peut courber l’herbe aussi régulièrement qu’avec une faux. » Ces dents, dit l’abbé Prévot, dans son Histoire des voyages, « sont plus dures et plus blanches que l’ivoire. » Aussi les emploie-t-on volontiers comme dents artificielles.
 
 
 15 C'est pour lui que les montagnes portent des herbes; toutes les bêtes de la campagne viendront se jouer là.

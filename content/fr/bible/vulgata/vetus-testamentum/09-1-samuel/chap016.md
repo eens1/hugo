@@ -17,7 +17,7 @@ draft: false
 
 6 Cumque ingressi essent, vidit Eliab, et ait: Num coram Domino est Christus eius?
 
-7 Et dixit Dominus ad Samuelem: Ne respicias vultum eius, neque altitudinem staturæ eius: quoniam abieci eum, nec iuxta intuitum hominis ego iudico: homo enim videt ea quæ parent, Dominus autem intuetur cor.
+7 Et dixit Dominus ad Samuelem: Ne respicias vultum eius, neque altitudinem staturae eius: quoniam abieci eum, nec iuxta intuitum hominis ego iudico: homo enim videt ea quae parent, Dominus autem intuetur cor.
 
 8 Et vocavit Isai Abinadab, et adduxit eum coram Samuele. Qui dixit: Nec hunc elegit Dominus.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 Dixeruntque servi Saul ad eum: Ecce spiritus Dei malus exagitat te.
 
-16 Iubeat dominus noster, et servi tui, qui coram te sunt, quærent hominem scientem psallere cithara, ut quando arripuerit te spiritus Domini malus, psallat manu sua, et levius feras.
+16 Iubeat dominus noster, et servi tui, qui coram te sunt, quaerent hominem scientem psallere cithara, ut quando arripuerit te spiritus Domini malus, psallat manu sua, et levius feras.
 
 17 Et ait Saul ad servos suos: Providete ergo mihi aliquem bene psallentem, et adducite eum ad me.
 
@@ -43,7 +43,7 @@ draft: false
 
 19 Misit ergo Saul nuncios ad Isai, dicens: Mitte ad me David filium tuum, qui est in pascuis.
 
-20 Tulit itaque Isai asinum plenum panibus, et lagenam vini, et hœdum de capris unum, et misit per manum David filii sui Sauli.
+20 Tulit itaque Isai asinum plenum panibus, et lagenam vini, et hoedum de capris unum, et misit per manum David filii sui Sauli.
 
 21 Et venit David ad Saul, et stetit coram eo: at ille dilexit eum nimis, et factus est eius armiger.
 

@@ -4,11 +4,11 @@ date: 2024-09-06T20:00:35+02:00
 draft: false
 summary: |
   
-  Lois touchant les vœux et les dîmes.
+  Lois touchant les voeux et les dîmes.
 ---
 
 
-1 Le Seigneur parla encore à Moïse, disant :2 Parle aux enfants d'Israël, et tu leur diras : Un homme qui aura fait un vœu et qui aura promis à Dieu son âme donnera, selon l'estimation, le prix. 3 Si c'est un homme depuis la vingtième année jusqu'à la soixantième année, il donnera cinquante sicles d'argent, selon la mesure du sanctuaire ;
+1 Le Seigneur parla encore à Moïse, disant :2 Parle aux enfants d'Israël, et tu leur diras : Un homme qui aura fait un voeu et qui aura promis à Dieu son âme donnera, selon l'estimation, le prix. 3 Si c'est un homme depuis la vingtième année jusqu'à la soixantième année, il donnera cinquante sicles d'argent, selon la mesure du sanctuaire ;
 
 ***Note*** :  Lv. 27, 3 : Cinquante sicles. Voir Exode, note 21. 32.
 
@@ -32,13 +32,13 @@ summary: |
 ***Note*** :  Lv. 27, 25 : Voir Exode, 30, 13 ; Nombres, 3, 47 ; Ezéchiel, 45, 12.
 
 
-26 Les premiers-nés, qui appartiennent au Seigneur, personne ne pourra les consacrer et les vouer : que ce soit un bœuf ou une brebis, ils sont au Seigneur. 27 Que si l'animal est impur, celui qui l'a offert le rachètera selon ton estimation, et il ajoutera la cinquième partie du prix; s'il ne veut pas le racheter, il sera vendu à un autre, autant qu'il aura été estimé par loi.
+26 Les premiers-nés, qui appartiennent au Seigneur, personne ne pourra les consacrer et les vouer : que ce soit un boeuf ou une brebis, ils sont au Seigneur. 27 Que si l'animal est impur, celui qui l'a offert le rachètera selon ton estimation, et il ajoutera la cinquième partie du prix; s'il ne veut pas le racheter, il sera vendu à un autre, autant qu'il aura été estimé par loi.
 
 
 28 Tout ce qui est consacré au Seigneur, que ce soit un homme, ou un animal, ou un champ, ne sera point vendu, et ne pourra être racheté. Tout ce qui aura été une fois consacré, étant très saint, sera pour le Seigneur. 29 Rien de consacré, qui est offert par un homme, ne sera racheté, mais il mourra de mort.
 
 
-30 Toutes les dîmes de la terre, soit des grains, soit des fruits des arbres, sont au Seigneur et lui sont consacrées. 31 Mais si quelqu'un veut racheter ses dîmes, il en ajoutera la cinquième partie. 32 Dans les dîmes des bœufs, des brebis et des chèvres qui passent sous la verge du pasteur, tout ce qui viendra comme dixième, sera consacré au Seigneur. 33 Ni le bon, ni le mauvais ne sera choisi, et il ne sera point changé pour un autre; si quelqu'un le change, et ce qui aura été changé, et ce pour quoi il aura été changé, sera consacré au Seigneur, et ne sera pas racheté,
+30 Toutes les dîmes de la terre, soit des grains, soit des fruits des arbres, sont au Seigneur et lui sont consacrées. 31 Mais si quelqu'un veut racheter ses dîmes, il en ajoutera la cinquième partie. 32 Dans les dîmes des boeufs, des brebis et des chèvres qui passent sous la verge du pasteur, tout ce qui viendra comme dixième, sera consacré au Seigneur. 33 Ni le bon, ni le mauvais ne sera choisi, et il ne sera point changé pour un autre; si quelqu'un le change, et ce qui aura été changé, et ce pour quoi il aura été changé, sera consacré au Seigneur, et ne sera pas racheté,
 
 
 34 Ce sont là les préceptes qu'a donnés le Seigneur à Moïse pour les enfants d'Israël sur la montagne de Sinaï.

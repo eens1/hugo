@@ -27,7 +27,7 @@ summary: |
 
 ***Note*** :  I Rois 18, 7 : Voir 1 Rois, 21, 11 ; Ecclésiastique, 47, 7.
 
-8 Mais Saül fut très irrité, et cette parole déplut à ses yeux, et il dit : Elles ont donné dix mille hommes à David, et à moi, elles m'en ont donné mille; que lui reste-t-il à avoir, si ce n'est la royauté? 9 Ainsi Saül, depuis ce jour-là, ne regarda jamais plus David d'un bon œil.
+8 Mais Saül fut très irrité, et cette parole déplut à ses yeux, et il dit : Elles ont donné dix mille hommes à David, et à moi, elles m'en ont donné mille; que lui reste-t-il à avoir, si ce n'est la royauté? 9 Ainsi Saül, depuis ce jour-là, ne regarda jamais plus David d'un bon oeil.
 
 
 10 Mais après le jour suivant, l'esprit malin, envoyé de Dieu, saisit Saül, et il prophétisait au milieu de sa maison; mais David touchait la harpe de sa main comme tous les jours; et Saül tenait sa lance,

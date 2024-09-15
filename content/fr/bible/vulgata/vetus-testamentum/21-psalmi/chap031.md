@@ -5,19 +5,19 @@ draft: false
 ---
 
 
-1 Ipsi David intellectus. Beati, quorum remissæ sunt iniquitates: et quorum tecta sunt peccata.
+1 Ipsi David intellectus. Beati, quorum remissae sunt iniquitates: et quorum tecta sunt peccata.
 
 2 Beatus vir, cui non imputavit Dominus peccatum, nec est in spiritu eius dolus.
 
 3 Quoniam tacui, inveteraverunt ossa mea, dum clamarem tota die.
 
-4 Quoniam die ac nocte gravata est super me manus tua: conversus sum in ærumna mea, dum configitur spina.
+4 Quoniam die ac nocte gravata est super me manus tua: conversus sum in aerumna mea, dum configitur spina.
 
 5 Delictum meum cognitum tibi feci: et iniustitiam meam non abscondi. Dixi: Confitebor adversum me iniustitiam meam Domino: et tu remisisti impietatem peccati mei.
 
 6 Pro hac orabit ad te omnis sanctus, in tempore opportuno. Verumtamen in diluvio aquarum multarum, ad eum non approximabunt.
 
-7 Tu es refugium meum a tribulatione, quæ circumdedit me: exultatio mea erue me a circumdantibus me.
+7 Tu es refugium meum a tribulatione, quae circumdedit me: exultatio mea erue me a circumdantibus me.
 
 8 Intellectum tibi dabo, et instruam te in via hac, qua gradieris: firmabo super te oculos meos.
 
@@ -25,5 +25,5 @@ draft: false
 
 10 Multa flagella peccatoris, sperantem autem in Domino misericordia circumdabit.
 
-11 Lætamini in Domino et exultate iusti, et gloriamini omnes recti corde.
+11 Laetamini in Domino et exultate iusti, et gloriamini omnes recti corde.
 

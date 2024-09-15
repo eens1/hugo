@@ -19,19 +19,19 @@ draft: false
 
 7 Et surrexit, et abiit in domum suam.
 
-8 Videntes autem turbæ timuerunt, et glorificaverunt Deum, qui dedit potestatem talem hominibus.
+8 Videntes autem turbae timuerunt, et glorificaverunt Deum, qui dedit potestatem talem hominibus.
 
-9 Et, cum transiret inde Iesus, vidit hominem sedentem in telonio, Matthæum nomine. Et ait illi: Sequere me. Et surgens, secutus est eum.
+9 Et, cum transiret inde Iesus, vidit hominem sedentem in telonio, Matthaeum nomine. Et ait illi: Sequere me. Et surgens, secutus est eum.
 
 10 Et factum est discumbente eo in domo, ecce multi publicani, et peccatores venientes discumbebant cum Iesu, et discipulis eius.
 
-11 Et videntes Pharisæi, dicebant discipulis eius: Quare cum publicanis, et peccatoribus manducat Magister vester?
+11 Et videntes Pharisaei, dicebant discipulis eius: Quare cum publicanis, et peccatoribus manducat Magister vester?
 
 12 At Iesus audiens, ait: Non est opus valentibus medicus, sed male habentibus.
 
 13 Euntes autem discite quid est: Misericordiam volo, et non sacrificium. Non enim veni vocare iustos, sed peccatores.
 
-14 Tunc accesserunt ad eum discipuli Ioannis, dicentes: Quare nos, et Pharisæi ieiunamus frequenter: discipuli autem tui non ieiunant?
+14 Tunc accesserunt ad eum discipuli Ioannis, dicentes: Quare nos, et Pharisaei ieiunamus frequenter: discipuli autem tui non ieiunant?
 
 15 Et ait illis Iesus: Numquid possunt filii sponsi lugere, quamdiu cum illis est sponsus? Venient autem dies cum auferetur ab eis sponsus: et tunc ieiunabunt.
 
@@ -39,11 +39,11 @@ draft: false
 
 17 Neque mittunt vinum novum in utres veteres. alioquin rumpuntur utres, et vinum effunditur, et utres pereunt. Sed vinum novum in utres novos mittunt: et ambo conservantur.
 
-18 Hæc illo loquente ad eos, ecce princeps unus accessit, et adorabat eum, dicens: Domine, filia mea modo defuncta est: sed veni, impone manum tuam super eam, et vivet.
+18 Haec illo loquente ad eos, ecce princeps unus accessit, et adorabat eum, dicens: Domine, filia mea modo defuncta est: sed veni, impone manum tuam super eam, et vivet.
 
 19 Et surgens Iesus, sequebatur eum, et discipuli eius.
 
-20 Et ecce mulier, quæ sanguinis fluxum patiebatur duodecim annis, accessit retro, et tetigit fimbriam vestimenti eius.
+20 Et ecce mulier, quae sanguinis fluxum patiebatur duodecim annis, accessit retro, et tetigit fimbriam vestimenti eius.
 
 21 Dicebat enim intra se: Si tetigero tantum vestimentum eius: salva ero.
 
@@ -55,11 +55,11 @@ draft: false
 
 25 Et cum eiecta esset turba, intravit: et tenuit manum eius. Et surrexit puella.
 
-26 Et exiit fama hæc in universam terram illam.
+26 Et exiit fama haec in universam terram illam.
 
-27 Et transeunte inde Iesu, secuti sunt eum duo cæci, clamantes, et dicentes: Miserere nostri, fili David.
+27 Et transeunte inde Iesu, secuti sunt eum duo caeci, clamantes, et dicentes: Miserere nostri, fili David.
 
-28 Cum autem venisset domum, accesserunt ad eum cæci. Et dicit eis Iesus: Creditis quia hoc possum facere vobis? Dicunt ei: Utique, Domine.
+28 Cum autem venisset domum, accesserunt ad eum caeci. Et dicit eis Iesus: Creditis quia hoc possum facere vobis? Dicunt ei: Utique, Domine.
 
 29 Tunc tetigit oculos eorum, dicens: Secundum fidem vestram fiat vobis.
 
@@ -67,13 +67,13 @@ draft: false
 
 31 Illi autem exeuntes, diffamaverunt eum in tota terra illa.
 
-32 Egressis autem illis, ecce obtulerunt ei hominem mutum, dæmonium habentem.
+32 Egressis autem illis, ecce obtulerunt ei hominem mutum, daemonium habentem.
 
-33 Et eiecto dæmonio, locutus est mutus, et miratæ sunt turbæ, dicentes: Numquam apparuit sic in Israel.
+33 Et eiecto daemonio, locutus est mutus, et miratae sunt turbae, dicentes: Numquam apparuit sic in Israel.
 
-34 Pharisæi autem dicebant: In principe dæmoniorum eiicit dæmones.
+34 Pharisaei autem dicebant: In principe daemoniorum eiicit daemones.
 
-35 Et circuibat Iesus omnes civitates, et castella, docens in synagogis eorum, et prædicans evangelium regni, et curans omnem languorem, et omnem infirmitatem.
+35 Et circuibat Iesus omnes civitates, et castella, docens in synagogis eorum, et praedicans evangelium regni, et curans omnem languorem, et omnem infirmitatem.
 
 36 Videns autem turbas, misertus est eis: quia erant vexati, et iacentes sicut oves non habentes pastorem.
 

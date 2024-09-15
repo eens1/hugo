@@ -14,7 +14,7 @@ summary: |
 
 ***Note*** :  Sir. 4, 1 : Voir Tobie, 4, 7. ― Son aumône ; expression qui prouve que l’aumône est véritablement un bien dû aux pauvres ; et que par conséquent nous commettons une espèce de vol, lorsque nous leur refusons ce dont ils ont besoin, et qui nous est superflu. Les Pères de l’Eglise n’ont jamais donné à ce texte d’autre signification.
 
-2 Ne méprise pas une âme qui a faim : et n'exaspère pas un pauvre dans son indigence. 3 N'afflige point le cœur de celui qui manque de secours, et ne diffère pas de donner à celui qui est dans la détresse. 4 Ne rejette pas la demande de l'affligé; et ne détourne pas ta face de l'indigent. 5 Ne détourne pas tes yeux de celui qui manque de secours, à cause de sa colère ; et ne laisse pas ceux qui demandent te maudire en arrière ;
+2 Ne méprise pas une âme qui a faim : et n'exaspère pas un pauvre dans son indigence. 3 N'afflige point le coeur de celui qui manque de secours, et ne diffère pas de donner à celui qui est dans la détresse. 4 Ne rejette pas la demande de l'affligé; et ne détourne pas ta face de l'indigent. 5 Ne détourne pas tes yeux de celui qui manque de secours, à cause de sa colère ; et ne laisse pas ceux qui demandent te maudire en arrière ;
 
 ***Note*** :  Sir. 4, 5 : A cause de sa colère ; de peur qu’irrité, il ne prononce contre toi des malédictions qui ne seront pas sans effet. Les paroles suivantes et celles du verset 6 confirment ce sens ; cependant d’autres traduisent les paroles propter iram, par dans ta colère, par irritation, en les rapportant à mon fils (filii) du 1er verset ; d’autres, enfin, les entendent de la colère de Dieu.
 
@@ -76,13 +76,13 @@ summary: |
 ***Note*** :  Sir. 4, 28 : La parole ; c’est-à-dire tes avis, tes conseils. ― Dans un temps de salut ; lorsque cette parole pourrait être salutaire à ton prochain. Comparer au verset précédent. ― Dans sa beauté ; quand il est beau et glorieux pour elle de la faire connaître.
 
 
-29 Car c'est par la langue que la sagesse se fait connaître ; et le sens, la science et la doctrine par la parole de l'homme sensé, et sa fermeté par les œuvres de justice.
+29 Car c'est par la langue que la sagesse se fait connaître ; et le sens, la science et la doctrine par la parole de l'homme sensé, et sa fermeté par les oeuvres de justice.
 
 
 30 Ne contredis la parole de vérité en aucune manière, et rougis d'un mensonge échappé à ton ignorance.
 
 
-31 Ne rougis point de confesser tes péchés, et ne te soumets pas à tout homme pour le péché. 32 Ne résiste pas à la face d'un puissant, et ne lutte point contre le cours d'un fleuve. 33 Combats pour la justice, pour ton âme ; et jusqu'à la mort combats pour la justice, et Dieu vaincra pour toi tes ennemis. 34 Ne sois point prompt par la langue, et lâche et négligent dans tes œuvres. 35 Ne sois pas comme un lion dans ta maison, tourmentant tes serviteurs, et opprimant ceux qui te sont soumis. 36 Que ta main ne soit point ouverte pour recevoir et fermée pour donner.
+31 Ne rougis point de confesser tes péchés, et ne te soumets pas à tout homme pour le péché. 32 Ne résiste pas à la face d'un puissant, et ne lutte point contre le cours d'un fleuve. 33 Combats pour la justice, pour ton âme ; et jusqu'à la mort combats pour la justice, et Dieu vaincra pour toi tes ennemis. 34 Ne sois point prompt par la langue, et lâche et négligent dans tes oeuvres. 35 Ne sois pas comme un lion dans ta maison, tourmentant tes serviteurs, et opprimant ceux qui te sont soumis. 36 Que ta main ne soit point ouverte pour recevoir et fermée pour donner.
 
 ***Note*** :  Sir. 4, 36 : Que ta main, etc. Comparer à Actes des Apôtres, 20, 35.
 

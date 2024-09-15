@@ -63,11 +63,11 @@ summary: |
 15 Est-ce que tu régneras, parce que tu te compares au cèdre? ton père n'a-t-il pas mangé et bu, et rendu le jugement et la justice, alors que tout allait bien pour lui? 16 Et il a jugé la cause du pauvre et de l'indigent pour son propre bonheur; n'est-ce pas parce qu'il m'a connu, dit le Seigneur?
 
 
-17 Mais tes yeux et ton cœur sont portés seulement à l'avarice, à répandre le sang innocent, à la calomnie, et à courir après les mauvaises œuvres.
+17 Mais tes yeux et ton coeur sont portés seulement à l'avarice, à répandre le sang innocent, à la calomnie, et à courir après les mauvaises oeuvres.
 
 ***Note*** :  Jr. 22, 17 : Ton, seulement (ou si ce n’est) sont exprimés dans l’hébreu. ― Calomnie ; ou bien selon l’hébreu, injustice violente, oppression.
 
-18 A cause de cela, voici ce que dit le Seigneur à Joakim, fils de Josias et roi de Juda : On ne se désolera pas à son sujet, en disant : Malheur, frère ! Malheur, sœur! on ne fera pas retentir pour lui : Malheur, maître! Malheur, illustre!
+18 A cause de cela, voici ce que dit le Seigneur à Joakim, fils de Josias et roi de Juda : On ne se désolera pas à son sujet, en disant : Malheur, frère ! Malheur, soeur! on ne fera pas retentir pour lui : Malheur, maître! Malheur, illustre!
 
 ***Note*** :  Jr. 22, 18-19 : Voir plus haut, Jérémie, note 21. 2 ― Malheur, frère ! malheur, maître. Ce sont les cris de lamentation qu’on faisait entendre dans la cérémonie des funérailles. Voir plus loin, Jérémie, 34, 5 ; 3 Rois, 13, 30. ― Joakim. Le quatrième livre des Rois (voir 4 Rois, 24, 5) raconte sa mort, comme le fait remarquer saint Jérôme, mais il ne dit pas qu’il fut enseveli, parce qu’il fut privé de cet honneur.
 

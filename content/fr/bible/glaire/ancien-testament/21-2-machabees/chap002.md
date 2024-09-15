@@ -13,7 +13,7 @@ summary: |
 
 ***Note*** :  II Macc. 2, 1 : Dans les écrits, etc. Ces écrits étaient encore entre les mains des Juifs, lorsqu’ils écrivirent cette lettre ; mais on ne les trouve plus depuis fort longtemps dans les écrits qui nous restent de Jérémie.
 
-2 Et il leur donna la loi, afin qu'ils n'oubliassent pas les préceptes du Seigneur, et que leur esprit ne les égarât point, lorsqu'ils verraient les idoles d'or et d'argent et leurs ornements. 3 Et disant d'autres choses de cette sorte, il les exhortait à ne pas éloigner la loi de leur cœur.
+2 Et il leur donna la loi, afin qu'ils n'oubliassent pas les préceptes du Seigneur, et que leur esprit ne les égarât point, lorsqu'ils verraient les idoles d'or et d'argent et leurs ornements. 3 Et disant d'autres choses de cette sorte, il les exhortait à ne pas éloigner la loi de leur coeur.
 
 
 4 Il était aussi marqué, dans le même écrit, comment le prophète, une réponse divine lui ayant été faite, commanda qu'on apportât avec lui le tabernacle et l'arche, jusqu'à ce qu'il fût arrivé à la montagne, sur laquelle Moïse monta et vit l'héritage de Dieu.
@@ -26,7 +26,7 @@ summary: |
 
 8 Et alors le Seigneur montrera ces choses, et la majesté du Seigneur apparaîtra, et il y aura une nuée, et comme lorsque cette majesté était manifestée à Moïse et comme lorsque Salomon demanda que le temple fût sanctifié pour le grand Dieu, il les manifestait.
 
-***Note*** :  II Macc. 2, 8 : Comme lorsque Salomon, etc. Voir 3 Rois, 8, 11 ; 2 Paralipomènes, 6, 14. Il les manifestait, c’est-à-dire, le Seigneur manifestait ces choses (hæc), les choses mentionnées au commencement du verset.
+***Note*** :  II Macc. 2, 8 : Comme lorsque Salomon, etc. Voir 3 Rois, 8, 11 ; 2 Paralipomènes, 6, 14. Il les manifestait, c’est-à-dire, le Seigneur manifestait ces choses (haec), les choses mentionnées au commencement du verset.
 
 
 9 Car il relevait magnifiquement sa sagesse, et c'est comme un homme possédant la sagesse qu'il offrit le sacrifice de la dédicace et de la consommation du temple.
@@ -92,7 +92,7 @@ summary: |
 
 ***Note*** :  II Macc. 2, 24 : Jason le Cyrénéen. Sa personne et sa vie nous sont inconnues. On peut seulement admettre avec vraisemblance qu’étant de Cyrène, ville d’Afrique où les Juifs étaient nombreux et parlaient grec, il avait lui-même écrit en grec. Sur Cyrène, voir Actes des Apôtres, 2, 10.
 
-25 Car considérant la multitude des livres et la difficulté qu'il y a pour ceux qui veulent aborder les récits historiques, à cause de la multitude des choses, 26 Nous avons mis nos soins à ce que notre travail fût pour ceux qui voudraient bien le lire un amusement d'esprit; de manière cependant que les hommes studieux pussent plus facilement le confier à la mémoire; et que, pour tous ceux qui le liraient, il eût de l'utilité. 27 Or, quant à nous, qui nous sommes chargés d'abréger cet ouvrage, ce n'est pas un travail facile que nous avons entrepris, au contraire, c'est une œuvre pleine de veilles et de sueur. 28 Comme ceux qui préparent un festin cherchent à se rendre au désir des autres, ainsi, en faveur d'un grand nombre, nous entreprenons volontiers ce travail.
+25 Car considérant la multitude des livres et la difficulté qu'il y a pour ceux qui veulent aborder les récits historiques, à cause de la multitude des choses, 26 Nous avons mis nos soins à ce que notre travail fût pour ceux qui voudraient bien le lire un amusement d'esprit; de manière cependant que les hommes studieux pussent plus facilement le confier à la mémoire; et que, pour tous ceux qui le liraient, il eût de l'utilité. 27 Or, quant à nous, qui nous sommes chargés d'abréger cet ouvrage, ce n'est pas un travail facile que nous avons entrepris, au contraire, c'est une oeuvre pleine de veilles et de sueur. 28 Comme ceux qui préparent un festin cherchent à se rendre au désir des autres, ainsi, en faveur d'un grand nombre, nous entreprenons volontiers ce travail.
 
 ***Note*** :  II Macc. 2, 28 : L’auteur semble faire allusion à la coutume reçue chez les anciens, de choisir dans les festins quelqu’un d’entre eux pour avoir son de préparer tout ce qui était nécessaire pour le festin et de faire ensuite que chacun des conviés fut content.
 

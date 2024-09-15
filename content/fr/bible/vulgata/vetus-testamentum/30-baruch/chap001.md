@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Et hæc verba libri, quæ scripsit Baruch filius Neriæ, filii Maasiæ, filii Sedeciæ, filii Sedei, filii Helciæ in Babylonia,
+1 Et haec verba libri, quae scripsit Baruch filius Neriae, filii Maasiae, filii Sedeciae, filii Sedei, filii Helciae in Babylonia,
 
-2 in anno quinto, in septimo die mensis, in tempore quo ceperunt Chaldæi Ierusalem, et succenderunt eam igni.
+2 in anno quinto, in septimo die mensis, in tempore quo ceperunt Chaldaei Ierusalem, et succenderunt eam igni.
 
-3 Et legit Baruch verba libri huius ad aures Iechoniæ filii Ioakim regis Iuda, et ad aures universi populi venientis ad librum,
+3 Et legit Baruch verba libri huius ad aures Iechoniae filii Ioakim regis Iuda, et ad aures universi populi venientis ad librum,
 
 4 et ad aures potentium filiorum regum, et ad aures presbyterorum, et ad aures populi, a minimo usque ad maximum eorum omnium habitantium in Babylonia, ad flumen Sodi.
 
@@ -17,15 +17,15 @@ draft: false
 
 6 Et collegerunt pecuniam secundum quod potuit uniuscuiusque manus,
 
-7 et miserunt in Ierusalem ad Ioakim filium Helciæ filii Salom sacerdotem, et ad Sacerdotes, et ad omnem populum, qui inventi sunt cum eo in Ierusalem:
+7 et miserunt in Ierusalem ad Ioakim filium Helciae filii Salom sacerdotem, et ad Sacerdotes, et ad omnem populum, qui inventi sunt cum eo in Ierusalem:
 
-8 cum acciperet vasa templi Domini, quæ ablata fuerant de templo, revocare in Terram Iuda decima die mensis Sivan, vasa argentea, quæ fecit Sedecias filius Iosiæ rex Iuda,
+8 cum acciperet vasa templi Domini, quae ablata fuerant de templo, revocare in Terram Iuda decima die mensis Sivan, vasa argentea, quae fecit Sedecias filius Iosiae rex Iuda,
 
-9 posteaquam cepisset Nabuchodonosor rex Babylonis Iechoniam, et principes, et cunctos potentes, et populum terræ ab Ierusalem, et duxit eos vinctos in Babylonem.
+9 posteaquam cepisset Nabuchodonosor rex Babylonis Iechoniam, et principes, et cunctos potentes, et populum terrae ab Ierusalem, et duxit eos vinctos in Babylonem.
 
 10 Et dixerunt: Ecce misimus ad vos pecunias, de quibus emite holocautomata, et thus, et facite manna, et offerte pro peccato ad aram Domini Dei nostri:
 
-11 et orate pro vita Nabuchodonosor regis Babylonis, et pro vita Baltasar filii eius ut sint dies eorum sicut dies cæli super terram:
+11 et orate pro vita Nabuchodonosor regis Babylonis, et pro vita Baltasar filii eius ut sint dies eorum sicut dies caeli super terram:
 
 12 et ut det Dominus virtutem nobis, et illuminet oculos nostros ut vivamus sub umbra Nabuchodonosor regis Babylonis, et sub umbra Baltasar filii eius, et serviamus eis multis diebus, et inveniamus gratiam in conspectu eorum.
 
@@ -33,17 +33,17 @@ draft: false
 
 14 Et legite librum istum, quem misimus ad vos recitari in templo Domini, in die sollemni, et in die opportuno:
 
-15 et dicetis: Domino Deo nostro iustitia, nobis autem confusio faciei nostræ, sicut est dies hæc omni Iuda, et habitantibus in Ierusalem,
+15 et dicetis: Domino Deo nostro iustitia, nobis autem confusio faciei nostrae, sicut est dies haec omni Iuda, et habitantibus in Ierusalem,
 
 16 Regibus nostris, et principibus nostris, et sacerdotibus nostris, et prophetis nostris, et patribus nostris.
 
 17 Peccavimus ante Dominum Deum nostrum, et non credidimus, diffidentes in eum:
 
-18 et non fuimus subiectibiles illi, et non audivimus vocem Domini Dei nostri ut ambularemus in mandatis eius, quæ dedit nobis.
+18 et non fuimus subiectibiles illi, et non audivimus vocem Domini Dei nostri ut ambularemus in mandatis eius, quae dedit nobis.
 
-19 A die, qua eduxit patres nostros de Terra Ægypti usque ad diem hanc, eramus incredibiles ad Dominum Deum nostrum: et dissipati recessimus, ne audiremus vocem ipsius.
+19 A die, qua eduxit patres nostros de Terra AEgypti usque ad diem hanc, eramus incredibiles ad Dominum Deum nostrum: et dissipati recessimus, ne audiremus vocem ipsius.
 
-20 Et adhæserunt nobis multa mala, et maledictiones, quæ constituit Dominus Moysi servo suo: qui eduxit patres nostros de Terra Ægypti, dare nobis terram fluentem lac et mel, sicut hodierna die.
+20 Et adhaeserunt nobis multa mala, et maledictiones, quae constituit Dominus Moysi servo suo: qui eduxit patres nostros de Terra AEgypti, dare nobis terram fluentem lac et mel, sicut hodierna die.
 
 21 Et non audivimus vocem Domini Dei nostri secundum omnia verba prophetarum, quos misit ad nos:
 

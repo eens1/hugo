@@ -19,9 +19,9 @@ summary: |
 
 ***Note*** :  Josué 14, 6 : Voir Nombres, 14, 24. ― Cadèsbarné. Voir Nombres, 20, 1.
 
-7 J'avais quarante ans, lorsque Moïse, serviteur du Seigneur, m'envoya de Cadesbarné, pour considérer la terre, et que je lui rapportai ce qui me paraissait vrai. 8 Mais mes frères qui étaient montés avec moi, ont dissous le cœur du peuple ; et néanmoins moi, je suivis le Seigneur mon Dieu.
+7 J'avais quarante ans, lorsque Moïse, serviteur du Seigneur, m'envoya de Cadesbarné, pour considérer la terre, et que je lui rapportai ce qui me paraissait vrai. 8 Mais mes frères qui étaient montés avec moi, ont dissous le coeur du peuple ; et néanmoins moi, je suivis le Seigneur mon Dieu.
 
-***Note*** :  Josué 14, 8 : Ont dissous le cœur du peuple, en y jetant l’épouvante.
+***Note*** :  Josué 14, 8 : Ont dissous le coeur du peuple, en y jetant l’épouvante.
 
 9 Et Moïse jura en ce jour-là, disant : La terre que ton pied a foulée sera ta possession et la possession de tes enfants pour toujours, parce que tu as suivi le Seigneur mon Dieu. 10 Le Seigneur m'a donc accordé la vie, comme il a promis jusqu'au présent jour. Il y a quarante-cinq ans que le Seigneur dit cette parole à Moïse, quand Israël allait à travers le désert : aujourd'hui j'ai quatre vingt-cinq ans. 11 Aussi fort que je l'étais au temps que je fus envoyé pour explorer le pays : la vigueur de ce temps-là a persévéré jusqu'aujourd'hui, tant pour combattre que pour marcher.
 

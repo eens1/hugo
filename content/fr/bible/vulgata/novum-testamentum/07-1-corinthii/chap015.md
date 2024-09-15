@@ -5,15 +5,15 @@ draft: false
 ---
 
 
-1 Notum autem vobis facio, fratres, Evangelium, quod prædicavi vobis, quod et accepistis, in quo et statis,
+1 Notum autem vobis facio, fratres, Evangelium, quod praedicavi vobis, quod et accepistis, in quo et statis,
 
-2 per quod et salvamini: qua ratione prædicaverim vobis, si tenetis, nisi frustra credidistis.
+2 per quod et salvamini: qua ratione praedicaverim vobis, si tenetis, nisi frustra credidistis.
 
 3 Tradidi enim vobis in primis quod et accepi: quoniam Christus mortuus est pro peccatis nostris secundum Scripturas:
 
 4 et quia sepultus est, et quia resurrexit tertia die secundum Scripturas:
 
-5 et quia visus est Cephæ, et post hoc undecim:
+5 et quia visus est Cephae, et post hoc undecim:
 
 6 Deinde visus est plus quam quingentis fratribus simul: ex quibus multi manent usque adhuc, quidam autem dormierunt:
 
@@ -25,13 +25,13 @@ draft: false
 
 10 Gratia autem Dei sum id, quod sum, et gratia eius in me vacua non fuit, sed abundantius illis omnibus laboravi: non ego autem, sed gratia Dei mecum:
 
-11 Sive enim ego, sive illi: sic prædicamus, et sic credidistis.
+11 Sive enim ego, sive illi: sic praedicamus, et sic credidistis.
 
-12 Si autem Christus prædicatur quod resurrexit a mortuis, quomodo quidam dicunt in vobis, quoniam resurrectio mortuorum non est?
+12 Si autem Christus praedicatur quod resurrexit a mortuis, quomodo quidam dicunt in vobis, quoniam resurrectio mortuorum non est?
 
 13 Si autem resurrectio mortuorum non est: neque Christus resurrexit.
 
-14 Si autem Christus non resurrexit, inanis est ergo prædicatio nostra, inanis est et fides vestra:
+14 Si autem Christus non resurrexit, inanis est ergo praedicatio nostra, inanis est et fides vestra:
 
 15 invenimur autem et falsi testes Dei: quoniam testimonium diximus adversus Deum quod suscitaverit Christum, quem non suscitavit, si mortui non resurgunt.
 
@@ -43,13 +43,13 @@ draft: false
 
 19 Si in hac vita tantum in Christo sperantes sumus, miserabiliores sumus omnibus hominibus.
 
-20 Nunc autem Christus resurrexit a mortuis primitiæ dormientium,
+20 Nunc autem Christus resurrexit a mortuis primitiae dormientium,
 
 21 quoniam quidem per hominem mors, et per hominem resurrectio mortuorum.
 
 22 Et sicut in Adam omnes moriuntur, ita et in Christo omnes vivificabuntur.
 
-23 Unusquisque autem in suo ordine, primitiæ Christus: deinde ii, qui sunt Christi, qui in adventu eius crediderunt.
+23 Unusquisque autem in suo ordine, primitiae Christus: deinde ii, qui sunt Christi, qui in adventu eius crediderunt.
 
 24 Deinde finis: cum tradiderit regnum Deo et Patri, cum evacuaverit omnem principatum, et potestatem, et virtutem.
 
@@ -57,7 +57,7 @@ draft: false
 
 26 Novissima autem inimica destruetur mors: Omnia enim subiecit pedibus eius. Cum autem dicat:
 
-27 Omnia subiecta sunt ei, sine dubio præter eum, qui subiecit ei omnia.
+27 Omnia subiecta sunt ei, sine dubio praeter eum, qui subiecit ei omnia.
 
 28 Cum autem subiecta fuerint illi omnia: tunc et ipse Filius subiectus erit ei, qui subiecit sibi omnia, ut sit Deus omnia in omnibus.
 
@@ -83,9 +83,9 @@ draft: false
 
 39 Non omnis caro, eadem caro: sed alia quidem hominum, alia vero pecorum, alia volucrum, alia autem piscium.
 
-40 Et corpora cælestia, et corpora terrestria: sed alia quidem cælestium gloria, alia autem terrestrium:
+40 Et corpora caelestia, et corpora terrestria: sed alia quidem caelestium gloria, alia autem terrestrium:
 
-41 Alia claritas solis, alia claritas lunæ, et alia claritas stellarum. Stella enim a stella differt in claritate:
+41 Alia claritas solis, alia claritas lunae, et alia claritas stellarum. Stella enim a stella differt in claritate:
 
 42 sic et resurrectio mortuorum. Seminatur in corruptione, surget in incorruptione.
 
@@ -97,11 +97,11 @@ draft: false
 
 46 Sed non prius quod spiritale est, sed quod animale: deinde quod spiritale.
 
-47 Primus homo de terra, terrenus: secundus homo de cælo, cælestis.
+47 Primus homo de terra, terrenus: secundus homo de caelo, caelestis.
 
-48 Qualis terrenus, tales et terreni: et qualis cælestis, tales et cælestes.
+48 Qualis terrenus, tales et terreni: et qualis caelestis, tales et caelestes.
 
-49 Igitur, sicut portavimus imaginem terreni, portemus et imaginem cælestis.
+49 Igitur, sicut portavimus imaginem terreni, portemus et imaginem caelestis.
 
 50 Hoc autem dico, fratres: quia caro et sanguis regnum Dei possidere non possunt: neque corruptio incorruptelam possidebit.
 

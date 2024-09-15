@@ -9,7 +9,7 @@ draft: false
 
 2 Et non intres in iudicium cum servo tuo: quia non iustificabitur in conspectu tuo omnis vivens.
 
-3 Quia persecutus est inimicus animam meam: humiliavit in terra vitam meam. Collocavit me in obscuris sicut mortuos sæculi:
+3 Quia persecutus est inimicus animam meam: humiliavit in terra vitam meam. Collocavit me in obscuris sicut mortuos saeculi:
 
 4 et anxiatus est super me spiritus meus, in me turbatum est cor meum.
 
@@ -25,7 +25,7 @@ draft: false
 
 10 doce me facere voluntatem tuam, quia Deus meus es tu. Spiritus tuus bonus deducet me in terram rectam:
 
-11 propter nomen tuum Domine vivificabis me, in æquitate tua. Educes de tribulatione animam meam:
+11 propter nomen tuum Domine vivificabis me, in aequitate tua. Educes de tribulatione animam meam:
 
 12 et in misericordia tua disperdes inimicos meos. Et perdes omnes, qui tribulant animam meam: quoniam ego servus tuus sum.
 

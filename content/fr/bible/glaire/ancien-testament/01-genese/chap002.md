@@ -11,7 +11,7 @@ summary: |
 ---
 
 
-1 Ainsi furent achevés les cieux et la terre, et tout leur ornement. 2 Et Dieu eut accompli son œuvre le septième jour : et il se reposa le septième jour de tous les ouvrages qu'il avait faits.
+1 Ainsi furent achevés les cieux et la terre, et tout leur ornement. 2 Et Dieu eut accompli son oeuvre le septième jour : et il se reposa le septième jour de tous les ouvrages qu'il avait faits.
 
 ***Note*** :  Gn. 2, 2 : Voir Exode, 20, 11 ; 31, 17 ; Deutéronome, 5, 14 ; Hébreux, 4, 4.
 

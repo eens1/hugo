@@ -36,9 +36,9 @@ summary: |
 
 ***Note*** :  Is. 52, 7 : Voir Nahum, 1, 15. ― Qu’ils sont beaux, etc. Saint Paul applique ceci à la mission des prédicateurs de l’Evangile (voir Romains, 10, 15).
 
-8 La voix de tes sentinelles; elles ont élevé la voix, elles chanteront ensemble des louanges ; parce qu'oeil à œil elles verront, lorsque le Seigneur convertira Sion.
+8 La voix de tes sentinelles; elles ont élevé la voix, elles chanteront ensemble des louanges ; parce qu'oeil à oeil elles verront, lorsque le Seigneur convertira Sion.
 
-***Note*** :  Is. 52, 8 : La voix de tes sentinelles ; exclamation pour introduire le sujet du discours. ― Œil à œil ; de très près ; synonyme de face à face. Aussi la Vulgate elle-même a-t-elle traduit ailleurs (voir Nombres, 14, 14) par face à face, l’hébreu œil à œil.
+***Note*** :  Is. 52, 8 : La voix de tes sentinelles ; exclamation pour introduire le sujet du discours. ― OEil à oeil ; de très près ; synonyme de face à face. Aussi la Vulgate elle-même a-t-elle traduit ailleurs (voir Nombres, 14, 14) par face à face, l’hébreu oeil à oeil.
 
 
 9 Réjouissez-vous et chantez des louanges ensemble, déserts de Jérusalem; parce que le Seigneur a consolé son peuple, qu'il a racheté Jérusalem. 10 Le Seigneur a préparé son bras saint aux yeux de toutes les nations; et ils verront tous les confins de la terre, le salut de notre Dieu.

@@ -21,7 +21,7 @@ summary: |
 3 L'homme sensé croit à la loi de Dieu, et la loi lui est fidèle.
 
 
-4 Celui qui éclaircit une question préparera son discours ; et ayant ainsi prié, il sera exaucé, il conservera la discipline, et alors il répondra. 5 Le cœur de l'insensé est comme la roue d'un chariot, et comme un essieu mobile est sa pensée.
+4 Celui qui éclaircit une question préparera son discours ; et ayant ainsi prié, il sera exaucé, il conservera la discipline, et alors il répondra. 5 Le coeur de l'insensé est comme la roue d'un chariot, et comme un essieu mobile est sa pensée.
 
 ***Note*** :  Sir. 33, 5 : Voir Ecclésiastique, 21, 17.
 
@@ -49,7 +49,7 @@ summary: |
 
 ***Note*** :  Sir. 33, 13 : Voir Romains, 9, 21.
 
-14 Toutes les formes qu'elle prend, sont selon qu'il la dispose ; ainsi l'homme est dans la main de celui qui l'a fait, et qui lui rendra selon son juste jugement. 15 Contre le mal est le bien, et contre la mort, la vie; ainsi aussi contre l'homme juste est le pécheur. Et considère ainsi toutes les œuvres du Très-Haut. Elles sont deux à deux, et l'une contre l'autre.
+14 Toutes les formes qu'elle prend, sont selon qu'il la dispose ; ainsi l'homme est dans la main de celui qui l'a fait, et qui lui rendra selon son juste jugement. 15 Contre le mal est le bien, et contre la mort, la vie; ainsi aussi contre l'homme juste est le pécheur. Et considère ainsi toutes les oeuvres du Très-Haut. Elles sont deux à deux, et l'une contre l'autre.
 
 ***Note*** :  Sir. 33, 15 : Elles sont deux à deux, etc. Dans la nature, en effet, chaque chose est comme composée de deux, dont l’une est l’opposé de l’autre ; ainsi la nuit et le jour, le mal et le bien, la mort et la vie, le pécheur et le juste, etc.
 
@@ -67,7 +67,7 @@ summary: |
 
 ***Note*** :  Sir. 33, 22 : Que de regarder, etc. ; pour en attendre quelques secours.
 
-23 Dans toutes tes œuvres, sois le principal.
+23 Dans toutes tes oeuvres, sois le principal.
 
 
 24 Ne fais pas de tache à ta gloire. Au jour de la consommation des jours de ta vie, et au temps de ta mort, distribue ton héritage. 25 Le fourrage et la verge et le fardeau à l'âne ; le pain et la correction et le travail à l'esclave. 26 Il travaillera avec la correction, et il cherche à se reposer; lâche-lui la main, et il cherche la liberté;

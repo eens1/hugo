@@ -7,7 +7,7 @@ draft: false
 
 1 Paulus vinctus Christi Iesu, et Timotheus frater: Philemoni dilecto, et adiutori nostro,
 
-2 et Appiæ sorori charissimæ, et Archippo commilitoni nostro, et Ecclesiæ, quæ in domo tua est.
+2 et Appiae sorori charissimae, et Archippo commilitoni nostro, et Ecclesiae, quae in domo tua est.
 
 3 Gratia vobis, et pax a Deo Patre nostro, et Domino Iesu Christo.
 
@@ -15,7 +15,7 @@ draft: false
 
 5 audiens charitatem tuam, et fidem, quam habes in Domino Iesu, et in omnes sanctos:
 
-6 ut communicatio fidei tuæ evidens fiat in agnitione omnis operis boni, quod est in vobis in Christo Iesu.
+6 ut communicatio fidei tuae evidens fiat in agnitione omnis operis boni, quod est in vobis in Christo Iesu.
 
 7 Gaudium enim magnum habui, et consolationem in charitate tua: quia viscera sanctorum requieverunt per te, frater.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 sine consilio autem tuo nihil volui facere, uti ne velut ex necessitate bonum tuum esset, sed voluntarium.
 
-15 Forsitan enim ideo discessit ad horam a te, ut æternum illum reciperes:
+15 Forsitan enim ideo discessit ad horam a te, ut aeternum illum reciperes:
 
 16 iam non ut servum, sed pro servo charissimum fratrem, maxime mihi: quanto autem magis tibi et in carne, et in Domino?
 

@@ -18,7 +18,7 @@ summary: |
 
 ***Note*** :  Sg. 12, 3 : Voir Deutéronome, 9, vv. 2, 12, 29 ; 18, 12. ― Ces anciens habitants, etc. ; c’est-à-dire les Chananéens.
 
-4 Parce qu'ils faisaient des œuvres odieuses à vos yeux par des enchantements, et des sacrifices injustes;
+4 Parce qu'ils faisaient des oeuvres odieuses à vos yeux par des enchantements, et des sacrifices injustes;
 
 ***Note*** :  Sg. 12, 4-5 : On ne saurait taxer de faux l’auteur de la Sagesse dans les détails qu’il donne ici des crimes des Chananéens, et dont les anciennes Ecritures ne chargent pas ce peuple. On sait que plusieurs peuples de Chananéens immolaient leurs propres enfants aux fausses divinités. On sait encore que dans la plupart des sacrifices la coutume était de manger quelque partie de la victime offerte ; il est donc très vraisemblable que ceux qui immolaient des victimes humaines aient porté l’excès jusqu’à manger quelque partie de ces victimes. Ainsi, quoique dans les autres endroits de l’Ecriture, où il est parlé de Chananéens, il ne soit rien dit de cette coutume abominable de manger les entrailles des hommes et de dévorer leur sang, ce n’est pas une raison suffisante pour rejeter le témoignage de l’auteur de ce livre, lorsqu’il assure positivement cette abomination et cette horreur.
 
@@ -52,7 +52,7 @@ summary: |
 ***Note*** :  Sg. 12, 18 : De pouvoir ; c’est-à-dire d’exercer votre pouvoir, d’user de votre puissance.
 
 
-19 Or, vous avez appris à votre peuple par de telles œuvres, qu'il faut être juste et humain; et vous avez donné à vos enfants une bonne espérance, puisqu'en les jugeant, vous laissez au milieu de leurs péchés place au repentir. 20 Car, si vous avez puni avec tant de précaution les ennemis de vos serviteurs et ceux qui étaient dus à la mort, leur donnant le temps et le lieu de pouvoir se convertir de leur malice, 21 Avec combien de circonspection avez-vous jugé vos enfants, aux pères desquels vous avez fait de bonnes promesses par serment et par convention? 22 Lors donc que vous nous corrigez, vous frappez nos ennemis de coups multipliés, afin que nous considérions attentivement votre bonté, et que, lorsque nous sommes en jugement, nous espérions votre miséricorde.
+19 Or, vous avez appris à votre peuple par de telles oeuvres, qu'il faut être juste et humain; et vous avez donné à vos enfants une bonne espérance, puisqu'en les jugeant, vous laissez au milieu de leurs péchés place au repentir. 20 Car, si vous avez puni avec tant de précaution les ennemis de vos serviteurs et ceux qui étaient dus à la mort, leur donnant le temps et le lieu de pouvoir se convertir de leur malice, 21 Avec combien de circonspection avez-vous jugé vos enfants, aux pères desquels vous avez fait de bonnes promesses par serment et par convention? 22 Lors donc que vous nous corrigez, vous frappez nos ennemis de coups multipliés, afin que nous considérions attentivement votre bonté, et que, lorsque nous sommes en jugement, nous espérions votre miséricorde.
 
 
 23 De là vient qu'à ceux qui ont vécu en insensés et injustement, vous avez fait souffrir les plus grands tourments par les choses mêmes qu'ils adoraient.

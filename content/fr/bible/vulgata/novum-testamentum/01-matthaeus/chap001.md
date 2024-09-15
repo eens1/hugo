@@ -15,7 +15,7 @@ draft: false
 
 5 Salmon autem genuit Booz de Rahab. Booz autem genuit Obed ex Ruth. Obed autem genuit Iesse. Iesse autem genuit David regem.
 
-6 David autem rex genuit Salomonem ex ea, quæ fuit Uriæ.
+6 David autem rex genuit Salomonem ex ea, quae fuit Uriae.
 
 7 Salomon autem genuit Roboam. Roboam autem genuit Abiam. Abias autem genuit Asa.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 Eliud autem genuit Eleazar. Eleazar autem genuit Mathan. Mathan autem genuit Iacob.
 
-16 Iacob autem genuit Ioseph virum Mariæ, de qua natus est Iesus, qui vocatur Christus.
+16 Iacob autem genuit Ioseph virum Mariae, de qua natus est Iesus, qui vocatur Christus.
 
 17 Omnes itaque generationes ab Abraham usque ad David, generationes quattuordecim: et a David usque ad transmigrationem Babylonis, generationes quattuordecim: et a transmigratione Bayblonis usque ad Christum, generationes quattuordecim.
 
@@ -43,7 +43,7 @@ draft: false
 
 19 Ioseph autem vir eius cum esset iustus, et nollet eam traducere: voluit occulte dimittere eam.
 
-20 Hæc autem eo cogitante, ecce Angelus Domini apparuit in somnis ei, dicens: Ioseph fili David, noli timere accipere Mariam coniugem tuam: quod enim in ea natum est, de Spiritu sancto est.
+20 Haec autem eo cogitante, ecce Angelus Domini apparuit in somnis ei, dicens: Ioseph fili David, noli timere accipere Mariam coniugem tuam: quod enim in ea natum est, de Spiritu sancto est.
 
 21 pariet autem filium: et vocabis nomen eius IESUM: ipse enim salvum faciet populum suum a peccatis eorum.
 
@@ -51,7 +51,7 @@ draft: false
 
 23 Ecce virgo in utero habebit, et pariet filium. et vocabunt nomen eius Emmanuel, quod est interpretatum Nobiscum Deus.
 
-24 Exurgens autem Ioseph a somno, fecit sicut præcepit ei angelus Domini, et accepit coniugem suam.
+24 Exurgens autem Ioseph a somno, fecit sicut praecepit ei angelus Domini, et accepit coniugem suam.
 
 25 Et non cognoscebat eam donec peperit filium suum primogenitum: et vocavit nomen eius Iesum.
 

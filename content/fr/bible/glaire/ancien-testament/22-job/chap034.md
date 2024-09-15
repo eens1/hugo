@@ -36,11 +36,11 @@ summary: |
 ***Note*** :  Job 34, 9 : Il aurait couru avec lui, dans ses voies ; hébraïsme, pour se conformer à ses désirs, ne faire que sa volonté.
 
 
-10 C'est pourquoi, hommes sensés, écoutez-moi : Loin de Dieu l'impiété, et loin du Tout-Puissant l'iniquité!11 Car il rendra à l'homme selon ses œuvres, et il traitera chacun selon ses voies. 12 Certainement Dieu ne condamnera pas sans sujet, et le Tout-Puissant ne détruira pas le bon droit.
+10 C'est pourquoi, hommes sensés, écoutez-moi : Loin de Dieu l'impiété, et loin du Tout-Puissant l'iniquité!11 Car il rendra à l'homme selon ses oeuvres, et il traitera chacun selon ses voies. 12 Certainement Dieu ne condamnera pas sans sujet, et le Tout-Puissant ne détruira pas le bon droit.
 
 ***Note*** :  Job 34, 12 : Le bon droit. Voir le verset 5.
 
-13 Quel autre que lui a-t-il constitué sur la terre? ou qui a-t-il établi sur l'univers, qu'il a formé? 14 S'il dirigeait vers lui son cœur, il attirerait à soi son esprit et son souffle. 15 Toute chair périrait en même temps, et l'homme retournerait en cendre.
+13 Quel autre que lui a-t-il constitué sur la terre? ou qui a-t-il établi sur l'univers, qu'il a formé? 14 S'il dirigeait vers lui son coeur, il attirerait à soi son esprit et son souffle. 15 Toute chair périrait en même temps, et l'homme retournerait en cendre.
 
 
 16 Si donc tu as l'intelligence, écoute ce que l'on dit, et sois attentif à mes paroles. 17 Est-ce que celui qui n'aime pas la justice, peut être guéri? et comment toi condamnes-tu si hautement celui qui est juste?
@@ -59,7 +59,7 @@ summary: |
 
 ***Note*** :  Job 34, 20 : Sans la main de l’homme ; sans que la main d’un homme le frappe, parce que Dieu lui-même l’enlève par la maladie, etc.
 
-21 Car les yeux de Dieu sont sur les voies des hommes, et il considère tous leurs pas. 22 Il n'y a pas de ténèbres, et il n'y a pas d'ombre de mort, où puissent se cacher ceux qui opèrent l'iniquité. 23 Car il n'est plus au pouvoir de l'homme de venir devant Dieu en jugement. 24 Il en brisera une multitude innombrable, et il en établira d'autres à leur place. 25 Car il connaît leurs œuvres, et c'est pourquoi il fera venir la nuit, et ils seront brisés. 26 Il les a frappés comme impies, dans un lieu où on les voyait. 27 Eux qui, de propos délibéré, se sont retirés de lui, et n'ont pas voulu comprendre toutes ses voies;
+21 Car les yeux de Dieu sont sur les voies des hommes, et il considère tous leurs pas. 22 Il n'y a pas de ténèbres, et il n'y a pas d'ombre de mort, où puissent se cacher ceux qui opèrent l'iniquité. 23 Car il n'est plus au pouvoir de l'homme de venir devant Dieu en jugement. 24 Il en brisera une multitude innombrable, et il en établira d'autres à leur place. 25 Car il connaît leurs oeuvres, et c'est pourquoi il fera venir la nuit, et ils seront brisés. 26 Il les a frappés comme impies, dans un lieu où on les voyait. 27 Eux qui, de propos délibéré, se sont retirés de lui, et n'ont pas voulu comprendre toutes ses voies;
 
 ***Note*** :  Job 34, 27 : Toutes ses voies. C’est ainsi qu’on traduit généralement ; selon nous, il serait plus exact de dire : Nulle, aucune de ses voies ; parce que, comme nous en avons déjà fait la remarque, le mot tout en hébreu, étant joint à une négation, signifie nul, aucun.
 

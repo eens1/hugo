@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 In lectulo meo per noctes quæsivi quem diligit anima mea: quæsivi illum, et non inveni.
+1 In lectulo meo per noctes quaesivi quem diligit anima mea: quaesivi illum, et non inveni.
 
-2 Surgam, et circuibo civitatem: per vicos et plateas quæram quem diligit anima mea: quæsivi illum, et non inveni.
+2 Surgam, et circuibo civitatem: per vicos et plateas quaeram quem diligit anima mea: quaesivi illum, et non inveni.
 
 3 Invenerunt me vigiles, qui custodiunt civitatem: Num quem diligit anima mea, vidistis?
 
-4 Paululum cum pertransissem eos, inveni quem diligit anima mea: tenui eum, nec dimittam donec introducam illum in domum matris meæ, et in cubiculum genetricis meæ.
+4 Paululum cum pertransissem eos, inveni quem diligit anima mea: tenui eum, nec dimittam donec introducam illum in domum matris meae, et in cubiculum genetricis meae.
 
-5 Adiuro vos filiæ Ierusalem per capreas, cervosque camporum, ne suscitetis, neque evigilare faciatis dilectam donec ipsa velit.
+5 Adiuro vos filiae Ierusalem per capreas, cervosque camporum, ne suscitetis, neque evigilare faciatis dilectam donec ipsa velit.
 
-6 Quæ est ista, quæ ascendit per desertum sicut virgula fumi ex aromatibus myrrhæ, et thuris, et universi pulveris pigmentarii?
+6 Quae est ista, quae ascendit per desertum sicut virgula fumi ex aromatibus myrrhae, et thuris, et universi pulveris pigmentarii?
 
 7 En lectulum Salomonis sexaginta fortes ambiunt ex fortissimis Israel:
 
@@ -25,5 +25,5 @@ draft: false
 
 10 columnas eius fecit argenteas, reclinatorium aureum, ascensum purpureum: media charitate constravit propter filias Ierusalem:
 
-11 Egredimini et videte filiæ Sion regem Salomonem in diademate, quo coronavit illum mater sua in die desponsationis illius, et in die lætitiæ cordis eius.
+11 Egredimini et videte filiae Sion regem Salomonem in diademate, quo coronavit illum mater sua in die desponsationis illius, et in die laetitiae cordis eius.
 

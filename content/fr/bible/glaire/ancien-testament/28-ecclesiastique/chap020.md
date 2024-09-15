@@ -80,7 +80,7 @@ summary: |
 ***Note*** :  Sir. 20, 27 : Un voleur, etc. Le voleur, est, en effet, moins dangereux et moins nuisible que le menteur. Car celui-là vole l’argent, mais celui-ci fait perdre la réputation, qui est plus précieuse que les richesses. D’ailleurs l’habitude du mensonge fait que le menteur n’épargne personne, et qu’on ne peut jamais se fier à lui.
 
 
-28 Les mœurs des hommes menteurs sont sans honneur; et leur confusion sera avec eux sans intermission.
+28 Les moeurs des hommes menteurs sont sans honneur; et leur confusion sera avec eux sans intermission.
 
 
 29 Le sage se produira par ses paroles, et l'homme prudent plaira aux grands. 30 Celui qui cultive sa terre élèvera un monceau de fruits; et celui qui pratique la justice sera exalté ; mais celui qui plaît aux grands fuira l'iniquité.

@@ -22,7 +22,7 @@ summary: |
 
 ***Note*** :  Jr. 19, 4 : Ils ont rendu, etc. , par leur culte rendu à des dieux étrangers.
 
-5 Et ils ont bâti des hauts lieux de Baalim pour brûler leurs enfants au feu en holocaustes aux Baalim; choses que je ne leur avais pas ordonnées, ni dites, et qui ne sont pas montées dans mon cœur.
+5 Et ils ont bâti des hauts lieux de Baalim pour brûler leurs enfants au feu en holocaustes aux Baalim; choses que je ne leur avais pas ordonnées, ni dites, et qui ne sont pas montées dans mon coeur.
 
 ***Note*** :  Jr. 19, 5 : Baalim. Voir Jérémie, 2, 23. ― Ne sont pas montées, etc. Comparer à Jérémie, 3, 16.
 

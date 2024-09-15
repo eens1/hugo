@@ -15,7 +15,7 @@ draft: false
 
 5 Diligit misericordiam et iudicium: misericordia Domini plena est terra.
 
-6 Verbo Domini cæli firmati sunt: et spiritu oris eius omnis virtus eorum.
+6 Verbo Domini caeli firmati sunt: et spiritu oris eius omnis virtus eorum.
 
 7 Congregans sicut in utre aquas maris: ponens in thesauris abyssos.
 
@@ -25,19 +25,19 @@ draft: false
 
 10 Dominus dissipat consilia gentium: reprobat autem cogitationes populorum, et reprobat consilia principum.
 
-11 Consilium autem Domini in æternum manet: cogitationes cordis eius in generatione et generationem.
+11 Consilium autem Domini in aeternum manet: cogitationes cordis eius in generatione et generationem.
 
 12 Beata gens, cuius est Dominus, Deus eius: populus, quem elegit in hereditatem sibi.
 
-13 De cælo respexit Dominus: vidit omnes filios hominum.
+13 De caelo respexit Dominus: vidit omnes filios hominum.
 
-14 De præparato habitaculo suo respexit super omnes, qui habitant terram.
+14 De praeparato habitaculo suo respexit super omnes, qui habitant terram.
 
 15 Qui finxit sigillatim corda eorum: qui intelligit omnia opera eorum.
 
-16 Non salvatur rex per multam virtutem: et gigas non salvabitur in multitudine virtutis suæ.
+16 Non salvatur rex per multam virtutem: et gigas non salvabitur in multitudine virtutis suae.
 
-17 Fallax equus ad salutem: in abundantia autem virtutis suæ non salvabitur.
+17 Fallax equus ad salutem: in abundantia autem virtutis suae non salvabitur.
 
 18 Ecce oculi Domini super metuentes eum: et in eis, qui sperant super misericordia eius.
 
@@ -45,7 +45,7 @@ draft: false
 
 20 Anima nostra sustinet Dominum: quoniam adiutor et protector noster est.
 
-21 Quia in eo lætabitur cor nostrum: et in nomine sancto eius speravimus.
+21 Quia in eo laetabitur cor nostrum: et in nomine sancto eius speravimus.
 
 22 Fiat misericordia tua Domine super nos: quemadmodum speravimus in te.
 

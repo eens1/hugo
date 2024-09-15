@@ -17,7 +17,7 @@ draft: false
 
 6 Non apparebis ante conspectum Domini vacuus.
 
-7 Hæc enim omnia propter mandatum Dei fiunt.
+7 Haec enim omnia propter mandatum Dei fiunt.
 
 8 Oblatio iusti impinguat altare, et odor suavitatis est in conspectu Altissimi.
 
@@ -33,15 +33,15 @@ draft: false
 
 14 Noli offerre munera prava, non enim suscipiet illa.
 
-15 Et noli inspicere sacrificum iniustum, quoniam Dominus iudex est, et non est apud illum gloria personæ.
+15 Et noli inspicere sacrificum iniustum, quoniam Dominus iudex est, et non est apud illum gloria personae.
 
-16 Non accipiet Dominus personam in pauperem, et deprecationem læsi exaudiet.
+16 Non accipiet Dominus personam in pauperem, et deprecationem laesi exaudiet.
 
 17 Non despiciet preces pupilli: nec viduam, si effundat loquelam gemitus.
 
-18 Nonne lacrymæ viduæ ad maxillam descendunt, et exclamatio eius super deducentem eas?
+18 Nonne lacrymae viduae ad maxillam descendunt, et exclamatio eius super deducentem eas?
 
-19 A maxilla enim ascendunt usque ad cælum, et Dominus exauditor non delectabitur in illis.
+19 A maxilla enim ascendunt usque ad caelum, et Dominus exauditor non delectabitur in illis.
 
 20 Qui adorat Deum in oblectatione suscipietur, et deprecatio illius usque ad nubes propinquabit.
 
@@ -51,9 +51,9 @@ draft: false
 
 23 et Gentibus reddet vindictam donec tollat plenitudinem superborum: et sceptra iniquorum contribulet
 
-24 donec reddat hominibus secundum actus suos, et secundum opera Adæ, et secundum præsumptionem illius,
+24 donec reddat hominibus secundum actus suos, et secundum opera Adae, et secundum praesumptionem illius,
 
-25 donec iudicet iudicium plebis suæ, et oblectabit iustos misericordia sua.
+25 donec iudicet iudicium plebis suae, et oblectabit iustos misericordia sua.
 
-26 Speciosa misericordia Dei, in tempore tribulationis, quasi nubes pluviæ in tempore siccitatis.
+26 Speciosa misericordia Dei, in tempore tribulationis, quasi nubes pluviae in tempore siccitatis.
 

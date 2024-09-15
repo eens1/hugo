@@ -11,10 +11,10 @@ summary: |
 
 1 Pour la fin, pour ceux qui seront changés, aux fils de Coré, pour l'intelligence. Cantique pour le bien-aimé.
 
-***Note*** :  Ps. 44, 1 : Le titre hébreu porte : « Au chef de chœur. Sur (l’air) des lis ou (sur un instrument en forme de lis). Des enfants de Coré. Poème didactique ; (chant) d’amour. » ― Ce psaume est appliqué par beaucoup de commentateurs au mariage de Salomon avec la fille du pharaon. On peut le regarder plus justement comme un chant purement prophétique, qui, comme le Cantique des cantiques, célèbre l’union de Notre-Seigneur avec son Eglise. Il est certainement messianique. Voir Hébreux, 1, 8-9 ; Psaumes, 44, 7 ; Isaïe, 9, 6-7 ; Psaumes, 44, vv. 5, 12. Le Targumiste paraphrase ainsi le verset 3 : « Ta beauté, ô roi Messie, est supérieure à celle des enfants des hommes. »
+***Note*** :  Ps. 44, 1 : Le titre hébreu porte : « Au chef de choeur. Sur (l’air) des lis ou (sur un instrument en forme de lis). Des enfants de Coré. Poème didactique ; (chant) d’amour. » ― Ce psaume est appliqué par beaucoup de commentateurs au mariage de Salomon avec la fille du pharaon. On peut le regarder plus justement comme un chant purement prophétique, qui, comme le Cantique des cantiques, célèbre l’union de Notre-Seigneur avec son Eglise. Il est certainement messianique. Voir Hébreux, 1, 8-9 ; Psaumes, 44, 7 ; Isaïe, 9, 6-7 ; Psaumes, 44, vv. 5, 12. Le Targumiste paraphrase ainsi le verset 3 : « Ta beauté, ô roi Messie, est supérieure à celle des enfants des hommes. »
 
 
-2 Mon cœur a produit une bonne parole; c'est moi qui adresse mes ouvrages au roi. Ma langue est une plume d'écrivain qui écrit rapidement.
+2 Mon coeur a produit une bonne parole; c'est moi qui adresse mes ouvrages au roi. Ma langue est une plume d'écrivain qui écrit rapidement.
 
 ***Note*** :  Ps. 44, 2-3 : Exorde : enthousiasme du prophète produit par l’excellence du sujet qui l’inspire : la beauté du roi Messie.
 
@@ -27,7 +27,7 @@ summary: |
 ***Note*** :  Ps. 44, 4-5 : Le roi Messie, prodige de beauté, est aussi un héros, un prodige de force. Le Psalmiste le dépeint comme l’ayant sous les yeux.
 
 
-5 Dans votre dignité et votre beauté, tendez votre arc, marchez avec succès et régnez Pour la vérité, la douceur et la justice; et votre droite vous conduira admirablement. 6 Vos flèches sont acérées, des peuples tomberont à vos pieds; elles pénétreront dans les cœurs des ennemis du roi.
+5 Dans votre dignité et votre beauté, tendez votre arc, marchez avec succès et régnez Pour la vérité, la douceur et la justice; et votre droite vous conduira admirablement. 6 Vos flèches sont acérées, des peuples tomberont à vos pieds; elles pénétreront dans les coeurs des ennemis du roi.
 
 ***Note*** :  Ps. 44, 6-8 : Ce héros est Dieu, un dominateur divin.
 

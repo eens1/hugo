@@ -17,7 +17,7 @@ draft: false
 
 6 in castitate, in scientia, in longanimitate, in suavitate, in Spiritu sancto, in charitate non ficta,
 
-7 in verbo veritatis, in virtute Dei, per arma iustitiæ a dextris, et a sinistris,
+7 in verbo veritatis, in virtute Dei, per arma iustitiae a dextris, et a sinistris,
 
 8 per gloriam, et ignobilitatem, per infamiam, et bonam famam: ut seductores, et veraces, sicut qui ignoti, et cogniti:
 
@@ -31,9 +31,9 @@ draft: false
 
 13 eandem autem habentes renumerationem, tamquam filiis dico: dilatamini et vos.
 
-14 Nolite iugum ducere cum infidelibus. Quæ enim participatio iustitiæ cum iniquitate? Aut quæ societas luci ad tenebras?
+14 Nolite iugum ducere cum infidelibus. Quae enim participatio iustitiae cum iniquitate? Aut quae societas luci ad tenebras?
 
-15 Quæ autem conventio Christi ad Belial? Aut quæ pars fideli cum infideli?
+15 Quae autem conventio Christi ad Belial? Aut quae pars fideli cum infideli?
 
 16 Qui autem consensus templo Dei cum idolis? Vos enim estis templum Dei vivi, sicut dicit Deus: Quoniam inhabitabo in illis, et inambulabo inter eos, et ero illorum Deus, et ipsi erunt mihi populus.
 

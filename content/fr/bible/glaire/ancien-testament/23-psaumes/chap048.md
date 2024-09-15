@@ -14,7 +14,7 @@ summary: |
 ***Note*** :  Ps. 48, 1 : Ce psaume commence par une sorte de préambule versets 2 à 5, et comprend deux strophes égales, versets 6 à 12 et 14 à 20, terminées chacune par un refrain, versets 13 et 21. ― C’est un de ceux qui contiennent des passages explicites sur la croyance à une autre vie. Il rappelle les Proverbes, surtout dans son introduction.
 
 
-2 Ecoutez ces choses, vous toutes, nations : prêtez l'oreille, vous qui habitez l'univers; 3 Vous tous, fils de la terre, et fils des hommes, ensemble et de concert, riche et pauvre. 4 Ma bouche parlera sagesse, et la méditation de mon cœur, prudence. 5 J'inclinerai mon oreille à une parabole, et je révélerai sur le psaltérion mon sujet.
+2 Ecoutez ces choses, vous toutes, nations : prêtez l'oreille, vous qui habitez l'univers; 3 Vous tous, fils de la terre, et fils des hommes, ensemble et de concert, riche et pauvre. 4 Ma bouche parlera sagesse, et la méditation de mon coeur, prudence. 5 J'inclinerai mon oreille à une parabole, et je révélerai sur le psaltérion mon sujet.
 
 ***Note*** :  Ps. 48, 5 : Voir Psaumes, 77, 2 ; Matthieu, 13, 35. ― J’inclinerai, etc. Je serai attentif à ce que l’Esprit divin me suggérera, et je ferai connaître, au son du psaltérion, le sujet de mon chant, lequel m’aura été inspiré.
 
@@ -36,7 +36,7 @@ summary: |
 
 11 Il ne verra pas la mort, lorsqu'il aura vu les sages mourir : l'insensé et le fou périront également. Et ils laisseront à des étrangers leurs richesses. 12 Et leurs sépulcres seront leurs maisons pour toujours. Et leurs tabernacles dans chaque génération ; quoiqu'ils aient donné leurs noms à leurs terres.
 
-***Note*** :  Ps. 48, 12 : Pour toujours (in æternum) ; c’est-à-dire jusqu’à la fin du monde. ― Tabernacles ; demeures, habitations. ― Chaque génération ; littéralement génération et génération. Voir milieu des Observations préliminaires. ― Quoiqu’ils aient donné, etc. ; pour se rendre célèbres, immortels.
+***Note*** :  Ps. 48, 12 : Pour toujours (in aeternum) ; c’est-à-dire jusqu’à la fin du monde. ― Tabernacles ; demeures, habitations. ― Chaque génération ; littéralement génération et génération. Voir milieu des Observations préliminaires. ― Quoiqu’ils aient donné, etc. ; pour se rendre célèbres, immortels.
 
 13 Et l'homme, lorsqu'il était était en honneur, ne l'a pas compris : il a été comparé aux animaux sans raison, et il est devenu semblable à eux.
 

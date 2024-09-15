@@ -11,7 +11,7 @@ draft: false
 
 3 Ego Dominus, qui servo eam, repente propinabo ei: ne forte visitetur contra eam, nocte et die servo eam.
 
-4 Indignatio non est mihi: quis dabit me spinam et veprem in prælio: gradiar super eam, succendam eam pariter?
+4 Indignatio non est mihi: quis dabit me spinam et veprem in praelio: gradiar super eam, succendam eam pariter?
 
 5 An potius tenebit fortitudinem meam, faciet pacem mihi, pacem faciet mihi?
 
@@ -19,7 +19,7 @@ draft: false
 
 7 Numquid iuxta plagam percutientis se percussit eum? aut sicut occidit interfectos eius, sic occisus est?
 
-8 In mensura contra mensuram, cum abiecta fuerit, iudicabis eam: meditatus est in spiritu suo duro per diem æstus.
+8 In mensura contra mensuram, cum abiecta fuerit, iudicabis eam: meditatus est in spiritu suo duro per diem aestus.
 
 9 Idcirco super hoc dimittetur iniquitas domui Iacob: et iste omnis fructus ut auferatur peccatum eius, cum posuerit omnes lapides altaris sicut lapides cineris allisos, non stabunt luci et delubra.
 
@@ -27,7 +27,7 @@ draft: false
 
 11 In siccitate messes illius conterentur, mulieres venientes, et docentes eam: non est enim populus sapiens, propterea non miserebitur eius, qui fecit eum: et qui formavit eum, non parcet ei.
 
-12 Et erit: In die illa percutiet Dominus ab alveo fluminis usque ad torrentem Ægypti, et vos congregabimini unus et unus filii Israel.
+12 Et erit: In die illa percutiet Dominus ab alveo fluminis usque ad torrentem AEgypti, et vos congregabimini unus et unus filii Israel.
 
-13 Et erit: In die illa clangetur in tuba magna, et venient qui perditi fuerant de terra Assyriorum, et qui eiecti erant in Terra Ægypti, et adorabunt Dominum in monte sancto in Ierusalem.
+13 Et erit: In die illa clangetur in tuba magna, et venient qui perditi fuerant de terra Assyriorum, et qui eiecti erant in Terra AEgypti, et adorabunt Dominum in monte sancto in Ierusalem.
 

@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 Canticum graduum. Qui confidunt in Domino, sicut mons Sion: non commovebitur in æternum, qui habitat
+1 Canticum graduum. Qui confidunt in Domino, sicut mons Sion: non commovebitur in aeternum, qui habitat
 
-2 in Ierusalem. Montes in circuitu eius: et Dominus in circuitu populi sui, ex hoc nunc et usque in sæculum.
+2 in Ierusalem. Montes in circuitu eius: et Dominus in circuitu populi sui, ex hoc nunc et usque in saeculum.
 
 3 Quia non relinquet Dominus virgam peccatorum super sortem iustorum: ut non extendant iusti ad iniquitatem manus suas.
 

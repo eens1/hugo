@@ -19,13 +19,13 @@ draft: false
 
 7 Tunc dixi: Ecce venio: in capite libri scriptum est de me: Ut faciam, Deus, voluntatem tuam.
 
-8 Superius dicens: Quia hostias, et oblationes, et holocautomata pro peccato noluisti, nec placita sunt tibi, quæ secundum legem offeruntur,
+8 Superius dicens: Quia hostias, et oblationes, et holocautomata pro peccato noluisti, nec placita sunt tibi, quae secundum legem offeruntur,
 
 9 tunc dixi: Ecce venio, ut faciam, Deus, voluntatem tuam: aufert primum, ut sequens statuat.
 
 10 In qua voluntate sanctificati sumus per oblationem corporis Iesu Christi semel.
 
-11 Et omnis quidem sacerdos præsto est quotidie ministrans, et easdem sæpe offerens hostias, quæ numquam possunt auferre peccata:
+11 Et omnis quidem sacerdos praesto est quotidie ministrans, et easdem saepe offerens hostias, quae numquam possunt auferre peccata:
 
 12 hic autem unam pro peccatis offerens hostiam, in sempiternum sedet in dextera Dei,
 
@@ -49,7 +49,7 @@ draft: false
 
 22 accedamus cum vero corde in plenitudine fidei, aspersi corda a conscientia mala, et abluti corpus aqua munda,
 
-23 teneamus spei nostræ confessionem indeclinabilem, (fidelis enim est qui repromisit),
+23 teneamus spei nostrae confessionem indeclinabilem, (fidelis enim est qui repromisit),
 
 24 et consideremus invicem in provocationem charitatis, et bonorum operum:
 
@@ -57,11 +57,11 @@ draft: false
 
 26 Voluntarie enim peccantibus nobis post acceptam notitiam veritatis, iam non relinquitur pro peccatis hostia,
 
-27 terribilis autem quædam expectatio iudicii, et ignis æmulatio, quæ consumptura est adversarios.
+27 terribilis autem quaedam expectatio iudicii, et ignis aemulatio, quae consumptura est adversarios.
 
 28 Irritam quis faciens legem Moysi, sine ulla miseratione duobus vel tribus testibus moritur:
 
-29 quanto magis putatis deteriora mereri supplicia qui filium Dei conculcaverit, et sanguinem testamenti pollutum duxerit, in quo sanctificatus est, et spiritui gratiæ contumeliam fecerit?
+29 quanto magis putatis deteriora mereri supplicia qui filium Dei conculcaverit, et sanguinem testamenti pollutum duxerit, in quo sanctificatus est, et spiritui gratiae contumeliam fecerit?
 
 30 Scimus enim qui dixit: Mihi vindicta, et ego retribuam. Et iterum: Quia iudicabit Dominus populum suum.
 
@@ -73,13 +73,13 @@ draft: false
 
 34 Nam et vinctis compassi estis, et rapinam bonorum vestrorum cum gaudio suscepistis, cognoscentes vos habere meliorem, et manentem substantiam.
 
-35 Nolite itaque amittere confidentiam vestram, quæ magnam habet remunerationem.
+35 Nolite itaque amittere confidentiam vestram, quae magnam habet remunerationem.
 
 36 Patientia enim vobis necessaria est: ut voluntatem Dei facientes, reportetis promissionem.
 
 37 Adhuc enim modicum aliquantulum, qui venturus est, veniet, et non tardabit.
 
-38 iustus autem meus ex fide vivit. quod si subtraxerit se, non placebit animæ meæ.
+38 iustus autem meus ex fide vivit. quod si subtraxerit se, non placebit animae meae.
 
-39 Nos autem non sumus subtractionis filii in perditionem, sed fidei in acquisitionem animæ.
+39 Nos autem non sumus subtractionis filii in perditionem, sed fidei in acquisitionem animae.
 

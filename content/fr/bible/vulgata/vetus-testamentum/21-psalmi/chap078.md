@@ -7,7 +7,7 @@ draft: false
 
 1 Psalmus Asaph. Deus venerunt Gentes in hereditatem tuam, polluerunt templum sanctum tuum: posuerunt Ierusalem in pomorum custodiam.
 
-2 Posuerunt morticina servorum tuorum, escas volatilibus cæli: carnes sanctorum tuorum bestiis terræ.
+2 Posuerunt morticina servorum tuorum, escas volatilibus caeli: carnes sanctorum tuorum bestiis terrae.
 
 3 Effuderunt sanguinem eorum tamquam aquam in circuitu Ierusalem: et non erat qui sepeliret.
 
@@ -15,11 +15,11 @@ draft: false
 
 5 Usquequo Domine irasceris in finem: accendetur velut ignis zelus tuus?
 
-6 Effunde iram tuam in Gentes, quæ te non noverunt: et in regna, quæ nomen tuum non invocaverunt:
+6 Effunde iram tuam in Gentes, quae te non noverunt: et in regna, quae nomen tuum non invocaverunt:
 
 7 Quia comederunt Iacob: et locum eius desolaverunt.
 
-8 Ne memineris iniquitatum nostrarum antiquarum, cito anticipent nos misericordiæ tuæ: quia pauperes facti sumus nimis.
+8 Ne memineris iniquitatum nostrarum antiquarum, cito anticipent nos misericordiae tuae: quia pauperes facti sumus nimis.
 
 9 Adiuva nos Deus salutaris noster: et propter gloriam nominis tui Domine libera nos: et propitius esto peccatis nostris, propter nomen tuum:
 
@@ -29,5 +29,5 @@ draft: false
 
 12 Et redde vicinis nostris septuplum in sinu eorum: improperium ipsorum, quod exprobraverunt tibi Domine.
 
-13 Nos autem populus tuus, et oves pascuæ tuæ, confitebimur tibi in sæculum: In generationem et generationem annunciabimus laudem tuam.
+13 Nos autem populus tuus, et oves pascuae tuae, confitebimur tibi in saeculum: In generationem et generationem annunciabimus laudem tuam.
 

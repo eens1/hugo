@@ -11,16 +11,16 @@ summary: |
 
 1 Mon fils, si tu reçois mes paroles, et si tu caches mes commandements en toi,
 
-***Note*** :  Prov. 2, 1 : Si tu caches, etc. ; c’est-à-dire si tu les tiens renfermés dans ton cœur, comme on tient un trésor à l’abri de toute atteinte.
+***Note*** :  Prov. 2, 1 : Si tu caches, etc. ; c’est-à-dire si tu les tiens renfermés dans ton coeur, comme on tient un trésor à l’abri de toute atteinte.
 
-2 En sorte que ton oreille écoute la sagesse : incline ton cœur pour connaître la prudence. 3 Car si tu invoques la sagesse, et que tu inclines ton cœur vers la prudence ; 4 Si tu la recherches comme l'argent, et que tu creuses pour la trouver, comme les trésors :
+2 En sorte que ton oreille écoute la sagesse : incline ton coeur pour connaître la prudence. 3 Car si tu invoques la sagesse, et que tu inclines ton coeur vers la prudence ; 4 Si tu la recherches comme l'argent, et que tu creuses pour la trouver, comme les trésors :
 
 ***Note*** :  Prov. 2, 4 : Si tu la recherches, etc. L’image de cette recherche diligente est empruntée au travail des mines, décrit longuement à Job, 28, 1-11.
 
 5 Alors tu comprendras la crainte du Seigneur, et tu trouveras la science de Dieu. 6 Parce que c'est le Seigneur qui donne la sagesse, et que de sa bouche sortent la prudence et la science. 7 Il veillera au salut des hommes droits, et protégera ceux qui marchent dans la simplicité, 8 Conservant les sentiers de la justice, et gardant les voies des saints. 9 C'est alors que tu comprendras la justice et le jugement, et l'équité et tout bon sentier.
 
 
-10 Si la sagesse entre dans ton cœur, et que la science à ton âme plaise, 11 Le conseil te gardera, et la prudence te sauvera, 12 Afin que tu sois arraché à une voie mauvaise, et à l'homme qui tient des discours pervers; 13 A ceux qui abandonnent le droit chemin, et qui marchent par des voies ténébreuses, 14 Qui se réjouissent lorsqu'ils ont mal fait, qui tressaillent de joie dans les choses les plus mauvaises, 15 Dont les voies son perverses, et dont les démarches sont infâmes. 16 Afin que tu sois arraché à la femme d'autrui, et à l'étrangère, qui amollit ses paroles; 17 Qui abandonne le guide de sa jeunesse,
+10 Si la sagesse entre dans ton coeur, et que la science à ton âme plaise, 11 Le conseil te gardera, et la prudence te sauvera, 12 Afin que tu sois arraché à une voie mauvaise, et à l'homme qui tient des discours pervers; 13 A ceux qui abandonnent le droit chemin, et qui marchent par des voies ténébreuses, 14 Qui se réjouissent lorsqu'ils ont mal fait, qui tressaillent de joie dans les choses les plus mauvaises, 15 Dont les voies son perverses, et dont les démarches sont infâmes. 16 Afin que tu sois arraché à la femme d'autrui, et à l'étrangère, qui amollit ses paroles; 17 Qui abandonne le guide de sa jeunesse,
 
 ***Note*** :  Prov. 2, 17 : Le guide de sa jeunesse ; littéralement de sa puberté ; c’est-à-dire celui qu’elle avait épousé étant à l’âge de puberté, étant encore vierge. Comparer à Jérémie, 3, 4.
 

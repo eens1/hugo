@@ -28,7 +28,7 @@ summary: |
 4 Par le sang qui par toi a été répandu, tu t'es rendue coupable, et par les idoles que tu as faites tu t'es souillée, et tu as avancé tes jours et amené le temps de tes années; à cause de cela, je t'ai rendue l'opprobre des nations et la dérision de tous les pays. 5 Ceux qui sont près et ceux qui sont loin de toi triompheront de toi, souillée, noble, grande par ta ruine.
 
 
-6 Voilà que les princes d'Israël ont usé chacun de leur bras chez toi, pour répandre le sang. 7 Ils ont accablé d'outrages père et mère au milieu de toi ; ils ont calomnié l'étranger au milieu de toi, et ils ont contristé la veuve et l'orphelin chez toi. 8 Tu as méprisé mes sanctuaires, et souillé mes sabbats. 9 Des hommes détracteurs ont été chez toi pour répandre le sang ; et sur les montagnes ils ont mangé chez toi, ils ont opéré le crime au milieu de toi. 10 Ils ont découvert la nudité du père chez toi, ils ont humilié l'impureté de la femme qui était dans ses mois chez toi ; 11 Et chacun d'eux a commis une abomination sur la femme de son prochain, et le beau-père a souillé sa belle-fille par un crime horrible; le frère a fait violence à sa propre sœur, à la fille de son père chez toi.
+6 Voilà que les princes d'Israël ont usé chacun de leur bras chez toi, pour répandre le sang. 7 Ils ont accablé d'outrages père et mère au milieu de toi ; ils ont calomnié l'étranger au milieu de toi, et ils ont contristé la veuve et l'orphelin chez toi. 8 Tu as méprisé mes sanctuaires, et souillé mes sabbats. 9 Des hommes détracteurs ont été chez toi pour répandre le sang ; et sur les montagnes ils ont mangé chez toi, ils ont opéré le crime au milieu de toi. 10 Ils ont découvert la nudité du père chez toi, ils ont humilié l'impureté de la femme qui était dans ses mois chez toi ; 11 Et chacun d'eux a commis une abomination sur la femme de son prochain, et le beau-père a souillé sa belle-fille par un crime horrible; le frère a fait violence à sa propre soeur, à la fille de son père chez toi.
 
 ***Note*** :  Éz. 22, 11 : Voir Jérémie, 5, 8.
 
@@ -39,7 +39,7 @@ summary: |
 
 ***Note*** :  Éz. 22, 13 : J’ai frappé des mains. Voir Ezéchiel, 21, vv. 14, 17.
 
-14 Est-ce que ton cœur se soutiendra, ou tes mains prévaudront-elles, aux jours malheureux que je ferai pour toi? c'est moi le Seigneur qui ai parlé, et j'exécuterai. 15 Et Je te disperserai parmi les nations, et je te jetterai au vent dans divers pays, et je ferai disparaître ton impureté du milieu de toi. 16 Et je te posséderai en présence des nations, et tu sauras que je suis le Seigneur.
+14 Est-ce que ton coeur se soutiendra, ou tes mains prévaudront-elles, aux jours malheureux que je ferai pour toi? c'est moi le Seigneur qui ai parlé, et j'exécuterai. 15 Et Je te disperserai parmi les nations, et je te jetterai au vent dans divers pays, et je ferai disparaître ton impureté du milieu de toi. 16 Et je te posséderai en présence des nations, et tu sauras que je suis le Seigneur.
 
 
 17 Et la parole du Seigneur me fut adressée, disant :

@@ -5,23 +5,23 @@ draft: false
 ---
 
 
-1 Omnia hæc tractavi in corde meo, ut curiose intelligerem: Sunt iusti atque sapientes, et opera eorum in manu Dei: et tamen nescit homo utrum amore, an odio dignus sit:
+1 Omnia haec tractavi in corde meo, ut curiose intelligerem: Sunt iusti atque sapientes, et opera eorum in manu Dei: et tamen nescit homo utrum amore, an odio dignus sit:
 
-2 sed omnia in futurum servantur incerta, eo quod universa æque eveniant iusto et impio, bono et malo, mundo et immundo, immolanti victimas, et sacrificia contemnenti. sicut bonus, sic et peccator: ut periurus, ita et ille qui verum deierat.
+2 sed omnia in futurum servantur incerta, eo quod universa aeque eveniant iusto et impio, bono et malo, mundo et immundo, immolanti victimas, et sacrificia contemnenti. sicut bonus, sic et peccator: ut periurus, ita et ille qui verum deierat.
 
-3 Hoc est pessimum inter omnia, quæ sub sole fiunt, quia eadem cunctis eveniunt. unde et corda filiorum hominum implentur malitia, et contemptu in vita sua, et post hæc ad inferos deducentur.
+3 Hoc est pessimum inter omnia, quae sub sole fiunt, quia eadem cunctis eveniunt. unde et corda filiorum hominum implentur malitia, et contemptu in vita sua, et post haec ad inferos deducentur.
 
 4 Nemo est qui semper vivat, et qui huius rei habeat fiduciam: melior est canis vivus leone mortuo.
 
 5 Viventes enim sciunt se esse morituros, mortui vero nihil noverunt amplius, nec habent ultra mercedem: quia oblivioni tradita est memoria eorum.
 
-6 Amor quoque, et odium, et invidiæ simul perierunt, nec habent partem in hoc sæculo, et in opere, quod sub sole geritur.
+6 Amor quoque, et odium, et invidiae simul perierunt, nec habent partem in hoc saeculo, et in opere, quod sub sole geritur.
 
-7 Vade ergo et comede in lætitia panem tuum, et bibe cum gaudio vinum tuum: quia Deo placent opera tua.
+7 Vade ergo et comede in laetitia panem tuum, et bibe cum gaudio vinum tuum: quia Deo placent opera tua.
 
 8 Omni tempore sint vestimenta tua candida, et oleum de capite tuo non deficiat.
 
-9 Perfruere vita cum uxore, quam diligis, cunctis diebus vitæ instabilitatis tuæ, qui dati sunt tibi sub sole omni tempore vanitatis tuæ: hæc est enim pars in vita, et in labore tuo, quo laboras sub sole.
+9 Perfruere vita cum uxore, quam diligis, cunctis diebus vitae instabilitatis tuae, qui dati sunt tibi sub sole omni tempore vanitatis tuae: haec est enim pars in vita, et in labore tuo, quo laboras sub sole.
 
 10 Quodcumque facere potest manus tua, instanter operare: quia nec opus, nec ratio, nec sapientia, nec scientia erunt apud inferos, quo tu properas.
 

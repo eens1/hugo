@@ -21,11 +21,11 @@ draft: false
 
 8 Et dominabitur a mari usque ad mare: et a flumine usque ad terminos orbis terrarum.
 
-9 Coram illo procident Æthiopes: et inimici eius terram lingent.
+9 Coram illo procident AEthiopes: et inimici eius terram lingent.
 
-10 Reges Tharsis, et insulæ munera offerent: reges Arabum, et Saba dona adducent:
+10 Reges Tharsis, et insulae munera offerent: reges Arabum, et Saba dona adducent:
 
-11 Et adorabunt eum omnes reges terræ: omnes gentes servient ei:
+11 Et adorabunt eum omnes reges terrae: omnes gentes servient ei:
 
 12 Quia liberabit pauperem a potente: et pauperem, cui non erat adiutor.
 
@@ -33,15 +33,15 @@ draft: false
 
 14 Ex usuris et iniquitate redimet animas eorum: et honorabile nomen eorum coram illo.
 
-15 Et vivet, et dabitur ei de auro Arabiæ, et adorabunt de ipso semper: tota die benedicent ei.
+15 Et vivet, et dabitur ei de auro Arabiae, et adorabunt de ipso semper: tota die benedicent ei.
 
-16 Et erit firmamentum in terra in summis montium, superextolletur super Libanum fructus eius: et florebunt de civitate sicut fœnum terræ.
+16 Et erit firmamentum in terra in summis montium, superextolletur super Libanum fructus eius: et florebunt de civitate sicut foenum terrae.
 
-17 Sit nomen eius benedictum in sæcula: ante Solem permanet nomen eius. Et benedicentur in ipso omnes tribus terræ: omnes gentes magnificabunt eum.
+17 Sit nomen eius benedictum in saecula: ante Solem permanet nomen eius. Et benedicentur in ipso omnes tribus terrae: omnes gentes magnificabunt eum.
 
 18 Benedictus Dominus Deus Israel, qui facit mirabilia solus:
 
-19 Et benedictum nomen maiestatis eius in æternum: et replebitur maiestate eius omnis terra: fiat, fiat.
+19 Et benedictum nomen maiestatis eius in aeternum: et replebitur maiestate eius omnis terra: fiat, fiat.
 
 20 Defecerunt laudes David filii Iesse.
 

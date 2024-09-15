@@ -104,7 +104,7 @@ summary: |
 
 ***Note*** :  Nb. 26, 57 : Voir Exode, 6, 16.
 
-58 Voici les familles de Lévi : la famille de Lobni, la famille d'Hébroni, la famille de Moholi, la famille de Musi, la famille de Coré. 59 Qui eut pour femme Jochabed, fille de Lévi, laquelle naquit en Egypte ; c'est elle qui engendra à Amram, son mari, ses fils, Aaron et Moïse, et Marie leur sœur. 60 D'Aaron naquirent : Nadab, Abiu, Eléazar, et Ithamar; 61 Dont Nadab et Abiu moururent, lorsqu'ils eurent offert un feu étranger devant le Seigneur.
+58 Voici les familles de Lévi : la famille de Lobni, la famille d'Hébroni, la famille de Moholi, la famille de Musi, la famille de Coré. 59 Qui eut pour femme Jochabed, fille de Lévi, laquelle naquit en Egypte ; c'est elle qui engendra à Amram, son mari, ses fils, Aaron et Moïse, et Marie leur soeur. 60 D'Aaron naquirent : Nadab, Abiu, Eléazar, et Ithamar; 61 Dont Nadab et Abiu moururent, lorsqu'ils eurent offert un feu étranger devant le Seigneur.
 
 ***Note*** :  Nb. 26, 61 : Voir Lévitique, 10, 1 ; Nombres, 3, 4 ; 1 Paralipomènes, 24, 2.
 

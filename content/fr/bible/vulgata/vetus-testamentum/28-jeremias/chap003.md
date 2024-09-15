@@ -9,27 +9,27 @@ draft: false
 
 2 Leva oculos tuos in directum, et vide ubi non prostrata sis: in viis sedebas, expectans eos quasi latro in solitudine: et polluisti terram in fornicationibus tuis, et in malitiis tuis.
 
-3 Quam ob rem prohibitæ sunt stillæ pluviarum, et serotinus imber non fuit: frons mulieris meretricis facta est tibi, noluisti erubescere.
+3 Quam ob rem prohibitae sunt stillae pluviarum, et serotinus imber non fuit: frons mulieris meretricis facta est tibi, noluisti erubescere.
 
-4 Ergo saltem amodo voca me: Pater meus, dux virginitatis meæ tu es:
+4 Ergo saltem amodo voca me: Pater meus, dux virginitatis meae tu es:
 
 5 Numquid irasceris in perpetuum, aut perseverabis in finem? Ecce locuta es, et fecisti mala, et potuisti.
 
-6 Et dixit Dominus ad me in diebus Iosiæ regis: Numquid vidisti quæ fecerit aversatrix Israel? abiit sibimet super omnem montem excelsum, et sub omni ligno frondoso, et fornicata est ibi.
+6 Et dixit Dominus ad me in diebus Iosiae regis: Numquid vidisti quae fecerit aversatrix Israel? abiit sibimet super omnem montem excelsum, et sub omni ligno frondoso, et fornicata est ibi.
 
-7 Et dixi, cum fecisset hæc omnia: Ad me revertere: et non est reversa. Et vidit prævaricatrix soror eius Iuda,
+7 Et dixi, cum fecisset haec omnia: Ad me revertere: et non est reversa. Et vidit praevaricatrix soror eius Iuda,
 
-8 quia pro eo, quod mœchata esset aversatrix Israel, dimisissem eam, et dedissem ei libellum repudii: et non timuit prævaricatrix Iuda soror eius, sed abiit, et fornicata est etiam ipsa.
+8 quia pro eo, quod moechata esset aversatrix Israel, dimisissem eam, et dedissem ei libellum repudii: et non timuit praevaricatrix Iuda soror eius, sed abiit, et fornicata est etiam ipsa.
 
-9 Et facilitate fornicationis suæ contaminavit terram, et mœchata est cum lapide et ligno.
+9 Et facilitate fornicationis suae contaminavit terram, et moechata est cum lapide et ligno.
 
-10 Et in omnibus his non est reversa ad me prævaricatrix soror eius Iuda in toto corde suo, sed in mendacio, ait Dominus.
+10 Et in omnibus his non est reversa ad me praevaricatrix soror eius Iuda in toto corde suo, sed in mendacio, ait Dominus.
 
-11 Et dixit Dominus ad me: Iustificavit animam suam aversatrix Israel, comparatione prævaricatricis Iudæ.
+11 Et dixit Dominus ad me: Iustificavit animam suam aversatrix Israel, comparatione praevaricatricis Iudae.
 
 12 Vade, et clama sermones istos contra Aquilonem, et dices: Revertere aversatrix Israel, ait Dominus, et non avertam faciem meam a vobis: quia sanctus ego sum, dicit Dominus, et non irascar in perpetuum.
 
-13 Verumtamen scito iniquitatem tuam, quia in Dominum Deum tuum prævaricata es: et dispersisti vias tuas alienis sub omni ligno frondoso, et vocem meam non audisti, ait Dominus.
+13 Verumtamen scito iniquitatem tuam, quia in Dominum Deum tuum praevaricata es: et dispersisti vias tuas alienis sub omni ligno frondoso, et vocem meam non audisti, ait Dominus.
 
 14 Convertimini filii revertentes, dicit Dominus: quia ego vir vester: et assumam vos unum de civitate, et duos de cognatione, et introducam vos in Sion.
 
@@ -41,7 +41,7 @@ draft: false
 
 18 In diebus illis ibit domus Iuda ad domum Israel, et venient simul de terra Aquilonis ad terram, quam dedi patribus vestris.
 
-19 Ego autem dixi: Quomodo ponam te in filios, et tribuam tibi terram desiderabilem, hereditatem præclaram exercituum Gentium? Et dixi: Patrem vocabis me, et post me ingredi non cessabis.
+19 Ego autem dixi: Quomodo ponam te in filios, et tribuam tibi terram desiderabilem, hereditatem praeclaram exercituum Gentium? Et dixi: Patrem vocabis me, et post me ingredi non cessabis.
 
 20 Sed quomodo si contemnat mulier amatorem suum, sic contempsit me domus Israel, dicit Dominus.
 

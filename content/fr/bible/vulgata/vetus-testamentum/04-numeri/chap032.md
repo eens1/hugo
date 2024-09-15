@@ -25,11 +25,11 @@ draft: false
 
 10 Qui iratus iuravit, dicens:
 
-11 Si videbunt homines isti, qui ascenderunt ex Ægypto a viginti annis et supra, Terram, quam sub iuramento pollicitus sum Abraham, Isaac, et Iacob: et noluerunt sequi me,
+11 Si videbunt homines isti, qui ascenderunt ex AEgypto a viginti annis et supra, Terram, quam sub iuramento pollicitus sum Abraham, Isaac, et Iacob: et noluerunt sequi me,
 
-12 præter Caleb filium Iephone Cenezæum, et Iosue filium Nun: isti impleverunt voluntatem meam.
+12 praeter Caleb filium Iephone Cenezaeum, et Iosue filium Nun: isti impleverunt voluntatem meam.
 
-13 Iratusque Dominus adversum Israel, circumduxit eum per desertum quadraginta annis, donec consumeretur universa generatio, quæ fecerat malum in conspectu eius.
+13 Iratusque Dominus adversum Israel, circumduxit eum per desertum quadraginta annis, donec consumeretur universa generatio, quae fecerat malum in conspectu eius.
 
 14 Et ecce, inquit, vos surrexistis pro patribus vestris, incrementa, et alumni hominum peccatorum, ut augeretis furorem Domini contra Israel.
 
@@ -37,11 +37,11 @@ draft: false
 
 16 At illi prope accedentes, dixerunt: Caulas ovium fabricabimus, et stabula iumentorum, parvulis quoque nostris urbes munitas:
 
-17 nos autem ipsi armati et accincti pergemus ad prælium ante filios Israel, donec introducamus eos ad loca sua. Parvuli nostri, et quidquid habere possumus, erunt in urbibus muratis, propter habitatorum insidias.
+17 nos autem ipsi armati et accincti pergemus ad praelium ante filios Israel, donec introducamus eos ad loca sua. Parvuli nostri, et quidquid habere possumus, erunt in urbibus muratis, propter habitatorum insidias.
 
 18 Non revertemur in domos nostras, usque dum possideant filii Israel hereditatem suam:
 
-19 nec quidquam quæremus trans Iordanem, quia iam habemus nostram possessionem in orientali eius plaga.
+19 nec quidquam quaeremus trans Iordanem, quia iam habemus nostram possessionem in orientali eius plaga.
 
 20 Quibus Moyses ait: Si facitis quod promittitis, expediti pergite coram Domino ad pugnam:
 
@@ -51,7 +51,7 @@ draft: false
 
 23 Sin autem quod dicitis, non feceritis, nulli dubium est quin peccetis in Deum: et scitote quoniam peccatum vestrum apprehendet vos.
 
-24 Ædificate ergo urbes parvulis vestris, et caulas, et stabula ovibus ac iumentis: et quod polliciti estis implete.
+24 AEdificate ergo urbes parvulis vestris, et caulas, et stabula ovibus ac iumentis: et quod polliciti estis implete.
 
 25 Dixeruntque filii Gad et Ruben ad Moysen: Servi tui sumus, faciemus quod iubet dominus noster.
 
@@ -59,7 +59,7 @@ draft: false
 
 27 nos autem famuli tui omnes expediti pergemus ad bellum, sicut tu domine loqueris.
 
-28 Præcepit ergo Moyses Eleazaro sacerdoti, et Iosue filio Nun, et principibus familiarum per tribus Israel, et dixit ad eos:
+28 Praecepit ergo Moyses Eleazaro sacerdoti, et Iosue filio Nun, et principibus familiarum per tribus Israel, et dixit ad eos:
 
 29 Si transierint filii Gad, et filii Ruben vobiscum Iordanem omnes armati ad bellum coram Domino, et vobis fuerit Terra subiecta: date eis Galaad in possessionem.
 
@@ -69,7 +69,7 @@ draft: false
 
 32 ipsi armati pergemus coram Domino in Terram Chanaan, et possessionem iam suscepisse nos confitemur trans Iordanem.
 
-33 Dedit itaque Moyses filiis Gad et Ruben, et dimidiæ tribui Manasse filii Ioseph regnum Sehon regis Amorrhæi, et regnum Og regis Basan, et terram eorum cum urbibus suis per circuitum.
+33 Dedit itaque Moyses filiis Gad et Ruben, et dimidiae tribui Manasse filii Ioseph regnum Sehon regis Amorrhaei, et regnum Og regis Basan, et terram eorum cum urbibus suis per circuitum.
 
 34 Igitur extruxerunt filii Gad, Dibon, et Ataroth, et Aroer,
 
@@ -77,11 +77,11 @@ draft: false
 
 36 et Bethnemra, et Betharan, urbes munitas, et caulas pecoribus suis.
 
-37 Filii vero Ruben ædificaverunt Hesebon, et Eleale, et Cariathaim,
+37 Filii vero Ruben aedificaverunt Hesebon, et Eleale, et Cariathaim,
 
 38 et Nabo, et Baalmeon versis nominibus, Sabama quoque: imponentes vocabula urbibus, quas extruxerunt.
 
-39 Porro filii Machir filii Manasse perrexerunt in Galaad, et vastaverunt eam interfecto Amorrhæo habitatore eius.
+39 Porro filii Machir filii Manasse perrexerunt in Galaad, et vastaverunt eam interfecto Amorrhaeo habitatore eius.
 
 40 Dedit ergo Moyses Terram Galaad Machir filio Manasse, qui habitavit in ea.
 

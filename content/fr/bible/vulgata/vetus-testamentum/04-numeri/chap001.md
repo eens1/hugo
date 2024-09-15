@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 Locutusque est Dominus ad Moysen in deserto Sinai in tabernaculo fœderis, prima die mensis secundi, anno altero egressionis eorum ex Ægypto, dicens:
+1 Locutusque est Dominus ad Moysen in deserto Sinai in tabernaculo foederis, prima die mensis secundi, anno altero egressionis eorum ex AEgypto, dicens:
 
-2 Tollite summam universæ congregationis filiorum Israel per cognationes et domos suas, et nomina singulorum, quidquid sexus est masculini
+2 Tollite summam universae congregationis filiorum Israel per cognationes et domos suas, et nomina singulorum, quidquid sexus est masculini
 
 3 a vigesimo anno et supra, omnium virorum fortium ex Israel, et numerabitis eos per turmas suas, tu et Aaron.
 
@@ -41,7 +41,7 @@ draft: false
 
 18 et congregaverunt primo die mensis secundi, recensentes eos per cognationes, et domos, ac familias, et capita, et nomina singulorum a vigesimo anno et supra,
 
-19 sicut præceperat Dominus Moysi. Numeratique sunt in deserto Sinai.
+19 sicut praeceperat Dominus Moysi. Numeratique sunt in deserto Sinai.
 
 20 De Ruben primogenito Israelis per generationes et familias ac domos suas, et nomina capitum singulorum, omne quod sexus est masculini a vigesimo anno et supra, procedentium ad bellum,
 
@@ -97,7 +97,7 @@ draft: false
 
 46 sexcenta tria millia virorum quingenti quinquaginta.
 
-47 Levitæ autem in tribu familiarum suarum non sunt numerati cum eis.
+47 Levitae autem in tribu familiarum suarum non sunt numerati cum eis.
 
 48 Locutusque est Dominus ad Moysen, dicens:
 
@@ -105,11 +105,11 @@ draft: false
 
 50 sed constitue eos super tabernaculum testimonii et cuncta vasa eius, et quidquid ad ceremonias pertinet. Ipsi portabunt tabernaculum et omnia utensilia eius: et erunt in ministerio, ac per gyrum tabernaculi metabuntur.
 
-51 Cum proficiscendum fuerit, deponent Levitæ tabernaculum: cum castrametandum, erigent. quisquis externorum accesserit, occidetur.
+51 Cum proficiscendum fuerit, deponent Levitae tabernaculum: cum castrametandum, erigent. quisquis externorum accesserit, occidetur.
 
 52 Metabuntur autem castra filii Israel unusquisque per turmas et cuneos atque exercitum suum.
 
-53 Porro Levitæ per gyrum tabernaculi figent tentoria, ne fiat indignatio super multitudinem filiorum Israel, et excubabunt in custodiis tabernaculi testimonii.
+53 Porro Levitae per gyrum tabernaculi figent tentoria, ne fiat indignatio super multitudinem filiorum Israel, et excubabunt in custodiis tabernaculi testimonii.
 
-54 Fecerunt ergo filii Israel iuxta omnia quæ præceperat Dominus Moysi.
+54 Fecerunt ergo filii Israel iuxta omnia quae praeceperat Dominus Moysi.
 

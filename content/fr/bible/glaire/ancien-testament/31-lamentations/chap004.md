@@ -24,7 +24,7 @@ Les fils de Sion illustres et revêtus de l'or le plus pur, comment ont-ils ét�
 3 GHIMEL.
 Mais les lamies même ont mis à nu leurs mamelles, et ont allaité leurs petits; la fille de mon peuple est cruelle comme une autruche dans le désert.
 
-***Note*** :  Lm. 4, 3 : Les lamies ; hébreu : les chacals. ― Comme une autruche. On dit qu’elle abandonne une partie de ses œufs dans le désert, voir Job, 39, 16.
+***Note*** :  Lm. 4, 3 : Les lamies ; hébreu : les chacals. ― Comme une autruche. On dit qu’elle abandonne une partie de ses oeufs dans le désert, voir Job, 39, 16.
 
 
 4 DALETH.

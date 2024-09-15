@@ -11,7 +11,7 @@ summary: |
 
 1 Dans les hymnes, psaume d'un cantique de David.
 
-***Note*** :  Ps. 66, 1 : Hymne d’action de grâces après la récolte. Le titre hébreu porte : « Au chef de chœur avec neginôth. » La Vulgate ajoute, « de David. »
+***Note*** :  Ps. 66, 1 : Hymne d’action de grâces après la récolte. Le titre hébreu porte : « Au chef de choeur avec neginôth. » La Vulgate ajoute, « de David. »
 
 
 2 Que Dieu ait pitié de nous, et qu'il nous bénisse; qu'il fasse briller la lumière de son visage sur nous, et qu'il ait pitié de nous.

@@ -7,7 +7,7 @@ draft: false
 
 1 Filius sapiens, doctrina patris: qui autem illusor est, non audit cum arguitur.
 
-2 De fructu oris sui homo satiabitur bonis: anima autem prævaricatorum iniqua.
+2 De fructu oris sui homo satiabitur bonis: anima autem praevaricatorum iniqua.
 
 3 Qui custodit os suum, custodit animam suam: qui autem inconsideratus est ad loquendum, sentiet mala.
 
@@ -19,19 +19,19 @@ draft: false
 
 7 Est quasi dives cum nihil habeat: et est quasi pauper, cum in multis divitiis sit.
 
-8 Redemptio animæ viri, divitiæ suæ: qui autem pauper est, increpationem non sustinet.
+8 Redemptio animae viri, divitiae suae: qui autem pauper est, increpationem non sustinet.
 
-9 Lux iustorum lætificat: lucerna autem impiorum extinguetur.
+9 Lux iustorum laetificat: lucerna autem impiorum extinguetur.
 
 10 Inter superbos semper iurgia sunt: qui autem agunt omnia cum consilio, reguntur sapientia.
 
-11 Substantia festinata minuetur: quæ autem paulatim colligitur manu, multiplicabitur.
+11 Substantia festinata minuetur: quae autem paulatim colligitur manu, multiplicabitur.
 
-12 Spes, quæ differtur, affligit animam: lignum vitæ desiderium veniens.
+12 Spes, quae differtur, affligit animam: lignum vitae desiderium veniens.
 
-13 Qui detrahit alicui rei, ipse se in futurum obligat: qui autem timet præceptum, in pace versabitur. Animæ dolosæ errant in peccatis: iusti autem misericordes sunt, et miserantur.
+13 Qui detrahit alicui rei, ipse se in futurum obligat: qui autem timet praeceptum, in pace versabitur. Animae dolosae errant in peccatis: iusti autem misericordes sunt, et miserantur.
 
-14 Lex sapientis fons vitæ, ut declinet a ruina mortis.
+14 Lex sapientis fons vitae, ut declinet a ruina mortis.
 
 15 Doctrina bona dabit gratiam: in itinere contemptorum vorago.
 
@@ -51,7 +51,7 @@ draft: false
 
 23 Multi cibi in novalibus patrum: et aliis congregantur absque iudicio.
 
-24 Qui parcit virgæ, odit filium suum: qui autem diligit illum, instanter erudit.
+24 Qui parcit virgae, odit filium suum: qui autem diligit illum, instanter erudit.
 
 25 Iustus comedit, et replet animam suam: venter autem impiorum insaturabilis.
 

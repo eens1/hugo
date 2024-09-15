@@ -13,9 +13,9 @@ draft: false
 
 4 Rogationem contribulati ne abiicias: et non avertas faciem tuam ab egeno.
 
-5 Ab inope ne avertas oculos tuos propter iram: et non relinquas quærentibus tibi retro maledicere:
+5 Ab inope ne avertas oculos tuos propter iram: et non relinquas quaerentibus tibi retro maledicere:
 
-6 maledicentis enim tibi in amaritudine animæ exaudietur deprecatio illius: exaudiet autem eum, qui fecit illum.
+6 maledicentis enim tibi in amaritudine animae exaudietur deprecatio illius: exaudiet autem eum, qui fecit illum.
 
 7 Congregationi pauperum affabilem te facito, et presbytero humilia animam tuam, et magnato humilia caput tuum.
 
@@ -27,7 +27,7 @@ draft: false
 
 11 et eris tu velut filius Altissimi obediens, et miserebitur tui magis quam mater.
 
-12 Sapientia filiis suis vitam inspirat, et suscipit inquirentes se, et præibit in via iustitiæ.
+12 Sapientia filiis suis vitam inspirat, et suscipit inquirentes se, et praeibit in via iustitiae.
 
 13 et qui illam diligit, diligit vitam: et qui vigilaverint ad illam, complectentur placorem eius.
 
@@ -37,15 +37,15 @@ draft: false
 
 16 Qui audit illam, iudicabit Gentes: et qui intuetur illam, permanebit confidens.
 
-17 Si crediderit ei, hereditabit illam, et erunt in confirmatione creaturæ illius.
+17 Si crediderit ei, hereditabit illam, et erunt in confirmatione creaturae illius.
 
 18 quoniam in tentatione ambulat cum eo, et in primis eligit eum.
 
-19 Timorem et metum, et probationem inducet super illum: et cruciabit illum in tribulatione doctrinæ suæ, donec tentet eum in cogitationibus suis, et credat animæ illius.
+19 Timorem et metum, et probationem inducet super illum: et cruciabit illum in tribulatione doctrinae suae, donec tentet eum in cogitationibus suis, et credat animae illius.
 
-20 Et firmabit illum, et iter adducet directum ad illum, et lætificabit illum,
+20 Et firmabit illum, et iter adducet directum ad illum, et laetificabit illum,
 
-21 et denudabit absconsa sua illi, et thesaurizabit super illum scientiam et intellectum iustitiæ.
+21 et denudabit absconsa sua illi, et thesaurizabit super illum scientiam et intellectum iustitiae.
 
 22 Si autem oberraverit, derelinquet eum, et tradet eum in manus inimici sui.
 
@@ -61,9 +61,9 @@ draft: false
 
 28 nec retineas verbum in tempore salutis. Non abscondas sapientiam tuam in decore suo.
 
-29 In lingua enim sapientia dignoscitur: et sensus, et scientia, et doctrina in verbo sensati, et firmamentum in operibus iustitiæ.
+29 In lingua enim sapientia dignoscitur: et sensus, et scientia, et doctrina in verbo sensati, et firmamentum in operibus iustitiae.
 
-30 Non contradicas verbo veritatis ullo modo, et de mendacio ineruditionis tuæ confundere.
+30 Non contradicas verbo veritatis ullo modo, et de mendacio ineruditionis tuae confundere.
 
 31 Non confundaris confiteri peccata tua, et ne subiicias te omni homini pro peccato.
 

@@ -31,7 +31,7 @@ draft: false
 
 13 Aliquoties usque ad mortem periclitatus sum horum causa, et liberatus sum gratia Dei.
 
-14 Spiritus timentium Deum quæritur, et in respectu illius benedicetur.
+14 Spiritus timentium Deum quaeritur, et in respectu illius benedicetur.
 
 15 Spes enim illorum in salvantem illos, et oculi Dei in diligentes se.
 
@@ -41,13 +41,13 @@ draft: false
 
 18 Ad quem respicit, et quis est fortitudo eius?
 
-19 Oculi Domini super timentes eum, protector potentiæ, firmamentum virtutis, tegimen ardoris, et umbraculum meridiani,
+19 Oculi Domini super timentes eum, protector potentiae, firmamentum virtutis, tegimen ardoris, et umbraculum meridiani,
 
 20 deprecatio offensionis, et adiutorium casus, exaltans animam, et illuminans oculos, dans sanitatem, et vitam et benedictionem.
 
-21 Immolantis ex iniquo oblatio est maculata, et non sunt beneplacitæ subsannationes iniustorum.
+21 Immolantis ex iniquo oblatio est maculata, et non sunt beneplacitae subsannationes iniustorum.
 
-22 Dominus solus sustinentibus se in via veritatis et iustitiæ.
+22 Dominus solus sustinentibus se in via veritatis et iustitiae.
 
 23 Dona iniquorum non probat Altissimus, nec respicit in oblationes iniquorum: nec in multitudine sacrificiorum eorum propitiabitur peccatis.
 
@@ -59,7 +59,7 @@ draft: false
 
 27 Qui effundit sanguinem, et qui fraudem facit mercenario, fratres sunt.
 
-28 Unus ædificans, et unus destruens: quid prodest illis nisi labor?
+28 Unus aedificans, et unus destruens: quid prodest illis nisi labor?
 
 29 Unus orans, et unus maledicens: cuius vocem exaudiet Deus?
 

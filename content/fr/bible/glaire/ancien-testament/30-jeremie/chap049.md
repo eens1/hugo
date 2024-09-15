@@ -60,7 +60,7 @@ summary: |
 
 ***Note*** :  Jr. 49, 14 : Voir Abdias, 1, 1.
 
-15 Car voilà que je t'ai rendu petit parmi les nations, méprisable entre les hommes. 16 Ton arrogance t'a trompé, ainsi que l'orgueil de ton cœur; toi qui habites dans des cavernes de pierres et qui t'efforces d'occuper le haut d'une colline; quand tu aurais élevé ton nid comme l'aigle, je t'arracherais de là, dit le Seigneur.
+15 Car voilà que je t'ai rendu petit parmi les nations, méprisable entre les hommes. 16 Ton arrogance t'a trompé, ainsi que l'orgueil de ton coeur; toi qui habites dans des cavernes de pierres et qui t'efforces d'occuper le haut d'une colline; quand tu aurais élevé ton nid comme l'aigle, je t'arracherais de là, dit le Seigneur.
 
 ***Note*** :  Jr. 49, 16 : Voir Abdias, 1, 4. ― Dans des cavernes de pierres. Pétra, pierre, était la capitale de l’Idumée et les habitants de cette ville avaient en partie leur demeure dans les rochers taillés pour leur servir d’habitation. Voir Isaïe, 16, 1. ― Qui t’efforces d’occuper le haut d’une colline. L’Idumée est très montagneuse et ses places fortes étaient perchées sur les sommets des montagnes comme des nids d’aigle.
 
@@ -86,7 +86,7 @@ summary: |
 
 ***Note*** :  Jr. 49, 21 : Sur la mer Rouge. Les navigateurs de la mer Rouge, qui font le commerce avec l’Idumée, entendent le bruit de sa ruine.
 
-22 Et comme l'aigle il remontera et il s'envolera; et il étendra ses ailes sur Bosra; et le cœur des forts de l'Idumée sera en ce jour-là comme le cœur d'une femme en travail.
+22 Et comme l'aigle il remontera et il s'envolera; et il étendra ses ailes sur Bosra; et le coeur des forts de l'Idumée sera en ce jour-là comme le coeur d'une femme en travail.
 
 
 23 A Damas. Emath a été couvert de confusion, ainsi que Arphad, parce qu'elles ont entendu une nouvelle très mauvaise ; elles ont été troublées comme sur la mer; par inquiétude elle n'a pu trouver de repos.

@@ -19,39 +19,39 @@ draft: false
 
 7 Fuit autem numerus eorum cum fratribus suis, qui erudiebant canticum Domini, cuncti doctores, ducenti octogintaocto.
 
-8 Miseruntque sortes per vices suas, ex æquo tam maior quam minor, doctus pariter et indoctus.
+8 Miseruntque sortes per vices suas, ex aequo tam maior quam minor, doctus pariter et indoctus.
 
-9 Egressaque est sors prima Ioseph, qui erat de Asaph. Secunda Godoliæ, ipsi et filiis eius, et fratribus eius duodecim.
+9 Egressaque est sors prima Ioseph, qui erat de Asaph. Secunda Godoliae, ipsi et filiis eius, et fratribus eius duodecim.
 
 10 Tertia Zachur, filiis et fratribus eius duodecim.
 
 11 Quarta Isari, filiis et fratribus eius duodecim.
 
-12 Quinta Nathaniæ, filiis et fratribus eius duodecim.
+12 Quinta Nathaniae, filiis et fratribus eius duodecim.
 
 13 Sexta Bocciau, filiis et fratribus eius duodecim.
 
 14 Septima Isreela, filiis et fratribus eius duodecim.
 
-15 Octava Iesaiæ, filiis et fratribus eius duodecim.
+15 Octava Iesaiae, filiis et fratribus eius duodecim.
 
-16 Nona Mathaniæ, filiis et fratribus eius duodecim.
+16 Nona Mathaniae, filiis et fratribus eius duodecim.
 
-17 Decima Semeiæ, filiis et fratribus eius duodecim.
+17 Decima Semeiae, filiis et fratribus eius duodecim.
 
 18 Undecima Azareel, filiis et fratribus eius duodecim.
 
-19 Duodecima Hasabiæ, filiis et fratribus eius duodecim.
+19 Duodecima Hasabiae, filiis et fratribus eius duodecim.
 
 20 Tertiadecima Subael, filiis et fratribus eius duodecim.
 
-21 Quartadecima Mathathiæ, filiis et fratribus eius duodecim.
+21 Quartadecima Mathathiae, filiis et fratribus eius duodecim.
 
 22 Quintadecima Ierimoth, filiis et fratribus eius duodecim.
 
-23 Sextadecima Hananiæ, filiis et fratribus eius duodecim.
+23 Sextadecima Hananiae, filiis et fratribus eius duodecim.
 
-24 Septimadecima Iesbacassæ, filiis et fratribus eius duodecim.
+24 Septimadecima Iesbacassae, filiis et fratribus eius duodecim.
 
 25 Octavadecima Hanani, filiis et fratribus eius duodecim.
 

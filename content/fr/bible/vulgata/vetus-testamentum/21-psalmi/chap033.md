@@ -9,13 +9,13 @@ draft: false
 
 2 Benedicam Dominum in omni tempore: semper laus eius in ore meo.
 
-3 In Domino laudabitur anima mea: audiant mansueti, et lætentur.
+3 In Domino laudabitur anima mea: audiant mansueti, et laetentur.
 
 4 Magnificate Dominum mecum: et exaltemus nomen eius in idipsum.
 
 5 Exquisivi Dominum, et exaudivit me: et ex omnibus tribulationibus meis eripuit me.
 
-6 Accedite ad eum, et illuminamini: et facies vestræ non confundentur.
+6 Accedite ad eum, et illuminamini: et facies vestrae non confundentur.
 
 7 Iste pauper clamavit, et Dominus exaudivit eum: et de omnibus tribulationibus eius salvavit eum.
 
@@ -43,7 +43,7 @@ draft: false
 
 19 Iuxta est Dominus iis, qui tribulato sunt corde: et humiles spiritu salvabit.
 
-20 Multæ tribulationes iustorum: et de omnibus his liberabit eos Dominus.
+20 Multae tribulationes iustorum: et de omnibus his liberabit eos Dominus.
 
 21 Custodit Dominus omnia ossa eorum: unum ex his non conteretur.
 

@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Hæc locutus est Iesus: et sublevatis oculis in cælum, dixit: Pater venit hora, clarifica filium tuum, ut filius tuus clarificet te:
+1 Haec locutus est Iesus: et sublevatis oculis in caelum, dixit: Pater venit hora, clarifica filium tuum, ut filius tuus clarificet te:
 
-2 Sicut dedisti ei potestatem omnis carnis, ut omne, quod dedisti ei, det eis vitam æternam.
+2 Sicut dedisti ei potestatem omnis carnis, ut omne, quod dedisti ei, det eis vitam aeternam.
 
-3 Hæc est autem vita æterna: Ut cognoscant te, solum Deum verum, et quem misisti Iesum Christum.
+3 Haec est autem vita aeterna: Ut cognoscant te, solum Deum verum, et quem misisti Iesum Christum.
 
 4 Ego te clarificavi super terram: opus consummavi, quod dedisti mihi ut faciam:
 
@@ -17,9 +17,9 @@ draft: false
 
 6 Manifestavi nomen tuum hominibus, quos dedisti mihi de mundo: Tui erant, et mihi eos dedisti: et sermonem tuum servaverunt.
 
-7 Nunc cognoverunt quia omnia, quæ dedisti mihi, abs te sunt:
+7 Nunc cognoverunt quia omnia, quae dedisti mihi, abs te sunt:
 
-8 quia verba, quæ dedisti mihi, dedi eis: et ipsi acceperunt, et cognoverunt vere quia a te exivi, et crediderunt quia tu me misisti.
+8 quia verba, quae dedisti mihi, dedi eis: et ipsi acceperunt, et cognoverunt vere quia a te exivi, et crediderunt quia tu me misisti.
 
 9 Ego pro eis rogo: Non pro mundo rogo, sed pro his, quos dedisti mihi: quia tui sunt:
 
@@ -29,7 +29,7 @@ draft: false
 
 12 Cum essem cum eis, ego servabam eos in nomine tuo. Quos dedisti mihi, custodivi: et nemo ex eis periit, nisi filius perditionis, ut Scriptura impleatur.
 
-13 Nunc autem ad te venio: et hæc loquor in mundo, ut habeant gaudium meum impletum in semetipsis.
+13 Nunc autem ad te venio: et haec loquor in mundo, ut habeant gaudium meum impletum in semetipsis.
 
 14 Ego dedi eis sermonem tuum, et mundus eos odio habuit, quia non sunt de mundo, sicut et ego non sum de mundo.
 

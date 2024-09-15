@@ -25,7 +25,7 @@ Un temps de se taire, et un temps de parler ; 8 Un temps d'amour, et un temps de
 Un temps de guerre, et un temps de paix ;
 
 
-9 Quel avantage a l'homme de son travail ? 10 J'ai vu l'affliction qu'a donnée Dieu aux fils des hommes, pour qu'ils en soient tourmentés. 11 Il a fait toutes choses bonnes en leur temps, et il a livré le monde à leurs disputes ; en sorte que l'homme ne découvre pas l'œuvre que Dieu a opérée depuis le commencement jusqu'à la fin. 12 Et j'ai reconnu qu'il n'y avait rien de mieux que de se réjouir et de faire le bien pendant sa vie.
+9 Quel avantage a l'homme de son travail ? 10 J'ai vu l'affliction qu'a donnée Dieu aux fils des hommes, pour qu'ils en soient tourmentés. 11 Il a fait toutes choses bonnes en leur temps, et il a livré le monde à leurs disputes ; en sorte que l'homme ne découvre pas l'oeuvre que Dieu a opérée depuis le commencement jusqu'à la fin. 12 Et j'ai reconnu qu'il n'y avait rien de mieux que de se réjouir et de faire le bien pendant sa vie.
 
 ***Note*** :  Eccl. 3, 12 : Rien de mieux que de se réjouir ; que d’être joyeux, mais d’une joie sage et modérée, opposée aux soucis immodérés dont il est question dans la note précédente.
 
@@ -33,10 +33,10 @@ Un temps de guerre, et un temps de paix ;
 
 ***Note*** :  Eccl. 3, 13 : Voit le bien ; hébraïsme, pour éprouver le bien, jouir du bien. C’est encore faussement que quelques incrédules prétendent trouver la morale d’Epicure dans ce verset, dont le sens tout naturel est que celui-là agit sagement qui, après avoir amassé quelques biens par son travail, en jouit modérément, comme d’autant de présents du ciel. Or, il n’y a rien là qui ressemble le moins du monde à l’épicurisme. Comparer à Proverbes, 2, 24.
 
-14 J'ai appris que les œuvres que Dieu a faites persévèrent à perpétuité ; nous ne pouvons rien ajouter ni rien retrancher aux choses que Dieu a faites afin qu'il soit craint. 15 Ce qui a été fait demeure: les choses qui doivent être ont déjà été; et Dieu rétablit ce qui est passé.
+14 J'ai appris que les oeuvres que Dieu a faites persévèrent à perpétuité ; nous ne pouvons rien ajouter ni rien retrancher aux choses que Dieu a faites afin qu'il soit craint. 15 Ce qui a été fait demeure: les choses qui doivent être ont déjà été; et Dieu rétablit ce qui est passé.
 
 
-16 J'ai vu sous le soleil, dans le lieu du jugement, l'impiété; et, dans le lieu de la justice, l'iniquité. 17 Et j'ai dit dans mon cœur : Dieu jugera le juste et l'impie, et ce sera alors le temps de toute chose. 18 J'ai dit en mon cœur touchant les fils des hommes : Que Dieu les éprouve, et montre qu'ils sont semblables à des bêtes.
+16 J'ai vu sous le soleil, dans le lieu du jugement, l'impiété; et, dans le lieu de la justice, l'iniquité. 17 Et j'ai dit dans mon coeur : Dieu jugera le juste et l'impie, et ce sera alors le temps de toute chose. 18 J'ai dit en mon coeur touchant les fils des hommes : Que Dieu les éprouve, et montre qu'ils sont semblables à des bêtes.
 
 ***Note*** :  Eccl. 3, 18-20 : C’est à tort que les incrédules ont prétendu trouver du matérialisme dans ces passages. L’auteur ne veut parler que du corps, qui est matériel, et de la décomposition que la mort fait subir aux parties qui le composent, puisqu’à Ecclésiaste, 12, 7, il déclare formellement que l’âme survit au corps.
 
@@ -46,5 +46,5 @@ Un temps de guerre, et un temps de paix ;
 ***Note*** :  Eccl. 3, 21 : Qui sait, etc. Il n’y a pas plus de matérialisme dans ce verset que dans les précédents. Salomon y dit seulement, ce qui est incontestable, que la raison humaine ne saurait voir clairement, par ses seules forces, quel peut être le sort réservé à l’homme après sa mort.
 
 
-22 Et j'ai trouvé que rien n'est meilleur pour l'homme que de se réjouir en son œuvre, et que c'est là sa part : car qui l'amènera à connaître les choses qui doivent arriver après lui?
+22 Et j'ai trouvé que rien n'est meilleur pour l'homme que de se réjouir en son oeuvre, et que c'est là sa part : car qui l'amènera à connaître les choses qui doivent arriver après lui?
 

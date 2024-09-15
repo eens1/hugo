@@ -7,7 +7,7 @@ draft: false
 
 1 Canticum graduum. Levavi oculos meos in montes, unde veniet auxilium mihi.
 
-2 Auxilium meum a Domino, qui fecit cælum et terram.
+2 Auxilium meum a Domino, qui fecit caelum et terram.
 
 3 Non det in commotionem pedem tuum: neque dormitet qui custodit te.
 
@@ -19,5 +19,5 @@ draft: false
 
 7 Dominus custodit te ab omni malo: custodiat animam tuam Dominus.
 
-8 Dominus custodiat introitum tuum, et exitum tuum: ex hoc nunc, et usque in sæculum.
+8 Dominus custodiat introitum tuum, et exitum tuum: ex hoc nunc, et usque in saeculum.
 

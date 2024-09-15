@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 In anno primo Darii filii Assueri de semine Medorum, qui imperavit super regnum Chaldæorum:
+1 In anno primo Darii filii Assueri de semine Medorum, qui imperavit super regnum Chaldaeorum:
 
 2 Anno uno regni eius, ego Daniel intellexi in libris numerum annorum, de quo factus est sermo Domini ad Ieremiam prophetam, ut complerentur desolationis Ierusalem septuaginta anni.
 
@@ -15,7 +15,7 @@ draft: false
 
 5 Peccavimus, iniquitatem fecimus, impie egimus, et recessimus: et declinavimus a mandatis tuis, ac iudiciis.
 
-6 Non obedivimus servis tuis prophetis, qui locuti sunt in nomine tuo regibus nostris, principibus nostris, patribus nostris, omnique populo terræ.
+6 Non obedivimus servis tuis prophetis, qui locuti sunt in nomine tuo regibus nostris, principibus nostris, patribus nostris, omnique populo terrae.
 
 7 Tibi Domine iustitia: nobis autem confusio faciei, sicut est hodie viro Iuda, et habitatoribus Ierusalem, et omni Israel, his qui prope sunt, et his qui procul in universis terris, ad quas eiecisti eos propter iniquitates eorum, in quibus peccaverunt in te.
 
@@ -25,15 +25,15 @@ draft: false
 
 10 et non audivimus vocem Domini Dei nostri ut ambularemus in lege eius, quam posuit nobis per servos suos prophetas.
 
-11 Et omnis Israel prævaricati sunt legem tuam, et declinaverunt ne audirent vocem tuam, et stillavit super nos maledictio, et detestatio, quæ scripta est in libro Moysi servi Dei, quia peccavimus ei.
+11 Et omnis Israel praevaricati sunt legem tuam, et declinaverunt ne audirent vocem tuam, et stillavit super nos maledictio, et detestatio, quae scripta est in libro Moysi servi Dei, quia peccavimus ei.
 
-12 Et statuit sermones suos, quos locutus est super nos, et super principes nostros, qui iudicaverunt nos, ut superinduceret in nos magnum malum, quale numquam fuit sub omni cælo, secundum quod factum est in Ierusalem.
+12 Et statuit sermones suos, quos locutus est super nos, et super principes nostros, qui iudicaverunt nos, ut superinduceret in nos magnum malum, quale numquam fuit sub omni caelo, secundum quod factum est in Ierusalem.
 
 13 Sicut scriptum est in lege Moysi, omne malum hoc venit super nos: et non rogavimus faciem tuam Domine Deus noster, ut reverteremur ab iniquitatibus nostris, et cogitaremus veritatem tuam.
 
-14 Et vigilavit Dominus super malitiam, et adduxit eam super nos: iustus Dominus Deus noster in omnibus operibus suis, quæ fecit: non enim audivimus vocem eius.
+14 Et vigilavit Dominus super malitiam, et adduxit eam super nos: iustus Dominus Deus noster in omnibus operibus suis, quae fecit: non enim audivimus vocem eius.
 
-15 Et nunc Domine Deus noster, qui eduxisti populum tuum de Terra Ægypti in manu forti, et fecisti tibi nomen secundum diem hanc: peccavimus, iniquitatem fecimus.
+15 Et nunc Domine Deus noster, qui eduxisti populum tuum de Terra AEgypti in manu forti, et fecisti tibi nomen secundum diem hanc: peccavimus, iniquitatem fecimus.
 
 16 Domine in omnem iustitiam tuam: avertatur obsecro ira tua, et furor tuus a civitate tua Ierusalem, et monte sancto tuo. Propter peccata enim nostra, et iniquitates patrum nostrorum, Ierusalem, et populus tuus in opprobrium sunt omnibus per circuitum nostrum.
 
@@ -51,9 +51,9 @@ draft: false
 
 23 Ab exordio precum tuarum egressus est sermo: ego autem veni ut indicarem tibi, quia vir desideriorum es: tu ergo animadverte sermonem, et intellige visionem.
 
-24 Septuaginta hebdomades abbreviatæ sunt super populum tuum, et super urbem sanctam tuam ut consummetur prævaricatio, et finem accipiat peccatum, et deleatur iniquitas, et adducatur iustitia sempiterna, et impleatur visio, et prophetia, et ungatur Sanctus sanctorum.
+24 Septuaginta hebdomades abbreviatae sunt super populum tuum, et super urbem sanctam tuam ut consummetur praevaricatio, et finem accipiat peccatum, et deleatur iniquitas, et adducatur iustitia sempiterna, et impleatur visio, et prophetia, et ungatur Sanctus sanctorum.
 
-25 Scito ergo, et animadverte: Ab exitu sermonis, ut iterum ædificetur Ierusalem, usque ad Christum ducem, hebdomades septem, et hebdomades sexaginta duæ erunt: et rursum ædificabitur platea, et muri in angustia temporum.
+25 Scito ergo, et animadverte: Ab exitu sermonis, ut iterum aedificetur Ierusalem, usque ad Christum ducem, hebdomades septem, et hebdomades sexaginta duae erunt: et rursum aedificabitur platea, et muri in angustia temporum.
 
 26 Et post hebdomades sexaginta duas occidetur Christus: et non erit eius populus, qui eum negaturus est. Et civitatem, et sanctuarium dissipabit populus cum duce venturo: et finis eius vastitas, et post finem belli statuta desolatio.
 

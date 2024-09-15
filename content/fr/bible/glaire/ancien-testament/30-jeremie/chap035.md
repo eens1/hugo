@@ -30,7 +30,7 @@ Jonadab, notre père, fils de Réchab, dans toutes les choses qu'il nous a ordon
 
 ***Note*** :  Jr. 35, 14 : Me levant dès le matin ; hébraïsme, pour me hâtant.
 
-15 Et j'ai envoyé vers vous mes serviteurs, les prophètes, me levant au point du jour, envoyant, et disant: Détournez-vous chacun de vos voies très mauvaises, et rendez bonnes vos œuvres; ne suivez pas des dieux étrangers, et ne les adorez pas ; et vous habiterez dans la terre que je vous ai donnée à vous et à vos pères; et vous n'avez pas incliné votre oreille, et vous ne m'avez pas écouté.
+15 Et j'ai envoyé vers vous mes serviteurs, les prophètes, me levant au point du jour, envoyant, et disant: Détournez-vous chacun de vos voies très mauvaises, et rendez bonnes vos oeuvres; ne suivez pas des dieux étrangers, et ne les adorez pas ; et vous habiterez dans la terre que je vous ai donnée à vous et à vos pères; et vous n'avez pas incliné votre oreille, et vous ne m'avez pas écouté.
 
 ***Note*** :  Jr. 35, 15 : Voir Jérémie, 18, 11 ; 25, 5.
 

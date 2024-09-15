@@ -11,13 +11,13 @@ draft: false
 
 3 Qui posuit fines tuos pacem: et adipe frumenti satiat te.
 
-4 Qui emittit eloquium suum terræ: velociter currit sermo eius.
+4 Qui emittit eloquium suum terrae: velociter currit sermo eius.
 
 5 Qui dat nivem sicut lanam: nebulam sicut cinerem spargit,
 
 6 Mittit crystallum suum sicut buccellas: ante faciem frigoris eius quis sustinebit?
 
-7 Emittet verbum suum, et liquefaciet ea: flabit spiritus eius, et fluent aquæ.
+7 Emittet verbum suum, et liquefaciet ea: flabit spiritus eius, et fluent aquae.
 
 8 Qui annunciat verbum suum Iacob: iustitias, et iudicia sua Israel.
 

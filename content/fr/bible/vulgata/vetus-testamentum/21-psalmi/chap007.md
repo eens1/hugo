@@ -17,7 +17,7 @@ draft: false
 
 6 Persequatur inimicus animam meam, et comprehendat, et conculcet in terra vitam meam, et gloriam meam in pulverem deducat.
 
-7 Exurge Domine in ira tua: et exaltare in finibus inimicorum meorum. Et exurge Domine Deus meus in præcepto quod mandasti:
+7 Exurge Domine in ira tua: et exaltare in finibus inimicorum meorum. Et exurge Domine Deus meus in praecepto quod mandasti:
 
 8 et synagoga populorum circumdabit te. Et propter hanc in altum regredere:
 

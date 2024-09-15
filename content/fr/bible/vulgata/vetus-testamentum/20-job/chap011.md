@@ -15,11 +15,11 @@ draft: false
 
 5 Atque utinam Deus loqueretur tecum, et aperiret labia sua tibi,
 
-6 Ut ostenderet tibi secreta sapientiæ, et quod multiplex esset lex eius, et intelligeres quod multo minora exigaris ab eo, quam meretur iniquitas tua.
+6 Ut ostenderet tibi secreta sapientiae, et quod multiplex esset lex eius, et intelligeres quod multo minora exigaris ab eo, quam meretur iniquitas tua.
 
 7 Forsitan vestigia Dei comprehendes, et usque ad perfectum Omnipotentem reperies?
 
-8 Excelsior cælo est, et quid facies? profundior inferno, et unde cognosces?
+8 Excelsior caelo est, et quid facies? profundior inferno, et unde cognosces?
 
 9 Longior terra mensura eius, et latior mari.
 
@@ -31,11 +31,11 @@ draft: false
 
 13 Tu autem firmasti cor tuum, et expandisti ad eum manus tuas.
 
-14 Si iniquitatem, quæ est in manu tua, abstuleris a te, et non manserit in tabernaculo tuo iniustitia:
+14 Si iniquitatem, quae est in manu tua, abstuleris a te, et non manserit in tabernaculo tuo iniustitia:
 
 15 Tunc levare poteris faciem tuam absque macula, et eris stabilis, et non timebis.
 
-16 Miseriæ quoque oblivisceris, et quasi aquarum quæ præterierunt recordaberis.
+16 Miseriae quoque oblivisceris, et quasi aquarum quae praeterierunt recordaberis.
 
 17 Et quasi meridianus fulgor consurget tibi ad vesperam: et cum te consumptum putaveris, orieris ut lucifer.
 
@@ -43,5 +43,5 @@ draft: false
 
 19 Requiesces, et non erit qui te exterreat: et deprecabuntur faciem tuam plurimi.
 
-20 Oculi autem impiorum deficient, et effugium peribit ab eis, et spes illorum abominatio animæ.
+20 Oculi autem impiorum deficient, et effugium peribit ab eis, et spes illorum abominatio animae.
 

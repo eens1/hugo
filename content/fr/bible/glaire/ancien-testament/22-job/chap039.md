@@ -33,7 +33,7 @@ summary: |
 
 9 Est-ce qu'un rhinocéros voudra te servir, ou demeurera-t-il à ton étable?
 
-***Note*** :  Job 39, 9 : Un rhinocéros. Dans l’original reem. Le nom de cet animal est diversement traduit. Les Septante l’ont rendu par licorne ; Aquila et la Vulgate par rhinocéros ; d’autres par oryx, espèce d’antilope ; Schultens, Gesenius, par buffle. Les questions qui se rapportent au reem, versets 9 à 12, et l’opposition qui est établie entre cet animal et le bœuf domestique prouvent qu’il s’agit du bœuf sauvage ou du buffle.
+***Note*** :  Job 39, 9 : Un rhinocéros. Dans l’original reem. Le nom de cet animal est diversement traduit. Les Septante l’ont rendu par licorne ; Aquila et la Vulgate par rhinocéros ; d’autres par oryx, espèce d’antilope ; Schultens, Gesenius, par buffle. Les questions qui se rapportent au reem, versets 9 à 12, et l’opposition qui est établie entre cet animal et le boeuf domestique prouvent qu’il s’agit du boeuf sauvage ou du buffle.
 
 10 Est-ce que tu lieras un rhinocéros à tes traits, pour qu'il laboure? ou rompra-t-il les glèbes des vallons après toi?
 
@@ -46,17 +46,17 @@ summary: |
 
 ***Note*** :  Job 39, 13 : Littéralement dans l’original : L’aile de l’autruche bat avec allégresse ; est-ce l’aile pieuse (de la cigogne qu’on appelle pieuse à cause de sa tendresse pour ses petits) ? Non ; est-ce l’aile prenant l’essor (ou l’aile de l’épervier) ? Non, car elle ne vole pas.
 
-14 Quand elle abandonne ses œufs sur la terre, sera-ce toi, par hasard, qui les réchaufferas dans la poussière?
+14 Quand elle abandonne ses oeufs sur la terre, sera-ce toi, par hasard, qui les réchaufferas dans la poussière?
 
-***Note*** :  Job 39, 14 : Les naturalistes et les voyageurs rapportent sur ce point des choses contradictoires. Si l’autruche ne néglige pas entièrement ses œufs, il paraît du moins certain qu’elle en prend peu de soin, surtout dans les jours qui suivent la ponte, et qu’elle les abandonne toujours quand elle est poursuivie par les chasseurs.
+***Note*** :  Job 39, 14 : Les naturalistes et les voyageurs rapportent sur ce point des choses contradictoires. Si l’autruche ne néglige pas entièrement ses oeufs, il paraît du moins certain qu’elle en prend peu de soin, surtout dans les jours qui suivent la ponte, et qu’elle les abandonne toujours quand elle est poursuivie par les chasseurs.
 
 15 Elle oublie qu'un pied les foulera, ou que la bête des champs les écrasera.
 
-***Note*** :  Job 39, 15 : L’autruche fait son nid dans un trou qu’elle creuse dans le sable. Les œufs mal enterrés ou dispersés sont souvent la proie des chacals et des hyènes.
+***Note*** :  Job 39, 15 : L’autruche fait son nid dans un trou qu’elle creuse dans le sable. Les oeufs mal enterrés ou dispersés sont souvent la proie des chacals et des hyènes.
 
 16 Elle est dure pour ses petits, comme s'ils n'étaient pas les siens, elle a rendu son travail inutile, en les abandonnant, aucune crainte ne l'y obligeant.
 
-***Note*** :  Job 39, 16 : L’autruche travaille en vain, en pondant des œufs, en les plaçant dans un nid, en les couvant même pour un temps, puisqu’après cela elle les abandonne sans y être forcée par aucun motif de crainte. Si quelquefois les autres oiseaux quittent leur nid, c’est ou parce que leurs œufs ont été refroidis, ou qu’on a dérangé leur nid, ou qu’on les en a chassés et qu’on les a effarouchés. Mais l’autruche abandonne ses œufs, sans y être obligée par aucune de ces raisons.
+***Note*** :  Job 39, 16 : L’autruche travaille en vain, en pondant des oeufs, en les plaçant dans un nid, en les couvant même pour un temps, puisqu’après cela elle les abandonne sans y être forcée par aucun motif de crainte. Si quelquefois les autres oiseaux quittent leur nid, c’est ou parce que leurs oeufs ont été refroidis, ou qu’on a dérangé leur nid, ou qu’on les en a chassés et qu’on les a effarouchés. Mais l’autruche abandonne ses oeufs, sans y être obligée par aucune de ces raisons.
 
 17 Car Dieu l'a privée de sagesse, et ne lui a pas donné l'intelligence.
 

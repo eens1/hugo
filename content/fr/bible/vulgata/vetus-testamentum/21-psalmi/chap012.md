@@ -13,7 +13,7 @@ draft: false
 
 4 respice, et exaudi me Domine Deus meus. Illumina oculos meos ne umquam obdormiam in morte:
 
-5 ne quando dicat inimicus meus: Prævalui adversus eum. Qui tribulant me, exultabunt si motus fuero:
+5 ne quando dicat inimicus meus: Praevalui adversus eum. Qui tribulant me, exultabunt si motus fuero:
 
 6 ego autem in misericordia tua speravi. Exultabit cor meum in salutari tuo: cantabo Domino qui bona tribuit mihi: et psallam nomini Domini altissimi.
 

@@ -22,13 +22,13 @@ summary: |
 4 Or il y avait des géants sur la terre en ces jours-là. Car après que les enfants de Dieu se furent approchés des filles des hommes, celles-ci enfantèrent ; et de là sont venus ces hommes puissants, fameux dès les temps anciens.
 
 
-5 Mais Dieu voyant que la malice des hommes était grande sur la terre, et que toutes les pensées de leurs cœurs étaient tournées au mal en tout temps,
+5 Mais Dieu voyant que la malice des hommes était grande sur la terre, et que toutes les pensées de leurs coeurs étaient tournées au mal en tout temps,
 
 ***Note*** :  Gn. 6, 5 : Voir Genèse, 8, 21 ; Matthieu, 15, 19.
 
-6 Se repentit d'avoir fait l'homme sur la terre ; et touché de douleur jusqu'au fond du cœur,
+6 Se repentit d'avoir fait l'homme sur la terre ; et touché de douleur jusqu'au fond du coeur,
 
-***Note*** :  Gn. 6, 6 : Les expressions se repentir, être touché jusqu’au fond du cœur, sont ici purement métaphoriques et signifient sous les emblèmes des affections humaines, le décret par lequel Dieu avait arrêté qu’il punirait les hommes obstinés dans leurs désordres et dans leur incrédulité.
+***Note*** :  Gn. 6, 6 : Les expressions se repentir, être touché jusqu’au fond du coeur, sont ici purement métaphoriques et signifient sous les emblèmes des affections humaines, le décret par lequel Dieu avait arrêté qu’il punirait les hommes obstinés dans leurs désordres et dans leur incrédulité.
 
 7 J'exterminerai, dit-il, l'homme que j'ai créé, de la face de la terre, depuis l'homme jusqu'aux animaux, depuis le reptile jusqu'aux oiseaux du ciel ; car je me repens de les avoir faits.
 

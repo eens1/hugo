@@ -85,7 +85,7 @@ summary: |
 45 Et Josaphat eut la paix avec le roi d'Israël.
 
 
-46 Mais le reste des actions de Josaphat, et ses œuvres qu'il fit, et ses combats, n'est-ce pas écrit dans le Livre des actions des jours des rois de Juda?
+46 Mais le reste des actions de Josaphat, et ses oeuvres qu'il fit, et ses combats, n'est-ce pas écrit dans le Livre des actions des jours des rois de Juda?
 
 
 47 Mais aussi les restes des efféminés qui étaient demeurés dans les jours d'Asa son père, il les enleva de la terre.

@@ -18,7 +18,7 @@ summary: |
 ***Note*** :  Sir. 11, 1 : La sagesse, etc. Comparer à Genèse, 41, 40 ; Daniel, 6, 3 ; Jean, 7, 18.
 
 
-2 Ne loue pas un homme d'après son apparence, et ne méprise pas un homme à son aspect. 3 Petite est l'abeille entre tous les volatiles, et son fruit possède la source de la douceur. 4 De ton vêtement ne te glorifie jamais, et au jour de tes honneurs ne t'élève point; parce qu'admirables sont les œuvres du Très-Haut seul, et que glorieuses et cachées et invisibles sont ses œuvres.
+2 Ne loue pas un homme d'après son apparence, et ne méprise pas un homme à son aspect. 3 Petite est l'abeille entre tous les volatiles, et son fruit possède la source de la douceur. 4 De ton vêtement ne te glorifie jamais, et au jour de tes honneurs ne t'élève point; parce qu'admirables sont les oeuvres du Très-Haut seul, et que glorieuses et cachées et invisibles sont ses oeuvres.
 
 ***Note*** :  Sir. 11, 4 : Voir Actes des Apôtres, 12, 21-22.
 
@@ -47,7 +47,7 @@ summary: |
 
 ***Note*** :  Sir. 11, 11 : Voir Ecclésiaste, 4, 8.
 
-12 Il est tel homme énervé ayant besoin de se fortifier, manquant encore plus de force et abondant en pauvreté; 13 Et l'œil de Dieu l'a regardé en bien, et il l'a relevé de son humiliation, et il a élevé sa tête; et beaucoup s'en sont étonnés, et ont honoré Dieu.
+12 Il est tel homme énervé ayant besoin de se fortifier, manquant encore plus de force et abondant en pauvreté; 13 Et l'oeil de Dieu l'a regardé en bien, et il l'a relevé de son humiliation, et il a élevé sa tête; et beaucoup s'en sont étonnés, et ont honoré Dieu.
 
 ***Note*** :  Sir. 11, 13 : Voir Job, 42, 10. ― En bien (in bono) ; c’est-à-dire favorablement.
 
@@ -87,9 +87,9 @@ summary: |
 
 ***Note*** :  Sir. 11, 27 : Voir Ecclésiastique, 18, 25.
 
-28 Parce qu'il est facile devant Dieu, au jour de la mort, de rendre à chacun selon ses voies. 29 Le mal d'un moment fait oublier de grands plaisirs ; et à la fin de l'homme la révélation de ses œuvres. 30 Avant sa mort, ne loue aucun homme ; parce que dans ses enfants on connaît un homme. 31 N'introduis pas tout homme dans ta maison, car nombreux sont les pièges du trompeur. 32 Car comme l'estomac de ceux qui sentent mauvais jette une odeur fétide, et comme la perdrix est conduite dans une cage, et le chevreuil dans un lacs: ainsi aussi est le cœur des superbes, et ainsi celui qui examinant voit la chute de son prochain.
+28 Parce qu'il est facile devant Dieu, au jour de la mort, de rendre à chacun selon ses voies. 29 Le mal d'un moment fait oublier de grands plaisirs ; et à la fin de l'homme la révélation de ses oeuvres. 30 Avant sa mort, ne loue aucun homme ; parce que dans ses enfants on connaît un homme. 31 N'introduis pas tout homme dans ta maison, car nombreux sont les pièges du trompeur. 32 Car comme l'estomac de ceux qui sentent mauvais jette une odeur fétide, et comme la perdrix est conduite dans une cage, et le chevreuil dans un lacs: ainsi aussi est le coeur des superbes, et ainsi celui qui examinant voit la chute de son prochain.
 
-***Note*** :  Sir. 11, 32 : Le sens de ce verset est que les hommes au cœur superbe ne produisent au dehors rien que de mauvais, et qu’ils attirent les hommes dans la perdition, comme les appeaux appellent et attirent les autres oiseaux. ― Le chasseur se sert d’une perdrix captive pour attirer d’autres perdrix et les prendre.
+***Note*** :  Sir. 11, 32 : Le sens de ce verset est que les hommes au coeur superbe ne produisent au dehors rien que de mauvais, et qu’ils attirent les hommes dans la perdition, comme les appeaux appellent et attirent les autres oiseaux. ― Le chasseur se sert d’une perdrix captive pour attirer d’autres perdrix et les prendre.
 
 33 Car convertissant les bonnes choses en mauvaises, il dresse des embûches, et il imprimera une tache sur les élus.
 

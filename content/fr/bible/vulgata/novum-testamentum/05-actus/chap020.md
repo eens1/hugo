@@ -7,21 +7,21 @@ draft: false
 
 1 Postquam autem cessavit tumultus, vocatis Paulus discipulis, et exhortatus eos, valedixit, et profectus est ut iret in Macedoniam.
 
-2 Cum autem perambulasset partes illas, et exhortatus eos fuisset multo sermone, venit ad Græciam:
+2 Cum autem perambulasset partes illas, et exhortatus eos fuisset multo sermone, venit ad Graeciam:
 
-3 ubi cum fecisset menses tres, factæ sunt illi insidiæ a Iudæis navigaturo in Syriam: habuitque consilium ut reverteretur per Macedoniam.
+3 ubi cum fecisset menses tres, factae sunt illi insidiae a Iudaeis navigaturo in Syriam: habuitque consilium ut reverteretur per Macedoniam.
 
-4 Comitatus est autem eum Sopater Pyrrhi Berœensis, Thessalonicensium vero Aristarchus, et Secundus, et Gaius Derbeus, et Timotheus: Asiani vero Tychicus, et Trophimus.
+4 Comitatus est autem eum Sopater Pyrrhi Beroeensis, Thessalonicensium vero Aristarchus, et Secundus, et Gaius Derbeus, et Timotheus: Asiani vero Tychicus, et Trophimus.
 
-5 Hi cum præcessissent, sustinuerunt nos Troade:
+5 Hi cum praecessissent, sustinuerunt nos Troade:
 
 6 nos vero navigavimus post dies Azymorum a Philippis, et venimus ad eos Troadem in diebus quinque, ubi demorati sumus diebus septem.
 
 7 Una autem Sabbati cum convenissemus ad frangendum panem, Paulus disputabat cum eis profecturus in crastinum, protraxitque sermonem usque in mediam noctem.
 
-8 Erant autem lampades copiosæ in cœnaculo, ubi eramus congregati.
+8 Erant autem lampades copiosae in coenaculo, ubi eramus congregati.
 
-9 Sedens autem quidam adolescens nomine Eutychus super fenestram, cum mergeretur somno gravi, disputante diu Paulo, ductus somno cecidit de tertio cœnaculo deorsum, et sublatus est mortuus.
+9 Sedens autem quidam adolescens nomine Eutychus super fenestram, cum mergeretur somno gravi, disputante diu Paulo, ductus somno cecidit de tertio coenaculo deorsum, et sublatus est mortuus.
 
 10 Ad quem cum descendisset Paulus, incubuit super eum: et complexus dixit: Nolite turbari, anima enim ipsius in ipso est.
 
@@ -37,23 +37,23 @@ draft: false
 
 16 proposuerat enim Paulus transnavigare Ephesum, nequa mora illi fieret in Asia. Festinabat enim, si possibile sibi esset, ut diem Pentecostes faceret Ierosolymis.
 
-17 A Mileto autem mittens Ephesum, vocavit Maiores natu Ecclesiæ.
+17 A Mileto autem mittens Ephesum, vocavit Maiores natu Ecclesiae.
 
 18 Qui cum venissent ad eum, et simul essent, dixit eis: Vos scitis a prima die, qua ingressus sum in Asiam, qualiter vobiscum per omne tempus fuerim,
 
-19 serviens Domino cum omni humilitate, et lacrymis, et tentationibus, quæ mihi acciderunt ex insidiis Iudæorum:
+19 serviens Domino cum omni humilitate, et lacrymis, et tentationibus, quae mihi acciderunt ex insidiis Iudaeorum:
 
 20 quomodo nihil subtraxerim utilium, quominus annunciarem vobis, et docerem vos publice, et per domos,
 
-21 testificans Iudæis, atque Gentilibus in Deum pœnitentiam, et fidem in Dominum nostrum Iesum Christum.
+21 testificans Iudaeis, atque Gentilibus in Deum poenitentiam, et fidem in Dominum nostrum Iesum Christum.
 
-22 Et nunc ecce alligatus ego spiritu, vado in Ierusalem: quæ in ea ventura sint mihi, ignorans:
+22 Et nunc ecce alligatus ego spiritu, vado in Ierusalem: quae in ea ventura sint mihi, ignorans:
 
 23 nisi quod Spiritus sanctus per omnes civitates mihi protestatur, dicens: quoniam vincula, et tribulationes Ierosolymis me manent.
 
-24 Sed nihil horum vereor: nec facio animam meam pretiosiorem quam me, dummodo consummem cursum meum, et ministerium verbi, quod accepi a Domino Iesu, testificari Evangelium gratiæ Dei.
+24 Sed nihil horum vereor: nec facio animam meam pretiosiorem quam me, dummodo consummem cursum meum, et ministerium verbi, quod accepi a Domino Iesu, testificari Evangelium gratiae Dei.
 
-25 Et nunc ecce ego scio quia amplius non videbitis faciem meam vos omnes, per quos transivi prædicans regnum Dei.
+25 Et nunc ecce ego scio quia amplius non videbitis faciem meam vos omnes, per quos transivi praedicans regnum Dei.
 
 26 Quapropter contestor vos hodierna die, quia mundus sum a sanguine omnium.
 
@@ -67,15 +67,15 @@ draft: false
 
 31 Propter quod vigilate memoria retinentes: quoniam per triennium nocte et die non cessavi, cum lacrymis monens unumquemque vestrum.
 
-32 Et nunc commendo vos Deo, et verbo gratiæ ipsius, qui potens est ædificare, et dare hereditatem in sanctificatis omnibus.
+32 Et nunc commendo vos Deo, et verbo gratiae ipsius, qui potens est aedificare, et dare hereditatem in sanctificatis omnibus.
 
 33 Argentum, et aurum, aut vestem nullius concupivi, sicut
 
-34 ipsi scitis: quoniam ad ea, quæ mihi opus erant, et his, qui mecum sunt, ministraverunt manus istæ.
+34 ipsi scitis: quoniam ad ea, quae mihi opus erant, et his, qui mecum sunt, ministraverunt manus istae.
 
 35 Omnia ostendi vobis, quoniam sic laborantes, oportet suscipere infirmos, ac meminisse verbi Domini Iesu, quoniam ipse dixit: Beatius est magis dare, quam accipere.
 
-36 Et cum hæc dixisset, positis genibus suis oravit cum omnibus illis.
+36 Et cum haec dixisset, positis genibus suis oravit cum omnibus illis.
 
 37 Magnus autem fletus factus est omnium: et procumbentes super collum Pauli, osculabantur eum,
 

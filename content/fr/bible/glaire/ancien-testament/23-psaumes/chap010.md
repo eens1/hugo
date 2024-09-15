@@ -10,16 +10,16 @@ summary: |
 
 1 Pour la fin, psaume de David
 
-***Note*** :  Ps. 10, 1 : Hébreu : « Au chef de chœur. » David refuse de s’enfuir malgré le danger qui menace sa vie, parce qu’il met en Dieu toute sa confiance.
+***Note*** :  Ps. 10, 1 : Hébreu : « Au chef de choeur. » David refuse de s’enfuir malgré le danger qui menace sa vie, parce qu’il met en Dieu toute sa confiance.
 
 
 2 Je me confie dans le Seigneur : comment dites-vous à mon âme : Emigré sur la montagne comme un passereau?
 
-***Note*** :  Ps. 10, 2 : Quomodo dicitis animæ meæ, pour de anima mea, c’est-à-dire de moi. Le traducteur latin a gardé le datif qu’il trouvait en grec.
+***Note*** :  Ps. 10, 2 : Quomodo dicitis animae meae, pour de anima mea, c’est-à-dire de moi. Le traducteur latin a gardé le datif qu’il trouvait en grec.
 
 ***Note*** :  Ps. 10, 2-4 : Discours des amis pusillanimes de David qui lui conseillent de fuir le danger qui le menace.
 
-3 Parce que voilà que les pécheurs ont tendu un arc; ils ont préparé leurs flèches dans un carquois, pour percer dans les ténèbres les hommes droits de cœur.
+3 Parce que voilà que les pécheurs ont tendu un arc; ils ont préparé leurs flèches dans un carquois, pour percer dans les ténèbres les hommes droits de coeur.
 
 
 4 Parce que, ce que vous avez établi, ils l'ont détruit; mais le juste, qu'a-t-il fait? 5 Le Seigneur est dans son saint temple; le Seigneur, son trône est dans le ciel. Ses yeux observent le pauvre : ses paupières interrogent les enfants des hommes.

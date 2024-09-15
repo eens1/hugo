@@ -51,7 +51,7 @@ summary: |
 14 C'est un ferme appui que le Seigneur pour ceux qui le craignent, et son testament doit leur être manifesté.
 
 
-15 Mes yeux sont toujours élevés vers le Seigneur, parce que c'est lui qui dégagera mes pieds du lacs qu'on m'aura tendu. 16 Regardez-moi, et ayez pitié de moi, parce que je suis seul et pauvre. 17 Les tribulations de mon cœur se sont multipliées; arrachez-moi à mes nécessités pressantes. 18 Voyez mon humiliation et ma peine ; et remettez-moi toutes mes fautes. 19 Regardez mes ennemis, parce qu'ils se sont multipliés, et qu'ils me haïssent d'une haine inique.
+15 Mes yeux sont toujours élevés vers le Seigneur, parce que c'est lui qui dégagera mes pieds du lacs qu'on m'aura tendu. 16 Regardez-moi, et ayez pitié de moi, parce que je suis seul et pauvre. 17 Les tribulations de mon coeur se sont multipliées; arrachez-moi à mes nécessités pressantes. 18 Voyez mon humiliation et ma peine ; et remettez-moi toutes mes fautes. 19 Regardez mes ennemis, parce qu'ils se sont multipliés, et qu'ils me haïssent d'une haine inique.
 
 ***Note*** :  Ps. 24, 19 : Voir Jean, 15, 25.
 

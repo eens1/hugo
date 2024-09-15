@@ -39,7 +39,7 @@ summary: |
 6 Et ils virent que la multitude de l'armée était très grande, et ils craignirent fortement; et beaucoup se retirèrent du camp, et il n'en demeura que huit cents.
 
 
-7 Et Judas vit que son armée avait grandement diminué et que la guerre le pressait; il fut brisé de cœur, parce qu'il n'avait pas le temps de les rassembler, et il sentit faiblir son courage. 8 Cependant il dit à ceux qui étaient restés : Levons-nous et allons à nos ennemis pour combattre contre eux, si nous pouvons. 9 Mais ils l'en détournaient, disant : Nous ne le pourrons pas; mais délivrons nos âmes maintenant, et retournons vers nos frères, et alors nous combattrons contre eux ; car nous sommes en petit nombre.
+7 Et Judas vit que son armée avait grandement diminué et que la guerre le pressait; il fut brisé de coeur, parce qu'il n'avait pas le temps de les rassembler, et il sentit faiblir son courage. 8 Cependant il dit à ceux qui étaient restés : Levons-nous et allons à nos ennemis pour combattre contre eux, si nous pouvons. 9 Mais ils l'en détournaient, disant : Nous ne le pourrons pas; mais délivrons nos âmes maintenant, et retournons vers nos frères, et alors nous combattrons contre eux ; car nous sommes en petit nombre.
 
 ***Note*** :  I Macc. 9, 9 : Nos âmes, c’est-à-dire, nos personnes ou nos vies.
 
@@ -50,7 +50,7 @@ summary: |
 
 ***Note*** :  I Macc. 9, 12 : Légion (legio), chez les Anciens, Romains signifiait un corps de gens de guerre, composé d’infanterie et de cavalerie. Le texte grec porte phalange, terme de milice macédonienne, qui désignait un bataillon de troupes serrées d’infanterie.
 
-13 Mais ceux qui étaient du parti de Judas en sonnèrent aussi eux-mêmes, et la terre fut émue du bruit des armées ; et le combat fut engagé depuis le matin jusqu'au soir. 14 Et Judas vit que l'aile à droite de l'armée de Bacchide était la plus forte, et tous ceux d'un cœur ferme vinrent ensemble auprès de lui. 15 Et cette aile droite fut rompue par eux, et Judas les poursuivit jusqu'à la montagne d'Azot.
+13 Mais ceux qui étaient du parti de Judas en sonnèrent aussi eux-mêmes, et la terre fut émue du bruit des armées ; et le combat fut engagé depuis le matin jusqu'au soir. 14 Et Judas vit que l'aile à droite de l'armée de Bacchide était la plus forte, et tous ceux d'un coeur ferme vinrent ensemble auprès de lui. 15 Et cette aile droite fut rompue par eux, et Judas les poursuivit jusqu'à la montagne d'Azot.
 
 ***Note*** :  I Macc. 9, 15 : Azot, ville des Philistins.
 

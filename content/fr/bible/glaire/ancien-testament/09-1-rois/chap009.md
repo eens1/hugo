@@ -50,7 +50,7 @@ summary: |
 
 18 Or Saül s'approcha de Samuel au milieu de la porte, et dit : Indique-moi, je te prie, où est la maison du voyant.
 
-19 Et Samuel répondit à Saül, disant : C'est moi qui suis le voyant : monte devant moi sur le haut lieu, afin que vous mangiez avec moi aujourd'hui, et je t'enverrai le matin ; et tout ce qui est dans ton cœur, je te l'expliquerai. 20 Et quant aux ânesses que tu as perdues, il y a trois jours, ne sois pas inquiet, parce qu'elles sont retrouvées. Et à qui seront toutes les meilleures choses d'Israël? N'est-ce pas à toi et à toute la maison de ton père? 21 Mais Saül répondant, dit : Est-ce que je ne suis pas, moi, fils de Jémini, de la plus petite tribu d'Israël, et ma parenté n'est-elle pas la dernière entre toutes les familles de la tribu de Benjamin? Pourquoi donc m'avez-vous tenu ce discours?
+19 Et Samuel répondit à Saül, disant : C'est moi qui suis le voyant : monte devant moi sur le haut lieu, afin que vous mangiez avec moi aujourd'hui, et je t'enverrai le matin ; et tout ce qui est dans ton coeur, je te l'expliquerai. 20 Et quant aux ânesses que tu as perdues, il y a trois jours, ne sois pas inquiet, parce qu'elles sont retrouvées. Et à qui seront toutes les meilleures choses d'Israël? N'est-ce pas à toi et à toute la maison de ton père? 21 Mais Saül répondant, dit : Est-ce que je ne suis pas, moi, fils de Jémini, de la plus petite tribu d'Israël, et ma parenté n'est-elle pas la dernière entre toutes les familles de la tribu de Benjamin? Pourquoi donc m'avez-vous tenu ce discours?
 
 ***Note*** :  I Rois 9, 21 : Fils de Jémini ; pour : de la tribu de Benjamin.
 

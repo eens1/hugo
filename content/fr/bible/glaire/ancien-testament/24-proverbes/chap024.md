@@ -46,7 +46,7 @@ summary: |
 
 ***Note*** :  Prov. 24, 11 : Voir Psaumes, 81, 4.
 
-12 Si tu dis : Les forces me manquent; celui qui observe le cœur le discerne lui-même, rien ne trompe le conservateur de ton âme ; et il rendra à l'homme selon ses œuvres.
+12 Si tu dis : Les forces me manquent; celui qui observe le coeur le discerne lui-même, rien ne trompe le conservateur de ton âme ; et il rendra à l'homme selon ses oeuvres.
 
 ***Note*** :  Prov. 24, 12 : Le discerne lui-même ; sait parfaitement discerner si cette excuse alléguée : Les forces me manquent, est réellement fondée ou non.
 
@@ -59,7 +59,7 @@ summary: |
 ***Note*** :  Prov. 24, 16 : Tombera ; non dans le péché, comme plusieurs l’entendent ; mais dans le malheur, la disgrâce, les épreuves, les afflictions. C’est le sens le plus conforme au contexte.
 
 
-17 Lorsque ton ennemi sera tombé, ne Le réjouis pas : et qu'à sa ruine ton cœur n'exulte pas; 18 De peur que le Seigneur ne le voie, et que cela ne lui déplaise ; et qu'il ne retire de lui sa colère.
+17 Lorsque ton ennemi sera tombé, ne Le réjouis pas : et qu'à sa ruine ton coeur n'exulte pas; 18 De peur que le Seigneur ne le voie, et que cela ne lui déplaise ; et qu'il ne retire de lui sa colère.
 
 
 19 Ne dispute pas avec les hommes très méchants ; et ne porte pas envie aux impies ; 20 Parce qu'ils n'ont pas l'espérance des choses futures, les méchants, et que la lampe des impies s'éteindra.
@@ -82,16 +82,16 @@ summary: |
 
 ***Note*** :  Prov. 24, 26 : Il baisera, etc. Répondre avec droiture à quelqu’un, c’est lui donner un baiser, c’est-à-dire lui prouver une grande et tendre amitié.
 
-27 Prépare au dehors ton œuvre, et avec soin cultive ton champ; afin qu'ensuite tu bâtisses ta maison.
+27 Prépare au dehors ton oeuvre, et avec soin cultive ton champ; afin qu'ensuite tu bâtisses ta maison.
 
 
 28 Ne sois pas témoin sans raison contre ton prochain; et ne séduis personne par tes lèvres.
 
 
-29 Ne dis pas : Comme il m'a fait, ainsi je lui ferai : je rendrai à chacun selon son œuvre.
+29 Ne dis pas : Comme il m'a fait, ainsi je lui ferai : je rendrai à chacun selon son oeuvre.
 
 
-30 J'ai passé dans le champ du paresseux, et par la vigne de l'insensé :31 Et voilà que tout était rempli d'orties; et que les épines en avaient couvert la surface, et que la muraille de pierres était détruite. 32 Ce qu'ayant vu, je l'ai mis dans mon cœur, et par cet exemple je me suis instruit. 33 Tu dormiras un peu, dis-je, tu sommeilleras modérément, tu mettras faiblement les mains l'une dans l'autre, afin que tu reposes :
+30 J'ai passé dans le champ du paresseux, et par la vigne de l'insensé :31 Et voilà que tout était rempli d'orties; et que les épines en avaient couvert la surface, et que la muraille de pierres était détruite. 32 Ce qu'ayant vu, je l'ai mis dans mon coeur, et par cet exemple je me suis instruit. 33 Tu dormiras un peu, dis-je, tu sommeilleras modérément, tu mettras faiblement les mains l'une dans l'autre, afin que tu reposes :
 
 ***Note*** :  Prov. 24, 33-34 : Tu dormiras un peu, etc. Au chapitre 6, versets 10 et 11, l’auteur sacré met dans la bouche du paresseux des paroles semblables à celles qu’il lui adresse lui-même. ― Dis-je ; ces mots ne se trouvent ni dans le texte hébreu, ni dans les Septante.
 

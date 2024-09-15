@@ -17,7 +17,7 @@ draft: false
 
 [^3]: Vianney 1883, t. 3, p. 6.
 
-> *Jérémie 17:5* : "Voici ce que dit le Seigneur : Maudit l'homme qui se confie dans l'homme, qui se fait un bras de chair, et dont le cœur se retire du Seigneur." [^4]
+> *Jérémie 17:5* : "Voici ce que dit le Seigneur : Maudit l'homme qui se confie dans l'homme, qui se fait un bras de chair, et dont le coeur se retire du Seigneur." [^4]
 
 [^4]: Glaire 1905, p. 1734.
 

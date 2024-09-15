@@ -5,7 +5,7 @@ draft: false
 summary: |
   
   Le Psalmiste invite tous les peuples de la terre à louer Dieu à la vue des merveilles de sa puissance.
-  Il promet de s’acquitter des vœux qu’il lui a faits, et de purifier son cœur de toute attache au péché.
+  Il promet de s’acquitter des voeux qu’il lui a faits, et de purifier son coeur de toute attache au péché.
   Pour la fin.
 ---
 
@@ -14,21 +14,21 @@ summary: |
 
 ***Note*** :  Ps. 65, 1 : Le Psalmiste remercie Dieu d’une délivrance nationale dans la première partie, versets 1 à 12, et d’une délivrance personnelle dans la seconde, versets 13 à 20, mais on ne sait à quels faits particuliers il fait allusion.
 
-***Note*** :  Ps. 65, 1-4 : Que tous les peuples de la terre louent Dieu de ses œuvres merveilleuses.
+***Note*** :  Ps. 65, 1-4 : Que tous les peuples de la terre louent Dieu de ses oeuvres merveilleuses.
 
 
 2 Dites un psaume à l'honneur de son nom : rendez gloire à sa louange.
 
 ***Note*** :  Ps. 65, 2 : Dites ; ce pluriel se rapporte à terre, du verset précédent, laquelle est un nom collectif, qui se prend pour ses habitants.
 
-3 Dites à Dieu : Que vos œuvres sont redoutables, Seigneur! à la vue de la grandeur de votre puissance, vos ennemis vous mentiront.
+3 Dites à Dieu : Que vos oeuvres sont redoutables, Seigneur! à la vue de la grandeur de votre puissance, vos ennemis vous mentiront.
 
 ***Note*** :  Ps. 65, 3 : Vous mentiront ; en se soumettant extérieurement à vous, mais cette soumission sera feinte et trompeuse.
 
 4 Que toute la terre vous adore et vous chante ; qu'elle dise un psaume à la gloire de votre nom.
 
 
-5 Venez et voyez les œuvres de Dieu : il est terrible dans ses desseins sur les fils des hommes.
+5 Venez et voyez les oeuvres de Dieu : il est terrible dans ses desseins sur les fils des hommes.
 
 ***Note*** :  Ps. 65, 5-7 : Tableau des merveilles que Dieu a opérées.
 
@@ -50,11 +50,11 @@ summary: |
 11 Vous nous avez conduits dans le lacs, vous avez mis des tribulations sur nos épaules :12 Vous avez imposé des hommes sur nos têtes. Nous avons passé par le feu et par l'eau ; et vous nous avez conduits au lieu de rafraîchissement.
 
 
-13 J'entrerai dans votre maison avec des holocaustes; je vous rendrai mes vœux,
+13 J'entrerai dans votre maison avec des holocaustes; je vous rendrai mes voeux,
 
-***Note*** :  Ps. 65, 13-15 : Le verset 13 commence la seconde partie, qui est personnelle. Le Psalmiste exécutera le vœu qu’il a fait pendant qu’il était dans l’angoisse.
+***Note*** :  Ps. 65, 13-15 : Le verset 13 commence la seconde partie, qui est personnelle. Le Psalmiste exécutera le voeu qu’il a fait pendant qu’il était dans l’angoisse.
 
-14 Qu'ont proférés mes lèvres, Et qu'a exprimés ma bouche dans ma tribulation. 15 Je vous offrirai des holocaustes gras, avec la fumée des béliers : je vous offrirai des bœufs avec des boucs.
+14 Qu'ont proférés mes lèvres, Et qu'a exprimés ma bouche dans ma tribulation. 15 Je vous offrirai des holocaustes gras, avec la fumée des béliers : je vous offrirai des boeufs avec des boucs.
 
 ***Note*** :  Ps. 65, 15 : La fumée des béliers ; c’est-à-dire de la fumée des chairs brûlées des béliers.
 
@@ -63,9 +63,9 @@ summary: |
 
 ***Note*** :  Ps. 65, 16-20 : Récit fait au peuple du bienfait reçu et de la reconnaissance du Psalmiste.
 
-17 C'est vers lui que j'ai crié de ma bouche, et c'est lui que j'ai exalté par ma langue. 18 Si j'ai regardé l'iniquité dans mon cœur, le Seigneur ne m'exaucera pas.
+17 C'est vers lui que j'ai crié de ma bouche, et c'est lui que j'ai exalté par ma langue. 18 Si j'ai regardé l'iniquité dans mon coeur, le Seigneur ne m'exaucera pas.
 
-***Note*** :  Ps. 65, 18 : Si j’ai regardé, etc. ; s’il y a dans mon cœur quelque mauvais dessein, de l’hypocrisie, etc.
+***Note*** :  Ps. 65, 18 : Si j’ai regardé, etc. ; s’il y a dans mon coeur quelque mauvais dessein, de l’hypocrisie, etc.
 
 19 C'est pour cela que le Seigneur m'a exaucé, et qu'il a été attentif à la voix de ma supplication. 20 Béni le Dieu qui n'a pas écarté ma prière, ni sa miséricorde de moi !
 

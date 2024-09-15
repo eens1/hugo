@@ -19,7 +19,7 @@ II. Plainte à Dieu, du chapitre 13, verset 13 au chapitre 14. ― 4° Sa sincé
 
 ***Note*** :  Job 12, 2-3 : Ce n’est nullement l’orgueil qui inspire à Job ce langage. On a vu, au contraire, combien il s’était humilié devant Dieu, en comparant sa propre justice à celle de ce souverain juge de tous les hommes. D’ailleurs la jactance de ses amis qui appliquaient faussement des sentences vraies jusqu’à un certain point, en elles-mêmes, le forçait à rabaisser leur orgueil ; et c’est uniquement dans ce dessein qu’il a l’air de se glorifier, en montrant leur infériorité.
 
-3 J'ai cependant un cœur comme vous, et je ne vous suis pas inférieur; qui, en effet, ignore ce que vous savez?
+3 J'ai cependant un coeur comme vous, et je ne vous suis pas inférieur; qui, en effet, ignore ce que vous savez?
 
 ***Note*** :  Job 12, 3 : Voir Job, 20, 2.
 
@@ -55,5 +55,5 @@ II. Plainte à Dieu, du chapitre 13, verset 13 au chapitre 14. ― 4° Sa sincé
 
 ***Note*** :  Job 12, 18 : Il délie le baudrier, etc. ; il dépouille les rois de leur autorité. ― Il ceint, etc. ; c’est-à-dire, il les réduit à la condition des esclaves.
 
-19 Il fait que les prêtres vont sans gloire, et il renverse les grands ; 20 Changeant le langage des hommes véridiques, et enlevant la science des vieillards. 21 Il verse le mépris sur les princes, en relevant ceux qui avaient été opprimés. 22 C'est lui qui découvre les profondeurs des ténèbres, et produit à la lumière l'ombre de la mort. 23 C'est lui qui multiplie les nations et les perd, et qui, après les avoir renversées, les rétablit entièrement. 24 C'est lui qui change le cœur des princes du peuple de la terre ; qui les trompe, afin qu'ils marchent par où il n'y a point de voie. 25 Ils tâtonneront comme dans les ténèbres, et ils ne marcheront pas à la lumière, et il les fera chanceler comme des hommes ivres.
+19 Il fait que les prêtres vont sans gloire, et il renverse les grands ; 20 Changeant le langage des hommes véridiques, et enlevant la science des vieillards. 21 Il verse le mépris sur les princes, en relevant ceux qui avaient été opprimés. 22 C'est lui qui découvre les profondeurs des ténèbres, et produit à la lumière l'ombre de la mort. 23 C'est lui qui multiplie les nations et les perd, et qui, après les avoir renversées, les rétablit entièrement. 24 C'est lui qui change le coeur des princes du peuple de la terre ; qui les trompe, afin qu'ils marchent par où il n'y a point de voie. 25 Ils tâtonneront comme dans les ténèbres, et ils ne marcheront pas à la lumière, et il les fera chanceler comme des hommes ivres.
 

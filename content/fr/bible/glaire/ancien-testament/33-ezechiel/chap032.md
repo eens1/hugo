@@ -32,7 +32,7 @@ summary: |
 
 ***Note*** :  Éz. 32, 7 : Voir Isaïe, 13, 10 ; Joël, 2, 10 ; 3, 15 ; Matthieu, 24, 29.
 
-8 Tous les flambeaux du ciel, je les ferai s'affliger sur toi ; et je répandrai des ténèbres sur ta terre, dit le Seigneur Dieu; lorsque tomberont tes blessés sur la terre, dit le Seigneur Dieu. 9 Et j'irriterai le cœur de peuples nombreux, lorsque j'apprendrai ta destruction parmi les nations, à des pays que tu ne connais pas. 10 Et je frapperai de stupeur à ton sujet des peuples nombreux; et leurs rois seront saisis d'effroi et d'une horreur extrême à cause de toi, lorsque mon glaive commencera à voler sur leurs faces, et chacun sera soudainement frappé de stupeur pour son âme au jour de ta ruine.
+8 Tous les flambeaux du ciel, je les ferai s'affliger sur toi ; et je répandrai des ténèbres sur ta terre, dit le Seigneur Dieu; lorsque tomberont tes blessés sur la terre, dit le Seigneur Dieu. 9 Et j'irriterai le coeur de peuples nombreux, lorsque j'apprendrai ta destruction parmi les nations, à des pays que tu ne connais pas. 10 Et je frapperai de stupeur à ton sujet des peuples nombreux; et leurs rois seront saisis d'effroi et d'une horreur extrême à cause de toi, lorsque mon glaive commencera à voler sur leurs faces, et chacun sera soudainement frappé de stupeur pour son âme au jour de ta ruine.
 
 ***Note*** :  Éz. 32, 10 : Son âme ; hébraïsme, pour sa personne, son individu.
 

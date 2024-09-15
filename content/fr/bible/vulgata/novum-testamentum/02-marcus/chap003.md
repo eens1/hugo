@@ -13,13 +13,13 @@ draft: false
 
 4 Et dicit eis: Licet sabbatis benefacere, an male? animam salvam facere, an perdere? At illi tacebant.
 
-5 Et circumspiciens eos cum ira, contristatus super cæcitate cordis eorum, dicit homini: Extende manum tuam. Et extendit, et restituta est manus illi.
+5 Et circumspiciens eos cum ira, contristatus super caecitate cordis eorum, dicit homini: Extende manum tuam. Et extendit, et restituta est manus illi.
 
-6 Exeuntes autem Pharisæi, statim cum Herodianis consilium faciebant adversus eum quomodo eum perderent.
+6 Exeuntes autem Pharisaei, statim cum Herodianis consilium faciebant adversus eum quomodo eum perderent.
 
-7 Iesus autem cum discipulis suis secessit ad mare: et multa turba a Galilæa, et Iudæa secuta est eum,
+7 Iesus autem cum discipulis suis secessit ad mare: et multa turba a Galilaea, et Iudaea secuta est eum,
 
-8 et ab Ierosolymis, et ab Idumæa, et trans Iordanem: et qui circa Tyrum, et Sidonem, multitudo magna, audientes, quæ faciebat, venerunt ad eum.
+8 et ab Ierosolymis, et ab Idumaea, et trans Iordanem: et qui circa Tyrum, et Sidonem, multitudo magna, audientes, quae faciebat, venerunt ad eum.
 
 9 Et dicit discipulis suis ut navicula sibi deserviret propter turbam, ne comprimerent eum.
 
@@ -31,15 +31,15 @@ draft: false
 
 13 Et ascendens in montem vocavit ad se quos voluit ipse: et venerunt ad eum.
 
-14 Et fecit ut essent duodecim cum illo: et ut mitteret eos prædicare.
+14 Et fecit ut essent duodecim cum illo: et ut mitteret eos praedicare.
 
-15 Et dedit illis potestatem curandi infirmitates, et eiiciendi dæmonia.
+15 Et dedit illis potestatem curandi infirmitates, et eiiciendi daemonia.
 
 16 Et imposuit Simoni nomen Petrus:
 
-17 et Iacobum Zebedæi, et Ioannem fratrem Iacobi, et imposuit eis nomina Boanerges, quod est, Filii tonitrui:
+17 et Iacobum Zebedaei, et Ioannem fratrem Iacobi, et imposuit eis nomina Boanerges, quod est, Filii tonitrui:
 
-18 et Andræam, et Philippum, et Bartholomæum, et Matthæum, et Thomam, et Iacobum Alphæi, et Thaddæum, et Simonem Cananæum,
+18 et Andraeam, et Philippum, et Bartholomaeum, et Matthaeum, et Thomam, et Iacobum Alphaei, et Thaddaeum, et Simonem Cananaeum,
 
 19 et Iudas Iscariotem, qui et tradidit illum.
 
@@ -47,7 +47,7 @@ draft: false
 
 21 Et cum audissent sui, exierunt tenere eum: dicebant enim: Quoniam in furorem versus est.
 
-22 Et Scribæ, qui ab Ierosolymis descenderant, dicebant: Quoniam Beelzebub habet, et quia in principe dæmoniorum eiicit dæmonia.
+22 Et Scribae, qui ab Ierosolymis descenderant, dicebant: Quoniam Beelzebub habet, et quia in principe daemoniorum eiicit daemonia.
 
 23 Et convocatis eis in parabolis dicebat illis: Quomodo potest satanas satanam eiicere?
 
@@ -59,17 +59,17 @@ draft: false
 
 27 Nemo potest vasa fortis ingressus in domum diripere, nisi prius fortem alliget, et tunc domum eius diripiet.
 
-28 Amen dico vobis, quoniam omnia dimittentur filiis hominum peccata, et blasphemiæ, quibus blasphemaverint:
+28 Amen dico vobis, quoniam omnia dimittentur filiis hominum peccata, et blasphemiae, quibus blasphemaverint:
 
-29 qui autem blasphemaverit in Spiritum sanctum, non habebit remissionem in æternum, sed reus erit æterni delicti.
+29 qui autem blasphemaverit in Spiritum sanctum, non habebit remissionem in aeternum, sed reus erit aeterni delicti.
 
 30 Quoniam dicebant: Spiritum immundum habet.
 
 31 Et veniunt mater eius et fratres: et foris stantes miserunt ad eum vocantes eum,
 
-32 et sedebat circa eum turba: et dicunt ei: Ecce mater tua, et fratres tui foris quærunt te.
+32 et sedebat circa eum turba: et dicunt ei: Ecce mater tua, et fratres tui foris quaerunt te.
 
-33 Et respondens eis, ait: Quæ est mater mea, et fratres mei?
+33 Et respondens eis, ait: Quae est mater mea, et fratres mei?
 
 34 Et circumspiciens eos, qui in circuitu eius sedebant, ait: Ecce mater mea, et fratres mei.
 

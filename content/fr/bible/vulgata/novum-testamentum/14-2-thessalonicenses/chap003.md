@@ -11,7 +11,7 @@ draft: false
 
 3 Fidelis autem Deus est, qui confirmabit vos, et custodiet a malo.
 
-4 Confidimus autem de vobis, in Domino, quoniam quæ præcepimus, et facitis, et facietis.
+4 Confidimus autem de vobis, in Domino, quoniam quae praecepimus, et facitis, et facietis.
 
 5 Dominus autem dirigat corda vestra in charitate Dei, et patientia Christi.
 

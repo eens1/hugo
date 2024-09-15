@@ -11,7 +11,7 @@ summary: |
 
 1 Pour la fin, pour le secours du matin, psaume de David.
 
-***Note*** :  Ps. 21, 1 : Hébreu : « Au chef de chœur. Sur [l’air de] ‘ayyéleth asch-schakhar, ou la biche de l’aurore. » Psaume prophétique, annonçant les souffrances du Messie. Il est comme un miracle permanent, tant la Passion y est prédite d’une manière claire : Ut non tam prophetia quam historia videatur, dit Cassiodore. On ne peut trouver dans tout l’Ancien Testament un seul personnage à qui il s’applique. Les premiers mots ont été prononcés par Notre-Seigneur sur la croix, voir Matthieu, 27, 46 ; Marc, 15, 34. ― Le Sitio, que le Sauveur fit entendre à ses derniers moments, avait pour but d’accomplir la prophétie du verset 16, voir Jean, 19, 28. Tous les autres traits annoncés ont été également accomplis en la personne de Jésus-Christ. Non seulement le premier verset est tout à la fois parole des Psaumes et parole d’Evangile, mais aussi les blasphèmes et les branlements de tête, verset 8, voir Matthieu, 27, 39 ; l’insulte pour avoir placé mal à propos en Dieu sa confiance, verset 9, voir Matthieu, 27, 43 ; le
+***Note*** :  Ps. 21, 1 : Hébreu : « Au chef de choeur. Sur [l’air de] ‘ayyéleth asch-schakhar, ou la biche de l’aurore. » Psaume prophétique, annonçant les souffrances du Messie. Il est comme un miracle permanent, tant la Passion y est prédite d’une manière claire : Ut non tam prophetia quam historia videatur, dit Cassiodore. On ne peut trouver dans tout l’Ancien Testament un seul personnage à qui il s’applique. Les premiers mots ont été prononcés par Notre-Seigneur sur la croix, voir Matthieu, 27, 46 ; Marc, 15, 34. ― Le Sitio, que le Sauveur fit entendre à ses derniers moments, avait pour but d’accomplir la prophétie du verset 16, voir Jean, 19, 28. Tous les autres traits annoncés ont été également accomplis en la personne de Jésus-Christ. Non seulement le premier verset est tout à la fois parole des Psaumes et parole d’Evangile, mais aussi les blasphèmes et les branlements de tête, verset 8, voir Matthieu, 27, 39 ; l’insulte pour avoir placé mal à propos en Dieu sa confiance, verset 9, voir Matthieu, 27, 43 ; le
 partage des vêtements et le tirage au sort de la robe, verset 19, voir Jean, 19, verset 23 et suivants. Impossible de mieux peindre que les versets 15 à 18 les tortures de la crucifixion : distension des membres du corps nu, douleurs des mains et des pieds, soif brûlante. Voir aussi, Hébreux, 2, verset 11 et suivants ; Matthieu, 28, 10 ; Jean, 20, 17 et Psaumes, 21, 23. Aussi l’Eglise, au IVe concile général de Constantinople, coll. 4, a-t-elle condamné Théodore de Mopsueste, qui entendait ce psaume dans un sens purement historique, non prophétique.
 
 
@@ -44,7 +44,7 @@ partage des vêtements et le tirage au sort de la robe, verset 19, voir Jean, 19
 
 ***Note*** :  Ps. 21, 13-22 : Description des tourments de la Passion.
 
-14 Ils ont ouvert sur moi leur gueule comme un lion ravissant et rugissant. 15 Je me suis épanché comme de l'eau, et tous mes os se sont déboîtés. Mon cœur est devenu au dedans de moi comme une cire qui se fond.
+14 Ils ont ouvert sur moi leur gueule comme un lion ravissant et rugissant. 15 Je me suis épanché comme de l'eau, et tous mes os se sont déboîtés. Mon coeur est devenu au dedans de moi comme une cire qui se fond.
 
 
 16 Ma force s'est desséchée comme un têt, et ma langue s'est attachée à mon palais; et vous m'avez conduit à la poussière de la mort.
@@ -66,7 +66,7 @@ partage des vêtements et le tirage au sort de la robe, verset 19, voir Jean, 19
 
 22 Sauvez-moi de la gueule du lion; et ma faiblesse des cornes des licornes.
 
-***Note*** :  Ps. 21, 22 : Des cornes des licornes, du reêm ou bœuf sauvage (décrit dans Job, 39, 9-12), comme le porte le texte original. La Vulgate a traduit le mot reêm, tantôt par licorne, tantôt par rhinocéros, mais reêm signifie toujours le buffle ou bœuf sauvage.
+***Note*** :  Ps. 21, 22 : Des cornes des licornes, du reêm ou boeuf sauvage (décrit dans Job, 39, 9-12), comme le porte le texte original. La Vulgate a traduit le mot reêm, tantôt par licorne, tantôt par rhinocéros, mais reêm signifie toujours le buffle ou boeuf sauvage.
 
 
 23 Je raconterai votre nom à mes frères; je vous louerai au milieu de l'assemblée.
@@ -75,7 +75,7 @@ partage des vêtements et le tirage au sort de la robe, verset 19, voir Jean, 19
 
 ***Note*** :  Ps. 21, 23-32 : Gloire de la résurrection. Reconnaissance du Messie envers son Père ; il le louera dans l’Eglise et le fera louer par elle dans toute la terre jusqu’à la fin des temps.
 
-24 Vous qui craignez le Seigneur, louez-le ; race entière de Jacob, glorifiez-le :25 Que toute la race d'Israël le craigne, parce qu'il n'a pas méprisé ni dédaigné la supplication du pauvre ; Et qu'il n'a point détourné sa face de moi, et que lorsque je criais vers lui, il m'a exaucé. 26 Devant vous sera ma louange dans une grande assemblée : je rendrai mes vœux en présence de ceux qui le craignent. 27 Les pauvres mangeront et seront rassasiés; et ils loueront le Seigneur, ceux qui le recherchent ; leurs cœurs vivront dans les siècles des siècles. 28 Tous les confins de la terre se souviendront du Seigneur et se convertiront à lui : Et toutes les familles des nations adoreront en sa présence.
+24 Vous qui craignez le Seigneur, louez-le ; race entière de Jacob, glorifiez-le :25 Que toute la race d'Israël le craigne, parce qu'il n'a pas méprisé ni dédaigné la supplication du pauvre ; Et qu'il n'a point détourné sa face de moi, et que lorsque je criais vers lui, il m'a exaucé. 26 Devant vous sera ma louange dans une grande assemblée : je rendrai mes voeux en présence de ceux qui le craignent. 27 Les pauvres mangeront et seront rassasiés; et ils loueront le Seigneur, ceux qui le recherchent ; leurs coeurs vivront dans les siècles des siècles. 28 Tous les confins de la terre se souviendront du Seigneur et se convertiront à lui : Et toutes les familles des nations adoreront en sa présence.
 
 
 29 Parce qu'au Seigneur appartient le règne; et que c'est lui qui dominera sur les nations. 30 Tous les riches de la terre ont mangé et ont adoré : en sa présence tomberont tous ceux qui descendent dans la terre.

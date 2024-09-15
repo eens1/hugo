@@ -48,7 +48,7 @@ summary: |
 12 Et on donnera le livre à un homme qui ne sait pas lire, et on lui dira : Lis ; et il répondra : Je ne sais pas lire.
 
 
-13 Et a dit le Seigneur : Parce que ce peuple s'approche de moi par sa bouche, et me glorifie par ses lèvres, mais que son cœur est loin de moi, et qu'ils m'ont craint par le commandement et les enseignements des hommes :
+13 Et a dit le Seigneur : Parce que ce peuple s'approche de moi par sa bouche, et me glorifie par ses lèvres, mais que son coeur est loin de moi, et qu'ils m'ont craint par le commandement et les enseignements des hommes :
 
 ***Note*** :  Is. 29, 13 : Ce peuple, etc. Jésus-Christ déclare aux Juifs incrédules que c’était d’eux qu’Isaïe prophétisait dans ce passage (voir Matthieu, 15, 8-9 ; Marc, 7, 6-7). ― Ils m’ont craint, etc. ; c’est-à-dire ils m’ont adoré, ils m’ont rendu un culte fondé, non sur ma loi et sur mes préceptes, mais sur des traditions purement humaines. Le pluriel ils représente le mot peuple, qui est un nom collectif.
 
@@ -57,11 +57,11 @@ summary: |
 ***Note*** :  Is. 29, 14 : Voir Abdias, 1, 8. ― Car la sagesse, etc. Saint Paul applique ceci à la fausse sagesse des hommes, confondue par la prédication de la croix, qui est un scandale aux yeux des Juifs, et une folie aux yeux des gentils (voir 1 Corinthiens, 1, 18-19).
 
 
-15 Malheur à vous qui êtes impénétrables de cœur, afin que vous cachiez au Seigneur un dessein ; leurs œuvres sont dans les ténèbres, et ils disent : Qui nous voit, et qui nous connaît ?
+15 Malheur à vous qui êtes impénétrables de coeur, afin que vous cachiez au Seigneur un dessein ; leurs oeuvres sont dans les ténèbres, et ils disent : Qui nous voit, et qui nous connaît ?
 
 ***Note*** :  Is. 29, 15 : Voir Ecclésiastique, 23, 26. ― Malheur à vous qui, etc. Ces paroles s’adressent aux impies dont il est question plus haut (voir Isaïe, 28, 15). ― Un dessein ; probablement celui de recourir, en cas de besoin, au secours de l’Egypte. Comparer à ce qui est dit à Isaïe, 30, verset 1 suivants.
 
-16 Elle est perverse, cette pensée que vous avez ; comme si l'argile se révoltait contre le potier, et lui disait : Tu ne m'as pas fait ; et comme si l'œuvre disait à celui qui l'a façonnée : Tu ne comprends pas.
+16 Elle est perverse, cette pensée que vous avez ; comme si l'argile se révoltait contre le potier, et lui disait : Tu ne m'as pas fait ; et comme si l'oeuvre disait à celui qui l'a façonnée : Tu ne comprends pas.
 
 
 17 Encore un peu de temps, et le Liban ne sera-t-il pas bientôt converti en Carmel, et le Carmel ne sera-t-il pas réputé pour la forêt?

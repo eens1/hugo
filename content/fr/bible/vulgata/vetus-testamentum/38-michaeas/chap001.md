@@ -5,15 +5,15 @@ draft: false
 ---
 
 
-1 Verbum Domini, quod factum est ad Michæam Morasthiten, in diebus Ioathan, Achaz, et Ezechiæ regum Iuda: quod vidit super Samariam, et Ierusalem.
+1 Verbum Domini, quod factum est ad Michaeam Morasthiten, in diebus Ioathan, Achaz, et Ezechiae regum Iuda: quod vidit super Samariam, et Ierusalem.
 
 2 Audite populi omnes, et attendat terra, et plenitudo eius: et sit Dominus Deus vobis in testem, Dominus de templo sancto suo.
 
-3 Quia ecce Dominus egredietur de loco suo: et descendet, et calcabit super excelsa terræ.
+3 Quia ecce Dominus egredietur de loco suo: et descendet, et calcabit super excelsa terrae.
 
-4 Et consumentur montes subtus eum: et valles scindentur sicut cera a facie ignis, et sicut aquæ, quæ decurrunt in præceps.
+4 Et consumentur montes subtus eum: et valles scindentur sicut cera a facie ignis, et sicut aquae, quae decurrunt in praeceps.
 
-5 In scelere Iacob omne istud, et in peccatis domus Israel. quod scelus Iacob? nonne Samaria? et quæ excelsa Iudæ? nonne Ierusalem?
+5 In scelere Iacob omne istud, et in peccatis domus Israel. quod scelus Iacob? nonne Samaria? et quae excelsa Iudae? nonne Ierusalem?
 
 6 et ponam Samariam quasi acervum lapidum in agro cum plantatur vinea: et detraham in vallem lapides eius, et fundamenta eius revelabo.
 
@@ -25,15 +25,15 @@ draft: false
 
 10 In Geth nolite annunciare, lacrymis ne ploretis, in domo Pulveris pulvere vos conspergite.
 
-11 Et transite vobis habitatio Pulchra, confusa ignominia: non est egressa quæ habitat in exitu: planctum Domus vicina accipiet ex vobis, quæ stetit sibimet.
+11 Et transite vobis habitatio Pulchra, confusa ignominia: non est egressa quae habitat in exitu: planctum Domus vicina accipiet ex vobis, quae stetit sibimet.
 
-12 Quia infirmata est in bonum, quæ habitat in amaritudinibus: quia descendit malum a Domino in portam Ierusalem.
+12 Quia infirmata est in bonum, quae habitat in amaritudinibus: quia descendit malum a Domino in portam Ierusalem.
 
-13 Tumultus quadrigæ stuporis habitanti Lachis: principium peccati est filiæ Sion, quia in te inventa sunt scelera Israel.
+13 Tumultus quadrigae stuporis habitanti Lachis: principium peccati est filiae Sion, quia in te inventa sunt scelera Israel.
 
 14 Propterea dabit emissarios super hereditatem Geth: domus Mendacii in deceptionem regibus Israel.
 
-15 Adhuc heredem adducam tibi quæ habitas in Maresa: usque ad Odollam veniet gloria Israel.
+15 Adhuc heredem adducam tibi quae habitas in Maresa: usque ad Odollam veniet gloria Israel.
 
 16 Decalvare, et tondere super filios deliciarum tuarum: dilata calvitium tuum sicut aquila: quoniam captivi ducti sunt ex te.
 

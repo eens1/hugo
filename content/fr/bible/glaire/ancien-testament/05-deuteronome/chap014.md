@@ -25,11 +25,11 @@ summary: |
 ***Note*** :  Dr. 14, 3 : Voir Lévitique, 11, 4. ― Ce verset n’est nullement en opposition avec le 15e du chapitre 12, où il est permis expressément de tuer et de manger des animaux purs et impurs sans distinction, parce que les mots pur et impur se prennent dans des sens différents. Ainsi il y avait des animaux absolument impurs, c’est-à-dire qu’il n’était permis ni de manger, ni d’offrir en sacrifice, tels que les lièvres, les cochons, etc. , et des animaux impurs sous un rapport seulement, comme les cerfs, les chèvres, etc. , qu’on pouvait manger, sans qu’il fût permis de les offrir en sacrifice. On voit par cette explication, qu’au chapitre 12, verset 15, il s’agit de ces derniers animaux, tandis qu’ici il est question des premiers.
 
 
-4 Voici les animaux que vous devez manger : le bœuf, la brebis, la chèvre, 5 Le cerf, et la chèvre sauvage, le bubale, le tragélaphe, le pygargue, l'oryx, la girafe.
+4 Voici les animaux que vous devez manger : le boeuf, la brebis, la chèvre, 5 Le cerf, et la chèvre sauvage, le bubale, le tragélaphe, le pygargue, l'oryx, la girafe.
 
 ***Note*** :  Dr. 14, 5 : Le mot pygargue doit s’entendre ici, non point d’une sorte d’aigle, mais d’une espèce de gazelle.
 
-6 Tout animal qui a l'ongle fendu en deux et qui rumine, vous en mangerez. 7 Mais pour ceux qui ruminent, et qui n'ont pas l'ongle fendu, comme le chameau, le lièvre, le chœrogrylle, vous ne devez pas en manger : parce que ces animaux ruminent, mais qu'ils n'ont pas l'ongle fendu, ils seront impurs pour vous.
+6 Tout animal qui a l'ongle fendu en deux et qui rumine, vous en mangerez. 7 Mais pour ceux qui ruminent, et qui n'ont pas l'ongle fendu, comme le chameau, le lièvre, le choerogrylle, vous ne devez pas en manger : parce que ces animaux ruminent, mais qu'ils n'ont pas l'ongle fendu, ils seront impurs pour vous.
 
 ***Note*** :  Dr. 14, 7 : Le lièvre. Voir Lévitique, 11, 6.
 

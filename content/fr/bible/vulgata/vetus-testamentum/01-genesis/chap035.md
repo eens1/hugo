@@ -9,19 +9,19 @@ draft: false
 
 2 Iacob vero convocata omni domo sua, ait: Abiicite deos alienos qui in medio vestri sunt, et mundamini, ac mutate vestimenta vestra.
 
-3 Surgite, et ascendamus in Bethel, ut faciamus ibi altare Deo: qui exaudivit me in die tribulationis meæ, et socius fuit itineris mei.
+3 Surgite, et ascendamus in Bethel, ut faciamus ibi altare Deo: qui exaudivit me in die tribulationis meae, et socius fuit itineris mei.
 
-4 Dederunt ergo ei omnes deos alienos quos habebant, et inaures quæ erant in auribus eorum: at ille infodit ea subter terebinthum, quæ est post urbem Sichem.
+4 Dederunt ergo ei omnes deos alienos quos habebant, et inaures quae erant in auribus eorum: at ille infodit ea subter terebinthum, quae est post urbem Sichem.
 
 5 Cumque profecti essent, terror Dei invasit omnes per circuitum civitates, et non sunt ausi persequi recedentes.
 
-6 Venit igitur Iacob Luzam, quæ est in terra Chanaan, cognomento Bethel: ipse et omnis populus cum eo.
+6 Venit igitur Iacob Luzam, quae est in terra Chanaan, cognomento Bethel: ipse et omnis populus cum eo.
 
-7 Ædificavitque ibi altare, et appellavit nomen loci illius, Domus Dei: ibi enim apparuit ei Deus cum fugeret fratrem suum.
+7 AEdificavitque ibi altare, et appellavit nomen loci illius, Domus Dei: ibi enim apparuit ei Deus cum fugeret fratrem suum.
 
-8 Eodem tempore mortua est Debora nutrix Rebeccæ, et sepulta est ad radices Bethel subter quercum: vocatumque est nomen loci illius, Quercus fletus.
+8 Eodem tempore mortua est Debora nutrix Rebeccae, et sepulta est ad radices Bethel subter quercum: vocatumque est nomen loci illius, Quercus fletus.
 
-9 Apparuit autem iterum Deus Iacob postquam reversus est de Mespotamia Syriæ, benedixitque ei,
+9 Apparuit autem iterum Deus Iacob postquam reversus est de Mespotamia Syriae, benedixitque ei,
 
 10 dicens: Non vocaberis ultra Iacob, sed Israel erit nomen tuum. Et appellavit eum Israel,
 
@@ -35,31 +35,31 @@ draft: false
 
 15 vocansque nomen loci illius, Bethel.
 
-16 Egressus autem inde, venit verno tempore ad terram quæ ducit Ephratam: in qua cum parturiret Rachel,
+16 Egressus autem inde, venit verno tempore ad terram quae ducit Ephratam: in qua cum parturiret Rachel,
 
-17 ob difficultatem partus periclitari cœpit. Dixitque ei obstetrix: Noli timere, quia et hunc habebis filium.
+17 ob difficultatem partus periclitari coepit. Dixitque ei obstetrix: Noli timere, quia et hunc habebis filium.
 
-18 Egrediente autem anima præ dolore, et imminente iam morte, vocavit nomen filii sui Benomi, id est filius doloris mei: pater vero appellavit eum Beniamin, id est filius dextræ.
+18 Egrediente autem anima prae dolore, et imminente iam morte, vocavit nomen filii sui Benomi, id est filius doloris mei: pater vero appellavit eum Beniamin, id est filius dextrae.
 
-19 Mortua est ergo Rachel, et sepulta est in via quæ ducit Ephratam, hæc est Bethlehem.
+19 Mortua est ergo Rachel, et sepulta est in via quae ducit Ephratam, haec est Bethlehem.
 
-20 Erexitque Iacob titulum super sepulchrum eius: hic est titulus monumenti Rachel, usque in præsentem diem.
+20 Erexitque Iacob titulum super sepulchrum eius: hic est titulus monumenti Rachel, usque in praesentem diem.
 
 21 Egressus inde, fixit tabernaculum trans Turrem gregis.
 
 22 Cumque habitaret in illa regione, abiit Ruben, et dormivit cum Bala concubina patris sui: quod illum minime latuit. Erant autem filii Iacob duodecim.
 
-23 Filii Liæ: primogenitus Ruben, et Simeon, et Levi, et Iudas, et Issachar, et Zabulon.
+23 Filii Liae: primogenitus Ruben, et Simeon, et Levi, et Iudas, et Issachar, et Zabulon.
 
 24 Filii Rachel: Ioseph et Beniamin.
 
-25 Filii Balæ ancillæ Rachelis: Dan et Nephthali.
+25 Filii Balae ancillae Rachelis: Dan et Nephthali.
 
-26 Filii Zelphæ ancillæ Liæ: Gad et Aser: hi sunt filii Iacob, qui nati sunt ei in Mesopotamia Syriæ.
+26 Filii Zelphae ancillae Liae: Gad et Aser: hi sunt filii Iacob, qui nati sunt ei in Mesopotamia Syriae.
 
-27 Venit etiam ad Isaac patrem suum in Mambre, Civitatem Arbee, hæc est Hebron: in qua peregrinatus est Abraham et Isaac.
+27 Venit etiam ad Isaac patrem suum in Mambre, Civitatem Arbee, haec est Hebron: in qua peregrinatus est Abraham et Isaac.
 
 28 Et completi sunt dies Isaac centum octoginta annorum.
 
-29 Consumptusque ætate mortuus est: et appositus est populo suo senex et plenus dierum: et sepelierunt eum Esau et Iacob filii sui.
+29 Consumptusque aetate mortuus est: et appositus est populo suo senex et plenus dierum: et sepelierunt eum Esau et Iacob filii sui.
 

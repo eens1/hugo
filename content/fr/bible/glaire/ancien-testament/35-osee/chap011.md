@@ -29,7 +29,7 @@ summary: |
 5 Il ne retournera pas dans la terre d'Egypte; et Assur lui-même sera son roi, puisqu'ils n'ont pas voulu se convertir. 6 Le glaive a commencé dans ses cités, et il consumera ses hommes d'élite, et il dévorera leurs chefs. 7 Et mon peuple aspirera après mon retour; mais il leur sera imposé à tous ensemble un joug qui ne sera pas enlevé.
 
 
-8 Comment te traiterai-je, Ephraïm, te protégerai-je, Israël? est-ce que je te traiterai comme Adama, ferai-je de toi comme de Séboïm? Mon cœur est bouleversé au dedans de moi, pareillement mon repentir est suscité.
+8 Comment te traiterai-je, Ephraïm, te protégerai-je, Israël? est-ce que je te traiterai comme Adama, ferai-je de toi comme de Séboïm? Mon coeur est bouleversé au dedans de moi, pareillement mon repentir est suscité.
 
 ***Note*** :  Os. 11, 8 : Voir Genèse, 19, 24. ― Adama et Séboïm, villes de la Pentapole qui furent détruites en même temps que Sodome et Gomorrhe. Voir Deutéronome, 29, 23.
 

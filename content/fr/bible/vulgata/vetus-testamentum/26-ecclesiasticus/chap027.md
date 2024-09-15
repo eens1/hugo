@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Propter inopiam multi deliquerunt: et qui quærit locupletari, avertit oculum suum.
+1 Propter inopiam multi deliquerunt: et qui quaerit locupletari, avertit oculum suum.
 
 2 Sicut in medio compaginis lapidum palus figitur, sic et inter medium venditionis et emptionis angustiabitur peccatum.
 
@@ -19,7 +19,7 @@ draft: false
 
 7 Sicut rusticatio de ligno ostendit fructum illius, sic verbum ex cogitatu cordis hominis.
 
-8 Ante sermonem non laudes virum: hæc enim tentatio est hominum.
+8 Ante sermonem non laudes virum: haec enim tentatio est hominum.
 
 9 Si sequaris iustitiam, apprehendes illam: et indues quasi poderem honoris, et inhabitabis cum ea, et proteget te in sempiternum, et in die agnitionis invenies firmamentum.
 
@@ -51,13 +51,13 @@ draft: false
 
 23 ultra eum non poteris colligare: et maledicti est concordatio:
 
-24 denudare autem amici mysteria, desperatio est animæ infelicis.
+24 denudare autem amici mysteria, desperatio est animae infelicis.
 
 25 Annuens oculo fabricat iniqua, et nemo eum abiiciet:
 
 26 in conspectu oculorum tuorum condulcabit os suum, et super sermones tuos admirabitur: novissime autem pervertet os suum, et in verbis tuis dabit scandalum.
 
-27 Multa odivi, et non coæquavi ei, et Dominus odiet illum.
+27 Multa odivi, et non coaequavi ei, et Dominus odiet illum.
 
 28 Qui in altum mittit lapidem, super caput eius cadet: et plaga dolosa dolosi dividet vulnera.
 

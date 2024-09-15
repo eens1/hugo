@@ -5,7 +5,7 @@ draft: false
 summary: |
   
   Le serviteur sage.
-  Dieu éprouve les cœurs.
+  Dieu éprouve les coeurs.
   Ne pas mépriser le pauvre.
   Jugements injustes et abominables aux yeux du Seigneur.
   L’ami aime en tout temps.
@@ -21,7 +21,7 @@ summary: |
 ***Note*** :  Prov. 17, 2 : Voir Ecclésiastique, 10, 28.
 
 
-3 Comme par le feu est éprouvé l'argent, et l'or dans le creuset; ainsi le Seigneur éprouve les cœurs.
+3 Comme par le feu est éprouvé l'argent, et l'or dans le creuset; ainsi le Seigneur éprouve les coeurs.
 
 
 4 Le méchant obéit à une langue inique, et le trompeur obtempère à une lèvre mensongère.
@@ -93,7 +93,7 @@ Celui qui élève sa maison bien haut en cherche la ruine; et celui qui évite d
 19 Celui qui médite des discordes aime les rixes ; et celui qui élève sa porte cherche sa ruine.
 
 
-20 Celui qui a un cœur pervers ne trouvera pas le bien; et celui qui tourne la langue tombera dans le malheur.
+20 Celui qui a un coeur pervers ne trouvera pas le bien; et celui qui tourne la langue tombera dans le malheur.
 
 ***Note*** :  Prov. 17, 20 : Qui tourne la langue ; c’est-à-dire selon l’hébreu, qui a la langue tournée ; c’est-à-dire artificieuse, fourbe.
 
@@ -101,7 +101,7 @@ Celui qui élève sa maison bien haut en cherche la ruine; et celui qui évite d
 21 L'insensé est né pour son ignominie ; et un père dans un fils stupide ne mettra pas sa joie.
 
 
-22 Un cœur joyeux rend la santé florissante; une âme triste dessèche les os.
+22 Un coeur joyeux rend la santé florissante; une âme triste dessèche les os.
 
 ***Note*** :  Prov. 17, 22 : Voir Proverbes, 15, 13 ; 16, 24.
 

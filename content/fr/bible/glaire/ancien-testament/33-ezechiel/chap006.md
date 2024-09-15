@@ -28,9 +28,9 @@ summary: |
 4 Et j'abattrai vos autels, et vos simulacres seront brisés; et je jetterai ceux qui vous seront tués devant vos idoles. 5 Et je mettrai les cadavres des fils d'Israël devant la face de vos simulacres, et je disperserai vos os autour de vos autels. 6 Dans toutes vos habitations les villes seront désertes, et les hauts lieux seront abattus et détruits; et vos autels tomberont et seront brisés; vos idoles ne seront plus, et vos temples seront détruits, et vos ouvrages périront. 7 Et les tués tomberont au milieu de vous, et vous saurez que moi je suis le Seigneur.
 
 
-8 Et je laisserai d'entre vous ceux qui auront échappé au glaive, parmi les nations, lorsque je vous aurai dispersés dans les divers pays. 9 Et ceux qui vous auront été délivrés se souviendront de moi parmi les nations, chez lesquelles ils auront été emmenés captifs, parce que j'ai brisé leur cœur fornicateur et qui s'est retiré de moi, et leurs yeux qui ont forniqué à la suite de leurs idoles; et ils se déplairont à eux-mêmes à cause des maux qu'ils ont faits dans leurs abominations.
+8 Et je laisserai d'entre vous ceux qui auront échappé au glaive, parmi les nations, lorsque je vous aurai dispersés dans les divers pays. 9 Et ceux qui vous auront été délivrés se souviendront de moi parmi les nations, chez lesquelles ils auront été emmenés captifs, parce que j'ai brisé leur coeur fornicateur et qui s'est retiré de moi, et leurs yeux qui ont forniqué à la suite de leurs idoles; et ils se déplairont à eux-mêmes à cause des maux qu'ils ont faits dans leurs abominations.
 
-***Note*** :  Éz. 6, 9 : Leur cœur fornicateur. L’Ecriture désigne ordinairement l’idolâtrie sous le nom de fornication.
+***Note*** :  Éz. 6, 9 : Leur coeur fornicateur. L’Ecriture désigne ordinairement l’idolâtrie sous le nom de fornication.
 
 10 Et ils sauront que moi, le Seigneur, je n'ai pas dit en vain que je leur ferais ce mal.
 

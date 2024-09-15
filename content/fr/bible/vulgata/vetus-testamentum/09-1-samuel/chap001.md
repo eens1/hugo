@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Fuit vir unus de Ramathaimsophim, de monte Ephraim, et nomen eius Elcana, filius Ieroham, filii Eliu, filii Thohu, filii Suph, Ephrathæus:
+1 Fuit vir unus de Ramathaimsophim, de monte Ephraim, et nomen eius Elcana, filius Ieroham, filii Eliu, filii Thohu, filii Suph, Ephrathaeus:
 
-2 et habuit duas uxores, nomen uni Anna, et nomen secundæ Phenenna. Fueruntque Phenennæ filii: Annæ autem non erant liberi.
+2 et habuit duas uxores, nomen uni Anna, et nomen secundae Phenenna. Fueruntque Phenennae filii: Annae autem non erant liberi.
 
 3 Et ascendebat vir ille de civitate sua statutis diebus, ut adoraret et sacrificaret Domino exercituum in Silo. Erant autem ibi duo filii Heli, Ophni et Phinees, sacerdotes Domini.
 
-4 Venit ergo dies, et immolavit Elcana, deditque Phenennæ uxori suæ, et cunctis filiis eius, et filiabus partes:
+4 Venit ergo dies, et immolavit Elcana, deditque Phenennae uxori suae, et cunctis filiis eius, et filiabus partes:
 
-5 Annæ autem dedit partem unam tristis, quia Annam diligebat. Dominus autem concluserat vulvam eius.
+5 Annae autem dedit partem unam tristis, quia Annam diligebat. Dominus autem concluserat vulvam eius.
 
-6 Affligebat quoque eam æmula eius, et vehementer angebat, in tantum, ut exprobraret quod Dominus conclusisset vulvam eius:
+6 Affligebat quoque eam aemula eius, et vehementer angebat, in tantum, ut exprobraret quod Dominus conclusisset vulvam eius:
 
 7 sicque faciebat per singulos annos, cum redeunte tempore ascenderent ad templum Domini: et sic provocabat eam. porro illa flebat, et non capiebat cibum.
 
@@ -25,17 +25,17 @@ draft: false
 
 10 cum esset Anna amaro animo, oravit ad Dominum, flens largiter,
 
-11 et votum vovit, dicens: Domine exercituum, si respiciens videris afflictionem famulæ tuæ, et recordatus mei fueris, nec oblitus ancillæ tuæ, dederisque servæ tuæ sexum virilem: dabo eum Domino omnibus diebus vitæ eius, et novacula non ascendet super caput eius.
+11 et votum vovit, dicens: Domine exercituum, si respiciens videris afflictionem famulae tuae, et recordatus mei fueris, nec oblitus ancillae tuae, dederisque servae tuae sexum virilem: dabo eum Domino omnibus diebus vitae eius, et novacula non ascendet super caput eius.
 
 12 Factum est autem, cum illa multiplicaret preces coram Domino, ut Heli observaret os eius.
 
-13 Porro Anna loquebatur in corde suo, tantumque labia illius movebantur, et vox penitus non audiebatur. Æstimavit ergo eam Heli temulentam,
+13 Porro Anna loquebatur in corde suo, tantumque labia illius movebantur, et vox penitus non audiebatur. AEstimavit ergo eam Heli temulentam,
 
 14 dixitque ei: Usquequo ebria eris? digere paulisper vinum, quo mades.
 
 15 Respondens Anna, Nequaquam, inquit, domine mi: nam mulier infelix nimis ego sum, vinumque et omne quod inebriare potest, non bibi, sed effudi animam meam in conspectu Domini.
 
-16 Ne reputes ancillam tuam quasi unam de filiabus Belial: quia ex multitudine doloris, et mœroris mei locuta sum usque in præsens.
+16 Ne reputes ancillam tuam quasi unam de filiabus Belial: quia ex multitudine doloris, et moeroris mei locuta sum usque in praesens.
 
 17 Tunc Heli ait ei: Vade in pace: et Deus Israel det tibi petitionem tuam, quam rogasti eum.
 
@@ -51,11 +51,11 @@ draft: false
 
 23 Et ait ei Elcana vir suus: Fac quod bonum tibi videtur, et mane donec ablactes eum: precorque ut impleat Dominus verbum suum. Mansit ergo mulier, et lactavit filium suum, donec amoveret eum a lacte.
 
-24 Et adduxit eum secum, postquam ablactaverat, in vitulis tribus, et tribus modiis farinæ, et amphora vini, et adduxit eum ad domum Domini in Silo. Puer autem erat adhuc infantulus:
+24 Et adduxit eum secum, postquam ablactaverat, in vitulis tribus, et tribus modiis farinae, et amphora vini, et adduxit eum ad domum Domini in Silo. Puer autem erat adhuc infantulus:
 
 25 et immolaverunt vitulum, et obtulerunt puerum Heli.
 
-26 Et ait Anna: Obsecro mi domine, vivit anima tua domine: ego sum illa mulier, quæ steti coram te hic orans Dominum.
+26 Et ait Anna: Obsecro mi domine, vivit anima tua domine: ego sum illa mulier, quae steti coram te hic orans Dominum.
 
 27 Pro puero isto oravi, et dedit mihi Dominus petitionem meam, quam postulavi eum.
 

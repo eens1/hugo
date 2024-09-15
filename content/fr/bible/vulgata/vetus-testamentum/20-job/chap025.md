@@ -13,7 +13,7 @@ draft: false
 
 4 Numquid iustificari potest homo comparatus Deo, aut apparere mundus natus de muliere?
 
-5 Ecce luna etiam non splendet, et stellæ non sunt mundæ in conspectu eius:
+5 Ecce luna etiam non splendet, et stellae non sunt mundae in conspectu eius:
 
 6 Quanto magis homo putredo, et filius hominis vermis?
 

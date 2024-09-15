@@ -7,7 +7,7 @@ draft: false
 
 1 Morabatur autem eo tempore Israel in Settim, et fornicatus est populus cum filiabus Moab,
 
-2 quæ vocaverunt eos ad sacrificia sua. At ille comederunt et adoraverunt deos earum.
+2 quae vocaverunt eos ad sacrificia sua. At ille comederunt et adoraverunt deos earum.
 
 3 Initiatusque est Israel Beelphegor: et iratus Dominus,
 
@@ -27,17 +27,17 @@ draft: false
 
 11 Phinees filius Eleazari filii Aaron sacerdotis avertit iram meam a filiis Israel: quia zelo meo commotus est contra eos, ut non ipse delerem filios Israel in zelo meo.
 
-12 idcirco loquere ad eum: Ecce do ei pacem fœderis mei,
+12 idcirco loquere ad eum: Ecce do ei pacem foederis mei,
 
 13 et erit tam ipsi quam semini eius pactum sacerdotii sempiternum, quia zelatus est pro Deo suo, et expiavit scelus filiorum Israel.
 
-14 Erat autem nomen viri Israelitæ, qui occisus est cum Madianitide, Zambri filius Salu, dux de cognatione et tribu Simeonis.
+14 Erat autem nomen viri Israelitae, qui occisus est cum Madianitide, Zambri filius Salu, dux de cognatione et tribu Simeonis.
 
-15 Porro mulier Madianitis, quæ pariter interfecta est, vocabatur Cozbi filia Sur principis nobilissimi Madianitarum.
+15 Porro mulier Madianitis, quae pariter interfecta est, vocabatur Cozbi filia Sur principis nobilissimi Madianitarum.
 
 16 Locutusque est Dominus ad Moysen, dicens:
 
-17 Hostes vos sentiant Madianitæ, et percutite eos:
+17 Hostes vos sentiant Madianitae, et percutite eos:
 
-18 quia et ipsi hostiliter egerunt contra vos, et decepere insidiis per idolum Phogor, et Cozbi filiam ducis Madian sororem suam, quæ percussa est in die plagæ pro sacrilegio Phogor.
+18 quia et ipsi hostiliter egerunt contra vos, et decepere insidiis per idolum Phogor, et Cozbi filiam ducis Madian sororem suam, quae percussa est in die plagae pro sacrilegio Phogor.
 

@@ -32,7 +32,7 @@ summary: |
 6 Afin d'avoir en notre possession, pour de l'argent, des indigents et des pauvres, pour des chaussures, et que nous vendions le rebut du blé.
 
 
-7 Le Seigneur a juré contre l'orgueil de Jacob : Si j'oublierai jamais aucune de leurs œuvres.
+7 Le Seigneur a juré contre l'orgueil de Jacob : Si j'oublierai jamais aucune de leurs oeuvres.
 
 ***Note*** :  Am. 8, 7 : Si j’oublierai ; pour que je n’oublierai pas. Voir, sur les formules de serment chez les hébreux, Psaumes, note 94. 11.
 

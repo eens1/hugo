@@ -54,7 +54,7 @@ summary: |
 
 11 C'est pourquoi, parce que vous dépouilliez le pauvre, que vous lui enleviez un butin précieux, vous bâtirez des maisons en pierre de taille, et vous n'y habiterez pas; vous planterez des vignes délicieuses, et vous n'en boirez pas le vin.
 
-***Note*** :  Am. 5, 11 : Voir Sophonie, 1, 13. ― Un butin précieux (prædam electam) ; ce qu’il y avait de plus précieux.
+***Note*** :  Am. 5, 11 : Voir Sophonie, 1, 13. ― Un butin précieux (praedam electam) ; ce qu’il y avait de plus précieux.
 
 12 Parce que j'ai connu vos nombreux crimes, et vos graves péchés; ennemis du juste, vous recevez des présents, et vous déprimez les pauvres à la porte.
 
@@ -97,7 +97,7 @@ summary: |
 
 ***Note*** :  Am. 5, 21 : Voir Isaïe, 1, 11 ; Jérémie, 6, 20 ; Malachie, 1, 12.
 
-22 Que si vous m'offrez des holocaustes et des présents, je ne les recevrai pas; et les grasses victimes qui accompagneront vos vœux, je ne les regarderai pas. 23 Eloigne de moi le tumulte de tes cantiques; et les airs de ta lyre, je ne les écouterai pas.
+22 Que si vous m'offrez des holocaustes et des présents, je ne les recevrai pas; et les grasses victimes qui accompagneront vos voeux, je ne les regarderai pas. 23 Eloigne de moi le tumulte de tes cantiques; et les airs de ta lyre, je ne les écouterai pas.
 
 
 24 Et le jugement se découvrira comme l'eau, et la justice comme un torrent violent.

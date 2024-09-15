@@ -25,7 +25,7 @@ summary: |
 
 ***Note*** :  Ps. 31, 3-4 : Etat moral du pécheur avant d’avoir obtenu le pardon.
 
-4 Parce que jour et nuit votre main s'est appesantie sur moi : je me suis retourné dans mon tourment, pendant qu'une épine était enfoncée dans mon cœur.
+4 Parce que jour et nuit votre main s'est appesantie sur moi : je me suis retourné dans mon tourment, pendant qu'une épine était enfoncée dans mon coeur.
 
 ***Note*** :  Ps. 31, 4 : Une épine ; c’est-à-dire un remords de conscience.
 

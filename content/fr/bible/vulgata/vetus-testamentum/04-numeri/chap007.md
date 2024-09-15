@@ -7,7 +7,7 @@ draft: false
 
 1 Factum est autem in die qua complevit Moyses tabernaculum, et erexit illud: unxitque et sanctificavit cum omnibus vasis suis, altare similiter et omnia vasa eius.
 
-2 Obtulerunt principes Israel et capita familiarum, qui erant per singulas tribus, præfectique eorum, qui numerati fuerant,
+2 Obtulerunt principes Israel et capita familiarum, qui erant per singulas tribus, praefectique eorum, qui numerati fuerant,
 
 3 munera coram Domino sex plaustra tecta cum duodecim bobus. Unum plaustrum obtulere duo duces, et unum bovem singuli, obtuleruntque ea in conspectu tabernaculi.
 
@@ -37,7 +37,7 @@ draft: false
 
 16 hircumque pro peccato:
 
-17 et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc est oblatio Nahasson filii Aminadab.
+17 et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec est oblatio Nahasson filii Aminadab.
 
 18 Secundo die obtulit Nathanael filius Suar, dux de tribu Issachar,
 
@@ -49,7 +49,7 @@ draft: false
 
 22 hircumque pro peccato:
 
-23 et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Nathanael filii Suar.
+23 et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Nathanael filii Suar.
 
 24 Tertio die princeps filiorum Zabulon Eliab filius Helon,
 
@@ -61,7 +61,7 @@ draft: false
 
 28 hircumque pro peccato:
 
-29 et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc est oblatio Eliab filii Helon.
+29 et in sacrificio pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec est oblatio Eliab filii Helon.
 
 30 Die quarto princeps filiorum Ruben, Elisur filius Sedeur,
 
@@ -73,7 +73,7 @@ draft: false
 
 34 hircumque pro peccato:
 
-35 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Elisur filii Sedeur.
+35 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Elisur filii Sedeur.
 
 36 Die quinto princeps filiorum Simeon Salamiel filius Surisaddai
 
@@ -85,7 +85,7 @@ draft: false
 
 40 hircumque pro peccato:
 
-41 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Salamiel filii Surisaddai.
+41 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Salamiel filii Surisaddai.
 
 42 Die sexto princeps filiorum Gad, Eliasaph filius Duel
 
@@ -97,7 +97,7 @@ draft: false
 
 46 hircumque pro peccato:
 
-47 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Eliasaph filii Duel.
+47 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Eliasaph filii Duel.
 
 48 Die septimo princeps filiorum Ephraim, Elisama filius Ammiud
 
@@ -109,7 +109,7 @@ draft: false
 
 52 hircumque pro peccato:
 
-53 et in hostias pacificorum, boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Elisama filii Ammiud.
+53 et in hostias pacificorum, boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Elisama filii Ammiud.
 
 54 Die octavo, princeps filiorum Manasse, Gamaliel filius Phadassur,
 
@@ -121,7 +121,7 @@ draft: false
 
 58 hircumque pro peccato:
 
-59 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Gamaliel filii Phadassur.
+59 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Gamaliel filii Phadassur.
 
 60 Die nono princeps filiorum Beniamin, Abidan filius Gedeonis,
 
@@ -133,7 +133,7 @@ draft: false
 
 64 hircumque pro peccato:
 
-65 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Abidan filii Gedeonis.
+65 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Abidan filii Gedeonis.
 
 66 Die decimo princeps filiorum Dan, Ahiezer filius Ammisaddai
 
@@ -145,7 +145,7 @@ draft: false
 
 70 hircumque pro peccato:
 
-71 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Ahiezer filii Ammisaddai.
+71 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Ahiezer filii Ammisaddai.
 
 72 Die undecimo princeps filiorum Aser, Phegiel filius Ochran
 
@@ -157,7 +157,7 @@ draft: false
 
 76 hircumque pro peccato:
 
-77 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Phegiel filii Ochran.
+77 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Phegiel filii Ochran.
 
 78 Die duodecimo princeps filiorum Nephthali, Ahira filius Enan
 
@@ -169,9 +169,9 @@ draft: false
 
 82 hircumque pro peccato:
 
-83 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. hæc fuit oblatio Ahira filii Enan.
+83 et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. haec fuit oblatio Ahira filii Enan.
 
-84 Hæc in dedicatione altaris oblata sunt a principibus Israel, in die qua consecratum est. acetabula argentea duodecim: phialæ argenteæ duodecim: mortariola aurea duodecim:
+84 Haec in dedicatione altaris oblata sunt a principibus Israel, in die qua consecratum est. acetabula argentea duodecim: phialae argenteae duodecim: mortariola aurea duodecim:
 
 85 ita ut centum triginta siclos argenti haberet unum acetabulum, et septuaginta siclos haberet una phiala: id est, in commune vasorum omnium ex argento sicli duo millia quadringenti, pondere Sanctuarii.
 
@@ -179,7 +179,7 @@ draft: false
 
 87 boves de armento in holocaustum duodecim, arietes duodecim, agni anniculi duodecim, et libamenta eorum: hirci duodecim pro peccato.
 
-88 In hostias pacificorum, boves viginti quattuor, arietes sexaginta, hirci sexaginta, agni anniculi sexaginta. Hæc oblata sunt in dedicatione altaris, quando unctum est.
+88 In hostias pacificorum, boves viginti quattuor, arietes sexaginta, hirci sexaginta, agni anniculi sexaginta. Haec oblata sunt in dedicatione altaris, quando unctum est.
 
-89 Cumque ingrederetur Moyses tabernaculum fœderis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos Cherubim, unde et loquebatur ei.
+89 Cumque ingrederetur Moyses tabernaculum foederis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos Cherubim, unde et loquebatur ei.
 

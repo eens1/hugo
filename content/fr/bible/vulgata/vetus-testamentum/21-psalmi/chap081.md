@@ -13,7 +13,7 @@ draft: false
 
 4 Eripite pauperem: et egenum de manu peccatoris liberate.
 
-5 Nescierunt, neque intellexerunt, in tenebris ambulant: movebuntur omnia fundamenta terræ.
+5 Nescierunt, neque intellexerunt, in tenebris ambulant: movebuntur omnia fundamenta terrae.
 
 6 Ego dixi: Dii estis, et filii excelsi omnes.
 

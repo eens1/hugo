@@ -25,15 +25,15 @@ summary: |
 
 ***Note*** :  Éz. 44, 4 : Maison ; signifie le temple, ici et dans tout le chapitre.
 
-5 Et le Seigneur me dit : Fils d'un homme, applique ton cœur, et vois de tes yeux, et de tes oreilles écoute toutes les choses que je te dis de toutes les cérémonies de la maison du Seigneur et de toutes ses lois : et tu appliqueras ton cœur à considérer les voies du temple avec toutes les sorties du sanctuaire.
+5 Et le Seigneur me dit : Fils d'un homme, applique ton coeur, et vois de tes yeux, et de tes oreilles écoute toutes les choses que je te dis de toutes les cérémonies de la maison du Seigneur et de toutes ses lois : et tu appliqueras ton coeur à considérer les voies du temple avec toutes les sorties du sanctuaire.
 
-***Note*** :  Éz. 44, 5 : Avec ; ou et ; littéralement, à travers (per). Selon l’hébreu : Tu poseras ton cœur à l’entrée de la maison, dans toutes les sorties du sanctuaire ; ce qui, dans le style biblique, peut signifier tout ce qui se pratique concernant le temple. ― Le sanctuaire est également mis, ainsi que dans tout le chapitre, pour le temple.
+***Note*** :  Éz. 44, 5 : Avec ; ou et ; littéralement, à travers (per). Selon l’hébreu : Tu poseras ton coeur à l’entrée de la maison, dans toutes les sorties du sanctuaire ; ce qui, dans le style biblique, peut signifier tout ce qui se pratique concernant le temple. ― Le sanctuaire est également mis, ainsi que dans tout le chapitre, pour le temple.
 
-6 Et tu diras à la maison d'Israël qui m'exaspère : Voici ce que dit le Seigneur Dieu : Que tous vos crimes vous suffisent, maison d'Israël; 7 Car vous engagez des fils de l'étranger, incirconcis de cœur et incirconcis de chair, à se tenir dans mon sanctuaire, et à souiller ma maison; et vous offrez mes pains, de la graisse et du sang, et vous rompez mon alliance par tous vos crimes. 8 Et vous n'avez point observé les ordonnances de mon sanctuaire; et c'est pour vous-mêmes que vous avez établi des gardiens de mes prescriptions dans mon sanctuaire.
+6 Et tu diras à la maison d'Israël qui m'exaspère : Voici ce que dit le Seigneur Dieu : Que tous vos crimes vous suffisent, maison d'Israël; 7 Car vous engagez des fils de l'étranger, incirconcis de coeur et incirconcis de chair, à se tenir dans mon sanctuaire, et à souiller ma maison; et vous offrez mes pains, de la graisse et du sang, et vous rompez mon alliance par tous vos crimes. 8 Et vous n'avez point observé les ordonnances de mon sanctuaire; et c'est pour vous-mêmes que vous avez établi des gardiens de mes prescriptions dans mon sanctuaire.
 
 ***Note*** :  Éz. 44, 8 : C’est pour vous-mêmes, etc. ; vous avez pris des gardiens de votre choix, suivant votre goût et sans me consulter.
 
-9 Voici ce que dit le Seigneur Dieu : Aucun étranger incirconcis de cœur et incirconcis de chair n'entrera dans mon sanctuaire, aucun fils de l'étranger qui est au milieu des enfants d'Israël.
+9 Voici ce que dit le Seigneur Dieu : Aucun étranger incirconcis de coeur et incirconcis de chair n'entrera dans mon sanctuaire, aucun fils de l'étranger qui est au milieu des enfants d'Israël.
 
 
 10 Mais les Lévites mêmes qui se sont retirés loin de moi dans l'erreur des enfants d'Israël, et se sont égarés à la suite de leurs idoles, et ont porté la peine de leur iniquité,
@@ -80,7 +80,7 @@ summary: |
 
 ***Note*** :  Éz. 44, 22 : Voir Lévitique, 21, 14.
 
-23 Et ils enseigneront à mon peuple ce qu'il y a de différent entre ce qui est saint et ce qui est souillé ; et ils lui montreront la différence entre ce qui est pur et ce qui est impur. 24 Et lorsqu'il y aura une contestation, ils s'en tiendront à mes jugements, et ils jugeront; mes lois et mes ordonnances, ils les observeront dans toutes mes solennités, et mes sabbats, ils les sanctifieront. 25 Et ils n'entreront pas près d'un homme mort, afin qu'ils ne soient point souillés, à moins que ce ne soit près d'un père et d'une mère, et d'un fils, et d'une fille, et d'un frère, et d'une sœur qui n'a pas eu un second mari ; ils en deviendraient impurs. 26 Et après que quelqu'un d'entre eux aura été purifié, on lui comptera encore sept jours.
+23 Et ils enseigneront à mon peuple ce qu'il y a de différent entre ce qui est saint et ce qui est souillé ; et ils lui montreront la différence entre ce qui est pur et ce qui est impur. 24 Et lorsqu'il y aura une contestation, ils s'en tiendront à mes jugements, et ils jugeront; mes lois et mes ordonnances, ils les observeront dans toutes mes solennités, et mes sabbats, ils les sanctifieront. 25 Et ils n'entreront pas près d'un homme mort, afin qu'ils ne soient point souillés, à moins que ce ne soit près d'un père et d'une mère, et d'un fils, et d'une fille, et d'un frère, et d'une soeur qui n'a pas eu un second mari ; ils en deviendraient impurs. 26 Et après que quelqu'un d'entre eux aura été purifié, on lui comptera encore sept jours.
 
 ***Note*** :  Éz. 44, 26 : On lui comptera, etc. ; avant qu’il remplisse ses fonctions.
 
@@ -91,7 +91,7 @@ summary: |
 
 ***Note*** :  Éz. 44, 28 : Voir Nombres, 18, 20 ; Deutéronome, 18, 1.
 
-29 La victime et pour le péché et pour le délit, ce sont eux qui la mangeront, et tout ce qui sera offert par vœu en Israël leur appartiendra. 30 Et les prémices de tous les, premiers-nés et tous les prélèvements sur toutes les choses qui sont offertes, appartiendront aux prêtres; les prémices même de toute votre nourriture, vous les donnerez au prêtre, afin qu'il répande la bénédiction sur votre maison.
+29 La victime et pour le péché et pour le délit, ce sont eux qui la mangeront, et tout ce qui sera offert par voeu en Israël leur appartiendra. 30 Et les prémices de tous les, premiers-nés et tous les prélèvements sur toutes les choses qui sont offertes, appartiendront aux prêtres; les prémices même de toute votre nourriture, vous les donnerez au prêtre, afin qu'il répande la bénédiction sur votre maison.
 
 ***Note*** :  Éz. 44, 30 : Voir Exode, 22, 29. ― Votre maison ; littéralement, dans l’hébreu et la Vulgate ta maison ; parce que l’écrivain sacré ne s’adresse plus aux individus en particulier, mais à la réunion de ces individus formant un seul peuple.
 

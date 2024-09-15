@@ -23,7 +23,7 @@ summary: |
 
 3 Qui ont mangé la chair de mon peuple, et ont arraché leur peau, brisé leurs os, et ils les ont coupés en morceaux comme pour les faire cuire dans une chaudière, et comme de la chair qu'on met dans une marmite. 4 Alors ils crieront vers le Seigneur; mais il ne les exaucera pas ; et il leur cachera sa face en ce temps-là, à cause de la malice de leurs inventions.
 
-***Note*** :  Mich. 3, 4 : Inventions ; en hébreu, œuvres, actions.
+***Note*** :  Mich. 3, 4 : Inventions ; en hébreu, oeuvres, actions.
 
 
 5 Voici ce que dit le Seigneur contre les prophètes qui séduisent mon peuple ; qui mordent avec leurs dents, et prêchent la paix; si quelqu'un ne leur met pas dans la bouche quelque chose, ils consacrent contre lui un combat.

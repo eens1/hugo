@@ -9,7 +9,7 @@ summary: |
 ---
 
 
-1 Voici ce que dit le Seigneur : Voilà que moi je susciterai sur Babylone et sur ses habitants, qui ont élevé leur cœur contre moi, comme un vent pestilentiel. 2 Et j'enverrai contre Babylone des gens le van à la main; et ils la vanneront, et ils ruineront sa terre. De tous côtés ils sont venus sur elle au jour de son affliction. 3 Que celui qui tend son arc ne le tende pas, et que nul ne monte cuirassé ; n'épargnez point ses jeunes hommes ; tuez toute sa milice.
+1 Voici ce que dit le Seigneur : Voilà que moi je susciterai sur Babylone et sur ses habitants, qui ont élevé leur coeur contre moi, comme un vent pestilentiel. 2 Et j'enverrai contre Babylone des gens le van à la main; et ils la vanneront, et ils ruineront sa terre. De tous côtés ils sont venus sur elle au jour de son affliction. 3 Que celui qui tend son arc ne le tende pas, et que nul ne monte cuirassé ; n'épargnez point ses jeunes hommes ; tuez toute sa milice.
 
 ***Note*** :  Jr. 51, 3 : Qui tend ; c’est-à-dire, qui se prépare, se dispose à tendre.
 
@@ -49,12 +49,12 @@ summary: |
 
 ***Note*** :  Jr. 51, 17 : Tout homme, etc. Voir pour l’explication de ce verset, Jérémie, 10, 14.
 
-18 Vaines sont leurs œuvres et dignes de risée; au temps de leur visite elles périront. 19 Il n'en est pas ainsi de la part de Jacob, parce que celui qui a fait toutes ces choses est lui-même son partage; et Israël est le sceptre de son héritage; le Seigneur des armées est son nom.
+18 Vaines sont leurs oeuvres et dignes de risée; au temps de leur visite elles périront. 19 Il n'en est pas ainsi de la part de Jacob, parce que celui qui a fait toutes ces choses est lui-même son partage; et Israël est le sceptre de son héritage; le Seigneur des armées est son nom.
 
 ***Note*** :  Jr. 51, 19 : Le sceptre de son héritage ; le royaume sur lequel il étend son sceptre et qu’il gouverne comme son héritage.
 
 
-20 Tu brises pour moi des instruments de guerre, et je briserai par toi des nations, et je perdrai entièrement par toi des royaumes ; 21 Et je briserai par toi le cheval et celui qui le monte; et je briserai par toi le char et celui qui le monte ; 22 Et je briserai par toi l'homme et la femme; et je briserai par toi le vieillard et l'enfant; et je briserai par toi le jeune homme et la vierge ; 23 Et je briserai par toi le pasteur et son troupeau ; et je briserai par toi le laboureur et ses bœufs attachés au joug; et je briserai par toi les chefs et les magistrats. 24 Et je rendrai à Babylone et à tous les habitants de la Chaldée tout leur mal, qu'ils ont fait dans Sion, à vos yeux, dit le Seigneur.
+20 Tu brises pour moi des instruments de guerre, et je briserai par toi des nations, et je perdrai entièrement par toi des royaumes ; 21 Et je briserai par toi le cheval et celui qui le monte; et je briserai par toi le char et celui qui le monte ; 22 Et je briserai par toi l'homme et la femme; et je briserai par toi le vieillard et l'enfant; et je briserai par toi le jeune homme et la vierge ; 23 Et je briserai par toi le pasteur et son troupeau ; et je briserai par toi le laboureur et ses boeufs attachés au joug; et je briserai par toi les chefs et les magistrats. 24 Et je rendrai à Babylone et à tous les habitants de la Chaldée tout leur mal, qu'ils ont fait dans Sion, à vos yeux, dit le Seigneur.
 
 
 25 Et voilà que je viens à toi, montagne pernicieuse, dit le Seigneur, qui corromps toute la terre; et j'étendrai ma main sur toi, et je t'arracherai d'entre les rochers, et je ferai de toi une montagne en combustion.
@@ -103,10 +103,10 @@ Nabuchodonosor, roi de Babylone, il m'a rendue comme un vase vide, il m'a englou
 
 ***Note*** :  Jr. 51, 45 : Son âme ; hébraïsme, pour sa personne, soi, se.
 
-46 Et pour que votre cœur ne mollisse pas, et que vous ne craigniez pas le bruit qui s'entendra sur la terre ; car dans une année viendra une nouvelle; et après cette année, une autre nouvelle ; et l'iniquité sur la terre, et dominateur sur dominateur. 47 A cause de cela, voilà que des jours viennent, et je visiterai les images taillées au ciseau de Babylone; et toute sa terre sera couverte de confusion, et tous ses tués tomberont au milieu d'elle. 48 Et les cieux et la terre et tout ce qui est en eux loueront le Seigneur au sujet de Babylone; parce que ses spoliateurs viendront de l'aquilon, dit le Seigneur. 49 Et comme Babylone a fait que des tués sont tombés en Israël, ainsi de Babylone tomberont des tués dans toute la terre.
+46 Et pour que votre coeur ne mollisse pas, et que vous ne craigniez pas le bruit qui s'entendra sur la terre ; car dans une année viendra une nouvelle; et après cette année, une autre nouvelle ; et l'iniquité sur la terre, et dominateur sur dominateur. 47 A cause de cela, voilà que des jours viennent, et je visiterai les images taillées au ciseau de Babylone; et toute sa terre sera couverte de confusion, et tous ses tués tomberont au milieu d'elle. 48 Et les cieux et la terre et tout ce qui est en eux loueront le Seigneur au sujet de Babylone; parce que ses spoliateurs viendront de l'aquilon, dit le Seigneur. 49 Et comme Babylone a fait que des tués sont tombés en Israël, ainsi de Babylone tomberont des tués dans toute la terre.
 
 
-50 Vous qui avez fui le glaive, venez, ne vous arrêtez point; souvenez-vous de loin du Seigneur, et que Jérusalem monte dans votre cœur.
+50 Vous qui avez fui le glaive, venez, ne vous arrêtez point; souvenez-vous de loin du Seigneur, et que Jérusalem monte dans votre coeur.
 
 ***Note*** :  Jr. 51, 50 : Vous qui avez fui le glaive, Juifs, qui avez été épargnés par le vainqueur.
 

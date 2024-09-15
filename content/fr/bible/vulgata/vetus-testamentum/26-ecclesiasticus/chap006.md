@@ -7,7 +7,7 @@ draft: false
 
 1 Noli fieri pro amico inimicus proximo: improperium enim et contumeliam malus hereditabit, et omnis peccator invidus et bilinguis.
 
-2 Non te extollas in cogitatione animæ tuæ velut taurus: ne forte elidatur virtus tua per stultitiam,
+2 Non te extollas in cogitatione animae tuae velut taurus: ne forte elidatur virtus tua per stultitiam,
 
 3 et folia tua comedat, et fructus tuos perdat, et relinquaris velut lignum aridum in eremo.
 
@@ -23,9 +23,9 @@ draft: false
 
 9 Et est amicus qui convertitur ad inimicitiam: et est amicus qui odium et rixam, et convitia denudabit.
 
-10 Est autem amicus socius mensæ, et non permanebit in die necessitatis.
+10 Est autem amicus socius mensae, et non permanebit in die necessitatis.
 
-11 Amicus si permanserit fixus, erit tibi quasi coæqualis, et in domesticis tuis fiducialiter aget:
+11 Amicus si permanserit fixus, erit tibi quasi coaequalis, et in domesticis tuis fiducialiter aget:
 
 12 si humiliaverit se contra te, et a facie tua absconderit se, unanimem habebis amicitiam bonam.
 
@@ -35,9 +35,9 @@ draft: false
 
 15 Amico fideli nulla est comparatio, et non est digna ponderatio auri et argenti contra bonitatem fidei illius.
 
-16 Amicus fidelis, medicamentum vitæ et immortalitatis: et qui metuunt Dominum, invenient illum.
+16 Amicus fidelis, medicamentum vitae et immortalitatis: et qui metuunt Dominum, invenient illum.
 
-17 Qui timet Deum, æque habebit amicitiam bonam: quoniam secundum illum erit amicus illius.
+17 Qui timet Deum, aeque habebit amicitiam bonam: quoniam secundum illum erit amicus illius.
 
 18 Fili a iuventute tua excipe doctrinam, et usque ad canos invenies sapientiam.
 
@@ -49,7 +49,7 @@ draft: false
 
 22 Quasi lapidis virtus probatio erit in illis, et non demorabuntur proiicere illam.
 
-23 Sapientia enim doctrinæ secundum nomen est eius, et non est multis manifestata: quibus autem cognita est, permanet usque ad conspectum Dei.
+23 Sapientia enim doctrinae secundum nomen est eius, et non est multis manifestata: quibus autem cognita est, permanet usque ad conspectum Dei.
 
 24 Audi fili, et accipe consilium intellectus, et ne abiicias consilium meum.
 
@@ -63,19 +63,19 @@ draft: false
 
 29 in novissimis enim invenies requiem in ea, et convertetur tibi in oblectationem.
 
-30 Et erunt tibi compedes eius in protectionem fortitudinis, et bases virtutis, et torques illius in stolam gloriæ:
+30 Et erunt tibi compedes eius in protectionem fortitudinis, et bases virtutis, et torques illius in stolam gloriae:
 
-31 decor enim vitæ est in illa, et vincula illius alligatura salutaris.
+31 decor enim vitae est in illa, et vincula illius alligatura salutaris.
 
-32 Stolam gloriæ indues eam, et coronam gratulationis superpones tibi.
+32 Stolam gloriae indues eam, et coronam gratulationis superpones tibi.
 
 33 Fili, si attenderis mihi, disces: et si accomodaveris animum tuum, sapiens eris.
 
 34 Si inclinaveris aurem tuam, excipies doctrinam: et si dilexeris audire, sapiens eris.
 
-35 In multitudine presbyterorum prudentium sta, et sapientiæ illorum ex corde coniungere, ut omnem narrationem Dei possis audire, et proverbia laudis non effugiant a te.
+35 In multitudine presbyterorum prudentium sta, et sapientiae illorum ex corde coniungere, ut omnem narrationem Dei possis audire, et proverbia laudis non effugiant a te.
 
 36 Et si videris sensatum, evigila ad eum, et gradus ostiorum illius exterat pes tuus.
 
-37 Cogitatum tuum habe in præceptis Dei, et in mandatis illius maxime assiduus esto: et ipse dabit tibi cor, et concupiscentia sapientiæ dabitur tibi.
+37 Cogitatum tuum habe in praeceptis Dei, et in mandatis illius maxime assiduus esto: et ipse dabit tibi cor, et concupiscentia sapientiae dabitur tibi.
 

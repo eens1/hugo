@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Alleluia. Dilexi, quoniam exaudiet Dominus vocem orationis meæ.
+1 Alleluia. Dilexi, quoniam exaudiet Dominus vocem orationis meae.
 
 2 Quia inclinavit aurem suam mihi: et in diebus meis invocabo.
 

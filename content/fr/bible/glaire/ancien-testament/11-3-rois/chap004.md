@@ -52,7 +52,7 @@ summary: |
 
 ***Note*** :  III Rois 4, 22 : Le corus, ou kôr, appelé aussi chomer, mesure pour les matières sèches, valait environ 388 litres.
 
-23 Dix bœufs gras, vingt bœufs de pâturage, cent béliers, outre la venaison des cerfs, des chevreuils, des bubales et de la volaille.
+23 Dix boeufs gras, vingt boeufs de pâturage, cent béliers, outre la venaison des cerfs, des chevreuils, des bubales et de la volaille.
 
 ***Note*** :  III Rois 4, 23 : On a calculé, d’après les diverses données du texte, que la cour de Salomon se composait d’environ quatorze mille personnes.
 
@@ -68,7 +68,7 @@ summary: |
 
 ***Note*** :  III Rois 4, 26 : Voir 2 Paralipomènes, 9, 25. ― Quarante mille écuries. L’hébreu porte ici le même nombre ; mais dans le passage parallèle, voir 2 Paralipomènes, 9, 25, on y lit quatre au lieu de quarante. Il a été très facile un copiste de confondre ces deux mots à cause de leur peu différence.
 
-27 Les susdits préposés par le roi les nourrissaient ; mais ils fournissaient aussi ce qui était nécessaire à la table du roi Salomon avec un grand soin et en son temps. 28 Ils portaient aussi l'orge et la paille pour les chevaux et les bestiaux, au lieu où était le roi, selon l'ordre qu'ils avaient reçu. 29 Dieu donna aussi à Salomon une sagesse et une prudence très grande, et une étendue de cœur, comme le sable qui est sur le rivage de la mer. 30 Et la sagesse de Salomon surpassait la sagesse de tous les Orientaux et de tous les Egyptiens ; 31 Il était plus sage que tous les hommes, plus sage qu'Ethan l'Ezrahite, qu'Héman, Chalcol et Dorda, enfants de Mahol; et il était renommé dans toutes les nations des environs.
+27 Les susdits préposés par le roi les nourrissaient ; mais ils fournissaient aussi ce qui était nécessaire à la table du roi Salomon avec un grand soin et en son temps. 28 Ils portaient aussi l'orge et la paille pour les chevaux et les bestiaux, au lieu où était le roi, selon l'ordre qu'ils avaient reçu. 29 Dieu donna aussi à Salomon une sagesse et une prudence très grande, et une étendue de coeur, comme le sable qui est sur le rivage de la mer. 30 Et la sagesse de Salomon surpassait la sagesse de tous les Orientaux et de tous les Egyptiens ; 31 Il était plus sage que tous les hommes, plus sage qu'Ethan l'Ezrahite, qu'Héman, Chalcol et Dorda, enfants de Mahol; et il était renommé dans toutes les nations des environs.
 
 ***Note*** :  III Rois 4, 31 : Voir Ecclésiastique, 47, 16.
 

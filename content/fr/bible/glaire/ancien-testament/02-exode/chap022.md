@@ -8,14 +8,14 @@ summary: |
 ---
 
 
-1 Si quelqu'un vole un bœuf ou une brebis, et qu'il les tue ou les vende, il restituera cinq bœufs pour un bœuf et quatre brebis pour une brebis.
+1 Si quelqu'un vole un boeuf ou une brebis, et qu'il les tue ou les vende, il restituera cinq boeufs pour un boeuf et quatre brebis pour une brebis.
 
 ***Note*** :  Ex. 22, 1 : Voir 2 Rois, 12, 6.
 
 2 Si le voleur est trouvé forçant une maison ou la minant, et qu'il meure d'une blessure reçue, celui qui l'a frappé ne sera pas coupable de son sang. 3 Que s'il a fait cela, le soleil levé, il a commis un homicide, et il mourra lui-même. S'il n'a pas de quoi rendre pour le larcin, il sera vendu lui-même.
 
 
-4 Si ce qu'il a volé est trouvé chez lui, vivant, soit un bœuf, soit un âne, soit une brebis, il restituera le double.
+4 Si ce qu'il a volé est trouvé chez lui, vivant, soit un boeuf, soit un âne, soit une brebis, il restituera le double.
 
 
 5 Si quelqu'un endommage un champ ou une vigne, et qu'il laisse aller sa bête, pour qu'elle paisse ce qui est à autrui, il rendra tout ce qu'il aura de meilleur dans son champ, ou dans sa vigne, selon l'estimation du dommage.
@@ -29,7 +29,7 @@ summary: |
 ***Note*** :  Ex. 22, 8 : Aux dieux. Voir Exode, 21, 6. ― Dans ce passage, comme dans Exode, 21, 6, la meilleure traduction serait : à Dieu, c’est-à-dire, comme ont traduit les Septante, à l’endroit où l’on rend la justice au nom de Dieu. Voir Deutéronome, 1, 17 ; 19, 17.
 
 
-9 Pour commettre le vol, soit d'un bœuf, soit d'un âne, d'une brebis, d'un vêtement et de tout ce qui peut porter dommage ; c'est devant les dieux que viendra la cause de l'un et de l'autre; et si ceux-ci le condamnent, il restituera le double à son prochain. 10 Si quelqu'un confie en garde à son prochain un âne, un bœuf, une brebis, ou toute autre bête, et qu'elle meure, ou dépérisse, ou bien soit prise par les ennemis, et que personne ne l'ait vu, 11 Interviendra le serment qu'il n'a pas étendu sa main sur le bien de son prochain, et le maître recevra le serment, et celui-là ne sera pas contraint de rendre. 12 Que si c'est par un vol que la bête a été enlevée, il réparera le dommage envers le maître.
+9 Pour commettre le vol, soit d'un boeuf, soit d'un âne, d'une brebis, d'un vêtement et de tout ce qui peut porter dommage ; c'est devant les dieux que viendra la cause de l'un et de l'autre; et si ceux-ci le condamnent, il restituera le double à son prochain. 10 Si quelqu'un confie en garde à son prochain un âne, un boeuf, une brebis, ou toute autre bête, et qu'elle meure, ou dépérisse, ou bien soit prise par les ennemis, et que personne ne l'ait vu, 11 Interviendra le serment qu'il n'a pas étendu sa main sur le bien de son prochain, et le maître recevra le serment, et celui-là ne sera pas contraint de rendre. 12 Que si c'est par un vol que la bête a été enlevée, il réparera le dommage envers le maître.
 
 ***Note*** :  Ex. 22, 12 : Voir Genèse, 31, 39.
 
@@ -83,7 +83,7 @@ summary: |
 ***Note*** :  Ex. 22, 29 : Voir Exode, 13, vv. 2, 12 ; 24, 19 ; Ezéchiel, 44, 30.
 
 
-30 Pour tes bœufs aussi et tes brebis tu feras de même : que pendant sept jours le premier-né soit avec sa mère, et au huitième jour tu me le rendras. 31 Vous me serez des hommes consacrés; vous ne mangerez point de la chair dont les bêtes sauvages auront déjà goûté, mais vous la jetterez aux chiens.
+30 Pour tes boeufs aussi et tes brebis tu feras de même : que pendant sept jours le premier-né soit avec sa mère, et au huitième jour tu me le rendras. 31 Vous me serez des hommes consacrés; vous ne mangerez point de la chair dont les bêtes sauvages auront déjà goûté, mais vous la jetterez aux chiens.
 
 ***Note*** :  Ex. 22, 31 : Voir Lévitique, 22, 8.
 

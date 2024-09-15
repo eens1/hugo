@@ -9,7 +9,7 @@ summary: |
   Prière.
   Jeûne.
   Trésor dans le ciel.
-  Œil simple.
+  OEil simple.
   Servir Dieu, non l’argent.
   Ne point s’inquiéter des besoins de la vie.
   Confiance en la Providence.

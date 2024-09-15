@@ -19,7 +19,7 @@ draft: false
 
 7 In his curans mitigabit dolorem, et unguentarius faciet pigmenta suavitatis, et unctiones conficiet sanitatis, et non consummabuntur opera eius.
 
-8 Pax enim Dei super faciem terræ.
+8 Pax enim Dei super faciem terrae.
 
 9 Fili in tua infirmitate ne despicias te ipsum, sed ora Dominum, et ipse curabit te.
 
@@ -53,13 +53,13 @@ draft: false
 
 24 In requie mortui requiescere fac memoriam eius, et consolare illum in exitu spiritus sui.
 
-25 Sapientia scribæ in tempore vacuitatis: et qui minoratur actu, sapientiam percipiet: qua sapientia replebitur
+25 Sapientia scribae in tempore vacuitatis: et qui minoratur actu, sapientiam percipiet: qua sapientia replebitur
 
 26 qui tenet aratrum, et qui gloriatur in iaculo, stimulo boves agitat, et conversatur in operibus eorum, et enarratio eius in filiis taurorum.
 
 27 Cor suum dabit ad versandos sulcos, et vigilia eius in sagina vaccarum.
 
-28 Sic omnis faber et architectus, qui noctem tamquam diem transigit, qui sculpit signacula sculptilia, et assiduitas eius variat picturam: cor suum dabit in similitudinem picturæ, et vigilia sua perficiet opus.
+28 Sic omnis faber et architectus, qui noctem tamquam diem transigit, qui sculpit signacula sculptilia, et assiduitas eius variat picturam: cor suum dabit in similitudinem picturae, et vigilia sua perficiet opus.
 
 29 Sic faber ferrarius sedens iuxta incudem, et considerans opus ferri: Vapor ignis uret carnes eius, et in calore fornacis concertatur:
 
@@ -75,11 +75,11 @@ draft: false
 
 35 Omnes hi in manibus suis speraverunt, et unusquisque in arte sua sapiens est.
 
-36 sine his omnibus non ædificatur civitas.
+36 sine his omnibus non aedificatur civitas.
 
 37 Et non inhabitabunt, nec inambulabunt, et in ecclesiam non transilient.
 
 38 Super sellam iudicis non sedebunt, et testamentum iudicii non intelligent, neque palam facient disciplinam et iudicium, et in parabolis non invenientur:
 
-39 sed creaturam ævi confirmabunt, et deprecatio illorum in operatione artis, accomodantes animam suam, et conquirentes in lege Altissimi.
+39 sed creaturam aevi confirmabunt, et deprecatio illorum in operatione artis, accomodantes animam suam, et conquirentes in lege Altissimi.
 

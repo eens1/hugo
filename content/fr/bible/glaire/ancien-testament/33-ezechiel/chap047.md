@@ -51,7 +51,7 @@ rives désolées, belle image des changements merveilleux qu’apportera au mond
 
 16 Emath, Bérotha, Sabarim, qui est entre les limites de Damas, et les confins d'Emath; la maison de Tichon, qui est sur les limites d'Auran ;
 
-***Note*** :  Éz. 47, 16 : La maison de Tichon ; selon l’hébreu, Hâtsêr Hattîcôn, qui veut dire, la cour ou le village du milieu. ― Emath ; aujourd’hui Hamah, ville de la Cœlésyrie. ― Bérotha. Voir 2 Rois, note 8. 8. ― Sabarim ; la Zaberane actuelle sur la route d’Emèse à Hamah. ― Auran ; le Hauran actuel, au nord-est de la Palestine. La maison de Tichon, qui est sur les limites du Hauran, doit être traduit, d’après beaucoup de commentateurs modernes, par Hazer, ville située sur la frontière du Hauran.
+***Note*** :  Éz. 47, 16 : La maison de Tichon ; selon l’hébreu, Hâtsêr Hattîcôn, qui veut dire, la cour ou le village du milieu. ― Emath ; aujourd’hui Hamah, ville de la Coelésyrie. ― Bérotha. Voir 2 Rois, note 8. 8. ― Sabarim ; la Zaberane actuelle sur la route d’Emèse à Hamah. ― Auran ; le Hauran actuel, au nord-est de la Palestine. La maison de Tichon, qui est sur les limites du Hauran, doit être traduit, d’après beaucoup de commentateurs modernes, par Hazer, ville située sur la frontière du Hauran.
 
 17 Et ses bornes seront depuis la mer, jusqu'à la cour d'Enon qui fait les limites de Damas, et depuis un aquilon jusqu'à l'autre aquilon; les bornes d'Emath seront le côté septentrional.
 

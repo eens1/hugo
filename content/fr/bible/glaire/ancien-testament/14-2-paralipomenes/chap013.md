@@ -33,13 +33,13 @@ summary: |
 
 ***Note*** :  II Par. 13, 6 : Voir 3 Rois, 11, 26.
 
-7 Et se sont réunis à lui des hommes de néant, fils de Bélial, et ils ont prévalu contre Roboam, fils de Salomon : or Roboam était sans expérience, d'un cœur craintif, et il ne put leur résister.
+7 Et se sont réunis à lui des hommes de néant, fils de Bélial, et ils ont prévalu contre Roboam, fils de Salomon : or Roboam était sans expérience, d'un coeur craintif, et il ne put leur résister.
 
 ***Note*** :  II Par. 13, 7 : Fils de Bélial. Voir 2 Corinthiens, 6, 15.
 
-8 Maintenant donc, vous dites que vous pourrez résister au royaume du Seigneur, qu'il possède par les fils de David, et que vous avez une grande multitude de peuple et des veaux d'or que Jéroboam vous a faits pour vos dieux. 9 Et vous avez chassé les prêtres du Seigneur, fils d'Aaron, et les Lévites ; et vous vous êtes fait à vous-mêmes des prêtres comme tous les peuples de la terre : quiconque vient, et consacre sa main avec un taureau d'entre les bœufs, et avec sept béliers, est fait prêtre de ceux qui ne sont point dieux.
+8 Maintenant donc, vous dites que vous pourrez résister au royaume du Seigneur, qu'il possède par les fils de David, et que vous avez une grande multitude de peuple et des veaux d'or que Jéroboam vous a faits pour vos dieux. 9 Et vous avez chassé les prêtres du Seigneur, fils d'Aaron, et les Lévites ; et vous vous êtes fait à vous-mêmes des prêtres comme tous les peuples de la terre : quiconque vient, et consacre sa main avec un taureau d'entre les boeufs, et avec sept béliers, est fait prêtre de ceux qui ne sont point dieux.
 
-***Note*** :  II Par. 13, 9 : Voir 3 Rois, 12, 31. ― Avec un taureau, etc. ; c’est-à-dire par l’immolation d’un jeune taureau pris dans un troupeau de bœufs.
+***Note*** :  II Par. 13, 9 : Voir 3 Rois, 12, 31. ― Avec un taureau, etc. ; c’est-à-dire par l’immolation d’un jeune taureau pris dans un troupeau de boeufs.
 
 10 Mais notre Seigneur est Dieu, et nous ne l'abandonnons pas : des prêtres d'entre les fils d'Aaron servent le Seigneur, et les Lévites sont à leur place.
 
@@ -59,5 +59,5 @@ summary: |
 20 Et Jéroboam ne fut plus assez fort pour résister dans les jours d'Abia; Dieu le frappa, et il mourut. 21 Ainsi Abia, son empire affermi, prit quatorze femmes, et procréa vingt-deux fils et seize filles.
 
 
-22 Le reste des actions, des voies et des œuvres d'Abia est écrit très exactement dans le livre d'Addo, le prophète.
+22 Le reste des actions, des voies et des oeuvres d'Abia est écrit très exactement dans le livre d'Addo, le prophète.
 

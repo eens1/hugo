@@ -66,11 +66,11 @@ summary: |
 ***Note*** :  Prov. 26, 22 : Les paroles, etc. Voir la même sentence, Proverbes, 18, 8.
 
 
-23 De même que serait un vase de terre, si tu voulais l'orner d'un argent impur, de même sont des lèvres enflées, jointes à un cœur corrompu.
+23 De même que serait un vase de terre, si tu voulais l'orner d'un argent impur, de même sont des lèvres enflées, jointes à un coeur corrompu.
 
-***Note*** :  Prov. 26, 23 : Un argent impur ne va pas moins bien avec un vase de terre, que des lèvres enflées, c’est-à-dire superbes, orgueilleuses, avec un très mauvais cœur.
+***Note*** :  Prov. 26, 23 : Un argent impur ne va pas moins bien avec un vase de terre, que des lèvres enflées, c’est-à-dire superbes, orgueilleuses, avec un très mauvais coeur.
 
-24 A ses propres lèvres on connaît un ennemi, lorsque dans son cœur il s'occupe de tromperies. 25 Quand il abaisse sa voix, ne le crois pas, parce que sept malices sont dans son cœur.
+24 A ses propres lèvres on connaît un ennemi, lorsque dans son coeur il s'occupe de tromperies. 25 Quand il abaisse sa voix, ne le crois pas, parce que sept malices sont dans son coeur.
 
 ***Note*** :  Prov. 26, 25 : Sept. Voir le verset 16.
 

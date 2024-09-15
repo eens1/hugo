@@ -5,43 +5,43 @@ draft: false
 ---
 
 
-1 Et egressus Iesus de templo, ibat. Et accesserunt discipuli eius, ut ostenderent ei ædificationes templi.
+1 Et egressus Iesus de templo, ibat. Et accesserunt discipuli eius, ut ostenderent ei aedificationes templi.
 
-2 Ipse autem respondens dixit illis: Videtis hæc omnia? Amen dico vobis, non relinquetur hic lapis super lapidem, qui non destruatur.
+2 Ipse autem respondens dixit illis: Videtis haec omnia? Amen dico vobis, non relinquetur hic lapis super lapidem, qui non destruatur.
 
-3 Sedente autem eo super Montem oliveti, accesserunt ad eum discipuli secreto, dicentes: Dic nobis, quando hæc erunt? et quod signum adventus tui, et consummationis sæculi?
+3 Sedente autem eo super Montem oliveti, accesserunt ad eum discipuli secreto, dicentes: Dic nobis, quando haec erunt? et quod signum adventus tui, et consummationis saeculi?
 
 4 Et respondens Iesus, dixit eis: Videte ne quis vos seducat.
 
 5 multi enim venient in nomine meo, dicentes: Ego sum Christus: et multos seducent.
 
-6 Audituri enim estis prælia, et opiniones præliorum. Videte ne turbemini. oportet enim hæc fieri, sed nondum est finis.
+6 Audituri enim estis praelia, et opiniones praeliorum. Videte ne turbemini. oportet enim haec fieri, sed nondum est finis.
 
-7 consurget enim gens in gentem, et regnum in regnum, et erunt pestilentiæ, et fames, et terræmotus per loca.
+7 consurget enim gens in gentem, et regnum in regnum, et erunt pestilentiae, et fames, et terraemotus per loca.
 
-8 hæc autem omnia initia sunt dolorum.
+8 haec autem omnia initia sunt dolorum.
 
 9 Tunc tradent vos in tribulationem, et occident vos: et eritis odio omnibus gentibus propter nomen meum.
 
 10 Et tunc scandalizabuntur multi, et invicem tradent, et odio habebunt invicem.
 
-11 Et multi pseudoprophetæ surgent, et seducent multos.
+11 Et multi pseudoprophetae surgent, et seducent multos.
 
 12 Et quoniam abundavit iniquitas, refrigescet caritas multorum.
 
 13 qui autem perseveraverit usque in finem, hic salvus erit.
 
-14 Et prædicabitur hoc Evangelium regni in universo orbe, in testimonium omnibus gentibus: et tunc veniet consummatio.
+14 Et praedicabitur hoc Evangelium regni in universo orbe, in testimonium omnibus gentibus: et tunc veniet consummatio.
 
-15 Cum ergo videritis abominationem desolationis, quæ dicta est a Daniele propheta, stantem in loco sancto, qui legit, intelligat:
+15 Cum ergo videritis abominationem desolationis, quae dicta est a Daniele propheta, stantem in loco sancto, qui legit, intelligat:
 
-16 tunc qui in Iudæa sunt, fugiant ad montes:
+16 tunc qui in Iudaea sunt, fugiant ad montes:
 
 17 et qui in tecto, non descendat tollere aliquid de domo sua:
 
 18 et qui in agro, non revertatur tollere tunicam suam.
 
-19 Væ autem prægnantibus, et nutrientibus in illis diebus.
+19 Vae autem praegnantibus, et nutrientibus in illis diebus.
 
 20 Orate autem ut non fiat fuga vestra in hieme, vel sabbato.
 
@@ -51,31 +51,31 @@ draft: false
 
 23 Tunc si quis vobis dixerit: Ecce hic est Christus, aut illic: nolite credere.
 
-24 Surgent enim pseudochristi, et pseudoprophetæ: et dabunt signa magna, et prodigia, ita ut in errorem inducantur (si fieri potest) etiam electi.
+24 Surgent enim pseudochristi, et pseudoprophetae: et dabunt signa magna, et prodigia, ita ut in errorem inducantur (si fieri potest) etiam electi.
 
-25 Ecce prædixi vobis.
+25 Ecce praedixi vobis.
 
 26 Si ergo dixerint vobis, Ecce in deserto est, nolite exire: ecce in penetralibus, nolite credere.
 
 27 Sicut enim fulgur exit ab Oriente, et paret usque in Occidentem: ita erit et adventus Filii hominis.
 
-28 Ubicumque fuerit corpus, illic congregabuntur et aquilæ.
+28 Ubicumque fuerit corpus, illic congregabuntur et aquilae.
 
-29 Statim autem post tribulationem dierum illorum sol obscurabitur, et luna non dabit lumen suum, et stellæ cadent de cælo, et virtutes cælorum commovebuntur:
+29 Statim autem post tribulationem dierum illorum sol obscurabitur, et luna non dabit lumen suum, et stellae cadent de caelo, et virtutes caelorum commovebuntur:
 
-30 et tunc parebit signum Filii hominis in cælo: et tunc plangent omnes tribus terræ: et videbunt Filium hominis venientem in nubibus cæli cum virtute multa, et maiestate.
+30 et tunc parebit signum Filii hominis in caelo: et tunc plangent omnes tribus terrae: et videbunt Filium hominis venientem in nubibus caeli cum virtute multa, et maiestate.
 
-31 Et mittet angelos suos cum tuba, et voce magna: et congregabunt electos eius a quattuor ventis, a summis cælorum usque ad terminos eorum.
+31 Et mittet angelos suos cum tuba, et voce magna: et congregabunt electos eius a quattuor ventis, a summis caelorum usque ad terminos eorum.
 
-32 Ab arbore autem fici discite parabolam: cum iam ramus eius tener fuerit, et folia nata, scitis quia prope est æstas:
+32 Ab arbore autem fici discite parabolam: cum iam ramus eius tener fuerit, et folia nata, scitis quia prope est aestas:
 
-33 ita et vos cum videritis hæc omnia, scitote quia prope est in ianuis.
+33 ita et vos cum videritis haec omnia, scitote quia prope est in ianuis.
 
-34 Amen dico vobis, quia non præteribit generatio hæc, donec omnia hæc fiant.
+34 Amen dico vobis, quia non praeteribit generatio haec, donec omnia haec fiant.
 
-35 Cælum, et terra transibunt, verba autem mea non præteribunt.
+35 Caelum, et terra transibunt, verba autem mea non praeteribunt.
 
-36 De die autem illa, et hora nemo scit, neque angeli cælorum, nisi solus Pater.
+36 De die autem illa, et hora nemo scit, neque angeli caelorum, nisi solus Pater.
 
 37 Sicut autem in diebus Noe, ita erit et adventus Filii hominis.
 
@@ -85,7 +85,7 @@ draft: false
 
 40 Tunc duo erunt in agro: unus assumetur, et unus relinquetur.
 
-41 duæ molentes in mola: una assumetur, et una relinquetur.
+41 duae molentes in mola: una assumetur, et una relinquetur.
 
 42 Vigilate ergo, quia nescitis qua hora Dominus vester venturus sit.
 
@@ -101,7 +101,7 @@ draft: false
 
 48 Si autem dixerit malus servus ille in corde suo: Moram fecit dominus meus venire:
 
-49 et cœperit percutere conservos suos, manducet autem, et bibat cum ebriosis:
+49 et coeperit percutere conservos suos, manducet autem, et bibat cum ebriosis:
 
 50 veniet dominus servi illius in die, qua non sperat, et hora, qua ignorat:
 

@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Alleluia. Confitemini Domino quoniam bonus: quoniam in sæculum misericordia eius.
+1 Alleluia. Confitemini Domino quoniam bonus: quoniam in saeculum misericordia eius.
 
 2 Dicant qui redempti sunt a Domino, quos redemit de manu inimici: et de regionibus congregavit eos:
 
@@ -19,7 +19,7 @@ draft: false
 
 7 Et deduxit eos in viam rectam: ut irent in civitatem habitationis.
 
-8 Confiteantur Domino misericordiæ eius: et mirabilia eius filiis hominum.
+8 Confiteantur Domino misericordiae eius: et mirabilia eius filiis hominum.
 
 9 Quia satiavit animam inanem: et animam esurientem satiavit bonis.
 
@@ -33,9 +33,9 @@ draft: false
 
 14 Et eduxit eos de tenebris, et umbra mortis: et vincula eorum dirupit.
 
-15 Confiteantur Domino misericordiæ eius: et mirabilia eius filiis hominum.
+15 Confiteantur Domino misericordiae eius: et mirabilia eius filiis hominum.
 
-16 Quia contrivit portas æreas: et vectes ferreos confregit.
+16 Quia contrivit portas aereas: et vectes ferreos confregit.
 
 17 Suscepit eos de via iniquitatis eorum: propter iniustitias enim suas humiliati sunt.
 
@@ -45,7 +45,7 @@ draft: false
 
 20 Misit verbum suum, et sanavit eos: et eripuit eos de interitionibus eorum.
 
-21 Confiteantur Domino misericordiæ eius: et mirabilia eius filiis hominum.
+21 Confiteantur Domino misericordiae eius: et mirabilia eius filiis hominum.
 
 22 Et sacrificent sacrificium laudis: et annuncient opera eius in exultatione.
 
@@ -53,9 +53,9 @@ draft: false
 
 24 Ipsi viderunt opera Domini, et mirabilia eius in profundo.
 
-25 Dixit, et stetit spiritus procellæ: et exaltati sunt fluctus eius.
+25 Dixit, et stetit spiritus procellae: et exaltati sunt fluctus eius.
 
-26 Ascendunt usque ad cælos, et descendunt usque ad abyssos: anima eorum in malis tabescebat.
+26 Ascendunt usque ad caelos, et descendunt usque ad abyssos: anima eorum in malis tabescebat.
 
 27 Turbati sunt, et moti sunt sicut ebrius: et omnis sapientia eorum devorata est.
 
@@ -63,9 +63,9 @@ draft: false
 
 29 Et statuit procellam eius in auram: et siluerunt fluctus eius.
 
-30 Et lætati sunt quia siluerunt: et deduxit eos in portum voluntatis eorum.
+30 Et laetati sunt quia siluerunt: et deduxit eos in portum voluntatis eorum.
 
-31 Confiteantur Domino misericordiæ eius: et mirabilia eius filiis hominum.
+31 Confiteantur Domino misericordiae eius: et mirabilia eius filiis hominum.
 
 32 Et exaltent eum in ecclesia plebis: et in cathedra seniorum laudent eum.
 
@@ -87,7 +87,7 @@ draft: false
 
 41 Et adiuvit pauperem de inopia: et posuit sicut oves familias.
 
-42 Videbunt recti, et lætabuntur: et omnis iniquitas oppilabit os suum.
+42 Videbunt recti, et laetabuntur: et omnis iniquitas oppilabit os suum.
 
-43 Quis sapiens et custodiet hæc? et intelliget misericordias Domini?
+43 Quis sapiens et custodiet haec? et intelliget misericordias Domini?
 

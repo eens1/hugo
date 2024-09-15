@@ -9,23 +9,23 @@ draft: false
 
 2 Fili hominis pone faciem tuam ad montes Israel, et prophetabis ad eos,
 
-3 et dices: Montes Israel audite verbum Domini Dei: Hæc dicit Dominus Deus montibus, et collibus, rupibus, et vallibus: Ecce ego inducam super vos gladium, et disperdam excelsa vestra,
+3 et dices: Montes Israel audite verbum Domini Dei: Haec dicit Dominus Deus montibus, et collibus, rupibus, et vallibus: Ecce ego inducam super vos gladium, et disperdam excelsa vestra,
 
 4 et demoliar aras vestras, et confringentur simulachra vestra: et deiiciam interfectos vestros ante idola vestra.
 
 5 Et dabo cadavera filiorum Israel ante faciem simulachrorum vestrorum: et dispergam ossa vestra circum aras vestras
 
-6 in omnibus habitationibus vestris. Urbes desertæ erunt, et excelsa demolientur, et dissipabuntur: et interibunt aræ vestræ, et confringentur: et cessabunt idola vestra, et conterentur delubra vestra, et delebuntur opera vestra.
+6 in omnibus habitationibus vestris. Urbes desertae erunt, et excelsa demolientur, et dissipabuntur: et interibunt arae vestrae, et confringentur: et cessabunt idola vestra, et conterentur delubra vestra, et delebuntur opera vestra.
 
 7 Et cadet interfectus in medio vestri: et scietis quia ego sum Dominus.
 
 8 Et relinquam in vobis eos, qui fugerint gladium in Gentibus, cum dispersero vos in terris.
 
-9 Et recordabuntur mei liberati vestri in Gentibus, ad quas captivi ducti sunt: quia contrivi cor eorum fornicans, et recedens a me; et oculos eorum fornicantes post idola sua: et displicebunt sibimet super malis quæ fecerunt in universis abominationibus suis.
+9 Et recordabuntur mei liberati vestri in Gentibus, ad quas captivi ducti sunt: quia contrivi cor eorum fornicans, et recedens a me; et oculos eorum fornicantes post idola sua: et displicebunt sibimet super malis quae fecerunt in universis abominationibus suis.
 
 10 Et scient quia ego Dominus non frustra locutus sum ut facerem eis malum hoc.
 
-11 Hæc dicit Dominus Deus: Percute manum tuam, et allide pedem tuum, et dic: Heu, ad omnes abominationes malorum domus Israel: quia gladio, fame, et peste ruituri sunt.
+11 Haec dicit Dominus Deus: Percute manum tuam, et allide pedem tuum, et dic: Heu, ad omnes abominationes malorum domus Israel: quia gladio, fame, et peste ruituri sunt.
 
 12 Qui longe est, peste morietur: qui autem prope, gladio corruet: et qui relictus fuerit, et obsessus, fame morietur: et complebo indignationem meam in eis.
 

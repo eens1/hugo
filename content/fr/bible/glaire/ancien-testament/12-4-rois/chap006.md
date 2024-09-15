@@ -17,7 +17,7 @@ summary: |
 
 ***Note*** :  IV Rois 6, 10 : Non pas une fois, ni deux fois ; c’est-à-dire souvent.
 
-11 Et le cœur du roi de Syrie fut troublé de cela; et, ses serviteurs convoqués, il dit : Pourquoi ne me découvrez-vous point qui est celui qui me trahit auprès du roi d'Israël? 12 Et l'un de ses serviteurs dit : Point du tout, mon seigneur le roi ; mais Elisée le prophète, qui est en Israël, découvre au roi d'Israël toutes les paroles que vous dites dans votre chambre. 13 Et il leur dit : Allez, voyez où il est, afin que j'envoie et que je le prenne. Ils lui annoncèrent donc, disant : Voilà qu'il est à Dothan.
+11 Et le coeur du roi de Syrie fut troublé de cela; et, ses serviteurs convoqués, il dit : Pourquoi ne me découvrez-vous point qui est celui qui me trahit auprès du roi d'Israël? 12 Et l'un de ses serviteurs dit : Point du tout, mon seigneur le roi ; mais Elisée le prophète, qui est en Israël, découvre au roi d'Israël toutes les paroles que vous dites dans votre chambre. 13 Et il leur dit : Allez, voyez où il est, afin que j'envoie et que je le prenne. Ils lui annoncèrent donc, disant : Voilà qu'il est à Dothan.
 
 ***Note*** :  IV Rois 6, 13 : Dothan, Dothaïn. Voir Genèse, 37, 17.
 

@@ -61,7 +61,7 @@ summary: |
 22 Ne les crains point; car le Seigneur votre Dieu combattra pour vous.
 
 
-23 Et je priai le Seigneur en ce temps-là, disant :24 Seigneur Dieu, vous avez commencé à montrer à votre serviteur votre grandeur, et votre main très puissante; car il n'est pas d'autre Dieu ou dans le ciel ou sur la terre, qui puisse faire vos œuvres, et être comparé à votre puissance. 25 Je passerai donc, et je verrai cette terre excellente au-delà du Jourdain, et cette belle montagne, et le Liban.
+23 Et je priai le Seigneur en ce temps-là, disant :24 Seigneur Dieu, vous avez commencé à montrer à votre serviteur votre grandeur, et votre main très puissante; car il n'est pas d'autre Dieu ou dans le ciel ou sur la terre, qui puisse faire vos oeuvres, et être comparé à votre puissance. 25 Je passerai donc, et je verrai cette terre excellente au-delà du Jourdain, et cette belle montagne, et le Liban.
 
 ***Note*** :  Dr. 3, 25 : Cette belle montagne ; la montagne de Moria, sur laquelle Abraham offrit Isaac, et où devait être bâtie la ville de Sion et son temple, ou bien les montagnes de Béthel, plus hautes que la montagne de Moria, plus voisines du Jourdain et peu éloignées de Jéricho. ― Le Liban devait former la frontière septentrionale de la Palestine. Sur cette montagne, voir l’Introduction au livre de Josué.
 

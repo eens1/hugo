@@ -54,7 +54,7 @@ summary: |
 ***Note*** :  Gn. 46, 15 : Toutes les âmes de ses fils ; c’est-à-dire, tous ses fils, etc. Comparer à Genèse, 9, 5.
 
 
-16 Les fils de Gad : Séphion, Haggi, Suni, Esébon, Héri, Arodi et Aréli. 17 Les fils d'Aser : Jamné, Jésua, Jessui et Béria, et aussi Sara leur sœur. Les fils de Béria : Héber et Melchiel.
+16 Les fils de Gad : Séphion, Haggi, Suni, Esébon, Héri, Arodi et Aréli. 17 Les fils d'Aser : Jamné, Jésua, Jessui et Béria, et aussi Sara leur soeur. Les fils de Béria : Héber et Melchiel.
 
 ***Note*** :  Gn. 46, 17 : Voir 1 Paralipomènes, 7, 30.
 

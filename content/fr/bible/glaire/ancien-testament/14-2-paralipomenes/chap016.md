@@ -29,7 +29,7 @@ summary: |
 
 ***Note*** :  II Par. 16, 8 : Voir 2 Paralipomènes, 14, 9.
 
-9 Car les yeux du Seigneur contemplent toute la terre, et ils donnent de la force à ceux qui d'un cœur parfait croient en lui. Vous avez donc agi follement, et à cause de cela dès à présent des guerres s'élèveront contre vous. 10 Mais Asa, irrité contre le Voyant, commanda qu'il fût mis dans les chaînes ; car il avait été très indigné de ses paroles ; et il tua en ce temps-là un grand nombre de personnes d'entre le peuple.
+9 Car les yeux du Seigneur contemplent toute la terre, et ils donnent de la force à ceux qui d'un coeur parfait croient en lui. Vous avez donc agi follement, et à cause de cela dès à présent des guerres s'élèveront contre vous. 10 Mais Asa, irrité contre le Voyant, commanda qu'il fût mis dans les chaînes ; car il avait été très indigné de ses paroles ; et il tua en ce temps-là un grand nombre de personnes d'entre le peuple.
 
 ***Note*** :  II Par. 16, 10 : Les chaînes ; littéralement le nerf, mot qui signifie proprement des liens faits avec des nerfs, mais qui s’applique aussi aux cordes, aux chaînes, aux menottes, et aux colliers qu’on mettait aux criminels. ― Le Voyant, le prophète Hanani.
 

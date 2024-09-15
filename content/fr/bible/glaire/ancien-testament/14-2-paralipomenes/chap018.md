@@ -16,7 +16,7 @@ summary: |
 
 ***Note*** :  II Par. 18, 1 : Voir 4 Rois, 8, 18 ; 2 Paralipomènes, 21, 6.
 
-2 Et il descendit après quelques années vers lui à Samarie; et à son arrivée Achab tua un grand nombre de béliers et de bœufs, à cause de lui et de tout le peuple qui était venu avec lui, et il lui persuada de monter à Ramoth-Galaad.
+2 Et il descendit après quelques années vers lui à Samarie; et à son arrivée Achab tua un grand nombre de béliers et de boeufs, à cause de lui et de tout le peuple qui était venu avec lui, et il lui persuada de monter à Ramoth-Galaad.
 
 ***Note*** :  II Par. 18, 2 : A Samarie. Voir 3 Rois, note 16. 24. ― Ramoth-Galaad. Voir Deutéronome, 4, 43.
 

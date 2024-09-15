@@ -15,7 +15,7 @@ summary: |
 ***Note*** :  I Rois 7, 1 : Ils sanctifièrent ; c’est-à-dire consacrèrent par l’onction sainte, ou appliquèrent au ministère des Lévites, ou simplement disposèrent, préparèrent Eléazar, en le purifiant des souillures extérieures en l’obligeant à s’abstenir des plaisirs sensuels, à laver ses vêtements ; en un mot, en le soumettant à tous les genres de purifications usités en pareil cas. ― Gabaa ne désigne probablement pas ici une ville particulière, mais une hauteur, la partie la plus élevée de Cariathiarim.
 
 
-2 Et il arriva que depuis le jour où l'arche du Seigneur demeura à Cariathiarim, les jours se multiplièrent (car c'était déjà la vingtième année) ; et toute la maison d'Israël se reposa à l'abri du Seigneur. 3 Et Samuel s'adressa à toute la maison d'Israël, disant : Si c'est en tout votre cœur que vous revenez au Seigneur, ôtez d'au milieu de vous les dieux étrangers, les Baalim et les Astaroth, et préparez vos cœurs pour le Seigneur, ne servez que lui, et il vous délivrera de la main des Philistins.
+2 Et il arriva que depuis le jour où l'arche du Seigneur demeura à Cariathiarim, les jours se multiplièrent (car c'était déjà la vingtième année) ; et toute la maison d'Israël se reposa à l'abri du Seigneur. 3 Et Samuel s'adressa à toute la maison d'Israël, disant : Si c'est en tout votre coeur que vous revenez au Seigneur, ôtez d'au milieu de vous les dieux étrangers, les Baalim et les Astaroth, et préparez vos coeurs pour le Seigneur, ne servez que lui, et il vous délivrera de la main des Philistins.
 
 ***Note*** :  I Rois 7, 3 : Voir Deutéronome, 6, 13 ; Matthieu, 4, 10. ― Les Baalim et les Astaroth. Voir Juges, 3, 7.
 

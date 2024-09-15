@@ -69,5 +69,5 @@ summary: |
 
 ***Note*** :  Sir. 13, 30 : Les richesses, etc. L’écrivain sacré prouve par ce verset qu’il ne condamne pas généralement toutes les richesses, et qu’il n’approuve pas non plus universellement ceux qui sont pauvres ; puisqu’il y a des riches qui sont des gens de bien, et des pauvres méchants, dont la pauvreté n’est ni louable ni méritoire, parce qu’elle est forcée et en même temps accompagnée d’impatiences et de murmures.
 
-31 Le cœur de l'homme change sa face, soit en bien, soit en mal. 32 La marque d'un bon cœur et une bonne face, tu la trouveras difficilement et avec peine.
+31 Le coeur de l'homme change sa face, soit en bien, soit en mal. 32 La marque d'un bon coeur et une bonne face, tu la trouveras difficilement et avec peine.
 

@@ -30,7 +30,7 @@ summary: |
 5 Et j'allai, et je la cachai près de l'Euphrate, comme le Seigneur m'avait ordonné. 6 Et il arriva, après plusieurs jours, que le Seigneur me dit : Lève-toi, va vers l'Euphrate, et tires-en la ceinture que je t'ai ordonné d'y cacher. 7 Et j'allai vers l'Euphrate, et je creusai, et je tirai la ceinture du lieu où je l'avais cachée; et voilà que la ceinture était pourrie, de telle sorte qu'elle n'était propre à aucun usage. 8 Et la parole du Seigneur me fut adressée, disant :
 
 
-9 Voici ce que dit le Seigneur : Ainsi je ferai pourrir l'orgueil de Juda et l'orgueil excessif de Jérusalem; 10 Ce peuple très méchant, qui ne veut pas entendre mes paroles et qui marche dans la dépravation de son cœur, qui a couru après des dieux étrangers, afin de les servir et de les adorer ; et il sera comme cette ceinture, qui n'est propre à aucun usage.
+9 Voici ce que dit le Seigneur : Ainsi je ferai pourrir l'orgueil de Juda et l'orgueil excessif de Jérusalem; 10 Ce peuple très méchant, qui ne veut pas entendre mes paroles et qui marche dans la dépravation de son coeur, qui a couru après des dieux étrangers, afin de les servir et de les adorer ; et il sera comme cette ceinture, qui n'est propre à aucun usage.
 
 ***Note*** :  Jr. 13, 10 : Ce peuple (populum) ; à l’accusatif comme régime direct de je ferai pourrir (putrescere faciam) du verset 9.
 
@@ -46,7 +46,7 @@ summary: |
 13 Et tu leur diras : Voici ce que dit le Seigneur : Voilà que moi je remplirai d'ivresse tous les habitants de cette terre, et les rois de la race de David qui sont assis sur le trône, et les prêtres et les prophètes, et tous les habitants de Jérusalem; 14 Et je les disperserai en séparant un homme de son frère ; et les pères et les fils pareillement, dit le Seigneur; je n'épargnerai pas, et je n'accorderai rien, je n'aurai pas assez de pitié pour ne pas les perdre entièrement.
 
 
-15 Ecoutez et prêtez l'oreille. Ne vous enorgueillissez point; parce que c'est le Seigneur qui a parlé. 16 Rendez gloire au Seigneur votre Dieu, avant que les ténèbres viennent, et avant que vos pieds heurtent contre des montagnes obscures; vous attendrez la lumière, et le Seigneur la changera en ombre de mort et en une profonde obscurité. 17 Si vous n'écoutez pas cela, mon âme pleurera en secret à cause de votre orgueil : mon œil pleurant pleurera et fera couler des larmes, parce que le troupeau du Seigneur a été pris.
+15 Ecoutez et prêtez l'oreille. Ne vous enorgueillissez point; parce que c'est le Seigneur qui a parlé. 16 Rendez gloire au Seigneur votre Dieu, avant que les ténèbres viennent, et avant que vos pieds heurtent contre des montagnes obscures; vous attendrez la lumière, et le Seigneur la changera en ombre de mort et en une profonde obscurité. 17 Si vous n'écoutez pas cela, mon âme pleurera en secret à cause de votre orgueil : mon oeil pleurant pleurera et fera couler des larmes, parce que le troupeau du Seigneur a été pris.
 
 ***Note*** :  Jr. 13, 17 : Voir Lamentations, 1, 2. ― A cause de ; littéralement et par hébraïsme, à la face de.
 
@@ -62,7 +62,7 @@ summary: |
 20 Levez vos yeux, et voyez, vous qui venez de l'aquilon ; où est le troupeau qui t'a été donné, ton troupeau glorieux?
 
 
-21 Que diras-tu lorsque Dieu te visitera? c'est toi qui as enseigné tes ennemis contre toi-même, et qui les a instruits en exposant ta tête : est-ce que les douleurs ne te saisiront pas comme une femme en travail? 22 Que si tu dis en ton cœur : Pourquoi sont venus sur moi ces maux? C'est à cause de la multitude de tes iniquités qu'a été mise à découvert ta honte et qu'ont été souillées les plantes de tes pieds.
+21 Que diras-tu lorsque Dieu te visitera? c'est toi qui as enseigné tes ennemis contre toi-même, et qui les a instruits en exposant ta tête : est-ce que les douleurs ne te saisiront pas comme une femme en travail? 22 Que si tu dis en ton coeur : Pourquoi sont venus sur moi ces maux? C'est à cause de la multitude de tes iniquités qu'a été mise à découvert ta honte et qu'ont été souillées les plantes de tes pieds.
 
 ***Note*** :  Jr. 13, 22 : Voir Jérémie, 30, 14.
 

@@ -15,16 +15,16 @@ summary: |
 
 ***Note*** :  Sir. 40, 1 : La mère de tous ; la terre.
 
-2 Leurs pensées et les craintes du cœur, les imaginations de l'espérance, et le jour de la mort;
+2 Leurs pensées et les craintes du coeur, les imaginations de l'espérance, et le jour de la mort;
 
 
 3 Depuis celui qui est assis sur un trône de gloire, jusqu'à celui qui est couché sur la terre et la cendre ; 4 Depuis celui qui est vêtu d'hyacinthe et qui porte la couronne, jusqu'à celui qui n'est couvert que d'une toile crue, la fureur, la jalousie, le trouble, l'agitation et la crainte de la mort, la colère persévérante et les querelles, 5 Au temps même du repos, sur la couche, le sommeil de la nuit, tout cela change les idées de l'homme.
 
 ***Note*** :  Sir. 40, 5 : Trouble (immutat) ; verbe au singulier, qui a pour sujet la fureur, la jalousie, etc. , du verset 4 ; voilà pourquoi nous avons ajouté tout cela. ― De l’homme, qui est assez clairement indiqué dans ce qui précède ; littéralement de lui (ejus).
 
-6 Il est peu, presque point en repos, et même dans son sommeil, de lui s'échappe comme pendant le jour un regard jeté en arrière. 7 Il a été troublé par les visions de son cœur, comme celui qui s'est sauvé au jour du combat. Au moment où il était en sûreté, il s'est levé, et s'est étonné de ce qu'il n'y avait aucun sujet de crainte.
+6 Il est peu, presque point en repos, et même dans son sommeil, de lui s'échappe comme pendant le jour un regard jeté en arrière. 7 Il a été troublé par les visions de son coeur, comme celui qui s'est sauvé au jour du combat. Au moment où il était en sûreté, il s'est levé, et s'est étonné de ce qu'il n'y avait aucun sujet de crainte.
 
-***Note*** :  Sir. 40, 7 : Son cœur ; pour son esprit. Les Hébreux donnaient le nom de cœur à l’intelligence, à l’esprit, à l’âme, aussi bien qu’à la volonté, à la vie, etc. ― Au moment, etc. Au moment où, dans son rêve, il croyait avoir échappé à tout danger, il s’est réveillé, tout surpris d’avoir eu des frayeurs sans aucun fondement.
+***Note*** :  Sir. 40, 7 : Son coeur ; pour son esprit. Les Hébreux donnaient le nom de coeur à l’intelligence, à l’esprit, à l’âme, aussi bien qu’à la volonté, à la vie, etc. ― Au moment, etc. Au moment où, dans son rêve, il croyait avoir échappé à tout danger, il s’est réveillé, tout surpris d’avoir eu des frayeurs sans aucun fondement.
 
 8 Avec toute chair, depuis l'homme jusqu'à la bête, il en est ainsi, et avec les pécheurs c'est le septuple. 9 De plus, la mort, le sang, les querelles et l'épée à deux tranchants, l'oppression, la faim et la ruine et les fléaux;
 
@@ -56,7 +56,7 @@ summary: |
 ***Note*** :  Sir. 40, 17 : Béni ; littéralement dans ou avec des bénédictions. Les adjectifs sont souvent remplacés, en hébreu, comme en arabe, par un substantif précédé d’une préposition.
 
 
-18 La vie d'un ouvrier qui se suffit à lui-même sera remplie de douceur, et dans cette vie tu trouveras un trésor. 19 Les fils et la fondation d'une cité assureront un nom; mais au-dessus de ces biens sera estimée une femme sans tache, 20 Le vin et la musique réjouissent le cœur; mais au-dessus de l'un et de l'autre est l'amour de la sagesse. 21 Les flûtes et le psaltérion font une douce mélodie; mais au-dessus de l'un et de l'autre est une langue douce. 22 Ton œil désirera la grâce et la beauté, mais au-dessus de ces choses, des semailles verdoyantes. 23 Un ami et un ami, dans l'occasion, se viendront en aide; mais plus que l'un et l'autre, une femme le fera avec son mari. 24 Les frères sont un secours au temps de la tribulation ; mais plus qu'eux la miséricorde sauvera.
+18 La vie d'un ouvrier qui se suffit à lui-même sera remplie de douceur, et dans cette vie tu trouveras un trésor. 19 Les fils et la fondation d'une cité assureront un nom; mais au-dessus de ces biens sera estimée une femme sans tache, 20 Le vin et la musique réjouissent le coeur; mais au-dessus de l'un et de l'autre est l'amour de la sagesse. 21 Les flûtes et le psaltérion font une douce mélodie; mais au-dessus de l'un et de l'autre est une langue douce. 22 Ton oeil désirera la grâce et la beauté, mais au-dessus de ces choses, des semailles verdoyantes. 23 Un ami et un ami, dans l'occasion, se viendront en aide; mais plus que l'un et l'autre, une femme le fera avec son mari. 24 Les frères sont un secours au temps de la tribulation ; mais plus qu'eux la miséricorde sauvera.
 
 ***Note*** :  Sir. 40, 24 : Sont un secours ; littéralement et par hébraïsme, en un secours.
 
@@ -64,7 +64,7 @@ summary: |
 
 ***Note*** :  Sir. 40, 25 : La consistance des pieds (constitutio pedum) ; c’est-à-dire un puissant appui.
 
-26 Les richesses et les forces exaltent le cœur ; mais au-dessus de ces choses est la crainte du Seigneur. 27 Il n'y a pas dans la crainte du Seigneur de détriment, et il n'est pas besoin, dans cette crainte, de chercher du secours.
+26 Les richesses et les forces exaltent le coeur ; mais au-dessus de ces choses est la crainte du Seigneur. 27 Il n'y a pas dans la crainte du Seigneur de détriment, et il n'est pas besoin, dans cette crainte, de chercher du secours.
 
 ***Note*** :  Sir. 40, 27 : Il n’y a pas dans la crainte, etc. Quand on a la crainte du Seigneur, on ne souffre aucun dommage, rien ne manque.
 

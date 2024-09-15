@@ -11,13 +11,13 @@ draft: false
 
 3 et implevi spiritu Dei, sapientia, et intelligentia, et scientia in omni opere,
 
-4 ad excogitandum quidquid fabrefieri potest ex auro, et argento, et ære,
+4 ad excogitandum quidquid fabrefieri potest ex auro, et argento, et aere,
 
 5 marmore, et gemmis, et diversitate lignorum.
 
-6 Dedique ei socium Ooliab filium Achisamech de tribu Dan. Et in corde omnis eruditi posui sapientiam: ut faciant cuncta quæ præcepi tibi,
+6 Dedique ei socium Ooliab filium Achisamech de tribu Dan. Et in corde omnis eruditi posui sapientiam: ut faciant cuncta quae praecepi tibi,
 
-7 tabernaculum fœderis, et arcam testimonii, et propitiatorium, quod super eam est, et cuncta vasa tabernaculi,
+7 tabernaculum foederis, et arcam testimonii, et propitiatorium, quod super eam est, et cuncta vasa tabernaculi,
 
 8 mensamque et vasa eius, candelabrum purissimum cum vasis suis, et altaris thymiamatis,
 
@@ -25,7 +25,7 @@ draft: false
 
 10 vestes sanctas in ministerio Aaron sacerdoti, et filiis eius, ut fungantur officio suo in sacris.
 
-11 oleum unctionis, et thymiama aromatum in Sanctuario, omnia quæ præcepi tibi, facient.
+11 oleum unctionis, et thymiama aromatum in Sanctuario, omnia quae praecepi tibi, facient.
 
 12 Et locutus est Dominus ad Moysen, dicens:
 
@@ -37,7 +37,7 @@ draft: false
 
 16 Custodiant filii Israel Sabbatum, et celebrent illud in generationibus suis. Pactum est sempiternum
 
-17 inter me et filios Israel, signumque perpetuum. sex enim diebus fecit Dominus cælum et terram, et in septimo ab opere cessavit.
+17 inter me et filios Israel, signumque perpetuum. sex enim diebus fecit Dominus caelum et terram, et in septimo ab opere cessavit.
 
 18 Deditque Dominus Moysi, completis huiuscemodi sermonibus in monte Sinai, duas tabulas testimonii lapideas, scriptas digito Dei.
 

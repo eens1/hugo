@@ -29,9 +29,9 @@ summary: |
 
 ***Note*** :  I Macc. 1, 3 : Jusqu’aux confins de la terre, c’est-à-dire, jusqu’aux Indes ; les anciens ne connaissaient rien au-delà.
 
-4 Et il assembla des forces, et une armée des plus puissantes, et son cœur s'éleva et s'enfla.
+4 Et il assembla des forces, et une armée des plus puissantes, et son coeur s'éleva et s'enfla.
 
-***Note*** :  I Macc. 1, 4 : Son cœur s’éleva. Il voulut se faire adorer comme un dieu et fit périr le philosophe Callisthène qui refusa de lui rendre un culte.
+***Note*** :  I Macc. 1, 4 : Son coeur s’éleva. Il voulut se faire adorer comme un dieu et fit périr le philosophe Callisthène qui refusa de lui rendre un culte.
 
 5 Et il se rendit maître des contrées des nations, ainsi que des rois, et ils devinrent ses tributaires.
 

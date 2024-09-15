@@ -21,9 +21,9 @@ summary: |
 
 ***Note*** :  Bar. 2, 6 : Voir Baruch, 1, 15.
 
-7 Parce que le Seigneur a prononcé contre nous tous ces maux qui sont venus sur nous ; 8 Et nous n'avons pas supplié la face du Seigneur notre Dieu, afin que nous revenions chacun de nos voies très mauvaises. 9 Et le Seigneur a veillé sur les maux et il les a amenés sur nous; parce que le Seigneur est juste dans toutes ses œuvres qu'il nous a commandées ;
+7 Parce que le Seigneur a prononcé contre nous tous ces maux qui sont venus sur nous ; 8 Et nous n'avons pas supplié la face du Seigneur notre Dieu, afin que nous revenions chacun de nos voies très mauvaises. 9 Et le Seigneur a veillé sur les maux et il les a amenés sur nous; parce que le Seigneur est juste dans toutes ses oeuvres qu'il nous a commandées ;
 
-***Note*** :  Bar. 2, 9 : A veillé, etc. ; c’est-à-dire s’est appliqué à nous punir. ― Toutes ses œuvres, etc. ; tout ce qu’il nous a commandé.
+***Note*** :  Bar. 2, 9 : A veillé, etc. ; c’est-à-dire s’est appliqué à nous punir. ― Toutes ses oeuvres, etc. ; tout ce qu’il nous a commandé.
 
 10 Et nous n'avons pas écouté sa voix, afin de marcher dans les préceptes qu'il a mis devant notre face.
 
@@ -39,7 +39,7 @@ summary: |
 13 Que votre colère se détourne de nous, parce que nous sommes restés en petit nombre parmi les nations où vous nous avez dispersés.
 
 
-14 Exaucez, Seigneur, nos vœux et nos prières, et délivrez-nous à cause de vous-même, et accordez-nous de trouver grâce devant ceux qui nous ont emmenés; 15 Afin que toute la terre sache que c'est vous qui êtes le Seigneur notre Dieu, et que votre nom est invoqué sur Israël et sur sa race.
+14 Exaucez, Seigneur, nos voeux et nos prières, et délivrez-nous à cause de vous-même, et accordez-nous de trouver grâce devant ceux qui nous ont emmenés; 15 Afin que toute la terre sache que c'est vous qui êtes le Seigneur notre Dieu, et que votre nom est invoqué sur Israël et sur sa race.
 
 ***Note*** :  Bar. 2, 15 ; 2. 26 : Votre nom, etc. ; ou bien, Israël porte votre nom ; le texte hébreu est susceptible de ces deux sens.
 
@@ -70,11 +70,11 @@ summary: |
 
 ***Note*** :  Bar. 2, 29 : Voir Lévitique, 26, 14 ; Deutéronome, 28, 15.
 
-30 Parce que je sais que ce peuple ne m'écoutera pas; car c'est un peuple d'un cou roide; mais il rentrera en son cœur dans la terre de sa captivité ;
+30 Parce que je sais que ce peuple ne m'écoutera pas; car c'est un peuple d'un cou roide; mais il rentrera en son coeur dans la terre de sa captivité ;
 
 ***Note*** :  Bar. 2, 30 : D’un cou roide ; qui supporte difficilement le joug, indomptable.
 
-31 Et ils sauront que c'est moi qui suis le Seigneur leur Dieu ; et je leur donnerai un cœur, et ils comprendront ; des oreilles, et ils entendront. 32 Et ils me loueront dans la terre de leur captivité, et ils se souviendront de mon nom. 33 Et ils se détourneront de leur dos roide, et de leurs méchancetés, parce qu'ils se souviendront de la voie de leurs pères qui ont péché contre moi.
+31 Et ils sauront que c'est moi qui suis le Seigneur leur Dieu ; et je leur donnerai un coeur, et ils comprendront ; des oreilles, et ils entendront. 32 Et ils me loueront dans la terre de leur captivité, et ils se souviendront de mon nom. 33 Et ils se détourneront de leur dos roide, et de leurs méchancetés, parce qu'ils se souviendront de la voie de leurs pères qui ont péché contre moi.
 
 ***Note*** :  Bar. 2, 33 : Dos roide ; a le même sens que cou roide du verset 30.
 

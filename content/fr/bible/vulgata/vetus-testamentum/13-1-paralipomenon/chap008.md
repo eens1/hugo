@@ -27,7 +27,7 @@ draft: false
 
 11 Mehusim vero genuit Abitob, et Elphaal.
 
-12 Porro filii Elphaal: Heber, et Misaam, et Samad: hic ædificavit Ono, et Lod, et filias eius.
+12 Porro filii Elphaal: Heber, et Misaam, et Samad: hic aedificavit Ono, et Lod, et filias eius.
 
 13 Baria autem, et Sama principes cognationum habitantium in Aialon: hi fugaverunt habitatores Geth.
 
@@ -51,7 +51,7 @@ draft: false
 
 23 et Abdon, et Zechri, et Hanan,
 
-24 et Hanania, et Ælam, et Anathothia,
+24 et Hanania, et AElam, et Anathothia,
 
 25 et Iephdaia, et Phanuel filii Sesac.
 
@@ -59,7 +59,7 @@ draft: false
 
 27 et Iersia, et Elia, et Zechri, filii Ieroham.
 
-28 hi patriarchæ, et cognationum principes, qui habitaverunt in Ierusalem.
+28 hi patriarchae, et cognationum principes, qui habitaverunt in Ierusalem.
 
 29 In Gabaon autem habitaverunt Abigabaon, et nomen uxoris eius Maacha:
 

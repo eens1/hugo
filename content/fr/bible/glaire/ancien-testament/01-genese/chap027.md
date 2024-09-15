@@ -43,7 +43,7 @@ bénédiction. Et de nouveau : N'avez-vous pas, dit-il a son père, réservé au
 40 Que sera ta bénédiction. Tu vivras sur ton glaive, mais tu serviras ton frère; et le temps viendra où tu secoueras et délieras son joug de ton cou.
 
 
-41 Esaü haïssait donc toujours Jacob, pour la bénédiction dont l'avait béni son père ; et il dit en son cœur : Viendront les jours du deuil de mon père, et je tuerai Jacob mon frère.
+41 Esaü haïssait donc toujours Jacob, pour la bénédiction dont l'avait béni son père ; et il dit en son coeur : Viendront les jours du deuil de mon père, et je tuerai Jacob mon frère.
 
 ***Note*** :  Gn. 27, 41 : Voir Abdias, 1, 10.
 

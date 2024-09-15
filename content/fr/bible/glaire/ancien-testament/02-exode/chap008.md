@@ -19,14 +19,14 @@ summary: |
 8 Or Pharaon appela Moïse et Aaron et leur dit : Priez le Seigneur qu'il éloigne les grenouilles de moi et de mon peuple, et je laisserai aller le peuple, afin qu'il sacrifie au Seigneur. 9 Et Moïse répondit à Pharaon : Indique-moi quand je devrai prier pour toi, et pour tes serviteurs et pour ton peuple, afin que les grenouilles soient chassées loin de toi et de ta maison, et de tes serviteurs et de ton peuple, et qu'elles demeurent seulement dans le fleuve. 10 Celui-ci répondit : Demain. Or Moïse : Je ferai, dit-il, selon ta parole, afin que tu saches qu'il n'y en a point comme le Seigneur notre Dieu. 11 Et les grenouilles s'éloigneront de toi et de ta maison, et de tes serviteurs et de ton peuple, et elles demeureront seulement dans le fleuve.
 
 
-12 Alors Moïse et Aaron sortirent de devant Pharaon ; et Moïse cria au Seigneur, à cause de la promesse qu'il avait faite à Pharaon touchant les grenouilles. 13 Et le Seigneur fit selon la parole de Moïse ; et les grenouilles des maisons, et des villages et des champs, moururent. 14 Et on les entassa en immenses monceaux, et la terre en fut infectée. 15 Or Pharaon, voyant qu'il lui avait été donné du relâche, endurcit son cœur, et il n'écouta pas Moïse et Aaron, comme avait ordonné le Seigneur.
+12 Alors Moïse et Aaron sortirent de devant Pharaon ; et Moïse cria au Seigneur, à cause de la promesse qu'il avait faite à Pharaon touchant les grenouilles. 13 Et le Seigneur fit selon la parole de Moïse ; et les grenouilles des maisons, et des villages et des champs, moururent. 14 Et on les entassa en immenses monceaux, et la terre en fut infectée. 15 Or Pharaon, voyant qu'il lui avait été donné du relâche, endurcit son coeur, et il n'écouta pas Moïse et Aaron, comme avait ordonné le Seigneur.
 
 
 16 Alors le Seigneur dit à Moïse : Dis à Aaron : Etends ta verge et frappe la poussière de la terre, et qu'il y ait des moucherons dans toute la terre d'Egypte. 17 Et ils firent ainsi. Aaron étendit donc sa main, tenant sa verge ; et il frappa la poussière de la terre, et les moucherons s'attachèrent aux hommes et aux bêtes; toute la poussière de la terre fut changée en moucherons par toute la terre d'Egypte. 18 Et les magiciens firent pareillement par leurs enchantements, pour produire les moucherons, mais ils ne le purent; et les moucherons restaient attachés aux hommes et aux bêtes.
 
 ***Note*** :  Ex. 8, 18 : Les magiciens frappèrent la terre de leur verge, comme Aaron ; mais ce fut sans succès.
 
-19 Alors les magiciens dirent à Pharaon : C'est le doigt de Dieu ; et le cœur de Pharaon s'endurcit, et il n'écouta pas Moïse et Aaron, comme avait ordonné le Seigneur.
+19 Alors les magiciens dirent à Pharaon : C'est le doigt de Dieu ; et le coeur de Pharaon s'endurcit, et il n'écouta pas Moïse et Aaron, comme avait ordonné le Seigneur.
 
 
 20 Le Seigneur dit aussi à Moïse : Lève-toi au point du jour, et présente-toi devant Pharaon ; car il sortira pour aller vers l'eau, et tu lui diras : Voici ce que dit le Seigneur : Laisse aller mon peuple, afin qu'il me sacrifie.
@@ -40,11 +40,11 @@ summary: |
 
 25 Alors Pharaon appela Moïse et Aaron, et leur dit : Allez et sacrifiez à votre Dieu en cette terre-ci. 26 Mais Moïse répondit : Cela ne peut se faire ainsi; car les sacrifices que nous offrirons au Seigneur notre Dieu sont des abominations pour les Egyptiens; que si nous tuons devant eux les animaux qu'adorent les Egyptiens, ils nous lapideront.
 
-***Note*** :  Ex. 8, 26 : Les Egyptiens adoraient un grand nombre d’animaux comme des dieux, en particulier le bœuf Apis.
+***Note*** :  Ex. 8, 26 : Les Egyptiens adoraient un grand nombre d’animaux comme des dieux, en particulier le boeuf Apis.
 
 27 Nous ferons le chemin de trois journées dans le désert, et nous sacrifierons au Seigneur notre Dieu, comme il nous l'a ordonné.
 
 ***Note*** :  Ex. 8, 27 : Voir Exode, 3, 18.
 
-28 Et Pharaon reprit : Moi. je vous laisserai aller, afin que vous sacrifiiez au Seigneur votre Dieu dans le désert : cependant n'allez pas plus loin, priez pour moi. 29 Moïse répondit : Sorti d'avec toi, je prierai le Seigneur, et demain les mouches s'éloigneront de Pharaon, et de ses serviteurs et de son peuple; cependant ne me trompe plus désormais, en ne laissant pas aller le peuple sacrifier au Seigneur. 30 Moïse donc, sortit de la présence de Pharaon, pria le Seigneur; 31 Qui fit selon sa parole, et il enleva les mouches de Pharaon, et de ses serviteurs et de son peuple : il n'en resta pas même une seule. 32 Mais le cœur de Pharaon s'endurcit : en sorte que, pas même cette fois, il ne laissa aller le peuple.
+28 Et Pharaon reprit : Moi. je vous laisserai aller, afin que vous sacrifiiez au Seigneur votre Dieu dans le désert : cependant n'allez pas plus loin, priez pour moi. 29 Moïse répondit : Sorti d'avec toi, je prierai le Seigneur, et demain les mouches s'éloigneront de Pharaon, et de ses serviteurs et de son peuple; cependant ne me trompe plus désormais, en ne laissant pas aller le peuple sacrifier au Seigneur. 30 Moïse donc, sortit de la présence de Pharaon, pria le Seigneur; 31 Qui fit selon sa parole, et il enleva les mouches de Pharaon, et de ses serviteurs et de son peuple : il n'en resta pas même une seule. 32 Mais le coeur de Pharaon s'endurcit : en sorte que, pas même cette fois, il ne laissa aller le peuple.
 

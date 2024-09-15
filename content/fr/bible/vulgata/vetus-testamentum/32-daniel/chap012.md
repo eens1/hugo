@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 In tempore autem illo consurget Michael princeps magnus, qui stat pro filiis populi tui: et veniet tempus quale non fuit ab eo ex quo gentes esse cœperunt usque ad tempus illud. Et in tempore illo salvabitur populus tuus, omnis qui inventus fuerit scriptus in libro.
+1 In tempore autem illo consurget Michael princeps magnus, qui stat pro filiis populi tui: et veniet tempus quale non fuit ab eo ex quo gentes esse coeperunt usque ad tempus illud. Et in tempore illo salvabitur populus tuus, omnis qui inventus fuerit scriptus in libro.
 
-2 Et multi de his, qui dormiunt in terræ pulvere, evigilabunt: alii in vitam æternam, et alii in opprobrium ut videant semper.
+2 Et multi de his, qui dormiunt in terrae pulvere, evigilabunt: alii in vitam aeternam, et alii in opprobrium ut videant semper.
 
-3 Qui autem docti fuerint, fulgebunt quasi splendor firmamenti: et qui ad iustitiam erudiunt multos, quasi stellæ in perpetuas æternitates.
+3 Qui autem docti fuerint, fulgebunt quasi splendor firmamenti: et qui ad iustitiam erudiunt multos, quasi stellae in perpetuas aeternitates.
 
 4 Tu autem Daniel claude sermones, et signa librum usque ad tempus statutum: plurimi pertransibunt, et multiplex erit scientia.
 
@@ -17,11 +17,11 @@ draft: false
 
 6 Et dixi viro, qui erat indutus lineis, qui stabat super aquas fluminis: Usquequo finis horum mirabilium?
 
-7 Et audivi virum, qui indutus erat lineis, qui stabat super aquas fluminis, cum elevasset dexteram et sinistram suam in cælum, et iurasset per viventem in æternum, quia in tempus, et tempora, et dimidium temporis. Et cum completa fuerit dispersio manus populi sancti, complebuntur universa hæc.
+7 Et audivi virum, qui indutus erat lineis, qui stabat super aquas fluminis, cum elevasset dexteram et sinistram suam in caelum, et iurasset per viventem in aeternum, quia in tempus, et tempora, et dimidium temporis. Et cum completa fuerit dispersio manus populi sancti, complebuntur universa haec.
 
-8 Et ego audivi, et non intellexi. Et dixi: Domine mi, quid erit post hæc?
+8 Et ego audivi, et non intellexi. Et dixi: Domine mi, quid erit post haec?
 
-9 Et ait: Vade Daniel, quia clausi sunt, signatique sermones usque ad præfinitum tempus.
+9 Et ait: Vade Daniel, quia clausi sunt, signatique sermones usque ad praefinitum tempus.
 
 10 Eligentur, et dealbabuntur, et quasi ignis probabuntur multi: et impie agent impii, neque intelligent omnes impii, porro docti intelligent.
 
@@ -29,5 +29,5 @@ draft: false
 
 12 Beatus, qui expectat, et pervenit usque ad dies mille trecentos trigintaquinque.
 
-13 Tu autem vade ad præfinitum: et requiesces, et stabis in sorte tua in finem dierum.
+13 Tu autem vade ad praefinitum: et requiesces, et stabis in sorte tua in finem dierum.
 

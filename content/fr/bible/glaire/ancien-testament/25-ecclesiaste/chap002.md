@@ -10,10 +10,10 @@ summary: |
 ---
 
 
-1 J'ai dit, moi en mon cœur : J'irai et je nagerai dans les défiées, et je jouirai des biens. Et j'ai vu que cela aussi était vanité. 2 Le rire, je l'ai regardé comme une erreur; et à la joie, j'ai dit : Pourquoi te séduis-tu inutilement?
+1 J'ai dit, moi en mon coeur : J'irai et je nagerai dans les défiées, et je jouirai des biens. Et j'ai vu que cela aussi était vanité. 2 Le rire, je l'ai regardé comme une erreur; et à la joie, j'ai dit : Pourquoi te séduis-tu inutilement?
 
 
-3 J'ai pensé dans mon cœur à détourner ma chair du vin, afin de porter mon esprit à la sagesse, et d'éviter la folie, jusqu'à ce que je visse ce qui est utile aux fils des hommes, et ce qu'ils doivent faire sous le soleil pendant le nombre des jours de leur vie.
+3 J'ai pensé dans mon coeur à détourner ma chair du vin, afin de porter mon esprit à la sagesse, et d'éviter la folie, jusqu'à ce que je visse ce qui est utile aux fils des hommes, et ce qu'ils doivent faire sous le soleil pendant le nombre des jours de leur vie.
 
 ***Note*** :  Eccl. 2, 3 : MA chair ; hébraïsme, pour mon corps ; c’est-à-dire moi, ma personne ; c’est la partie pour le tout, figure très usitée dans le style biblique.
 
@@ -29,7 +29,7 @@ summary: |
 
 ***Note*** :  Eccl. 2, 7 : Des serviteurs et des servantes ; c’est-à-dire des esclaves hommes et femmes. ― Une nombreuse famille ; dans l’hébreu, des fils de maison ; ce qui signifie les fils des esclaves, nés dans la maison du maître.
 
-8 J'ai entassé pour moi l'argent et l'or, les richesses des rois et des provinces ; j'ai eu des chanteurs et des chanteuses et tout ce qui fait les délices des fils des hommes, des coupes et des vases de service pour verser les vins ; 9 Et j'ai surpassé en richesses tous ceux qui ont été avant moi dans Jérusalem ; la sagesse aussi a persévéré avec moi. 10 Et tout ce qu'ont désiré mes yeux, je ne le leur ai pas refusé ; et je n'ai pas défendu à mon cœur de goûter toutes sortes de voluptés, et de trouver son plaisir dans ce que j'avais préparé; et j'ai cru que ma part était de jouir de mon travail.
+8 J'ai entassé pour moi l'argent et l'or, les richesses des rois et des provinces ; j'ai eu des chanteurs et des chanteuses et tout ce qui fait les délices des fils des hommes, des coupes et des vases de service pour verser les vins ; 9 Et j'ai surpassé en richesses tous ceux qui ont été avant moi dans Jérusalem ; la sagesse aussi a persévéré avec moi. 10 Et tout ce qu'ont désiré mes yeux, je ne le leur ai pas refusé ; et je n'ai pas défendu à mon coeur de goûter toutes sortes de voluptés, et de trouver son plaisir dans ce que j'avais préparé; et j'ai cru que ma part était de jouir de mon travail.
 
 
 11 Et lorsque je me suis tourné vers les divers ouvrages qu'avaient faits mes mains, et vers les travaux dans lesquels inutilement j'avais sué, j'ai vu dans toutes ces choses vanité et affliction d'esprit, et que rien n'est stable sous le soleil.
@@ -43,13 +43,13 @@ summary: |
 ***Note*** :  Eccl. 2, 14 : Voir Proverbes, 17, 24 ; Ecclésiaste, 8, 1.
 
 
-15 Et j'ai dit dans mon cœur : Si la mort est pour l'insensé et pour moi, que me sert d'avoir donné un plus grand soin à la sagesse? Et ayant ainsi parlé avec mon esprit, je me suis aperçu que cela aussi est vanité. 16 Car la mémoire du sage, aussi bien que celle de l'insensé, ne sera pas pour toujours; et les temps futurs couvriront pareillement de l'oubli toutes choses : le savant meurt de même que l'ignorant. 17 Et c'est pour cela que je me suis ennuyé de ma vie, voyant tous les maux qui sont sous le soleil, et que toutes choses sont vanité et affliction d'esprit.
+15 Et j'ai dit dans mon coeur : Si la mort est pour l'insensé et pour moi, que me sert d'avoir donné un plus grand soin à la sagesse? Et ayant ainsi parlé avec mon esprit, je me suis aperçu que cela aussi est vanité. 16 Car la mémoire du sage, aussi bien que celle de l'insensé, ne sera pas pour toujours; et les temps futurs couvriront pareillement de l'oubli toutes choses : le savant meurt de même que l'ignorant. 17 Et c'est pour cela que je me suis ennuyé de ma vie, voyant tous les maux qui sont sous le soleil, et que toutes choses sont vanité et affliction d'esprit.
 
 
 18 De nouveau, J'ai détesté mon application avec laquelle sous le soleil j'ai travaillé très ardemment, devant avoir un héritier après moi. 19 J'ignore s'il doit être sage ou insensé : et il sera maître de mes travaux, fruit de mes sueurs et de ma sollicitude, et y a-t-il rien d'aussi vain?
 
 
-20 De là j'ai cessé, et mon cœur a renoncé à travailler davantage sous le soleil. 21 Car, lorsque quelqu'un travaille avec sagesse, science et sollicitude, il laisse ses recherches à un homme oisif ; et cela donc est vanité et un grand mal. 22 Car quel profit reviendra-t-il à l'homme de tout son travail et de l'affliction d'esprit avec laquelle il s'est tourmenté sous le soleil? 23 Tous ses jours sont pleins de douleurs et de chagrins, et même, pendant la nuit, il ne se repose pas en son âme ; et cela, n'est-ce pas vanité ?
+20 De là j'ai cessé, et mon coeur a renoncé à travailler davantage sous le soleil. 21 Car, lorsque quelqu'un travaille avec sagesse, science et sollicitude, il laisse ses recherches à un homme oisif ; et cela donc est vanité et un grand mal. 22 Car quel profit reviendra-t-il à l'homme de tout son travail et de l'affliction d'esprit avec laquelle il s'est tourmenté sous le soleil? 23 Tous ses jours sont pleins de douleurs et de chagrins, et même, pendant la nuit, il ne se repose pas en son âme ; et cela, n'est-ce pas vanité ?
 
 
 24 Est-ce qu'il ne vaut pas mieux manger et boire, et faire du bien à son âme, des fruits de ses travaux? et cela vient de la main de Dieu.

@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 Canticum graduum. Ad te levavi oculos meos, qui habitas in cælis.
+1 Canticum graduum. Ad te levavi oculos meos, qui habitas in caelis.
 
-2 Ecce sicut oculi servorum, in manibus dominorum suorum, Sicut oculi ancillæ in manibus dominæ suæ: ita oculi nostri ad Dominum Deum nostrum donec misereatur nostri.
+2 Ecce sicut oculi servorum, in manibus dominorum suorum, Sicut oculi ancillae in manibus dominae suae: ita oculi nostri ad Dominum Deum nostrum donec misereatur nostri.
 
 3 Miserere nostri Domine, miserere nostri: quia multum repleti sumus despectione:
 

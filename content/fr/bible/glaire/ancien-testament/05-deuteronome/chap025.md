@@ -19,7 +19,7 @@ summary: |
 ***Note*** :  Dr. 25, 3 : L’historien Josèphe rapporte que l’usage s’était introduit de ne donner que trente-neuf coups, pour qu’on ne s’exposât pas à passer le nombre de quarante. Saint Paul confirme le dire de Josèphe, quand il nous apprend (voir 2 Corinthiens, 11, 24), qu’en cinq occasions il a reçu quarante coups de fouet, moins un.
 
 
-4 Tu ne lieras point la bouche d'un bœuf qui foule tes grains dans l'aire.
+4 Tu ne lieras point la bouche d'un boeuf qui foule tes grains dans l'aire.
 
 ***Note*** :  Dr. 25, 4 : Voir 1 Corinthiens, 9, 9 ; 1 Timothée, 5, 18.
 

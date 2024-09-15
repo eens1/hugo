@@ -5,29 +5,29 @@ draft: false
 ---
 
 
-1 Sapiens mulier ædificat domum suam: insipiens extructam quoque manibus destruet.
+1 Sapiens mulier aedificat domum suam: insipiens extructam quoque manibus destruet.
 
 2 Ambulans recto itinere, et timens Deum, despicitur ab eo, qui infami graditur via.
 
-3 In ore stulti virga superbiæ: labia autem sapientium custodiunt eos.
+3 In ore stulti virga superbiae: labia autem sapientium custodiunt eos.
 
-4 Ubi non sunt boves, præsepe vacuum est: ubi autem plurimæ segetes, ibi manifesta est fortitudo bovis.
+4 Ubi non sunt boves, praesepe vacuum est: ubi autem plurimae segetes, ibi manifesta est fortitudo bovis.
 
 5 Testis fidelis non mentitur: profert autem mendacium dolosus testis.
 
-6 Quærit derisor sapientiam, et non invenit: doctrina prudentium facilis.
+6 Quaerit derisor sapientiam, et non invenit: doctrina prudentium facilis.
 
-7 Vade contra virum stultum, et nescit labia prudentiæ.
+7 Vade contra virum stultum, et nescit labia prudentiae.
 
 8 Sapientia callidi est intelligere viam suam: et imprudentia stultorum errans.
 
 9 Stultus illudet peccatum, et inter iustos morabitur gratia.
 
-10 Cor quod novit amaritudinem animæ suæ, in gaudio eius non miscebitur extraneus.
+10 Cor quod novit amaritudinem animae suae, in gaudio eius non miscebitur extraneus.
 
 11 Domus impiorum delebitur: tabernacula vero iustorum germinabunt.
 
-12 Est via, quæ videtur homini iusta: novissima autem eius deducunt ad mortem.
+12 Est via, quae videtur homini iusta: novissima autem eius deducunt ad mortem.
 
 13 Risus dolore miscebitur, et extrema gaudii luctus occupat.
 
@@ -47,17 +47,17 @@ draft: false
 
 21 Qui despicit proximum suum, peccat: qui autem miseretur pauperis, beatus erit. Qui credit in Domino, misericordiam diligit.
 
-22 Errant qui operantur malum: misericordia et veritas præparant bona.
+22 Errant qui operantur malum: misericordia et veritas praeparant bona.
 
 23 In omni opere erit abundantia: ubi autem verba sunt plurima, ibi frequenter egestas.
 
-24 Corona sapientium, divitiæ eorum: fatuitas stultorum, imprudentia.
+24 Corona sapientium, divitiae eorum: fatuitas stultorum, imprudentia.
 
 25 Liberat animas testis fidelis: et profert mendacia versipellis.
 
 26 In timore Domini fiducia fortitudinis, et filiis eius erit spes.
 
-27 Timor Domini fons vitæ, ut declinent a ruina mortis.
+27 Timor Domini fons vitae, ut declinent a ruina mortis.
 
 28 In multitudine populi dignitas regis: et in paucitate plebis ignominia principis.
 

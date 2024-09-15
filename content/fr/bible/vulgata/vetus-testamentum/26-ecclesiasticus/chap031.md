@@ -7,9 +7,9 @@ draft: false
 
 1 Vigilia honestatis tabefaciet carnes, et cogitatus illius auferet somnum.
 
-2 Cogitatus præscientiæ avertit sensum, et infirmitas gravis sobriam facit animam.
+2 Cogitatus praescientiae avertit sensum, et infirmitas gravis sobriam facit animam.
 
-3 Laboravit dives in congregatione substantiæ, et in requie sua replebitur bonis suis.
+3 Laboravit dives in congregatione substantiae, et in requie sua replebitur bonis suis.
 
 4 Laboravit pauper in diminutione victus, et in fine inops fit.
 
@@ -17,19 +17,19 @@ draft: false
 
 6 Multi dati sunt in auri casus, et facta est in specie ipsius perditio illorum.
 
-7 Lignum offensionis est aurum sacrificantium: væ illis, qui sectantur illud, et omnis imprudens deperiet in illo.
+7 Lignum offensionis est aurum sacrificantium: vae illis, qui sectantur illud, et omnis imprudens deperiet in illo.
 
 8 Beatus dives, qui inventus est sine macula: et qui post aurum non abiit, nec speravit in pecunia, et thesauris.
 
 9 Quis est hic, et laudabimus eum? fecit enim mirabilia in vita sua.
 
-10 Qui probatus est in illo, et perfectus est, erit illi gloria æterna: qui potuit transgredi, et non est transgressus: facere mala, et non fecit:
+10 Qui probatus est in illo, et perfectus est, erit illi gloria aeterna: qui potuit transgredi, et non est transgressus: facere mala, et non fecit:
 
 11 ideo stabilita sunt bona illius in Domino, et eleemosynas illius enarrabit omnis Ecclesia sanctorum.
 
 12 Supra mensam magnam sedisti? non aperias super illam faucem tuam prior.
 
-13 Non dicas sic: Multa sunt, quæ super illam sunt:
+13 Non dicas sic: Multa sunt, quae super illam sunt:
 
 14 memento quoniam malus est oculus nequam.
 
@@ -39,11 +39,11 @@ draft: false
 
 17 Ne comprimaris in convivio.
 
-18 Intellige quæ sunt proximi tui ex teipso:
+18 Intellige quae sunt proximi tui ex teipso:
 
-19 utere quasi homo frugi his, quæ tibi apponuntur: ne, cum manducas multum, odio habearis.
+19 utere quasi homo frugi his, quae tibi apponuntur: ne, cum manducas multum, odio habearis.
 
-20 Cessa prior causa disciplinæ: et noli nimius esse, ne forte offendas.
+20 Cessa prior causa disciplinae: et noli nimius esse, ne forte offendas.
 
 21 Et si in medio multorum sedisti, prior illis ne extendas manum tuam, nec prior poscas bibere.
 
@@ -61,27 +61,27 @@ draft: false
 
 28 Splendidum in panibus benedicent labia multorum, et testimonium veritatis illius fidele.
 
-29 Nequissimo in pane murmurabit civitas, et testimonium nequitiæ illius verum est.
+29 Nequissimo in pane murmurabit civitas, et testimonium nequitiae illius verum est.
 
 30 Diligentes in vino noli provocare: multos enim exterminavit vinum.
 
 31 Ignis probat ferrum durum: sic vinum corda superborum arguet in ebrietate potatum.
 
-32 Æqua vita hominibus vinum in sobrietate: si bibas illud moderate, eris sobrius.
+32 AEqua vita hominibus vinum in sobrietate: si bibas illud moderate, eris sobrius.
 
-33 Quæ vita est ei, qui minuitur vino?
+33 Quae vita est ei, qui minuitur vino?
 
 34 Quid defraudat vitam? Mors.
 
 35 Vinum in iucunditatem creatum est, et non in ebrietatem, ab initio.
 
-36 Exultatio animæ et cordis vinum moderate potatum.
+36 Exultatio animae et cordis vinum moderate potatum.
 
-37 Sanitas est animæ et corpori sobrius potus.
+37 Sanitas est animae et corpori sobrius potus.
 
 38 Vinum multum potatum irritationem, et iram, et ruinas multas facit.
 
-39 Amaritudo animæ vinum multum potatum.
+39 Amaritudo animae vinum multum potatum.
 
 40 Ebrietatis animositas, imprudentis offensio, minorans virtutem, et faciens vulnera.
 

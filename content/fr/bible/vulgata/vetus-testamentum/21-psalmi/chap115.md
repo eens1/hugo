@@ -9,7 +9,7 @@ draft: false
 
 2 Ego dixi in excessu meo: Omnis homo mendax.
 
-3 Quid retribuam Domino, pro omnibus, quæ retribuit mihi?
+3 Quid retribuam Domino, pro omnibus, quae retribuit mihi?
 
 4 Calicem salutaris accipiam: et nomen Domini invocabo.
 
@@ -17,7 +17,7 @@ draft: false
 
 6 pretiosa in conspectu Domini mors Sanctorum eius:
 
-7 O Domine quia ego servus tuus: ego servus tuus, et filius ancillæ tuæ. Dirupisti vincula mea:
+7 O Domine quia ego servus tuus: ego servus tuus, et filius ancillae tuae. Dirupisti vincula mea:
 
 8 tibi sacrificabo hostiam laudis, et nomen Domini invocabo.
 

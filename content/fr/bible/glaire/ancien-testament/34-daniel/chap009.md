@@ -40,7 +40,7 @@ de Moïse, serviteur de Dieu, parce que nous avons péché contre lui;
 
 ***Note*** :  Dn. 9, 13 : Votre vérité ; votre fidélité dans l’exécution de vos paroles, soit promesses, soit menaces.
 
-14 Et le Seigneur a veillé sur le mal, et l'a amené sur nous; il est juste, le Seigneur notre Dieu, en toutes ses œuvres qu'il a faites; car nous n'avons pas écouté sa voix. 15 Et maintenant, Seigneur notre Dieu, qui avez tiré votre peuple de la terre d'Egypte par une main puissante, et qui vous êtes fait un nom comme il est aujourd'hui, nous avons péché, nous avons commis l'iniquité.
+14 Et le Seigneur a veillé sur le mal, et l'a amené sur nous; il est juste, le Seigneur notre Dieu, en toutes ses oeuvres qu'il a faites; car nous n'avons pas écouté sa voix. 15 Et maintenant, Seigneur notre Dieu, qui avez tiré votre peuple de la terre d'Egypte par une main puissante, et qui vous êtes fait un nom comme il est aujourd'hui, nous avons péché, nous avons commis l'iniquité.
 
 ***Note*** :  Dn. 9, 15 : Voir Baruch, 2, 11 ; Exode, 14, 22.
 

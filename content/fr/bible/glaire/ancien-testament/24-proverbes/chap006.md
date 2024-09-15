@@ -28,7 +28,7 @@ summary: |
 6 Va à la fourmi, ô paresseux, et considère ses voies, et apprends la sagesse;
 
 ***Note*** :  Prov. 6, 6-8 : Ce que le Sage dit de la fourmi, voir Proverbes, 6, 6-8 et 30, 25, a donné lieu à des objections. D’après les Proverbes, les fourmis font des provisions au temps de la moisson. C’est ce qu’on a cru, en effet, partout jusqu’au siècle dernier, et ce que nous lisons dans les fables de La Fontaine ; mais, dit-on, en réalité, la fourmi est carnivore ; elle vit d’insectes et de pucerons, qu’elle élève pour les traire et se nourrir de leur lait ; en fait de matières non animales, elle n’aime que celles qui sont sucrées. Pendant l’hiver, en Occident, elle ne mange pas ; elle s’engourdit, et se réveille au même degré de température que les pucerons dont elle se nourrit. ― De tout cela, on ne peut rien conclure contre l’inspiration de l’auteur sacré. Salomon propose surtout, et à bon droit, les fourmis comme un modèle d’activité. « On a célébré avec raison, dit Latreille, la prévoyance de ces insectes et leur amour insatiable pour leur travail. » Quant à leur approvisionnements, un savant
-naturaliste anglais, sir John Lubbock, l’un des derniers qui aient étudié leurs mœurs, dit à leur sujet : « Nos fourmis anglaises ne font pas de provisions pour l’hiver ; leur genre de nourriture ne le permet pas ; mais quelques espèces des pays méridionaux font des amas de grain, quelquefois en quantité considérable. » Le D Lortet dit expressément que les fourmis de Syrie ramassent dans leurs greniers « une quantité de blé souvent très considérable. » ― Et il ajoute : « Des milliers de travailleurs sont activement occupés à chercher des grains de blés tombés sur le sol et à les rentrer dans leurs vastes greniers souterrains. Les greniers de ces fourmilières, très vastes, très profonds, forment plusieurs étages réunis par des galeries superposées les unes aux autres… Lorsque la moisson n’est pas abondante, les fellahs ont toujours la précaution d’aller reprendre à ces laborieux insectes les provisions qu’ils ont faites pour la saison d’hiver. »
+naturaliste anglais, sir John Lubbock, l’un des derniers qui aient étudié leurs moeurs, dit à leur sujet : « Nos fourmis anglaises ne font pas de provisions pour l’hiver ; leur genre de nourriture ne le permet pas ; mais quelques espèces des pays méridionaux font des amas de grain, quelquefois en quantité considérable. » Le D Lortet dit expressément que les fourmis de Syrie ramassent dans leurs greniers « une quantité de blé souvent très considérable. » ― Et il ajoute : « Des milliers de travailleurs sont activement occupés à chercher des grains de blés tombés sur le sol et à les rentrer dans leurs vastes greniers souterrains. Les greniers de ces fourmilières, très vastes, très profonds, forment plusieurs étages réunis par des galeries superposées les unes aux autres… Lorsque la moisson n’est pas abondante, les fellahs ont toujours la précaution d’aller reprendre à ces laborieux insectes les provisions qu’ils ont faites pour la saison d’hiver. »
 
 7 La fourmi, quoiqu'elle n'ait ni chef, ni maître, ni prince, 8 Prépare dans l'été sa nourriture, et rassemble durant la moisson ce qu'elle doit manger. 9 Jusqu'à quand, paresseux, dormiras-tu? quand sortiras-tu de ton sommeil? 10 Tu dormiras un peu, tu sommeilleras un peu, tu mettras un peu les mains l'une dans l'autre, afin que tu dormes :
 
@@ -49,21 +49,21 @@ naturaliste anglais, sir John Lubbock, l’un des derniers qui aient étudié le
 
 ***Note*** :  Prov. 6, 13 : Fait signe, etc. ; peinture exacte d’un homme inconstant et fourbe. ― Le fourbe se sert de signes, des yeux, des pieds et des mains pour dissimuler et tromper.
 
-14 Avec un cœur dépravé il machine le mal, et en tout temps il sème des querelles ; 15 En un moment lui viendra sa perte, et soudain il sera brisé, et il n'aura plus de remède.
+14 Avec un coeur dépravé il machine le mal, et en tout temps il sème des querelles ; 15 En un moment lui viendra sa perte, et soudain il sera brisé, et il n'aura plus de remède.
 
 
 16 Il y a six choses que hait le Seigneur, et la septième, son âme la déteste :
 
 ***Note*** :  Prov. 6, 16-19 : Les sept vices que Dieu déteste.
 
-17 Des yeux altiers, une langue menteuse, des mains versant un sang innocent, 18 Un cœur formant des pensées très mauvaises, des pieds prompts à courir au mal, 19 Un témoin fallacieux proférant des mensonges, et celui qui, entre des frères, sème des discordes.
+17 Des yeux altiers, une langue menteuse, des mains versant un sang innocent, 18 Un coeur formant des pensées très mauvaises, des pieds prompts à courir au mal, 19 Un témoin fallacieux proférant des mensonges, et celui qui, entre des frères, sème des discordes.
 
 
 20 Conserve, mon fils, les préceptes de ton père, et ne rejette pas la loi de ta mère.
 
 ***Note*** :  Prov. 6, 20 : Conserve, mon fils. Commencement de la troisième subdivision de la première partie qui s’étend jusqu’au chapitre 9 inclusivement. Le discours du Sage croît graduellement en force et en grandeur, et il s’élève jusqu’à la plus haute poésie pour faire l’éloge de la sagesse incréée.
 
-21 Lie-les dans ton cœur continuellement, et mets-les autour de ton cou.
+21 Lie-les dans ton coeur continuellement, et mets-les autour de ton cou.
 
 ***Note*** :  Prov. 6, 21 : Lie-les ; allusion à ce que dit Moïse dans Deutéronome, 6, 6-8. Comparer à Proverbes, 7, 3.
 
@@ -74,8 +74,8 @@ naturaliste anglais, sir John Lubbock, l’un des derniers qui aient étudié le
 
 ***Note*** :  Prov. 6, 24-35 : Sur la chasteté. Après une exhortation générale à suivre ses avis paternels (versets 20 à 23), le Sage exhorte à fuir l’impureté (versets 24 à 35).
 
-25 Que ton cœur ne se passionne point pour sa beauté ; et ne sois point pris par les signes de ses yeux; 26 Car le prix d'une prostituée est à peine d'un pain seul; mais une femme ravit l'âme précieuse d'un homme. 27 Est-ce qu'un homme peut cacher du feu dans son sein, sans que ses vêtements s'embrasent? 28 Ou marcher sur des charbons ardents, sans que soient brûlées les plantes de ses pieds? 29 Ainsi celui qui s'approche de la femme de son prochain ne sera pas pur lorsqu'il l'aura touchée.
+25 Que ton coeur ne se passionne point pour sa beauté ; et ne sois point pris par les signes de ses yeux; 26 Car le prix d'une prostituée est à peine d'un pain seul; mais une femme ravit l'âme précieuse d'un homme. 27 Est-ce qu'un homme peut cacher du feu dans son sein, sans que ses vêtements s'embrasent? 28 Ou marcher sur des charbons ardents, sans que soient brûlées les plantes de ses pieds? 29 Ainsi celui qui s'approche de la femme de son prochain ne sera pas pur lorsqu'il l'aura touchée.
 
 
-30 Ce n'est pas une grande faute, lorsque quelqu'un dérobe afin de remplir son âme affamée ; 31 Pris, il rendra même le septuple, et il livrera tout ce qu'il a dans sa maison. 32 Mais celui qui est adultère, à cause de son manque de cœur, perdra son âme ; 33 Il rassemble sur lui la turpitude et l'ignominie, et son opprobre ne sera pas effacé; 34 Parce que la jalousie et la fureur du mari ne pardonneront pas au jour de la vengeance, 35 Et il n'acquiescera aux prières de personne, et il ne recevra pas pour satisfaction les dons les plus nombreux.
+30 Ce n'est pas une grande faute, lorsque quelqu'un dérobe afin de remplir son âme affamée ; 31 Pris, il rendra même le septuple, et il livrera tout ce qu'il a dans sa maison. 32 Mais celui qui est adultère, à cause de son manque de coeur, perdra son âme ; 33 Il rassemble sur lui la turpitude et l'ignominie, et son opprobre ne sera pas effacé; 34 Parce que la jalousie et la fureur du mari ne pardonneront pas au jour de la vengeance, 35 Et il n'acquiescera aux prières de personne, et il ne recevra pas pour satisfaction les dons les plus nombreux.
 

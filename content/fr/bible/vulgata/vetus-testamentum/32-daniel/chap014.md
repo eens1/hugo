@@ -7,19 +7,19 @@ draft: false
 
 1 Erat autem Daniel conviva regis, et honoratus super omnes amicos eius.
 
-2 Erat quoque idolum apud Babylonios nomine Bel: et impendebantur in eo per dies singulos similæ artabæ duodecim, et oves quadraginta, vinique amphoræ sex.
+2 Erat quoque idolum apud Babylonios nomine Bel: et impendebantur in eo per dies singulos similae artabae duodecim, et oves quadraginta, vinique amphorae sex.
 
 3 Rex quoque colebat eum, et ibat per singulos dies adorare eum: porro Daniel adorabat Deum suum. Dixitque ei rex: Quare non adoras Bel?
 
-4 Qui respondens, ait ei: Quia non colo idola manufacta, sed viventem Deum, qui creavit cælum, et terram, et habet potestatem omnis carnis.
+4 Qui respondens, ait ei: Quia non colo idola manufacta, sed viventem Deum, qui creavit caelum, et terram, et habet potestatem omnis carnis.
 
 5 Et dixit rex ad eum: Non videtur tibi esse Bel vivens Deus? An non vides quanta comedat, et bibat quotidie?
 
-6 Et ait Daniel arridens: Ne erres rex: iste enim intrinsecus luteus est, et forinsecus æreus, neque comedit aliquando.
+6 Et ait Daniel arridens: Ne erres rex: iste enim intrinsecus luteus est, et forinsecus aereus, neque comedit aliquando.
 
 7 Et iratus rex vocavit sacerdotes eius, et ait eis: Nisi dixeritis mihi, quis est qui comedat impensas has, moriemini.
 
-8 Si autem ostenderitis, quoniam Bel comedat hæc, morietur Daniel, quia blasphemavit in Bel. Et dixit Daniel regi: Fiat iuxta verbum tuum.
+8 Si autem ostenderitis, quoniam Bel comedat haec, morietur Daniel, quia blasphemavit in Bel. Et dixit Daniel regi: Fiat iuxta verbum tuum.
 
 9 Erant autem sacerdotes Bel septuaginta, exceptis uxoribus, et parvulis, et filiis. Et venit rex cum Daniele in templum Bel.
 
@@ -29,7 +29,7 @@ draft: false
 
 12 Contemnebant autem, quia fecerant sub mensa absconditum introitum, et per illum ingrediebantur semper, et devorabant ea.
 
-13 Factum est igitur postquam egressi sunt illi, rex posuit cibos ante Bel: præcepit Daniel pueris suis, et attulerunt cinerem, et cribravit per totum templum coram rege: et egressi clauserunt ostium: et signantes annulo regis abierunt.
+13 Factum est igitur postquam egressi sunt illi, rex posuit cibos ante Bel: praecepit Daniel pueris suis, et attulerunt cinerem, et cribravit per totum templum coram rege: et egressi clauserunt ostium: et signantes annulo regis abierunt.
 
 14 Sacerdotes autem ingressi sunt nocte iuxta consuetudinem suam, et uxores et filii eorum: et comederunt omnia, et biberunt.
 
@@ -39,11 +39,11 @@ draft: false
 
 17 Statimque cum aperuisset ostium, intuitus rex mensam, exclamavit voce magna: Magnus es Bel, et non est apud te dolus quisquam.
 
-18 Et risit Daniel: et tenuit regem ne ingrederetur intro: et dixit: Ecce pavimentum, animadverte cuius vestigia sint hæc.
+18 Et risit Daniel: et tenuit regem ne ingrederetur intro: et dixit: Ecce pavimentum, animadverte cuius vestigia sint haec.
 
 19 Et dixit rex: Video vestigia virorum, et mulierum, et infantium. Et iratus est rex.
 
-20 Tunc apprehendit sacerdotes, et uxores, et filios eorum: et ostenderunt ei abscondita ostiola, per quæ ingrediebantur, et consumebant quæ erant super mensam.
+20 Tunc apprehendit sacerdotes, et uxores, et filios eorum: et ostenderunt ei abscondita ostiola, per quae ingrediebantur, et consumebant quae erant super mensam.
 
 21 Occidit ergo illos rex, et tradidit Bel in potestatem Danielis: qui subvertit eum, et templum eius.
 
@@ -57,7 +57,7 @@ draft: false
 
 26 Tulit ergo Daniel picem, et adipem, et pilos, et coxit pariter: fecitque massas, et dedit in os draconis, et diruptus est draco. Et dixit: Ecce quem colebatis.
 
-27 Quod cum audissent Babylonii, indignati sunt vehementer: et congregati adversum regem, dixerunt: Iudæus factus est rex: Bel destruxit, draconem interfecit, et sacerdotes occidit.
+27 Quod cum audissent Babylonii, indignati sunt vehementer: et congregati adversum regem, dixerunt: Iudaeus factus est rex: Bel destruxit, draconem interfecit, et sacerdotes occidit.
 
 28 Et dixerunt cum venissent ad regem: Trade nobis Danielem, alioquin interficiemus te, et domum tuam.
 
@@ -65,9 +65,9 @@ draft: false
 
 30 Qui miserunt eum in lacum leonum, et erat ibi diebus sex.
 
-31 Porro in lacu erant leones septem, et dabantur eis duo corpora quotidie, et duæ oves: et tunc non data sunt eis, ut devorarent Danielem.
+31 Porro in lacu erant leones septem, et dabantur eis duo corpora quotidie, et duae oves: et tunc non data sunt eis, ut devorarent Danielem.
 
-32 Erat autem Habacuc propheta in Iudæa, et ipse coxerat pulmentum, et intriverat panes in alveolo: et ibat in campum ut ferret messoribus.
+32 Erat autem Habacuc propheta in Iudaea, et ipse coxerat pulmentum, et intriverat panes in alveolo: et ibat in campum ut ferret messoribus.
 
 33 Dixitque Angelus Domini ad Habacuc: Fer prandium, quod habes, in Babylonem Danieli, qui est in lacu leonum.
 

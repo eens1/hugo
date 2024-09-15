@@ -14,7 +14,7 @@ summary: |
 
 ***Note*** :  Éz. 13, 1 : Disant (dicens). Voir, sur ce mot, Ezéchiel, 3, 16.
 
-2 Adresse tes prédictions aux prophètes d'Israël qui prophétisent, et tu diras à ceux qui prophétisent d'après leur cœur : Ecoutez la parole du Seigneur.
+2 Adresse tes prédictions aux prophètes d'Israël qui prophétisent, et tu diras à ceux qui prophétisent d'après leur coeur : Ecoutez la parole du Seigneur.
 
 
 3 Voici ce que dit le Seigneur Dieu : Malheur aux prophètes insensés qui suivent leur esprit, et ne voient rien.
@@ -54,7 +54,7 @@ summary: |
 13 A cause de cela, voici ce que dit le Seigneur Dieu : Je ferai éclater un vent de tempêtes dans mon indignation, et une pluie inondante se répandra dans ma fureur, et dans ma colère des pierres énormes consumeront tout. 14 Et je détruirai la muraille que vous avez enduite sans mélange; et je l'égalerai à la terre, et ses fondements seront mis à nu ; et elle tombera ; et celui qui l'avait enduite sera consumé au milieu d'elle ; et vous saurez que moi je suis le Seigneur. 15 Et j'assouvirai mon indignation contre la muraille, et contre ceux qui l'enduisent sans mélange, et je vous dirai : La muraille n'est plus, et ceux qui l'ont enduite ne sont plus. 16 Ils ne sont plus, les prophètes d'Israël qui prophétisent à Jérusalem, et qui voient pour elle une vision de paix; et il n'y a point de paix, dit le Seigneur Dieu.
 
 
-17 Et toi, fils d'un homme, tourne ta face contre les filles de ton peuple qui prophétisent d'après leur cœur, et fais des prédictions contre elles, 18 Et dis : Voici ce que dit le Seigneur Dieu : Malheur à celles qui cousent des coussinets pour tous les coudes, et qui font des oreillers sous la tête des personnes de tout âge, afin de s'emparer des âmes ; et lorsqu'elles s'emparaient des âmes de mon peuple, elles les vivifiaient.
+17 Et toi, fils d'un homme, tourne ta face contre les filles de ton peuple qui prophétisent d'après leur coeur, et fais des prédictions contre elles, 18 Et dis : Voici ce que dit le Seigneur Dieu : Malheur à celles qui cousent des coussinets pour tous les coudes, et qui font des oreillers sous la tête des personnes de tout âge, afin de s'emparer des âmes ; et lorsqu'elles s'emparaient des âmes de mon peuple, elles les vivifiaient.
 
 ***Note*** :  Éz. 13, 18 : Tous les coudes ; littéralement, tout coude de main. C’est sans doute une allusion aux coussins dont les Orientaux se servent sur leurs sofas pour s’asseoir, se reposer et appuyer leur coude. ― Elles les vivifiaient ; c’est-à-dire, elles prétendaient les vivifier.
 
@@ -65,5 +65,5 @@ summary: |
 20 A cause de cela, voici ce que dit le Seigneur Dieu : Voici que moi je suis contre vos coussinets avec lesquels vous prenez des âmes au vol, je les déchirerai de dessus vos bras, et je laisserai aller les âmes que vous avez prises, ces âmes pour qu'elles s'envolent. 21 Et je déchirerai vos oreillers; et je délivrerai mon peuple de votre main, et ils ne seront plus en vos mains comme une proie; et vous saurez que je suis le Seigneur,
 
 
-22 Parce que vous avez affligé en mentant le cœur du juste, que moi je n'ai pas contristé ; et parce que vous avez fortifié les mains de l'impie, afin qu'il ne revînt point de sa voie mauvaise, et qu'il ne trouvât point la vie; 23 A cause de cela, vous ne verrez plus de choses vaines, et vous ne ferez plus de prédictions, et j'arracherai mon peuple de votre main, et vous saurez que je suis le Seigneur.
+22 Parce que vous avez affligé en mentant le coeur du juste, que moi je n'ai pas contristé ; et parce que vous avez fortifié les mains de l'impie, afin qu'il ne revînt point de sa voie mauvaise, et qu'il ne trouvât point la vie; 23 A cause de cela, vous ne verrez plus de choses vaines, et vous ne ferez plus de prédictions, et j'arracherai mon peuple de votre main, et vous saurez que je suis le Seigneur.
 

@@ -9,5 +9,5 @@ draft: false
 
 2 Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, Quod descendit in oram vestimenti eius:
 
-3 sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in sæculum.
+3 sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in saeculum.
 

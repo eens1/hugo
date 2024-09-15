@@ -8,7 +8,7 @@ summary: |
   C’est la foi qui nous sauve.
   Galates séduits.
   La loi consiste dans l’amour.
-  Œuvres de la chair.
+  OEuvres de la chair.
   Fruits de l’esprit.
 ---
 

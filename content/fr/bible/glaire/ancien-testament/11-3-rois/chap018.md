@@ -41,7 +41,7 @@ que je cachai d'entre les prophètes du Seigneur, cent hommes dans les cavernes,
 
 ***Note*** :  III Rois 18, 21 : Mais si Baal. Bossuet a dit : Ou si un poisson, pour : Ou s’il lui demande un poisson (Voir Luc, note 11. 11).
 
-22 Et Elie dit encore au peuple : Moi, prophète du Seigneur, je suis demeuré seul; mais les prophètes de Baal sont quatre cent cinquante hommes. 23 Qu'on nous donne deux bœufs, et qu'eux se choisissent un bœuf, et que le coupant par morceaux, ils le mettent sur le bois, et qu'ils ne mettent point de feu dessous ; et moi je sacrifierai l'autre bœuf, je le mettrai aussi sur le bois, mais je ne mettrai point de feu dessous.
+22 Et Elie dit encore au peuple : Moi, prophète du Seigneur, je suis demeuré seul; mais les prophètes de Baal sont quatre cent cinquante hommes. 23 Qu'on nous donne deux boeufs, et qu'eux se choisissent un boeuf, et que le coupant par morceaux, ils le mettent sur le bois, et qu'ils ne mettent point de feu dessous ; et moi je sacrifierai l'autre boeuf, je le mettrai aussi sur le bois, mais je ne mettrai point de feu dessous.
 
 ***Note*** :  III Rois 18, 23 ; 18. 25, 18. 26 : Le verbe faire, dans la Vulgate comme dans le texte hébreu, s’emploie souvent pour faire un sacrifice, sacrifier ; c’est évidemment le sens qu’il a ici.
 
@@ -50,7 +50,7 @@ que je cachai d'entre les prophètes du Seigneur, cent hommes dans les cavernes,
 ***Note*** :  III Rois 18, 24 : Qui exaucera par le feu ; construction elliptique, pour : Qui fera connaître par le moyen du feu, qu’il exauce.
 
 
-25 Elie dit donc aux prophètes de Baal : Choisissez-vous un bœuf, et sacrifiez les premiers, parce que vous êtes en plus grand nombre, et invoquez les noms de vos dieux ; mais ne mettez point de feu dessous. 26 Lorsqu'ils eurent pris le bœuf qu'il leur avait donné, ils sacrifièrent, et ils invoquaient le nom de Baal depuis le matin jusqu'à midi, disant : Baal, exaucez-nous. Mais il n'y avait point de voix, ni personne qui répondît : cependant ils sautaient par-dessus l'autel qu'ils avaient fait.
+25 Elie dit donc aux prophètes de Baal : Choisissez-vous un boeuf, et sacrifiez les premiers, parce que vous êtes en plus grand nombre, et invoquez les noms de vos dieux ; mais ne mettez point de feu dessous. 26 Lorsqu'ils eurent pris le boeuf qu'il leur avait donné, ils sacrifièrent, et ils invoquaient le nom de Baal depuis le matin jusqu'à midi, disant : Baal, exaucez-nous. Mais il n'y avait point de voix, ni personne qui répondît : cependant ils sautaient par-dessus l'autel qu'ils avaient fait.
 
 ***Note*** :  III Rois 18, 26 : Qu’il leur avait donné ; c’est-à-dire qu’Achab ou tout autre leur avait donné. ― Ils sautaient par-dessus l’autel. Il s’agit d’une danse sacrée qui faisait partie du culte de Baal.
 
@@ -65,10 +65,10 @@ que je cachai d'entre les prophètes du Seigneur, cent hommes dans les cavernes,
 
 ***Note*** :  III Rois 18, 31 : Voir Genèse, 32, 28.
 
-32 Et il bâtit de ces pierres un autel au nom du Seigneur; il fit une rigole, comme entre deux petits sillons autour de l'autel. 33 Et il rangea le bois, et il coupa le bœuf par morceaux et le mit sur le bois, 34 Et il dit : Remplissez quatre cruches d'eau, et répandez-les sur l'holocauste et sur le bois. Et de nouveau il dit : Faites encore cela une seconde fois. Et lorsqu'ils l'eurent fait une seconde fois, il dit : Faites encore cette même chose une troisième fois. Et ils la firent une troisième fois, 35 Et les eaux couraient autour de l'autel, et la fosse de la rigole était remplie.
+32 Et il bâtit de ces pierres un autel au nom du Seigneur; il fit une rigole, comme entre deux petits sillons autour de l'autel. 33 Et il rangea le bois, et il coupa le boeuf par morceaux et le mit sur le bois, 34 Et il dit : Remplissez quatre cruches d'eau, et répandez-les sur l'holocauste et sur le bois. Et de nouveau il dit : Faites encore cela une seconde fois. Et lorsqu'ils l'eurent fait une seconde fois, il dit : Faites encore cette même chose une troisième fois. Et ils la firent une troisième fois, 35 Et les eaux couraient autour de l'autel, et la fosse de la rigole était remplie.
 
 
-36 Et lorsque déjà il était temps que l'holocauste fût offert, Elie le prophète s'approchant, dit: Seigneur Dieu d'Abraham, d'Isaac et de Jacob, montrez aujourd'hui que vous êtes le Dieu d'Israël, et que moi je suis votre serviteur, et que c'est par votre ordre que j'ai fait toutes ces choses. 37 Exaucez-moi, Seigneur, exaucez-moi, afin que ce peuple apprenne que vous êtes le Seigneur Dieu, et que c'est vous qui avez converti leur cœur de nouveau.
+36 Et lorsque déjà il était temps que l'holocauste fût offert, Elie le prophète s'approchant, dit: Seigneur Dieu d'Abraham, d'Isaac et de Jacob, montrez aujourd'hui que vous êtes le Dieu d'Israël, et que moi je suis votre serviteur, et que c'est par votre ordre que j'ai fait toutes ces choses. 37 Exaucez-moi, Seigneur, exaucez-moi, afin que ce peuple apprenne que vous êtes le Seigneur Dieu, et que c'est vous qui avez converti leur coeur de nouveau.
 
 
 38 Or le feu du Seigneur tomba, et dévora l'holocauste, le bois et les pierres, la poussière même, et l'eau qui était dans la rigole autour de l'autel. 39 Ce que tout le peuple ayant vu, il tomba sur sa face, et dit : C'est le Seigneur qui est Dieu, c'est le Seigneur qui est Dieu. 40 Alors Elie leur dit : Prenez les prophètes de Baal, et qu'il n'en échappe pas même un seul d'entre eux. Lorsqu'ils les eurent pris, Elie les mena au torrent de Cison, et il les tua là.

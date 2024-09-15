@@ -19,17 +19,17 @@ draft: false
 
 7 Unicuique autem datur manifestatio Spiritus ad utilitatem.
 
-8 Alii quidem per Spiritum datur sermo sapientiæ: alii autem sermo scientiæ secundum eundem Spiritum:
+8 Alii quidem per Spiritum datur sermo sapientiae: alii autem sermo scientiae secundum eundem Spiritum:
 
 9 alteri fides in eodem Spiritu: alii gratia sanitatum in uno Spiritu:
 
 10 alii operatio virtutum, alii prophetia, alii discretio spirituum, alii genera linguarum, alii interpretatio sermonum.
 
-11 Hæc autem omnia operantur unus atque idem Spiritus, dividens singulis prout vult.
+11 Haec autem omnia operantur unus atque idem Spiritus, dividens singulis prout vult.
 
 12 Sicut enim corpus unum est, et membra habet multa, omnia autem membra corporis cum sint multa, unum tamen corpus sunt: ita et Christus.
 
-13 Etenim in uno Spiritu omnes nos in unum corpus baptizati sumus, sive Iudæi, sive Gentiles, sive servi, sive liberi: et omnes in uno Spiritu potati sumus.
+13 Etenim in uno Spiritu omnes nos in unum corpus baptizati sumus, sive Iudaei, sive Gentiles, sive servi, sive liberi: et omnes in uno Spiritu potati sumus.
 
 14 Nam et corpus non est unum membrum, sed multa.
 
@@ -47,9 +47,9 @@ draft: false
 
 21 Non potest autem oculus dicere manui: Opera tua non indigeo: aut iterum caput pedibus: Non estis mihi necessarii.
 
-22 Sed multo magis quæ videntur membra corporis infirmiora esse, necessariora sunt:
+22 Sed multo magis quae videntur membra corporis infirmiora esse, necessariora sunt:
 
-23 et quæ putamus ignobiliora membra esse corporis, his honorem abundantiorem circumdamus: et quæ inhonesta sunt nostra, abundantiorem honestatem habent.
+23 et quae putamus ignobiliora membra esse corporis, his honorem abundantiorem circumdamus: et quae inhonesta sunt nostra, abundantiorem honestatem habent.
 
 24 Honesta autem nostra nullius egent: sed Deus temperavit corpus, ei, cui deerat, abundationem tribuendo honorem,
 
@@ -61,9 +61,9 @@ draft: false
 
 28 Et quosdam quidem posuit Deus in Ecclesia primum Apostolos, secundo Prophetas, exinde Doctores, deinde virtutes, exinde gratias curationum, opitulationes, gubernationes, genera linguarum, interpretationes sermonum.
 
-29 Numquid omnes Apostoli? numquid omnes Prophetæ? numquid omnes Doctores?
+29 Numquid omnes Apostoli? numquid omnes Prophetae? numquid omnes Doctores?
 
 30 numquid omnes virtutes? numquid omnes gratiam habent curationum? numquid omnes linguis loquuntur? numquid omnes interpretantur?
 
-31 Æmulamini autem charismata meliora. Et adhuc excellentiorem viam vobis demonstro.
+31 AEmulamini autem charismata meliora. Et adhuc excellentiorem viam vobis demonstro.
 

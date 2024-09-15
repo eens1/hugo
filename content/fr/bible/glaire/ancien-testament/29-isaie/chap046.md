@@ -31,12 +31,12 @@ summary: |
 ***Note*** :  Is. 46, 7 : Voir Baruch, 6, 25. ― Les bas-reliefs assyro-chaldéens nous représentent des processions dans lesquelles les adorateurs de Bel et de Nabo les portent sur leurs épaules.
 
 
-8 Souvenez-vous de cela et soyez confondus; rentrez dans votre cœur, prévaricateurs. 9 Rappelez-vous le siècle passé ; parce que moi je suis Dieu, et qu'il n'y a plus d'autre Dieu, et qu'il n'y a pas semblable à moi; 10 Annonçant dès l'origine la fin des temps, et dès le commencement les choses qui ne sont pas encore faites, disant : Ma résolution sera inébranlable, et toute ma volonté s'exécutera; 11 J'appelle de l'orient un oiseau, et d'une terre lointaine l'homme de ma volonté; et je l'ai dit, et je l'accomplirai; j'ai formé ce dessein et je l'exécuterai.
+8 Souvenez-vous de cela et soyez confondus; rentrez dans votre coeur, prévaricateurs. 9 Rappelez-vous le siècle passé ; parce que moi je suis Dieu, et qu'il n'y a plus d'autre Dieu, et qu'il n'y a pas semblable à moi; 10 Annonçant dès l'origine la fin des temps, et dès le commencement les choses qui ne sont pas encore faites, disant : Ma résolution sera inébranlable, et toute ma volonté s'exécutera; 11 J'appelle de l'orient un oiseau, et d'une terre lointaine l'homme de ma volonté; et je l'ai dit, et je l'accomplirai; j'ai formé ce dessein et je l'exécuterai.
 
 ***Note*** :  Is. 46, 11 : Un oiseau ; c’est-à-dire Cyrus, qui viendra aussi vite qu’un oiseau qui vole ; ou bien est-ce une allusion à l’aigle, que ce prince faisait mettre au haut d’une lance, et qui avait les ailes étendues, pour masquer sa présence dans l’armée ? Comparer à Jérémie, 49, 22 et Ezéchiel, chapitre 17, où Nabuchodonosor est comparé à un aigle.
 
 
-12 Ecoutez-moi, vous au cœur dur, qui êtes éloignés de la justice. 13 J'ai rapproché le temps de ma justice, il ne sera pas différé, et mon salut ne tardera pas. J'établirai dans Sion le salut, et dans Israël ma gloire.
+12 Ecoutez-moi, vous au coeur dur, qui êtes éloignés de la justice. 13 J'ai rapproché le temps de ma justice, il ne sera pas différé, et mon salut ne tardera pas. J'établirai dans Sion le salut, et dans Israël ma gloire.
 
 ***Note*** :  Is. 46, 13 : Mon salut ; le salut que je dois donner ; ce salut, c’est le Messie, dont Cyrus était la figure. ― Sion ; représente l’Eglise, le peuple fidèle, soit d’entre les Juifs, soit d’entre les gentils.
 

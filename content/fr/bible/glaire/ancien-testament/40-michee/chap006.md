@@ -25,7 +25,7 @@ summary: |
 
 4 Est-ce parce que je t'ai retiré de la terre d'Egypte, et que je t'ai délivré d'une maison d'esclaves, et que j'ai envoyé devant ta face Moïse, Aaron et Marie?
 
-***Note*** :  Mich. 6, 4 : Marie était la sœur de Moïse.
+***Note*** :  Mich. 6, 4 : Marie était la soeur de Moïse.
 
 5 Mon peuple, souviens-toi, je te prie, de ce que pensa Balach, roi de Moab, et de ce que lui répondit Balaam, fils de Béor, depuis Sétim jusqu'à Galgala, afin que tu reconnusses les justices du Seigneur.
 
@@ -67,7 +67,7 @@ summary: |
 ***Note*** :  Mich. 6, 15 : Voir Deutéronome, 28, 38 ; Aggée, 1, 6.
 
 
-16 Et tu as gardé les préceptes d'Amri et toutes les œuvres de la maison d'Achab, et tu as marché dans leurs volontés, afin que je te livre à la ruine, et ses habitants au sifflement; l'opprobre de mon peuple, vous le porterez.
+16 Et tu as gardé les préceptes d'Amri et toutes les oeuvres de la maison d'Achab, et tu as marché dans leurs volontés, afin que je te livre à la ruine, et ses habitants au sifflement; l'opprobre de mon peuple, vous le porterez.
 
 ***Note*** :  Mich. 6, 16 : Amri, roi d’Israël, et Achab son fils, furent de très méchants princes (voir 3 Rois, 16, verset 25 et suivants). ― Au sifflement ; c’est-à-dire, à la risée.
 

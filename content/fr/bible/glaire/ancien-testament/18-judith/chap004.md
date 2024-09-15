@@ -23,5 +23,5 @@ summary: |
 
 ***Note*** :  Judith 4, 13 : Voir Exode, 17, 12. ― Amalec. Voir Exode, note 17. 8.
 
-14 Ainsi en sera-t-il de tous les ennemis d'Israël, si vous persévérez dans cette œuvre que vous avez commencée. 15 D'après cette exhortation, les enfants d'Israël priant le Seigneur persévéraient en la présence du Seigneur. 16 En sorte que ceux-mêmes qui offraient au Seigneur les holocaustes, offraient les sacrifices au Seigneur, étant revêtus de cilices, et la cendre était sur leurs têtes. 17 Et tous priaient Dieu de tout leur coeur, afin qu'il visitât son peuple Israël.
+14 Ainsi en sera-t-il de tous les ennemis d'Israël, si vous persévérez dans cette oeuvre que vous avez commencée. 15 D'après cette exhortation, les enfants d'Israël priant le Seigneur persévéraient en la présence du Seigneur. 16 En sorte que ceux-mêmes qui offraient au Seigneur les holocaustes, offraient les sacrifices au Seigneur, étant revêtus de cilices, et la cendre était sur leurs têtes. 17 Et tous priaient Dieu de tout leur coeur, afin qu'il visitât son peuple Israël.
 

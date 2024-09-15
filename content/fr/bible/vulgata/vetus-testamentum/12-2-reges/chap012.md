@@ -11,7 +11,7 @@ draft: false
 
 3 Verumtamen excelsa non abstulit: adhuc enim populus immolabat, et adolebat in excelsis incensum.
 
-4 Dixitque Ioas ad sacerdotes: Omnem pecuniam sanctorum, quæ illata fuerit in templum Domini a prætereuntibus, quæ offertur pro pretio animæ, et quam sponte et arbitrio cordis sui inferunt in templum Domini:
+4 Dixitque Ioas ad sacerdotes: Omnem pecuniam sanctorum, quae illata fuerit in templum Domini a praetereuntibus, quae offertur pro pretio animae, et quam sponte et arbitrio cordis sui inferunt in templum Domini:
 
 5 accipiant illam sacerdotes iuxta ordinem suum, et instaurent sartatecta domus, siquid necessarium viderint instauratione.
 
@@ -21,15 +21,15 @@ draft: false
 
 8 Prohibitique sunt sacerdotes ultra accipere pecuniam a populo, et instaurare sartatecta domus.
 
-9 Et tulit Ioiada pontifex gazophylacium unum, aperuitque foramen desuper, et posuit illud iuxta altare ad dexteram ingredientium domum Domini, mittebantque in eo sacerdotes, qui custodiebant ostia, omnem pecuniam, quæ deferebatur ad templum Domini.
+9 Et tulit Ioiada pontifex gazophylacium unum, aperuitque foramen desuper, et posuit illud iuxta altare ad dexteram ingredientium domum Domini, mittebantque in eo sacerdotes, qui custodiebant ostia, omnem pecuniam, quae deferebatur ad templum Domini.
 
-10 Cumque viderent nimiam pecuniam esse in gazophylacio, ascendebat scriba regis, et pontifex, effundebantque et numerabant pecuniam, quæ inveniebatur in domo Domini:
+10 Cumque viderent nimiam pecuniam esse in gazophylacio, ascendebat scriba regis, et pontifex, effundebantque et numerabant pecuniam, quae inveniebatur in domo Domini:
 
-11 et dabant eam iuxta numerum atque mensuram in manu eorum, qui præerant cæmentariis domus Domini: qui impendebant eam in fabris lignorum, et in cæmentariis iis, qui operabantur in domo Domini,
+11 et dabant eam iuxta numerum atque mensuram in manu eorum, qui praeerant caementariis domus Domini: qui impendebant eam in fabris lignorum, et in caementariis iis, qui operabantur in domo Domini,
 
-12 et sartatecta faciebant: et in iis, qui cædebant saxa, et ut emerent ligna, et lapides, qui excidebantur, ita ut impleretur instauratio domus Domini in universis, quæ indigebant expensa ad muniendam domum.
+12 et sartatecta faciebant: et in iis, qui caedebant saxa, et ut emerent ligna, et lapides, qui excidebantur, ita ut impleretur instauratio domus Domini in universis, quae indigebant expensa ad muniendam domum.
 
-13 Verumtamen non fiebant ex eadem pecunia hydriæ templi Domini, et fuscinulæ, et thuribula, et tubæ, et omne vas aureum et argenteum de pecunia, quæ inferebatur in templum Domini.
+13 Verumtamen non fiebant ex eadem pecunia hydriae templi Domini, et fuscinulae, et thuribula, et tubae, et omne vas aureum et argenteum de pecunia, quae inferebatur in templum Domini.
 
 14 iis enim, qui faciebant opus, dabatur ut instauraretur templum Domini:
 
@@ -37,11 +37,11 @@ draft: false
 
 16 Pecuniam vero pro delicto, et pecuniam pro peccatis non inferebant in templum Domini, quia sacerdotum erat.
 
-17 Tunc ascendit Hazael rex Syriæ, et pugnabat contra Geth, cepitque eam: et direxit faciem suam ut ascenderet in Ierusalem.
+17 Tunc ascendit Hazael rex Syriae, et pugnabat contra Geth, cepitque eam: et direxit faciem suam ut ascenderet in Ierusalem.
 
-18 Quam ob rem tulit Ioas rex Iuda omnia sanctificata, quæ consecraverant Iosaphat, et Ioram, et Ochozias patres eius reges Iuda, et quæ ipse obtulerat: et universum argentum, quod inveniri potuit in thesauris templi Domini, et in palatio regis: misitque Hazaeli regi Syriæ, et recessit ab Ierusalem.
+18 Quam ob rem tulit Ioas rex Iuda omnia sanctificata, quae consecraverant Iosaphat, et Ioram, et Ochozias patres eius reges Iuda, et quae ipse obtulerat: et universum argentum, quod inveniri potuit in thesauris templi Domini, et in palatio regis: misitque Hazaeli regi Syriae, et recessit ab Ierusalem.
 
-19 Reliqua autem sermonum Ioas, et universa quæ fecit, nonne hæc scripta sunt in Libro verborum dierum regum Iuda?
+19 Reliqua autem sermonum Ioas, et universa quae fecit, nonne haec scripta sunt in Libro verborum dierum regum Iuda?
 
 20 Surrexerunt autem servi eius, et coniuraverunt inter se, percusseruntque Ioas in Domo Mello in descensu Sella.
 

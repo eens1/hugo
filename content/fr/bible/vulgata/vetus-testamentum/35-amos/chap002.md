@@ -5,31 +5,31 @@ draft: false
 ---
 
 
-1 Hæc dicit Dominus: Super tribus sceleribus Moab, et super quattuor non convertam eum: eo quod incenderit ossa regis Idumææ usque ad cinerem.
+1 Haec dicit Dominus: Super tribus sceleribus Moab, et super quattuor non convertam eum: eo quod incenderit ossa regis Idumaeae usque ad cinerem.
 
-2 Et mittam ignem in Moab, et devorabit ædes Carioth: et morietur in sonitu Moab, in clangore tubæ:
+2 Et mittam ignem in Moab, et devorabit aedes Carioth: et morietur in sonitu Moab, in clangore tubae:
 
 3 et disperdam iudicem de medio eius, et omnes principes eius interficiam cum eo, dicit Dominus.
 
-4 Hæc dicit Dominus: Super tribus sceleribus Iuda, et super quattuor non convertam eum: eo quod abiecerit legem Domini, et mandata eius non custodierit: deceperant enim eos idola sua, post quæ abierant patres eorum.
+4 Haec dicit Dominus: Super tribus sceleribus Iuda, et super quattuor non convertam eum: eo quod abiecerit legem Domini, et mandata eius non custodierit: deceperant enim eos idola sua, post quae abierant patres eorum.
 
-5 Et mittam ignem in Iuda, et devorabit ædes Ierusalem.
+5 Et mittam ignem in Iuda, et devorabit aedes Ierusalem.
 
-6 Hæc dicit Dominus: Super tribus sceleribus Israel, et super quattuor non convertam eum: pro eo quod vendiderit pro argento iustum, et pauperem pro calceamentis.
+6 Haec dicit Dominus: Super tribus sceleribus Israel, et super quattuor non convertam eum: pro eo quod vendiderit pro argento iustum, et pauperem pro calceamentis.
 
-7 Qui conterunt super pulverem terræ capita pauperum, et viam humilium declinant: et filius ac pater eius ierunt ad puellam, ut violarent nomen sanctum meum.
+7 Qui conterunt super pulverem terrae capita pauperum, et viam humilium declinant: et filius ac pater eius ierunt ad puellam, ut violarent nomen sanctum meum.
 
 8 Et super vestimentis pignoratis accubuerunt iuxta omne altare: et vinum damnatorum bibebant in domo Dei sui.
 
-9 Ego autem exterminavi Amorrhæum a facie eorum: cuius altitudo, cedrorum altitudo eius, et fortis ipse quasi quercus: et contrivi fructum eius desuper, et radices eius subter.
+9 Ego autem exterminavi Amorrhaeum a facie eorum: cuius altitudo, cedrorum altitudo eius, et fortis ipse quasi quercus: et contrivi fructum eius desuper, et radices eius subter.
 
-10 Ego sum, qui ascendere vos feci de Terra Ægypti, et duxi vos in deserto quadraginta annis ut possideretis terram Amorrhæi.
+10 Ego sum, qui ascendere vos feci de Terra AEgypti, et duxi vos in deserto quadraginta annis ut possideretis terram Amorrhaei.
 
-11 Et suscitavi de filiis vestris in prophetas, et de iuvenibus vestris nazaræos: numquid non ita est filii Israel dicit Dominus?
+11 Et suscitavi de filiis vestris in prophetas, et de iuvenibus vestris nazaraeos: numquid non ita est filii Israel dicit Dominus?
 
-12 Et propinabitis nazaræis vinum: et prophetis mandabitis, dicentes: Ne prophetetis.
+12 Et propinabitis nazaraeis vinum: et prophetis mandabitis, dicentes: Ne prophetetis.
 
-13 Ecce ego stridebo subter vos, sicut stridet plaustrum onustum fœno.
+13 Ecce ego stridebo subter vos, sicut stridet plaustrum onustum foeno.
 
 14 Et peribit fuga a veloce, et fortis non obtinebit virtutem suam, et robustus non salvabit animam suam:
 

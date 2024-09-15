@@ -13,19 +13,19 @@ draft: false
 
 4 Usque ad senectam ego ipse, et usque ad canos ego portabo: ego feci, et ego feram: ego portabo, et salvabo.
 
-5 Cui assimilastis me, et adæquastis, et comparastis me, et fecistis similem?
+5 Cui assimilastis me, et adaequastis, et comparastis me, et fecistis similem?
 
 6 Qui confertis aurum de sacculo, et argentum statera ponderatis: conducentes aurificem, ut faciat deum: et procidunt, et adorant.
 
 7 Portant illum in humeris gestantes, et ponentes in loco suo: et stabit, ac de loco suo non movebitur. sed et cum clamaverint ad eum, non audiet: de tribulatione non salvabit eos.
 
-8 Mementote istud, et confundamini: redite prævaricatores ad cor.
+8 Mementote istud, et confundamini: redite praevaricatores ad cor.
 
-9 Recordamini prioris sæculi, quoniam ego sum Deus, et non est ultra Deus, nec est similis mei:
+9 Recordamini prioris saeculi, quoniam ego sum Deus, et non est ultra Deus, nec est similis mei:
 
-10 Annuncians ab exordio novissimum, et ab initio quæ necdum facta sunt, dicens: Consilium meum stabit, et omnis voluntas mea fiet:
+10 Annuncians ab exordio novissimum, et ab initio quae necdum facta sunt, dicens: Consilium meum stabit, et omnis voluntas mea fiet:
 
-11 Vocans ab Oriente avem, et de terra longinqua virum voluntatis meæ. et locutus sum, et adducam illud: creavi, et faciam illud.
+11 Vocans ab Oriente avem, et de terra longinqua virum voluntatis meae. et locutus sum, et adducam illud: creavi, et faciam illud.
 
 12 Audite me duro corde, qui longe estis a iustitia.
 

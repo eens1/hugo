@@ -9,7 +9,7 @@ draft: false
 
 2 Tunc repletum est gaudio os nostrum: et lingua nostra exultatione. Tunc dicent inter gentes: Magnificavit Dominus facere cum eis.
 
-3 Magnificavit Dominus facere nobiscum: facti sumus lætantes.
+3 Magnificavit Dominus facere nobiscum: facti sumus laetantes.
 
 4 Converte Domine captivitatem nostram, sicut torrens in Austro.
 

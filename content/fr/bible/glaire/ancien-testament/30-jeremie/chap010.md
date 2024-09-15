@@ -18,16 +18,16 @@ summary: |
 
 ***Note*** :  Jr. 10, 2 : Ne redoutez, etc. Redouter, craindre, signifient ici comme dans bien d’autres passages, révérer, admirer, rendre le culte souverain. ― Les signes du ciel ; les astres, auxquels les Chaldéens attribuaient un grand pouvoir sur la conduite des hommes et le gouvernement du monde.
 
-3 Parce que les lois des peuples sont vaines; parce que l'œuvre de la main d'un ouvrier habile a coupé du bois de la forêt avec la hache.
+3 Parce que les lois des peuples sont vaines; parce que l'oeuvre de la main d'un ouvrier habile a coupé du bois de la forêt avec la hache.
 
-***Note*** :  Jr. 10, 3 : Voir Sagesse, 13, 11 ; 14, 8. ― L’œuvre de la main ; c’est-à-dire la main par son œuvre, par son travail.
+***Note*** :  Jr. 10, 3 : Voir Sagesse, 13, 11 ; 14, 8. ― L’oeuvre de la main ; c’est-à-dire la main par son oeuvre, par son travail.
 
 4 Elle l'a orné d'or et d'argent; elle en a joint les parties avec des clous et des marteaux, afin qu'il ne se désunisse pas.
 
 ***Note*** :  Jr. 10, 4 : Elle l’a orné, etc. ; elle a orné ce bois en le couvrant de lames d’or et d’argent, selon la manière de dorer et d’argenter dans ces temps-là.
 
 
-5 Ces œuvres ont été fabriquées en forme de palmier; elles ne parleront pas; on les portera, on les enlèvera, parce qu'elles ne peuvent marcher; ne les craignez donc pas, parce qu'elles ne peuvent faire ni mal ni bien.
+5 Ces oeuvres ont été fabriquées en forme de palmier; elles ne parleront pas; on les portera, on les enlèvera, parce qu'elles ne peuvent marcher; ne les craignez donc pas, parce qu'elles ne peuvent faire ni mal ni bien.
 
 ***Note*** :  Jr. 10, 5 : En forme de palmier ; hébreu : en forme de colonne ; les idoles sont immobiles et sans vie comme des colonnes ou des troncs d’arbre.
 

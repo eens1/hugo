@@ -66,7 +66,7 @@ des individus. Ainsi les Juifs, réduits en captivité, ne furent pas punis à c
 ***Note*** :  Éz. 18, 23 : Voir Ezéchiel, chapitre 33 ; 2 Pierre, 3, 9.
 
 
-24 Mais si le juste se détourne de sa justice, et qu'il fasse l'iniquité selon toutes les abominations que l'impie a coutume de commettre, est-ce qu'il vivra? toutes les œuvres de justice qu'il avait faites seront oubliées, et dans la prévarication par laquelle il a prévariqué, et dans le péché par lequel il a péché, il mourra.
+24 Mais si le juste se détourne de sa justice, et qu'il fasse l'iniquité selon toutes les abominations que l'impie a coutume de commettre, est-ce qu'il vivra? toutes les oeuvres de justice qu'il avait faites seront oubliées, et dans la prévarication par laquelle il a prévariqué, et dans le péché par lequel il a péché, il mourra.
 
 
 25 Et vous avez dit : Elle n'est pas juste, la voie du Seigneur. Ecoutez donc, maison d'Israël : Est-ce ma voie qui n'est pas juste, et ne sont-ce pas plutôt les vôtres qui sont corrompues?
@@ -84,7 +84,7 @@ des individus. Ainsi les Juifs, réduits en captivité, ne furent pas punis à c
 
 ***Note*** :  Éz. 18, 30 : Voir Matthieu, 3, 2 ; Luc, 3, 3.
 
-31 Rejetez loin de vous toutes les prévarications par lesquelles vous avez prévariqué, et faites-vous un cœur nouveau et un esprit nouveau ; et pourquoi mourrez-vous, maison d'Israël? 32 Car je ne veux point la mort de celui qui meurt, dit le Seigneur Dieu; revenez, et vivez.
+31 Rejetez loin de vous toutes les prévarications par lesquelles vous avez prévariqué, et faites-vous un coeur nouveau et un esprit nouveau ; et pourquoi mourrez-vous, maison d'Israël? 32 Car je ne veux point la mort de celui qui meurt, dit le Seigneur Dieu; revenez, et vivez.
 
 ***Note*** :  Éz. 18, 32 : Voir Ezéchiel, chapitre 33 ; 2 Pierre, 3, 9. ― Revenez et vivez ; hébraïsme, pour revenez et vous vivrez.
 

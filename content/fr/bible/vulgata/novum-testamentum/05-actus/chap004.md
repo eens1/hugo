@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Loquentibus autem illis ad populum, supervenerunt sacerdotes, et magistratus templi, et Sadducæi,
+1 Loquentibus autem illis ad populum, supervenerunt sacerdotes, et magistratus templi, et Sadducaei,
 
 2 dolentes quod docerent populum, et annunciarent in Iesu resurrectionem ex mortuis:
 
@@ -13,7 +13,7 @@ draft: false
 
 4 Multi autem eorum, qui audierant verbum, crediderunt: et factus est numerus virorum quinque millia.
 
-5 Factum est autem in crastinum, ut congregarentur principes eorum, et seniores, et scribæ in Ierusalem.
+5 Factum est autem in crastinum, ut congregarentur principes eorum, et seniores, et scribae in Ierusalem.
 
 6 et Annas princeps sacerdotum, et Caiphas, et Ioannes, et Alexander, et quotquot erant de genere sacerdotali.
 
@@ -25,11 +25,11 @@ draft: false
 
 10 notum sit omnibus vobis, et omni plebi Israel: quia in nomine Domini nostri Iesu Christi Nazareni, quem vos crucifixistis, quem Deus suscitavit a mortuis, in hoc iste astat coram vobis sanus.
 
-11 Hic est lapis, qui reprobatus est a vobis ædificantibus, qui factus est in caput anguli:
+11 Hic est lapis, qui reprobatus est a vobis aedificantibus, qui factus est in caput anguli:
 
-12 et non est in alio aliquo salus. Nec enim aliud nomen est sub cælo datum hominibus, in quo oporteat nos salvos fieri.
+12 et non est in alio aliquo salus. Nec enim aliud nomen est sub caelo datum hominibus, in quo oporteat nos salvos fieri.
 
-13 Videntes autem Petri constantiam, et Ioannis, comperto quod homines essent sine litteris, et idiotæ, admirabantur, et cognoscebant eos quoniam cum Iesu fuerant:
+13 Videntes autem Petri constantiam, et Ioannis, comperto quod homines essent sine litteris, et idiotae, admirabantur, et cognoscebant eos quoniam cum Iesu fuerant:
 
 14 hominem quoque videntes stantem cum eis, qui curatus fuerat, nihil poterant contradicere.
 
@@ -43,7 +43,7 @@ draft: false
 
 19 Petrus vero, et Ioannes respondentes, dixerunt ad eos: Si iustum est in conspectu Dei, vos potius audire quam Deum, iudicate.
 
-20 non enim possumus quæ vidimus et audivimus non loqui.
+20 non enim possumus quae vidimus et audivimus non loqui.
 
 21 At illi comminantes dimiserunt eos: non invenientes quomodo punirent eos propter populum, quia omnes clarificabant id, quod factum fuerat in eo quod acciderat.
 
@@ -51,15 +51,15 @@ draft: false
 
 23 Dimissi autem venerunt ad suos: et annunciaverunt eis quanta ad eos principes sacerdotum, et seniores dixissent.
 
-24 Qui cum audissent, unanimiter levaverunt vocem ad Deum, et dixerunt: Domine, tu es qui fecisti cælum, et terram, mare, et omnia, quæ in eis sunt:
+24 Qui cum audissent, unanimiter levaverunt vocem ad Deum, et dixerunt: Domine, tu es qui fecisti caelum, et terram, mare, et omnia, quae in eis sunt:
 
 25 qui Spiritu sancto per os patris nostri David, pueri tui, dixisti: Quare fremuerunt Gentes, et populi meditati sunt inania?
 
-26 Astiterunt reges terræ, et principes convenerunt in unum adversus Dominum, et adversus Christum eius?
+26 Astiterunt reges terrae, et principes convenerunt in unum adversus Dominum, et adversus Christum eius?
 
 27 convenerunt enim vere in civitate ista adversus sanctum puerum tuum Iesum, quem unxisti, Herodes, et Pontius Pilatus, cum Gentibus, et populis Israel,
 
-28 facere quæ manus tua, et consilium tuum decreverunt fieri.
+28 facere quae manus tua, et consilium tuum decreverunt fieri.
 
 29 Et nunc Domine respice in minas eorum, et da servis tuis cum omni fiducia loqui verbum tuum,
 
@@ -67,11 +67,11 @@ draft: false
 
 31 Et cum orassent, motus est locus, in quo erant congregati: et repleti sunt omnes Spiritu sancto, et loquebantur verbum Dei cum fiducia.
 
-32 Multitudinis autem credentium erat cor unum, et anima una: nec quisquam eorum, quæ possidebat, aliquid suum esse dicebat, sed erant illis omnia communia.
+32 Multitudinis autem credentium erat cor unum, et anima una: nec quisquam eorum, quae possidebat, aliquid suum esse dicebat, sed erant illis omnia communia.
 
 33 Et virtute magna reddebant Apostoli testimonium resurrectionis Iesu Christi Domini nostri: et gratia magna erat in omnibus illis.
 
-34 Neque enim quisquam egens erat inter illos. Quotquot enim possessores agrorum, aut domorum erant vendentes afferebant pretia eorum, quæ vendebant,
+34 Neque enim quisquam egens erat inter illos. Quotquot enim possessores agrorum, aut domorum erant vendentes afferebant pretia eorum, quae vendebant,
 
 35 et ponebant ante pedes Apostolorum. Dividebatur autem singulis prout cuique opus erat.
 

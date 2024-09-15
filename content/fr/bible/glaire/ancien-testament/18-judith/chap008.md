@@ -28,7 +28,7 @@ summary: |
 
 ***Note*** :  Judith 8, 6 : Les néoménies, les jours de la nouvelle lune, qui marquaient le commencement d’un mois.
 
-7 Or elle était d'une grande beauté, et son mari lui avait laissé de grandes richesses, une famille nombreuse, et des possessions pleines de troupeaux de bœufs et de troupeaux de brebis.
+7 Or elle était d'une grande beauté, et son mari lui avait laissé de grandes richesses, une famille nombreuse, et des possessions pleines de troupeaux de boeufs et de troupeaux de brebis.
 
 ***Note*** :  Judith 8, 7 : Par famille nombreuse on entend généralement un grand nombre de domestiques.
 
@@ -44,8 +44,8 @@ summary: |
 
 ***Note*** :  Judith 8, 12 : Une parole ; ou bien une chose.
 
-13 Vous avez fixé un temps à la miséricorde du Seigneur, et, selon votre volonté, vous lui avez marqué un jour. 14 Mais, puisque le Seigneur est patient, par cela même faisons pénitence, et réclamons son indulgence en répandant des larmes ; 15 Car ce n'est point comme un homme que Dieu menacera, ni comme le fils d'un homme qu'il s'enflammera de son courroux. 16 C'est pourquoi humilions devant lui nos âmes, et le servant, établis dans un esprit humilié, 17 Disons en pleurant au Seigneur que, selon sa volonté, il nous accorde sa miséricorde, afin que de même que notre cœur est troublé par l'orgueil de nos ennemis, de même aussi nous nous glorifiions de notre humiliation, 18 Parce que nous n'avons point suivi les péchés de nos pères, qui ont abandonné leur Dieu et ont adoré des dieux étrangers :19 Pour lequel crime, ils ont été livrés au glaive, au pillage, et à la confusion parmi leurs ennemis; mais nous, nous ne connaissons point d'autre Dieu, hors lui. 20 Attendons humblement sa consolation, et il vengera notre
-sang des afflictions que nous causent nos ennemis; il humiliera aussi toutes les nations quelconques qui s'élèvent contre nous, et le Seigneur notre Dieu les livrera au déshonneur. 21 Or maintenant, mes frères, puisque vous êtes les anciens parmi le peuple de Dieu, et que de vous dépend leur âme, relevez leur cœur par vos paroles, afin qu'ils se souviennent que nos pères ont été tentés pour éprouver s'ils honoraient véritablement leur Dieu.
+13 Vous avez fixé un temps à la miséricorde du Seigneur, et, selon votre volonté, vous lui avez marqué un jour. 14 Mais, puisque le Seigneur est patient, par cela même faisons pénitence, et réclamons son indulgence en répandant des larmes ; 15 Car ce n'est point comme un homme que Dieu menacera, ni comme le fils d'un homme qu'il s'enflammera de son courroux. 16 C'est pourquoi humilions devant lui nos âmes, et le servant, établis dans un esprit humilié, 17 Disons en pleurant au Seigneur que, selon sa volonté, il nous accorde sa miséricorde, afin que de même que notre coeur est troublé par l'orgueil de nos ennemis, de même aussi nous nous glorifiions de notre humiliation, 18 Parce que nous n'avons point suivi les péchés de nos pères, qui ont abandonné leur Dieu et ont adoré des dieux étrangers :19 Pour lequel crime, ils ont été livrés au glaive, au pillage, et à la confusion parmi leurs ennemis; mais nous, nous ne connaissons point d'autre Dieu, hors lui. 20 Attendons humblement sa consolation, et il vengera notre
+sang des afflictions que nous causent nos ennemis; il humiliera aussi toutes les nations quelconques qui s'élèvent contre nous, et le Seigneur notre Dieu les livrera au déshonneur. 21 Or maintenant, mes frères, puisque vous êtes les anciens parmi le peuple de Dieu, et que de vous dépend leur âme, relevez leur coeur par vos paroles, afin qu'ils se souviennent que nos pères ont été tentés pour éprouver s'ils honoraient véritablement leur Dieu.
 
 ***Note*** :  Judith 8, 21 : Leur âme ; hébraïsme, pour leur vie.
 

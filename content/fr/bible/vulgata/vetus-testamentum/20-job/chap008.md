@@ -11,11 +11,11 @@ draft: false
 
 3 Numquid Deus supplantat iudicium? aut Omnipotens subvertit quod iustum est?
 
-4 Etiam si filii tui peccaverunt ei, et dimisit eos in manu iniquitatis suæ:
+4 Etiam si filii tui peccaverunt ei, et dimisit eos in manu iniquitatis suae:
 
 5 Tu tamen si diluculo consurrexeris ad Deum, et Omnipotentem fueris deprecatus:
 
-6 Si mundus et rectus incesseris, statim evigilabit ad te, et pacatum reddet habitaculum iustitiæ tuæ:
+6 Si mundus et rectus incesseris, statim evigilabit ad te, et pacatum reddet habitaculum iustitiae tuae:
 
 7 In tantum, ut si priora tua fuerint parva, et novissima tua multiplicentur nimis.
 
@@ -29,7 +29,7 @@ draft: false
 
 12 Cum adhuc sit in flore, nec carpatur manu, ante omnes herbas arescit:
 
-13 Sic viæ omnium, qui obliviscuntur Deum, et spes hypocritæ peribit:
+13 Sic viae omnium, qui obliviscuntur Deum, et spes hypocritae peribit:
 
 14 Non ei placebit vecordia sua, et sicut tela aranearum fiducia eius.
 
@@ -41,7 +41,7 @@ draft: false
 
 18 Si absorbuerit eum de loco suo, negabit eum, et dicet: Non novi te.
 
-19 Hæc est enim lætitia viæ eius, ut rursum de terra alii germinentur.
+19 Haec est enim laetitia viae eius, ut rursum de terra alii germinentur.
 
 20 Deus non proiiciet simplicem, nec porriget manum malignis:
 

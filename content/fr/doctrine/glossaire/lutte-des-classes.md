@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-> *Dictionnaire de l'académie française, définition du terme "classe"* : "Ensemble des personnes qui, dans un pays, ont des niveaux de vie sensiblement voisins, une certaine communauté d’éducation, de mœurs, d’intérêts." [^1]
+> *Dictionnaire de l'académie française, définition du terme "classe"* : "Ensemble des personnes qui, dans un pays, ont des niveaux de vie sensiblement voisins, une certaine communauté d’éducation, de moeurs, d’intérêts." [^1]
 
 [^1]: Consulté le 24 oct. 2021. https://www.dictionnaire-academie.fr/article/A9C2523
 

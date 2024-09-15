@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 Alleluia. In exitu Israel de Ægypto, domus Iacob de populo barbaro:
+1 Alleluia. In exitu Israel de AEgypto, domus Iacob de populo barbaro:
 
-2 Facta est Iudæa sanctificatio eius, Israel potestas eius.
+2 Facta est Iudaea sanctificatio eius, Israel potestas eius.
 
 3 Mare vidit, et fugit: Iordanis conversus est retrorsum.
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Super misericordia tua, et veritate tua: nequando dicant Gentes: Ubi est Deus eorum?
 
-11 Deus autem noster in cælo: omnia quæcumque voluit, fecit.
+11 Deus autem noster in caelo: omnia quaecumque voluit, fecit.
 
 12 Simulacra gentium argentum, et aurum, opera manuum hominum.
 
@@ -49,11 +49,11 @@ draft: false
 
 22 Adiiciat Dominus super vos: super vos, et super filios vestros.
 
-23 Benedicti vos a Domino, qui fecit cælum, et terram.
+23 Benedicti vos a Domino, qui fecit caelum, et terram.
 
-24 Cælum cæli Domino: terram autem dedit filiis hominum.
+24 Caelum caeli Domino: terram autem dedit filiis hominum.
 
 25 Non mortui laudabunt te Domine: neque omnes, qui descendunt in infernum.
 
-26 Sed nos qui vivimus, benedicimus Domino, ex hoc nunc et usque in sæculum.
+26 Sed nos qui vivimus, benedicimus Domino, ex hoc nunc et usque in saeculum.
 

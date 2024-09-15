@@ -23,14 +23,14 @@ summary: |
 
 ***Note*** :  Is. 32, 3 : Ceux qui verront ; c’est-à-dire les voyants (videntium), ou prophètes.
 
-4 Et le cœur des insensés comprendra la science, et la langue des bègues parlera vite et nettement. 5 Il ne portera plus le nom de prince, celui qui manque de sagesse, et le frauduleux ne sera pas appelé grand ;
+4 Et le coeur des insensés comprendra la science, et la langue des bègues parlera vite et nettement. 5 Il ne portera plus le nom de prince, celui qui manque de sagesse, et le frauduleux ne sera pas appelé grand ;
 
 ***Note*** :  Is. 32, 5 : Il ne portera plus, etc. Isaïe oppose le règne d’Ezéchias ou de Josias, princes magnifiques, bienfaisants, au règne d’Achaz, qui avait opprimé ses peuples et les avait épuisés par ses exactions.
 
 
-6 Car l'insensé dira des paroles extravagantes, et son cœur commettra l'iniquité, afin de parfaire la simulation, et de parler à Dieu frauduleusement, et de rendre vide l'âme de celui qui a faim, et ôter le boire à celui qui a soif. 7 Les armes du frauduleux sont très cruelles; car c'est lui qui a combiné des pensées, pour perdre des hommes, doux par un discours menteur, lorsque le pauvre parlait justice.
+6 Car l'insensé dira des paroles extravagantes, et son coeur commettra l'iniquité, afin de parfaire la simulation, et de parler à Dieu frauduleusement, et de rendre vide l'âme de celui qui a faim, et ôter le boire à celui qui a soif. 7 Les armes du frauduleux sont très cruelles; car c'est lui qui a combiné des pensées, pour perdre des hommes, doux par un discours menteur, lorsque le pauvre parlait justice.
 
-***Note*** :  Is. 32, 7 : Les armes traduit ici vases, de l’original et de la Vulgate, et signifie les machinations, les sourdes manœuvres du trompeur frauduleux.
+***Note*** :  Is. 32, 7 : Les armes traduit ici vases, de l’original et de la Vulgate, et signifie les machinations, les sourdes manoeuvres du trompeur frauduleux.
 
 8 Mais un prince pensera des choses qui sont dignes d'un prince, et il se tiendra lui-même ferme au-dessus des chefs.
 
@@ -63,7 +63,7 @@ summary: |
 
 ***Note*** :  Is. 32, 19 : Descendra ; littéralement dans l’action de descendre ; c’est le vrai sens de l’hébreu que la Vulgate a parfaitement rendu par in descensione. ― D’humiliation sera humiliée ; hébraïsme, pour : sera profondément, ou entièrement humiliée. ― La cité ; probablement Ninive, prise par Nabuchodonosor et Astyage, sous le règne de Josias.
 
-20 Bienheureux, vous qui semez sur toutes les eaux, y envoyant le pied du bœuf et de l'âne.
+20 Bienheureux, vous qui semez sur toutes les eaux, y envoyant le pied du boeuf et de l'âne.
 
-***Note*** :  Is. 32, 20 : Sur toutes les aux ; sur tous les terrains bien arrosés. ― Y envoyant, etc. ; en y envoyant le bœuf et l’âne paître ou fouler le grain.
+***Note*** :  Is. 32, 20 : Sur toutes les aux ; sur tous les terrains bien arrosés. ― Y envoyant, etc. ; en y envoyant le boeuf et l’âne paître ou fouler le grain.
 

@@ -5,19 +5,19 @@ draft: false
 ---
 
 
-1 Laudatio ipsi David. Exaltabo te Deus meus rex: et benedicam nomini tuo in sæculum, et in sæculum sæculi.
+1 Laudatio ipsi David. Exaltabo te Deus meus rex: et benedicam nomini tuo in saeculum, et in saeculum saeculi.
 
-2 Per singulos dies benedicam tibi: et laudabo nomen tuum in sæculum, et in sæculum sæculi.
+2 Per singulos dies benedicam tibi: et laudabo nomen tuum in saeculum, et in saeculum saeculi.
 
 3 Magnus Dominus et laudabilis nimis: et magnitudinis eius non est finis.
 
 4 Generatio et generatio laudabit opera tua: et potentiam tuam pronunciabunt.
 
-5 Magnificentiam gloriæ sanctitatis tuæ loquentur: et mirabilia tua narrabunt.
+5 Magnificentiam gloriae sanctitatis tuae loquentur: et mirabilia tua narrabunt.
 
 6 Et virtutem terribilium tuorum dicent: et magnitudinem tuam narrabunt.
 
-7 Memoriam abundantiæ suavitatis tuæ eructabunt: et iustitia tua exultabunt.
+7 Memoriam abundantiae suavitatis tuae eructabunt: et iustitia tua exultabunt.
 
 8 Miserator et misericors Dominus: patiens, et multum misericors.
 
@@ -27,9 +27,9 @@ draft: false
 
 11 Gloriam regni tui dicent: et potentiam tuam loquentur:
 
-12 Ut notam faciant filiis hominum potentiam tuam: et gloriam magnificentiæ regni tui.
+12 Ut notam faciant filiis hominum potentiam tuam: et gloriam magnificentiae regni tui.
 
-13 Regnum tuum regnum omnium sæculorum: et dominatio tua in omni generatione et generationem. Fidelis Dominus in omnibus verbis suis: et sanctus in omnibus operibus suis.
+13 Regnum tuum regnum omnium saeculorum: et dominatio tua in omni generatione et generationem. Fidelis Dominus in omnibus verbis suis: et sanctus in omnibus operibus suis.
 
 14 Allevat Dominus omnes, qui corruunt: et erigit omnes elisos.
 
@@ -45,5 +45,5 @@ draft: false
 
 20 Custodit Dominus omnes diligentes se: et omnes peccatores disperdet.
 
-21 Laudationem Domini loquetur os meum: et benedicat omnis caro nomini sancto eius in sæculum, et in sæculum sæculi.
+21 Laudationem Domini loquetur os meum: et benedicat omnis caro nomini sancto eius in saeculum, et in saeculum saeculi.
 

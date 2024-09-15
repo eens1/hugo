@@ -7,7 +7,7 @@ draft: false
 
 1 Et apprehendent septem mulieres virum unum in die illa, dicentes: Panem nostrum comedemus, et vestimentis nostris operiemur: tantummodo invocetur nomen tuum super nos, aufer opprobrium nostrum.
 
-2 In die illa erit germen Domini in magnificentia, et gloria, et fructus terræ sublimis, et exultatio his, qui salvati fuerint de Israel.
+2 In die illa erit germen Domini in magnificentia, et gloria, et fructus terrae sublimis, et exultatio his, qui salvati fuerint de Israel.
 
 3 Et erit: Omnis qui relictus fuerit in Sion, et residuus in Ierusalem, sanctus vocabitur, omnis qui scriptus est in vita in Ierusalem.
 
@@ -15,5 +15,5 @@ draft: false
 
 5 Et creabit Dominus super omnem locum Montis Sion, et ubi invocatus est, nubem per diem, et fumum et splendorem ignis flammantis in nocte: super omnem enim gloriam protectio.
 
-6 Et tabernaculum erit in umbraculum diei ab æstu, et in securitatem, et absconsionem a turbine, et a pluvia.
+6 Et tabernaculum erit in umbraculum diei ab aestu, et in securitatem, et absconsionem a turbine, et a pluvia.
 

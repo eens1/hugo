@@ -5,23 +5,23 @@ draft: false
 ---
 
 
-1 Et surrexit Iudas, qui vocabatur Machabæus filius eius pro eo:
+1 Et surrexit Iudas, qui vocabatur Machabaeus filius eius pro eo:
 
-2 et adiuvabant eum omnes fratres eius: et universi, qui se coniunxerant patri eius, et præliabantur prælium Israel cum lætitia.
+2 et adiuvabant eum omnes fratres eius: et universi, qui se coniunxerant patri eius, et praeliabantur praelium Israel cum laetitia.
 
-3 Et dilatavit gloriam populo suo, et induit se loricam sicut gigas, et succinxit se arma bellica sua in præliis, et protegebat castra gladio suo.
+3 Et dilatavit gloriam populo suo, et induit se loricam sicut gigas, et succinxit se arma bellica sua in praeliis, et protegebat castra gladio suo.
 
 4 Similis factus est leoni in operibus suis, et sicut catulus leonis rugiens in venatione.
 
 5 Et persecutus est iniquos perscrutans eos: et qui conturbabant populum suum, eos succendit flammis:
 
-6 et repulsi sunt inimici eius præ timore eius, et omnes operarii iniquitatis conturbati sunt: et directa est salus in manu eius.
+6 et repulsi sunt inimici eius prae timore eius, et omnes operarii iniquitatis conturbati sunt: et directa est salus in manu eius.
 
-7 Et exacerbabat reges multos, et lætificabat Iacob in operibus suis, et in sæculum memoria eius in benedictione.
+7 Et exacerbabat reges multos, et laetificabat Iacob in operibus suis, et in saeculum memoria eius in benedictione.
 
 8 Et perambulavit civitates Iuda, et perdidit impios ex eis, et avertit iram ab Israel.
 
-9 Et nominatus est usque ad novissimum terræ, et congregavit pereuntes.
+9 Et nominatus est usque ad novissimum terrae, et congregavit pereuntes.
 
 10 Et congregavit Apollonius Gentes, et a Samaria virtutem multam et magnam ad bellandum contra Israel.
 
@@ -29,19 +29,19 @@ draft: false
 
 12 et accepit spolia eorum: et gladium Apollonii abstulit Iudas, et erat pugnans in eo omnibus diebus.
 
-13 Et audivit Seron princeps exercitus Syriæ, quod congregavit Iudas congregationem fidelium, et ecclesiam secum,
+13 Et audivit Seron princeps exercitus Syriae, quod congregavit Iudas congregationem fidelium, et ecclesiam secum,
 
 14 et ait: Faciam mihi nomen, et glorificabor in regno, et debellabo Iudam, et eos, qui cum ipso sunt, qui spernebant verbum regis.
 
-15 Et præparavit se: et ascenderunt cum eo castra impiorum fortes auxiliarii ut facerent vindictam in filios Israel.
+15 Et praeparavit se: et ascenderunt cum eo castra impiorum fortes auxiliarii ut facerent vindictam in filios Israel.
 
 16 Et appropinquaverunt usque ad Bethoron: et exivit Iudas obviam illi cum paucis.
 
-17 Ut autem viderunt exercitum venientem sibi obviam, dixerunt Iudæ: Quomodo poterimus pauci pugnare contra multitudinem tantam, et tam fortem, et nos fatigati sumus ieiunio hodie?
+17 Ut autem viderunt exercitum venientem sibi obviam, dixerunt Iudae: Quomodo poterimus pauci pugnare contra multitudinem tantam, et tam fortem, et nos fatigati sumus ieiunio hodie?
 
-18 Et ait Iudas: Facile est concludi multos in manus paucorum: et non est differentia in conspectu Dei cæli liberare in multis, et in paucis:
+18 Et ait Iudas: Facile est concludi multos in manus paucorum: et non est differentia in conspectu Dei caeli liberare in multis, et in paucis:
 
-19 quoniam non in multitudine exercitus victoria belli, sed de cælo fortitudo est.
+19 quoniam non in multitudine exercitus victoria belli, sed de caelo fortitudo est.
 
 20 Ipsi veniunt ad nos in multitudine contumaci, et superbia ut disperdant nos, et uxores nostras, et filios nostros, et ut spolient nos:
 
@@ -53,25 +53,25 @@ draft: false
 
 24 et persecutus est eum in descensu Bethoron usque in campum, et ceciderunt ex eis octingenti viri, reliqui autem fugerunt in terram Philisthiim.
 
-25 Et cecidit timor Iudæ, ac fratrum eius, et formido super omnes gentes in circuitu eorum.
+25 Et cecidit timor Iudae, ac fratrum eius, et formido super omnes gentes in circuitu eorum.
 
-26 et pervenit ad regem nomen eius, et de præliis Iudæ narrabant omnes gentes.
+26 et pervenit ad regem nomen eius, et de praeliis Iudae narrabant omnes gentes.
 
 27 Ut audivit autem rex Antiochus sermones istos, iratus est animo: et misit, et congregavit exercitum universi regni sui, castra fortia valde:
 
-28 et aperuit ærarium suum, et dedit stipendia exercitui in annum: et mandavit illis ut essent parati ad omnia.
+28 et aperuit aerarium suum, et dedit stipendia exercitui in annum: et mandavit illis ut essent parati ad omnia.
 
-29 Et vidit quod defecit pecunia de thesauris suis, et tributa regionis modica propter dissensionem, et plagam, quam fecit in terra, ut tolleret legitima, quæ erant a primis diebus:
+29 Et vidit quod defecit pecunia de thesauris suis, et tributa regionis modica propter dissensionem, et plagam, quam fecit in terra, ut tolleret legitima, quae erant a primis diebus:
 
-30 et timuit ne non haberet ut semel et bis, in sumptus et donaria, quæ dederat ante larga manu: et abundaverat super reges, qui ante eum fuerant.
+30 et timuit ne non haberet ut semel et bis, in sumptus et donaria, quae dederat ante larga manu: et abundaverat super reges, qui ante eum fuerant.
 
 31 Et consternatus erat animo valde, et cogitavit ire in Persidem, et accipere tributa regionum, et congregare argentum multum.
 
-32 Et reliquit Lysiam hominem nobilem de genere regali, super negotia regia, a flumine Euphrate usque ad flumen Ægypti:
+32 Et reliquit Lysiam hominem nobilem de genere regali, super negotia regia, a flumine Euphrate usque ad flumen AEgypti:
 
 33 et ut nutriret Antiochum filium suum, donec rediret.
 
-34 Et tradidit ei medium exercitum, et elephantos: et mandavit ei de omnibus, quæ volebat, et de inhabitantibus Iudæam, et Ierusalem:
+34 Et tradidit ei medium exercitum, et elephantos: et mandavit ei de omnibus, quae volebat, et de inhabitantibus Iudaeam, et Ierusalem:
 
 35 et ut mitteret ad eos exercitum ad conterendam, et extirpandam virtutem Israel, et reliquias Ierusalem, et auferendam memoriam eorum de loco:
 
@@ -79,19 +79,19 @@ draft: false
 
 37 Et rex assumpsit partem exercitus residui, et exivit ab Antiochia civitate regni sui anno centesimo et quadragesimo septimo: et transfretavit Euphraten flumen, et perambulabat superiores regiones.
 
-38 Et elegit Lysias Ptolemæum filium Dorymini, et Nicanorem, et Gorgiam, viros potentes ex amicis regis:
+38 Et elegit Lysias Ptolemaeum filium Dorymini, et Nicanorem, et Gorgiam, viros potentes ex amicis regis:
 
 39 et misit cum eis quadraginta millia virorum, et septem millia equitum ut venirent in terram Iuda, et disperderent eam secundum verbum regis.
 
 40 Et processerunt cum universa virtute sua, et venerunt, et applicuerunt Emmaum in terra campestri.
 
-41 Et audierunt mercatores regionum nomen eorum: et acceperunt argentum, et aurum multum valde, et pueros: et venerunt in castra ut acciperent filios Israel in servos, et additi sunt ad eos exercitus Syriæ, et terræ alienigenarum.
+41 Et audierunt mercatores regionum nomen eorum: et acceperunt argentum, et aurum multum valde, et pueros: et venerunt in castra ut acciperent filios Israel in servos, et additi sunt ad eos exercitus Syriae, et terrae alienigenarum.
 
-42 Et vidit Iudas, et fratres eius, quia multiplicata sunt mala, et exercitus applicabant ad fines eorum: et cognoverunt verba regis, quæ mandavit populo facere in interitum, et consummationem:
+42 Et vidit Iudas, et fratres eius, quia multiplicata sunt mala, et exercitus applicabant ad fines eorum: et cognoverunt verba regis, quae mandavit populo facere in interitum, et consummationem:
 
 43 et dixerunt unusquisque ad proximum suum: Erigamus deiectionem populi nostri, et pugnemus pro populo nostro, et sanctis nostris.
 
-44 Et congregatus est conventus ut essent parati in prælium: et ut orarent, et peterent misericordiam, et miserationes.
+44 Et congregatus est conventus ut essent parati in praelium: et ut orarent, et peterent misericordiam, et miserationes.
 
 45 Et Ierusalem non habitabatur, sed erat sicut desertum: non erat qui ingrederetur et egrederetur de natis eius: et sanctum conculcabatur: et filii alienigenarum erant in arce, ibi erat habitatio Gentium: et ablata est voluptas a Iacob, et defecit ibi tibia, et cithara.
 
@@ -101,27 +101,27 @@ draft: false
 
 48 et expanderunt libros legis, de quibus scrutabantur Gentes similitudinem simulacrorum suorum:
 
-49 et attulerunt ornamenta sacerdotalia, et primitias, et decimas: et suscitaverunt Nazaræos, qui impleverant dies:
+49 et attulerunt ornamenta sacerdotalia, et primitias, et decimas: et suscitaverunt Nazaraeos, qui impleverant dies:
 
-50 et clamaverunt voce magna in cælum, dicentes: Quid faciemus istis, et quo eos ducemus?
+50 et clamaverunt voce magna in caelum, dicentes: Quid faciemus istis, et quo eos ducemus?
 
 51 et sancta tua conculcata sunt, et contaminata sunt, et sacerdotes tui facti sunt in luctum, et in humilitatem.
 
-52 et ecce Nationes convenerunt adversum nos ut nos disperdant: tu scis quæ cogitant in nos.
+52 et ecce Nationes convenerunt adversum nos ut nos disperdant: tu scis quae cogitant in nos.
 
 53 Quomodo poterimus subsistere ante faciem eorum, nisi tu Deus adiuves nos?
 
 54 Et tubis exclamaverunt voce magna.
 
-55 Et post hæc constituit Iudas duces populi, tribunos, et centuriones, et pentacontarchos, et decuriones.
+55 Et post haec constituit Iudas duces populi, tribunos, et centuriones, et pentacontarchos, et decuriones.
 
-56 Et dixit his, qui ædificabant domos, et sponsabant uxores, et plantabant vineas, et formidolosis, ut redirent unusquisque in domum suam secundum legem.
+56 Et dixit his, qui aedificabant domos, et sponsabant uxores, et plantabant vineas, et formidolosis, ut redirent unusquisque in domum suam secundum legem.
 
 57 Et moverunt castra, et collocaverunt ad Austrum Emmaum.
 
-58 Et ait Iudas: Accingimini, et estote filii potentes, et estote parati in mane, ut pugnetis adversus Nationes has, quæ convenerunt adversus nos disperdere nos, et sancta nostra:
+58 Et ait Iudas: Accingimini, et estote filii potentes, et estote parati in mane, ut pugnetis adversus Nationes has, quae convenerunt adversus nos disperdere nos, et sancta nostra:
 
-59 quoniam melius est nos mori in bello, quam videre mala gentis nostræ, et sanctorum.
+59 quoniam melius est nos mori in bello, quam videre mala gentis nostrae, et sanctorum.
 
-60 Sicut autem fuerit voluntas in cælo, sic fiat.
+60 Sicut autem fuerit voluntas in caelo, sic fiat.
 

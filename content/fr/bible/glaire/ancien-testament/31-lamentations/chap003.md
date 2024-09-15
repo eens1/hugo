@@ -71,7 +71,7 @@ Et j'ai dit : Elle a péri, ma fin, et ce que j'espérais du Seigneur.
 19 ZAIN.
 Souvenez-vous de ma pauvreté, et de l'excès commis contre moi, de l'absinthe et du fiel.
 
-***Note*** :  Lm. 3, 19 : L’excès commis contre moi ; la persécution que je souffre ; c’est le vrai sens de l’expression de la Vulgate transgressionis meæ, expliqué par le texte original, les pronoms possessifs ayant en hébreu la signification passive aussi bien que la signification active. Les Septante portent aussi, ma persécution.
+***Note*** :  Lm. 3, 19 : L’excès commis contre moi ; la persécution que je souffre ; c’est le vrai sens de l’expression de la Vulgate transgressionis meae, expliqué par le texte original, les pronoms possessifs ayant en hébreu la signification passive aussi bien que la signification active. Les Septante portent aussi, ma persécution.
 
 20 ZAIN.
 J'en conserverai toujours la mémoire, et mon âme séchera en moi de douleur.
@@ -79,7 +79,7 @@ J'en conserverai toujours la mémoire, et mon âme séchera en moi de douleur.
 ***Note*** :  Lm. 3, 20 : J’en conserverai toujours la mémoire ; littéralement et par hébraïsme, par la mémoire, je me remémorerai.
 
 21 ZAIN.
-Je repasserai ces choses dans mon cœur, c'est pourquoi j'espérerai.
+Je repasserai ces choses dans mon coeur, c'est pourquoi j'espérerai.
 
 
 22 HETH.
@@ -111,9 +111,9 @@ Il tendra la joue à celui qui le frappera, il sera rassasié d'opprobres.
 31 CAPH.
 Parce que le Seigneur ne rejettera pas toujours; 32 CAPH.
 Parce que s'il a rejeté, il aura aussi pitié selon la multitude de ses miséricordes. 33 CAPH.
-Car il n'a pas humilié d'après son cœur, il n'a pas rejeté les fils des hommes,
+Car il n'a pas humilié d'après son coeur, il n'a pas rejeté les fils des hommes,
 
-***Note*** :  Lm. 3, 33 : D’après son cœur. Ce n’est pas de son gré que Dieu châtie les hommes; il y est forcé par leurs péchés. Comparer à Ezéchiel, 18, vv. 23, 32 ; 33, 11.
+***Note*** :  Lm. 3, 33 : D’après son coeur. Ce n’est pas de son gré que Dieu châtie les hommes; il y est forcé par leurs péchés. Comparer à Ezéchiel, 18, vv. 23, 32 ; 33, 11.
 
 
 34 LAMED.
@@ -136,7 +136,7 @@ Pourquoi a murmuré l'homme vivant, l'homme, de la punition de ses péchés?
 
 40 NUN.
 Scrutons nos voies, interrogeons-les, et retournons au Seigneur. 41 NUN.
-Elevons nos cœurs avec nos mains vers le Seigneur qui est dans les cieux. 42 NUN.
+Elevons nos coeurs avec nos mains vers le Seigneur qui est dans les cieux. 42 NUN.
 Nous, nous avons iniquement agi, et au courroux nous vous avons provoqué, c'est pour cela que vous êtes inexorable.
 
 
@@ -153,15 +153,15 @@ Tous nos ennemis ont ouvert la bouche contre nous.
 
 47 PHÉ.
 La prophétie nous est devenue effroi, lacs et ruine. 48 PHÉ.
-Mon œil a fait couler des courants d'eaux sur la ruine de la fille de mon peuple.
+Mon oeil a fait couler des courants d'eaux sur la ruine de la fille de mon peuple.
 
 
 49 AIN.
-Mon œil s'est affligé, et ne s'est pas tu, de ce qu'il n'y avait point de repos, 50 AIN.
+Mon oeil s'est affligé, et ne s'est pas tu, de ce qu'il n'y avait point de repos, 50 AIN.
 Jusqu'à ce que le Seigneur regardât et vît des cieux. 51 AIN.
-Mon œil a tourmenté mon âme à cause de toutes les filles de ma ville.
+Mon oeil a tourmenté mon âme à cause de toutes les filles de ma ville.
 
-***Note*** :  Lm. 3, 51 : A tourmenté ; maltraité ; sens qui paraît être celui de l’hébreu, et auquel peut être ramené le deprædatus est de la Vulgate. ― Les filles de ma ville ; c’est-à-dire les vierges de Jérusalem (voir Lamentations de Jérémie, 1, vv. 4, 18 ; 2, vv. 10, 21), ou bien les villes de Juda dont Jérusalem était comme la mère.
+***Note*** :  Lm. 3, 51 : A tourmenté ; maltraité ; sens qui paraît être celui de l’hébreu, et auquel peut être ramené le depraedatus est de la Vulgate. ― Les filles de ma ville ; c’est-à-dire les vierges de Jérusalem (voir Lamentations de Jérémie, 1, vv. 4, 18 ; 2, vv. 10, 21), ou bien les villes de Juda dont Jérusalem était comme la mère.
 
 
 52 SADÉ.
@@ -193,7 +193,7 @@ Quand ils sont assis, et quand ils se lèvent, voyez, je suis l'objet de leurs c
 
 
 64 THAU.
-Vous leur rendrez la pareille, Seigneur, selon les œuvres de leurs mains. 65 THAU.
-Vous leur mettrez comme un bouclier sur le cœur, la peine dont vous les accablerez. 66 THAU.
+Vous leur rendrez la pareille, Seigneur, selon les oeuvres de leurs mains. 65 THAU.
+Vous leur mettrez comme un bouclier sur le coeur, la peine dont vous les accablerez. 66 THAU.
 Vous les poursuivrez dans votre fureur, et vous les briserez sous le ciel. Seigneur.
 

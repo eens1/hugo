@@ -7,23 +7,23 @@ draft: false
 
 1 Multifariam, multisque modis olim Deus loquens patribus in Prophetis:
 
-2 novissime, diebus istis locutus est nobis in Filio, quem constituit heredem universorum, per quem fecit et sæcula:
+2 novissime, diebus istis locutus est nobis in Filio, quem constituit heredem universorum, per quem fecit et saecula:
 
-3 qui cum sit splendor gloriæ, et figura substantiæ eius, portansque omnia verbo virtutis suæ, purgationem peccatorum faciens, sedet ad dexteram maiestatis in excelsis:
+3 qui cum sit splendor gloriae, et figura substantiae eius, portansque omnia verbo virtutis suae, purgationem peccatorum faciens, sedet ad dexteram maiestatis in excelsis:
 
-4 tanto melior Angelis effectus, quanto differentius præ illis nomen hereditavit.
+4 tanto melior Angelis effectus, quanto differentius prae illis nomen hereditavit.
 
 5 Cui enim dixit aliquando Angelorum: Filius meus es tu, ego hodie genui te? Et rursum: Ego ero illi in patrem, et ipse erit mihi in filium?
 
-6 Et cum iterum introducit primogenitum in orbem terræ, dicit: Et adorent eum omnes Angeli Dei.
+6 Et cum iterum introducit primogenitum in orbem terrae, dicit: Et adorent eum omnes Angeli Dei.
 
 7 Et ad Angelos quidem dicit: Qui facit Angelos suos spiritus, et ministros suos flammam ignis.
 
-8 Ad filium autem: Thronus tuus Deus in sæculum sæculi: virga æquitatis, virga regni tui.
+8 Ad filium autem: Thronus tuus Deus in saeculum saeculi: virga aequitatis, virga regni tui.
 
-9 Dilexisti iustitiam, et odisti iniquitatem: propterea unxit te Deus, Deus tuus oleo exultationis præ participibus tuis.
+9 Dilexisti iustitiam, et odisti iniquitatem: propterea unxit te Deus, Deus tuus oleo exultationis prae participibus tuis.
 
-10 Et: Tu in principio Domine terram fundasti: et opera manuum tuarum sunt cæli.
+10 Et: Tu in principio Domine terram fundasti: et opera manuum tuarum sunt caeli.
 
 11 Ipsi peribunt, tu autem permanebis, et omnes ut vestimentum veterascent:
 

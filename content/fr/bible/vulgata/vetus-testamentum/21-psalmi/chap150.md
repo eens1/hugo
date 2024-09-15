@@ -9,7 +9,7 @@ draft: false
 
 2 Laudate eum in virtutibus eius: laudate eum secundum multitudinem magnitudinis eius.
 
-3 Laudate eum in sono tubæ: laudate eum in psalterio, et cithara.
+3 Laudate eum in sono tubae: laudate eum in psalterio, et cithara.
 
 4 Laudate eum in tympano, et choro: laudate eum in chordis, et organo.
 

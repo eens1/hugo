@@ -43,7 +43,7 @@ summary: |
 
 19 Celui qui cherche la loi de Dieu en sera rempli, et celui qui agit insidieusement, trouvera une pierre d'achoppement en elle. 20 Ceux qui craignent le Seigneur trouveront un jugement juste, et ils allumeront leurs justices comme une lumière.
 
-***Note*** :  Sir. 32, 20 : Trouveront, etc. ; c’est-à-dire ils obtiendront du Seigneur. ― Ils allumeront, etc. Comme la loi du Seigneur est une lumière qui éclaire leurs pas (voir Psaumes, 118, 105), ils allumeront, c’est-à-dire ils feront luire, briller leurs œuvres de justice, leurs bonnes œuvres devant les hommes, pour leur édification (voir Matthieu, 5, 16).
+***Note*** :  Sir. 32, 20 : Trouveront, etc. ; c’est-à-dire ils obtiendront du Seigneur. ― Ils allumeront, etc. Comme la loi du Seigneur est une lumière qui éclaire leurs pas (voir Psaumes, 118, 105), ils allumeront, c’est-à-dire ils feront luire, briller leurs oeuvres de justice, leurs bonnes oeuvres devant les hommes, pour leur édification (voir Matthieu, 5, 16).
 
 21 L'homme pécheur évitera la réprimande, et selon son désir il trouvera un sujet de comparaison ;
 
@@ -58,5 +58,5 @@ summary: |
 
 ***Note*** :  Sir. 32, 23 : Par lui seul ; littéralement avec lui. Le latin cum eo, est ici par un idiotisme commun surtout à l’Ecclésiastique et à la Sagesse pour secum. D’autres cependant rapportent le pronom eo à timorem du verset précédent ; en sorte que le sens serait : Même après qu’il aura agi avec crainte.
 
-24 Mon fils, sans conseil ne fais rien, et après l'action tu ne te repentiras pas. 25 Ne va pas dans une voie de ruine, et tu ne te heurteras pas contre les pierres ; et ne t'engage pas dans une voie pénible, de peur de mettre devant ton âme une pierre d'achoppement. 26 Et garde-toi de tes fils, et fais attention aux personnes de ta maison. 27 Dans toutes tes œuvres, écoute fidèlement ton âme ; car c'est garder les commandements. 28 Celui qui croit en Dieu, est attentif aux commandements; et celui qui se confie en lui ne sera point affaibli.
+24 Mon fils, sans conseil ne fais rien, et après l'action tu ne te repentiras pas. 25 Ne va pas dans une voie de ruine, et tu ne te heurteras pas contre les pierres ; et ne t'engage pas dans une voie pénible, de peur de mettre devant ton âme une pierre d'achoppement. 26 Et garde-toi de tes fils, et fais attention aux personnes de ta maison. 27 Dans toutes tes oeuvres, écoute fidèlement ton âme ; car c'est garder les commandements. 28 Celui qui croit en Dieu, est attentif aux commandements; et celui qui se confie en lui ne sera point affaibli.
 

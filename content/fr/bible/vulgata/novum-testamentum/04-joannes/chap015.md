@@ -23,21 +23,21 @@ draft: false
 
 9 Sicut dilexit me Pater, et ego dilexi vos. Manete in dilectione mea.
 
-10 Si præcepta mea servaveritis, manebitis in dilectione mea, sicut et ego Patris mei præcepta servavi, et maneo in eius dilectione.
+10 Si praecepta mea servaveritis, manebitis in dilectione mea, sicut et ego Patris mei praecepta servavi, et maneo in eius dilectione.
 
-11 Hæc locutus sum vobis: ut gaudium meum in vobis sit, et gaudium vestrum impleatur.
+11 Haec locutus sum vobis: ut gaudium meum in vobis sit, et gaudium vestrum impleatur.
 
-12 Hoc est præceptum meum ut diligatis invicem, sicut dilexi vos.
+12 Hoc est praeceptum meum ut diligatis invicem, sicut dilexi vos.
 
 13 Maiorem hac dilectionem nemo habet, ut animam suam ponat qui pro amicis suis.
 
-14 Vos amici mei estis, si feceritis quæ ego præcipio vobis.
+14 Vos amici mei estis, si feceritis quae ego praecipio vobis.
 
-15 Iam non dicam vos servos: quia servus nescit quid faciat dominus eius. Vos autem dixi amicos: quia omnia quæcumque audivi a Patre meo, nota feci vobis.
+15 Iam non dicam vos servos: quia servus nescit quid faciat dominus eius. Vos autem dixi amicos: quia omnia quaecumque audivi a Patre meo, nota feci vobis.
 
 16 Non vos me elegistis: sed ego elegi vos, et posui vos ut eatis, et fructum afferatis: et fructus vester maneat: ut quodcumque petieritis Patrem in nomine meo, det vobis.
 
-17 Hæc mando vobis, ut diligatis invicem.
+17 Haec mando vobis, ut diligatis invicem.
 
 18 Si mundus vos odit: scitote quia me priorem vobis odio habuit.
 
@@ -45,13 +45,13 @@ draft: false
 
 20 Mementote sermonis mei, quem ego dixi vobis: non est servus maior domino suo. Si me persecuti sunt, et vos persequentur: si sermonem meum servaverunt, et vestrum servabunt.
 
-21 Sed hæc omnia facient vobis propter nomen meum: quia nesciunt eum, qui misit me.
+21 Sed haec omnia facient vobis propter nomen meum: quia nesciunt eum, qui misit me.
 
 22 Si non venissem, et locutus fuissem eis, peccatum non haberent: nunc autem excusationem non habent de peccato suo.
 
 23 Qui me odit: et Patrem meum odit.
 
-24 Si opera non fecissem in eis, quæ nemo alius fecit, peccatum non haberent: nunc autem et viderunt, et oderunt et me, et Patrem meum.
+24 Si opera non fecissem in eis, quae nemo alius fecit, peccatum non haberent: nunc autem et viderunt, et oderunt et me, et Patrem meum.
 
 25 Sed ut adimpleatur sermo, qui in lege eorum scriptus est: Quia odio habuerunt me gratis.
 

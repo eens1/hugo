@@ -4,13 +4,13 @@ date: 2024-09-06T20:00:39+02:00
 draft: false
 summary: |
   
-  David, pressé par ses ennemis, invoque le secours du Seigneur avec un cœur plein de confiance en sa bonté.
+  David, pressé par ses ennemis, invoque le secours du Seigneur avec un coeur plein de confiance en sa bonté.
 ---
 
 
 1 Pour la fin dans les cantiques, intelligence à David.
 
-***Note*** :  Ps. 53, 1 : Intelligence de David. Voir le titre du Psaume 51 (Hébreu : 52). ― Le titre hébreu porte : « Au chef de chœur. Avec accompagnement d’instruments cordes (Neginôth). Poème didactique (Maskîl). »
+***Note*** :  Ps. 53, 1 : Intelligence de David. Voir le titre du Psaume 51 (Hébreu : 52). ― Le titre hébreu porte : « Au chef de choeur. Avec accompagnement d’instruments cordes (Neginôth). Poème didactique (Maskîl). »
 
 2 Lorsque les habitants de Ziph furent venus et eurent dit a Saül : Est-ce que David n'est pas chez nous?
 
@@ -40,5 +40,5 @@ summary: |
 ***Note*** :  Ps. 53, 7 : Tournez les maux, etc. Ce ne sont ici ni des imprécations, ni des invectives, mais bien une sorte de prophétie de ce qui doit arriver aux méchants, ou des arrêts prononcés contre eux par l’esprit de Dieu même. Voir au milieu des Observation préliminaires, ce que nous avons dit sur ces sortes d’expressions répandues dans les psaumes.
 
 
-8 Je vous offrirai, volontairement, un sacrifice; je louerai votre nom, parce qu'il est bon. 9 Parce que vous m'avez retiré de toute tribulation, et que sur mes ennemis, mon œil a jeté un regard de mépris.
+8 Je vous offrirai, volontairement, un sacrifice; je louerai votre nom, parce qu'il est bon. 9 Parce que vous m'avez retiré de toute tribulation, et que sur mes ennemis, mon oeil a jeté un regard de mépris.
 

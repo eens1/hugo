@@ -26,10 +26,10 @@ summary: |
 
 ***Note*** :  I Rois 1, 7 : Au temple, ou Tabernacle.
 
-8 Elcana, son mari, lui dit donc : Anne, pourquoi pleures-tu? d où vient que tu ne manges pas? et pour quel motif ton cœur est-il affligé? Est-ce que moi je ne vaux pas mieux pour toi que dix fils?
+8 Elcana, son mari, lui dit donc : Anne, pourquoi pleures-tu? d où vient que tu ne manges pas? et pour quel motif ton coeur est-il affligé? Est-ce que moi je ne vaux pas mieux pour toi que dix fils?
 
 
-9 Mais Anne se leva après qu'elle eut mangé et bu à Silo. Et, Héli, le prêtre, étant assis sur son siège devant la porte du temple du Seigneur, 10 Anne, qui avait le cœur dans l'amertume, adressa des prières au Seigneur, pleurant abondamment, 11 Et elle voua un vœu, disant: Seigneur des armées, si abaissant votre regard, vous voyez l'affliction de votre servante, si vous vous souvenez de moi ; si vous n'avez pas oublié votre servante, et que vous donniez à votre esclave un enfant mâle, je le donnerai au Seigneur pour tous les jours de sa vie, et le rasoir ne montera jamais sur sa tête. 12 Or, il arriva, que, comme elle multipliait ses prières devant le Seigneur, Héli observait sa bouche. 13 Mais Anne parlait en son cœur, ses lèvres seules étaient en mouvement, et sa voix n'était pas du tout entendue. Héli donc la jugea ivre, 14 Et il lui dit : Jusqu'à quand seras-tu ivre? Laisse reposer quelque temps le vin qui t'enivre. 15 Anne répondant : Nullement, dit-elle, mon seigneur; car je suis une femme très malheureuse;
+9 Mais Anne se leva après qu'elle eut mangé et bu à Silo. Et, Héli, le prêtre, étant assis sur son siège devant la porte du temple du Seigneur, 10 Anne, qui avait le coeur dans l'amertume, adressa des prières au Seigneur, pleurant abondamment, 11 Et elle voua un voeu, disant: Seigneur des armées, si abaissant votre regard, vous voyez l'affliction de votre servante, si vous vous souvenez de moi ; si vous n'avez pas oublié votre servante, et que vous donniez à votre esclave un enfant mâle, je le donnerai au Seigneur pour tous les jours de sa vie, et le rasoir ne montera jamais sur sa tête. 12 Or, il arriva, que, comme elle multipliait ses prières devant le Seigneur, Héli observait sa bouche. 13 Mais Anne parlait en son coeur, ses lèvres seules étaient en mouvement, et sa voix n'était pas du tout entendue. Héli donc la jugea ivre, 14 Et il lui dit : Jusqu'à quand seras-tu ivre? Laisse reposer quelque temps le vin qui t'enivre. 15 Anne répondant : Nullement, dit-elle, mon seigneur; car je suis une femme très malheureuse;
 le vin et tout ce qui peut enivrer, je n'en ai pas bu ; mais j'ai répandu mon âme en la présence du Seigneur. 16 Ne prenez pas votre servante pour une des filles de Bélial ; parce que c'est dans l'excès de ma douleur et de mon affliction que j'ai parlé jusqu'à présent.
 
 ***Note*** :  I Rois 1, 16 : Bélial. Voir Deutéronome, 13, 13.
@@ -43,7 +43,7 @@ le vin et tout ce qui peut enivrer, je n'en ai pas bu ; mais j'ai répandu mon �
 ***Note*** :  I Rois 1, 20 : Une révolution, etc. ; littéralement un cercle de jours ; c’est-à-dire, selon nous, une année. Il est incontestable que le mot jour, mis au pluriel, se prend quelquefois en hébreu pour une année.
 
 
-21 Or, Elcana, son mari, monta au temple, ainsi que toute sa maison, pour immoler au Seigneur l'hostie solennelle, et s'acquitter de son vœu ; 22 Mais Anne n'y monta point ; car elle dit à son mari : Je n'irai pas, jusqu'à ce que l'enfant soit sevré, et que je le conduise, afin qu'il paraisse en la présence du Seigneur, et qu'il y demeure perpétuellement. 23 Et Elcana, son mari, lui répondit : Fais ce qui le semble bon, et demeure jusqu'à ce que tu le sèvres ; et je prie pour que le Seigneur accomplisse sa parole. Sa femme demeura donc, et elle allaita son fils, jusqu'à ce qu'elle le sevrât.
+21 Or, Elcana, son mari, monta au temple, ainsi que toute sa maison, pour immoler au Seigneur l'hostie solennelle, et s'acquitter de son voeu ; 22 Mais Anne n'y monta point ; car elle dit à son mari : Je n'irai pas, jusqu'à ce que l'enfant soit sevré, et que je le conduise, afin qu'il paraisse en la présence du Seigneur, et qu'il y demeure perpétuellement. 23 Et Elcana, son mari, lui répondit : Fais ce qui le semble bon, et demeure jusqu'à ce que tu le sèvres ; et je prie pour que le Seigneur accomplisse sa parole. Sa femme demeura donc, et elle allaita son fils, jusqu'à ce qu'elle le sevrât.
 
 
 24 Et elle l'amena avec elle, après qu'elle l'eut sevré, en prenant trois veaux, trois boisseaux de farine et une cruche de vin; ainsi elle l'amena dans la maison du Seigneur à Silo. Or, l'enfant était encore un tout petit enfant.
@@ -56,5 +56,5 @@ le vin et tout ce qui peut enivrer, je n'en ai pas bu ; mais j'ai répandu mon �
 
 28 C'est pour cela aussi que moi je l'ai donné au Seigneur, pour tous les jours pour lesquels il aura été donné au Seigneur. Ainsi ils adorèrent là le Seigneur, et Anne pria et dit :
 
-***Note*** :  I Rois 1, 28 : Je l’ai donné au Seigneur, etc. Je viens de l’offrir au Seigneur avec le désir qu’il lui reste consacré pendant tout le temps pour lequel je le lui ai voué, pendant toute sa vie. Anne parle ainsi, parce que les enfants n’étaient pas tenus d’accomplir ces sortes de vœux faits par leurs parents.
+***Note*** :  I Rois 1, 28 : Je l’ai donné au Seigneur, etc. Je viens de l’offrir au Seigneur avec le désir qu’il lui reste consacré pendant tout le temps pour lequel je le lui ai voué, pendant toute sa vie. Anne parle ainsi, parce que les enfants n’étaient pas tenus d’accomplir ces sortes de voeux faits par leurs parents.
 

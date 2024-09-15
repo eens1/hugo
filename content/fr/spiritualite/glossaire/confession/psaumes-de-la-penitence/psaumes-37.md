@@ -22,11 +22,11 @@ summary: |
 
 8 Parce que mes reins ont été remplis d'illusions, et qu'il n'y a rien de sain dans ma chair.
 
-9 J'ai été affligé et j'ai été humilié à l'excès; je rugissais dans le frémissement de mon cœur.
+9 J'ai été affligé et j'ai été humilié à l'excès; je rugissais dans le frémissement de mon coeur.
 
 10 Seigneur, devant vous est tout mon désir, mon gémissement ne vous est pas caché.
 
-11 Mon cœur a été troublé, ma force m'a abandonné, et la lumière de mes yeux, elle-même n'est plus avec moi.
+11 Mon coeur a été troublé, ma force m'a abandonné, et la lumière de mes yeux, elle-même n'est plus avec moi.
 
 12 Mes amis et mes proches se sont approchés vis-à-vis de moi, et ils se sont arrêtés. Et ceux qui étaient près de moi s'en sont tenus éloignés :13 Et ceux qui cherchaient mon âme usaient de violence envers moi. Et ceux qui me désiraient des maux ont dit des choses vaines : et tout le jour ils méditaient des fourberies.
 

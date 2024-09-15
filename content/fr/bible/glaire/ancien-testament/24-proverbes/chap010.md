@@ -41,17 +41,17 @@ Celui qui s'appuie sur des mensonges se repaît de vents ; et celui-là même po
 7 La mémoire du juste sera accompagnée de louanges ; mais le nom des impies pourrira.
 
 
-8 Le sage de cœur accueille les préceptes, l'insensé est déchiré par les lèvres.
+8 Le sage de coeur accueille les préceptes, l'insensé est déchiré par les lèvres.
 
 ***Note*** :  Prov. 10, 8-10 : Trois sentences pour expliquer la différence entre le sage et l’insensé.
 
-***Note*** :  Prov. 10, 8 : L’insensé, etc. ; c’est la traduction littérale de la Vulgate : Stultus cæditur labiis ; l’hébreu porte : Un insensé de lèvres tombera précipitamment. Or un insensé de lèvres est un homme qui parle d’une manière inconsidérée et imprudente. Ajoutons qu’au verset 10, la Vulgate a rendu la même phrase hébraïque par : Un insensé de lèvres ou par lèvres, sera frappé (stultus labiis verberabitur).
+***Note*** :  Prov. 10, 8 : L’insensé, etc. ; c’est la traduction littérale de la Vulgate : Stultus caeditur labiis ; l’hébreu porte : Un insensé de lèvres tombera précipitamment. Or un insensé de lèvres est un homme qui parle d’une manière inconsidérée et imprudente. Ajoutons qu’au verset 10, la Vulgate a rendu la même phrase hébraïque par : Un insensé de lèvres ou par lèvres, sera frappé (stultus labiis verberabitur).
 
 
 9 Celui qui marche simplement marche sûrement; mais celui qui déprave ses voies sera découvert.
 
 
-10 Celui qui fait signe de l'œil eau sera de la douleur ; et l'insensé de lèvres sera frappé.
+10 Celui qui fait signe de l'oeil eau sera de la douleur ; et l'insensé de lèvres sera frappé.
 
 ***Note*** :  Prov. 10, 10 : Voir Ecclésiastique, 27, 25. ― Qui fait signe, etc. Voir Proverbes, 6, 13. ― Un insensé, etc. , voir le verset 8.
 
@@ -68,9 +68,9 @@ Celui qui s'appuie sur des mensonges se repaît de vents ; et celui-là même po
 ***Note*** :  Prov. 10, 12 : Voir 1 Corinthiens, 13, 4 ; 1 Pierre, 4, 8.
 
 
-13 Sur les lèvres du sage se trouve la sagesse; et une verge sur le dos de celui qui manque de cœur.
+13 Sur les lèvres du sage se trouve la sagesse; et une verge sur le dos de celui qui manque de coeur.
 
-***Note*** :  Prov. 10, 13 : Qui manque de cœur. Voir Proverbes, 7, 7.
+***Note*** :  Prov. 10, 13 : Qui manque de coeur. Voir Proverbes, 7, 7.
 
 
 14 Les sages cachent la science ; mais la bouche de l'insensé est proche de la confusion.
@@ -83,7 +83,7 @@ Celui qui s'appuie sur des mensonges se repaît de vents ; et celui-là même po
 ***Note*** :  Prov. 10, 15 : Ville forte ; littéralement et par hébraïsme, ville de force.
 
 
-16 L'œuvre du juste conduit à la vie ; mais le fruit de l'impie, au péché.
+16 L'oeuvre du juste conduit à la vie ; mais le fruit de l'impie, au péché.
 
 
 17 La voie de la vie est à celui qui garde la discipline ; mais celui qui néglige les réprimandes s'égare.
@@ -97,13 +97,13 @@ Celui qui s'appuie sur des mensonges se repaît de vents ; et celui-là même po
 19 Dans une multitude de paroles il n'y aura pas manque de péché ; mais celui qui modère ses lèvres est très prudent.
 
 
-20 C'est un argent excellent que les lèvres du juste, mais le cœur des impies est de nul prix.
+20 C'est un argent excellent que les lèvres du juste, mais le coeur des impies est de nul prix.
 
 ***Note*** :  Prov. 10, 20 : L’argent excellent ; le meilleur ; littéralement choisi (electum).
 
-21 Les lèvres du juste instruisent un grand nombre d'hommes; mais ceux qui ne sont pas instruits, mourront par un manque de cœur.
+21 Les lèvres du juste instruisent un grand nombre d'hommes; mais ceux qui ne sont pas instruits, mourront par un manque de coeur.
 
-***Note*** :  Prov. 10, 21 : Par un manque de cœur ; c’est-à-dire par un manque d’intelligence, de sagesse. Comparer à Proverbes, 7, 7.
+***Note*** :  Prov. 10, 21 : Par un manque de coeur ; c’est-à-dire par un manque d’intelligence, de sagesse. Comparer à Proverbes, 7, 7.
 
 
 22 La bénédiction du Seigneur fait les riches, et l'affliction ne s'alliera pas à eux.

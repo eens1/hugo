@@ -11,7 +11,7 @@ draft: false
 
 3 qui egressus de castris, cum invenerit lepram esse mundatam,
 
-4 præcipiet ei, qui purificatur, ut offerat duos passeres vivos pro se, quibus vesci licitum est, et lignum cedrinum, vermiculumque et hyssopum.
+4 praecipiet ei, qui purificatur, ut offerat duos passeres vivos pro se, quibus vesci licitum est, et lignum cedrinum, vermiculumque et hyssopum.
 
 5 et unum ex passeribus immolari iubebit in vase fictili super aquas viventes:
 
@@ -23,21 +23,21 @@ draft: false
 
 9 et die septimo radet capillos capitis, barbamque et supercilia, ac totius corporis pilos. Et lotis rursum vestibus et corpore,
 
-10 die octavo assumet duos agnos immaculatos, et ovem anniculam absque macula, et tres decimas similæ in sacrificium, quæ conspersa sit oleo, et seorsum olei sextarium.
+10 die octavo assumet duos agnos immaculatos, et ovem anniculam absque macula, et tres decimas similae in sacrificium, quae conspersa sit oleo, et seorsum olei sextarium.
 
-11 Cumque sacerdos purificans hominem, statuerit eum, et hæc omnia coram Domino in ostio tabernaculi testimonii,
+11 Cumque sacerdos purificans hominem, statuerit eum, et haec omnia coram Domino in ostio tabernaculi testimonii,
 
 12 tollet agnum, et offeret eum pro delicto, oleique sextarium. et oblatis ante Dominum omnibus,
 
 13 immolabit agnum, ubi solet immolari hostia pro peccato, et holocaustum, id est, in loco sancto. Sicut enim pro peccato, ita et pro delicto ad sacerdotem pertinet hostia: Sancta sanctorum est.
 
-14 Assumensque sacerdos de sanguine hostiæ, quæ immolata est pro delicto, ponet super extremum auriculæ dextræ eius qui mundatur, et super pollices manus dextræ et pedis:
+14 Assumensque sacerdos de sanguine hostiae, quae immolata est pro delicto, ponet super extremum auriculae dextrae eius qui mundatur, et super pollices manus dextrae et pedis:
 
 15 et de olei sextario mittet in manum suam sinistram,
 
 16 tingetque digitum dextrum in eo, et asperget coram Domino septies.
 
-17 quod autem reliquum est olei in læva manu, fundet super extremum auriculæ dextræ eius qui mundatur, et super pollices manus ac pedis dextri, et super sanguinem qui effusus est pro delicto,
+17 quod autem reliquum est olei in laeva manu, fundet super extremum auriculae dextrae eius qui mundatur, et super pollices manus ac pedis dextri, et super sanguinem qui effusus est pro delicto,
 
 18 et super caput eius.
 
@@ -45,25 +45,25 @@ draft: false
 
 20 et ponet illud in altari cum libamentis suis, et homo rite mundabitur.
 
-21 Quod si pauper est, et non potest manus eius invenire quæ dicta sunt, pro delicto assumet agnum ad oblationem, ut roget pro eo sacerdos, decimamque partem similæ conspersæ oleo in sacrificium, et olei sextarium,
+21 Quod si pauper est, et non potest manus eius invenire quae dicta sunt, pro delicto assumet agnum ad oblationem, ut roget pro eo sacerdos, decimamque partem similae conspersae oleo in sacrificium, et olei sextarium,
 
-22 duosque turtures sive duos pullos columbæ, quorum unus sit pro peccato, et alter in holocaustum:
+22 duosque turtures sive duos pullos columbae, quorum unus sit pro peccato, et alter in holocaustum:
 
-23 offeretque ea die octavo purificationis suæ sacerdoti, ad ostium tabernaculi testimonii coram Domino.
+23 offeretque ea die octavo purificationis suae sacerdoti, ad ostium tabernaculi testimonii coram Domino.
 
 24 qui suscipiens agnum pro delicto et sextarium olei, levabit simul:
 
-25 immolatoque agno, de sanguine eius ponet super extremum auriculæ dextræ illius qui mundatur, et super pollices manus eius ac pedis dextri:
+25 immolatoque agno, de sanguine eius ponet super extremum auriculae dextrae illius qui mundatur, et super pollices manus eius ac pedis dextri:
 
 26 olei vero partem mittet in manum suam sinistram,
 
-27 in quo tingens digitum dextræ manus asperget septies coram Domino:
+27 in quo tingens digitum dextrae manus asperget septies coram Domino:
 
-28 tangetque extremum dextræ auriculæ illius qui mundatur, et pollices manus ac pedis dextri in loco sanguinis qui effusus est pro delicto:
+28 tangetque extremum dextrae auriculae illius qui mundatur, et pollices manus ac pedis dextri in loco sanguinis qui effusus est pro delicto:
 
-29 reliquam autem partem olei, quæ est in sinistra manu, mittet super caput purificati, ut placet pro eo Dominum:
+29 reliquam autem partem olei, quae est in sinistra manu, mittet super caput purificati, ut placet pro eo Dominum:
 
-30 et turturem sive pullum columbæ offeret,
+30 et turturem sive pullum columbae offeret,
 
 31 unum pro delicto, et alterum in holocaustum cum libamentis suis.
 
@@ -71,11 +71,11 @@ draft: false
 
 33 Locutusque est Dominus ad Moysen et Aaron, dicens:
 
-34 Cum ingressi fueritis Terram Chanaan, quam ego dabo vobis in possessionem, si fuerit plaga lepræ in ædibus,
+34 Cum ingressi fueritis Terram Chanaan, quam ego dabo vobis in possessionem, si fuerit plaga leprae in aedibus,
 
-35 ibit cuius est domus, nuncians sacerdoti, et dicet: Quasi plaga lepræ videtur mihi esse in domo mea.
+35 ibit cuius est domus, nuncians sacerdoti, et dicet: Quasi plaga leprae videtur mihi esse in domo mea.
 
-36 At ille præcipiet ut efferant universa de domo, priusquam ingrediatur eam, et videat utrum leprosa sit, ne immunda fiant omnia quæ in domo sunt. Intrabitque postea ut consideret lepram domus:
+36 At ille praecipiet ut efferant universa de domo, priusquam ingrediatur eam, et videat utrum leprosa sit, ne immunda fiant omnia quae in domo sunt. Intrabitque postea ut consideret lepram domus:
 
 37 et cum viderit in parietibus illius quasi valliculas pallore sive rubore deformes, et humiliores superficie reliqua,
 
@@ -85,7 +85,7 @@ draft: false
 
 40 iubebit erui lapides in quibus lepra est, et proiici eos extra civitatem in locum immundum:
 
-41 domum autem ipsam radi intrinsecus per circuitum, et spargi pulverem rasuræ extra urbem in locum immundum,
+41 domum autem ipsam radi intrinsecus per circuitum, et spargi pulverem rasurae extra urbem in locum immundum,
 
 42 lapidesque alios reponi pro his qui ablati fuerint, et luto alio liniri domum.
 
@@ -111,11 +111,11 @@ draft: false
 
 53 Cumque dimiserit passerem avolare in agrum libere, orabit pro domo, et iure mundabitur.
 
-54 Ista est lex omnis lepræ et percussuræ,
+54 Ista est lex omnis leprae et percussurae,
 
-55 lepræ vestium et domorum,
+55 leprae vestium et domorum,
 
-56 cicatricis et erumpentium papularum, lucentis maculæ, et in varias species, coloribus immutatis,
+56 cicatricis et erumpentium papularum, lucentis maculae, et in varias species, coloribus immutatis,
 
 57 ut possit sciri quo tempore mundum quid, vel immundum sit.
 

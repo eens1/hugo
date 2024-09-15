@@ -13,9 +13,9 @@ draft: false
 
 4 Et scietis quia misi ad vos mandatum istud, ut esset pactum meum cum Levi, dicit Dominus exercituum.
 
-5 Pactum meum fuit cum eo vitæ et pacis: et dedi ei timorem, et timuit me, et a facie nominis mei pavebat.
+5 Pactum meum fuit cum eo vitae et pacis: et dedi ei timorem, et timuit me, et a facie nominis mei pavebat.
 
-6 Lex veritatis fuit in ore eius, et iniquitas non est inventa in labiis eius: in pace, et in æquitate ambulavit mecum, et multos avertit ab iniquitate.
+6 Lex veritatis fuit in ore eius, et iniquitas non est inventa in labiis eius: in pace, et in aequitate ambulavit mecum, et multos avertit ab iniquitate.
 
 7 Labia enim sacerdotis custodient scientiam, et legem requirent ex ore eius: quia angelus Domini exercituum est.
 
@@ -31,9 +31,9 @@ draft: false
 
 13 Et hoc rursum fecistis, operiebatis lacrymis altare Domini, fletu, et mugitu, ita ut non respiciam ultra ad sacrificium, nec accipiam placabile quid de manu vestra.
 
-14 Et dixistis: Quam ob causam? quia Dominus testificatus est inter te, et uxorem pubertatis tuæ, quam tu despexisti: et hæc particeps tua, et uxor fœderis tui.
+14 Et dixistis: Quam ob causam? quia Dominus testificatus est inter te, et uxorem pubertatis tuae, quam tu despexisti: et haec particeps tua, et uxor foederis tui.
 
-15 Nonne unus fecit, et residuum spiritus eius est? Et quid unus quærit, nisi semen Dei? Custodite ergo spiritum vestrum, et uxorem adolescentiæ tuæ noli despicere.
+15 Nonne unus fecit, et residuum spiritus eius est? Et quid unus quaerit, nisi semen Dei? Custodite ergo spiritum vestrum, et uxorem adolescentiae tuae noli despicere.
 
 16 Cum odio habueris, dimitte, dicit Dominus Deus Israel: operiet autem iniquitas vestimentum eius, dicit Dominus exercituum: custodite spiritum vestrum, et nolite despicere.
 

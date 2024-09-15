@@ -10,7 +10,7 @@ summary: |
 ---
 
 
-1 Le Seigneur parla encore à Moïse, disant :2 Voici, j'ai appelé nommément Béséléel, fils d'Uri, fils de Hur de la tribu de Juda, 3 Et je l'ai rempli de l'esprit de Dieu, de sagesse, d'intelligence et de science pour toute sorte d'ouvrage, 4 Pour inventer tout ce qui peut se faire par l'art avec l'or, l'argent et l'airain, 5 Avec du marbre, des pierres précieuses et divers bois. 6 Et je lui ai donné pour compagnon Ooliab, fils d'Achisamech de la tribu de Dan. Et dans le cœur de tout ouvrier habile j'ai mis de la sagesse, afin qu'ils fassent tout ce que je t'ai ordonné :7 Le tabernacle d'alliance, l'arche de témoignage, le propitiatoire qui est dessus, et tous les vases du tabernacle;
+1 Le Seigneur parla encore à Moïse, disant :2 Voici, j'ai appelé nommément Béséléel, fils d'Uri, fils de Hur de la tribu de Juda, 3 Et je l'ai rempli de l'esprit de Dieu, de sagesse, d'intelligence et de science pour toute sorte d'ouvrage, 4 Pour inventer tout ce qui peut se faire par l'art avec l'or, l'argent et l'airain, 5 Avec du marbre, des pierres précieuses et divers bois. 6 Et je lui ai donné pour compagnon Ooliab, fils d'Achisamech de la tribu de Dan. Et dans le coeur de tout ouvrier habile j'ai mis de la sagesse, afin qu'ils fassent tout ce que je t'ai ordonné :7 Le tabernacle d'alliance, l'arche de témoignage, le propitiatoire qui est dessus, et tous les vases du tabernacle;
 
 ***Note*** :  Ex. 31, 7 : Comme on l’a déjà remarqué, les Hébreux exprimaient par le mot vase tout ce qui se rattache à une chose, tout ce qui sert à son usage, etc.
 
@@ -21,7 +21,7 @@ summary: |
 
 ***Note*** :  Ex. 31, 13 : Voir Exode, 20, 8 ; Ezéchiel, 20, 12. ― Mon sabbat, le repos du samedi et toutes les prescriptions concernant ce jour, consacré à honorer le repos de Dieu après la création.
 
-14 Gardez mon sabbat, car il est saint pour vous : celui qui le profanera mourra de mort ; celui qui travaillera en ce jour-là, son âme périra du milieu de son peuple. 15 Pendant six jours vous travaillerez, au septième jour c'est un sabbat, repos saint pour le Seigneur, quiconque travaillera en ce jour-là, mourra. 16 Que les enfants d'Israël gardent le sabbat, et qu'ils le célèbrent en leurs générations. C'est un pacte éternel17 Entre moi et les enfants d'Israël et un signe perpétuel; car c'est en six jours que le Seigneur a fait le ciel et la terre, et au septième il a cessé son œuvre.
+14 Gardez mon sabbat, car il est saint pour vous : celui qui le profanera mourra de mort ; celui qui travaillera en ce jour-là, son âme périra du milieu de son peuple. 15 Pendant six jours vous travaillerez, au septième jour c'est un sabbat, repos saint pour le Seigneur, quiconque travaillera en ce jour-là, mourra. 16 Que les enfants d'Israël gardent le sabbat, et qu'ils le célèbrent en leurs générations. C'est un pacte éternel17 Entre moi et les enfants d'Israël et un signe perpétuel; car c'est en six jours que le Seigneur a fait le ciel et la terre, et au septième il a cessé son oeuvre.
 
 ***Note*** :  Ex. 31, 17 : Voir Genèse, 2, 2.
 

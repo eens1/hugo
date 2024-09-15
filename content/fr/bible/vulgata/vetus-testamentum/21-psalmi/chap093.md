@@ -25,7 +25,7 @@ draft: false
 
 10 Qui corripit gentes, non arguet: qui docet hominem scientiam?
 
-11 Dominus scit cogitationes hominum, quoniam vanæ sunt.
+11 Dominus scit cogitationes hominum, quoniam vanae sunt.
 
 12 Beatus homo, quem tu erudieris Domine: et de lege tua docueris eum.
 
@@ -41,13 +41,13 @@ draft: false
 
 18 Si dicebam: Motus est pes meus: misericordia tua Domine adiuvabat me.
 
-19 Secundum multitudinem dolorum meorum in corde meo: consolationes tuæ lætificaverunt animam meam.
+19 Secundum multitudinem dolorum meorum in corde meo: consolationes tuae laetificaverunt animam meam.
 
-20 Numquid adhæret tibi sedes iniquitatis: qui fingis laborem in præcepto?
+20 Numquid adhaeret tibi sedes iniquitatis: qui fingis laborem in praecepto?
 
 21 Captabunt in animam iusti: et sanguinem innocentem condemnabunt.
 
-22 Et factus est mihi Dominus in refugium: et Deus meus in adiutorium spei meæ.
+22 Et factus est mihi Dominus in refugium: et Deus meus in adiutorium spei meae.
 
 23 Et reddet illis iniquitatem ipsorum: et in malitia eorum disperdet eos: disperdet illos Dominus Deus noster.
 

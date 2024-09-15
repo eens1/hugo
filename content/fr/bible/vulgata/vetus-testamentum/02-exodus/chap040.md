@@ -11,7 +11,7 @@ draft: false
 
 3 et pones in eo arcam, dimittesque ante illam velum:
 
-4 et illata mensa, pones super eam quæ rite præcepta sunt. Candelabrum stabit cum lucernis suis,
+4 et illata mensa, pones super eam quae rite praecepta sunt. Candelabrum stabit cum lucernis suis,
 
 5 et altare aureum in quo adoletur incensum, coram arca testimonii. Tentorium in introitu tabernaculi pones,
 
@@ -31,7 +31,7 @@ draft: false
 
 13 indues sanctis vestibus, ut ministrent mihi, et unctio eorum in sacerdotium sempiternum proficiat.
 
-14 Fecitque Moyses omnia quæ præceperat Dominus.
+14 Fecitque Moyses omnia quae praeceperat Dominus.
 
 15 Igitur mense primo anni secundi, prima die mensis, collocatum est tabernaculum.
 
@@ -45,11 +45,11 @@ draft: false
 
 20 Posuit et mensam in tabernaculo testimonii ad plagam Septentrionalem extra velum,
 
-21 ordinatis coram propositionis panibus, sicut præceperat Dominus Moysi.
+21 ordinatis coram propositionis panibus, sicut praeceperat Dominus Moysi.
 
-22 Posuit et candelabrum in tabernaculo testimonii e regione mensæ in parte australi,
+22 Posuit et candelabrum in tabernaculo testimonii e regione mensae in parte australi,
 
-23 locatis per ordinem lucernis, iuxta præceptum Domini.
+23 locatis per ordinem lucernis, iuxta praeceptum Domini.
 
 24 Posuit et altare aureum sub tecto testimonii contra velum,
 
@@ -63,13 +63,13 @@ draft: false
 
 29 Laveruntque Moyses et Aaron, ac filii eius manus suas et pedes,
 
-30 cum ingrederentur tectum fœderis, et accederent ad altare, sicut præceperat Dominus Moysi.
+30 cum ingrederentur tectum foederis, et accederent ad altare, sicut praeceperat Dominus Moysi.
 
 31 Erexit et atrium per gyrum tabernaculi et altaris, ducto in introitu eius tentorio. Postquam omnia perfecta sunt,
 
 32 operuit nubes tabernaculum testimonii, et gloria Domini implevit illud.
 
-33 Nec poterat Moyses ingredi tectum fœderis, nube operiente omnia, et maiestate Domini coruscante, quia cuncta nubes operuerat.
+33 Nec poterat Moyses ingredi tectum foederis, nube operiente omnia, et maiestate Domini coruscante, quia cuncta nubes operuerat.
 
 34 Si quando nubes tabernaculum deserebat, proficiscebantur filii Israel per turmas suas:
 

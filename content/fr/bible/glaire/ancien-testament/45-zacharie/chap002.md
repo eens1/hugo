@@ -41,7 +41,7 @@ summary: |
 
 ***Note*** :  Zach. 2, 7 : Fille de Babylone. Les orientaux appellent filles, les capitales, et les autres villes d’un pays.
 
-8 Parce que voici ce que dit le Seigneur des armées : Après la gloire établie au milieu de vous, il m'a envoyé vers les nations qui vous ont dépouillés ; car celui qui vous touche, touche la prunelle de mon œil.
+8 Parce que voici ce que dit le Seigneur des armées : Après la gloire établie au milieu de vous, il m'a envoyé vers les nations qui vous ont dépouillés ; car celui qui vous touche, touche la prunelle de mon oeil.
 
 ***Note*** :  Zach. 2, 8 : Voici ce que dit, etc. , semble annoncer que c’est Dieu même qui va parler ; mais la suite prouve que celui qui parle est l’envoyé de Dieu. Saint Jérôme en conclut que c’est Jésus-Christ qui parle de la bouche de cet ange, comme étant en même temps et l’envoyé de Dieu et Dieu lui-même, égal à Dieu son Père. Vox Salvatoris inducitur. ― Après la gloire (post gloriam). Cette expression, évidemment elliptique, semble faire allusion à ces mots du verset 5 : Je serai dans la gloire au milieu d’elle. Nous avons donc cru qu’on ne pouvait mieux restituer l’ellipse qu’en ajoutant par forme de paraphrase : Etablie au milieu de vous.
 

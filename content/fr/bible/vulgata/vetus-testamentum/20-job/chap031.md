@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Pepigi fœdus cum oculis meis ut ne cogitarem quidem de virgine.
+1 Pepigi foedus cum oculis meis ut ne cogitarem quidem de virgine.
 
 2 Quam enim partem haberet in me Deus desuper, et hereditatem Omnipotens de excelsis?
 
@@ -17,7 +17,7 @@ draft: false
 
 6 Appendat me in statera iusta, et sciat Deus simplicitatem meam.
 
-7 Si declinavit gressus meus de via, et si secutum est oculos meos cor meum, et si manibus meis adhæsit macula:
+7 Si declinavit gressus meus de via, et si secutum est oculos meos cor meum, et si manibus meis adhaesit macula:
 
 8 Seram, et alium comedat: et progenies mea eradicetur.
 
@@ -31,15 +31,15 @@ draft: false
 
 13 Si contempsi subire iudicium cum servo meo, et ancilla mea, cum disceptarent adversum me.
 
-14 Quid enim faciam cum surrexerit ad iudicandum Deus? et cum quæsierit, quid respondebo illi?
+14 Quid enim faciam cum surrexerit ad iudicandum Deus? et cum quaesierit, quid respondebo illi?
 
 15 Numquid non in utero fecit me qui et illum operatus est: et formavit me in vulva unus?
 
-16 Si negavi, quod volebant, pauperibus, et oculos viduæ expectare feci:
+16 Si negavi, quod volebant, pauperibus, et oculos viduae expectare feci:
 
 17 Si comedi buccellam meam solus, et non comedit pupillus ex ea:
 
-18 (Quia ab infantia mea crevit mecum miseratio: et de utero matris meæ egressa est mecum.)
+18 (Quia ab infantia mea crevit mecum miseratio: et de utero matris meae egressa est mecum.)
 
 19 Si despexi pereuntem, eo quod non habuerit indumentum, et absque operimento pauperem:
 
@@ -53,13 +53,13 @@ draft: false
 
 24 Si putavi aurum robur meum, et obrizo dixi: Fiducia mea.
 
-25 Si lætatus sum super multis divitiis meis, et quia plurima reperit manus mea.
+25 Si laetatus sum super multis divitiis meis, et quia plurima reperit manus mea.
 
 26 Si vidi solem cum fulgeret, et lunam incedentem clare:
 
-27 Et lætatum est in abscondito cor meum, et osculatus sum manum meam ore meo.
+27 Et laetatum est in abscondito cor meum, et osculatus sum manum meam ore meo.
 
-28 Quæ est iniquitas maxima, et negatio contra Deum altissimum.
+28 Quae est iniquitas maxima, et negatio contra Deum altissimum.
 
 29 Si gavisus sum ad ruinam eius, qui me oderat, et exultavi quod invenisset eum malum.
 

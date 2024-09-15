@@ -8,7 +8,7 @@ summary: |
 ---
 
 
-1 Or, il arriva que sept frères qu'on avait pris aussi avec leur mère, étaient pressés par le roi, de manger contre la défense de la loi divine, de la chair de porc, après qu'ils avaient été déchirés avec des fouets et des nerfs de bœuf.
+1 Or, il arriva que sept frères qu'on avait pris aussi avec leur mère, étaient pressés par le roi, de manger contre la défense de la loi divine, de la chair de porc, après qu'ils avaient été déchirés avec des fouets et des nerfs de boeuf.
 
 ***Note*** :  II Macc. 7, 1 : Sept frères ; ils sont généralement appelés Machabées ; mais on ne s’accorde pas sur l’origine de cette dénomination. Quant à leur martyre, l’opinion commune est qu’ils le souffrirent à Antioche.
 
@@ -51,7 +51,7 @@ summary: |
 18 Après celui-ci, ils conduisirent le sixième, et étant près de mourir, il parla ainsi : Ne vous trompez pas vainement ; car nous, c'est à cause de nous que nous souffrons ainsi, et que des choses dignes d'étonnement sont arrivées parmi nous, ayant péché contre Dieu ; 19 Mais vous, ne croyez pas rester impuni, puisque vous avez tenté de combattre contre Dieu.
 
 
-20 Or la mère, infiniment admirable et digne de la mémoire des bons, laquelle voyant ses sept ; fils périr dans l'espace d'un seul jour, souffrait avec constance, à cause de l'espoir qu'elle avait en Dieu; 21 Elle exhortait fortement chacun d'eux dans la langue de sa patrie, pleine de sagesse; et alliant un cœur d'homme au sentiment d'une femme, 22 Elle leur dît : Je ne sais de quelle manière vous avez paru dans mon sein; car ce n'est pas moi qui vous ai donné l'esprit, l'âme, ni la vie, et les membres de chacun de vous, ce n'est pas moi qui les ai assemblés, 23 Mais bien le créateur du monde, qui a formé l'homme à sa naissance, et qui a donné l'origine à toutes choses, et qui vous rendra de nouveau avec miséricorde l'esprit et la vie, parce que maintenant vous vous méprisez vous-mêmes à cause de ses lois.
+20 Or la mère, infiniment admirable et digne de la mémoire des bons, laquelle voyant ses sept ; fils périr dans l'espace d'un seul jour, souffrait avec constance, à cause de l'espoir qu'elle avait en Dieu; 21 Elle exhortait fortement chacun d'eux dans la langue de sa patrie, pleine de sagesse; et alliant un coeur d'homme au sentiment d'une femme, 22 Elle leur dît : Je ne sais de quelle manière vous avez paru dans mon sein; car ce n'est pas moi qui vous ai donné l'esprit, l'âme, ni la vie, et les membres de chacun de vous, ce n'est pas moi qui les ai assemblés, 23 Mais bien le créateur du monde, qui a formé l'homme à sa naissance, et qui a donné l'origine à toutes choses, et qui vous rendra de nouveau avec miséricorde l'esprit et la vie, parce que maintenant vous vous méprisez vous-mêmes à cause de ses lois.
 
 
 24 Or Antiochus, pensant qu'on le méprisait, et dédaignant en même temps le langage de celle qui lui adressait des reproches, comme le plus jeune restait encore, non seulement il l'exhortait par ses paroles, mais lui assurait avec serment qu'il le rendrait riche et heureux, et que s'il abandonnait les lois de sa patrie, il le prendrait pour ami et lui donnerait toutes les choses nécessaires.

@@ -30,7 +30,7 @@ summary: |
 ***Note*** :  Prov. 14, 3 : Dans la bouche, etc. ; c’est-à-dire la langue d’un insensé est comme une verge d’orgueil et d’insolence, qui frappe, meurtrit les autres, en le blessant lui-même. Au contraire, les lèvres sages ne blessent personne, et elles les conservent eux-mêmes dans une parfaite tranquillité, en ne donnant pas de prise à la critique et à la malignité.
 
 
-4 Où il n'y a point de bœufs, la crèche est vide ; mais où abondent les moissons, là est manifeste la force du bœuf.
+4 Où il n'y a point de boeufs, la crèche est vide ; mais où abondent les moissons, là est manifeste la force du boeuf.
 
 ***Note*** :  Prov. 14, 4 : Où il n’y a pas, etc. L’auteur semble vouloir dire en général que, quand on ne travaille pas, on n’a rien à attendre.
 
@@ -56,7 +56,7 @@ summary: |
 9 L'insensé se jouera du péché ; et c'est parmi les justes que demeurera la grâce.
 
 
-10 Quant au cœur qui connaît l'amertume de son âme, un étranger ne se mêlera pas dans sa joie.
+10 Quant au coeur qui connaît l'amertume de son âme, un étranger ne se mêlera pas dans sa joie.
 
 
 11 La maison des impies sera détruite ; mais les tabernacles des justes seront florissants.
@@ -138,9 +138,9 @@ Celui qui croit au Seigneur aime la miséricorde.
 29 Celui qui est patient se gouverne avec une grande prudence ; mais celui qui est impatient signale sa folie.
 
 
-30 La vie des chairs, c'est la santé du cœur : la carie des os, l'envie.
+30 La vie des chairs, c'est la santé du coeur : la carie des os, l'envie.
 
-***Note*** :  Prov. 14, 30 : La vie, etc. Un cœur sain donne la santé à tout le reste des chairs, c’est-à-dire du corps.
+***Note*** :  Prov. 14, 30 : La vie, etc. Un coeur sain donne la santé à tout le reste des chairs, c’est-à-dire du corps.
 
 
 31 Celui qui opprime un indigent, outrage le créateur de cet indigent; mais celui-là l'honore, qui a pitié d'un pauvre.
@@ -151,7 +151,7 @@ Celui qui croit au Seigneur aime la miséricorde.
 32 A cause de sa malice, l'impie sera rejeté ; mais le juste espère dans sa mort même.
 
 
-33 Dans le cœur de l'homme prudent repose la sagesse ; et elle instruira tous les ignorants.
+33 Dans le coeur de l'homme prudent repose la sagesse ; et elle instruira tous les ignorants.
 
 ***Note*** :  Prov. 14, 33 : Elle ; c’est-à-dire la sagesse. Si le latin erudiet est amphibologique, l’hébreu ne l’est nullement, le verbe y étant au féminin, et ne pouvant avoir pour sujet que le mot sagesse, nom du genre féminin.
 

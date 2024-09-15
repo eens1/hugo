@@ -19,11 +19,11 @@ draft: false
 
 7 Scrutati sunt iniquitates: defecerunt scrutantes scrutinio. Accedet homo ad cor altum:
 
-8 et exaltabitur Deus. Sagittæ parvulorum factæ sunt plagæ eorum:
+8 et exaltabitur Deus. Sagittae parvulorum factae sunt plagae eorum:
 
-9 et infirmatæ sunt contra eos linguæ eorum. Conturbati sunt omnes qui videbant eos:
+9 et infirmatae sunt contra eos linguae eorum. Conturbati sunt omnes qui videbant eos:
 
 10 et timuit omnis homo. Et annunciaverunt opera Dei: et facta eius intellexerunt.
 
-11 Lætabitur iustus in Domino, et sperabit in eo, et laudabuntur omnes recti corde.
+11 Laetabitur iustus in Domino, et sperabit in eo, et laudabuntur omnes recti corde.
 

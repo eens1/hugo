@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Saulus autem adhuc spirans minarum, et cædis in discipulos Domini, accessit ad principem Sacerdotum,
+1 Saulus autem adhuc spirans minarum, et caedis in discipulos Domini, accessit ad principem Sacerdotum,
 
-2 et petiit ab eo epistolas in Damascum ad synagogas: ut si quos invenisset huius viæ viros, ac mulieres, vinctos perduceret in Ierusalem.
+2 et petiit ab eo epistolas in Damascum ad synagogas: ut si quos invenisset huius viae viros, ac mulieres, vinctos perduceret in Ierusalem.
 
-3 Et cum iter faceret, contigit ut appropinquaret Damasco: et subito circumfulsit eum lux de cælo.
+3 Et cum iter faceret, contigit ut appropinquaret Damasco: et subito circumfulsit eum lux de caelo.
 
 4 Et cadens in terram audivit vocem dicentem sibi: Saule, Saule, quid me persequeris?
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Erat autem quidam discipulus Damasci, nomine Ananias: et dixit ad illum in visu Dominus: Anania. At ille ait: Ecce ego, Domine.
 
-11 Et Dominus ad eum: Surge, et vade in vicum, qui vocatur rectus: et quære in domo Iudæ Saulum nomine Tarsensem: ecce enim orat.
+11 Et Dominus ad eum: Surge, et vade in vicum, qui vocatur rectus: et quaere in domo Iudae Saulum nomine Tarsensem: ecce enim orat.
 
 12 (Et vidit virum Ananiam nomine, introeuntem, et imponentem sibi manus ut visum recipiat.)
 
@@ -39,19 +39,19 @@ draft: false
 
 17 Et abiit Ananias, et introivit in domum: et imponens ei manus, dixit: Saule frater, Dominus misit me Iesus, qui apparuit tibi in via, qua veniebas ut videas, et implearis Spiritu sancto.
 
-18 Et confestim ceciderunt ab oculis eius tamquam squamæ, et visum recepit: et surgens baptizatus est.
+18 Et confestim ceciderunt ab oculis eius tamquam squamae, et visum recepit: et surgens baptizatus est.
 
 19 Et cum accepisset cibum, confortatus est. Fuit autem cum discipulis, qui erant Damasci, per dies aliquot.
 
-20 Et continuo in synagogis prædicabat Iesum, quoniam hic est Filius Dei.
+20 Et continuo in synagogis praedicabat Iesum, quoniam hic est Filius Dei.
 
 21 Stupebant autem omnes, qui audiebant, et dicebant: Nonne hic est, qui expugnabat in Ierusalem eos, qui invocabant nomen istud: et huc ad hoc venit ut vinctos illos duceret ad principes sacerdotum?
 
-22 Saulus autem multo magis convalescebat, et confundebat Iudæos, qui habitabant Damasci, affirmans quoniam hic est Christus.
+22 Saulus autem multo magis convalescebat, et confundebat Iudaeos, qui habitabant Damasci, affirmans quoniam hic est Christus.
 
-23 Cum autem implerentur dies multi, consilium fecerunt in unum Iudæi ut eum interficerent.
+23 Cum autem implerentur dies multi, consilium fecerunt in unum Iudaei ut eum interficerent.
 
-24 Notæ autem factæ sunt Saulo insidiæ eorum. Custodiebant autem et portas die ac nocte, ut eum interficerent.
+24 Notae autem factae sunt Saulo insidiae eorum. Custodiebant autem et portas die ac nocte, ut eum interficerent.
 
 25 Accipientes autem eum discipuli nocte, per murum dimiserunt eum, submittentes in sporta.
 
@@ -61,27 +61,27 @@ draft: false
 
 28 Et erat cum illis intrans, et exiens in Ierusalem, et fiducialiter agens in nomine Domini.
 
-29 Loquebatur quoque Gentibus, et disputabat cum Græcis: illi autem quærebant occidere eum.
+29 Loquebatur quoque Gentibus, et disputabat cum Graecis: illi autem quaerebant occidere eum.
 
-30 Quod cum cognovissent fratres, deduxerunt eum Cæsaream, et dimiserunt Tarsum.
+30 Quod cum cognovissent fratres, deduxerunt eum Caesaream, et dimiserunt Tarsum.
 
-31 Ecclesia quidem per totam Iudæam, et Galilæam, et Samariam habebat pacem, et ædificabatur ambulans in timore Domini, et consolatione sancti Spiritus replebatur.
+31 Ecclesia quidem per totam Iudaeam, et Galilaeam, et Samariam habebat pacem, et aedificabatur ambulans in timore Domini, et consolatione sancti Spiritus replebatur.
 
-32 Factum est autem, ut Petrus dum pertransiret universos, deveniret ad sanctos, qui habitabant Lyddæ.
+32 Factum est autem, ut Petrus dum pertransiret universos, deveniret ad sanctos, qui habitabant Lyddae.
 
-33 Invenit autem ibi hominem quendam, nomine Æneam, ab annis octo iacentem in grabato, qui erat paralyticus.
+33 Invenit autem ibi hominem quendam, nomine AEneam, ab annis octo iacentem in grabato, qui erat paralyticus.
 
-34 Et ait illi Petrus: Ænea, sanat te Dominus Iesus Christus: surge, et sterne tibi. Et continuo surrexit.
+34 Et ait illi Petrus: AEnea, sanat te Dominus Iesus Christus: surge, et sterne tibi. Et continuo surrexit.
 
-35 Et viderunt eum omnes, qui habitabant Lyddæ, et Saronæ: qui conversi sunt ad Dominum.
+35 Et viderunt eum omnes, qui habitabant Lyddae, et Saronae: qui conversi sunt ad Dominum.
 
-36 In Ioppe autem fuit quædam discipula, nomine Tabitha, quæ interpretata dicitur Dorcas. Hæc erat plena operibus bonis, et eleemosynis, quas faciebat.
+36 In Ioppe autem fuit quaedam discipula, nomine Tabitha, quae interpretata dicitur Dorcas. Haec erat plena operibus bonis, et eleemosynis, quas faciebat.
 
-37 Factum est autem in diebus illis, ut infirmata moreretur. Quam cum lavissent, posuerunt eam in cœnaculo.
+37 Factum est autem in diebus illis, ut infirmata moreretur. Quam cum lavissent, posuerunt eam in coenaculo.
 
 38 Cum autem prope esset Lydda ad Ioppen, discipuli audientes quia Petrus esset in ea, miserunt duos viros ad eum, rogantes: Ne pigriteris venire ad nos.
 
-39 Exurgens autem Petrus venit cum illis. Et cum advenisset, duxerunt illum in cœnaculum: et circumsteterunt illum omnes viduæ flentes, et ostendentes ei tunicas, et vestes, quas faciebat illis Dorcas.
+39 Exurgens autem Petrus venit cum illis. Et cum advenisset, duxerunt illum in coenaculum: et circumsteterunt illum omnes viduae flentes, et ostendentes ei tunicas, et vestes, quas faciebat illis Dorcas.
 
 40 Eiectis autem omnibus foras: Petrus ponens genua oravit: et conversus ad corpus, dixit: Tabitha, surge. At illa aperuit oculos suos: et viso Petro, resedit.
 

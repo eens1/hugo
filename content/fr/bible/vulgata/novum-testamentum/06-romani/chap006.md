@@ -11,7 +11,7 @@ draft: false
 
 3 An ignoratis quia quicumque baptizati sumus in Christo Iesu, in morte ipsius baptizati sumus?
 
-4 Consepulti enim sumus cum illo per baptismum in mortem: ut quomodo Christus surrexit a mortuis per gloriam Patris, ita et nos in novitate vitæ ambulemus.
+4 Consepulti enim sumus cum illo per baptismum in mortem: ut quomodo Christus surrexit a mortuis per gloriam Patris, ita et nos in novitate vitae ambulemus.
 
 5 Si enim complantati facti sumus similitudini mortis eius: simul et resurrectionis erimus.
 
@@ -29,7 +29,7 @@ draft: false
 
 12 Non ergo regnet peccatum in vestro mortali corpore ut obediatis concupiscentiis eius.
 
-13 Sed neque exhibeatis membra vestra arma iniquitatis peccato: sed exhibete vos Deo, tamquam ex mortuis viventes: et membra vestra arma iustitiæ Deo.
+13 Sed neque exhibeatis membra vestra arma iniquitatis peccato: sed exhibete vos Deo, tamquam ex mortuis viventes: et membra vestra arma iustitiae Deo.
 
 14 Peccatum enim vobis non dominabitur: non enim sub lege estis, sed sub gratia.
 
@@ -37,17 +37,17 @@ draft: false
 
 16 Nescitis quoniam cui exhibetis vos servos ad obediendum, servi estis eius, cui obeditis, sive peccati ad mortem, sive obeditionis ad iustitiam?
 
-17 Gratias autem Deo quod fuistis servi peccati, obedistis autem ex corde in eam formam doctrinæ, in quam traditi estis.
+17 Gratias autem Deo quod fuistis servi peccati, obedistis autem ex corde in eam formam doctrinae, in quam traditi estis.
 
-18 Liberati autem a peccato, servi facti estis iustitiæ.
+18 Liberati autem a peccato, servi facti estis iustitiae.
 
-19 Humanum dico, propter infirmitatem carnis vestræ: sicut enim exhibuistis membra vestra servire immunditiæ, et iniquitati ad iniquitatem, ita nunc exhibete membra vestra servire iustitiæ in santificationem.
+19 Humanum dico, propter infirmitatem carnis vestrae: sicut enim exhibuistis membra vestra servire immunditiae, et iniquitati ad iniquitatem, ita nunc exhibete membra vestra servire iustitiae in santificationem.
 
-20 Cum enim servi essetis peccati, liberi fuistis iustitiæ.
+20 Cum enim servi essetis peccati, liberi fuistis iustitiae.
 
 21 Quem ergo fructum habuistis tunc in illis, in quibus nunc erubescitis? Nam finis illorum mors est.
 
-22 Nunc vero liberati a peccato, servi autem facti Deo, habetis fructum vestrum in santificationem, finem vero vitam æternam.
+22 Nunc vero liberati a peccato, servi autem facti Deo, habetis fructum vestrum in santificationem, finem vero vitam aeternam.
 
-23 Stipendia enim peccati, mors. Gratia autem Dei, vita æterna, in Christo Iesu Domino nostro.
+23 Stipendia enim peccati, mors. Gratia autem Dei, vita aeterna, in Christo Iesu Domino nostro.
 

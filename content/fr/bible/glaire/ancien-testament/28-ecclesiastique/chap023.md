@@ -14,9 +14,9 @@ summary: |
 
 ***Note*** :  Sir. 23, 1 : Leur… elles. Ces pronoms se rapportent aux noms bouche et lèvres, exprimés au dernier verset du chapitre précédent.
 
-2 Qui mettra dans ma pensée des remords, et dans mon cœur la doctrine de la sagesse, afin qu'ils ne m'épargnent pas dans leurs péchés d'ignorance, que leurs fautes ne paraissent pas;
+2 Qui mettra dans ma pensée des remords, et dans mon coeur la doctrine de la sagesse, afin qu'ils ne m'épargnent pas dans leurs péchés d'ignorance, que leurs fautes ne paraissent pas;
 
-***Note*** :  Sir. 23, 2 : Qu’ils ; c’est-à-dire les remords et la doctrine de la sagesse. ― Leurs ; se rapporte à ma pensée et à mon cœur. ― Ne paraissent pas ; n’éclatent pas au dehors, ne deviennent pas publiques.
+***Note*** :  Sir. 23, 2 : Qu’ils ; c’est-à-dire les remords et la doctrine de la sagesse. ― Leurs ; se rapporte à ma pensée et à mon coeur. ― Ne paraissent pas ; n’éclatent pas au dehors, ne deviennent pas publiques.
 
 3 Que mes ignorances ne s'accroissent pas, et que mes fautes ne soient pas multipliées; que mes péchés n'abondent point, que Je ne tombe pas en présence de mes adversaires, et que mon ennemi ne se réjouisse point sur moi?
 
@@ -62,11 +62,11 @@ summary: |
 
 ***Note*** :  Sir. 23, 25 : Voir Isaïe, 29, 15.
 
-26 Les ténèbres m'environnent, et les murailles me couvrent, et personne ne regarde autour de moi ; qui craindrai-je? le Très-Haut ne se souviendra pas de mes fautes. 27 Et il ne comprend pas que son œil voit toutes choses, et qu'une telle crainte de l'homme bannit de lui la crainte de Dieu; ce que font aussi les yeux des hommes, lesquels ne craignent que l'homme.
+26 Les ténèbres m'environnent, et les murailles me couvrent, et personne ne regarde autour de moi ; qui craindrai-je? le Très-Haut ne se souviendra pas de mes fautes. 27 Et il ne comprend pas que son oeil voit toutes choses, et qu'une telle crainte de l'homme bannit de lui la crainte de Dieu; ce que font aussi les yeux des hommes, lesquels ne craignent que l'homme.
 
-***Note*** :  Sir. 23, 27 : Son œil ; l’œil du Très-Haut, nommé au verset précédent.
+***Note*** :  Sir. 23, 27 : Son oeil ; l’oeil du Très-Haut, nommé au verset précédent.
 
-28 Et il n'a pas su que les yeux du Seigneur sont beaucoup plus lumineux que le soleil, explorant du regard toutes les voies des hommes et le profond de l'abîme, et examinant les cœurs des hommes jusque dans les parties les plus cachées. 29 Car du Seigneur Dieu, avant qu'elles fussent créées, toutes les choses étaient connues, de même qu'après leur achèvement il les considère toutes. 30 Celui-là sera puni sur les places publiques de la cité ; et il sera mis en fuite comme le poulain d'une cavale ; et là où il ne s'attendait pas, il sera pris. 31 Et il sera un objet de déshonneur aux yeux de tous, parce qu'il n'aura pas compris la crainte du Seigneur. 32 Ainsi en sera-t-il encore de toute femme qui laisse son mari, et qui lui donne pour héritier le fils d'un étranger ;
+28 Et il n'a pas su que les yeux du Seigneur sont beaucoup plus lumineux que le soleil, explorant du regard toutes les voies des hommes et le profond de l'abîme, et examinant les coeurs des hommes jusque dans les parties les plus cachées. 29 Car du Seigneur Dieu, avant qu'elles fussent créées, toutes les choses étaient connues, de même qu'après leur achèvement il les considère toutes. 30 Celui-là sera puni sur les places publiques de la cité ; et il sera mis en fuite comme le poulain d'une cavale ; et là où il ne s'attendait pas, il sera pris. 31 Et il sera un objet de déshonneur aux yeux de tous, parce qu'il n'aura pas compris la crainte du Seigneur. 32 Ainsi en sera-t-il encore de toute femme qui laisse son mari, et qui lui donne pour héritier le fils d'un étranger ;
 
 ***Note*** :  Sir. 23, 32 : Voir Lévitique, 20, 10 ; Deutéronome, 22, 22.
 

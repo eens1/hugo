@@ -13,11 +13,11 @@ draft: false
 
 4 BETH. Vetustam fecit pellem meam, et carnem meam, contrivit ossa mea.
 
-5 BETH. Ædificavit in gyro meo, et circumdedit me felle, et labore.
+5 BETH. AEdificavit in gyro meo, et circumdedit me felle, et labore.
 
 6 BETH. In tenebrosis collocavit me, quasi mortuos sempiternos.
 
-7 GHIMEL. Circumædificavit adversum me, ut non egrediar: aggravavit compedem meum.
+7 GHIMEL. Circumaedificavit adversum me, ut non egrediar: aggravavit compedem meum.
 
 8 GHIMEL. Sed et cum clamavero, et rogavero, exclusit orationem meam.
 
@@ -29,7 +29,7 @@ draft: false
 
 12 DALETH. Tetendit arcum suum, et posuit me quasi signum ad sagittam.
 
-13 HE. Misit in renibus meis filias pharetræ suæ.
+13 HE. Misit in renibus meis filias pharetrae suae.
 
 14 HE. Factus sum in derisum omni populo meo, canticum eorum tota die.
 
@@ -41,21 +41,21 @@ draft: false
 
 18 VAU. Et dixi: Periit finis meus, et spes mea a Domino.
 
-19 ZAIN. Recordare paupertatis, et transgressionis meæ, absinthii, et fellis.
+19 ZAIN. Recordare paupertatis, et transgressionis meae, absinthii, et fellis.
 
 20 ZAIN. Memoria memor ero, et tabescet in me anima mea.
 
-21 ZAIN. Hæc recolens in corde meo, ideo sperabo.
+21 ZAIN. Haec recolens in corde meo, ideo sperabo.
 
-22 HETH. Misericordiæ Domini quia non sumus consumpti: quia non defecerunt miserationes eius.
+22 HETH. Misericordiae Domini quia non sumus consumpti: quia non defecerunt miserationes eius.
 
 23 HETH. Novi diluculo, multa est fides tua.
 
 24 HETH. Pars mea Dominus, dixit anima mea: propterea expectabo eum.
 
-25 TETH. Bonus est Dominus sperantibus in eum, animæ quærenti illum.
+25 TETH. Bonus est Dominus sperantibus in eum, animae quaerenti illum.
 
-26 TETH. Bonum est præstolari cum silentio salutare Dei.
+26 TETH. Bonum est praestolari cum silentio salutare Dei.
 
 27 TETH. Bonum est viro, cum portaverit iugum ab adolescentia sua.
 
@@ -71,7 +71,7 @@ draft: false
 
 33 CAPH. Non enim humiliavit ex corde suo, et abiecit filios hominum,
 
-34 LAMED. Ut conteret sub pedibus suis omnes vinctos terræ,
+34 LAMED. Ut conteret sub pedibus suis omnes vinctos terrae,
 
 35 LAMED. Ut declinaret iudicium viri in conspectu vultus Altissimi.
 
@@ -83,9 +83,9 @@ draft: false
 
 39 MEM. Quid murmuravit homo vivens, vir pro peccatis suis?
 
-40 NUN. Scrutemur vias nostras, et quæramus, et revertamur ad Dominum.
+40 NUN. Scrutemur vias nostras, et quaeramus, et revertamur ad Dominum.
 
-41 NUN. Levemus corda nostra cum manibus ad Dominum in cælos.
+41 NUN. Levemus corda nostra cum manibus ad Dominum in caelos.
 
 42 NUN. Nos inique egimus, et ad iracundiam provocavimus: idcirco tu inexorabilis es.
 
@@ -99,19 +99,19 @@ draft: false
 
 47 PHE. Formido, et laqueus facta est nobis vaticinatio, et contritio.
 
-48 PHE. Divisiones aquarum deduxit oculus meus, in contritione filiæ populi mei.
+48 PHE. Divisiones aquarum deduxit oculus meus, in contritione filiae populi mei.
 
 49 AIN. Oculus meus afflictus est, nec tacuit, eo quod non esset requies,
 
-50 AIN. Donec respiceret et videret Dominus de cælis.
+50 AIN. Donec respiceret et videret Dominus de caelis.
 
-51 AIN. Oculus meus deprædatus est animam meam in cunctis filiabus urbis meæ.
+51 AIN. Oculus meus depraedatus est animam meam in cunctis filiabus urbis meae.
 
 52 SADE. Venatione ceperunt me quasi avem inimici mei gratis.
 
 53 SADE. Lapsa est in lacum vita mea, et posuerunt lapidem super me.
 
-54 SADE. Inundaverunt aquæ super caput meum: dixi: Perii.
+54 SADE. Inundaverunt aquae super caput meum: dixi: Perii.
 
 55 COPH. Invocavi nomen tuum Domine de lacu novissimo.
 
@@ -119,7 +119,7 @@ draft: false
 
 57 COPH. Appropinquasti in die, quando invocavi te: dixisti: Ne timeas.
 
-58 RES. Iudicasti Domine causam animæ meæ, redemptor vitæ meæ.
+58 RES. Iudicasti Domine causam animae meae, redemptor vitae meae.
 
 59 RES. Vidisti Domine iniquitatem illorum adversum me: iudica iudicium meum.
 
@@ -135,5 +135,5 @@ draft: false
 
 65 THAU. Dabis eis scutum cordis laborem tuum.
 
-66 THAU. Persequeris in furore, et conteres eos sub cælis Domine.
+66 THAU. Persequeris in furore, et conteres eos sub caelis Domine.
 

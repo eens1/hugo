@@ -29,7 +29,7 @@ summary: |
 
 6 Abram traversa le pays jusqu'au lieu de Sichem, jusqu'à la vallée illustre. Les Chananéens étaient alors dans ce pays.
 
-***Note*** :  Gn. 12, 6 : La vallée illustre, en hébreu Moré, la vallée située entre le mont Hébal et le mont Garizim, au cœur même de la Palestine. ― Sichem est le site le plus beau de la Palestine centrale, le mieux arrosé de tout le pays ; on n’y compte pas moins de 27 sources. Les oliviers qui croissent rendent le paysage perpétuellement vert.
+***Note*** :  Gn. 12, 6 : La vallée illustre, en hébreu Moré, la vallée située entre le mont Hébal et le mont Garizim, au coeur même de la Palestine. ― Sichem est le site le plus beau de la Palestine centrale, le mieux arrosé de tout le pays ; on n’y compte pas moins de 27 sources. Les oliviers qui croissent rendent le paysage perpétuellement vert.
 
 7 Or le Seigneur apparut à Abram et lui dit : C'est à ta postérité que je donnerai ce pays. Et Abram bâtit là un autel au Seigneur qui lui était apparu.
 
@@ -37,18 +37,18 @@ summary: |
 
 8 Et de là passant jusqu'à la montagne qui était à l'orient de Béthel, il y dressa ses tentes, ayant Béthel à l'occident et Haï à l'orient ; il bâtit là aussi un autel au Seigneur, et il invoqua son nom.
 
-***Note*** :  Gn. 12, 8 : A l’orient de Béthel. Béthel est sur la grande route qui conduit du nord-est au sud-ouest de la Palestine. Abram s’arrêta sur la montagne située au levant. De là il put jouir du spectacle de la Terre-Sainte presque entière : à l’est, au premier plan, la chaîne dentelée des collines de Jéricho ; dans le lointain, les montagnes de Moab ; entre les deux, la large vallée du Jourdain ; au sud et à l’ouest, l’œil domine les sombres collines de la Judée ; au loin, la chaîne méridionale sur une pente de laquelle est Hébron ; vers le nord, les collines qui séparent la Judée des riches plaines de Samarie.
+***Note*** :  Gn. 12, 8 : A l’orient de Béthel. Béthel est sur la grande route qui conduit du nord-est au sud-ouest de la Palestine. Abram s’arrêta sur la montagne située au levant. De là il put jouir du spectacle de la Terre-Sainte presque entière : à l’est, au premier plan, la chaîne dentelée des collines de Jéricho ; dans le lointain, les montagnes de Moab ; entre les deux, la large vallée du Jourdain ; au sud et à l’ouest, l’oeil domine les sombres collines de la Judée ; au loin, la chaîne méridionale sur une pente de laquelle est Hébron ; vers le nord, les collines qui séparent la Judée des riches plaines de Samarie.
 
 9 Puis Abram s'en alla cheminant et s'avançant vers le midi.
 
 
-10 Mais il survint une famine en ce pays, et Abram descendit en Egypte pour y habiter, car la famine régnait dans le pays. 11 Lorsqu'il était près d'entrer en Egypte, il dit à Saraï sa femme : Je sais que tu es une belle femme ; 12 Et que quand les Egyptiens te verront, ils diront: C'est sa femme ; et ils me tueront, et ils te conserveront. 13 Dis donc, je te conjure, que tu es ma sœur, afin que bien m'arrive à cause de toi, et que mon âme vive grâce à toi.
+10 Mais il survint une famine en ce pays, et Abram descendit en Egypte pour y habiter, car la famine régnait dans le pays. 11 Lorsqu'il était près d'entrer en Egypte, il dit à Saraï sa femme : Je sais que tu es une belle femme ; 12 Et que quand les Egyptiens te verront, ils diront: C'est sa femme ; et ils me tueront, et ils te conserveront. 13 Dis donc, je te conjure, que tu es ma soeur, afin que bien m'arrive à cause de toi, et que mon âme vive grâce à toi.
 
-***Note*** :  Gn. 12, 13 : Voir Genèse, 20, 11. ― Sara était véritablement sœur d’Abraham, étant fille du même père que lui. Voir Genèse, 20, 12. D’ailleurs le mot hébreu traduit par sœur signifie également cousine, nièce, et en général proche parente. ― Et que mon âme vive ; c’est-à-dire, et que je puisse ainsi sauver ma vie.
+***Note*** :  Gn. 12, 13 : Voir Genèse, 20, 11. ― Sara était véritablement soeur d’Abraham, étant fille du même père que lui. Voir Genèse, 20, 12. D’ailleurs le mot hébreu traduit par soeur signifie également cousine, nièce, et en général proche parente. ― Et que mon âme vive ; c’est-à-dire, et que je puisse ainsi sauver ma vie.
 
 14 Lors donc qu'Abram fut entré en Egypte, les Egyptiens virent que cette femme était extrêmement belle. 15 Et les princes en informèrent Pharaon, et la vantèrent devant lui; et elle fut enlevée pour la maison de Pharaon.
 
 ***Note*** :  Gn. 12, 15 : Pharaon n’est pas un nom propre, mais un titre. On ignore quel est le pharaon qui régnait en Egypte à l’époque d’Abraham.
 
-16 Pour Abram, ils en usèrent bien à son égard, à cause d'elle ; il reçut même des brebis, des bœufs, des ânes, des serviteurs et des servantes, des ânesses et des chameaux. 17 Mais le Seigneur frappa Pharaon de très grandes plaies et sa maison, à cause de Saraï femme d'Abram. 18 Alors Pharaon appela Abram et lui dit : Qu'est-ce que tu m'as fait? que ne m'as-tu averti que c'était ta femme? 19 Pour quel motif as-tu dit que c'était ta sœur, afin que je la prisse pour ma femme? Maintenant donc voilà ta femme; prends-la et pars. 20 Et Pharaon donna des ordres à ses gens au sujet d'Abram ; et ils le reconduisirent, lui, et sa femme et tout ce qu'il avait.
+16 Pour Abram, ils en usèrent bien à son égard, à cause d'elle ; il reçut même des brebis, des boeufs, des ânes, des serviteurs et des servantes, des ânesses et des chameaux. 17 Mais le Seigneur frappa Pharaon de très grandes plaies et sa maison, à cause de Saraï femme d'Abram. 18 Alors Pharaon appela Abram et lui dit : Qu'est-ce que tu m'as fait? que ne m'as-tu averti que c'était ta femme? 19 Pour quel motif as-tu dit que c'était ta soeur, afin que je la prisse pour ma femme? Maintenant donc voilà ta femme; prends-la et pars. 20 Et Pharaon donna des ordres à ses gens au sujet d'Abram ; et ils le reconduisirent, lui, et sa femme et tout ce qu'il avait.
 

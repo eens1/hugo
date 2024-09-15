@@ -11,13 +11,13 @@ draft: false
 
 3 cum percusserimus eos omnes, sicut hominem unum, tunc et ipse cum illis Assyriorum gladio interibis, et omnis Israel tecum perditione disperiet:
 
-4 et probabis quoniam Nabuchodonosor dominus sit universæ terræ: tuncque gladius militiæ meæ transiet per latera tua, et confixus cades inter vulneratos Israel, et non respirabis ultra, donec extermineris cum illis.
+4 et probabis quoniam Nabuchodonosor dominus sit universae terrae: tuncque gladius militiae meae transiet per latera tua, et confixus cades inter vulneratos Israel, et non respirabis ultra, donec extermineris cum illis.
 
-5 Porro autem si prophetiam tuam veram existimas, non concidat vultus tuus, et pallor, qui faciem tuam obtinet, abscedat a te, si verba mea hæc putas impleri non posse.
+5 Porro autem si prophetiam tuam veram existimas, non concidat vultus tuus, et pallor, qui faciem tuam obtinet, abscedat a te, si verba mea haec putas impleri non posse.
 
-6 Ut autem noveris quia simul cum illis hæc experieris, ecce ex hac hora illorum populo sociaberis, ut, dum dignas mei gladii pœnas exceperint, ipse simul ultioni subiaceas.
+6 Ut autem noveris quia simul cum illis haec experieris, ecce ex hac hora illorum populo sociaberis, ut, dum dignas mei gladii poenas exceperint, ipse simul ultioni subiaceas.
 
-7 Tunc Holofernes præcepit servis suis ut comprehenderent Achior, et perducerent eum in Bethuliam, et traderent eum in manus filiorum Israel.
+7 Tunc Holofernes praecepit servis suis ut comprehenderent Achior, et perducerent eum in Bethuliam, et traderent eum in manus filiorum Israel.
 
 8 Et accipientes eum servi Holofernis, profecti sunt per campestria: sed cum appropinquassent ad montana, exierunt contra eos fundibularii.
 
@@ -27,21 +27,21 @@ draft: false
 
 11 In diebus illis erant illic principes, Ozias filius Micha de tribu Simeon, et Charmi, qui et Gothoniel.
 
-12 In medio itaque seniorum, et in conspectu omnium, Achior dixit omnia quæ locutus ipse fuerat ab Holoferne interrogatus: et qualiter populus Holofernis voluisset propter hoc verbum interficere eum,
+12 In medio itaque seniorum, et in conspectu omnium, Achior dixit omnia quae locutus ipse fuerat ab Holoferne interrogatus: et qualiter populus Holofernis voluisset propter hoc verbum interficere eum,
 
-13 et quemadmodum ipse Holofernes iratus iusserit eum Israelitis hac de causa tradi: ut, dum vicerit filios Israel, tunc et ipsum Achior diversis iubeat interire suppliciis, propter hoc quod dixisset: Deus cæli defensor eorum est.
+13 et quemadmodum ipse Holofernes iratus iusserit eum Israelitis hac de causa tradi: ut, dum vicerit filios Israel, tunc et ipsum Achior diversis iubeat interire suppliciis, propter hoc quod dixisset: Deus caeli defensor eorum est.
 
-14 Cumque Achior universa hæc exposuisset, omnis populus cecidit in faciem, adorantes Dominum, et communi lamentatione et fletu unanimes preces suas Domino effuderunt,
+14 Cumque Achior universa haec exposuisset, omnis populus cecidit in faciem, adorantes Dominum, et communi lamentatione et fletu unanimes preces suas Domino effuderunt,
 
-15 dicentes: Domine Deus cæli et terræ, intuere superbiam eorum, et respice ad nostram humilitatem, et faciem sanctorum tuorum attende, et ostende quoniam non derelinquis præsumentes de te: et præsumentes de se, et de sua virtute gloriantes, humilias.
+15 dicentes: Domine Deus caeli et terrae, intuere superbiam eorum, et respice ad nostram humilitatem, et faciem sanctorum tuorum attende, et ostende quoniam non derelinquis praesumentes de te: et praesumentes de se, et de sua virtute gloriantes, humilias.
 
 16 Finito itaque fletu, et per totam diem oratione populorum completa, consolati sunt Achior,
 
-17 dicentes: Deus patrum nostrorum, cuius tu virtutem prædicasti, ipse tibi hanc dabit vicissitudinem, ut eorum magis tu interitum videas.
+17 dicentes: Deus patrum nostrorum, cuius tu virtutem praedicasti, ipse tibi hanc dabit vicissitudinem, ut eorum magis tu interitum videas.
 
 18 Cum vero Dominus Deus noster dederit hanc libertatem servis suis, sit et tecum Deus in medio nostri: ut sicut placuerit tibi, ita cum tuis omnibus converseris nobiscum.
 
-19 Tunc Ozias, finito consilio, suscepit eum in domum suam, et fecit ei cœnam magnam.
+19 Tunc Ozias, finito consilio, suscepit eum in domum suam, et fecit ei coenam magnam.
 
 20 Et vocatis omnibus presbyteris, simul expleto ieiunio refecerunt.
 

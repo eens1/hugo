@@ -56,7 +56,7 @@ pères, et où coulent du lait et du miel. Et lorsqu'ils auront mangé, et qu'il
 
 ***Note*** :  Dr. 31, 27 : D’un cou très roide ; qui supporte très difficilement le joug, tout à fait indomptable.
 
-28 Assemblez auprès de moi tous les anciens selon vos tribus et vos docteurs, et je leur ferai entendre ces paroles, et j'invoquerai contre eux le ciel et la terre. 29 Car je sais qu'après ma mort vous agirez avec iniquité, et que vous vous détournerez bien vite de la voie que je vous ai prescrite : et que les maux viendront au-devant de vous dans les derniers temps, quand vous aurez fait le mal en la présence du Seigneur, de manière à l'irriter par les œuvres de vos mains.
+28 Assemblez auprès de moi tous les anciens selon vos tribus et vos docteurs, et je leur ferai entendre ces paroles, et j'invoquerai contre eux le ciel et la terre. 29 Car je sais qu'après ma mort vous agirez avec iniquité, et que vous vous détournerez bien vite de la voie que je vous ai prescrite : et que les maux viendront au-devant de vous dans les derniers temps, quand vous aurez fait le mal en la présence du Seigneur, de manière à l'irriter par les oeuvres de vos mains.
 
 
 30 Moïse prononça donc les paroles de ce cantique, l'assemblée entière d'Israël écoutant, et il le récita jusqu'à la fin.

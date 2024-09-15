@@ -14,7 +14,7 @@ summary: |
 
 ***Note*** :  Ps. 42, 1-4 : Prière pour que Dieu délivre le Psalmiste de ses ennemis et lui fasse voir la demeure du Seigneur.
 
-***Note*** :  Ps. 42, 1-5 : Le psaume 42 est récité tous les jours au pied de l’autel par le prêtre qui va offrir le saint sacrifice. Par les hésitations qu’il exprime, avec ses alternatives de trouble et de confiance, il est admirablement propre à exterminer les sentiments qui remplissent le cœur du ministre de Dieu à ce moment solennel.
+***Note*** :  Ps. 42, 1-5 : Le psaume 42 est récité tous les jours au pied de l’autel par le prêtre qui va offrir le saint sacrifice. Par les hésitations qu’il exprime, avec ses alternatives de trouble et de confiance, il est admirablement propre à exterminer les sentiments qui remplissent le coeur du ministre de Dieu à ce moment solennel.
 
 2 Parce que vous êtes, ô Dieu, ma force : pourquoi m'avez-vous repoussé? 3 Envoyez votre lumière et votre vérité : elles m'ont conduit et m'ont amené à votre montagne sainte et dans vos tabernacles.
 

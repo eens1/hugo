@@ -23,13 +23,13 @@ draft: false
 
 9 Qui tenet vultum solii sui, et expandit super illud nebulam suam.
 
-10 Terminum circumdedit aquis, usque dum finiantur lux et tenebræ.
+10 Terminum circumdedit aquis, usque dum finiantur lux et tenebrae.
 
-11 Columnæ cæli contremiscunt, et pavent ad nutum eius.
+11 Columnae caeli contremiscunt, et pavent ad nutum eius.
 
 12 In fortitudine illius repente maria congregata sunt, et prudentia eius percussit superbum.
 
-13 Spiritus eius ornavit cælos: et obstetricante manu eius, eductus est coluber tortuosus.
+13 Spiritus eius ornavit caelos: et obstetricante manu eius, eductus est coluber tortuosus.
 
-14 Ecce, hæc ex parte dicta sunt viarum eius: et cum vix parvam stillam sermonis eius audierimus, quis poterit tonitruum magnitudinis illius intueri?
+14 Ecce, haec ex parte dicta sunt viarum eius: et cum vix parvam stillam sermonis eius audierimus, quis poterit tonitruum magnitudinis illius intueri?
 

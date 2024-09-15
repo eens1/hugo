@@ -30,7 +30,7 @@ summary: |
 
 7 Mais Machabée espérait toujours avec une entière confiance qu'un secours lui viendrait de Dieu. 8 Et il exhortait les siens à ne pas s'effrayer à la venue des nations, mais à avoir présents à l'esprit les secours qui leur avaient été donnés du ciel, et à espérer présentement que la victoire leur viendrait du Tout-Puissant. 9 Et leur ayant parlé de la loi et des prophètes, leur ayant rappelé aussi les combats qu'ils avaient livrés auparavant, il les rendit plus résolus. 10 Et après avoir ainsi relevé leur courage, il leur montrait en même temps la fourberie des nations, et la violation des serments. 11 Il arma donc chacun d'eux, non point de boucliers et de lances, mais de paroles excellentes et d'exhortations, leur rapportant un songe digne de foi, par lequel il les réjouit tous.
 
-12 Or telle était sa vision; il vit qu'Onias, qui avait été grand prêtre, homme de bien et bienveillant, modeste dans le regard, réservé dans ses mœurs, agréable dans ses discours et qui dès l'enfance était exercé à la pratique des vertus, tendant ses mains, priait pour tout le peuple des Juifs ;
+12 Or telle était sa vision; il vit qu'Onias, qui avait été grand prêtre, homme de bien et bienveillant, modeste dans le regard, réservé dans ses moeurs, agréable dans ses discours et qui dès l'enfance était exercé à la pratique des vertus, tendant ses mains, priait pour tout le peuple des Juifs ;
 
 ***Note*** :  II Macc. 15, 12 : Onias III, si souvent loué dans l’Ecriture. Comparer à 2 Machabées, 4, 34.
 
@@ -59,7 +59,7 @@ summary: |
 23 Maintenant aussi, dominateur des cieux, envoyez votre bon ange devant nous dans la crainte et la frayeur de la grandeur de votre bras, 24 Afin qu'ils craignent, ceux qui viennent avec le blasphème contre votre saint peuple. Et c'est ainsi que Machabée pria.
 
 
-25 Cependant Nicanor, et ceux qui étaient avec lui, approchaient au milieu des trompettes et des cantiques. 26 Mais Judas et ceux qui étaient avec lui, ayant invoqué Dieu par leurs prières, commencèrent l'attaque. 27 Combattant des mains, il est vrai, mais priant le Seigneur en leurs cœurs, ils ne tuèrent pas moins de trente-cinq mille hommes, grandement charmés de la présence de Dieu.
+25 Cependant Nicanor, et ceux qui étaient avec lui, approchaient au milieu des trompettes et des cantiques. 26 Mais Judas et ceux qui étaient avec lui, ayant invoqué Dieu par leurs prières, commencèrent l'attaque. 27 Combattant des mains, il est vrai, mais priant le Seigneur en leurs coeurs, ils ne tuèrent pas moins de trente-cinq mille hommes, grandement charmés de la présence de Dieu.
 
 
 28 Et lorsqu'ils eurent cessé le combat, et qu'ils s'en retournaient avec joie, ils surent que Nicanor était tombé avec ses armes. 29 C'est pourquoi un cri ayant été jeté, et un bruit confus s'étant élevé dans la langue de leur patrie, ils bénissaient le Seigneur tout puissant.

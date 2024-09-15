@@ -19,7 +19,7 @@ draft: false
 
 > *1 Corinthiens 7:12-15* : "Mais aux autres, je dis, moi, et non le Seigneur : Si l'un de nos frères a une femme infidèle, et qu'elle consente à demeurer avec lui, qu'il ne se sépare point d'elle. Et si une femme fidèle a un mari infidèle, et qu'il consente à demeurer avec elle, qu'elle ne se sépare point de son mari; Car le mari infidèle est sanctifié par la femme fidèle, et la femme infidèle est sanctifiée par le mari fidèle; autrement vos enfants seraient impurs, tandis que maintenant ils sont saints. 
 
-> Que si l'infidèle se sépare, qu'il se sépare; car notre frère ou notre sœur n'est plus asservie en ce cas; mais Dieu nous a appelés à la paix." [^3]
+> Que si l'infidèle se sépare, qu'il se sépare; car notre frère ou notre soeur n'est plus asservie en ce cas; mais Dieu nous a appelés à la paix." [^3]
 
 [^3]: Glaire 1905, p. 2738.
 

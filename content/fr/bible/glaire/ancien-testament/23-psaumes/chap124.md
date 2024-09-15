@@ -24,7 +24,7 @@ summary: |
 ***Note*** :  Ps. 124, 3 : La verge des pécheurs ; c’est leur domination, leurs injustes violences. ― Afin que les justes ne succombent pas à la violence de la tentation ; qu’ils ne se laissent pas aller au découragement et au désespoir, et qu’ils n’imitent point les pécheurs auxquels ils seraient assujettis. ― La pensée exprimée dans ce verset est que la captivité prendra fin.
 
 
-4 Faites du bien, Seigneur, aux bons, et aux droits de cœur.
+4 Faites du bien, Seigneur, aux bons, et aux droits de coeur.
 
 ***Note*** :  Ps. 124, 4-5 : Que Dieu traite le bon avec bonté ; le méchant, qu’il le punisse, et qu’il donne sa paix à Israël.
 

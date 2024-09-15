@@ -27,7 +27,7 @@ draft: false
 
 11 In Deo laudabo verbum, in Domino laudabo sermonem: in Deo speravi, non timebo quid faciat mihi homo.
 
-12 In me sunt Deus vota tua, quæ reddam, laudationes tibi.
+12 In me sunt Deus vota tua, quae reddam, laudationes tibi.
 
 13 Quoniam eripuisti animam meam de morte, et pedes meos de lapsu: ut placeam coram Deo in lumine viventium.
 

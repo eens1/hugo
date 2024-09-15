@@ -11,7 +11,7 @@ draft: false
 
 3 Non didici sapientiam, et non novi scientiam sanctorum.
 
-4 Quis ascendit in cælum atque descendit? quis continuit spiritum in manibus suis? quis colligavit aquas quasi in vestimento? quis suscitavit omnes terminos terræ? quod nomen est eius, et quod nomen filii eius, si nosti?
+4 Quis ascendit in caelum atque descendit? quis continuit spiritum in manibus suis? quis colligavit aquas quasi in vestimento? quis suscitavit omnes terminos terrae? quod nomen est eius, et quod nomen filii eius, si nosti?
 
 5 Omnis sermo Dei ignitus, clypeus est sperantibus in se:
 
@@ -25,43 +25,43 @@ draft: false
 
 10 Ne accuses servum ad Dominum suum, ne forte maledicat tibi, et corruas.
 
-11 Generatio, quæ patri suo maledicit, et quæ matri suæ non benedicit.
+11 Generatio, quae patri suo maledicit, et quae matri suae non benedicit.
 
-12 Generatio, quæ sibi munda videtur, et tamen non est lota a sordibus suis.
+12 Generatio, quae sibi munda videtur, et tamen non est lota a sordibus suis.
 
-13 Generatio, cuius excelsi sunt oculi, et palpebræ eius in alta surrectæ.
+13 Generatio, cuius excelsi sunt oculi, et palpebrae eius in alta surrectae.
 
-14 Generatio, quæ pro dentibus gladios habet, et commandit molaribus suis, ut comedat inopes de terra, et pauperes ex hominibus.
+14 Generatio, quae pro dentibus gladios habet, et commandit molaribus suis, ut comedat inopes de terra, et pauperes ex hominibus.
 
-15 Sanguisugæ duæ sunt filiæ, dicentes: Affer, Affer. Tria sunt insaturabilia, et quartum, quod numquam dicit: Sufficit.
+15 Sanguisugae duae sunt filiae, dicentes: Affer, Affer. Tria sunt insaturabilia, et quartum, quod numquam dicit: Sufficit.
 
-16 Infernus, et os vulvæ, et terra, quæ non satiatur aqua: ignis vero numquam dicit: Sufficit.
+16 Infernus, et os vulvae, et terra, quae non satiatur aqua: ignis vero numquam dicit: Sufficit.
 
-17 Oculum, qui subsannat patrem, et qui despicit partum matris suæ, effodiant eum corvi de torrentibus, et comedant eum filii aquilæ.
+17 Oculum, qui subsannat patrem, et qui despicit partum matris suae, effodiant eum corvi de torrentibus, et comedant eum filii aquilae.
 
 18 Tria sunt difficilia mihi, et quartum penitus ignoro:
 
-19 Viam aquilæ in cælo, viam colubri super petram, viam navis in medio mari, et viam viri in adolescentia.
+19 Viam aquilae in caelo, viam colubri super petram, viam navis in medio mari, et viam viri in adolescentia.
 
-20 Talis est et via mulieris adulteræ, quæ comedit, et tergens os suum dicit: Non sum operata malum.
+20 Talis est et via mulieris adulterae, quae comedit, et tergens os suum dicit: Non sum operata malum.
 
 21 Per tria movetur terra, et quartum non potest sustinere:
 
 22 Per servum cum regnaverit: per stultum cum saturatus fuerit cibo:
 
-23 per odiosam mulierem cum in matrimonio fuerit assumpta: et per ancillam cum fuerit heres dominæ suæ.
+23 per odiosam mulierem cum in matrimonio fuerit assumpta: et per ancillam cum fuerit heres dominae suae.
 
-24 Quatuor sunt minima terræ, et ipsa sunt sapientiora sapientibus.
+24 Quatuor sunt minima terrae, et ipsa sunt sapientiora sapientibus.
 
-25 Formicæ, populus infirmus, qui præparat in messe cibum sibi:
+25 Formicae, populus infirmus, qui praeparat in messe cibum sibi:
 
 26 lepusculus, plebs invalida, qui collocat in petra cubile suum:
 
 27 regem locusta non habet, et egreditur universa per turmas suas:
 
-28 stellio manibus nititur, et moratur in ædibus regis.
+28 stellio manibus nititur, et moratur in aedibus regis.
 
-29 Tria sunt, quæ bene gradiuntur, et quartum, quod incedit feliciter:
+29 Tria sunt, quae bene gradiuntur, et quartum, quod incedit feliciter:
 
 30 Leo fortissimus bestiarum, ad nullius pavebit occursum:
 

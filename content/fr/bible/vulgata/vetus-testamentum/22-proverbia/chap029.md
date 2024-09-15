@@ -7,9 +7,9 @@ draft: false
 
 1 Viro, qui corripientem dura cervice contemnit, repentinus ei superveniet interitus: et eum sanitas non sequetur.
 
-2 In multiplicatione iustorum lætabitur vulgus: cum impii sumpserint principatum, gemet populus.
+2 In multiplicatione iustorum laetabitur vulgus: cum impii sumpserint principatum, gemet populus.
 
-3 Vir, qui amat sapientiam, lætificat patrem suum: qui autem nutrit scorta, perdet substantiam.
+3 Vir, qui amat sapientiam, laetificat patrem suum: qui autem nutrit scorta, perdet substantiam.
 
 4 Rex iustus erigit terram, vir avarus destruet eam.
 
@@ -23,7 +23,7 @@ draft: false
 
 9 Vir sapiens, si cum stulto contenderit, sive irascatur, sive rideat, non inveniet requiem.
 
-10 Viri sanguinum oderunt simplicem: iusti autem quærunt animam eius.
+10 Viri sanguinum oderunt simplicem: iusti autem quaerunt animam eius.
 
 11 Totum spiritum suum profert stultus: sapiens differt, et reservat in posterum.
 
@@ -31,13 +31,13 @@ draft: false
 
 13 Pauper, et creditor obviaverunt sibi: utriusque illuminator est Dominus.
 
-14 Rex, qui iudicat in veritate pauperes, thronus eius in æternum firmabitur.
+14 Rex, qui iudicat in veritate pauperes, thronus eius in aeternum firmabitur.
 
-15 Virga atque correptio tribuit sapientiam: puer autem, qui dimittitur voluntati suæ, confundit matrem suam.
+15 Virga atque correptio tribuit sapientiam: puer autem, qui dimittitur voluntati suae, confundit matrem suam.
 
 16 In multiplicatione impiorum multiplicabuntur scelera: et iusti ruinas eorum videbunt.
 
-17 Erudi filium tuum, et refrigerabit te, et dabit delicias animæ tuæ.
+17 Erudi filium tuum, et refrigerabit te, et dabit delicias animae tuae.
 
 18 Cum prophetia defecerit, dissipabitur populus: qui vero custodit legem, beatus est.
 

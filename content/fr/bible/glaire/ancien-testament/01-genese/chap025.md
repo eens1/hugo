@@ -56,7 +56,7 @@ summary: |
 19 Voici aussi les générations d'Isaac fils d'Abraham : Abraham engendra Isaac,
 
 
-20 Lequel, lorsqu'il était âgé de quarante ans, prit pour femme Rébecca, fille de Bathuel, Syrien de Mésopotamie, et sœur de Laban. 21 Or Isaac implora le Seigneur pour sa femme, parce qu'elle était stérile : et le Seigneur l'exauça, et accorda la conception à Rébecca. 22 Mais ses enfants s'entrechoquaient dans son sein ; elle dit : S'il devait en être ainsi pour moi, qu'était-il besoin de concevoir? Et elle alla, pour consulter le Seigneur, 23 Qui répondant, dit : Deux nations sont dans ton sein, et deux peuples sortis de ton ventre se diviseront; un peuple surpassera l'autre peuple, et l'aîné servira le plus jeune.
+20 Lequel, lorsqu'il était âgé de quarante ans, prit pour femme Rébecca, fille de Bathuel, Syrien de Mésopotamie, et soeur de Laban. 21 Or Isaac implora le Seigneur pour sa femme, parce qu'elle était stérile : et le Seigneur l'exauça, et accorda la conception à Rébecca. 22 Mais ses enfants s'entrechoquaient dans son sein ; elle dit : S'il devait en être ainsi pour moi, qu'était-il besoin de concevoir? Et elle alla, pour consulter le Seigneur, 23 Qui répondant, dit : Deux nations sont dans ton sein, et deux peuples sortis de ton ventre se diviseront; un peuple surpassera l'autre peuple, et l'aîné servira le plus jeune.
 
 ***Note*** :  Gn. 25, 23 : Voir Romains, 9, 10.
 

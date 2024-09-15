@@ -5,35 +5,35 @@ draft: false
 ---
 
 
-1 Altitudinis firmamentum pulchritudo eius est, species cæli in visione gloriæ.
+1 Altitudinis firmamentum pulchritudo eius est, species caeli in visione gloriae.
 
 2 Sol in aspectu annuncians in exitu, vas admirabile opus excelsi.
 
 3 In meridiano exurit terram, et in conspectu ardoris eius quis poterit sustinere? Fornacem custodiens in operibus ardoris:
 
-4 tripliciter sol exurens montes, radios igneos exsufflans, et refulgens radiis suis obcæcat oculos.
+4 tripliciter sol exurens montes, radios igneos exsufflans, et refulgens radiis suis obcaecat oculos.
 
 5 Magnus Dominus qui fecit illum, et in sermonibus eius festinavit iter.
 
-6 Et luna in omnibus in tempore suo, ostensio temporis, et signum ævi.
+6 Et luna in omnibus in tempore suo, ostensio temporis, et signum aevi.
 
 7 A luna signum diei festi, luminare quod minuitur in consummatione.
 
 8 Mensis secundum nomen eius est, crescens mirabiliter in consummatione.
 
-9 Vas castrorum in excelsis, in firmamento cæli resplendens gloriose.
+9 Vas castrorum in excelsis, in firmamento caeli resplendens gloriose.
 
-10 Species cæli gloria stellarum, mundum illuminans in excelsis Dominus.
+10 Species caeli gloria stellarum, mundum illuminans in excelsis Dominus.
 
 11 In verbis sancti stabunt ad iudicium, et non deficient in vigiliis suis.
 
 12 Vide arcum, et benedic eum, qui fecit illum: valde speciosus est in splendore suo.
 
-13 Gyravit cælum in circuitu gloriæ suæ, manus Excelsi aperuerunt illum.
+13 Gyravit caelum in circuitu gloriae suae, manus Excelsi aperuerunt illum.
 
 14 Imperio suo acceleravit nivem, et accelerat coruscationes emittere iudicii sui.
 
-15 Propterea aperti sunt thesauri, et evolaverunt nebulæ sicut aves.
+15 Propterea aperti sunt thesauri, et evolaverunt nebulae sicut aves.
 
 16 In magnitudine sua posuit nubes, et confracti sunt lapides grandinis.
 
@@ -51,13 +51,13 @@ draft: false
 
 23 Et devorabit montes, et exuret desertum, et extinguet viride, sicut igne.
 
-24 Medicina omnium in festinatione nebulæ: et ros obvians ab ardore venienti humilem efficiet eum.
+24 Medicina omnium in festinatione nebulae: et ros obvians ab ardore venienti humilem efficiet eum.
 
 25 In sermone eius siluit ventus, et cogitatione sua placavit abyssum, et plantavit in illa Dominus insulas.
 
 26 Qui navigant mare, enarrent pericula eius: et audientes auribus nostris admirabimur.
 
-27 Illic præclara opera, et mirabilia: varia bestiarum genera, et omnium pecorum, et creatura belluarum.
+27 Illic praeclara opera, et mirabilia: varia bestiarum genera, et omnium pecorum, et creatura belluarum.
 
 28 Propter ipsum confirmatus est itineris finis, et in sermone eius composita sunt omnia.
 

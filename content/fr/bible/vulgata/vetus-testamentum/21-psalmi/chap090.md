@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Laus Cantici David. Qui habitat in adiutorio Altissimi, in protectione Dei cæli commorabitur.
+1 Laus Cantici David. Qui habitat in adiutorio Altissimi, in protectione Dei caeli commorabitur.
 
 2 Dicet Domino: Susceptor meus es tu, et refugium meum: Deus meus sperabo in eum.
 
@@ -15,7 +15,7 @@ draft: false
 
 5 Scuto circumdabit te veritas eius: non timebis a timore nocturno,
 
-6 A sagitta volante in die, a negotio perambulante in tenebris: ab incursu, et dæmonio meridiano.
+6 A sagitta volante in die, a negotio perambulante in tenebris: ab incursu, et daemonio meridiano.
 
 7 Cadent a latere tuo mille, et decem millia a dextris tuis: ad te autem non appropinquabit.
 

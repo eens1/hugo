@@ -61,7 +61,7 @@ summary: |
 
 ***Note*** :  III Rois 7, 23 : Voir 2 Paralipomènes, 4, 2. ― Toute ronde ; absolument ronde. C’est le vrai sens de l’expression pléonastique ronde autour, qui se trouve également dans le texte hébreu.
 
-24 Et une sculpture au-dessous du bord entourait cette mer, l'environnant dans l'espace de dix coudées; deux rangs de sculptures striées avaient été jetées en fonte. 25 Et cette mer était posée sur douze bœufs, dont trois regardaient l'aquilon, trois l'occident, trois le midi et trois l'orient; et la mer était sur ces bœufs, dont toute la partie de derrière était cachée en dedans. 26 Or, l'épaisseur du bassin était de trois pouces, et son bord, comme le bord d'une coupe et comme la feuille d'un lis épanoui ; il contenait deux mille bats.
+24 Et une sculpture au-dessous du bord entourait cette mer, l'environnant dans l'espace de dix coudées; deux rangs de sculptures striées avaient été jetées en fonte. 25 Et cette mer était posée sur douze boeufs, dont trois regardaient l'aquilon, trois l'occident, trois le midi et trois l'orient; et la mer était sur ces boeufs, dont toute la partie de derrière était cachée en dedans. 26 Or, l'épaisseur du bassin était de trois pouces, et son bord, comme le bord d'une coupe et comme la feuille d'un lis épanoui ; il contenait deux mille bats.
 
 ***Note*** :  III Rois 7, 26 : Le bat équivaut à 26 pintes et demies environ, ou à 28 litres 459.
 
@@ -70,7 +70,7 @@ summary: |
 
 ***Note*** :  III Rois 7, 27 : Bases ou socles ; espèce de caisses dans lesquelles on mettait des bassins pleins d’eau pour les besoins du temple.
 
-28 L'ouvrage lui-même des bases était à jour, et il y avait des sculptures entre les jointures; 29 Et entre les couronnes et les entre-lacs, des lions, des bœufs et des chérubins ; et dans les jointures également au-dessus et au-dessous, des lions, des bœufs, et comme des courroies d'airain qui pendaient. 30 Et à chaque base étaient quatre roues d'airain et des essieux d'airain ; et aux quatre côtés au-dessous du bassin, comme de petites épaules jetées en fonte, et se regardant l'une l'autre.
+28 L'ouvrage lui-même des bases était à jour, et il y avait des sculptures entre les jointures; 29 Et entre les couronnes et les entre-lacs, des lions, des boeufs et des chérubins ; et dans les jointures également au-dessus et au-dessous, des lions, des boeufs, et comme des courroies d'airain qui pendaient. 30 Et à chaque base étaient quatre roues d'airain et des essieux d'airain ; et aux quatre côtés au-dessous du bassin, comme de petites épaules jetées en fonte, et se regardant l'une l'autre.
 
 ***Note*** :  III Rois 7, 30 : Ces petites épaules étaient une sorte de consoles ou de supports ayant la forme d’une épaule.
 
@@ -87,7 +87,7 @@ summary: |
 40 Hiram fit aussi les chaudières , les écuelles et les petits seaux, et il acheva tout l'ouvrage du roi Salomon dans le temple du Seigneur.
 
 
-41 Il fit deux colonnes et les deux cordons des chapiteaux sur les chapiteaux des colonnes ; et les deux réseaux, pour couvrir les deux cordons qui étaient sur les chapiteaux des colonnes; 42 Et les quatre cents grenades dans les deux réseaux, deux rangs de grenades dans chaque réseau, pour couvrir les cordons des chapiteaux qui étaient sur les sommets des colonnes ; 43 Et les dix bases, et les dix bassins sur les bases ; 44 Et la mer unique, et les douze bœufs sous la mer; 45 Et les chaudières, et les écuelles et les petits seaux : tous les vases qu'Hiram fit au roi Salomon pour la maison du Seigneur, étaient d'airain fin, 46 C'est dans le pays plat du Jourdain que le roi les fit fondre dans la terre argileuse, entre Sochoth et Sarthan.
+41 Il fit deux colonnes et les deux cordons des chapiteaux sur les chapiteaux des colonnes ; et les deux réseaux, pour couvrir les deux cordons qui étaient sur les chapiteaux des colonnes; 42 Et les quatre cents grenades dans les deux réseaux, deux rangs de grenades dans chaque réseau, pour couvrir les cordons des chapiteaux qui étaient sur les sommets des colonnes ; 43 Et les dix bases, et les dix bassins sur les bases ; 44 Et la mer unique, et les douze boeufs sous la mer; 45 Et les chaudières, et les écuelles et les petits seaux : tous les vases qu'Hiram fit au roi Salomon pour la maison du Seigneur, étaient d'airain fin, 46 C'est dans le pays plat du Jourdain que le roi les fit fondre dans la terre argileuse, entre Sochoth et Sarthan.
 
 ***Note*** :  III Rois 7, 46 : Dans la terre argileuse. La partie de la vallée du Jourdain qui s’étend du lac de Tibériade à la mer Morte est un terrain argileux.
 

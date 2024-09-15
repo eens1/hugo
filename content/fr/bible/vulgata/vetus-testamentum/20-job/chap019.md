@@ -15,7 +15,7 @@ draft: false
 
 5 At vos contra me erigimini, et arguitis me opprobriis meis.
 
-6 Saltem nunc intelligite quia Deus non æquo iudicio afflixerit me, et flagellis suis me cinxerit.
+6 Saltem nunc intelligite quia Deus non aequo iudicio afflixerit me, et flagellis suis me cinxerit.
 
 7 Ecce clamabo vim patiens, et nemo audiet: vociferabor, et non est qui iudicet.
 
@@ -23,7 +23,7 @@ draft: false
 
 9 Spoliavit me gloria mea, et abstulit coronam de capite meo.
 
-10 Destruxit me undique, et pereo, et quasi evulsæ arbori abstulit spem meam.
+10 Destruxit me undique, et pereo, et quasi evulsae arbori abstulit spem meam.
 
 11 Iratus est contra me furor eius, et sic me habuit quasi hostem suum.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 Dereliquerunt me propinqui mei: et qui me noverant, obliti sunt mei.
 
-15 Inquilini domus meæ, et ancillæ meæ sicut alienum habuerunt me, et quasi peregrinus fui in oculis eorum.
+15 Inquilini domus meae, et ancillae meae sicut alienum habuerunt me, et quasi peregrinus fui in oculis eorum.
 
 16 Servum meum vocavi, et non respondit, ore proprio deprecabar illum.
 
@@ -43,7 +43,7 @@ draft: false
 
 19 Abominati sunt me quondam consiliarii mei: et quem maxime diligebam, aversatus est me.
 
-20 Pelli meæ, consumptis carnibus, adhæsit os meum, et derelicta sunt tantummodo labia circa dentes meos.
+20 Pelli meae, consumptis carnibus, adhaesit os meum, et derelicta sunt tantummodo labia circa dentes meos.
 
 21 Miseremini mei, miseremini mei, saltem vos amici mei, quia manus Domini tetigit me.
 
@@ -57,7 +57,7 @@ draft: false
 
 26 Et rursum circumdabor pelle mea, et in carne mea videbo Deum meum.
 
-27 Quem visurus sum ego ipse, et oculi mei conspecturi sunt, et non alius: reposita est hæc spes mea in sinu meo.
+27 Quem visurus sum ego ipse, et oculi mei conspecturi sunt, et non alius: reposita est haec spes mea in sinu meo.
 
 28 Quare ergo nunc dicitis: Persequamur eum, et radicem verbi inveniamus contra eum?
 

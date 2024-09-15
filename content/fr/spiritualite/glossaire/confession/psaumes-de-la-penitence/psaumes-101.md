@@ -12,7 +12,7 @@ summary: |
 
 2 Seigneur, exaucez ma prière, et que mon cri vienne jusqu'à vous. 3 Ne détournez pas votre face de moi ; en quelque jour que je sois dans la tribulation, inclinez vers moi votre oreille. En quelque jour que je vous invoque, exaucez-moi promptement;
 
-4 Parce que mes jours, comme la fumée, se sont évanouis, et mes os, comme une broutille, se sont desséchés. 5 J'ai été frappé comme une herbe, et mon cœur s'est flétri, parce que j'ai oublié de manger mon pain. 6 A la voix de mon gémissement, mes os se sont collés à ma peau.
+4 Parce que mes jours, comme la fumée, se sont évanouis, et mes os, comme une broutille, se sont desséchés. 5 J'ai été frappé comme une herbe, et mon coeur s'est flétri, parce que j'ai oublié de manger mon pain. 6 A la voix de mon gémissement, mes os se sont collés à ma peau.
 
 7 Je suis devenu semblable au pélican du désert; je suis devenu comme le hibou dans sa demeure.
 

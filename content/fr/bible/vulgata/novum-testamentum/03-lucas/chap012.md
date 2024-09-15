@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Multis autem turbis circumstantibus, ita ut se invicem conculcarent, cœpit dicere ad discipulos suos: Attendite a fermento Pharisæorum, quod est hypocrisis.
+1 Multis autem turbis circumstantibus, ita ut se invicem conculcarent, coepit dicere ad discipulos suos: Attendite a fermento Pharisaeorum, quod est hypocrisis.
 
 2 Nihil autem opertum est, quod non reveletur: neque absconditum, quod non sciatur.
 
-3 Quoniam quæ in tenebris dixistis, in lumine dicentur: et quod in aurem locuti estis in cubiculis, prædicabitur in tectis.
+3 Quoniam quae in tenebris dixistis, in lumine dicentur: et quod in aurem locuti estis in cubiculis, praedicabitur in tectis.
 
-4 Dico autem vobis amicis meis: Ne terreamini ab his, qui occidunt corpus, et post hæc non habent amplius quid faciant.
+4 Dico autem vobis amicis meis: Ne terreamini ab his, qui occidunt corpus, et post haec non habent amplius quid faciant.
 
 5 Ostendam autem vobis quem timeatis: timete eum, qui, postquam occiderit, habet potestatem mittere in gehennam. ita dico vobis, hunc timete.
 
-6 Nonne quinque passeres væneunt dipondio, et unus ex illis non est in oblivione coram Deo?
+6 Nonne quinque passeres vaeneunt dipondio, et unus ex illis non est in oblivione coram Deo?
 
 7 Sed et capilli capitis vestri omnes numerati sunt. Nolite ergo timere: multis passeribus pluris estis vos:
 
@@ -33,21 +33,21 @@ draft: false
 
 14 At ille dixit illi: Homo, quis me constituit iudicem, aut divisorem super vos?
 
-15 Dixitque ad illos: Videte, et cavete ab omni avaritia: quia non in abundantia cuiusquam vita eius est ex his quæ possidet.
+15 Dixitque ad illos: Videte, et cavete ab omni avaritia: quia non in abundantia cuiusquam vita eius est ex his quae possidet.
 
 16 Dixit autem similitudinem ad illos, dicens: Hominis cuiusdam divitis uberes fructus ager attulit:
 
 17 et cogitabat intra se dicens: Quid faciam, quia non habeo quo congregam fructus meos?
 
-18 Et dixit: Hoc faciam: Destruam horrea mea, et maiora faciam: et illuc congregabo omnia, quæ nata sunt mihi, et bona mea,
+18 Et dixit: Hoc faciam: Destruam horrea mea, et maiora faciam: et illuc congregabo omnia, quae nata sunt mihi, et bona mea,
 
-19 et dicam animæ meæ: Anima, habes multa bona posita in annos plurimos: requiesce, comede, bibe, epulare.
+19 et dicam animae meae: Anima, habes multa bona posita in annos plurimos: requiesce, comede, bibe, epulare.
 
-20 Dixit autem illi Deus: Stulte, hac nocte animam tuam repetunt a te: quæ autem parasti, cuius erunt?
+20 Dixit autem illi Deus: Stulte, hac nocte animam tuam repetunt a te: quae autem parasti, cuius erunt?
 
 21 Sic est qui sibi thesaurizat, et non est in Deum dives.
 
-22 Dixitque ad discipulos suos: Ideo dico vobis: Nolite soliciti esse animæ vestræ quid manducetis: neque corpori quid induamini.
+22 Dixitque ad discipulos suos: Ideo dico vobis: Nolite soliciti esse animae vestrae quid manducetis: neque corpori quid induamini.
 
 23 Anima plus est quam esca, et corpus plus quam vestimentum.
 
@@ -59,25 +59,25 @@ draft: false
 
 27 Considerate lilia quomodo crescunt: non laborant, neque nent: dico autem vobis, nec Salomon in omni gloria sua vestiebatur sicut unum ex istis.
 
-28 Si autem fœnum, quod hodie est in agro, et cras in clibanum mittitur, Deus sic vestit: quanto magis vos pusillæ fidei?
+28 Si autem foenum, quod hodie est in agro, et cras in clibanum mittitur, Deus sic vestit: quanto magis vos pusillae fidei?
 
-29 Et vos nolite quærere quid manducetis, aut quid bibatis: et nolite in sublime tolli:
+29 Et vos nolite quaerere quid manducetis, aut quid bibatis: et nolite in sublime tolli:
 
-30 hæc enim omnia gentes mundi quærunt. Pater autem vester scit quoniam his indigetis.
+30 haec enim omnia gentes mundi quaerunt. Pater autem vester scit quoniam his indigetis.
 
-31 Verumtamen quærite primum regnum Dei, et iustitiam eius: et hæc omnia adiicientur vobis.
+31 Verumtamen quaerite primum regnum Dei, et iustitiam eius: et haec omnia adiicientur vobis.
 
 32 Nolite timere pusillus grex, quia complacuit patri vestro dare vobis regnum.
 
-33 Vendite quæ possidetis, et date eleemosynam. Facite vobis sacculos, qui non veterascunt, thesaurum non deficientem in cælis: quo fur non appropriat, neque tinea corrumpit.
+33 Vendite quae possidetis, et date eleemosynam. Facite vobis sacculos, qui non veterascunt, thesaurum non deficientem in caelis: quo fur non appropriat, neque tinea corrumpit.
 
 34 Ubi enim thesaurus vester est, ibi et cor vestrum erit.
 
-35 Sint lumbi vestri præcincti, et lucernæ ardentes in manibus vestris,
+35 Sint lumbi vestri praecincti, et lucernae ardentes in manibus vestris,
 
 36 et vos similes hominibus expectantibus dominum suum quando revertatur a nuptiis: ut, cum venerit, et pulsaverit, confestim aperiant ei.
 
-37 Beati servi illi, quos cum venerit dominus, invenerit vigilantes: amen dico vobis, quod præcinget se, et faciet illos discumbere, et transiens ministrabit illis.
+37 Beati servi illi, quos cum venerit dominus, invenerit vigilantes: amen dico vobis, quod praecinget se, et faciet illos discumbere, et transiens ministrabit illis.
 
 38 Et si venerit in secunda vigilia, et si in tertia vigilia venerit, et ita invenerit, beati sunt servi illi.
 
@@ -91,15 +91,15 @@ draft: false
 
 43 Beatus ille servus, quem cum venerit dominus, invenerit ita facientem.
 
-44 Vere dico vobis, quoniam supra omnia, quæ possidet, constituet illum.
+44 Vere dico vobis, quoniam supra omnia, quae possidet, constituet illum.
 
-45 Quod si dixerit servus ille in corde suo: Moram facit dominus meus venire: et cœperit percutere servos, et ancillas, et edere, et bibere, et inebriari:
+45 Quod si dixerit servus ille in corde suo: Moram facit dominus meus venire: et coeperit percutere servos, et ancillas, et edere, et bibere, et inebriari:
 
 46 veniet dominus servi illius in die, qua non sperat, et hora, qua nescit, et dividet eum, partemque eius cum infidelibus ponet.
 
-47 Ille autem servus, qui cognovit voluntatem domini sui, et non præparavit, et non facit secundum voluntatem eius, vapulabit multis:
+47 Ille autem servus, qui cognovit voluntatem domini sui, et non praeparavit, et non facit secundum voluntatem eius, vapulabit multis:
 
-48 qui autem non cognovit, et fecit digna plagis, vapulabit paucis. Omni autem, cui multum datum est, multum quæretur ab eo: et cui commendaverunt multum, plus petent ab eo.
+48 qui autem non cognovit, et fecit digna plagis, vapulabit paucis. Omni autem, cui multum datum est, multum quaeretur ab eo: et cui commendaverunt multum, plus petent ab eo.
 
 49 Ignem veni mittere in terram, et quid volo nisi ut accendatur?
 
@@ -113,9 +113,9 @@ draft: false
 
 54 Dicebat autem et ad turbas: Cum videritis nubem orientem ab occasu, statim dicitis: Nimbus venit: et ita fit.
 
-55 Et cum austrum flantem, dicitis: Quia æstus erit: et fit.
+55 Et cum austrum flantem, dicitis: Quia aestus erit: et fit.
 
-56 Hypocritæ faciem cæli, et terræ nostis probare: hoc autem tempus quomodo non probatis?
+56 Hypocritae faciem caeli, et terrae nostis probare: hoc autem tempus quomodo non probatis?
 
 57 Quid autem et a vobis ipsis non iudicatis quod iustum est?
 

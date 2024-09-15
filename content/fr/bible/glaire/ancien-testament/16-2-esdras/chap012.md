@@ -39,7 +39,7 @@ summary: |
 ***Note*** :  II Esdras 12, 30 : Se purifièrent, etc. , selon les prescriptions de la loi. Voir Nombres, 8, 6-7.
 
 
-31 Or je fis monter les princes de Juda sur le mur, et j'établis deux grands chœurs de ceux qui chantaient des louanges. Ils allèrent à droite, sur le mur, vers la porte du fumier.
+31 Or je fis monter les princes de Juda sur le mur, et j'établis deux grands choeurs de ceux qui chantaient des louanges. Ils allèrent à droite, sur le mur, vers la porte du fumier.
 
 ***Note*** :  II Esdras 12, 31 : Vers la porte du fumier, au sud de Jérusalem.
 
@@ -47,14 +47,14 @@ summary: |
 
 ***Note*** :  II Esdras 12, 35 : Ses frères ; c’est-à-dire les frères de Zacharie. ― A la porte de la fontaine, au sud-est de Jérusalem.
 
-36 Or ils montèrent, vis-à-vis d'eux, sur les degrés de la cité de David, au montant du mur sur la maison de David, et jusqu'à la porte des eaux, vers l'orient. 37 Et le second chœur de ceux qui rendaient grâces à Dieu allait à l'opposite, et moi après eux, et la moitié du peuple sur le mur et sur la tour des fourneaux, et jusqu'au mur le plus large,
+36 Or ils montèrent, vis-à-vis d'eux, sur les degrés de la cité de David, au montant du mur sur la maison de David, et jusqu'à la porte des eaux, vers l'orient. 37 Et le second choeur de ceux qui rendaient grâces à Dieu allait à l'opposite, et moi après eux, et la moitié du peuple sur le mur et sur la tour des fourneaux, et jusqu'au mur le plus large,
 
 
 38 Puis sur la porte d'Ephraïm, sur la porte ancienne et sur la porte des poissons, et sur la tour d'Hananéel, et sur la tour d'Emath, et jusqu'à la porte du troupeau ; et ils s'arrêtèrent à la porte de la prison.
 
 ***Note*** :  II Esdras 12, 38 : La porte d’Ephraïm, au nord de Jérusalem. ― La porte ancienne, à l’angle au nord-est. ― La porte des poissons, au nord. ― La porte du troupeau, au nord-est. ― La porte de la prison, à l’est.
 
-39 Or les deux chœurs de ceux qui chantaient des louanges s'arrêtèrent dans la maison de Dieu, et moi, et la moitié des magistrats avec moi ;
+39 Or les deux choeurs de ceux qui chantaient des louanges s'arrêtèrent dans la maison de Dieu, et moi, et la moitié des magistrats avec moi ;
 
 
 40 Et les prêtres, Eliachim, Maasia, Miamin, Michéa, Elioénaï, Zacharie et Hanania, avec des trompettes; 41 Et Maasia, Séméia, Eléazar, Azzi, Johanan, Melchia, Elam et Ezer. Et les chantres chantèrent avec éclat, et Jézraïa leur préposé ; 42 Et ils immolèrent en ce jour-là de grandes victimes, et ils se livrèrent à l'allégresse ; car Dieu les avait remplis d'une grande joie ; mais leurs femmes aussi et leurs enfants se réjouirent, et la joie de Jérusalem fut entendue au loin.

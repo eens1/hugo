@@ -7,7 +7,7 @@ draft: false
 
 1 Quod si hostia pacificorum fuerit eius oblatio, et de bobus voluerit offerre, marem sive feminam, immaculata offeret coram Domino.
 
-2 Ponetque manum super caput victimæ suæ, quæ immolabitur in introitu tabernaculi testimonii, fundentque filii Aaron sacerdotes, sanguinem per altaris circuitum.
+2 Ponetque manum super caput victimae suae, quae immolabitur in introitu tabernaculi testimonii, fundentque filii Aaron sacerdotes, sanguinem per altaris circuitum.
 
 3 Et offerent de hostia pacificorum in oblationem Domino, adipem qui operit vitalia, et quidquid pinguedinis est intrinsecus:
 
@@ -19,11 +19,11 @@ draft: false
 
 7 Si agnum obtulerit coram Domino,
 
-8 ponet manum suam super caput victimæ suæ: quæ immolabitur in vestibulo tabernaculi testimonii: fundentque filii Aaron sanguinem eius per circuitum altaris.
+8 ponet manum suam super caput victimae suae: quae immolabitur in vestibulo tabernaculi testimonii: fundentque filii Aaron sanguinem eius per circuitum altaris.
 
 9 Et offerent de pacificorum hostia sacrificium Domino: adipem et caudam totam
 
-10 cum renibus, et pinguedinem quæ operit ventrem atque universa vitalia, et utrumque renunculum cum adipe qui est iuxta ilia, reticulumque iecoris cum renunculis.
+10 cum renibus, et pinguedinem quae operit ventrem atque universa vitalia, et utrumque renunculum cum adipe qui est iuxta ilia, reticulumque iecoris cum renunculis.
 
 11 et adolebit ea sacerdos super altare in pabulum ignis et oblationis Domini.
 

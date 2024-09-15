@@ -12,7 +12,7 @@ summary: |
 
 1 Ne perdez pas entièrement; par David, pour une inscription de titre, lorsqu'il s'enfuit de devant la face de Saül dans la caverne.
 
-***Note*** :  Ps. 56, 1 : Dans la caverne ou d’Odollam (voir 1 Rois, 22, 1), ou d’Engaddi (voir 1 Rois, 24, 1-4). ― En hébreu : « Au chef de chœur. [Sur l’air de] ‘al thaschkheth (ne perds pas). De David. Mikthâm. »
+***Note*** :  Ps. 56, 1 : Dans la caverne ou d’Odollam (voir 1 Rois, 22, 1), ou d’Engaddi (voir 1 Rois, 24, 1-4). ― En hébreu : « Au chef de choeur. [Sur l’air de] ‘al thaschkheth (ne perds pas). De David. Mikthâm. »
 
 
 2 Ayez pitié de moi, ô Dieu, ayez pitié de moi, parce que mon âme s'est confiée en vous. Et à l'ombre de vos ailes, j'espérerai jusqu'à ce que l'iniquité soit passée.
@@ -38,7 +38,7 @@ summary: |
 ***Note*** :  Ps. 56, 7 : Ils ont courbé mon âme ; c’est-à-dire ils l’ont fait fléchir sous le poids des maux qu’ils lui ont causés.
 
 
-8 Mon cœur est prêt, ô Dieu, mon cœur est prêt: je chanterai et je dirai un psaume. 9 Lève-toi, ô ma gloire, lève-toi, psaltérion, et toi, harpe : je me lèverai au point du jour.
+8 Mon coeur est prêt, ô Dieu, mon coeur est prêt: je chanterai et je dirai un psaume. 9 Lève-toi, ô ma gloire, lève-toi, psaltérion, et toi, harpe : je me lèverai au point du jour.
 
 ***Note*** :  Ps. 56, 9 : Ma gloire signifie probablement mon âme ; selon d’autres, mes instruments ; suivant saint Athanase, mon esprit de prophétie.
 

@@ -15,7 +15,7 @@ summary: |
 
 ***Note*** :  III Rois 9, 2 : Voir 3 Rois, 3, 5 ; 2 Paralipomènes, 7, 12. ― Gabaon. Voir 3 Rois, 3, 4.
 
-3 Et le Seigneur lui dit : J'ai exaucé ta prière et tes supplications que tu as faites devant moi : j'ai sanctifié cette maison que tu as bâtie, afin que j'y établisse mon nom à jamais ; et mes yeux et mon cœur seront là tous les jours. 4 Toi aussi tu marches devant moi comme a marché ton père, dans la simplicité de cœur et dans l'équité ; et si tu fais tout ce que je t'ai ordonné, et que tu gardes mes lois et mes ordonnances, 5 J'établirai le trône de ton règne sur Israël à jamais, comme je l'ai promis à David ton père, disant : Un homme de ta race ne sera pas ôté du trône d'Israël.
+3 Et le Seigneur lui dit : J'ai exaucé ta prière et tes supplications que tu as faites devant moi : j'ai sanctifié cette maison que tu as bâtie, afin que j'y établisse mon nom à jamais ; et mes yeux et mon coeur seront là tous les jours. 4 Toi aussi tu marches devant moi comme a marché ton père, dans la simplicité de coeur et dans l'équité ; et si tu fais tout ce que je t'ai ordonné, et que tu gardes mes lois et mes ordonnances, 5 J'établirai le trône de ton règne sur Israël à jamais, comme je l'ai promis à David ton père, disant : Un homme de ta race ne sera pas ôté du trône d'Israël.
 
 ***Note*** :  III Rois 9, 5 : Voir 2 Rois, 7, vv. 12, 16.
 

@@ -28,7 +28,7 @@ summary: |
 6 A cause de cela, la malédiction dévorera la terre, et ses habitants pécheront; et à cause de cela ceux qui la cultivent deviendront insensés, et peu d'hommes seront laissés.
 
 
-7 La vendange a pleuré, la vigne a langui, tous ceux qui se réjouissaient de cœur ont gémi. 8 La joie des tambours a cessé, le bruit de ceux qui se livraient à l'allégresse s'est calmé, le doux son de la harpe est devenu muet. 9 On ne boira pas le vin au milieu des chants; amère sera toute liqueur pour ceux qui la boiront.
+7 La vendange a pleuré, la vigne a langui, tous ceux qui se réjouissaient de coeur ont gémi. 8 La joie des tambours a cessé, le bruit de ceux qui se livraient à l'allégresse s'est calmé, le doux son de la harpe est devenu muet. 9 On ne boira pas le vin au milieu des chants; amère sera toute liqueur pour ceux qui la boiront.
 
 
 10 Elle a été brisée, la cité de vanité; toute maison a été fermée, personne n'y entrant. 11 Il y aura une clameur sur les places publiques, au sujet du vin. Toute allégresse a été abandonnée; la joie de la terre a été transférée.

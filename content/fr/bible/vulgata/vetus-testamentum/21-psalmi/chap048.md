@@ -7,9 +7,9 @@ draft: false
 
 1 In finem, filiis Core Psalmus.
 
-2 Audite hæc omnes Gentes: auribus percipite omnes, qui habitatis orbem:
+2 Audite haec omnes Gentes: auribus percipite omnes, qui habitatis orbem:
 
-3 Quique terrigenæ, et filii hominum: simul in unum dives et pauper.
+3 Quique terrigenae, et filii hominum: simul in unum dives et pauper.
 
 4 Os meum loquetur sapientiam: et meditatio cordis mei prudentiam.
 
@@ -21,17 +21,17 @@ draft: false
 
 8 Frater non redimit, redimet homo: non dabit Deo placationem suam.
 
-9 Et pretium redemptionis animæ suæ: et laborabit in æternum,
+9 Et pretium redemptionis animae suae: et laborabit in aeternum,
 
 10 et vivet adhuc in finem.
 
 11 Non videbit interitum, cum viderit sapientes morientes: simul insipiens, et stultus peribunt. Et relinquent alienis divitias suas:
 
-12 et sepulchra eorum domus illorum in æternum. Tabernacula eorum in progenie, et progenie: vocaverunt nomina sua in terris suis.
+12 et sepulchra eorum domus illorum in aeternum. Tabernacula eorum in progenie, et progenie: vocaverunt nomina sua in terris suis.
 
 13 Et homo, cum in honore esset, non intellexit: comparatus est iumentis insipientibus, et similis factus est illis.
 
-14 Hæc via illorum scandalum ipsis: et postea in ore suo complacebunt.
+14 Haec via illorum scandalum ipsis: et postea in ore suo complacebunt.
 
 15 Sicut oves in inferno positi sunt: mors depascet eos. Et dominabuntur eorum iusti in matutino: et auxilium eorum veterascet in inferno a gloria eorum.
 
@@ -43,7 +43,7 @@ draft: false
 
 19 Quia anima eius in vita ipsius benedicetur: confitebitur tibi cum benefeceris ei.
 
-20 Introibit usque in progenies patrum suorum: et usque in æternum non videbit lumen.
+20 Introibit usque in progenies patrum suorum: et usque in aeternum non videbit lumen.
 
 21 Homo, cum in honore esset, non intellexit: comparatus est iumentis insipientibus, et similis factus est illis.
 

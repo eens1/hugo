@@ -11,7 +11,7 @@ draft: false
 
 3 Filii Ozi: Izrahia, de quo nati sunt Michael, et Obadia, et Ioel, et Iesia, quinque omnes principes.
 
-4 Cumque eis per familias, et populos suos, accincti ad prælium, viri fortissimi, triginta sex millia: multas enim habuerunt uxores, et filios.
+4 Cumque eis per familias, et populos suos, accincti ad praelium, viri fortissimi, triginta sex millia: multas enim habuerunt uxores, et filios.
 
 5 Fratres quoque eorum per omnem cognationem Issachar robustissimi ad pugnandum, octoginta septem millia numerati sunt.
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Porro filii Iadihel: Balan. Filii autem Balan: Iehus, et Beniamin, et Aod, et Chanana, et Zethan, et Tharsis, et Ahisahar.
 
-11 omnes hi filii Iadihel, principes cognationum suarum, viri fortissimi, decem et septem millia, et ducenti ad prælium procedentes.
+11 omnes hi filii Iadihel, principes cognationum suarum, viri fortissimi, decem et septem millia, et ducenti ad praelium procedentes.
 
 12 Sepham quoque, et Hapham filii Hir: et Hasim filii Aher.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 Porro filius Manasse, Esriel: concubinaque eius Syra peperit Machir patrem Galaad.
 
-15 Machir autem accepit uxores filiis suis Happhim, et Saphan: et habuit sororem nomine Maacha: nomen autem secundi, Salphaad, natæque sunt Salphaad filiæ.
+15 Machir autem accepit uxores filiis suis Happhim, et Saphan: et habuit sororem nomine Maacha: nomen autem secundi, Salphaad, nataeque sunt Salphaad filiae.
 
 16 et peperit Maacha uxor Machir filium, vocavitque nomen eius Phares: porro nomen fratris eius, Sares: et filii eius, Ulam, et Recen.
 
@@ -45,13 +45,13 @@ draft: false
 
 20 Filii autem Ephraim: Suthala, Bared filius eius, Thahath filius eius, Elada filius eius, Thahath filius eius, huius filius Zabad,
 
-21 et huius filius Suthula, et huius filius Ezer et Elad: occiderunt autem eos viri Geth indigenæ, quia descenderant ut invaderent possessiones eorum.
+21 et huius filius Suthula, et huius filius Ezer et Elad: occiderunt autem eos viri Geth indigenae, quia descenderant ut invaderent possessiones eorum.
 
 22 Luxit igitur Ephraim pater eorum multis diebus, et venerunt fratres eius ut consolarentur eum.
 
-23 Ingressusque est ad uxorem suam: quæ concepit, et peperit filium, et vocavit nomen eius Beria, eo quod in malis domus eius ortus esset:
+23 Ingressusque est ad uxorem suam: quae concepit, et peperit filium, et vocavit nomen eius Beria, eo quod in malis domus eius ortus esset:
 
-24 filia autem eius fuit Sara, quæ ædificavit Bethoron inferiorem et superiorem, et Ozensara.
+24 filia autem eius fuit Sara, quae aedificavit Bethoron inferiorem et superiorem, et Ozensara.
 
 25 Porro filius eius Rapha, et Reseph, et Thale, de quo natus est Thaan,
 
@@ -59,7 +59,7 @@ draft: false
 
 27 de quo ortus est Nun, qui habuit filium Iosue.
 
-28 Possessio autem eorum et habitatio, Bethel cum filiabus suis, et contra orientem Noran ac Occidentalem plagam Gazer et filiæ eius, Sichem quoque cum filiabus suis, usque ad Aza cum filiabus eius.
+28 Possessio autem eorum et habitatio, Bethel cum filiabus suis, et contra orientem Noran ac Occidentalem plagam Gazer et filiae eius, Sichem quoque cum filiabus suis, usque ad Aza cum filiabus eius.
 
 29 Iuxta filios quoque Manasse Bethsan et filias eius, Thanach et filias eius, Mageddo et filias eius: Dor et filias eius: in his habitaverunt filii Ioseph, filii Israel.
 
@@ -83,5 +83,5 @@ draft: false
 
 39 Filii autem Olla: Aree, et Haniel, et Resia.
 
-40 Omnes hi filii Aser, principes cognationum, electi atque fortissimi duces ducum: numerus autem eorum ætatis, quæ apta esset ad bellum, viginti sex millia.
+40 Omnes hi filii Aser, principes cognationum, electi atque fortissimi duces ducum: numerus autem eorum aetatis, quae apta esset ad bellum, viginti sex millia.
 

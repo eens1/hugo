@@ -19,24 +19,24 @@ summary: |
 ***Note*** :  Ps. 27, 2 : Votre temple saint, l’arche où Dieu réside.
 
 
-3 Ne m'entraînez pas avec des pécheurs, et ne me perdez pas avec des hommes qui opèrent l'iniquité : Qui parlent paix avec leur prochain, et qui ont le mal dans leurs cœurs.
+3 Ne m'entraînez pas avec des pécheurs, et ne me perdez pas avec des hommes qui opèrent l'iniquité : Qui parlent paix avec leur prochain, et qui ont le mal dans leurs coeurs.
 
 ***Note*** :  Ps. 27, 3 : Le mal ; c’est-à-dire la perversité. Les Septante et la Vulgate mettent le pluriel, qui, dans le langage biblique, donne plus de force et plus d’énergie, en sorte que d’après ces deux versions, le vrai sens est un grand mal, un mal considérable.
 
 
-4 Donnez-leur selon leurs œuvres et selon la méchanceté de leurs inventions : Accordez-leur, selon leurs œuvres de leurs mains ; rendez-leur leur salaire.
+4 Donnez-leur selon leurs oeuvres et selon la méchanceté de leurs inventions : Accordez-leur, selon leurs oeuvres de leurs mains ; rendez-leur leur salaire.
 
-***Note*** :  Ps. 27, 4 : Leurs inventions ; c’est-à-dire selon l’hébreu, leurs œuvres.
+***Note*** :  Ps. 27, 4 : Leurs inventions ; c’est-à-dire selon l’hébreu, leurs oeuvres.
 
 
-5 Parce qu'ils n'ont pas applique leur esprit aux œuvres du Seigneur, et aux œuvres de ses mains, vous les détruirez, et vous ne les rétablirez pas.
+5 Parce qu'ils n'ont pas applique leur esprit aux oeuvres du Seigneur, et aux oeuvres de ses mains, vous les détruirez, et vous ne les rétablirez pas.
 
 ***Note*** :  Ps. 27, 5 : Conformément au texte hébreu et à celui des Septante, nous supposons sous-entendue devant opera Domini de la Vulgate, la particule in ou dans, à, laquelle est exprimée dans le membre parallèle de phrase suivant : in opera Domini. Or, dans cette hypothèse, le sens du verbe latin intellexerunt n’est pas seulement ont compris, mais comme en hébreu et en grec, s’appliquer à, appliquer son esprit à, s’étudier à.
 
 
-6 Béni le Seigneur ! parce qu'il a exaucé la voix de ma supplication. 7 Le Seigneur est mon aide et mon protecteur : en lui a espéré mon cœur, et j'ai été secouru : Et ma chair a refleuri; aussi de toute mon âme je le glorifierai.
+6 Béni le Seigneur ! parce qu'il a exaucé la voix de ma supplication. 7 Le Seigneur est mon aide et mon protecteur : en lui a espéré mon coeur, et j'ai été secouru : Et ma chair a refleuri; aussi de toute mon âme je le glorifierai.
 
-***Note*** :  Ps. 27, 7 : Ma chair a refleuri ; a pris une nouvelle vigueur. ― De toute mon âme ; littéralement De ma volonté (ex voluntate mea), c’est-à-dire librement, spontanément. Le terme du texte hébreu léb ou cœur se prend souvent dans le même sens.
+***Note*** :  Ps. 27, 7 : Ma chair a refleuri ; a pris une nouvelle vigueur. ― De toute mon âme ; littéralement De ma volonté (ex voluntate mea), c’est-à-dire librement, spontanément. Le terme du texte hébreu léb ou coeur se prend souvent dans le même sens.
 
 
 8 Le Seigneur est la force de son peuple; le protecteur et le sauveur de son Christ.

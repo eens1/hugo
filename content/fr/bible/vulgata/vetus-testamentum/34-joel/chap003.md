@@ -11,15 +11,15 @@ draft: false
 
 3 Et super populum meum miserunt sortem: et posuerunt puerum in prostibulo, et puellam vendiderunt pro vino ut biberent.
 
-4 Verum quid mihi et vobis Tyrus et Sidon, et omnis terminus Palæsthinorum? numquid ultionem vos reddetis mihi? et si ulciscimini vos contra me, cito velociter reddam vicissitudinem vobis super caput vestrum.
+4 Verum quid mihi et vobis Tyrus et Sidon, et omnis terminus Palaesthinorum? numquid ultionem vos reddetis mihi? et si ulciscimini vos contra me, cito velociter reddam vicissitudinem vobis super caput vestrum.
 
 5 Argentum enim meum, et aurum tulistis: et desiderabilia mea, et pulcherrima intulistis in delubra vestra.
 
-6 Et filios Iuda, et filios Ierusalem vendidistis filiis Græcorum, ut longe faceretis eos de finibus suis.
+6 Et filios Iuda, et filios Ierusalem vendidistis filiis Graecorum, ut longe faceretis eos de finibus suis.
 
 7 Ecce ego suscitabo eos de loco, in quo vendidistis eos: et convertam retributionem vestram in caput vestrum.
 
-8 Et vendam filios vestros, et filias vestras in manibus filiorum Iuda, et venundabunt eos Sabæis genti longinquæ, quia Dominus locutus est.
+8 Et vendam filios vestros, et filias vestras in manibus filiorum Iuda, et venundabunt eos Sabaeis genti longinquae, quia Dominus locutus est.
 
 9 Clamate hoc in Gentibus, sanctificate bellum, suscitate robustos: accedant, ascendant omnes viri bellatores.
 
@@ -33,17 +33,17 @@ draft: false
 
 14 Populi populi in valle concisionis: quia iuxta est dies Domini in valle concisionis.
 
-15 Sol et luna obtenebrati sunt, et stellæ retraxerunt splendorem suum.
+15 Sol et luna obtenebrati sunt, et stellae retraxerunt splendorem suum.
 
-16 Et Dominus de Sion rugiet, et de Ierusalem dabit vocem suam: et movebuntur cæli, et terra: et Dominus spes populi sui, et fortitudo filiorum Israel.
+16 Et Dominus de Sion rugiet, et de Ierusalem dabit vocem suam: et movebuntur caeli, et terra: et Dominus spes populi sui, et fortitudo filiorum Israel.
 
 17 Et scietis quia ego Dominus Deus vester habitans in Sion monte sancto meo. et erit Ierusalem sancta, et alieni non transibunt per eam amplius.
 
-18 Et erit in die illa: stillabunt montes dulcedinem, et colles fluent lacte: et per omnes rivos Iuda ibunt aquæ: et fons de domo Domini egredietur, et irrigabit torrentem spinarum.
+18 Et erit in die illa: stillabunt montes dulcedinem, et colles fluent lacte: et per omnes rivos Iuda ibunt aquae: et fons de domo Domini egredietur, et irrigabit torrentem spinarum.
 
-19 Ægyptus in desolationem erit, et Idumæa in desertum perditionis: pro eo quod inique egerint in filios Iuda, et effuderint sanguinem innocentem in terra sua.
+19 AEgyptus in desolationem erit, et Idumaea in desertum perditionis: pro eo quod inique egerint in filios Iuda, et effuderint sanguinem innocentem in terra sua.
 
-20 Et Iudæa in æternum habitabitur, et Ierusalem in generationem et generationem.
+20 Et Iudaea in aeternum habitabitur, et Ierusalem in generationem et generationem.
 
 21 Et mundabo sanguinem eorum, quem non mundaveram: et Dominus commorabitur in Sion.
 

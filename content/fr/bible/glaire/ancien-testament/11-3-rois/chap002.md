@@ -16,7 +16,7 @@ summary: |
 
 ***Note*** :  III Rois 2, 3 : Voir Deutéronome, 17, 19. ― Toutes tes démarches ; littéralement partout où tu te tourneras.
 
-4 Afin que le Seigneur confirme les paroles qu'il a prononcées à mon sujet, disant : Si tes enfants gardent leurs voies, et qu'ils marchent devant moi dans la vérité, en tout leur cœur et en toute leur âme, un homme ne te sera pas enlevé du trône d'Israël.
+4 Afin que le Seigneur confirme les paroles qu'il a prononcées à mon sujet, disant : Si tes enfants gardent leurs voies, et qu'ils marchent devant moi dans la vérité, en tout leur coeur et en toute leur âme, un homme ne te sera pas enlevé du trône d'Israël.
 
 ***Note*** :  III Rois 2, 4 : Un homme, etc. ; c’est-à-dire un homme de ta race ne sera pas exclu du trône d’Israël ; au contraire, ce sera toujours un de tes descendants qui l’occupera. Voir 3 Rois, 9, 5.
 
@@ -103,5 +103,5 @@ summary: |
 
 ***Note*** :  III Rois 2, 43 : Le serment du Seigneur ; c’est-à-dire le serment fait au Seigneur.
 
-44 Et le roi dit à Séméi : Tu sais toi-même tout le mal que ton cœur te reproche d'avoir fait à David, mon père : le Seigneur a fait retomber ta malice sur ta tête. 45 Elle roi Salomon sera béni, et le trône de David sera stable devant le Seigneur à jamais. 46 C'est pourquoi Salomon commanda à Banaïas, fils de Joïada; et Banaïas sortit, frappa Séméi; et il mourut.
+44 Et le roi dit à Séméi : Tu sais toi-même tout le mal que ton coeur te reproche d'avoir fait à David, mon père : le Seigneur a fait retomber ta malice sur ta tête. 45 Elle roi Salomon sera béni, et le trône de David sera stable devant le Seigneur à jamais. 46 C'est pourquoi Salomon commanda à Banaïas, fils de Joïada; et Banaïas sortit, frappa Séméi; et il mourut.
 

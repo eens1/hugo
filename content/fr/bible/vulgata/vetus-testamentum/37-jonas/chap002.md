@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Et præparavit Dominus piscem grandem ut deglutiret Ionam: et erat Ionas in ventre piscis tribus diebus, et tribus noctibus.
+1 Et praeparavit Dominus piscem grandem ut deglutiret Ionam: et erat Ionas in ventre piscis tribus diebus, et tribus noctibus.
 
 2 Et oravit Ionas ad Dominum Deum suum de ventre piscis.
 
@@ -15,15 +15,15 @@ draft: false
 
 5 Et ego dixi: Abiectus sum a conspectu oculorum tuorum: verumtamen rursus videbo templum sanctum tuum.
 
-6 Circumdederunt me aquæ usque ad animam: abyssus vallavit me, pelagus operuit caput meum.
+6 Circumdederunt me aquae usque ad animam: abyssus vallavit me, pelagus operuit caput meum.
 
-7 Ad extrema montium descendi: terræ vectes concluserunt me in æternum: et sublevabis de corruptione vitam meam, Domine Deus meus.
+7 Ad extrema montium descendi: terrae vectes concluserunt me in aeternum: et sublevabis de corruptione vitam meam, Domine Deus meus.
 
 8 Cum angustiaretur in me anima mea, Domini recordatus sum: ut veniat ad te oratio mea ad templum sanctum tuum.
 
 9 Qui custodiunt vanitates frustra, misericordiam suam derelinquunt.
 
-10 Ego autem in voce laudis immolabo tibi: quæcumque vovi, reddam pro salute Domino.
+10 Ego autem in voce laudis immolabo tibi: quaecumque vovi, reddam pro salute Domino.
 
 11 Et dixit Dominus pisci: et evomuit Ionam in aridam.
 

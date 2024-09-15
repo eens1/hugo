@@ -31,7 +31,7 @@ summary: |
 
 7 Et des licornes descendront avec eux, et des taureaux avec les puissants d'entre eux : leur terre sera enivrée de sang, et leur sol de la graisse des gras ;
 
-***Note*** :  Is. 34, 7 : Des licornes ; en hébreu, des bœufs sauvages.
+***Note*** :  Is. 34, 7 : Des licornes ; en hébreu, des boeufs sauvages.
 
 
 8 Parce que c'est le jour de la vengeance du Seigneur, l'année des rétributions dans le jugement de Sion.

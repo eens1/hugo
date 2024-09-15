@@ -5,15 +5,15 @@ draft: false
 ---
 
 
-1 Fili mi, ne obliviscaris legis meæ, et præcepta mea cor tuum custodiat.
+1 Fili mi, ne obliviscaris legis meae, et praecepta mea cor tuum custodiat.
 
-2 longitudinem enim dierum, et annos vitæ, et pacem apponent tibi.
+2 longitudinem enim dierum, et annos vitae, et pacem apponent tibi.
 
 3 Misericordia, et veritas te non deserant, circumda eas gutturi tuo, et describe in tabulis cordis tui:
 
 4 et invenies gratiam, et disciplinam bonam coram Deo et hominibus.
 
-5 Habe fiduciam in Domino ex toto corde tuo, et ne innitaris prudentiæ tuæ.
+5 Habe fiduciam in Domino ex toto corde tuo, et ne innitaris prudentiae tuae.
 
 6 In omnibus viis tuis cogita illum, et ipse diriget gressus tuos.
 
@@ -33,21 +33,21 @@ draft: false
 
 14 melior est acquisitio eius negotiatione argenti, et auri primi et purissimi fructus eius:
 
-15 pretiosior est cunctis opibus: et omnia, quæ desiderantur, huic non valent comparari.
+15 pretiosior est cunctis opibus: et omnia, quae desiderantur, huic non valent comparari.
 
-16 Longitudo dierum in dextera eius, et in sinistra illius divitiæ, et gloria.
+16 Longitudo dierum in dextera eius, et in sinistra illius divitiae, et gloria.
 
-17 Viæ eius viæ pulchræ, et omnes semitæ illius pacificæ.
+17 Viae eius viae pulchrae, et omnes semitae illius pacificae.
 
-18 Lignum vitæ est his, qui apprehenderint eam: et qui tenuerit eam, beatus.
+18 Lignum vitae est his, qui apprehenderint eam: et qui tenuerit eam, beatus.
 
-19 Dominus sapientia fundavit terram, stabilivit cælos prudentia.
+19 Dominus sapientia fundavit terram, stabilivit caelos prudentia.
 
 20 Sapientia illius eruperunt abyssi, et nubes rore concrescunt.
 
-21 Fili mi, ne effluant hæc ab oculis tuis: Custodi legem atque consilium:
+21 Fili mi, ne effluant haec ab oculis tuis: Custodi legem atque consilium:
 
-22 et erit vita animæ tuæ, et gratia faucibus tuis.
+22 et erit vita animae tuae, et gratia faucibus tuis.
 
 23 tunc ambulabis fiducialiter in via tua, et pes tuus non impinget:
 
@@ -65,7 +65,7 @@ draft: false
 
 30 Ne contendas adversus hominem frustra, cum ipse tibi nihil mali fecerit.
 
-31 Ne æmuleris hominem iniustum, nec imiteris vias eius:
+31 Ne aemuleris hominem iniustum, nec imiteris vias eius:
 
 32 quia abominatio Domini est omnis illusor, et cum simplicibus sermocinatio eius.
 

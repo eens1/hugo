@@ -11,7 +11,7 @@ draft: false
 
 3 Confusio patris est de filio indisciplinato: filia autem in deminoratione fiet.
 
-4 Filia prudens hereditas viro suo. nam quæ confundit, in contumeliam fit genitoris.
+4 Filia prudens hereditas viro suo. nam quae confundit, in contumeliam fit genitoris.
 
 5 Patrem et virum confundit audax, et ab impiis non minorabitur: ab utrisque autem inhonorabitur.
 
@@ -29,7 +29,7 @@ draft: false
 
 12 Nequissimi enim nequissima vita super mortem fatui.
 
-13 Luctus mortui septem dies: fatui autem et impii omnes dies vitæ illorum.
+13 Luctus mortui septem dies: fatui autem et impii omnes dies vitae illorum.
 
 14 Cum stulto ne multum loquaris, et cum insensato ne abieris.
 
@@ -41,15 +41,15 @@ draft: false
 
 18 Arenam, et salem, et massam ferri facilius est ferre quam hominem imprudentem, et fatuum, et impium.
 
-19 Loramentum ligneum colligatum in fundamento ædificii non dissolvetur: sic et cor confirmatum in cogitatione consilii.
+19 Loramentum ligneum colligatum in fundamento aedificii non dissolvetur: sic et cor confirmatum in cogitatione consilii.
 
 20 Cogitatus sensati in omni tempore, metu non depravabitur.
 
-21 Sicut pali in excelsis, et cæmenta sine impensa posita contra faciem venti non permanebunt:
+21 Sicut pali in excelsis, et caementa sine impensa posita contra faciem venti non permanebunt:
 
 22 sic et cor timidum in cogitatione stulti contra impetum timoris non resistet.
 
-23 Sicut cor trepidum in cogitatione fatui, omni tempore non metuet, sic et qui in præceptis Dei permanet semper.
+23 Sicut cor trepidum in cogitatione fatui, omni tempore non metuet, sic et qui in praeceptis Dei permanet semper.
 
 24 Pungens oculum deducit lacrymas: et qui pungit cor, profert sensum.
 
@@ -59,11 +59,11 @@ draft: false
 
 27 si aperueris os triste, non timeas. est enim concordatio: excepto convitio, et improperio, et superbia, et mysterii revelatione, et plaga dolosa: in his omnibus effugiet amicus.
 
-28 Fidem posside cum amico in paupertate illius, ut et in bonis illius læteris.
+28 Fidem posside cum amico in paupertate illius, ut et in bonis illius laeteris.
 
 29 In tempore tribulationis illius permane illi fidelis, ut et in hereditate illius coheres sis.
 
-30 Ante ignem camini vapor, et fumus ignis inaltatur: sic et ante sanguinem maledicta, et contumeliæ, et minæ.
+30 Ante ignem camini vapor, et fumus ignis inaltatur: sic et ante sanguinem maledicta, et contumeliae, et minae.
 
 31 Amicum salutare non confundar, a facie illius non me abscondam: et si mala mihi evenerint per illum, sustinebo.
 

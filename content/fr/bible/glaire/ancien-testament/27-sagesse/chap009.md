@@ -13,7 +13,7 @@ summary: |
 
 ***Note*** :  Sg. 9, 1 : Dieu de mes pères, etc. C’est la prière dont il est parlé au chapitre précédent ; elle continue dans tout le reste du livre. On peut la considérer comme une paraphrase de celle qu’on lit à 3 Rois, 3, verset 6 et suivants. L’auteur étend ici la pensée de Salomon et y ajoute plusieurs choses qui reviennent à son dessein, qui est d’instruire les rois, de leur inspirer l’amour de la sagesse, de la vertu, de la justice, et de les éloigner de la violence, de l’injustice et du dérèglement.
 
-2 Et par votre sagesse avez formé l'homme, afin qu'il dominât sur la créature que vous avez faite, 3 Afin qu'il dirige le globe de la terre dans l'équité et la justice, et qu'il rende les jugements dans la droiture de cœur :4 Donnez-moi la sagesse assistante à votre trône, et ne me rejetez pas du nombre de vos enfants;
+2 Et par votre sagesse avez formé l'homme, afin qu'il dominât sur la créature que vous avez faite, 3 Afin qu'il dirige le globe de la terre dans l'équité et la justice, et qu'il rende les jugements dans la droiture de coeur :4 Donnez-moi la sagesse assistante à votre trône, et ne me rejetez pas du nombre de vos enfants;
 
 
 5 Parce que je suis votre serviteur, moi, et le fils de votre servante, un homme infirme et de peu de temps, et peu capable de comprendre les jugements et les lois.
@@ -33,7 +33,7 @@ summary: |
 
 ***Note*** :  Sg. 9, 9 : Voir Proverbes, 8, vv. 22, 27 ; Jean, 1, 1.
 
-10 Envoyez-la de vos cieux saints, et du trône de votre grandeur, afin qu'elle soit avec moi, et qu'avec moi elle agisse, afin que je sache ce qui est favorablement accueilli par vous :11 Car elle sait toutes choses, et elle les comprend ; elle me conduira dans mes œuvres avec circonspection, et me gardera par sa puissance. 12 Et mes œuvres seront favorablement accueillies, et je dirigerai votre peuple justement, et je serai digne du trône de mon père.
+10 Envoyez-la de vos cieux saints, et du trône de votre grandeur, afin qu'elle soit avec moi, et qu'avec moi elle agisse, afin que je sache ce qui est favorablement accueilli par vous :11 Car elle sait toutes choses, et elle les comprend ; elle me conduira dans mes oeuvres avec circonspection, et me gardera par sa puissance. 12 Et mes oeuvres seront favorablement accueillies, et je dirigerai votre peuple justement, et je serai digne du trône de mon père.
 
 
 13 Car qui d'entre les hommes pourra savoir le conseil de Dieu ? ou qui pourra penser ce que veut Dieu?

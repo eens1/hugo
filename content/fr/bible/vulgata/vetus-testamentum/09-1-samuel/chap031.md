@@ -9,7 +9,7 @@ draft: false
 
 2 Irrueruntque Philisthiim in Saul, et in filios eius, et percusserunt Ionathan, et Abinadab, et Melchisua filios Saul,
 
-3 totumque pondus prælii versum est in Saul: et consecuti sunt eum viri sagittarii, et vulneratus est vehementer a sagittariis.
+3 totumque pondus praelii versum est in Saul: et consecuti sunt eum viri sagittarii, et vulneratus est vehementer a sagittariis.
 
 4 Dixitque Saul ad armigerum suum: Evagina gladium tuum, et percute me: ne forte veniant incircumcisi isti, et interficiant me, illudentes mihi. Et noluit armiger eius: fuerat enim nimio terrore perterritus. arripuit itaque Saul gladium, et irruit super eum.
 
@@ -17,15 +17,15 @@ draft: false
 
 6 Mortuus est ergo Saul, et tres filii eius, et armiger illius, et universi viri eius in die illa pariter.
 
-7 Videntes autem viri Israel, qui erant trans vallem, et trans Iordanem, quod fugissent viri Israelitæ, et quod mortuus esset Saul, et filii eius, reliquerunt civitates suas, et fugerunt: veneruntque Philisthiim, et habitaverunt ibi.
+7 Videntes autem viri Israel, qui erant trans vallem, et trans Iordanem, quod fugissent viri Israelitae, et quod mortuus esset Saul, et filii eius, reliquerunt civitates suas, et fugerunt: veneruntque Philisthiim, et habitaverunt ibi.
 
 8 Facta autem die altera, venerunt Philisthiim, ut spoliarent interfectos, et invenerunt Saul et tres filios eius iacentes in monte Gelboe.
 
-9 Et præciderunt caput Saul, et spoliaverunt eum armis: et miserunt in Terram Philisthinorum per circuitum, ut annunciaretur in templo idolorum, et in populis.
+9 Et praeciderunt caput Saul, et spoliaverunt eum armis: et miserunt in Terram Philisthinorum per circuitum, ut annunciaretur in templo idolorum, et in populis.
 
 10 Et posuerunt arma eius in templo Astaroth, corpus vero eius suspenderunt in muro Bethsan.
 
-11 Quod cum audissent habitatores Iabes Galaad, quæcumque fecerant Philisthiim Saul,
+11 Quod cum audissent habitatores Iabes Galaad, quaecumque fecerant Philisthiim Saul,
 
 12 surrexerunt omnes viri fortissimi, et ambulaverunt tota nocte, et tulerunt cadaver Saul, et cadavera filiorum eius de muro Bethsan: veneruntque Iabes Galaad, et combusserunt ea ibi:
 

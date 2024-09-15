@@ -11,7 +11,7 @@ summary: |
 
 1 Or, après que Ruth fut retournée près de sa belle-mère, elle entendit d'elle : Ma fille, je chercherai pour toi du repos, et je pourvoirai à ce que bien t'arrive. 2 Ce Booz, aux jeunes filles duquel tu t'es jointe dans le champ, est notre parent; et cette nuit il vanne l'aire de l'orge.
 
-***Note*** :  Rt. 3, 2 : Il vanne l’aire de l’orge ; pour il vanne l’orge de l’aire, ou dans l’aire. ― Quand on se reporte à la simplicité des mœurs de ces anciens temps, et que l’on examine sans prévention l’ensemble de ce récit, on est loin de le trouver scandaleux comme l’ont trouvé quelques incrédules, affectant une chasteté, qu’ils n’avaient peut-être pas dans le cœur.
+***Note*** :  Rt. 3, 2 : Il vanne l’aire de l’orge ; pour il vanne l’orge de l’aire, ou dans l’aire. ― Quand on se reporte à la simplicité des moeurs de ces anciens temps, et que l’on examine sans prévention l’ensemble de ce récit, on est loin de le trouver scandaleux comme l’ont trouvé quelques incrédules, affectant une chasteté, qu’ils n’avaient peut-être pas dans le coeur.
 
 3 Lave-toi donc, parfume-toi, revêts-toi de tes plus beaux habits, et descends dans l'aire : que cet homme ne te voie point, jusqu'à ce qu'il ait fini de manger et de boire. 4 Mais quand il ira dormir, remarque le lieu, où il dort; et tu viendras, et tu découvriras la couverture dont il est couvert du côté des pieds, puis tu te coucheras, et tu demeureras là; mais lui-même te dira ce que tu dois faire. 5 Ruth répondit : Tout ce que vous ordonnerez, je le ferai.
 

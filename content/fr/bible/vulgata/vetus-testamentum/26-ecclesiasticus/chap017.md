@@ -9,7 +9,7 @@ draft: false
 
 2 Et iterum convertit illum in ipsam, et secundum se vestivit illum virtute.
 
-3 Numerum dierum, et tempus dedit illi, et dedit illi potestatem eorum, quæ sunt super terram.
+3 Numerum dierum, et tempus dedit illi, et dedit illi potestatem eorum, quae sunt super terram.
 
 4 Posuit timorem illius super omnem carnem, et dominatus est bestiarum et volatilium.
 
@@ -21,17 +21,17 @@ draft: false
 
 8 ut nomen sanctificationis collaudent: et gloriari in mirabilibus illius, ut magnalia enarrent operum eius.
 
-9 Addidit illis disciplinam, et legem vitæ hereditavit illos.
+9 Addidit illis disciplinam, et legem vitae hereditavit illos.
 
-10 Testamentum æternum constituit cum illis, et iustitiam et iudicia sua ostendit illis.
+10 Testamentum aeternum constituit cum illis, et iustitiam et iudicia sua ostendit illis.
 
 11 Et magnalia honoris eius vidit oculus illorum, et honorem vocis audierunt aures illorum, et dixit illis: Attendite ab omni iniquo.
 
 12 Et mandavit illis unicuique de proximo suo.
 
-13 Viæ illorum coram ipso sunt semper, non sunt absconsæ ab oculis ipsius.
+13 Viae illorum coram ipso sunt semper, non sunt absconsae ab oculis ipsius.
 
-14 In unamquamque gentem præposuit rectorem:
+14 In unamquamque gentem praeposuit rectorem:
 
 15 et pars Dei, Israel facta est manifesta.
 
@@ -41,9 +41,9 @@ draft: false
 
 18 Eleemosyna viri quasi signaculum cum ipso, et gratiam hominis quasi pupillam conservabit:
 
-19 et postea resurget, et retribuet illis retributionem, unicuique in caput ipsorum, et convertet in interiores partes terræ.
+19 et postea resurget, et retribuet illis retributionem, unicuique in caput ipsorum, et convertet in interiores partes terrae.
 
-20 Pœnitentibus autem dedit viam iustitiæ, et confirmavit deficientes sustinere, et destinavit illis sortem veritatis.
+20 Poenitentibus autem dedit viam iustitiae, et confirmavit deficientes sustinere, et destinavit illis sortem veritatis.
 
 21 Convertere ad Dominum, et relinque peccata tua:
 
@@ -53,7 +53,7 @@ draft: false
 
 24 et cognosce iustitias et iudicia Dei, et sta in sorte propositionis, et orationis altissimi Dei.
 
-25 In partes vade sæculi sancti, cum vivis et dantibus confessionem Deo.
+25 In partes vade saeculi sancti, cum vivis et dantibus confessionem Deo.
 
 26 Non demoreris in errore impiorum, ante mortem confitere. A mortuo quasi nihil, perit confessio.
 
@@ -61,9 +61,9 @@ draft: false
 
 28 Quam magna misericordia Domini, et propitiatio illius convertentibus ad se!
 
-29 Nec enim omnia possunt esse in hominibus, quoniam non est immortalis filius hominis, et in vanitate malitiæ placuerunt.
+29 Nec enim omnia possunt esse in hominibus, quoniam non est immortalis filius hominis, et in vanitate malitiae placuerunt.
 
 30 Quid lucidius sole? et hic deficiet. Aut quid nequius quam quod excogitavit caro et sanguis? et hoc arguetur.
 
-31 Virtutem altitudinis cæli ipse conspicit: et omnes homines terra et cinis.
+31 Virtutem altitudinis caeli ipse conspicit: et omnes homines terra et cinis.
 

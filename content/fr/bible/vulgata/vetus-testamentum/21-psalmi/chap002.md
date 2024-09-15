@@ -7,19 +7,19 @@ draft: false
 
 1 Quare fremuerunt Gentes, et populi meditati sunt inania?
 
-2 Astiterunt reges terræ, et principes convenerunt in unum adversus Dominum, et adversus Christum eius.
+2 Astiterunt reges terrae, et principes convenerunt in unum adversus Dominum, et adversus Christum eius.
 
 3 Dirumpamus vincula eorum: et proiiciamus a nobis iugum ipsorum.
 
-4 Qui habitat in cælis irridebit eos: et Dominus subsannabit eos.
+4 Qui habitat in caelis irridebit eos: et Dominus subsannabit eos.
 
 5 Tunc loquetur ad eos in ira sua, et in furore suo conturbabit eos.
 
-6 Ego autem constitutus sum rex ab eo super Sion montem sanctum eius, prædicans præceptum eius.
+6 Ego autem constitutus sum rex ab eo super Sion montem sanctum eius, praedicans praeceptum eius.
 
 7 Dominus dixit ad me: Filius meus es tu, ego hodie genui te.
 
-8 Postula a me, et dabo tibi Gentes hereditatem tuam, et possessionem tuam terminos terræ.
+8 Postula a me, et dabo tibi Gentes hereditatem tuam, et possessionem tuam terminos terrae.
 
 9 Reges eos in virga ferrea, et tamquam vas figuli confringes eos.
 

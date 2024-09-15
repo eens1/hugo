@@ -5,15 +5,15 @@ draft: false
 ---
 
 
-1 Et cœpit illis in parabolis loqui: Vineam pastinavit homo, et circumdedit sepem, et fodit lacum, et ædificavit turrim, et locavit eam agricolis, et peregre profectus est.
+1 Et coepit illis in parabolis loqui: Vineam pastinavit homo, et circumdedit sepem, et fodit lacum, et aedificavit turrim, et locavit eam agricolis, et peregre profectus est.
 
-2 Et misit ad agricolas in tempore servum ut ab agricolis acciperet de fructu vineæ.
+2 Et misit ad agricolas in tempore servum ut ab agricolis acciperet de fructu vineae.
 
 3 Qui apprehensum eum ceciderunt, et dimiserunt vacuum.
 
 4 Et iterum misit ad illos alium servum: et illum in capite vulneraverunt, et contumeliis affecerunt.
 
-5 Et rursum alium misit, et illum occiderunt: et plures alios: quosdam cædentes, alios vero occidentes.
+5 Et rursum alium misit, et illum occiderunt: et plures alios: quosdam caedentes, alios vero occidentes.
 
 6 Adhuc ergo unum habens filium charissimum: et illum misit ad eos novissimum, dicens: Quia reverebuntur filium meum.
 
@@ -21,25 +21,25 @@ draft: false
 
 8 Et apprehendentes eum, occiderunt: et eiecerunt extra vineam.
 
-9 Quid ergo faciet Dominus vineæ? Veniet, et perdet colonos: et dabit vineam aliis.
+9 Quid ergo faciet Dominus vineae? Veniet, et perdet colonos: et dabit vineam aliis.
 
-10 Nec scripturam hanc legistis: Lapidem, quem reprobaverunt ædificantes, hic factus est in caput anguli:
+10 Nec scripturam hanc legistis: Lapidem, quem reprobaverunt aedificantes, hic factus est in caput anguli:
 
 11 A Domino factum est istud, et est mirabile in oculis nostris?
 
-12 Et quærebant eum tenere: et timuerunt turbam. cognoverunt enim quoniam ad eos parabolam hanc dixerit. Et relicto eo abierunt.
+12 Et quaerebant eum tenere: et timuerunt turbam. cognoverunt enim quoniam ad eos parabolam hanc dixerit. Et relicto eo abierunt.
 
-13 Et mittunt ad eum quosdam ex Pharisæis, et Herodianis, ut eum caperent in verbo.
+13 Et mittunt ad eum quosdam ex Pharisaeis, et Herodianis, ut eum caperent in verbo.
 
-14 Qui venientes dicunt ei: Magister, scimus quia verax es, et non curas quemquam: nec enim vides in faciem hominum, sed in veritate viam Dei doces. licet dari tributum Cæsari, an non dabimus?
+14 Qui venientes dicunt ei: Magister, scimus quia verax es, et non curas quemquam: nec enim vides in faciem hominum, sed in veritate viam Dei doces. licet dari tributum Caesari, an non dabimus?
 
 15 Qui sciens versutiam illorum, ait illos: Quid me tentatis? afferte mihi denarium ut videam.
 
-16 At illi attulerunt ei. Et ait illis: Cuius est imago hæc, et inscriptio? Dicunt ei: Cæsaris.
+16 At illi attulerunt ei. Et ait illis: Cuius est imago haec, et inscriptio? Dicunt ei: Caesaris.
 
-17 Respondens autem Iesus dixit illis: Reddite igitur quæ sunt Cæsaris, Cæsari: et quæ sunt Dei, Deo. Et mirabantur super eo.
+17 Respondens autem Iesus dixit illis: Reddite igitur quae sunt Caesaris, Caesari: et quae sunt Dei, Deo. Et mirabantur super eo.
 
-18 Et venerunt ad eum Sadducæi, qui dicunt resurrectionem non esse: et interrogabant eum dicentes:
+18 Et venerunt ad eum Sadducaei, qui dicunt resurrectionem non esse: et interrogabant eum dicentes:
 
 19 Magister, Moyses nobis scripsit, ut si cuius frater mortuus fuerit, et dimiserit uxorem, et filios non reliquerit, accipiat frater eius uxorem ipsius, et resuscitet semen fratri suo.
 
@@ -53,7 +53,7 @@ draft: false
 
 24 Et respondens Iesus, ait illis: Nonne ideo erratis, non scientes Scripturas, neque virtutem Dei?
 
-25 Cum enim a mortuis resurrexerint, neque nubent, neque nubentur, sed sunt sicut angeli in cælis.
+25 Cum enim a mortuis resurrexerint, neque nubent, neque nubentur, sed sunt sicut angeli in caelis.
 
 26 De mortuis autem quod resurgant, non legistis in libro Moysi, super rubum quomodo dixerit illi Deus, inquiens: Ego sum Deus Abraham, et Deus Isaac, et Deus Iacob?
 
@@ -67,13 +67,13 @@ draft: false
 
 31 Secundum autem simile est illi: Diliges proximum tuum tamquam teipsum. Maius horum aliud mandatum non est.
 
-32 Et ait illi Scriba: Bene Magister, in veritate dixisti, quia unus est Deus, et non est alius præter eum.
+32 Et ait illi Scriba: Bene Magister, in veritate dixisti, quia unus est Deus, et non est alius praeter eum.
 
 33 Et ut diligatur ex toto corde, et ex toto intellectu, et ex tota anima, et ex tota fortitudine: et diligere proximum tamquam seipsum, maius est omnibus holocautomatibus, et sacrificiis.
 
 34 Iesus autem videns quod sapienter respondisset, dixit illi: Non es longe a regno Dei. Et nemo iam audebat eum interrogare.
 
-35 Et respondens Iesus dicebat, docens in templo: Quomodo dicunt Scribæ Christum filium esse David?
+35 Et respondens Iesus dicebat, docens in templo: Quomodo dicunt Scribae Christum filium esse David?
 
 36 Ipse enim David dicit in Spiritu sancto: Dixit Dominus Domino meo, Sede a dextris meis, donec ponam inimicos tuos scabellum pedum tuorum.
 
@@ -81,15 +81,15 @@ draft: false
 
 38 Et dicebat eis in doctrina sua: Cavete a Scribis, qui volunt in stolis ambulare, et salutari in foro,
 
-39 et in primis cathedris sedere in synagogis, et primos discubitus in cœnis:
+39 et in primis cathedris sedere in synagogis, et primos discubitus in coenis:
 
-40 qui devorant domos viduarum sub obtentu prolixæ orationis: hi accipient prolixius iudicium.
+40 qui devorant domos viduarum sub obtentu prolixae orationis: hi accipient prolixius iudicium.
 
-41 Et sedens Iesus contra gazophylacium, aspiciebat quomodo turba iactaret æs in gazophylacium, et multi divites iactabant multa.
+41 Et sedens Iesus contra gazophylacium, aspiciebat quomodo turba iactaret aes in gazophylacium, et multi divites iactabant multa.
 
 42 Cum venisset autem vidua una pauper, misit duo minuta, quod est quadrans,
 
-43 et convocans discipulos suos, ait illis: Amen dico vobis, quoniam vidua hæc pauper plus omnibus misit, qui miserunt in gazophylacium.
+43 et convocans discipulos suos, ait illis: Amen dico vobis, quoniam vidua haec pauper plus omnibus misit, qui miserunt in gazophylacium.
 
-44 Omnes enim ex eo, quod abundabat illis, miserunt: hæc vero de penuria sua omnia quæ habuit misit totum victum suum.
+44 Omnes enim ex eo, quod abundabat illis, miserunt: haec vero de penuria sua omnia quae habuit misit totum victum suum.
 

@@ -11,9 +11,9 @@ draft: false
 
 3 Sitivit anima mea ad Deum fortem vivum: quando veniam et apparebo ante faciem Dei?
 
-4 Fuerunt mihi lacrimæ meæ panes die ac nocte: dum dicitur mihi quotidie: Ubi est Deus tuus?
+4 Fuerunt mihi lacrimae meae panes die ac nocte: dum dicitur mihi quotidie: Ubi est Deus tuus?
 
-5 Hæc recordatus sum, et effudi in me animam meam: quoniam transibo in locum tabernaculi admirabilis, usque ad donum Dei: In voce exultationis, et confessionis: sonus epulantis.
+5 Haec recordatus sum, et effudi in me animam meam: quoniam transibo in locum tabernaculi admirabilis, usque ad donum Dei: In voce exultationis, et confessionis: sonus epulantis.
 
 6 Quare tristis es anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei,
 
@@ -21,7 +21,7 @@ draft: false
 
 8 Abyssus abyssum invocat, in voce cataractarum tuarum. Omnia excelsa tua, et fluctus tui super me transierunt.
 
-9 In die mandavit Dominus misericordiam suam: et nocte canticum eius. Apud me oratio Deo vitæ meæ,
+9 In die mandavit Dominus misericordiam suam: et nocte canticum eius. Apud me oratio Deo vitae meae,
 
 10 dicam Deo: Susceptor meus es, Quare oblitus es mei? et quare contristatus incedo, dum affligit me inimicus?
 

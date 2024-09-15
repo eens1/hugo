@@ -7,25 +7,25 @@ draft: false
 
 1 Eodem tempore vocavit Iosue Rubenitas, et Gaditas, et dimidiam tribum Manasse,
 
-2 dixitque ad eos: Fecistis omnia quæ præcepit vobis Moyses famulus Domini: mihi quoque in omnibus obedistis,
+2 dixitque ad eos: Fecistis omnia quae praecepit vobis Moyses famulus Domini: mihi quoque in omnibus obedistis,
 
-3 nec reliquistis fratres vestros longo tempore, usque in præsentem diem, custodientes imperium Domini Dei vestri.
+3 nec reliquistis fratres vestros longo tempore, usque in praesentem diem, custodientes imperium Domini Dei vestri.
 
 4 Quia igitur dedit Dominus Deus vester fratribus vestris quietem et pacem, sicut pollicitus est: revertimini, et ite in tabernacula vestra, et in terram possessionis, quam tradidit vobis Moyses famulus Domini trans Iordanem:
 
-5 ita dumtaxat, ut custodiatis attente, et opere compleatis mandatum et legem quam præcepit vobis Moyses famulus Domini, ut diligatis Dominum Deum vestrum, et ambuletis in omnibus viis eius, et observetis mandata illius, adhæreatisque ei, ac serviatis in omni corde, et in omni anima vestra.
+5 ita dumtaxat, ut custodiatis attente, et opere compleatis mandatum et legem quam praecepit vobis Moyses famulus Domini, ut diligatis Dominum Deum vestrum, et ambuletis in omnibus viis eius, et observetis mandata illius, adhaereatisque ei, ac serviatis in omni corde, et in omni anima vestra.
 
 6 Benedixitque eis Iosue, et dimisit eos. Qui reversi sunt in tabernacula sua.
 
-7 Dimidiæ autem tribui Manasse possessionem Moyses dederat in Basan: et idcirco mediæ, quæ superfuit, dedit Iosue sortem inter ceteros fratres suos trans Iordanem ad Occidentalem plagam. Cumque dimitteret eos in tabernacula sua, et benedixisset eis,
+7 Dimidiae autem tribui Manasse possessionem Moyses dederat in Basan: et idcirco mediae, quae superfuit, dedit Iosue sortem inter ceteros fratres suos trans Iordanem ad Occidentalem plagam. Cumque dimitteret eos in tabernacula sua, et benedixisset eis,
 
-8 dixit ad eos: In multa substantia atque divitiis revertimini ad sedes vestras, cum argento et auro, ære ac ferro, et veste multiplici: dividite prædam hostium cum fratribus vestris.
+8 dixit ad eos: In multa substantia atque divitiis revertimini ad sedes vestras, cum argento et auro, aere ac ferro, et veste multiplici: dividite praedam hostium cum fratribus vestris.
 
-9 Reversique sunt, et abierunt filii Ruben, et filii Gad, et dimidia tribus Manasse, a filiis Israel de Silo, quæ sita est in Chanaan, ut intrarent Galaad Terram possessionis suæ, quam obtinuerant iuxta imperium Domini in manu Moysi.
+9 Reversique sunt, et abierunt filii Ruben, et filii Gad, et dimidia tribus Manasse, a filiis Israel de Silo, quae sita est in Chanaan, ut intrarent Galaad Terram possessionis suae, quam obtinuerant iuxta imperium Domini in manu Moysi.
 
-10 Cumque venissent ad tumulos Iordanis in Terram Chanaan, ædificaverunt iuxta Iordanem altare infinitæ magnitudinis.
+10 Cumque venissent ad tumulos Iordanis in Terram Chanaan, aedificaverunt iuxta Iordanem altare infinitae magnitudinis.
 
-11 Quod cum audissent filii Israel, et ad eos certi nuncii detulissent ædificasse filios Ruben, et Gad, et dimidiæ tribus Manasse, altare in Terra Chanaan, super Iordanis tumulos, contra filios Israel:
+11 Quod cum audissent filii Israel, et ad eos certi nuncii detulissent aedificasse filios Ruben, et Gad, et dimidiae tribus Manasse, altare in Terra Chanaan, super Iordanis tumulos, contra filios Israel:
 
 12 convenerunt omnes in Silo, ut ascenderent, et dimicarent contra eos.
 
@@ -33,23 +33,23 @@ draft: false
 
 14 et decem principes cum eo, singulos de singulis tribubus.
 
-15 Qui venerunt ad filios Ruben, et Gad, et dimidiæ tribus Manasse in Terram Galaad, dixeruntque ad eos:
+15 Qui venerunt ad filios Ruben, et Gad, et dimidiae tribus Manasse in Terram Galaad, dixeruntque ad eos:
 
-16 Hæc mandat omnis populus Domini: Quæ est ista transgressio? Cur reliquistis Dominum Deum Israel, ædificantes altare sacrilegum, et a cultu illius recedentes?
+16 Haec mandat omnis populus Domini: Quae est ista transgressio? Cur reliquistis Dominum Deum Israel, aedificantes altare sacrilegum, et a cultu illius recedentes?
 
-17 An parum vobis est quod peccastis in Beelphegor, et usque in præsentem diem macula huius sceleris in nobis permanet? multique de populo corruerunt.
+17 An parum vobis est quod peccastis in Beelphegor, et usque in praesentem diem macula huius sceleris in nobis permanet? multique de populo corruerunt.
 
-18 Et vos hodie reliquistis Dominum, et cras in universum Israel ira eius desæviet.
+18 Et vos hodie reliquistis Dominum, et cras in universum Israel ira eius desaeviet.
 
-19 Quod si putatis immundam esse terram possessionis vestræ, transite ad Terram, in qua tabernaculum Domini est, et habitate inter nos: tantum ut a Domino, et a nostro consortio non recedatis, ædificato altari præter altare Domini Dei nostri.
+19 Quod si putatis immundam esse terram possessionis vestrae, transite ad Terram, in qua tabernaculum Domini est, et habitate inter nos: tantum ut a Domino, et a nostro consortio non recedatis, aedificato altari praeter altare Domini Dei nostri.
 
-20 Nonne Achan filius Zare præteriit mandatum Domini, et super omnem populum Israel ira eius incubuit? Et ille erat unus homo, atque utinam solum periisset in scelere suo.
+20 Nonne Achan filius Zare praeteriit mandatum Domini, et super omnem populum Israel ira eius incubuit? Et ille erat unus homo, atque utinam solum periisset in scelere suo.
 
 21 Responderuntque filii Ruben et Gad, et dimidia tribus Manasse principibus legationis Israel:
 
-22 Fortissimus Deus Dominus, Fortissimus Deus Dominus, ipse novit, et Israel simul intelliget: si prævaricationis animo, hoc altare construximus, non custodiat nos, sed puniat nos in præsenti:
+22 Fortissimus Deus Dominus, Fortissimus Deus Dominus, ipse novit, et Israel simul intelliget: si praevaricationis animo, hoc altare construximus, non custodiat nos, sed puniat nos in praesenti:
 
-23 et si ea mente fecimus ut holocausta, et sacrificium, et pacificas victimas super eo imponeremus, ipse quærat et iudicet:
+23 et si ea mente fecimus ut holocausta, et sacrificium, et pacificas victimas super eo imponeremus, ipse quaerat et iudicet:
 
 24 et non ea magis cogitatione atque tractatu, ut diceremus: Cras dicent filii vestri filiis nostris: Quid vobis et Domino Deo Israel?
 
@@ -61,11 +61,11 @@ draft: false
 
 28 Quod si voluerint dicere, respondebunt eis: Ecce altare Domini, quod fecerunt patres nostri, non in holocausta, neque in sacrificium, sed in testimonium nostrum ac vestrum.
 
-29 Absit a nobis hoc scelus ut recedamus a Domino, et eius vestigia relinquamus, extructo altari ad holocausta, et sacrificia, et victimas offerendas, præter altare Domini Dei nostri, quod extructum est ante tabernaculum eius.
+29 Absit a nobis hoc scelus ut recedamus a Domino, et eius vestigia relinquamus, extructo altari ad holocausta, et sacrificia, et victimas offerendas, praeter altare Domini Dei nostri, quod extructum est ante tabernaculum eius.
 
-30 Quibus auditis, Phinees sacerdos, et principes legationis Israel, qui erant cum eo, placati sunt: et verba filiorum Ruben, et Gad, et dimidiæ tribus Manasse, libentissime susceperunt.
+30 Quibus auditis, Phinees sacerdos, et principes legationis Israel, qui erant cum eo, placati sunt: et verba filiorum Ruben, et Gad, et dimidiae tribus Manasse, libentissime susceperunt.
 
-31 Dixtque Phinees filius Eleazari sacerdos ad eos: Nunc scimus quod nobiscum sit Dominus, quoniam alieni estis a prævaricatione hac, et liberastis filios Israel de manu Domini.
+31 Dixtque Phinees filius Eleazari sacerdos ad eos: Nunc scimus quod nobiscum sit Dominus, quoniam alieni estis a praevaricatione hac, et liberastis filios Israel de manu Domini.
 
 32 Reversusque est cum principibus a filiis Ruben et Gad de Terra Galaad, finium Chanaan ad filios Israel, et retulit eis.
 

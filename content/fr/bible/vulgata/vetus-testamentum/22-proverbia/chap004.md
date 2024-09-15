@@ -11,21 +11,21 @@ draft: false
 
 3 Nam et ego filius fui patris mei, tenellus, et unigenitus coram matre mea:
 
-4 et docebat me, atque dicebat: Suscipiat verba mea cor tuum, custodi præcepta mea, et vives.
+4 et docebat me, atque dicebat: Suscipiat verba mea cor tuum, custodi praecepta mea, et vives.
 
 5 Posside sapientiam, posside prudentiam: ne obliviscaris, neque declines a verbis oris mei.
 
 6 Ne dimittas eam, et custodiet te: dilige eam, et conservabit te.
 
-7 Principium sapientiæ, posside sapientiam, et in omni possessione tua acquire prudentiam:
+7 Principium sapientiae, posside sapientiam, et in omni possessione tua acquire prudentiam:
 
 8 arripe illam, et exaltabit te: glorificaberis ab ea, cum eam fueris amplexatus.
 
 9 dabit capiti tuo augmenta gratiarum, et corona inclyta proteget te.
 
-10 Audi fili mi, et suscipe verba mea, ut multiplicentur tibi anni vitæ.
+10 Audi fili mi, et suscipe verba mea, ut multiplicentur tibi anni vitae.
 
-11 Viam sapientiæ monstrabo tibi, ducam te per semitas æquitatis:
+11 Viam sapientiae monstrabo tibi, ducam te per semitas aequitatis:
 
 12 quas cum ingressus fueris, non arctabuntur gressus tui, et currens non habebis offendiculum.
 
@@ -47,15 +47,15 @@ draft: false
 
 21 ne recedant ab oculis tuis, custodi ea in medio cordis tui:
 
-22 vita enim sunt invenientibus ea, et universæ carni sanitas.
+22 vita enim sunt invenientibus ea, et universae carni sanitas.
 
 23 Omni custodia serva cor tuum, quia ex ipso vita procedit.
 
 24 Remove a te os pravum, et detrahentia labia sint procul a te.
 
-25 Oculi tui recta videant, et palpebræ tuæ præcedant gressus tuos.
+25 Oculi tui recta videant, et palpebrae tuae praecedant gressus tuos.
 
-26 Dirige semitam pedibus tuis, et omnes viæ tuæ stabilientur.
+26 Dirige semitam pedibus tuis, et omnes viae tuae stabilientur.
 
-27 Ne declines ad dexteram, neque ad sinistram: averte pedem tuum a malo. vias enim, quæ a dextris sunt, novit Dominus: perversæ vero sunt quæ a sinistris sunt. Ipse autem rectos faciet cursus tuos, itinera autem tua in pace producet.
+27 Ne declines ad dexteram, neque ad sinistram: averte pedem tuum a malo. vias enim, quae a dextris sunt, novit Dominus: perversae vero sunt quae a sinistris sunt. Ipse autem rectos faciet cursus tuos, itinera autem tua in pace producet.
 

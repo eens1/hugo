@@ -20,7 +20,7 @@ summary: |
 5 Et il répondit : Pacifique; c'est pour immoler au Seigneur que je suis venu; sanctifiez-vous, et venez avec moi, afin que j'immole. Il sanctifia donc Isaï et ses fils, et il les appela au sacrifice.
 
 
-6 Lorsqu'ils furent entrés, il vit Eliab, et il dit : Est-ce le christ du Seigneur qui est devant lui? 7 Et le Seigneur dit à Samuel : Ne regarde point son visage, ni la hauteur de sa stature, parce que je l'ai rejeté, et que moi je ne juge point selon le regard de l'homme ; car l'homme voit ce qui paraît, mais le Seigneur regarde le cœur.
+6 Lorsqu'ils furent entrés, il vit Eliab, et il dit : Est-ce le christ du Seigneur qui est devant lui? 7 Et le Seigneur dit à Samuel : Ne regarde point son visage, ni la hauteur de sa stature, parce que je l'ai rejeté, et que moi je ne juge point selon le regard de l'homme ; car l'homme voit ce qui paraît, mais le Seigneur regarde le coeur.
 
 ***Note*** :  I Rois 16, 7 : Voir Psaumes, 7, 10.
 

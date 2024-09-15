@@ -19,11 +19,11 @@ summary: |
 7 Ce qui est prouvé et par les anciennes histoires, et par ce qui se passe chaque jour, c'est comment par les mauvaises suggestions de quelques-uns les intentions des rois sont perverties. 8 C'est pourquoi il faut pourvoir à la paix de toutes les provinces. 9 Et vous ne devez pas penser, si nous ordonnons des choses différentes, que cela vienne de la légèreté de notre esprit, mais juger que c'est selon la nature et la nécessité des temps, comme l'utilité de l'Etat l'exige.
 
 
-10 Et, afin que vous compreniez plus manifestement ce que nous disons, Aman, fils d'Amadath, Macédonien de cœur et d'origine, n'étant point du sang des Perses, déshonorant notre clémence par sa cruauté, a été accueilli par nous, comme étranger.
+10 Et, afin que vous compreniez plus manifestement ce que nous disons, Aman, fils d'Amadath, Macédonien de coeur et d'origine, n'étant point du sang des Perses, déshonorant notre clémence par sa cruauté, a été accueilli par nous, comme étranger.
 
 ***Note*** :  Esther 16, 10 : On dit ici qu’Aman était de Macédonien d’origine, ce qui n’est pas en contradiction avec ce qui est dit à Esther, 3, 1, qu’il était de la race d’Agag, roi des Amalécites, parce que le mot Macédonien est un terme générique, employé, comme on le voit en plusieurs endroits des Machabées, pour signifier un étranger. D’ailleurs il peut très bien se faire qu’un homme de la postérité d’Agag se soit établi en Macédoine, et qu’Aman soit descendu de lui, et né dans cette contrée. ― Voir Esther, 3, 1.
 
-11 Et, après avoir reçu des marques de bonté telles, qu'il était appelé notre père, et adoré par tous, comme le second après le roi, 12 Il s'est élevé à un si grand excès d'arrogance, qu'il tâchait de nous priver du royaume et de la vie. 13 Car, par des manœuvres nouvelles et inouïes, il a vivement désiré envoyer à la mort Mardochée. par la fidélité et les bons offices duquel nous vivons, et Esther, la compagne de notre royauté, avec toute sa nation, 14 Pensant qu'eux une fois tués, il surprendrait notre vigilance, et transférerait le royaume des Perses aux Macédoniens.
+11 Et, après avoir reçu des marques de bonté telles, qu'il était appelé notre père, et adoré par tous, comme le second après le roi, 12 Il s'est élevé à un si grand excès d'arrogance, qu'il tâchait de nous priver du royaume et de la vie. 13 Car, par des manoeuvres nouvelles et inouïes, il a vivement désiré envoyer à la mort Mardochée. par la fidélité et les bons offices duquel nous vivons, et Esther, la compagne de notre royauté, avec toute sa nation, 14 Pensant qu'eux une fois tués, il surprendrait notre vigilance, et transférerait le royaume des Perses aux Macédoniens.
 
 ***Note*** :  Esther 16, 14 : Aux Macédoniens. Voir Esther, 3, 1.
 

@@ -9,15 +9,15 @@ draft: false
 
 2 In hoc cognoscimus quoniam diligamus natos Dei, cum Deum diligamus, et mandata eius faciamus.
 
-3 Hæc est enim charitas Dei, ut mandata eius custodiamus: et mandata eius gravia non sunt.
+3 Haec est enim charitas Dei, ut mandata eius custodiamus: et mandata eius gravia non sunt.
 
-4 Quoniam omne, quod natum est ex Deo, vincit mundum: et hæc est victoria, quæ vincit mundum, fides nostra.
+4 Quoniam omne, quod natum est ex Deo, vincit mundum: et haec est victoria, quae vincit mundum, fides nostra.
 
 5 Quis est, qui vincit mundum, nisi qui credit quoniam Iesus est filius Dei?
 
 6 hic est, qui venit per aquam et sanguinem, Iesus Christus: non in aqua solum, sed in aqua et sanguine. Et spiritus est, qui testificatur, quoniam Christus est veritas.
 
-7 Quoniam tres sunt, qui testimonium dant in cælo: Pater, Verbum, et Spiritus sanctus: et hi tres unum sunt.
+7 Quoniam tres sunt, qui testimonium dant in caelo: Pater, Verbum, et Spiritus sanctus: et hi tres unum sunt.
 
 8 Et tres sunt, qui testimonium dant in terra: Spiritus, et aqua, et sanguis: et hi tres unum sunt.
 
@@ -25,13 +25,13 @@ draft: false
 
 10 Qui credit in Filium Dei, habet testimonium Dei in se. Qui non credit Filio, mendacem facit eum: quia non credit in testimonium quod testificatus est Deus de Filio suo.
 
-11 Et hoc est testimonium, quoniam vitam æternam dedit nobis Deus. Et hæc vita in Filio eius est.
+11 Et hoc est testimonium, quoniam vitam aeternam dedit nobis Deus. Et haec vita in Filio eius est.
 
 12 Qui habet Filium, habet vitam: qui non habet Filium, vitam non habet.
 
-13 Hæc scribo vobis: ut sciatis quoniam vitam habetis æternam, qui creditis in nomine Filii Dei.
+13 Haec scribo vobis: ut sciatis quoniam vitam habetis aeternam, qui creditis in nomine Filii Dei.
 
-14 Et hæc est fiducia, quam habemus ad eum: Quia quodcumque petierimus: secundum voluntatem eius, audit nos.
+14 Et haec est fiducia, quam habemus ad eum: Quia quodcumque petierimus: secundum voluntatem eius, audit nos.
 
 15 Et scimus quia audit nos quidquid petierimus: scimus quoniam habemus petitiones quas postulamus ab eo.
 
@@ -43,7 +43,7 @@ draft: false
 
 19 Scimus quoniam ex Deo sumus: et mundus totus in maligno positus est.
 
-20 Et scimus quoniam Filius Dei venit, et dedit nobis sensum ut cognoscamus verum Deum, et simus in vero Filio eius. Hic est verus Deus, et vita æterna.
+20 Et scimus quoniam Filius Dei venit, et dedit nobis sensum ut cognoscamus verum Deum, et simus in vero Filio eius. Hic est verus Deus, et vita aeterna.
 
 21 Filioli, custodite vos a simulacris. Amen.
 

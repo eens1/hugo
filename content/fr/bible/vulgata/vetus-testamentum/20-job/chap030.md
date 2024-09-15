@@ -15,9 +15,9 @@ draft: false
 
 5 Qui de convallibus ista rapientes, cum singula reperissent, ad ea cum clamore currebant.
 
-6 In desertis habitabant torrentium, et in cavernis terræ, vel super glaream.
+6 In desertis habitabant torrentium, et in cavernis terrae, vel super glaream.
 
-7 Qui inter huiuscemodi lætabantur, et esse sub sentibus delicias computabant.
+7 Qui inter huiuscemodi laetabantur, et esse sub sentibus delicias computabant.
 
 8 Filii stultorum et ignobilium, et in terra penitus non parentes.
 
@@ -27,9 +27,9 @@ draft: false
 
 11 Pharetram enim suam aperuit, et afflixit me, et frenum posuit in os meum.
 
-12 Ad dexteram orientis calamitates meæ illico surrexerunt: pedes meos subverterunt, et oppresserunt quasi fluctibus semitis suis.
+12 Ad dexteram orientis calamitates meae illico surrexerunt: pedes meos subverterunt, et oppresserunt quasi fluctibus semitis suis.
 
-13 Dissipaverunt itinera mea, insidiati sunt mihi, et prævaluerunt, et non fuit qui ferret auxilium.
+13 Dissipaverunt itinera mea, insidiati sunt mihi, et praevaluerunt, et non fuit qui ferret auxilium.
 
 14 Quasi rupto muro, et aperta ianua, irruerunt super me, et ad meas miserias devoluti sunt.
 
@@ -39,13 +39,13 @@ draft: false
 
 17 Nocte os meum perforatur doloribus: et qui me comedunt, non dormiunt.
 
-18 In multitudine eorum consumitur vestimentum meum, et quasi capito tunicæ succinxerunt me.
+18 In multitudine eorum consumitur vestimentum meum, et quasi capito tunicae succinxerunt me.
 
-19 Comparatus sum luto, et assimilatus sum favillæ et cineri.
+19 Comparatus sum luto, et assimilatus sum favillae et cineri.
 
 20 Clamo ad te, et non exaudis me: sto, et non respicis me.
 
-21 Mutatus es mihi in crudelem, et in duritia manus tuæ adversaris mihi.
+21 Mutatus es mihi in crudelem, et in duritia manus tuae adversaris mihi.
 
 22 Elevasti me, et quasi super ventum ponens elisisti me valide.
 
@@ -55,15 +55,15 @@ draft: false
 
 25 Flebam quondam super eo, qui afflictus erat, et compatiebatur anima mea pauperi.
 
-26 Expectabam bona, et venerunt mihi mala: præstolabar lucem, et eruperunt tenebræ.
+26 Expectabam bona, et venerunt mihi mala: praestolabar lucem, et eruperunt tenebrae.
 
-27 Interiora mea efferbuerunt absque ulla requie, prævenerunt me dies afflictionis.
+27 Interiora mea efferbuerunt absque ulla requie, praevenerunt me dies afflictionis.
 
-28 Mœrens incedebam, sine furore, consurgens, in turba clamabam.
+28 Moerens incedebam, sine furore, consurgens, in turba clamabam.
 
 29 Frater fui draconum, et socius struthionum.
 
-30 Cutis mea denigrata est super me, et ossa mea aruerunt præ caumate.
+30 Cutis mea denigrata est super me, et ossa mea aruerunt prae caumate.
 
 31 Versa est in luctum cithara mea, et organum meum in vocem flentium.
 

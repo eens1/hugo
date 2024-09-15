@@ -32,7 +32,7 @@ summary: |
 13 Instruis ton fils, et agis sur lui, de peur que tu ne te heurtes contre sa turpitude.
 
 
-14 Vaut mieux un pauvre plein de forces, qu'un riche languissant et tourmenté, affligé par la maladie. 15 La santé de l'âme est dans la sainteté de la justice, elle vaut mieux que tout l'or et l'argent; et un corps robuste mieux qu'une richesse immense. 16 Il n'est point de richesses au-dessus de la richesse de la santé du corps ; et il n'est point de plaisir au-dessus de la joie du cœur. 17 Vaut mieux la mort qu'une vie amère, et le repos éternel qu'une langueur persévérante. 18 Des biens cachés dans une bouche fermée, sont comme les apprêts d'un festin fait autour d'un sépulcre.
+14 Vaut mieux un pauvre plein de forces, qu'un riche languissant et tourmenté, affligé par la maladie. 15 La santé de l'âme est dans la sainteté de la justice, elle vaut mieux que tout l'or et l'argent; et un corps robuste mieux qu'une richesse immense. 16 Il n'est point de richesses au-dessus de la richesse de la santé du corps ; et il n'est point de plaisir au-dessus de la joie du coeur. 17 Vaut mieux la mort qu'une vie amère, et le repos éternel qu'une langueur persévérante. 18 Des biens cachés dans une bouche fermée, sont comme les apprêts d'un festin fait autour d'un sépulcre.
 
 ***Note*** :  Sir. 30, 18 : Les apprêts, etc. ; allusion à l’ancienne coutume de mettre des viandes sur les tombeaux. Comparer à Ecclésiastique, 7, 37.
 
@@ -47,15 +47,15 @@ summary: |
 
 ***Note*** :  Sir. 30, 22 : Voir Proverbes, 12, 25 ; 15, 13 ; 17, 22.
 
-23 La joie du cœur, c'est la vie de l'homme et un trésor inépuisable de sainteté; et l'exultation de l'homme est sa longévité.
+23 La joie du coeur, c'est la vie de l'homme et un trésor inépuisable de sainteté; et l'exultation de l'homme est sa longévité.
 
 ***Note*** :  Sir. 30, 23 : L’exultation, etc. ; une grande joie rend la vie d’un homme plus longue.
 
-24 Aie pitié de ton âme, en plaisant à Dieu, et contiens-toi ; réunis ton cœur dans la sainteté de Dieu, et chasse la tristesse loin de toi. 25 Car la tristesse a tué beaucoup de gens, et il n'y a pas d'avantage en elle.
+24 Aie pitié de ton âme, en plaisant à Dieu, et contiens-toi ; réunis ton coeur dans la sainteté de Dieu, et chasse la tristesse loin de toi. 25 Car la tristesse a tué beaucoup de gens, et il n'y a pas d'avantage en elle.
 
 ***Note*** :  Sir. 30, 25 : Voir 2 Corinthiens, 7, 10.
 
-26 L'envie et le courroux abrègent les jours, et la pensée amènera la vieillesse avant le temps. 27 Un cœur serein et bon est dans les festins continuels; car ses festins se préparent avec soin.
+26 L'envie et le courroux abrègent les jours, et la pensée amènera la vieillesse avant le temps. 27 Un coeur serein et bon est dans les festins continuels; car ses festins se préparent avec soin.
 
 ***Note*** :  Sir. 30, 27 : Bon ; c’est-à-dire gai, joyeux, content.
 

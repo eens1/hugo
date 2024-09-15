@@ -25,7 +25,7 @@ atteste qu’elles se sont littéralement accomplies. On a fait quelques difficu
 ***Note*** :  Éz. 25, 5 : Rabbath ; capitale des Ammonites. ― La demeure des chameaux. Les Arabes allaient sur des chameaux.
 
 
-6 Parce que voici ce que dit le Seigneur Dieu : A cause que tu as battu des mains et frappé du pied, et que tu t'es réjouie de tout ton cœur au sujet de la terre d'Israël :7 A cause de cela, voilà que moi j'étendrai ma main sur toi, et je te livrerai en proie aux nations, et je te retrancherai du milieu des peuples, et je t'effacerai de la terre, et je te briserai, et tu sauras que je suis le Seigneur.
+6 Parce que voici ce que dit le Seigneur Dieu : A cause que tu as battu des mains et frappé du pied, et que tu t'es réjouie de tout ton coeur au sujet de la terre d'Israël :7 A cause de cela, voilà que moi j'étendrai ma main sur toi, et je te livrerai en proie aux nations, et je te retrancherai du milieu des peuples, et je t'effacerai de la terre, et je te briserai, et tu sauras que je suis le Seigneur.
 
 
 8 Voici ce que dit le Seigneur Dieu : A cause que Moab et Séïr ont dit : Voilà que comme toutes les nations est la maison de Juda;
@@ -34,7 +34,7 @@ atteste qu’elles se sont littéralement accomplies. On a fait quelques difficu
 
 9 A cause de cela, voilà que moi j'ouvrirai l'épaule de Moab, du côté des cités, de ses cités, dis-je, et du côté de ses confins j'ouvrirai les illustres cités, de la terre de Bethiésimoth, Béelméon et Cariathaïm,
 
-***Note*** :  Éz. 25, 9 : J’ouvrirai ; je rendrai accessible, je donnerai l’entrée à. ― L’épaule de Moab ; sa force, son soutien. ― Du côté de ses confins. C’était surtout aux frontières qu’étaient situées les villes les mieux fortifiées de Moab, telles que Bethiésimoth, Béelméon, Cariathaïm. ― De la terre (terræ) ; a pour complément les trois villes susdites, qui, par conséquent, représentent le génitif. Si le latin est ici amphibologique, l’hébreu ne l’est nullement ; c’est ce qu’ont parfaitement compris les auteurs de la traduction anglaise catholique de Douai.
+***Note*** :  Éz. 25, 9 : J’ouvrirai ; je rendrai accessible, je donnerai l’entrée à. ― L’épaule de Moab ; sa force, son soutien. ― Du côté de ses confins. C’était surtout aux frontières qu’étaient situées les villes les mieux fortifiées de Moab, telles que Bethiésimoth, Béelméon, Cariathaïm. ― De la terre (terrae) ; a pour complément les trois villes susdites, qui, par conséquent, représentent le génitif. Si le latin est ici amphibologique, l’hébreu ne l’est nullement ; c’est ce qu’ont parfaitement compris les auteurs de la traduction anglaise catholique de Douai.
 
 10 Aux fils de l'Orient avec les fils d'Ammon, et je la donnerai en héritage ; afin qu'il n'y ait plus souvenir des fils d'Ammon parmi les nations.
 
@@ -52,7 +52,7 @@ atteste qu’elles se sont littéralement accomplies. On a fait quelques difficu
 ***Note*** :  Éz. 25, 14 : J’exercerai, etc. Cette prophétie fut accomplie après le retour de la captivité, au temps des Machabées (voir 1 Machabées, 5, 65 ; 2 Machabées, 10, 16). ― Edom ; c’est l’Idumée, appelée ainsi d’Edom ou Esaü, qui l’habita.
 
 
-15 Voici ce que dit le Seigneur Dieu : A cause que les Philistins ont tiré vengeance, et qu'ils se sont vengés de tout leur cœur, tuant et satisfaisant d'anciennes inimitiés, 16 A cause de cela, voici ce que dit le Seigneur Dieu : Voilà que moi j'étendrai ma main sur les Philistins, et je tuerai ceux qui ont tué, et je perdrai les restes de la contrée maritime ;
+15 Voici ce que dit le Seigneur Dieu : A cause que les Philistins ont tiré vengeance, et qu'ils se sont vengés de tout leur coeur, tuant et satisfaisant d'anciennes inimitiés, 16 A cause de cela, voici ce que dit le Seigneur Dieu : Voilà que moi j'étendrai ma main sur les Philistins, et je tuerai ceux qui ont tué, et je perdrai les restes de la contrée maritime ;
 
 ***Note*** :  Éz. 25, 16 : Les restes, etc. Les Philistins sont ainsi désignés parce qu’ils habitaient sur les côtés de la mer Méditerranée, et parce que dans les temps antérieurs les Assyriens et les Egyptiens avaient beaucoup diminué leur population (voir Isaïe, 14, 30 ; Jérémie, 25, 20 ; 47, 1 ; Sophonie, 2, 4).
 

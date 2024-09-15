@@ -45,7 +45,7 @@ summary: |
 
 ***Note*** :  Sg. 4, 13 : Consommé. Voir le verset 10. ― De jours ; littéralement de temps.
 
-14 Car son âme était agréable à Dieu ; à cause de cela il s'est hâté de le retirer du milieu des iniquités ; mais les peuples voient et ne comprennent pas, et ils ne mettent pas dans leur cœur des choses semblables, savoir :15 Que la grâce de Dieu et sa miséricorde sont pour ses saints, et son regard favorable pour ses élus. 16 Mais le juste mort condamne les impies vivants, et une jeunesse plus promptement consommée, la longue vie de l'homme injuste.
+14 Car son âme était agréable à Dieu ; à cause de cela il s'est hâté de le retirer du milieu des iniquités ; mais les peuples voient et ne comprennent pas, et ils ne mettent pas dans leur coeur des choses semblables, savoir :15 Que la grâce de Dieu et sa miséricorde sont pour ses saints, et son regard favorable pour ses élus. 16 Mais le juste mort condamne les impies vivants, et une jeunesse plus promptement consommée, la longue vie de l'homme injuste.
 
 ***Note*** :  Sg. 4, 16 : Une jeunesse, etc. ; c’est-à-dire que le juste enlevé à la fleur de son âge est la condamnation du méchant qui, dans une longue vie, n’est pas parvenu à la perfection d’un jeune homme.
 

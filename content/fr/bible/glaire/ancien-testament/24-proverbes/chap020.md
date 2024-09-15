@@ -28,9 +28,9 @@ summary: |
 ***Note*** :  Prov. 20, 4 : A cause du froid, etc. Dans la Palestine, les semailles se font en novembre et en décembre, mois pendant lesquels soufflent ordinairement les vents du nord.
 
 
-5 Comme une eau profonde, ainsi est le conseil dans le cœur de l'homme ; mais l'homme sage l'épuisera.
+5 Comme une eau profonde, ainsi est le conseil dans le coeur de l'homme ; mais l'homme sage l'épuisera.
 
-***Note*** :  Prov. 20, 5 : Comme une eau, etc. Le cœur de l’homme dans ses desseins est aussi impénétrable qu’une eau profonde ; mais le sage qui a la connaissance des hommes lit jusqu’au fond du cœur humain, en sonde les abîmes et en découvre ce qu’il a de plus secret.
+***Note*** :  Prov. 20, 5 : Comme une eau, etc. Le coeur de l’homme dans ses desseins est aussi impénétrable qu’une eau profonde ; mais le sage qui a la connaissance des hommes lit jusqu’au fond du coeur humain, en sonde les abîmes et en découvre ce qu’il a de plus secret.
 
 
 6 Beaucoup d'hommes sont appelés miséricordieux; mais un homme fidèle, qui le trouvera?
@@ -42,7 +42,7 @@ summary: |
 8 Le roi qui est assis sur le trône de la justice dissipe tout le mal par son regard.
 
 
-9 Qui peut dire : Mon cœur est pur, je suis pur de péché?
+9 Qui peut dire : Mon coeur est pur, je suis pur de péché?
 
 ***Note*** :  Prov. 20, 9 : Voir 3 Rois, 8, 46 ; 2 Paralipomènes, 6, 36 ; Ecclésiaste, 7, 21 ; 1 Jean, 1, 8.
 
@@ -52,10 +52,10 @@ summary: |
 ***Note*** :  Prov. 20, 10 : Voir Proverbes, 11, 1. ― Un poids et un poids, etc. ; c’est-à-dire divers poids et diverses mesures. Dieu défend dans sa loi d’avoir divers poids et diverses mesures. Voir Deutéronome, 25, 13-16.
 
 
-11 Par ses inclinations un enfant est connu : si ses œuvres sont pures et droites.
+11 Par ses inclinations un enfant est connu : si ses oeuvres sont pures et droites.
 
 
-12 L'oreille qui entend et l'œil qui voit, le Seigneur a fait l'un et l'autre.
+12 L'oreille qui entend et l'oeil qui voit, le Seigneur a fait l'un et l'autre.
 
 
 13 N'aime pas le sommeil, de peur que la détresse ne t'accable ; ouvre les yeux et rassasie-toi de pain.
@@ -108,7 +108,7 @@ summary: |
 24 Par le Seigneur sont dirigés les pas de l'homme ; mais qui des hommes peut comprendre sa voie?
 
 
-25 C'est une ruine pour l'homme de dévorer les saints, et après des vœux, de se rétracter.
+25 C'est une ruine pour l'homme de dévorer les saints, et après des voeux, de se rétracter.
 
 ***Note*** :  Prov. 20, 25 : Dévorer les saints ; les attaquer, les persécuter. Dieu prend la défense des saints, ses amis persécutés, en faisant périr leurs persécuteurs : témoin Pharaon, Antiochus Epiphane, etc.
 

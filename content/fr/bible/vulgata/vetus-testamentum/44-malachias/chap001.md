@@ -5,13 +5,13 @@ draft: false
 ---
 
 
-1 Onus verbi Domini ad Israel in manu Malachiæ.
+1 Onus verbi Domini ad Israel in manu Malachiae.
 
 2 Dilexi vos, dicit Dominus, et dixistis: In quo dilexisti nos? Nonne frater erat Esau Iacob, dicit Dominus, et dilexi Iacob,
 
 3 Esau autem odio habui? et posui montes eius in solitudinem, et hereditatem eius in dracones deserti.
 
-4 Quod si dixerit Idumæa: Destructi sumus, sed revertentes ædificabimus quæ destructa sunt: Hæc dicit Dominus exercituum: Isti ædificabunt, et ego destruam: et vocabuntur termini impietatis, et populus, cui iratus est Dominus usque in æternum.
+4 Quod si dixerit Idumaea: Destructi sumus, sed revertentes aedificabimus quae destructa sunt: Haec dicit Dominus exercituum: Isti aedificabunt, et ego destruam: et vocabuntur termini impietatis, et populus, cui iratus est Dominus usque in aeternum.
 
 5 Et oculi vestri videbunt: et vos dicetis: Magnificetur Dominus super terminum Israel.
 
@@ -19,7 +19,7 @@ draft: false
 
 7 Offertis super altare meum panem pollutum, et dicitis: In quo polluimus te? In eo quod dicitis: Mensa Domini despecta est.
 
-8 Si offeratis cæcum ad immolandum, nonne malum est? et si offeratis claudum, et languidum, nonne malum est? offer illud duci tuo, si placuerit ei, aut si susceperit faciem tuam, dicit Dominus exercituum.
+8 Si offeratis caecum ad immolandum, nonne malum est? et si offeratis claudum, et languidum, nonne malum est? offer illud duci tuo, si placuerit ei, aut si susceperit faciem tuam, dicit Dominus exercituum.
 
 9 Et nunc deprecamini vultum Dei ut misereatur vestri (de manu enim vestra factum est hoc) si quomodo suscipiat facies vestras, dicit Dominus exercituum.
 

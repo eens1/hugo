@@ -77,7 +77,7 @@ Jérusalem, voir 1 Machabées, 1, 21 ; jusqu’à l’an 149, qui est celui de s
 
 ***Note*** :  Dn. 8, 24 : Un peuple de saints ; le peuple consacré au Seigneur, les Juifs, qui souffriront une persécution sanglante sous le règne d’Antiochus II (voir 1 Machabées, 1, verset 53 et suivants).
 
-25 Selon sa volonté, et la fraude sera dirigée par sa main ; et il élèvera son cœur, et dans son abondance de toutes choses il fera périr un très grand nombre de victimes, et contre le prince des princes il s'élèvera, et sans la main d'aucun homme il sera brisé.
+25 Selon sa volonté, et la fraude sera dirigée par sa main ; et il élèvera son coeur, et dans son abondance de toutes choses il fera périr un très grand nombre de victimes, et contre le prince des princes il s'élèvera, et sans la main d'aucun homme il sera brisé.
 
 ***Note*** :  Dn. 8, 25 : Et sans la main, etc. Voir 2 Machabées, chapitre 9, la fin d’Antiochus.
 

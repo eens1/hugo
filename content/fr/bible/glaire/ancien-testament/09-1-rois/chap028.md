@@ -22,7 +22,7 @@ summary: |
 
 ***Note*** :  I Rois 28, 4 : Sunam ou Sunem, dans la plaine d’Esdrelon, au nord de Jezraël, au sud de Naïm. ― Gelboé, au sud-est de Jezraël.
 
-5 Et Saül vit le camp des Philistins, et il craignit, et son cœur fut tout saisi d'épouvante. 6 Et il consulta le Seigneur, et le Seigneur ne lui répondit point, ni par des songes, ni par les prêtres, ni par les prophètes. 7 Alors Saül dit à ses serviteurs : Cherchez-moi une femme ayant un esprit de python, et j'irai à elle, et je l'interrogerai. Et ses serviteurs lui répondirent : II y a à Endor une femme qui a un esprit de python.
+5 Et Saül vit le camp des Philistins, et il craignit, et son coeur fut tout saisi d'épouvante. 6 Et il consulta le Seigneur, et le Seigneur ne lui répondit point, ni par des songes, ni par les prêtres, ni par les prophètes. 7 Alors Saül dit à ses serviteurs : Cherchez-moi une femme ayant un esprit de python, et j'irai à elle, et je l'interrogerai. Et ses serviteurs lui répondirent : II y a à Endor une femme qui a un esprit de python.
 
 ***Note*** :  I Rois 28, 7 : Voir Lévitique, 20, 27 ; Deutéronome, 18, 11 ; Actes des Apôtres, 16, 16. ― Un esprit de python. Voir Lévitique, note 20. 27. ― Endor, au nord-est de Naïm, en face du mont Thabor.
 

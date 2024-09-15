@@ -33,7 +33,7 @@ summary: |
 
 ***Note*** :  Jon. 3, 6 : Le bruit, la nouvelle ; c’est le sens qu’a assez fréquemment dans la Vulgate le mot verbum, et son correspondant hébreu. Cependant il peut signifier la parole de Jonas en particulier (voir verset 4), ou bien l’événement qui s’ensuivit, ou bien enfin l’une et l’autre ; car le même terme s’emploie de ces différentes manières. ― Au roi de Ninive. Le nom de ce roi n’est pas connu d’une manière certaine, mais l’on peut admettre que c’était Rammannisar, contemporain de Jonas, qui régna de 810 à 782 avant notre ère.
 
-7 Et il cria et dit dans Ninive par la bouche du roi et de ses princes, disant : Que les hommes et les animaux, et les bœufs et les troupeaux de menu bétail ne gOÛtent rien; et qu'ils ne paissent point, et ne boivent point d'eau.
+7 Et il cria et dit dans Ninive par la bouche du roi et de ses princes, disant : Que les hommes et les animaux, et les boeufs et les troupeaux de menu bétail ne gOÛtent rien; et qu'ils ne paissent point, et ne boivent point d'eau.
 
 ***Note*** :  Jon. 3, 7 : Il cria et dit par la bouche ; suivant l’hébreu, il fit crier et dire par l’ordre.
 
@@ -42,7 +42,7 @@ summary: |
 ***Note*** :  Jon. 3, 9 : Voir Jérémie, 18, 11 ; Joël, 2, 14.
 
 
-10 Et Dieu vit leurs œuvres, il vit qu'ils étaient convertis de leur voie mauvaise; et Dieu eut pitié d'eux, touchant le mal qu'il avait dit qu'il leur ferait, et il ne le fit pas.
+10 Et Dieu vit leurs oeuvres, il vit qu'ils étaient convertis de leur voie mauvaise; et Dieu eut pitié d'eux, touchant le mal qu'il avait dit qu'il leur ferait, et il ne le fit pas.
 
 ***Note*** :  Jon. 3, 10 : Qu’ils étaient convertis, etc. (quia conversi sunt) ; forme un second complément du verbe il vit (vidit), ou bien la particule quia est purement explicative, comme sa correspondante hébraïque l’est quelquefois.
 

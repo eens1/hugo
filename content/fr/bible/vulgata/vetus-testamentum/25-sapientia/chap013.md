@@ -5,33 +5,33 @@ draft: false
 ---
 
 
-1 Vani autem sunt omnes homines, in quibus non subest scientia Dei: et de his, quæ videntur bona, non potuerunt intelligere eum, qui est, neque operibus attendentes agnoverunt quis esset artifex:
+1 Vani autem sunt omnes homines, in quibus non subest scientia Dei: et de his, quae videntur bona, non potuerunt intelligere eum, qui est, neque operibus attendentes agnoverunt quis esset artifex:
 
 2 sed aut ignem, aut spiritum, aut citatum aerem, aut gyrum stellarum, aut nimiam aquam, aut solem et lunam, rectores orbis terrarum deos putaverunt.
 
-3 Quorum si specie delectati, deos putaverunt: sciant quanto his dominator eorum speciosior est. Speciei enim generator hæc omnia constituit.
+3 Quorum si specie delectati, deos putaverunt: sciant quanto his dominator eorum speciosior est. Speciei enim generator haec omnia constituit.
 
-4 Aut si virtutem et opera eorum mirati sunt, intelligant ab illis, quoniam qui hæc fecit, fortior est illis:
+4 Aut si virtutem et opera eorum mirati sunt, intelligant ab illis, quoniam qui haec fecit, fortior est illis:
 
-5 a magnitudine enim speciei, et creaturæ cognoscibiliter poterit creator horum videri.
+5 a magnitudine enim speciei, et creaturae cognoscibiliter poterit creator horum videri.
 
-6 Sed tamen adhuc in his minor est querela. Et hi enim fortasse errant, Deum quærentes, et volentes invenire.
+6 Sed tamen adhuc in his minor est querela. Et hi enim fortasse errant, Deum quaerentes, et volentes invenire.
 
-7 Etenim cum in operibus illius conversentur, inquirunt: et persuasum habent quoniam bona sunt quæ videntur.
+7 Etenim cum in operibus illius conversentur, inquirunt: et persuasum habent quoniam bona sunt quae videntur.
 
 8 Iterum autem nec his debet ignosci.
 
-9 Si enim tantum potuerunt scire, ut possent æstimare sæculum: quomodo huius Dominum non facilius invenerunt?
+9 Si enim tantum potuerunt scire, ut possent aestimare saeculum: quomodo huius Dominum non facilius invenerunt?
 
-10 Infelices autem sunt, et inter mortuos spes illorum est, qui appellaverunt deos opera manuum hominum, aurum et argentum, artis inventionem, et similitudines animalium, aut lapidem inutilem opus manus antiquæ.
+10 Infelices autem sunt, et inter mortuos spes illorum est, qui appellaverunt deos opera manuum hominum, aurum et argentum, artis inventionem, et similitudines animalium, aut lapidem inutilem opus manus antiquae.
 
-11 Aut siquis artifex faber de silva lignum rectum secuerit, et huius docte eradat omnem corticem, et arte sua usus, diligenter fabricet vas utile in conversationem vitæ,
+11 Aut siquis artifex faber de silva lignum rectum secuerit, et huius docte eradat omnem corticem, et arte sua usus, diligenter fabricet vas utile in conversationem vitae,
 
-12 reliquiis autem eius operis, ad præparationem escæ abutatur:
+12 reliquiis autem eius operis, ad praeparationem escae abutatur:
 
-13 et reliquum horum, quod ad nullos usus facit, lignum curvum, et vorticibus plenum, sculpat diligenter per vacuitatem suam, et per scientiam suæ artis figuret illud, et assimilet illud imagini hominis,
+13 et reliquum horum, quod ad nullos usus facit, lignum curvum, et vorticibus plenum, sculpat diligenter per vacuitatem suam, et per scientiam suae artis figuret illud, et assimilet illud imagini hominis,
 
-14 aut alicui ex animalibus illud comparet, perliniens rubrica, et rubicundum faciens fuco colorem illius, et omnem maculam, quæ in illo est, perliniens:
+14 aut alicui ex animalibus illud comparet, perliniens rubrica, et rubicundum faciens fuco colorem illius, et omnem maculam, quae in illo est, perliniens:
 
 15 et faciat ei dignam habitationem, et in pariete ponens illud, et confirmans ferro,
 

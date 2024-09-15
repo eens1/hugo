@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Psalmus David, Hieremiæ. Super flumina Babylonis, illic sedimus et flevimus: cum recordaremur Sion:
+1 Psalmus David, Hieremiae. Super flumina Babylonis, illic sedimus et flevimus: cum recordaremur Sion:
 
 2 In salicibus in medio eius, suspendimus organa nostra.
 
@@ -15,7 +15,7 @@ draft: false
 
 5 Si oblitus fuero tui Ierusalem, oblivioni detur dextera mea.
 
-6 Adhæreat lingua mea faucibus meis, si non meminero tui: Si non proposuero Ierusalem, in principio lætitiæ meæ.
+6 Adhaereat lingua mea faucibus meis, si non meminero tui: Si non proposuero Ierusalem, in principio laetitiae meae.
 
 7 Memor esto Domine filiorum Edom, in die Ierusalem: Qui dicunt: Exinanite, exinanite usque ad fundamentum in ea.
 

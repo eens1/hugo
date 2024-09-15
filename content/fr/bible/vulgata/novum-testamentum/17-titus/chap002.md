@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Tu autem loquere quæ decent sanam doctrinam:
+1 Tu autem loquere quae decent sanam doctrinam:
 
 2 Senes ut sobrii sint, pudici, prudentes, sani in fide, in dilectione, in patientia:
 
@@ -17,7 +17,7 @@ draft: false
 
 6 Iuvenes similiter hortare ut sobrii sint.
 
-7 In omnibus teipsum præbe exemplum bonorum operum, in doctrina, in integritate, in gravitate,
+7 In omnibus teipsum praebe exemplum bonorum operum, in doctrina, in integritate, in gravitate,
 
 8 verbum sanum, irreprehensibile: ut is, qui ex adverso est, vereatur, nihil habens malum dicere de nobis:
 
@@ -27,11 +27,11 @@ draft: false
 
 11 Apparuit enim gratia Dei Salvatoris nostri omnibus hominibus,
 
-12 erudiens nos, ut abnegantes impietatem, et sæcularia desideria: sobrie, et iuste, et pie vivamus in hoc sæculo,
+12 erudiens nos, ut abnegantes impietatem, et saecularia desideria: sobrie, et iuste, et pie vivamus in hoc saeculo,
 
-13 expectantes beatam spem, et adventum gloriæ magni Dei, et Salvatoris nostri Iesu Christi:
+13 expectantes beatam spem, et adventum gloriae magni Dei, et Salvatoris nostri Iesu Christi:
 
 14 qui dedit semetipsum pro nobis, ut nos redimeret ab omni iniquitate, et mundaret sibi populum acceptabilem, sectatorem bonorum operum.
 
-15 Hæc loquere, et exhortare, et argue cum omni imperio. Nemo te contemnat.
+15 Haec loquere, et exhortare, et argue cum omni imperio. Nemo te contemnat.
 

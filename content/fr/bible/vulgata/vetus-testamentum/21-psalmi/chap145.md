@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Alleluia, Aggæi, et Zachariæ.
+1 Alleluia, Aggaei, et Zachariae.
 
 2 Lauda anima mea Dominum, laudabo Dominum in vita mea: psallam Deo meo quamdiu fuero. Nolite confidere in principibus:
 
@@ -15,13 +15,13 @@ draft: false
 
 5 Beatus, cuius Deus Iacob adiutor eius, spes eius in Domino Deo ipsius:
 
-6 qui fecit cælum et terram, mare, et omnia, quæ in eis sunt.
+6 qui fecit caelum et terram, mare, et omnia, quae in eis sunt.
 
-7 Qui custodit veritatem in sæculum, facit iudicium iniuriam patientibus: dat escam esurientibus. Dominus solvit compeditos:
+7 Qui custodit veritatem in saeculum, facit iudicium iniuriam patientibus: dat escam esurientibus. Dominus solvit compeditos:
 
-8 Dominus illuminat cæcos. Dominus erigit elisos, Dominus diligit iustos.
+8 Dominus illuminat caecos. Dominus erigit elisos, Dominus diligit iustos.
 
 9 Dominus custodit advenas, pupillum et viduam suscipiet: et vias peccatorum disperdet.
 
-10 Regnabit Dominus in sæcula Deus tuus Sion, in generationem et generationem.
+10 Regnabit Dominus in saecula Deus tuus Sion, in generationem et generationem.
 

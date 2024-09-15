@@ -11,7 +11,7 @@ draft: false
 
 3 ut nemo moveatur in tribulationibus istis: ipsi enim scitis quod in hoc positi sumus.
 
-4 Nam et cum apud vos essemus, prædicebamus vobis passuros nos tribulationes, sicut et factum est, et scitis.
+4 Nam et cum apud vos essemus, praedicebamus vobis passuros nos tribulationes, sicut et factum est, et scitis.
 
 5 Propterea et ego amplius non sustinens, misi ad cognoscendam fidem vestram: ne forte tentaverit vos is, qui tentat, et inanis fiat labor noster.
 
@@ -23,7 +23,7 @@ draft: false
 
 9 Quam enim gratiarum actionem possumus Deo retribuere pro vobis in omni gaudio, quo gaudemus propter vos ante Deum nostrum,
 
-10 nocte ac die abundantius orantes, ut videamus faciem vestram, et compleamus ea, quæ desunt fidei vestræ?
+10 nocte ac die abundantius orantes, ut videamus faciem vestram, et compleamus ea, quae desunt fidei vestrae?
 
 11 Ipse autem Deus, et Pater noster, et Dominus noster Iesus Christus dirigat viam nostram ad vos.
 

@@ -17,15 +17,15 @@ draft: false
 
 6 Quoniam cogitaverunt unanimiter: simul adversum te testamentum disposuerunt,
 
-7 tabernacula Idumæorum et Ismahelitæ: Moab, et Agareni,
+7 tabernacula Idumaeorum et Ismahelitae: Moab, et Agareni,
 
-8 Gebal, et Ammon, et Amalec: alienigenæ cum habitantibus Tyrum.
+8 Gebal, et Ammon, et Amalec: alienigenae cum habitantibus Tyrum.
 
 9 Etenim Assur venit cum illis: facti sunt in adiutorium filiis Lot.
 
-10 Fac illis sicut Madian et Sisaræ: sicut Iabin in torrente Cisson.
+10 Fac illis sicut Madian et Sisarae: sicut Iabin in torrente Cisson.
 
-11 Disperierunt in Endor: facti sunt ut stercus terræ.
+11 Disperierunt in Endor: facti sunt ut stercus terrae.
 
 12 Pone principes eorum sicut Oreb, et Zeb, et Zebee, et Salmana: Omnes principes eorum:
 
@@ -37,9 +37,9 @@ draft: false
 
 16 Ita persequeris illos in tempestate tua: et in ira tua turbabis eos.
 
-17 Imple facies eorum ignominia: et quærent nomen tuum, Domine.
+17 Imple facies eorum ignominia: et quaerent nomen tuum, Domine.
 
-18 Erubescant, et conturbentur in sæculum sæculi: et confundantur, et pereant.
+18 Erubescant, et conturbentur in saeculum saeculi: et confundantur, et pereant.
 
 19 Et cognoscant quia nomen tibi Dominus: tu solus Altissimus in omni terra.
 

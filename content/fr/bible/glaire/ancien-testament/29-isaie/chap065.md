@@ -41,7 +41,7 @@ summary: |
 
 ***Note*** :  Is. 65, 6 : Je verserai dans leur sein ; je verserai dans leur sein ce qu’ils méritent. On retrouve une locution semblable à Psaumes, 78, 12 ; Jérémie, 32, 18 ; Luc, 6, 38.
 
-7 Vos iniquités, dit le Seigneur, en même temps que les iniquités de vos pères, qui ont sacrifié sur les montagnes, et m'ont outragé sur les collines, et je verserai leurs premières œuvres à égale mesure dans leur sein.
+7 Vos iniquités, dit le Seigneur, en même temps que les iniquités de vos pères, qui ont sacrifié sur les montagnes, et m'ont outragé sur les collines, et je verserai leurs premières oeuvres à égale mesure dans leur sein.
 
 
 8 Voici ce que dit le Seigneur : De même que si on trouve un grain dans une grappe de raisin, et Sion dit : Ne le perds pas, parce que c'est une bénédiction, de même aussi je ferai en sorte, à cause de mes serviteurs, que je ne perde pas entièrement tout Israël. 9 Je ferai sortir de Jacob une postérité, et de Juda celui qui possédera mes montagnes ; mes élus hériteront de cette terre et mes serviteurs y habiteront. 10 Et les campagnes serviront de parcs aux troupeaux de menu bétail, et la vallée d'Achor, de retraite aux troupeaux de gros bétail, en faveur de ceux de mon peuple qui m'ont recherché.
@@ -58,12 +58,12 @@ summary: |
 ***Note*** :  Is. 65, 12 : Voir Proverbes, 1, 24 ; Isaïe, 66, 4 ; Jérémie, 7, 13.
 
 
-13 A cause de cela voici ce que dit le Seigneur Dieu : Voilà que mes serviteurs mangeront, et vous, vous aurez faim; voilà que mes serviteurs boiront, et vous, vous aurez soif; 14 Voilà que mes serviteurs se réjouiront, et vous, vous serez confus ; voilà que mes serviteurs chanteront des louanges dans l'exultation de leur cœur, et vous, vous jetterez des cris dans la douleur de votre cœur, et dans le brisement de votre esprit vous pousserez des hurlements. 15 Et vous laisserez votre nom à mes serviteurs comme un objet d'imprécation ; et le Seigneur Dieu te détruira, et il appellera ses serviteurs d'un autre nom, 16 Dans lequel celui qui est béni sur la terre sera béni dans le Dieu de vérité, et celui qui jure sur la terre jurera par le Dieu de vérité ; parce qu'à l'oubli ont été livrées les premières angoisses, et qu'elles ont été cachées à ma face.
+13 A cause de cela voici ce que dit le Seigneur Dieu : Voilà que mes serviteurs mangeront, et vous, vous aurez faim; voilà que mes serviteurs boiront, et vous, vous aurez soif; 14 Voilà que mes serviteurs se réjouiront, et vous, vous serez confus ; voilà que mes serviteurs chanteront des louanges dans l'exultation de leur coeur, et vous, vous jetterez des cris dans la douleur de votre coeur, et dans le brisement de votre esprit vous pousserez des hurlements. 15 Et vous laisserez votre nom à mes serviteurs comme un objet d'imprécation ; et le Seigneur Dieu te détruira, et il appellera ses serviteurs d'un autre nom, 16 Dans lequel celui qui est béni sur la terre sera béni dans le Dieu de vérité, et celui qui jure sur la terre jurera par le Dieu de vérité ; parce qu'à l'oubli ont été livrées les premières angoisses, et qu'elles ont été cachées à ma face.
 
 ***Note*** :  Is. 65, 16 : Le Dieu de vérité ; littéralement le Dieu d’amen ; en hébreu, amen signifie, en effet, vérité, fidélité dans les promesses.
 
 
-17 Car voici que je crée des cieux nouveaux et une terre nouvelle; les choses passées ne seront pas dans la mémoire, et elles ne monteront pas sur le cœur.
+17 Car voici que je crée des cieux nouveaux et une terre nouvelle; les choses passées ne seront pas dans la mémoire, et elles ne monteront pas sur le coeur.
 
 ***Note*** :  Is. 65, 17-19 : Car voici, etc. Saint Jean décrit sous de semblables symboles le Royaume des justes sur la terre renouvelée (voir Apocalypse, 21, 1-5) « rétabli dans son état premier » dit saint Irénée (Contre les hérésies, V, 33-4). Voir ci-après les versets 20 à 25. Voir Isaïe, 11, 6-9.
 
@@ -93,7 +93,7 @@ eux-mêmes, qui disent : voir Isaïe, 6, 11 ; 13, 9 ; 26, 10 (…) Ces événeme
 
 ***Note*** :  Is. 65, 24 : Voir Psaumes, 31, 5.
 
-25 Le loup et l'agneau paîtront ensemble; le lion et le bœuf mangeront la paille, et pour le serpent, la poussière sera son pain; ils ne nuiront point, et ils ne tueront point sur toute ma montagne sainte, dit le Seigneur.
+25 Le loup et l'agneau paîtront ensemble; le lion et le boeuf mangeront la paille, et pour le serpent, la poussière sera son pain; ils ne nuiront point, et ils ne tueront point sur toute ma montagne sainte, dit le Seigneur.
 
 ***Note*** :  Is. 65, 25 : Voir Isaïe, 11, 6-9. ― Pain ; ce mot est mis souvent dans l’Ecriture pour nourriture en général.
 

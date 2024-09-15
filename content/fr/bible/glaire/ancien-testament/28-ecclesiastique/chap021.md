@@ -20,7 +20,7 @@ summary: |
 
 ***Note*** :  Sir. 21, 6 : Jusqu’à ses oreilles ; c’est-à-dire aux oreilles de Dieu, mot sous-entendu ou bien du superbe, nommé au verset précédent. ― Le jugement (judicium) ; la justice de Dieu en faveur du pauvre ; ou bien la condamnation du superbe. ― Viendra à lui ; au pauvre ; ou bien au superbe. Au lieu de, le jugement viendra à lui, le grec et la Version Sixtine portent à la lettre, le jugement de lui vient ; ce qui laisse subsister l’amphibologie de la Vulgate. Cependant la plupart des interprètes sont pour la première explication.
 
-7 Celui qui hait la correction suit la trace du pécheur; et celui qui craint Dieu rentrera en son cœur.
+7 Celui qui hait la correction suit la trace du pécheur; et celui qui craint Dieu rentrera en son coeur.
 
 ***Note*** :  Sir. 21, 7 : Suit la trace ; ou est dans la trace ; littéralement est la trace.
 
@@ -39,7 +39,7 @@ summary: |
 11 La voie des pécheurs est pavée de pierres ; mais à leur fin, sont les enfers, et les ténèbres, et les tourments. 12 Celui qui garde la justice comprendra le sens. 13 La perfection de la crainte de Dieu est la sagesse et l'intelligence. 14 Il ne deviendra jamais habile, celui qui n'est pas sage dans le bien. 15 Or il est une sagesse qui abonde dans le mal; et il n'y a pas d'intelligence là où est l'amertume.
 
 
-16 La science du sage débordera comme une inondation ; et son conseil est permanent comme une sorte de vie. 17 Le cœur de l'insensé est comme un vase rompu ; et il ne retiendra aucune sagesse. 18 Quelque parole sage qu'entende l'homme habile, il la louera et se l'appliquera ; le voluptueux l'a entendue, et elle lui déplaira, et il la rejettera derrière lui. 19 La conversation de l'insensé est comme un fardeau dans une voie ; car c'est sur les lèvres du sage que se trouvera la grâce. 20 La bouche du sage est recherchée dans une assemblée, et ils penseront à ses paroles dans leur cœur. 21 Comme est une maison ruinée, ainsi est pour l'insensé la sagesse; et la science de l'insensé sont des paroles inexprimables.
+16 La science du sage débordera comme une inondation ; et son conseil est permanent comme une sorte de vie. 17 Le coeur de l'insensé est comme un vase rompu ; et il ne retiendra aucune sagesse. 18 Quelque parole sage qu'entende l'homme habile, il la louera et se l'appliquera ; le voluptueux l'a entendue, et elle lui déplaira, et il la rejettera derrière lui. 19 La conversation de l'insensé est comme un fardeau dans une voie ; car c'est sur les lèvres du sage que se trouvera la grâce. 20 La bouche du sage est recherchée dans une assemblée, et ils penseront à ses paroles dans leur coeur. 21 Comme est une maison ruinée, ainsi est pour l'insensé la sagesse; et la science de l'insensé sont des paroles inexprimables.
 
 ***Note*** :  Sir. 21, 21 : Comme est une maison ruinée, etc. La sagesse ne sert pas plus à un insensé, que ne sert une maison ruinée dont on ne fait aucun usage. ― Inexprimables ; confuses, sans aucun ordre, ni aucune suite.
 
@@ -51,7 +51,7 @@ summary: |
 23 L'insensé dans le rire élève sa voix ; mais l'homme sage rira à peine tout bas. 24 C'est un ornement d'or pour l'homme prudent que la doctrine, et comme un bracelet à son bras droit. 25 Le pied de l'insensé entre aisément dans la maison de son prochain; mais l'homme habile sera troublé par la personne d'un puissant. 26 L'insensé regardera par la fenêtre dans une maison ; mais l'homme instruit se tiendra dehors.
 
 
-27 La folie d'un homme est d'écouter à la porte ; et l'homme prudent supportera avec peine cette ignominie. 28 Les lèvres des imprudents raconteront des choses insensées; mais les paroles des hommes prudents seront pesées dans la balance. 29 Dans la bouche des insensés est leur cœur ; et dans le cœur des sages est leur bouche. 30 Lorsque l'impie maudit le démon, il maudit lui-même son âme. 31 Le délateur souillera son âme, et en toutes choses il sera haï ; et celui qui demeure avec lui sera odieux; mais l'homme silencieux et sensé sera honoré.
+27 La folie d'un homme est d'écouter à la porte ; et l'homme prudent supportera avec peine cette ignominie. 28 Les lèvres des imprudents raconteront des choses insensées; mais les paroles des hommes prudents seront pesées dans la balance. 29 Dans la bouche des insensés est leur coeur ; et dans le coeur des sages est leur bouche. 30 Lorsque l'impie maudit le démon, il maudit lui-même son âme. 31 Le délateur souillera son âme, et en toutes choses il sera haï ; et celui qui demeure avec lui sera odieux; mais l'homme silencieux et sensé sera honoré.
 
 ***Note*** :  Sir. 21, 31 : En toutes choses (in omnibus) ; ou en tous lieux, partout ; ou par tous, par tout le monde.
 

@@ -21,13 +21,13 @@ draft: false
 
 8 Cogitaverunt, et locuti sunt nequitiam: iniquitatem in excelso locuti sunt.
 
-9 Posuerunt in cælum os suum: et lingua eorum transivit in terra.
+9 Posuerunt in caelum os suum: et lingua eorum transivit in terra.
 
 10 Ideo convertetur populus meus hic: et dies pleni invenientur in eis.
 
 11 Et dixerunt: Quomodo scit Deus, et si est scientia in excelso?
 
-12 Ecce ipsi peccatores, et abundantes in sæculo, obtinuerunt divitias.
+12 Ecce ipsi peccatores, et abundantes in saeculo, obtinuerunt divitias.
 
 13 Et dixi: Ergo sine causa iustificavi cor meum, et lavi inter innocentes manus meas:
 
@@ -53,11 +53,11 @@ draft: false
 
 24 Tenuisti manum dexteram meam: et in voluntate tua deduxisti me, et cum gloria suscepisti me.
 
-25 Quid enim mihi est in cælo? et a te quid volui super terram?
+25 Quid enim mihi est in caelo? et a te quid volui super terram?
 
-26 Defecit caro mea et cor meum: Deus cordis mei, et pars mea Deus in æternum.
+26 Defecit caro mea et cor meum: Deus cordis mei, et pars mea Deus in aeternum.
 
 27 Quia ecce, qui elongant se a te, peribunt: perdidisti omnes, qui fornicantur abs te.
 
-28 Mihi autem adhærere Deo bonum est: ponere in Domino Deo spem meam: ut annunciem omnes prædicationes tuas, in portis filiæ Sion.
+28 Mihi autem adhaerere Deo bonum est: ponere in Domino Deo spem meam: ut annunciem omnes praedicationes tuas, in portis filiae Sion.
 

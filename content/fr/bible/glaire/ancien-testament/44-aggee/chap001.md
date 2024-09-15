@@ -21,12 +21,12 @@ summary: |
 
 ***Note*** :  Agg. 1, 4 : Cette maison ; le temple du Seigneur.
 
-5 Et maintenant, voici ce que dit le Seigneur des armées : Appliquez vos cœurs à vos voies. 6 Vous avez semé beaucoup, et vous avez peu recueilli ; vous avez mangé, et vous n'avez pas été rassasiés; vous avez bu, et vous n'avez pas été désaltérés; vous vous êtes couverts, et vous ne vous êtes pas réchauffés; et celui qui a accumulé des profits les a mis dans un sac percé.
+5 Et maintenant, voici ce que dit le Seigneur des armées : Appliquez vos coeurs à vos voies. 6 Vous avez semé beaucoup, et vous avez peu recueilli ; vous avez mangé, et vous n'avez pas été rassasiés; vous avez bu, et vous n'avez pas été désaltérés; vous vous êtes couverts, et vous ne vous êtes pas réchauffés; et celui qui a accumulé des profits les a mis dans un sac percé.
 
 ***Note*** :  Agg. 1, 6 : Voir Deutéronome, 28, 38 ; Michée, 6, 15.
 
 
-7 Voici ce que dit le Seigneur des armées : Appliquez vos cœurs à vos voies. 8 Montez sur la montagne, portez des bois, et bâtissez la maison, et elle me sera agréable, et je serai glorifié, dit le Seigneur.
+7 Voici ce que dit le Seigneur des armées : Appliquez vos coeurs à vos voies. 8 Montez sur la montagne, portez des bois, et bâtissez la maison, et elle me sera agréable, et je serai glorifié, dit le Seigneur.
 
 ***Note*** :  Agg. 1, 8 : La montagne de Moria. ― La maison, le temple.
 

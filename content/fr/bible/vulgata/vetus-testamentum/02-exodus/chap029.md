@@ -7,7 +7,7 @@ draft: false
 
 1 Sed et hoc facies, ut mihi in sacerdotio consecrentur. Tolle vitulum de armento, et arietes duos immaculatos,
 
-2 panesque azymos, et crustulam absque fermento, quæ conspersa sit oleo, lagana quoque azyma oleo lita: de simila triticea cuncta facies.
+2 panesque azymos, et crustulam absque fermento, quae conspersa sit oleo, lagana quoque azyma oleo lita: de simila triticea cuncta facies.
 
 3 Et posita in canistro offeres: vitulum autem et duos arietes.
 
@@ -39,15 +39,15 @@ draft: false
 
 17 ipsum autem arietem secabis in frustra. lotaque intestina eius ac pedes pones super concisas carnes, et super caput illius.
 
-18 Et offeres totum arietem in incensum super altare: oblatio est Domino, odor suavissimus victimæ Domini.
+18 Et offeres totum arietem in incensum super altare: oblatio est Domino, odor suavissimus victimae Domini.
 
 19 Tolles quoque arietem alterum, super cuius caput Aaron et filii eius ponent manus.
 
-20 Quem cum immolaveris, sumes de sanguine eius, et pones super extremum auriculæ dextræ Aaron et filiorum eius, et super pollices manus eorum ac pedis dextri, fundesque sanguinem super altare per circuitum.
+20 Quem cum immolaveris, sumes de sanguine eius, et pones super extremum auriculae dextrae Aaron et filiorum eius, et super pollices manus eorum ac pedis dextri, fundesque sanguinem super altare per circuitum.
 
 21 Cumque tuleris de sanguine qui est super altare, et de oleo unctionis, asperges Aaron et vestes eius, filios et vestimenta eorum. Consecratisque ipsis et vestibus,
 
-22 tolles adipem de ariete, et caudam et arvinam, quæ operit vitalia, ac reticulum iecoris, et duos renes, atque adipem, qui super eos est, armumque dextrum, eo quod sit aries consecrationis:
+22 tolles adipem de ariete, et caudam et arvinam, quae operit vitalia, ac reticulum iecoris, et duos renes, atque adipem, qui super eos est, armumque dextrum, eo quod sit aries consecrationis:
 
 23 tortamque panis unius, crustulam conspersam oleo, laganum de canistro azymorum, quod positum est in conspectu Domini:
 
@@ -59,7 +59,7 @@ draft: false
 
 27 Sanctificabisque et pectusculum consecratum, et armum quem de ariete separasti,
 
-28 quo initiatus est Aaron et filii eius, cedentque in partem Aaron et filiorum eius iure perpetuo a filiis Israel: quia primitiva sunt et initia de victimis eorum pacificis quæ offerunt Domino.
+28 quo initiatus est Aaron et filii eius, cedentque in partem Aaron et filiorum eius iure perpetuo a filiis Israel: quia primitiva sunt et initia de victimis eorum pacificis quae offerunt Domino.
 
 29 Vestem autem sanctam, qua utetur Aaron, habebunt filii eius post eum, ut ungantur in ea, et consecrantur manus eorum.
 
@@ -73,7 +73,7 @@ draft: false
 
 34 Quod si remanserit de carnibus consecratis, sive de panibus usque mane, combures reliquias igni: non comedentur, quia sanctificata sunt.
 
-35 Omnia, quæ præcepi tibi, facies super Aaron et filiis eius. Septem diebus consecrabis manus eorum:
+35 Omnia, quae praecepi tibi, facies super Aaron et filiis eius. Septem diebus consecrabis manus eorum:
 
 36 et vitulum pro peccato offeres per singulos dies ad expiandum. Mundabisque altare cum immolaveris expiationis hostiam, et unges illud in sanctificationem.
 
@@ -83,17 +83,17 @@ draft: false
 
 39 unum agnum mane, et alterum vespere,
 
-40 decimam partem similæ conspersæ oleo tuso, quod habeat mensuram quartam partem hin, et vinum ad libandum eiusdem mensuræ in agno uno.
+40 decimam partem similae conspersae oleo tuso, quod habeat mensuram quartam partem hin, et vinum ad libandum eiusdem mensurae in agno uno.
 
-41 Alterum vero agnum offeres ad vesperam iuxta ritum matutinæ oblationis, et iuxta ea quæ diximus, in odorem suavitatis:
+41 Alterum vero agnum offeres ad vesperam iuxta ritum matutinae oblationis, et iuxta ea quae diximus, in odorem suavitatis:
 
 42 sacrificium est Domino, oblatione perpetua in generationes vestras, ad ostium tabernaculi testimonii coram Domino, ubi constituam ut loquar ad te.
 
-43 Ibique præcipiam filiis Israel, et sanctificabitur altare in gloria mea.
+43 Ibique praecipiam filiis Israel, et sanctificabitur altare in gloria mea.
 
 44 Sanctificabo et tabernaculum testimonii cum altari, et Aaron cum filiis suis, ut sacerdotio fungantur mihi.
 
 45 Et habitabo in medio filiorum Israel, eroque eis Deus,
 
-46 et scient quia ego Dominus Deus eorum, qui eduxi eos de Terra Ægypti, ut manerem inter illos, ego Dominus Deus ipsorum.
+46 et scient quia ego Dominus Deus eorum, qui eduxi eos de Terra AEgypti, ut manerem inter illos, ego Dominus Deus ipsorum.
 

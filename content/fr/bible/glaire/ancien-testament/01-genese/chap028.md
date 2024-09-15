@@ -15,7 +15,7 @@ summary: |
 ***Note*** :  Gn. 28, 5 : Voir Osée, 12, 12.
 
 
-6 Mais Esaü, voyant que son père avait béni Jacob, et qu'il l'avait envoyé en Mésopotamie de Syrie, pour en prendre une femme; et qu'après la bénédiction, il lui avait commandé, disant : Tu ne prendras point de femme d'entre les filles de Chanaan; 7 Et que Jacob, obéissant à ses parents, était allé en Syrie; 8 Sachant aussi par expérience que son père ne voyait pas avec plaisir les filles de Chanaan, 9 Il alla vers Ismaël, et prit pour femme, outre celles qu'il avait déjà, Mahéleth, fille d'Ismaël fils d'Abraham, sœur de Nabaïoth.
+6 Mais Esaü, voyant que son père avait béni Jacob, et qu'il l'avait envoyé en Mésopotamie de Syrie, pour en prendre une femme; et qu'après la bénédiction, il lui avait commandé, disant : Tu ne prendras point de femme d'entre les filles de Chanaan; 7 Et que Jacob, obéissant à ses parents, était allé en Syrie; 8 Sachant aussi par expérience que son père ne voyait pas avec plaisir les filles de Chanaan, 9 Il alla vers Ismaël, et prit pour femme, outre celles qu'il avait déjà, Mahéleth, fille d'Ismaël fils d'Abraham, soeur de Nabaïoth.
 
 
 10 Jacob donc, sorti de Bersabée, poursuivait son chemin vers Haran.
@@ -41,5 +41,5 @@ summary: |
 
 ***Note*** :  Gn. 28, 19 : Béthel. Voir Genèse, note 12. 8.
 
-20 Il voua aussi un vœu, disant : Si le Seigneur Dieu est avec moi, s'il me garde dans le chemin par lequel je marche, et me donne du pain pour me nourrir et des vêtements pour me couvrir, 21 Et que je retourne heureusement à la maison de mon père, le Seigneur sera mon Dieu ; 22 Et cette pierre, que j'ai érigée en monument, sera appelée Maison de Dieu ; et de tout ce que vous m'aurez donné, Seigneur, je vous offrirai la dîme.
+20 Il voua aussi un voeu, disant : Si le Seigneur Dieu est avec moi, s'il me garde dans le chemin par lequel je marche, et me donne du pain pour me nourrir et des vêtements pour me couvrir, 21 Et que je retourne heureusement à la maison de mon père, le Seigneur sera mon Dieu ; 22 Et cette pierre, que j'ai érigée en monument, sera appelée Maison de Dieu ; et de tout ce que vous m'aurez donné, Seigneur, je vous offrirai la dîme.
 

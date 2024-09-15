@@ -16,7 +16,7 @@ summary: |
 ***Note*** :  Is. 40, 1 : Ici commence la seconde partie d’Isaïe, qui comprend les chapitres 40 à 66. Elle se partage en trois séries de discours, subdivisés en groupes de neuf : du chapitre 40 au chapitre 48 ; du chapitre 49 au chapitre 57 ; du chapitre 58 au chapitre 66. Pour plus de détails sur les caractères généraux de la seconde partie, voir la note 23 à la fin du volume. ― La première section, du chapitre 40 au chapitre 48, fait ressortir la différence qui existe entre le vrai Dieu et les faux dieux. ― Le chapitre 40 renferme le premier discours et sert d’introduction générale. Il nous fait connaître l’objet de la mission du prophète, qui est de consoler son peuple et de lui annoncer le salut, en fondant ces consolations et ces espérances sur la toute-puissance de Dieu et sur la gloire du règne du Messie. ― Les versets 1 à 11 sont comme le prologue des 27 discours. Les versets 3 à 8 prédisent la mission du précurseur du Messie, saint Jean-Baptiste. Après l’introduction générale, versets 1 à 11, Isaïe montre
 combien Dieu est incomparablement grand et quelle est la folie des adorateurs des idoles. Les Juifs ne doivent compter que sur le secours du Seigneur qui seul peut les consoler, versets 12 à 31.
 
-2 Parlez au cœur de Jérusalem et appelez-la ; parce que sa malice est arrivée au terme, son iniquité a été pardonnée; elle a reçu de la main du Seigneur une double peine pour tous ses péchés.
+2 Parlez au coeur de Jérusalem et appelez-la ; parce que sa malice est arrivée au terme, son iniquité a été pardonnée; elle a reçu de la main du Seigneur une double peine pour tous ses péchés.
 
 ***Note*** :  Is. 40, 2 : Malice (malitia) ; ou, comme lisent plusieurs exemplaires latins, milice (militia) ; ce que porte le texte hébreu. ― Double ; c’est-à-dire très grande, considérable. Comparer à Isaïe, 61, 7 ; Jérémie, 16, 18 ; Apocalypse, 18, 6.
 
@@ -40,9 +40,9 @@ combien Dieu est incomparablement grand et quelle est la folie des adorateurs de
 ***Note*** :  Is. 40, 9 : Les promesses contenues dans ce verset et les suivants n’auront leur parfait accomplissement qu’à la venue de Jésus-Christ.
 
 
-10 Voici que le Seigneur Dieu viendra dans sa puissance, et que son bras dominera; voici que sa récompense est avec lui, et que son œuvre est devant lui.
+10 Voici que le Seigneur Dieu viendra dans sa puissance, et que son bras dominera; voici que sa récompense est avec lui, et que son oeuvre est devant lui.
 
-***Note*** :  Is. 40, 10 : Sa récompense ; c’est-à-dire la récompense qu’il doit accorder. ― Œuvre, ou mieux, par métonymie, fruit de l’œuvre, salaire, sens qu’a le terme hébreu correspondant.
+***Note*** :  Is. 40, 10 : Sa récompense ; c’est-à-dire la récompense qu’il doit accorder. ― OEuvre, ou mieux, par métonymie, fruit de l’oeuvre, salaire, sens qu’a le terme hébreu correspondant.
 
 11 Comme un pasteur, il paîtra son troupeau, et avec son bras il rassemblera les agneaux, et il les prendra dans son sein, il portera lui-même les brebis pleines.
 

@@ -22,7 +22,7 @@ Quelle est celle-ci qui monte du désert, comblée de délices, appuyée sur son
 ***Note*** :  Cant. 8, 5 : Sous le pommier, etc. D’après la version latine, on ne peut savoir si c’est l’Epoux ou l’Epouse qui dit ces paroles et les suivantes ; mais le texte hébreu les attribue formellement à l’Epouse.
 
 
-6 Mets-moi comme un sceau sur ton cœur, comme un sceau sur ton bras ; parce que l'amour est fort comme la mort; le zèle de l'amour, inflexible comme l'enfer ; ses lampes sont des lampes de feu et de flammes.
+6 Mets-moi comme un sceau sur ton coeur, comme un sceau sur ton bras ; parce que l'amour est fort comme la mort; le zèle de l'amour, inflexible comme l'enfer ; ses lampes sont des lampes de feu et de flammes.
 
 ***Note*** :  Cant. 8, 6 : Comme un sceau sur ton bras. Allusion sans doute à une coutume semblable à celle des Assyro-Chaldéens, qui avaient pour sceau une pierre précieuse gravée, en forme de cylindre ; ils la portaient attachée à leur bras.
 
@@ -30,7 +30,7 @@ Quelle est celle-ci qui monte du désert, comblée de délices, appuyée sur son
 
 
 8 Les frères de l'Époux.
-Notre sœur est petite, elle n'a pas de mamelles : que ferons-nous à notre sœur au jour où il faudra lui parler?
+Notre soeur est petite, elle n'a pas de mamelles : que ferons-nous à notre soeur au jour où il faudra lui parler?
 
 ***Note*** :  Cant. 8, 8 : Quand il faudra lui parler ; c’est-à-dire la demander en mariage. Comparer à Genèse, 34, verset 4 et suivants.
 

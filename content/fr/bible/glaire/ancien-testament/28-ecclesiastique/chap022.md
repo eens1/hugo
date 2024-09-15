@@ -14,7 +14,7 @@ summary: |
 ---
 
 
-1 C'est avec une pierre couverte de boue qu'a été lapidé le paresseux; et tous parleront de lui avec mépris. 2 C'est avec de la fiente de bœuf qu'a été lapidé le paresseux ; et quiconque le touchera secouera les mains.
+1 C'est avec une pierre couverte de boue qu'a été lapidé le paresseux; et tous parleront de lui avec mépris. 2 C'est avec de la fiente de boeuf qu'a été lapidé le paresseux ; et quiconque le touchera secouera les mains.
 
 
 3 La confusion d'un père vient d'un fils indiscipliné; mais une fille tombera dans l'humiliation.
@@ -44,17 +44,17 @@ summary: |
 
 ***Note*** :  Sir. 22, 18 : Voir Proverbes, 27, 3.
 
-19 Un assemblage en bois attaché dans le fondement d'un édifice ne se désunit point : il en est de même d'un cœur fortifié par l'inspiration d'un conseil. 20 La résolution d'un homme sensé ne sera dans aucun temps affaiblie par la crainte.
+19 Un assemblage en bois attaché dans le fondement d'un édifice ne se désunit point : il en est de même d'un coeur fortifié par l'inspiration d'un conseil. 20 La résolution d'un homme sensé ne sera dans aucun temps affaiblie par la crainte.
 
 ***Note*** :  Sir. 22, 20 ; 22. 23 : Dans aucun temps ; c’est-à-dire dans nul temps, dans pas un seul temps ; littéralement en latin, en tout temps (in omni tempore) ; ce qui est un pur hébraïsme. Nous avons déjà fait remarquer, qu’en hébreu, le mot tout joint à une négation signifie nul, pas un seul.
 
 
-21 Comme des poteaux sur des lieux élevés, et des moellons posés sans appareil en face du vent, ne se soutiendront pas ; 22 Ainsi le cœur de l'insensé timide dans sa pensée, à la violence de la crainte ne résistera pas. 23 Comme le cœur de l'insensé, peu sûr dans sa pensée, ne craindra dans aucun temps ; il en est de même de celui qui dans les préceptes de Dieu demeure toujours. 24 Celui qui pique un œil en tire des larmes ; et celui qui pique un cœur produit un sentiment.
+21 Comme des poteaux sur des lieux élevés, et des moellons posés sans appareil en face du vent, ne se soutiendront pas ; 22 Ainsi le coeur de l'insensé timide dans sa pensée, à la violence de la crainte ne résistera pas. 23 Comme le coeur de l'insensé, peu sûr dans sa pensée, ne craindra dans aucun temps ; il en est de même de celui qui dans les préceptes de Dieu demeure toujours. 24 Celui qui pique un oeil en tire des larmes ; et celui qui pique un coeur produit un sentiment.
 
 
 25 Celui qui lance une pierre contre des oiseaux les fera tomber : de même aussi celui qui insulte son ami rompt l'amitié. 26 Quand tu aurais tiré le glaive contre un ami, ne désespère pas ; car il y a du retour contre un ami. 27 Si tu lui as ouvert une bouche sévère, ne crains pas ; car il y a lieu à la réconciliation ; excepté quand il s'agit d'invective, de reproche, de procédés hautains, de révélation de secret, et de blessure faite en trahison : en toutes ces choses un ami t'échappera.
 
-***Note*** :  Sir. 22, 27 : Excepté, etc. Les cinq choses indiquées ici sont, en effet, de celles qu’on ne pardonne guère en amitié, parce qu’elles sont directement opposées à ses lois, la malice, la réflexion, le mauvais cœur y ayant plus de part que la passion ou le tempérament.
+***Note*** :  Sir. 22, 27 : Excepté, etc. Les cinq choses indiquées ici sont, en effet, de celles qu’on ne pardonne guère en amitié, parce qu’elles sont directement opposées à ses lois, la malice, la réflexion, le mauvais coeur y ayant plus de part que la passion ou le tempérament.
 
 28 Garde la fidélité à un ami dans sa pauvreté, afin qu'avec lui tu te réjouisses dans son bonheur. 29 Dans le temps de sa tribulation, demeure-lui toujours fidèle, afin que dans son héritage tu sois son cohéritier. 30 Devant le feu, la vapeur de la fournaise et la fumée du feu s'élèvent ; de même aussi avant le sang s'élèvent les mauvaises paroles, les outrages et les menaces.
 

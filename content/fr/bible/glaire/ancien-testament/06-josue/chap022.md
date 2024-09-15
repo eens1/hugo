@@ -13,7 +13,7 @@ summary: |
 
 ***Note*** :  Josué 22, 4 : Voir Nombres, 32, 33 ; Josué, 13, 8.
 
-5 En sorte seulement que vous gardiez attentivement et que vous accomplissiez par vos œuvres le commandement et la loi que vous a prescrite Moïse, serviteur du Seigneur, que vous aimiez le Seigneur votre Dieu, que vous marchiez dans toutes ses voies, que vous observiez ses commandements, que vous vous attachiez à lui, et que vous le serviez en tout votre cœur et en toute votre âme. 6 Et Josué les bénit et les renvoya; et ils retournèrent dans leurs tabernacles.
+5 En sorte seulement que vous gardiez attentivement et que vous accomplissiez par vos oeuvres le commandement et la loi que vous a prescrite Moïse, serviteur du Seigneur, que vous aimiez le Seigneur votre Dieu, que vous marchiez dans toutes ses voies, que vous observiez ses commandements, que vous vous attachiez à lui, et que vous le serviez en tout votre coeur et en toute votre âme. 6 Et Josué les bénit et les renvoya; et ils retournèrent dans leurs tabernacles.
 
 
 7 Quant à la demi-tribu de Manassé, Moïse lui avait donné une possession en Basan; et c'est pour cela que Josué donna à l'autre demi-tribu un lot parmi ses autres frères, au-delà du Jourdain, vers la partie occidentale. Lorsqu'il les renvoya dans leurs tabernacles, après les avoir bénis,
@@ -48,7 +48,7 @@ summary: |
 26 Et nous avons dit : Dressons-nous un autel, non pour offrir des holocaustes ou des victimes, 27 Mais en témoignage entre vous et nous, entre notre race et votre lignée, que nous servirons le Seigneur, qu'il est de notre droit d'offrir des holocaustes, des victimes et des hosties pacifiques, et qu'en aucune manière vos enfants ne diront demain à nos enfants : Il n'y a point de part pour vous dans le Seigneur. 28 Que s'ils veulent le dire, ils leur répondront : Voici l'autel du Seigneur, qu'ont fait nos pères, non pour des holocaustes ni pour un sacrifice, mais en témoignage entre nous et vous. 29 Loin de nous, le crime de nous séparer du Seigneur, et de quitter ses traces, en dressant un autel, pour offrir des holocaustes, des sacrifices et des victimes, hors l'autel du Seigneur notre Dieu, qui a été dressé devant son tabernacle.
 
 
-30 Ces paroles entendues, Phinéès, le prêtre, et les princes de la légation d'Israël, qui étaient avec lui, s'apaisèrent, et accueillirent du meilleur cœur les paroles des enfants de Ruben, de Gad et de la demi-tribu de Manassé. 31 Alors Phinéès, le prêtre, fils d'Eléazar, leur dit : Maintenant nous savons que le Seigneur est avec nous, puisque vous êtes étrangers à cette prévarication, et que vous avez délivré les enfants d'Israël de la main du Seigneur.
+30 Ces paroles entendues, Phinéès, le prêtre, et les princes de la légation d'Israël, qui étaient avec lui, s'apaisèrent, et accueillirent du meilleur coeur les paroles des enfants de Ruben, de Gad et de la demi-tribu de Manassé. 31 Alors Phinéès, le prêtre, fils d'Eléazar, leur dit : Maintenant nous savons que le Seigneur est avec nous, puisque vous êtes étrangers à cette prévarication, et que vous avez délivré les enfants d'Israël de la main du Seigneur.
 
 
 32 Après cela, il revint avec les princes du peuple d'auprès des enfants de Ruben et de Gad, de la terre de Galaad, confins de Chanaan, vers les enfants d'Israël, et il leur fit son rapport.

@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 His ita gestis, accidit ut peccarent duo eunuchi, pincerna regis Ægypti, et pistor, domino suo.
+1 His ita gestis, accidit ut peccarent duo eunuchi, pincerna regis AEgypti, et pistor, domino suo.
 
-2 Iratusque contra eos Pharao (nam alter pincernis præerat, alter pistoribus)
+2 Iratusque contra eos Pharao (nam alter pincernis praeerat, alter pistoribus)
 
 3 misit eos in carcerem principis militum, in quo erat vinctus et Ioseph.
 
@@ -21,25 +21,25 @@ draft: false
 
 8 Qui responderunt: Somnium vidimus, et non est qui interpretetur nobis. Dixitque ad eos Ioseph: Numquid non Dei est interpretatio? referte mihi quid videritis.
 
-9 Narravit prior, præpositus pincernarum, somnium suum: Videbam coram me vitem,
+9 Narravit prior, praepositus pincernarum, somnium suum: Videbam coram me vitem,
 
 10 in qua erant tres propagines, crescere paulatim in gemmas, et post flores uvas maturescere:
 
 11 calicemque Pharaonis in manu mea: tuli ergo uvas, et expressi in calicem quem tenebam, et tradidi poculum Pharaoni.
 
-12 Respondit Ioseph: Hæc est interpretatio somnii: Tres propagines, tres adhuc dies sunt:
+12 Respondit Ioseph: Haec est interpretatio somnii: Tres propagines, tres adhuc dies sunt:
 
 13 post quos recordabitur Pharao ministerii tui, et restituet te in gradum pristinum: dabisque ei calicem iuxta officium tuum, sicut ante facere consueveras.
 
 14 Tantum memento mei, cum bene tibi fuerit, et facias mecum misericordiam: ut suggeras Pharaoni ut educat me de isto carcere:
 
-15 quia furto sublatus sum de terra Hebræorum, et hic innocens in lacum missus sum.
+15 quia furto sublatus sum de terra Hebraeorum, et hic innocens in lacum missus sum.
 
-16 Videns pistorum magister quod prudenter somnium dissolvisset, ait: Et ego vidi somnium, Quod tria canistra farinæ haberem super caput meum:
+16 Videns pistorum magister quod prudenter somnium dissolvisset, ait: Et ego vidi somnium, Quod tria canistra farinae haberem super caput meum:
 
 17 et in uno canistro quod erat excelsius, portare me omnes cibos qui fiunt arte pistoria, avesque comedere ex eo.
 
-18 Respondit Ioseph: Hæc est interpretatio somnii: Tria canistra, tres adhuc dies sunt:
+18 Respondit Ioseph: Haec est interpretatio somnii: Tria canistra, tres adhuc dies sunt:
 
 19 post quos auferet Pharao caput tuum, ac suspendet te in cruce, et lacerabunt volucres carnes tuas.
 
@@ -49,5 +49,5 @@ draft: false
 
 22 alterum suspendit in patibulo, ut coniectoris veritas probaretur.
 
-23 Et tamen succedentibus prosperis, præpositus pincernarum oblitus est interpretis sui.
+23 Et tamen succedentibus prosperis, praepositus pincernarum oblitus est interpretis sui.
 

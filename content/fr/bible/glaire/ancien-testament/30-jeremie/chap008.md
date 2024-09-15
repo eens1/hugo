@@ -75,7 +75,7 @@ summary: |
 ***Note*** :  Jr. 8, 17 : Contre lesquels il n’y a pas d’enchantement. Le peuple croyait que les charmeurs de serpents pouvaient les empêcher de nuire.
 
 
-18 Ma douleur est au-dessus d'une douleur ; au-dedans de moi, mon cœur est triste.
+18 Ma douleur est au-dessus d'une douleur ; au-dedans de moi, mon coeur est triste.
 
 ***Note*** :  Jr. 8, 18 : Ma douleur, etc. Ce sont les paroles du Prophète.
 

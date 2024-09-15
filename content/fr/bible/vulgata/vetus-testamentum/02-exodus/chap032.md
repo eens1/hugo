@@ -5,31 +5,31 @@ draft: false
 ---
 
 
-1 Videns autem populus quod moram faceret descendendi de monte Moyses, congregatus adversus Aaron, dixit: Surge, fac nobis deos, qui nos præcedant: Moysi enim huic viro, qui nos eduxit de Terra Ægypti, ignoramus quid acciderit.
+1 Videns autem populus quod moram faceret descendendi de monte Moyses, congregatus adversus Aaron, dixit: Surge, fac nobis deos, qui nos praecedant: Moysi enim huic viro, qui nos eduxit de Terra AEgypti, ignoramus quid acciderit.
 
 2 Dixitque ad eos Aaron: Tollite inaures aureas de uxorum, filiorumque et filiarum vestrarum auribus, et afferte ad me.
 
-3 Fecitque populus quæ iusserat, deferens inaures ad Aaron.
+3 Fecitque populus quae iusserat, deferens inaures ad Aaron.
 
-4 Quas cum ille accepisset, formavit opere fusorio, et fecit ex eis vitulum conflatilem. dixeruntque: Hi sunt dii tui Israel, qui te eduxerunt de terra Ægypti.
+4 Quas cum ille accepisset, formavit opere fusorio, et fecit ex eis vitulum conflatilem. dixeruntque: Hi sunt dii tui Israel, qui te eduxerunt de terra AEgypti.
 
-5 Quod cum vidisset Aaron, ædificavit altare coram eo, et præconis voce clamavit dicens: Cras sollemnitas Domini est.
+5 Quod cum vidisset Aaron, aedificavit altare coram eo, et praeconis voce clamavit dicens: Cras sollemnitas Domini est.
 
 6 Surgentesque mane, obtulerunt holocausta, et hostias pacificas, et sedit populus manducare, et bibere, et surrexerunt ludere.
 
-7 Locutus est autem Dominus ad Moysen, dicens: Vade, descende: peccavit populus tuus, quem eduxisti de Terra Ægypti.
+7 Locutus est autem Dominus ad Moysen, dicens: Vade, descende: peccavit populus tuus, quem eduxisti de Terra AEgypti.
 
-8 Recesserunt cito de via, quam ostendisti eis: feceruntque sibi vitulum conflatilem, et adoraverunt, atque immolantes ei hostias, dixerunt: Isti sunt dii tui Israel, qui te eduxerunt de Terra Ægypti.
+8 Recesserunt cito de via, quam ostendisti eis: feceruntque sibi vitulum conflatilem, et adoraverunt, atque immolantes ei hostias, dixerunt: Isti sunt dii tui Israel, qui te eduxerunt de Terra AEgypti.
 
-9 Rursumque ait Dominus ad Moysen: Cerno quod populus iste duræ cervicis sit:
+9 Rursumque ait Dominus ad Moysen: Cerno quod populus iste durae cervicis sit:
 
 10 dimitte me, ut irascatur furor meus contra eos, et deleam eos, faciamque te in gentem magnam.
 
-11 Moyses autem orabat Dominum Deum suum, dicens: Cur, Domine, irascitur furor tuus contra populum tuum, quem eduxisti de Terra Ægypti, in fortitudine magna, et in manu robusta?
+11 Moyses autem orabat Dominum Deum suum, dicens: Cur, Domine, irascitur furor tuus contra populum tuum, quem eduxisti de Terra AEgypti, in fortitudine magna, et in manu robusta?
 
-12 Ne quæso dicant Ægyptii: Callide eduxit eos, ut interficeret in montibus, et deleret e terra: quiescat ira tua, et esto placabilis super nequitia populi tui.
+12 Ne quaeso dicant AEgyptii: Callide eduxit eos, ut interficeret in montibus, et deleret e terra: quiescat ira tua, et esto placabilis super nequitia populi tui.
 
-13 Recordare Abraham, Isaac, et Israel servorum tuorum, quibus iurasti per temetipsum, dicens: Multiplicabo semen vestrum sicut stellas cæli: et universam terram hanc, de qua locutus sum, dabo semini vestro, et possidebitis eam semper.
+13 Recordare Abraham, Isaac, et Israel servorum tuorum, quibus iurasti per temetipsum, dicens: Multiplicabo semen vestrum sicut stellas caeli: et universam terram hanc, de qua locutus sum, dabo semini vestro, et possidebitis eam semper.
 
 14 Placatusque est Dominus ne faceret malum quod locutus fuerat adversus populum suum.
 
@@ -37,7 +37,7 @@ draft: false
 
 16 et factas opere Dei: scriptura quoque Dei erat sculpta in tabulis.
 
-17 Audiens autem Iosue tumultum populi vociferantis, dixit ad Moysen: Ululatus pugnæ auditur in castris.
+17 Audiens autem Iosue tumultum populi vociferantis, dixit ad Moysen: Ululatus pugnae auditur in castris.
 
 18 Qui respondit: Non est clamor adhortantium ad pugnam, neque vociferatio compellentium ad fugam: sed vocem cantantium ego audio.
 
@@ -49,7 +49,7 @@ draft: false
 
 22 Cui ille respondit: Ne indignetur dominus meus: tu enim nosti populum istum, quod pronus sit ad malum:
 
-23 dixerunt mihi: Fac nobis deos, qui nos præcedant: huic enim Moysi, qui nos eduxit de Terra Ægypti, nescimus quid acciderit.
+23 dixerunt mihi: Fac nobis deos, qui nos praecedant: huic enim Moysi, qui nos eduxit de Terra AEgypti, nescimus quid acciderit.
 
 24 Quibus ego dixi: Quis vestrum habet aurum? Tulerunt, et dederunt mihi: et proieci illud in ignem, egressusque est hic vitulus.
 
@@ -57,7 +57,7 @@ draft: false
 
 26 et stans in porta castrorum, ait: Si quis est Domini, iungatur mihi. Congregatique sunt ad eum omnes filii Levi:
 
-27 quibus ait: Hæc dicit Dominus Deus Israel: Ponat vir gladium super femur suum: ite, et redite de porta usque ad portam per medium castrorum, et occidat unusquisque fratrem, et amicum, et proximum suum.
+27 quibus ait: Haec dicit Dominus Deus Israel: Ponat vir gladium super femur suum: ite, et redite de porta usque ad portam per medium castrorum, et occidat unusquisque fratrem, et amicum, et proximum suum.
 
 28 Feceruntque filii iuxta sermonem Moysi, cecideruntque in die illa quasi viginti tria millia hominum.
 
@@ -71,7 +71,7 @@ draft: false
 
 33 Cui respondit Dominus: Qui peccaverit mihi, delebo eum de libro meo:
 
-34 tu autem vade, et duc populum istum quo locutus sum tibi: angelus meus præcedet te. Ego autem in die ultionis visitabo et hoc peccatum eorum.
+34 tu autem vade, et duc populum istum quo locutus sum tibi: angelus meus praecedet te. Ego autem in die ultionis visitabo et hoc peccatum eorum.
 
 35 Percussit ergo Dominus populum pro reatu vituli, quem fecerat Aaron.
 

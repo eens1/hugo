@@ -13,11 +13,11 @@ summary: |
 ***Note*** :  Ps. 131, 1 : Ce psaume demande la protection divine pour la famille de David et annonce le règne du Messie. Il fut probablement composé par Salomon pour la Dédicace du temple, voir 2 Paralipomènes, 6, 41. ― Les versets 1 à 10, rappellent à Dieu ce que David a fait pour lui : Projet de lui élever un temple (versets 1 à 5) ; transport de l’arche à Jérusalem (versets 6 à 10), ― et lui demandent d’en récompenser sa postérité. Les versets 11 à 18, reproduisent les promesses que Dieu avait faites à David.
 
 
-2 Comme il a juré au Seigneur, et voué ce vœu au Dieu de Jacob :3 Si j'entre dans l'intérieur de ma maison, si je monte sur le lit de mon repos ;
+2 Comme il a juré au Seigneur, et voué ce voeu au Dieu de Jacob :3 Si j'entre dans l'intérieur de ma maison, si je monte sur le lit de mon repos ;
 
 ***Note*** :  Ps. 131, 3 : Voir 2 Rois, 7, 2.
 
-***Note*** :  Ps. 131, 3-5 : Ces trois premiers versets expriment l’objet du vœu ou serment du Psalmiste, mais l’imprécation qui suit le jurement est sous-entendue. Voir Psaumes, 94, 11. Comparer à 2 Rois, 7, 2 ; 2 Paralipomènes, 6, 4.
+***Note*** :  Ps. 131, 3-5 : Ces trois premiers versets expriment l’objet du voeu ou serment du Psalmiste, mais l’imprécation qui suit le jurement est sous-entendue. Voir Psaumes, 94, 11. Comparer à 2 Rois, 7, 2 ; 2 Paralipomènes, 6, 4.
 
 4 Si j'accorde à mes yeux le sommeil, et à mes paupières l'assoupissement; 5 Et le repos à mes tempes, jusqu'à ce que je trouve un lieu pour le Seigneur, un tabernacle pour le Dieu de Jacob.
 

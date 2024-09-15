@@ -13,7 +13,7 @@ draft: false
 
 4 Etenim passer invenit sibi domum: et turtur nidum sibi, ubi ponat pullos suos. Altaria tua Domine virtutum: rex meus, et Deus meus.
 
-5 Beati, qui habitant in domo tua Domine: in sæcula sæculorum laudabunt te.
+5 Beati, qui habitant in domo tua Domine: in saecula saeculorum laudabunt te.
 
 6 Beatus vir, cuius est auxilium abs te: ascensiones in corde suo disposuit,
 

@@ -28,7 +28,7 @@ summary: |
 ***Note*** :  Is. 59, 4 : Voir Job, 15, 35.
 
 
-5 Ils ont fait éclore des œufs d'aspic, et ils ont ourdi des toiles d'araignée ; celui qui mangera de leurs œufs mourra; et de ce qui aura été couvé sortira un basilic. 6 Leurs toiles ne serviront pas de vêtement: ils ne se revêtiront pas de leurs œuvres; leurs œuvres sont inutiles, et une œuvre d'iniquité est dans leurs mains.
+5 Ils ont fait éclore des oeufs d'aspic, et ils ont ourdi des toiles d'araignée ; celui qui mangera de leurs oeufs mourra; et de ce qui aura été couvé sortira un basilic. 6 Leurs toiles ne serviront pas de vêtement: ils ne se revêtiront pas de leurs oeuvres; leurs oeuvres sont inutiles, et une oeuvre d'iniquité est dans leurs mains.
 
 ***Note*** :  Is. 59, 6-7 : Inutiles. Voir, sur le vrai sens de ce mot, Isaïe, 58, 9.
 
@@ -51,7 +51,7 @@ summary: |
 
 ***Note*** :  Is. 59, 12 : Nous ont répondu ; c’est-à-dire ont témoigné contre nous. Comparer à Isaïe, 3, 9 ; Jérémie, 14, 7.
 
-13 Pécher et mentir contre le Seigneur; et nous nous sommes détournés pour ne pas suivre notre Dieu, pour proférer la calomnie et la révolte ; nous avons conçu et proféré de notre cœur des paroles de mensonge.
+13 Pécher et mentir contre le Seigneur; et nous nous sommes détournés pour ne pas suivre notre Dieu, pour proférer la calomnie et la révolte ; nous avons conçu et proféré de notre coeur des paroles de mensonge.
 
 ***Note*** :  Is. 59, 13 : Pécher et mentir ; sont l’explicatif de nos iniquités, du verset précédent ; c’est comme s’il y avait, c’est-à-dire le péché et le mensonge.
 

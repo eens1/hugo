@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Occupatio magna creata est omnibus hominibus, et iugum grave super filios Adam, a die exitus de ventre matris eorum, usque in diem sepulturæ, in matrem omnium.
+1 Occupatio magna creata est omnibus hominibus, et iugum grave super filios Adam, a die exitus de ventre matris eorum, usque in diem sepulturae, in matrem omnium.
 
 2 Cogitationes eorum, et timores cordis, adinventio expectationis, et dies finitionis:
 
@@ -17,37 +17,37 @@ draft: false
 
 6 Modicum tamquam nihil in requie, et ab eo in somnis, quasi in die respectus.
 
-7 Conturbatus est in visu cordis sui, tamquam qui evaserit in die belli. In tempore salutis suæ exurrexit, et admirans ad nullum timorem:
+7 Conturbatus est in visu cordis sui, tamquam qui evaserit in die belli. In tempore salutis suae exurrexit, et admirans ad nullum timorem:
 
 8 cum omni carne, ab homine usque ad pecus, et super peccatores septuplum.
 
-9 Ad hæc mors, sanguis, contentio, et romphæa, oppressiones, fames, et contritio, et flagella:
+9 Ad haec mors, sanguis, contentio, et romphaea, oppressiones, fames, et contritio, et flagella:
 
-10 super iniquos creata sunt hæc omnia, et propter illos factus est cataclysmus.
+10 super iniquos creata sunt haec omnia, et propter illos factus est cataclysmus.
 
-11 Omnia, quæ de terra sunt, in terram convertentur, et omnes aquæ in mare revertentur.
+11 Omnia, quae de terra sunt, in terram convertentur, et omnes aquae in mare revertentur.
 
-12 Omne munus, et iniquitas delebitur, et fides in sæculum stabit.
+12 Omne munus, et iniquitas delebitur, et fides in saeculum stabit.
 
-13 Substantiæ iniustorum sicut fluvius siccabuntur, et sicut tonitruum magnum in pluvia personabunt.
+13 Substantiae iniustorum sicut fluvius siccabuntur, et sicut tonitruum magnum in pluvia personabunt.
 
-14 In aperiendo manus suas lætabitur: sic prævaricatores in consummatione tabescent.
+14 In aperiendo manus suas laetabitur: sic praevaricatores in consummatione tabescent.
 
-15 Nepotes impiorum non multiplicabunt ramos, et radices immundæ super cacumen petræ sonant.
+15 Nepotes impiorum non multiplicabunt ramos, et radices immundae super cacumen petrae sonant.
 
-16 Super omnem aquam viriditas, et ad oram fluminis ante omne fœnum evelletur.
+16 Super omnem aquam viriditas, et ad oram fluminis ante omne foenum evelletur.
 
-17 Gratia sicut paradisus in benedictionibus, et misericordia in sæculum permanet.
+17 Gratia sicut paradisus in benedictionibus, et misericordia in saeculum permanet.
 
 18 Vita sibi sufficientis operarii condulcabitur, et in ea invenies thesaurum.
 
-19 Filii, et ædificatio civitatis confirmabit nomen, et super hæc mulier immaculata computabitur.
+19 Filii, et aedificatio civitatis confirmabit nomen, et super haec mulier immaculata computabitur.
 
-20 Vinum et musica lætificant cor: et super utraque dilectio sapientiæ.
+20 Vinum et musica laetificant cor: et super utraque dilectio sapientiae.
 
-21 Tibiæ, et psalterium suavem faciunt melodiam, et super utraque lingua suavis.
+21 Tibiae, et psalterium suavem faciunt melodiam, et super utraque lingua suavis.
 
-22 Gratiam, et speciem desiderabit oculus tuus, et super hæc virides sationes.
+22 Gratiam, et speciem desiderabit oculus tuus, et super haec virides sationes.
 
 23 Amicus, et sodalis in tempore convenientes, et super utrosque mulier cum viro.
 
@@ -55,13 +55,13 @@ draft: false
 
 25 Aurum et argentum est constitutio pedum: et super utrumque consilium beneplacitum.
 
-26 Facultates et virtutes exaltant cor, et super hæc timor Domini.
+26 Facultates et virtutes exaltant cor, et super haec timor Domini.
 
 27 Non est in timore Domini minoratio, et non est in eo inquirere adiutorium.
 
 28 Timor Domini sicut paradisus benedictionis, et super omnem gloriam operuerunt illum.
 
-29 Fili in tempore vitæ tuæ ne indigeas: melius est enim mori, quam indigere.
+29 Fili in tempore vitae tuae ne indigeas: melius est enim mori, quam indigere.
 
 30 Vir respiciens in mensam alienam, non est vita eius in cogitatione victus. alit enim animam suam cibis alienis.
 

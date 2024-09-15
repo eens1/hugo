@@ -15,11 +15,11 @@ draft: false
 
 5 Cor meum ad Moab clamabit, vectes eius usque ad Segor vitulam conternantem: per ascensum enim Luith flens ascendet, et in via Oronaim clamorem contritionis levabunt.
 
-6 Aquæ enim Nemrim desertæ erunt, quia aruit herba, defecit germen, viror omnis interiit.
+6 Aquae enim Nemrim desertae erunt, quia aruit herba, defecit germen, viror omnis interiit.
 
 7 Secundum magnitudinem operis et visitatio eorum: ad torrentem salicum ducent eos.
 
 8 Quoniam circuivit clamor terminum Moab: usque ad Gallim ululatus eius, et usque ad Puteum Elim clamor eius.
 
-9 Quia aquæ Dibon repletæ sunt sanguine: ponam enim super Dibon additamenta: his, qui fugerint de Moab leonem, et reliquiis terræ.
+9 Quia aquae Dibon repletae sunt sanguine: ponam enim super Dibon additamenta: his, qui fugerint de Moab leonem, et reliquiis terrae.
 

@@ -30,7 +30,7 @@ summary: |
 
 ***Note*** :  Os. 13, 5 : Je t’ai connu dans le désert du Sinaï, à l’époque de la sortie d’Egypte.
 
-6 A proportion de leurs pâturages ils se sont remplis et rassasiés; et ils ont enflé leur cœur, et ils m'ont oublié.
+6 A proportion de leurs pâturages ils se sont remplis et rassasiés; et ils ont enflé leur coeur, et ils m'ont oublié.
 
 
 7 Et moi, je serai pour eux comme une lionne, comme un léopard sur la voie des Assyriens. 8 Je courrai à eux comme une ourse, quand on lui a ravi ses petits, je déchirerai leurs entrailles; et là je les dévorerai comme un lion; la bête des champs les mettra en pièces.

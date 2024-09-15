@@ -13,9 +13,9 @@ draft: false
 
 4 Quia defecerunt sicut fumus dies mei: et ossa mea sicut cremium aruerunt.
 
-5 Percussus sum ut fœnum, et aruit cor meum: quia oblitus sum comedere panem meum.
+5 Percussus sum ut foenum, et aruit cor meum: quia oblitus sum comedere panem meum.
 
-6 A voce gemitus mei adhæsit os meum carni meæ.
+6 A voce gemitus mei adhaesit os meum carni meae.
 
 7 Similis factus sum pellicano solitudinis: factus sum sicut nycticorax in domicilio.
 
@@ -25,25 +25,25 @@ draft: false
 
 10 Quia cinerem tamquam panem manducabam, et potum meum cum fletu miscebam.
 
-11 A facie iræ et indignationis tuæ: quia elevans allisisti me.
+11 A facie irae et indignationis tuae: quia elevans allisisti me.
 
-12 Dies mei sicut umbra declinaverunt: et ego sicut fœnum arui.
+12 Dies mei sicut umbra declinaverunt: et ego sicut foenum arui.
 
-13 Tu autem Domine in æternum permanes: et memoriale tuum in generationem et generationem.
+13 Tu autem Domine in aeternum permanes: et memoriale tuum in generationem et generationem.
 
 14 Tu exurgens misereberis Sion: quia tempus miserendi eius, quia venit tempus.
 
-15 Quoniam placuerunt servis tuis lapides eius: et terræ eius miserebuntur.
+15 Quoniam placuerunt servis tuis lapides eius: et terrae eius miserebuntur.
 
-16 Et timebunt Gentes nomen tuum Domine, et omnes reges terræ gloriam tuam.
+16 Et timebunt Gentes nomen tuum Domine, et omnes reges terrae gloriam tuam.
 
-17 Quia ædificavit Dominus Sion: et videbitur in gloria sua.
+17 Quia aedificavit Dominus Sion: et videbitur in gloria sua.
 
 18 Respexit in orationem humilium: et non sprevit precem eorum.
 
-19 Scribantur hæc in generatione altera: et populus, qui creabitur, laudabit Dominum:
+19 Scribantur haec in generatione altera: et populus, qui creabitur, laudabit Dominum:
 
-20 Quia prospexit de excelso sancto suo: Dominus de cælo in terram aspexit:
+20 Quia prospexit de excelso sancto suo: Dominus de caelo in terram aspexit:
 
 21 Ut audiret gemitus compeditorum: ut solveret filios interemptorum:
 
@@ -51,15 +51,15 @@ draft: false
 
 23 In conveniendo populos in unum, et reges ut serviant Domino.
 
-24 Respondit ei in via virtutis suæ: Paucitatem dierum meorum nuncia mihi.
+24 Respondit ei in via virtutis suae: Paucitatem dierum meorum nuncia mihi.
 
 25 Ne revoces me in dimidio dierum meorum: in generationem et generationem anni tui.
 
-26 Initio tu Domine terram fundasti: et opera manuum tuarum sunt cæli.
+26 Initio tu Domine terram fundasti: et opera manuum tuarum sunt caeli.
 
 27 Ipsi peribunt, tu autem permanes: et omnes sicut vestimentum veterascent. Et sicut opertorium mutabis eos, et mutabuntur:
 
 28 tu autem idem ipse es, et anni tui non deficient.
 
-29 Filii servorum tuorum habitabunt: et semen eorum in sæculum dirigetur.
+29 Filii servorum tuorum habitabunt: et semen eorum in saeculum dirigetur.
 

@@ -65,34 +65,34 @@ summary: |
 
 ***Note*** :  Ex. 21, 23 : Ame pour âme ; c’est-à-dire vie pour vie.
 
-24 (Oeil pour œil, dent pour dent, main pour main, pied pour pied,
+24 (Oeil pour oeil, dent pour dent, main pour main, pied pour pied,
 
 ***Note*** :  Ex. 21, 24 : Voir Lévitique, 24, 20 ; Deutéronome, 19, 21 ; Matthieu, 5, 38.
 
 25 Brûlure pour brûlure, plaie pour plaie, meurtrissure pour meurtrissure.
 
 
-26 Si quelqu'un frappe l'œil de son esclave ou de sa servante, et qu'il les rende borgnes, il les laissera aller libres pour l'œil qu'il a enlevé. 27 De même, s'il fait tomber la dent de son esclave ou de sa servante, il les laissera pareillement aller libres.
+26 Si quelqu'un frappe l'oeil de son esclave ou de sa servante, et qu'il les rende borgnes, il les laissera aller libres pour l'oeil qu'il a enlevé. 27 De même, s'il fait tomber la dent de son esclave ou de sa servante, il les laissera pareillement aller libres.
 
 
-28 Si un bœuf frappe de la corne un homme et une femme, et qu'ils meurent, il sera lapidé, et l'on ne mangera point de sa chair, mais le maître du bœuf sera innocent.
+28 Si un boeuf frappe de la corne un homme et une femme, et qu'ils meurent, il sera lapidé, et l'on ne mangera point de sa chair, mais le maître du boeuf sera innocent.
 
 
-29 Que si un bœuf frappait de la corne depuis hier et avant-hier, et qu'on ait averti son maître, et qu'il ne l'ait pas enfermé, qu'ensuite le bœuf ait tué un homme ou une femme, et le bœuf sera lapidé, et on fera mourir son maître.
+29 Que si un boeuf frappait de la corne depuis hier et avant-hier, et qu'on ait averti son maître, et qu'il ne l'ait pas enfermé, qu'ensuite le boeuf ait tué un homme ou une femme, et le boeuf sera lapidé, et on fera mourir son maître.
 
 ***Note*** :  Ex. 21, 29 : Depuis hier et avant-hier. Voir Exode, 4, 10.
 
-30 Que si une amende lui est imposée, il donnera pour son âme tout ce qui sera demandé. 31 S'il frappe aussi de la corne un garçon ou une fille, le maître sera soumis au même jugement. 32 S'il se jette sur un esclave ou sur une servante, il donnera trente sicles d'argent au maître, mais le bœuf sera lapidé.
+30 Que si une amende lui est imposée, il donnera pour son âme tout ce qui sera demandé. 31 S'il frappe aussi de la corne un garçon ou une fille, le maître sera soumis au même jugement. 32 S'il se jette sur un esclave ou sur une servante, il donnera trente sicles d'argent au maître, mais le boeuf sera lapidé.
 
 ***Note*** :  Ex. 21, 32 : Le sicle d’argent valait environ 1 franc 60 (en 1 900 ? ).
 
 
-33 Si quelqu'un ouvre une citerne et la creuse, et ne la couvre pas, et qu'il y tombe un bœuf ou un âne, 34 Le maître de la citerne rendra le prix des bêtes ; mais ce qui aura péri sera à lui.
+33 Si quelqu'un ouvre une citerne et la creuse, et ne la couvre pas, et qu'il y tombe un boeuf ou un âne, 34 Le maître de la citerne rendra le prix des bêtes ; mais ce qui aura péri sera à lui.
 
 
-35 Si le bœuf de quelqu'un blesse le bœuf d'un autre, et que ce bœuf meure, ils vendront le bœuf vivant, et ils partageront le prix, mais le corps du mort, ils le diviseront entre eux.
+35 Si le boeuf de quelqu'un blesse le boeuf d'un autre, et que ce boeuf meure, ils vendront le boeuf vivant, et ils partageront le prix, mais le corps du mort, ils le diviseront entre eux.
 
 
-36 Mais si le maître savait que le bœuf frappait de la corne depuis hier et avant-hier, et qu'il ne l'ait point gardé, il rendra bœuf pour bœuf, mais il prendra le corps mort tout entier.
+36 Mais si le maître savait que le boeuf frappait de la corne depuis hier et avant-hier, et qu'il ne l'ait point gardé, il rendra boeuf pour boeuf, mais il prendra le corps mort tout entier.
 
 

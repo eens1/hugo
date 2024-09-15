@@ -23,9 +23,9 @@ draft: false
 
 9 Speravit in Domino, eripiat eum: salvum faciat eum, quoniam vult eum.
 
-10 Quoniam tu es, qui extraxisti me de ventre: spes mea ab uberibus matris meæ.
+10 Quoniam tu es, qui extraxisti me de ventre: spes mea ab uberibus matris meae.
 
-11 In te proiectus sum ex utero: de ventre matris meæ Deus meus es tu,
+11 In te proiectus sum ex utero: de ventre matris meae Deus meus es tu,
 
 12 ne discesseris a me: Quoniam tribulatio proxima est: quoniam non est qui adiuvet.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 Sicut aqua effusus sum: et dispersa sunt omnia ossa mea. Factum est cor meum tamquam cera liquescens in medio ventris mei.
 
-16 Aruit tamquam testa virtus mea, et lingua mea adhæsit faucibus meis: et in pulverem mortis deduxisti me.
+16 Aruit tamquam testa virtus mea, et lingua mea adhaesit faucibus meis: et in pulverem mortis deduxisti me.
 
 17 Quoniam circumdederunt me canes multi: concilium malignantium obsedit me. Foderunt manus meas et pedes meos:
 
@@ -49,7 +49,7 @@ draft: false
 
 22 Salva me ex ore leonis: et a cornibus unicornium humilitatem meam.
 
-23 Narrabo nomen tuum fratribus meis: in medio ecclesiæ laudabo te.
+23 Narrabo nomen tuum fratribus meis: in medio ecclesiae laudabo te.
 
 24 Qui timetis Dominum laudate eum: universum semen Iacob glorificate eum:
 
@@ -57,15 +57,15 @@ draft: false
 
 26 Apud te laus mea in ecclesia magna: vota mea reddam in conspectu timentium eum.
 
-27 Edent pauperes, et saturabuntur: et laudabunt Dominum qui requirunt eum: vivent corda eorum in sæculum sæculi.
+27 Edent pauperes, et saturabuntur: et laudabunt Dominum qui requirunt eum: vivent corda eorum in saeculum saeculi.
 
-28 Reminiscentur et convertentur ad Dominum universi fines terræ: Et adorabunt in conspectu eius universæ familiæ Gentium.
+28 Reminiscentur et convertentur ad Dominum universi fines terrae: Et adorabunt in conspectu eius universae familiae Gentium.
 
 29 Quoniam Domini est regnum: et ipse dominabitur Gentium.
 
-30 Manducaverunt et adoraverunt omnes pingues terræ: in conspectu eius cadent omnes qui descendunt in terram.
+30 Manducaverunt et adoraverunt omnes pingues terrae: in conspectu eius cadent omnes qui descendunt in terram.
 
 31 Et anima mea illi vivet: et semen meum serviet ipsi.
 
-32 Annunciabitur Domino generatio ventura: et annunciabunt cæli iustitiam eius populo qui nascetur, quem fecit Dominus.
+32 Annunciabitur Domino generatio ventura: et annunciabunt caeli iustitiam eius populo qui nascetur, quem fecit Dominus.
 

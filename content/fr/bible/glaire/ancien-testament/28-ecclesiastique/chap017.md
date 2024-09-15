@@ -20,20 +20,20 @@ summary: |
 ***Note*** :  Sir. 17, 2 : Et il l’a revêtu, etc. Ces paroles trouvent leur explication dans les versets suivants.
 
 
-3 Il lui a donné un nombre de jours et un temps, et il lui a donné l'empire de ce qui est sur la terre. 4 Il a mis sa crainte en toute chair, et il a établi sa domination sur les bêtes sauvages et les volatiles. 5 Il a créé de sa substance un aide semblable à lui ; et il leur a donné le conseil, et une langue, et des yeux et des oreilles, et il leur a donné un cœur pour penser ; et il les a remplis du savoir de l'intelligence.
+3 Il lui a donné un nombre de jours et un temps, et il lui a donné l'empire de ce qui est sur la terre. 4 Il a mis sa crainte en toute chair, et il a établi sa domination sur les bêtes sauvages et les volatiles. 5 Il a créé de sa substance un aide semblable à lui ; et il leur a donné le conseil, et une langue, et des yeux et des oreilles, et il leur a donné un coeur pour penser ; et il les a remplis du savoir de l'intelligence.
 
 ***Note*** :  Sir. 17, 5 : Voir Genèse, 2, 18.
 
-6 Il a créé en eux la science de l'esprit; il a rempli leur cœur de sens, et il leur a montré les biens et les maux. 7 Il a posé son œil sur leurs cœurs, pour leur montrer les grandeurs de ses œuvres ;
+6 Il a créé en eux la science de l'esprit; il a rempli leur coeur de sens, et il leur a montré les biens et les maux. 7 Il a posé son oeil sur leurs coeurs, pour leur montrer les grandeurs de ses oeuvres ;
 
 ***Note*** :  Sir. 17, 7 : Pour leur montrer ; ou afin de le leur montrer ; le texte dit simplement : Leur montrer (ostendere illis) ; c’est un hébraïsme qui a passé dans la Vulgate aussi bien que dans les Septante.
 
-8 Afin qu'ils louassent son nom saint pour le glorifier dans ses merveilles, afin de raconter les grandeurs de ses œuvres.
+8 Afin qu'ils louassent son nom saint pour le glorifier dans ses merveilles, afin de raconter les grandeurs de ses oeuvres.
 
 ***Note*** :  Sir. 17, 8 : Nom saint ; littéralement nom de sanctification ou de sainteté, qui est la signification première du terme hébreu, que représente probablement ici sanctification. ― Pour se glorifier (littéralement se glorifier. Voir sur cet infinitif la note précédente), etc. Les hommes, comme le remarque judicieusement Ménochius, peuvent se glorifier vis-à-vis des fidèles et des infidèles à cause des bienfaits divins qu’ils ont reçus. Comparer au verset 27.
 
 
-9 Et il leur a donné encore la science et il les a fait hériter d'une loi de vie. 10 Il a établi avec eux une alliance éternelle, et il leur a appris sa justice et ses jugements. 11 Et leur œil a vu les grandeurs de sa gloire, et leurs oreilles ont entendu la majesté de sa voix, et il leur a dit : Gardez-vous de toute iniquité. 12 Et il a ordonné à chacun d'eux de veiller sur son prochain.
+9 Et il leur a donné encore la science et il les a fait hériter d'une loi de vie. 10 Il a établi avec eux une alliance éternelle, et il leur a appris sa justice et ses jugements. 11 Et leur oeil a vu les grandeurs de sa gloire, et leurs oreilles ont entendu la majesté de sa voix, et il leur a dit : Gardez-vous de toute iniquité. 12 Et il a ordonné à chacun d'eux de veiller sur son prochain.
 
 
 13 Leurs voies sont devant lui toujours, elles ne sont point cachées à ses yeux. 14 Sur chaque nation il a préposé un chef,
@@ -42,12 +42,12 @@ summary: |
 
 ***Note*** :  Sir. 17, 14 : Voir Romains, 13, 1.
 
-15 Et le partage de Dieu, Israël l'est devenu manifestement. 16 Et toutes leurs œuvres sont comme le soleil en présence de Dieu, et ses yeux sans cesse considèrent leurs voies. 17 Ses alliances n'ont pas été cachées par leur iniquité ; et toutes leurs iniquités ont été en présence de Dieu.
+15 Et le partage de Dieu, Israël l'est devenu manifestement. 16 Et toutes leurs oeuvres sont comme le soleil en présence de Dieu, et ses yeux sans cesse considèrent leurs voies. 17 Ses alliances n'ont pas été cachées par leur iniquité ; et toutes leurs iniquités ont été en présence de Dieu.
 
 ***Note*** :  Sir. 17, 17 : Ses alliances, etc. ; c’est-à-dire que les promesses que Dieu a faites aux Israélites n’ont pas été annulées par leurs iniquités : quoiqu’il les ait parfaitement connues, il a maintenu fidèlement son alliance avec eux. Comparer à Romains, 3, 3-4.
 
 
-18 L'aumône de l'homme est comme un sceau pour lui, et le bienfait de l'homme, il le conservera comme la prunelle de l'œil;
+18 L'aumône de l'homme est comme un sceau pour lui, et le bienfait de l'homme, il le conservera comme la prunelle de l'oeil;
 
 ***Note*** :  Sir. 17, 18 : Voir Ecclésiastique, 29, 15. ― Comme un sceau pour lui. Le sceau a toujours été considéré chez les Hébreux comme une chose précieuse et chère. Comparer à Deutéronome, 32, 34 ; Cantique, 8, 6. On sait d’ailleurs que les Orientaux veillent avec le plus grand soin sur leurs sceaux, à cause de l’abus qu’on pourrait en faire, s’ils venaient à tomber en des mains étrangères. ― Ce verset, selon que le dit le traducteur espagnol Scio, doit être considéré comme une parenthèse ; autrement, en effet, le précédent paraît incomplet, et le suivant devient inexplicable.
 

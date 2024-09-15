@@ -24,7 +24,7 @@ ciel et la nouvelle terre ; toute chair l’adorera ; un châtiment éternel pun
 ***Note*** :  Is. 66, 2 : Qui tremble à mes paroles (trementem sermones meos). Le verbe trembler étant neutre, l’accusatif sermones meos ne peut être qu’une expression adverbiale ; c’est pour cela que nous avons ajouté dans notre traduction à, qui se trouve d’ailleurs exprimé dans une phrase parallèle au verset 5.
 
 
-3 Celui qui immole un bœuf est comme celui qui tuerait un homme; celui qui sacrifie une bête de menu bétail est comme celui qui ôterait la cervelle à un chien; celui qui fait une oblation est comme celui qui offrirait du sang de porc ; celui qui se souvient de brûler de l'encens est comme celui qui adorerait une idole. Ils ont choisi toutes ces choses dans leurs voies ; et dans leurs abominations leur âme s'est délectée.
+3 Celui qui immole un boeuf est comme celui qui tuerait un homme; celui qui sacrifie une bête de menu bétail est comme celui qui ôterait la cervelle à un chien; celui qui fait une oblation est comme celui qui offrirait du sang de porc ; celui qui se souvient de brûler de l'encens est comme celui qui adorerait une idole. Ils ont choisi toutes ces choses dans leurs voies ; et dans leurs abominations leur âme s'est délectée.
 
 ***Note*** :  Is. 66, 3 : Oblation ; c’est-à-dire offrande de fleur de farine. ― Ils ont choisi, etc. ; ils n’ont fait en toutes ces choses que leur pure volonté, et ils n’y ont cherché que leur pure satisfaction. Ils se sont imaginé que Dieu fermerait les yeux à leur idolâtrie pendant qu’ils continueraient à lui offrir des sacrifices. Isaïe leur a déjà fait ces reproches, voir Isaïe, 1, verset 11 et suivants ; 58, verset 3 et suivants.
 
@@ -50,7 +50,7 @@ ciel et la nouvelle terre ; toute chair l’adorera ; un châtiment éternel pun
 ***Note*** :  Is. 66, 11 : Infinie ; littéralement qui est de toute sorte (omnimoda) (en un seul mot ? ).
 
 
-12 Parce que voici ce que dit le Seigneur : Voilà que moi j'amènerai sur elle comme un fleuve de paix, et comme un torrent qui se déborde, la gloire des nations, laquelle vous sucerez ; à la mamelle vous serez portés, et sur les genoux on vous caressera. 13 De même qu'une mère qui caresse quelqu'un de ses enfants, de même moi je vous consolerai; et c'est dans Jérusalem que vous serez consolés. 14 Vous verrez et votre cœur se réjouira, et vos os comme l'herbe germeront; et l'on connaîtra que la main du Seigneur est pour ses serviteurs, et il sera indigné contre ses ennemis.
+12 Parce que voici ce que dit le Seigneur : Voilà que moi j'amènerai sur elle comme un fleuve de paix, et comme un torrent qui se déborde, la gloire des nations, laquelle vous sucerez ; à la mamelle vous serez portés, et sur les genoux on vous caressera. 13 De même qu'une mère qui caresse quelqu'un de ses enfants, de même moi je vous consolerai; et c'est dans Jérusalem que vous serez consolés. 14 Vous verrez et votre coeur se réjouira, et vos os comme l'herbe germeront; et l'on connaîtra que la main du Seigneur est pour ses serviteurs, et il sera indigné contre ses ennemis.
 
 
 15 Parce que voilà que le Seigneur viendra dans le feu, et ses quadriges seront comme la tempête, pour répandre dans son indignation sa fureur, et ses reproches dans une flamme de feu ;
@@ -66,7 +66,7 @@ ciel et la nouvelle terre ; toute chair l’adorera ; un châtiment éternel pun
 
 ***Note*** :  Is. 66, 17 : Ils se sanctifiaient ; ils croyaient se sanctifier, se purifier de leurs crimes en se baignant dans leurs jardins, tandis que ces sortes de bains n’étaient établis que pour laver certaines souillures légales et extérieures ; c’est l’explication de saint Jérôme et de plusieurs autres interprètes. ― Des abominations ; c’est-à-dire d’autres animaux que la loi mosaïque déclarait impurs, outre le porc et le rat ici nommés. Voir Lévitique, chapitre 11.
 
-18 Mais moi je viens afin de recueillir leurs œuvres et leurs pensées, et de les rassembler avec toutes les nations et les langues; ils viendront et ils verront ma gloire.
+18 Mais moi je viens afin de recueillir leurs oeuvres et leurs pensées, et de les rassembler avec toutes les nations et les langues; ils viendront et ils verront ma gloire.
 
 
 19 Je poserai un étendard parmi eux, et j'enverrai ceux d'entre eux qui auront été sauvés, vers les nations, vers la mer, en Afrique et en Lydie, qui tend la flèche ; dans l'Italie et la Grèce, dans les îles au loin, vers ceux qui n'ont pas entendu parler de moi, et n'ont pas vu ma gloire. Et ils annonceront ma gloire aux nations,

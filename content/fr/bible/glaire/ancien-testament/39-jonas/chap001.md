@@ -51,5 +51,5 @@ summary: |
 
 ***Note*** :  Jon. 1, 14 : De l’âme ; c’est-à-dire, de la personne.
 
-15 Et ils prirent Jonas, et ils le jetèrent dans la mer, et la mer apaisa sa furie. 16 Les hommes craignirent d'une grande crainte le Seigneur, et ils immolèrent des hosties au Seigneur, et ils vouèrent des vœux
+15 Et ils prirent Jonas, et ils le jetèrent dans la mer, et la mer apaisa sa furie. 16 Les hommes craignirent d'une grande crainte le Seigneur, et ils immolèrent des hosties au Seigneur, et ils vouèrent des voeux
 

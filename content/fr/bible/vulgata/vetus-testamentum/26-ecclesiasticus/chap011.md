@@ -21,9 +21,9 @@ draft: false
 
 8 Priusquam audias, ne respondeas verbum: et in medio sermonum ne adiicias loqui.
 
-9 De ea re, quæ te non molestat, ne certeris: et in iudicio peccantium ne consistas.
+9 De ea re, quae te non molestat, ne certeris: et in iudicio peccantium ne consistas.
 
-10 Fili ne in multis sint actus tui: et si dives fueris, non eris immunis a delicto. si enim secutus fueris, non apprehendes: et non effugies, si præcucurreris.
+10 Fili ne in multis sint actus tui: et si dives fueris, non eris immunis a delicto. si enim secutus fueris, non apprehendes: et non effugies, si praecucurreris.
 
 11 Est homo laborans, et festinans, et dolens impius, et tanto magis non abundabit.
 
@@ -33,17 +33,17 @@ draft: false
 
 14 Bona et mala, vita et mors, paupertas et honestas a Deo sunt.
 
-15 Sapientia et disciplina, et scientia legis apud Deum. Dilectio, et viæ bonorum apud ipsum.
+15 Sapientia et disciplina, et scientia legis apud Deum. Dilectio, et viae bonorum apud ipsum.
 
-16 Error et tenebræ peccatoribus concreata sunt: qui autem exultant in malis, consenescunt in malo.
+16 Error et tenebrae peccatoribus concreata sunt: qui autem exultant in malis, consenescunt in malo.
 
-17 Datio Dei permanet iustis, et profectus illius successus habebit in æternum.
+17 Datio Dei permanet iustis, et profectus illius successus habebit in aeternum.
 
-18 Est qui locupletatur parce agendo, et hæc est pars mercedis illius.
+18 Est qui locupletatur parce agendo, et haec est pars mercedis illius.
 
 19 in eo quod dicit: Inveni requiem mihi, et nunc manducabo de bonis meis solus:
 
-20 et nescit quod tempus præteriet, et mors appropinquet, et relinquat omnia aliis, et morietur.
+20 et nescit quod tempus praeteriet, et mors appropinquet, et relinquat omnia aliis, et morietur.
 
 21 Sta in testamento tuo, et in illo colloquere, et in opere mandatorum tuorum veterasce.
 
@@ -53,7 +53,7 @@ draft: false
 
 24 Benedictio Dei in mercedem iusti festinat, et in hora veloci processus illius fructificat.
 
-25 Ne dicas: Quid est mihi opus, et quæ erunt mihi ex hoc bona?
+25 Ne dicas: Quid est mihi opus, et quae erunt mihi ex hoc bona?
 
 26 Ne dicas: Sufficiens mihi sum: et quid ex hoc pessimabor?
 
@@ -61,13 +61,13 @@ draft: false
 
 28 quoniam facile est coram Deo in die obitus retribuere unicuique secundum vias suas.
 
-29 Malitia horæ oblivionem facit luxuriæ magnæ, et in fine hominis denudatio operum illius.
+29 Malitia horae oblivionem facit luxuriae magnae, et in fine hominis denudatio operum illius.
 
 30 Ante mortem ne laudes hominem quemquam, quoniam in filiis suis agnoscitur vir.
 
-31 Non omnem hominem inducas in domum tuam: multæ enim sunt insidiæ dolosi.
+31 Non omnem hominem inducas in domum tuam: multae enim sunt insidiae dolosi.
 
-32 Sicut enim eructant præcordia fœtentium, et sicut perdix inducitur in caveam, et ut caprea in laqueum: sic et cor superborum, et sicut prospector videns casum proximi sui.
+32 Sicut enim eructant praecordia foetentium, et sicut perdix inducitur in caveam, et ut caprea in laqueum: sic et cor superborum, et sicut prospector videns casum proximi sui.
 
 33 Bona enim in mala convertens insidiatur, et in electis imponet maculam.
 

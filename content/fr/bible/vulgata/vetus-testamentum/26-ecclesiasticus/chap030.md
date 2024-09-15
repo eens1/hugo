@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Qui diligit filium suum, assiduat illi flagella, ut lætetur in novissimo suo, et non palpet proximorum ostia.
+1 Qui diligit filium suum, assiduat illi flagella, ut laetetur in novissimo suo, et non palpet proximorum ostia.
 
 2 Qui docet filium suum, laudabitur in illo, et in medio domesticorum in illo gloriabitur.
 
@@ -13,13 +13,13 @@ draft: false
 
 4 Mortuus est pater eius, et quasi non est mortuus: similem enim reliquit sibi post se.
 
-5 In vita sua vidit, et lætatus est in illo: in obitu suo non est contristatus, nec confusus est coram inimicis.
+5 In vita sua vidit, et laetatus est in illo: in obitu suo non est contristatus, nec confusus est coram inimicis.
 
 6 Reliquit enim defensorem domus contra inimicos, et amicis reddentem gratiam.
 
 7 Pro animabus filiorum colligabit vulnera sua, et super omnem vocem turbabuntur viscera eius.
 
-8 Equus indomitus evadit durus, et filius remissus evadet præceps.
+8 Equus indomitus evadit durus, et filius remissus evadet praeceps.
 
 9 Lacta filium, et paventem te faciet: lude cum eo, et contristabit te.
 
@@ -27,19 +27,19 @@ draft: false
 
 11 Non des illi potestatem in iuventute, et ne despicias cogitatus illius.
 
-12 Curva cervicem eius in iuventute, et tunde latera eius dum infans est, ne forte induret, et non credat tibi, et erit tibi dolor animæ.
+12 Curva cervicem eius in iuventute, et tunde latera eius dum infans est, ne forte induret, et non credat tibi, et erit tibi dolor animae.
 
 13 Doce filium tuum, et operare in illo, ne in turpitudinem illius offendas.
 
 14 Melior est pauper sanus, et fortis viribus, quam dives imbecillis et flagellatus malitia.
 
-15 Salus animæ in sanctitate iustitiæ melior est omni auro et argento: et corpus validum quam census immensus.
+15 Salus animae in sanctitate iustitiae melior est omni auro et argento: et corpus validum quam census immensus.
 
 16 Non est census super censum salutis corporis: et non est oblectamentum super cordis gaudium.
 
-17 Melior est mors quam vita amara: et requies æterna quam languor perseverans.
+17 Melior est mors quam vita amara: et requies aeterna quam languor perseverans.
 
-18 Bona abscondita in ore clauso, quasi appositiones epularum circumpositæ sepulchro.
+18 Bona abscondita in ore clauso, quasi appositiones epularum circumpositae sepulchro.
 
 19 Quid proderit libatio idolo? nec enim manducabit, nec odorabit:
 
@@ -47,15 +47,15 @@ draft: false
 
 21 videns oculis, et ingemiscens, sicut spado complectens virginem, et suspirans.
 
-22 Tristitiam non des animæ tuæ, et non affligas temetipsum in consilio tuo.
+22 Tristitiam non des animae tuae, et non affligas temetipsum in consilio tuo.
 
-23 Iucunditas cordis hæc est vita hominis, et thesaurus sine defectione sanctitatis: et exultatio viri est longævitas.
+23 Iucunditas cordis haec est vita hominis, et thesaurus sine defectione sanctitatis: et exultatio viri est longaevitas.
 
-24 Miserere animæ tuæ placens Deo, et contine: congrega cor tuum in sanctitate eius, et tristitiam longe repelle a te.
+24 Miserere animae tuae placens Deo, et contine: congrega cor tuum in sanctitate eius, et tristitiam longe repelle a te.
 
 25 Multos enim occidit tristitia, et non est utilitas in illa.
 
 26 Zelus et iracundia minuunt dies, et ante tempus senectam adducet cogitatus.
 
-27 Splendidum cor, et bonum in epulis est: epulæ enim illius diligenter fiunt.
+27 Splendidum cor, et bonum in epulis est: epulae enim illius diligenter fiunt.
 

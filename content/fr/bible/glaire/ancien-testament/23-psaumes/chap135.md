@@ -10,7 +10,7 @@ summary: |
 
 1 Alléluia. Glorifiez le Seigneur, parce qu'il est bon, parce qu'éternelle est sa miséricorde.
 
-***Note*** :  Ps. 135, 1 : 1° Le Psalmiste exhorte le peuple à louer Dieu, versets 1 à 3 ; ― 2° à cause des merveilles qu’il a opérées pendant les six jours de la création, versets 4 à 9 ; ― 3° de la délivrance d’Israël de l’Egypte, versets 10 à 15 ; ― 4° du don de la Terre Promise, versets 16 à 22 ; ― 5° des dons qu’il accorde à chacun, versets 23 à 26. ― Ce psaume a cela de particulier, que le refrain est intercalé entre chaque vers (26 fois) : parce qu’éternelle est sa miséricorde. ― Une solo chantait, sans doute, chaque vers, et le chœur reprenait aussitôt le refrain, qui était comme le répons de nos litanies.
+***Note*** :  Ps. 135, 1 : 1° Le Psalmiste exhorte le peuple à louer Dieu, versets 1 à 3 ; ― 2° à cause des merveilles qu’il a opérées pendant les six jours de la création, versets 4 à 9 ; ― 3° de la délivrance d’Israël de l’Egypte, versets 10 à 15 ; ― 4° du don de la Terre Promise, versets 16 à 22 ; ― 5° des dons qu’il accorde à chacun, versets 23 à 26. ― Ce psaume a cela de particulier, que le refrain est intercalé entre chaque vers (26 fois) : parce qu’éternelle est sa miséricorde. ― Une solo chantait, sans doute, chaque vers, et le choeur reprenait aussitôt le refrain, qui était comme le répons de nos litanies.
 
 2 Glorifiez le Dieu des dieux, parce qu'éternelle est sa miséricorde.
 

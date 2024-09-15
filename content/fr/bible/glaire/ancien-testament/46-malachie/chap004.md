@@ -30,4 +30,4 @@ summary: |
 
 ***Note*** :  Ml. 4, 5 : Voir Matthieu, 17, 10 ; Marc, 9, 10 ; Luc, 1, 17. ― Je vous enverrai, etc. C’est la tradition constante et universelle de la synagogue et de l’Eglise chrétienne, que le prophète Elise viendra en personne à la fin du monde pour s’opposer à l’Antéchrist, et pour convertir les Juifs à Jésus-Christ. Le Sauveur lui-même confirme cette promesse de l’avènement d’Elie (voir Matthieu, 17, 11; Marc, 9, 11), bien que dans un autre endroit, il donne le nom d’Elie à saint Jean-Baptiste, parce que sa mission était semblable à celle du prophète de Thesbé. Elie est encore un des deux prophètes dont l’avènement futur est annoncé par saint Jean (voir Apocalypse, 11, 3).
 
-6 Et il ramènera le cœur des pères aux fils et le cœur des fils à leurs pères, de peur que je ne vienne et que je ne frappe la terre d'anathème.
+6 Et il ramènera le coeur des pères aux fils et le coeur des fils à leurs pères, de peur que je ne vienne et que je ne frappe la terre d'anathème.

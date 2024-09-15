@@ -7,15 +7,15 @@ draft: false
 
 1 Respondens autem Sophar Naamathites, dixit:
 
-2 Idcirco cogitationes meæ variæ succedunt sibi, et mens in diversa rapitur.
+2 Idcirco cogitationes meae variae succedunt sibi, et mens in diversa rapitur.
 
-3 Doctrinam, qua me arguis, audiam, et spiritus intelligentiæ meæ respondebit mihi.
+3 Doctrinam, qua me arguis, audiam, et spiritus intelligentiae meae respondebit mihi.
 
 4 Hoc scio a principio, ex quo positus est homo super terram,
 
-5 Quod laus impiorum brevis sit, et gaudium hypocritæ ad instar puncti.
+5 Quod laus impiorum brevis sit, et gaudium hypocritae ad instar puncti.
 
-6 Si ascenderit usque ad cælum superbia eius, et caput eius nubes tetigerit:
+6 Si ascenderit usque ad caelum superbia eius, et caput eius nubes tetigerit:
 
 7 Quasi sterquilinium in fine perdetur: et qui eum viderant, dicent: Ubi est?
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Filii eius atterentur egestate, et manus illius reddent ei dolorem suum.
 
-11 Ossa eius implebuntur vitiis adolescentiæ eius, et cum eo in pulvere dormient.
+11 Ossa eius implebuntur vitiis adolescentiae eius, et cum eo in pulvere dormient.
 
 12 Cum enim dulce fuerit in ore eius malum, abscondet illud sub lingua sua.
 
@@ -35,31 +35,31 @@ draft: false
 
 15 Divitias, quas devoravit, evomet, et de ventre illius extrahet eas Deus.
 
-16 Caput aspidum suget, et occidet eum lingua viperæ.
+16 Caput aspidum suget, et occidet eum lingua viperae.
 
 17 (Non videat rivulos fluminis, torrentes mellis, et butyri.)
 
-18 Luet quæ fecit omnia, nec tamen consumetur: iuxta multitudinem adinventionum suarum, sic et sustinebit.
+18 Luet quae fecit omnia, nec tamen consumetur: iuxta multitudinem adinventionum suarum, sic et sustinebit.
 
-19 Quoniam confringens nudavit pauperes: domum rapuit, et non ædificavit eam.
+19 Quoniam confringens nudavit pauperes: domum rapuit, et non aedificavit eam.
 
-20 Nec est satiatus venter eius: et cum habuerit quæ concupierat, possidere non poterit.
+20 Nec est satiatus venter eius: et cum habuerit quae concupierat, possidere non poterit.
 
 21 Non remansit de cibo eius, et propterea nihil permanebit de bonis eius.
 
-22 Cum satiatus fuerit, arctabitur, æstuabit, et omnis dolor irruet super eum.
+22 Cum satiatus fuerit, arctabitur, aestuabit, et omnis dolor irruet super eum.
 
 23 Utinam impleatur venter eius, ut emittat in eum iram furoris sui, et pluat super illum bellum suum.
 
-24 Fugiet arma ferrea, et irruet in arcum æreum.
+24 Fugiet arma ferrea, et irruet in arcum aereum.
 
 25 Eductus, et egrediens de vagina sua, et fulgurans in amaritudine sua: vadent, et venient super eum horribiles.
 
-26 Omnes tenebræ absconditæ sunt in occultis eius: devorabit eum ignis, qui non succenditur, affligetur relictus in tabernaculo suo.
+26 Omnes tenebrae absconditae sunt in occultis eius: devorabit eum ignis, qui non succenditur, affligetur relictus in tabernaculo suo.
 
-27 Revelabunt cæli iniquitatem eius, et terra consurget adversus eum.
+27 Revelabunt caeli iniquitatem eius, et terra consurget adversus eum.
 
 28 Apertum erit germen domus illius, detrahetur in die furoris Dei.
 
-29 Hæc est pars hominis impii a Deo, et hereditas verborum eius a Domino.
+29 Haec est pars hominis impii a Deo, et hereditas verborum eius a Domino.
 

@@ -11,7 +11,7 @@ summary: |
 
 1 Pour la fin, pour les pressoirs, psaume de David.
 
-***Note*** :  Ps. 8, 1 : En hébreu : « Au chef de chœur. Sur le gitthîth, cithare de Geth). » ― Hymne au créateur des astres et de l’homme. « Ce petit poème, sans aucune prétention à quelque artifice de forme, n’a besoin d’aucun commentaire. Il est sublime par sa simplicité même. La grandeur de Dieu révélée par l’univers, œuvre de ses mains, révélée au besoin par la bouche de ses plus faibles créatures, dont la voix est toujours assez puissante pour imposer silence à celle de l’impiété, est mise en regard de la petitesse de l’homme. Et pourtant l’homme est le roi de la création ; ses prérogatives sont telles qu’il est comme Dieu au milieu de son entourage visible. Il n’y a pas d’être sur la terre dont il ne se sente le maître, avec les moyens qui lui sont octroyés. » (Ed. REUSS. ) C’est le premier psaume du recueil où le poète ne parle pas en son nom seul, mais au nom de tous : notre Seigneur. Il est plusieurs fois cité dans le Nouveau Testament et appliqué au Messie, l’homme-Dieu, l’homme par excellence. Voir Hébreux,
+***Note*** :  Ps. 8, 1 : En hébreu : « Au chef de choeur. Sur le gitthîth, cithare de Geth). » ― Hymne au créateur des astres et de l’homme. « Ce petit poème, sans aucune prétention à quelque artifice de forme, n’a besoin d’aucun commentaire. Il est sublime par sa simplicité même. La grandeur de Dieu révélée par l’univers, oeuvre de ses mains, révélée au besoin par la bouche de ses plus faibles créatures, dont la voix est toujours assez puissante pour imposer silence à celle de l’impiété, est mise en regard de la petitesse de l’homme. Et pourtant l’homme est le roi de la création ; ses prérogatives sont telles qu’il est comme Dieu au milieu de son entourage visible. Il n’y a pas d’être sur la terre dont il ne se sente le maître, avec les moyens qui lui sont octroyés. » (Ed. REUSS. ) C’est le premier psaume du recueil où le poète ne parle pas en son nom seul, mais au nom de tous : notre Seigneur. Il est plusieurs fois cité dans le Nouveau Testament et appliqué au Messie, l’homme-Dieu, l’homme par excellence. Voir Hébreux,
 2, 6-8 ; 1 Corinthiens, 15, 26 ; Ephésiens, 1, 22 ; Matthieu, 21, 16.
 
 
@@ -25,7 +25,7 @@ summary: |
 ***Note*** :  Ps. 8, 3 : Vengeur, c’est-à-dire défenseur (defensorem), comme disaient autrefois quelques exemplaires. D’ailleurs, comme on le sait, dans la basse latinité, on a dit defensor pour ultor.
 
 
-4 Je considérerai vos cieux, les œuvres de vos doigts ; la lune et les étoiles que vous avez affermies.
+4 Je considérerai vos cieux, les oeuvres de vos doigts ; la lune et les étoiles que vous avez affermies.
 
 ***Note*** :  Ps. 8, 4-5 : Grandeur de Dieu dans la création du ciel, des étoiles et de l’homme.
 
@@ -40,10 +40,10 @@ summary: |
 
 ***Note*** :  Ps. 8, 6-9 : Bonté de Dieu envers l’homme auquel il a soumis les êtres créés.
 
-7 Et vous l'avez établi sur les œuvres de vos mains.
+7 Et vous l'avez établi sur les oeuvres de vos mains.
 
 
-8 Vous avez mis toutes choses sous ses pieds, brebis et bœufs, et de plus les animaux des champs ;
+8 Vous avez mis toutes choses sous ses pieds, brebis et boeufs, et de plus les animaux des champs ;
 
 ***Note*** :  Ps. 8, 8 : Voir Genèse, 1, 28 ; 1 Corinthiens, 15, 26.
 

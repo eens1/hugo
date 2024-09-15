@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Lauda sterilis quæ non paris: decanta laudem, et hinni quæ non pariebas: quoniam multi filii desertæ magis quam eius, quæ habet virum, dicit Dominus.
+1 Lauda sterilis quae non paris: decanta laudem, et hinni quae non pariebas: quoniam multi filii desertae magis quam eius, quae habet virum, dicit Dominus.
 
 2 Dilata locum tentorii tui, et pelles tabernaculorum tuorum extende, ne parcas: longos fac funiculos tuos, et clavos tuos consolida.
 
-3 Ad dexteram enim, et ad lævam penetrabis: et semen tuum Gentes hereditabit, et civitates desertas inhabitabit.
+3 Ad dexteram enim, et ad laevam penetrabis: et semen tuum Gentes hereditabit, et civitates desertas inhabitabit.
 
-4 Noli timere quia non confunderis, neque erubesces: non enim te pudebit, quia confusionis adolescentiæ tuæ oblivisceris, et opprobrii viduitatis tuæ non recordaberis amplius.
+4 Noli timere quia non confunderis, neque erubesces: non enim te pudebit, quia confusionis adolescentiae tuae oblivisceris, et opprobrii viduitatis tuae non recordaberis amplius.
 
-5 Quia dominabitur tui qui fecit te, Dominus exercituum nomen eius: et redemptor tuus sanctus Israel, Deus omnis terræ vocabitur.
+5 Quia dominabitur tui qui fecit te, Dominus exercituum nomen eius: et redemptor tuus sanctus Israel, Deus omnis terrae vocabitur.
 
-6 Quia et mulierem derelictam et mœrentem spiritu vocavit te Dominus, et uxorem ab adolescentia abiectam, dixit Deus tuus.
+6 Quia et mulierem derelictam et moerentem spiritu vocavit te Dominus, et uxorem ab adolescentia abiectam, dixit Deus tuus.
 
 7 Ad punctum in modico dereliqui te, et in miserationibus magnis congregabo te.
 
@@ -23,7 +23,7 @@ draft: false
 
 9 Sicut in diebus Noe istud mihi est, cui iuravi ne inducerem aquas Noe ultra super terram: sic iuravi ut non irascar tibi, et non increpem te.
 
-10 Montes enim commovebuntur, et colles contremiscent: misericordia autem mea non recedet a te, et fœdus pacis meæ non movebitur: dixit miserator tuus Dominus.
+10 Montes enim commovebuntur, et colles contremiscent: misericordia autem mea non recedet a te, et foedus pacis meae non movebitur: dixit miserator tuus Dominus.
 
 11 Paupercula tempestate convulsa, absque ulla consolatione. Ecce ego sternam per ordinem lapides tuos, et fundabo te in sapphiris,
 
@@ -37,5 +37,5 @@ draft: false
 
 16 Ecce ego creavi fabrum sufflantem in igne prunas, et proferentem vas in opus suum, et ego creavi interfectorem ad disperdendum.
 
-17 Omne vas, quod fictum est contra te, non dirigetur: et omnem linguam resistentem tibi in iudicio, iudicabis. Hæc est hereditas servorum Domini, et iustitia eorum apud me, dicit Dominus.
+17 Omne vas, quod fictum est contra te, non dirigetur: et omnem linguam resistentem tibi in iudicio, iudicabis. Haec est hereditas servorum Domini, et iustitia eorum apud me, dicit Dominus.
 

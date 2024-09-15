@@ -40,14 +40,14 @@ summary: |
 
 ***Note*** :  Nb. 28, 16 : Voir Exode, 12, 18 ; Lévitique, 33, 5.
 
-17 Et au quinzième jour, la solennité : pendant sept jours on mangera des azymes. 18 Le premier de ces jours sera vénérable et saint : vous ne ferez aucune œuvre servile en ce jour, 19 Et vous offrirez un sacrifice holocauste au Seigneur : deux veaux pris d'un troupeau, un bélier, sept agneaux d'un an, sans tache; 20 Et les offrandes pour chacun, de fleur de farine qui soit arrosée d'huile, trois décimes pour chaque veau et deux décimes pour le bélier; 21 Et la décime d'une décime pour chaque agneau, c'est-à-dire, pour sept agneaux.
+17 Et au quinzième jour, la solennité : pendant sept jours on mangera des azymes. 18 Le premier de ces jours sera vénérable et saint : vous ne ferez aucune oeuvre servile en ce jour, 19 Et vous offrirez un sacrifice holocauste au Seigneur : deux veaux pris d'un troupeau, un bélier, sept agneaux d'un an, sans tache; 20 Et les offrandes pour chacun, de fleur de farine qui soit arrosée d'huile, trois décimes pour chaque veau et deux décimes pour le bélier; 21 Et la décime d'une décime pour chaque agneau, c'est-à-dire, pour sept agneaux.
 
 ***Note*** :  Nb. 28, 21 : Pour sept agneaux ; c’est-à-dire pour chacun des sept agneaux.
 
-22 Et un bouc pour le péché afin qu'il serve d'expiation pour vous ; 23 Outre l'holocauste du matin, que vous offrirez toujours. 24 C'est ainsi que vous ferez à chaque jour des sept jours pour l'entretien du feu, et en odeur très suave pour le Seigneur, laquelle s'élèvera de l'holocauste et des libations de chaque victime. 25 Le septième jour sera aussi très solennel et saint pour vous : vous ne ferez aucune œuvre servile en ce jour.
+22 Et un bouc pour le péché afin qu'il serve d'expiation pour vous ; 23 Outre l'holocauste du matin, que vous offrirez toujours. 24 C'est ainsi que vous ferez à chaque jour des sept jours pour l'entretien du feu, et en odeur très suave pour le Seigneur, laquelle s'élèvera de l'holocauste et des libations de chaque victime. 25 Le septième jour sera aussi très solennel et saint pour vous : vous ne ferez aucune oeuvre servile en ce jour.
 
 
-26 De même, le jour des prémices, quand vous offrirez les nouveaux grains au Seigneur, les semaines étant accomplies, sera vénérable et saint : vous ne ferez aucune œuvre servile en ce jour.
+26 De même, le jour des prémices, quand vous offrirez les nouveaux grains au Seigneur, les semaines étant accomplies, sera vénérable et saint : vous ne ferez aucune oeuvre servile en ce jour.
 
 ***Note*** :  Nb. 28, 26 : Les semaines. Voir Lévitique, 23, 15.
 

@@ -15,7 +15,7 @@ summary: |
 ***Note*** :  Ps. 12, 1-3 : Plainte à Dieu qui abandonne le Psalmiste.
 
 
-2 Jusques à quand formerai-je des projets dans mon âme, et donnerai-je du tourment à mon cœur pendant le jour? 3 Jusques à quand mon ennemi s'élèvera-t-il au-dessus de moi?
+2 Jusques à quand formerai-je des projets dans mon âme, et donnerai-je du tourment à mon coeur pendant le jour? 3 Jusques à quand mon ennemi s'élèvera-t-il au-dessus de moi?
 
 
 4 Regardez et exaucez-moi, Seigneur mon Dieu. Eclairez mes yeux, que jamais je ne m'endorme dans la mort :
@@ -25,7 +25,7 @@ summary: |
 5 De peur qu'un jour mon ennemi ne dise : J'ai prévalu contre lui. Ceux qui me tourmentent tressailliront de joie, si je suis ébranlé;
 
 
-6 Mais moi, j'ai espéré dans votre miséricorde. Mon cœur tressaillira d'allégresse dans votre salut; je chanterai le Seigneur qui m'a comblé de biens; je chanterai le nom du Dieu Très-Haut.
+6 Mais moi, j'ai espéré dans votre miséricorde. Mon coeur tressaillira d'allégresse dans votre salut; je chanterai le Seigneur qui m'a comblé de biens; je chanterai le nom du Dieu Très-Haut.
 
 ***Note*** :  Ps. 12, 6 : Votre salut ; c’est-à-dire le salut dont vous êtes l’auteur, le salut qui vient de vous. ― Espoir que la prière du Psalmiste sera exaucée.
 

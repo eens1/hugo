@@ -42,10 +42,10 @@ Dans une abondante justice est une très grande vertu; mais les pensées des mé
 ***Note*** :  Prov. 15, 6 : La maison, etc. La maison du juste est un grand amas de toutes sortes de biens et de provisions ; tandis que les revenus de l’impie ne lui donnent que du trouble, à cause des maux de différentes sortes dont Dieu le frappe en punition de son impiété.
 
 
-7 Les lèvres des sages répandront la science : le cœur des insensés sera tout à fait différent.
+7 Les lèvres des sages répandront la science : le coeur des insensés sera tout à fait différent.
 
 
-8 Les victimes des impies sont abominables au Seigneur, les vœux des justes lui sont agréables.
+8 Les victimes des impies sont abominables au Seigneur, les voeux des justes lui sont agréables.
 
 ***Note*** :  Prov. 15, 8-15 : Horreur de Dieu pour l’impie.
 
@@ -57,7 +57,7 @@ Dans une abondante justice est une très grande vertu; mais les pensées des mé
 10 La doctrine est odieuse à celui qui abandonne la voie de la vie ; celui qui hait les réprimandes mourra.
 
 
-11 L'enfer et la perdition sont à nu devant le Seigneur; combien plus les cœurs des fils des hommes?
+11 L'enfer et la perdition sont à nu devant le Seigneur; combien plus les coeurs des fils des hommes?
 
 ***Note*** :  Prov. 15, 11 : L’enfer ; veut dire ici le séjour de toutes les âmes après la mort, même de celles des justes qui attendaient le Rédempteur ; et la perdition, le lieu particulier où sont renfermées et tourmentées les âmes des méchants.
 
@@ -65,12 +65,12 @@ Dans une abondante justice est une très grande vertu; mais les pensées des mé
 12 L'homme pernicieux n'aime pas celui qui le reprend, et ne va pas vers les sages.
 
 
-13 Un cœur joyeux rassérène le visage; par la tristesse de l'âme, l'esprit est abattu.
+13 Un coeur joyeux rassérène le visage; par la tristesse de l'âme, l'esprit est abattu.
 
 ***Note*** :  Prov. 15, 13 : Voir Proverbes, 17, 22.
 
 
-14 Le cœur du sage cherche la doctrine ; et la bouche des insensés se repaît d'ignorance.
+14 Le coeur du sage cherche la doctrine ; et la bouche des insensés se repaît d'ignorance.
 
 
 15 Tous les jours du pauvre sont mauvais ; l'âme tranquille est comme un continuel festin.
@@ -141,7 +141,7 @@ Par la miséricorde et par la foi se purifient les péchés ; mais c'est par la 
 ***Note*** :  Prov. 15, 31 : De vie ; qui donnent la vie, en nous garantissant du péché, et, par conséquent, de la mort de l’âme.
 
 
-32 Celui qui rejette la discipline méprise son âme: mais celui qui acquiesce aux réprimandes a du cœur.
+32 Celui qui rejette la discipline méprise son âme: mais celui qui acquiesce aux réprimandes a du coeur.
 
 
 33 La crainte du Seigneur est une discipline de sagesse; et l'humilité précède la gloire.

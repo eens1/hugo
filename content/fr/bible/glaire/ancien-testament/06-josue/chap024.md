@@ -58,7 +58,7 @@ summary: |
 13 Je vous donnai une terre dans laquelle vous n'avez pas travaillé, et des villes que vous n'avez pas bâties, pour que vous y habitiez; des vignes, et des lieux couverts d'oliviers que vous n'avez pas plantés.
 
 
-14 Maintenant donc craignez le Seigneur, et servez-le avec un cœur parfait et très sincère; enlevez les dieux qu'ont servis vos pères dans la Mésopotamie et dans l'Egypte, et servez le Seigneur.
+14 Maintenant donc craignez le Seigneur, et servez-le avec un coeur parfait et très sincère; enlevez les dieux qu'ont servis vos pères dans la Mésopotamie et dans l'Egypte, et servez le Seigneur.
 
 ***Note*** :  Josué 24, 14 : Voir 1 Rois, 7, 3 ; Tobie, 14, 10.
 
@@ -72,7 +72,7 @@ summary: |
 
 ***Note*** :  Josué 24, 19 : Vous ne pourrez pas, etc. Il est évident que Josué ne veut pas dire aux Israélites qu’il leur est impossible de servir le Seigneur, puisque dans les versets précédents il les exhorte fortement à le faire ; son but est simplement de les engager à réfléchir plus sérieusement sur leur promesse, et à ranimer leur courage; c’est comme il leur eût dit : Vous promettez de servir le Seigneur, mais le pourrez-vous avec votre penchant si prononcé pour l’idolâtrie, et avec votre si grande facilité à vous y laisser entraîner ? Serez-vous assez fermes et assez courageux pour persévérer dans les sentiments qui vous animent aujourd’hui ?
 
-20 Si vous abandonnez le Seigneur et servez des dieux étrangers, il se tournera, vous affligera et vous renversera, après qu'il vous aura donné des biens. 21 Le peuple répliqua à Josué : Il n'en sera nullement comme tu dis; mais nous servirons le Seigneur. 22 Et Josué au peuple : Vous êtes témoins, repartit-il, que vous choisissez vous-mêmes le Seigneur pour le servir. Ils répondirent : Témoins. 23 Maintenant donc, reprit-il, ôtez les dieux étrangers d'au milieu de vous, et inclinez vos cœurs devant le Seigneur Dieu d'Israël. 24 Et le peuple répondit à Josué : C'est le Seigneur notre Dieu que nous servirons, et nous obéirons à ses préceptes.
+20 Si vous abandonnez le Seigneur et servez des dieux étrangers, il se tournera, vous affligera et vous renversera, après qu'il vous aura donné des biens. 21 Le peuple répliqua à Josué : Il n'en sera nullement comme tu dis; mais nous servirons le Seigneur. 22 Et Josué au peuple : Vous êtes témoins, repartit-il, que vous choisissez vous-mêmes le Seigneur pour le servir. Ils répondirent : Témoins. 23 Maintenant donc, reprit-il, ôtez les dieux étrangers d'au milieu de vous, et inclinez vos coeurs devant le Seigneur Dieu d'Israël. 24 Et le peuple répondit à Josué : C'est le Seigneur notre Dieu que nous servirons, et nous obéirons à ses préceptes.
 
 
 25 Josué fit donc alliance en ce jour-là, et il proposa au peuple des préceptes et des ordonnances à Sichem. 26 Il écrivit aussi toutes ces paroles dans le livre de la loi du Seigneur, et il prit une très grande pierre, et il la plaça sous le chêne qui était dans le sanctuaire du Seigneur,
@@ -85,7 +85,7 @@ summary: |
 28 Et il renvoya le peuple chacun en sa possession.
 
 
-29 Et après cela mourut Josué, fils de Nun, à l'âge de cent dix ans ; 30 Et on l'ensevelit dans les limites• de sa possession, à Tamnathsaré, qui est située sur la montagne d'Ephraïm, vers la partie septentrionale de la montagne de Gaas. 31 Ainsi, Israël servit le Seigneur durant tous les jours de Josué et des anciens qui vécurent longtemps après Josué, et qui connaissaient toutes les œuvres du Seigneur qu'il avait faites en Israël.
+29 Et après cela mourut Josué, fils de Nun, à l'âge de cent dix ans ; 30 Et on l'ensevelit dans les limites• de sa possession, à Tamnathsaré, qui est située sur la montagne d'Ephraïm, vers la partie septentrionale de la montagne de Gaas. 31 Ainsi, Israël servit le Seigneur durant tous les jours de Josué et des anciens qui vécurent longtemps après Josué, et qui connaissaient toutes les oeuvres du Seigneur qu'il avait faites en Israël.
 
 
 32 Les os de Joseph aussi, que les enfants d'Israël avaient emportés de l'Egypte, on les ensevelit à Sichem, dans la partie du champ que Jacob avait achetée des fils d'Hémor, père de Sichem, pour cent jeunes brebis, et qui devint la propriété des enfants de Joseph.

@@ -5,23 +5,23 @@ draft: false
 ---
 
 
-1 Et factum est, cum audisset hæc verba Iudith vidua, quæ erat filia Merari, filii Idox, filii Ioseph, filii Oziæ, filii Elai, filii Iamnor, filii Gedeon, filii Raphaim, filii Achitob, filii Melchiæ, filii Enan, filii Nathaniæ, filii Salathiel, filii Simeon, filii Ruben:
+1 Et factum est, cum audisset haec verba Iudith vidua, quae erat filia Merari, filii Idox, filii Ioseph, filii Oziae, filii Elai, filii Iamnor, filii Gedeon, filii Raphaim, filii Achitob, filii Melchiae, filii Enan, filii Nathaniae, filii Salathiel, filii Simeon, filii Ruben:
 
-2 et vir eius fuit Manasses, qui mortuus est in diebus messis hordeaceæ:
+2 et vir eius fuit Manasses, qui mortuus est in diebus messis hordeaceae:
 
-3 instabat enim super alligantes manipulos in campo, et venit æstus super caput eius, et mortuus est in Bethulia civitate sua, et sepultus est illic cum patribus suis.
+3 instabat enim super alligantes manipulos in campo, et venit aestus super caput eius, et mortuus est in Bethulia civitate sua, et sepultus est illic cum patribus suis.
 
 4 Erat autem Iudith relicta eius vidua iam annis tribus, et mensibus sex.
 
-5 Et in superioribus domus suæ fecit sibi secretum cubiculum, in quo cum puellis suis clausa morabatur,
+5 Et in superioribus domus suae fecit sibi secretum cubiculum, in quo cum puellis suis clausa morabatur,
 
-6 et habens super lumbos suos cilicium, ieiunabat omnibus diebus vitæ suæ, præter sabbata, et neomenias, et festa domus Israel.
+6 et habens super lumbos suos cilicium, ieiunabat omnibus diebus vitae suae, praeter sabbata, et neomenias, et festa domus Israel.
 
 7 Erat autem eleganti aspectu nimis, cui vir suus reliquerat divitias multas, et familiam copiosam, ac possessiones armentis boum, et gregibus ovium plenas.
 
-8 Et erat hæc in omnibus famosissima, quoniam timebat Dominum valde, nec erat qui loqueretur de illa verbum malum.
+8 Et erat haec in omnibus famosissima, quoniam timebat Dominum valde, nec erat qui loqueretur de illa verbum malum.
 
-9 Hæc itaque cum audisset quoniam Ozias promisisset quod transacto quinto die traderet civitatem, misit ad presbyteros Chabri, et Charmi.
+9 Haec itaque cum audisset quoniam Ozias promisisset quod transacto quinto die traderet civitatem, misit ad presbyteros Chabri, et Charmi.
 
 10 Et venerunt ad illam, et dixit illis: Quod est hoc verbum, in quo consensit Ozias, ut tradat civitatem Assyriis si intra quinque dies non venerit vobis adiutorium?
 
@@ -31,7 +31,7 @@ draft: false
 
 13 Posuistis vos tempus miserationis Domini, et in arbitrium vestrum, diem constituistis ei.
 
-14 Sed quia patiens Dominus est, in hoc ipso pœniteamus, et indulgentiam eius fusis lacrymis postulemus:
+14 Sed quia patiens Dominus est, in hoc ipso poeniteamus, et indulgentiam eius fusis lacrymis postulemus:
 
 15 non enim quasi homo, sic Deus comminabitur, neque sicut filius hominis ad iracundiam inflammabitur.
 
@@ -41,9 +41,9 @@ draft: false
 
 18 quoniam non sumus secuti peccata patrum nostrorum, qui dereliquerunt Deum suum, et adoraverunt deos alienos,
 
-19 pro quo scelere dati sunt in gladium, et in rapinam, et in confusionem inimicis suis: nos autem alterum Deum nescimus præter ipsum.
+19 pro quo scelere dati sunt in gladium, et in rapinam, et in confusionem inimicis suis: nos autem alterum Deum nescimus praeter ipsum.
 
-20 Expectemus humiles consolationem eius, et exquiret sanguinem nostrum de afflictionibus inimicorum nostrorum, et humiliabit omnes Gentes, quæcumque insurgunt contra nos, et faciet illas sine honore Dominus Deus noster.
+20 Expectemus humiles consolationem eius, et exquiret sanguinem nostrum de afflictionibus inimicorum nostrorum, et humiliabit omnes Gentes, quaecumque insurgunt contra nos, et faciet illas sine honore Dominus Deus noster.
 
 21 Et nunc fratres, quoniam vos estis presbyteri in populo Dei, et ex vobis pendet anima illorum, ad eloquium vestrum corda eorum erigite, ut memores sint, quia tentati sunt patres nostri ut probarentur, si vere colerent Deum suum.
 
@@ -51,15 +51,15 @@ draft: false
 
 23 Sic Isaac, sic Iacob, sic Moyses, et omnes qui placuerunt Deo, per multas tribulationes transierunt fideles.
 
-24 Illi autem, qui tentationes non susceperunt cum timore Domini, et impatientiam suam et improperium murmurationis suæ contra Dominum protulerunt,
+24 Illi autem, qui tentationes non susceperunt cum timore Domini, et impatientiam suam et improperium murmurationis suae contra Dominum protulerunt,
 
 25 exterminati sunt ab exterminatore, et a serpentibus perierunt.
 
-26 Et nos ergo non ulciscamur nos pro his, quæ patimur,
+26 Et nos ergo non ulciscamur nos pro his, quae patimur,
 
-27 sed reputantes peccatis nostris hæc ipsa supplicia minora esse flagella Domini, quibus quasi servi corripimur ad emendationem, et non ad perditionem nostram evenisse credamus.
+27 sed reputantes peccatis nostris haec ipsa supplicia minora esse flagella Domini, quibus quasi servi corripimur ad emendationem, et non ad perditionem nostram evenisse credamus.
 
-28 Et dixerunt illi Ozias, et presbyteri: Omnia, quæ locuta es, vera sunt, et non est in sermonibus tuis ulla reprehensio.
+28 Et dixerunt illi Ozias, et presbyteri: Omnia, quae locuta es, vera sunt, et non est in sermonibus tuis ulla reprehensio.
 
 29 Nunc ergo ora pro nobis, quoniam mulier sancta es, et timens Deum.
 

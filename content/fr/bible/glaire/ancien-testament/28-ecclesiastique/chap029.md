@@ -16,7 +16,7 @@ summary: |
 
 1 Celui qui fait miséricorde prête à intérêt à son prochain ; et celui qui prévaut par la main garde les commandements.
 
-***Note*** :  Sir. 29, 1 : Prête à intérêt (fæneratur) ; parce que Dieu le lui rend avec usure. Comparer à Proverbes, 19, 17. ― Prévaut par la main (prævalet manu) ; c’est-à-dire donne à pleines mains, largement. ― Garde les commandements. La charité est en effet le premier des préceptes qui regardent le prochain.
+***Note*** :  Sir. 29, 1 : Prête à intérêt (faeneratur) ; parce que Dieu le lui rend avec usure. Comparer à Proverbes, 19, 17. ― Prévaut par la main (praevalet manu) ; c’est-à-dire donne à pleines mains, largement. ― Garde les commandements. La charité est en effet le premier des préceptes qui regardent le prochain.
 
 2 Prête à ton prochain au temps de sa nécessité ; mais aussi rends au prochain en son temps, 3 Maintiens ta parole et agis fidèlement avec lui ; et en tout temps tu trouveras ce qui t'est nécessaire.
 
@@ -36,7 +36,7 @@ summary: |
 11 Cependant, envers le misérable, sois plus généreux, et pour ton aumône, ne le traîne pas en longueur. 12 A cause du commandement, prends soin du pauvre; à cause de son indigence, ne le renvoie pas les mains vides. 13 Perds ton argent pour ton frère et ton ami ; et ne le cache pas sous une pierre pour être perdu.
 
 
-14 Mets ton trésor dans les préceptes du Très-Haut, et il te sera plus utile que l'or. 15 Renferme l'aumône dans le cœur du pauvre, et cette aumône priera pour toi, et te préservera de tout mal.
+14 Mets ton trésor dans les préceptes du Très-Haut, et il te sera plus utile que l'or. 15 Renferme l'aumône dans le coeur du pauvre, et cette aumône priera pour toi, et te préservera de tout mal.
 
 ***Note*** :  Sir. 29, 15 : Voir Tobie, 4, 11 ; Ecclésiastique, 17, 18. ― Et te préservera ; ces mots sont incontestablement sous-entendus, car de tout mal (ab omni malo) ne saurait être le complément du verbe priera (exorabit). Voir au 2° à la fin des Observations préliminaires des Psaumes, ce qui a été dit sur ce genre de construction appelé, en termes de grammaire hébraïque, construction prégnante.
 
@@ -45,7 +45,7 @@ summary: |
 ***Note*** :  Sir. 29, 20 : Son âme ; c’est-à-dire sa vie. Il y a des cautionnements pour de l’argent et une dette, mais il y en a aussi qui regardent la personne, et où il y va de la vie. C’est de ce dernier cautionnement qu’il s’agit ici. Comparer à 3 Rois, 20, 39.
 
 
-21 Le pécheur et l'impur fuient leur répondant. 22 Le pécheur s'attribue le bien de son répondant, et ingrat de cœur, il abandonnera son libérateur. 23 Un homme répond pour son prochain, et celui-ci manquant d'égards, l'abandonnera.
+21 Le pécheur et l'impur fuient leur répondant. 22 Le pécheur s'attribue le bien de son répondant, et ingrat de coeur, il abandonnera son libérateur. 23 Un homme répond pour son prochain, et celui-ci manquant d'égards, l'abandonnera.
 
 ***Note*** :  Sir. 29, 23 : L’abandonnera ; en le laissant payer pour lui.
 

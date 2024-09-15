@@ -25,9 +25,9 @@ draft: false
 
 10 qui mortuus est pro nobis: ut sive vigilemus, sive dormiamus, simul cum illo vivamus.
 
-11 Propter quod consolamini invicem: et ædificate alterutrum, sicut et facitis.
+11 Propter quod consolamini invicem: et aedificate alterutrum, sicut et facitis.
 
-12 Rogamus autem vos fratres ut noveritis eos, qui laborant inter vos, et præsunt vobis in Domino, et monent vos,
+12 Rogamus autem vos fratres ut noveritis eos, qui laborant inter vos, et praesunt vobis in Domino, et monent vos,
 
 13 ut habeatis illos abundantius in charitate propter opus illorum: pacem habete cum eis.
 
@@ -39,7 +39,7 @@ draft: false
 
 17 Sine intermissione orate.
 
-18 In omnibus gratias agite: hæc est enim voluntas Dei in Christo Iesu in omnibus vobis.
+18 In omnibus gratias agite: haec est enim voluntas Dei in Christo Iesu in omnibus vobis.
 
 19 Spiritum nolite extinguere.
 
@@ -57,7 +57,7 @@ draft: false
 
 26 Salutate fratres omnes in osculo sancto.
 
-27 Adiuro vos per Dominum ut legatur epistola hæc omnibus sanctis fratribus.
+27 Adiuro vos per Dominum ut legatur epistola haec omnibus sanctis fratribus.
 
 28 Gratia Domini nostri Iesu Christi vobiscum. Amen.
 

@@ -7,7 +7,7 @@ draft: false
 
 1 Iustificati ergo ex fide, pacem habeamus ad Deum per Dominum nostrum Iesum Christum:
 
-2 per quem et habemus accessum per fidem in gratiam istam, in qua stamus, et gloriamur in spe gloriæ filiorum Dei.
+2 per quem et habemus accessum per fidem in gratiam istam, in qua stamus, et gloriamur in spe gloriae filiorum Dei.
 
 3 Non solum autem, sed et gloriamur in tribulationibus: scientes quod tribulatio patientiam operatur:
 
@@ -31,19 +31,19 @@ draft: false
 
 13 Usque ad legem enim peccatum erat in mundo: peccatum autem non imputabatur, cum lex non esset.
 
-14 Sed regnavit mors ab Adam usque ad Moysen etiam in eos, qui non peccaverunt in similitudinem prævaricationis Adæ, qui est forma futuri.
+14 Sed regnavit mors ab Adam usque ad Moysen etiam in eos, qui non peccaverunt in similitudinem praevaricationis Adae, qui est forma futuri.
 
 15 Sed non sicut delictum, ita et donum. si enim unius delicto multi mortui sunt: multo magis gratia Dei et donum in gratia unius hominis Iesu Christi in plures abundavit.
 
 16 Et non sicut per unum peccatum, ita et donum. nam iudicium quidem ex uno in condemnationem: gratia autem ex multis delictis in iustificationem.
 
-17 Si enim unius delicto mors regnavit per unum: multo magis abundantiam gratiæ, et donationis, et iustitiæ accipientes, in vita regnabunt per unum Iesum Christum.
+17 Si enim unius delicto mors regnavit per unum: multo magis abundantiam gratiae, et donationis, et iustitiae accipientes, in vita regnabunt per unum Iesum Christum.
 
-18 Igitur sicut per unius delictum in omnes homines in condemnationem: sic et per unius iustitiam in omnes homines in iustificationem vitæ.
+18 Igitur sicut per unius delictum in omnes homines in condemnationem: sic et per unius iustitiam in omnes homines in iustificationem vitae.
 
 19 Sicut enim per inobedientiam unius hominis, peccatores constituti sunt multi: ita et per unius obeditionem, iusti constituentur multi.
 
 20 Lex autem subintravit ut abundaret delictum. Ubi autem abundavit delictum, superabundavit gratia.
 
-21 ut sicut regnavit peccatum in mortem: ita et gratia regnet per iustitiam in vitam æternam, per Iesum Christum Dominum nostrum.
+21 ut sicut regnavit peccatum in mortem: ita et gratia regnet per iustitiam in vitam aeternam, per Iesum Christum Dominum nostrum.
 

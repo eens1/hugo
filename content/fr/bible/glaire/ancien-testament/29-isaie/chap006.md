@@ -18,7 +18,7 @@ dès les premiers siècles, a reconnu une allusion aux trois personne divines da
 
 2 Des séraphins étaient au-dessus du trône : l'un avait six ailes, et l'autre six ailes; avec deux, ils voilaient leur face, et avec deux ils voilaient leurs pieds, et avec deux ils volaient.
 
-***Note*** :  Is. 6, 2 : Leur face ; littéralement et par hébraïsme, sa face ; parce que le pluriel ils voilaient (velabant) est pour chacun d’eux voilait. ― Des séraphins, mot qui signifie brûlants, enflammés, et qui désigne un chœur des anges. Ce passage est le seul endroit, soit de l’Ancien, soit du Nouveau Testament où nous lisions leur nom.
+***Note*** :  Is. 6, 2 : Leur face ; littéralement et par hébraïsme, sa face ; parce que le pluriel ils voilaient (velabant) est pour chacun d’eux voilait. ― Des séraphins, mot qui signifie brûlants, enflammés, et qui désigne un choeur des anges. Ce passage est le seul endroit, soit de l’Ancien, soit du Nouveau Testament où nous lisions leur nom.
 
 3 Et ils se criaient l'un à l'autre, et ils disaient : Saint, saint, saint est le Seigneur Dieu des armées, toute la terre est pleine de sa gloire.
 
@@ -45,9 +45,9 @@ dès les premiers siècles, a reconnu une allusion aux trois personne divines da
 
 ***Note*** :  Is. 6, 9 : Voir Matthieu, 13, 14 ; Marc, 4, 12 ; Luc, 8, 10 ; Jean, 12, 40 ; Actes des Apôtres, 28, 26 ; Romains, 11, 8. ― Ecoutant, écoutez ; hébraïsme, pour écoutez bien.
 
-10 Aveugle le cœur de ce peuple, et rends ses oreilles sourdes, et ferme ses yeux ; de peur qu'il ne voie de ses yeux, et qu'il n'entende de ses oreilles, et que de son cœur il ne comprenne, et qu'il ne se convertisse et que je ne le guérisse.
+10 Aveugle le coeur de ce peuple, et rends ses oreilles sourdes, et ferme ses yeux ; de peur qu'il ne voie de ses yeux, et qu'il n'entende de ses oreilles, et que de son coeur il ne comprenne, et qu'il ne se convertisse et que je ne le guérisse.
 
-***Note*** :  Is. 6, 10 : Aveugle, etc. Saint Jean, saint Paul et Jésus-Christ même ont appliqué ce passage à l’endurcissement des Juifs au temps de l’Evangile. Voir Matthieu, 13, 14 ; Luc, 8, 10 ; Jean, 12, 40 ; Actes des Apôtres, 28, 26 ; Romains, 11, 8. ― Le cœur ; l’intelligence.
+***Note*** :  Is. 6, 10 : Aveugle, etc. Saint Jean, saint Paul et Jésus-Christ même ont appliqué ce passage à l’endurcissement des Juifs au temps de l’Evangile. Voir Matthieu, 13, 14 ; Luc, 8, 10 ; Jean, 12, 40 ; Actes des Apôtres, 28, 26 ; Romains, 11, 8. ― Le coeur ; l’intelligence.
 
 11 Et j'ai dit : Jusques à quand, Seigneur? et il a dit : Jusqu'à ce que les cités soient désolées, et sans un habitant, et que les maisons soient sans un homme ; et la terre sera laissée déserte. 12 Et le Seigneur éloignera les hommes, et elle se multipliera, celle qui avait été délaissée au milieu de la terre.
 

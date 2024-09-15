@@ -7,9 +7,9 @@ draft: false
 
 1 Non turbetur cor vestrum. Creditis in Deum, et in me credite.
 
-2 In domo Patris mei mansiones multæ sunt. si quo minus dixissem vobis: Quia vado parare vobis locum.
+2 In domo Patris mei mansiones multae sunt. si quo minus dixissem vobis: Quia vado parare vobis locum.
 
-3 Et si abiero, et præparavero vobis locum: iterum venio, et accipiam vos ad meipsum, ut ubi sum ego, et vos sitis.
+3 Et si abiero, et praeparavero vobis locum: iterum venio, et accipiam vos ad meipsum, ut ubi sum ego, et vos sitis.
 
 4 Et quo ego vado scitis, et viam scitis.
 
@@ -23,11 +23,11 @@ draft: false
 
 9 Dicit ei Iesus: Tanto tempore vobiscum sum: et non cognovistis me? Philippe, qui videt me, videt et Patrem. Quomodo tu dicis: Ostende nobis Patrem?
 
-10 Non creditis quia ego in Patre, et Pater in me est? Verba, quæ ego loquor vobis, a me ipso non loquor. Pater autem in me manens, ipse fecit opera.
+10 Non creditis quia ego in Patre, et Pater in me est? Verba, quae ego loquor vobis, a me ipso non loquor. Pater autem in me manens, ipse fecit opera.
 
 11 Non creditis quia ego in Patre, et Pater in me est?
 
-12 Alioquin propter opera ipsa credite. Amen, amen dico vobis, qui credit in me, opera, quæ ego facio, et ipse faciet, et maiora horum faciet: quia ego ad Patrem vado.
+12 Alioquin propter opera ipsa credite. Amen, amen dico vobis, qui credit in me, opera, quae ego facio, et ipse faciet, et maiora horum faciet: quia ego ad Patrem vado.
 
 13 Et quodcumque petieritis Patrem in nomine meo, hoc faciam: ut glorificetur Pater in Filio.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 Si diligitis me: mandata mea servate.
 
-16 Et ego rogabo Patrem, et alium paraclitum dabit vobis, ut maneat vobiscum in æternum,
+16 Et ego rogabo Patrem, et alium paraclitum dabit vobis, ut maneat vobiscum in aeternum,
 
 17 Spiritum veritatis, quem mundus non potest accipere, quia non videt eum, nec scit eum. vos autem cognoscetis eum: quia apud vos manebit, et in vobis erit.
 
@@ -53,9 +53,9 @@ draft: false
 
 24 qui non diligit me, sermones meos non servat. Et sermonem, quem audistis, non est meus: sed eius, qui misit me, Patris.
 
-25 Hæc locutus sum vobis apud vos manens.
+25 Haec locutus sum vobis apud vos manens.
 
-26 Paraclitus autem Spiritus sanctus, quem mittet Pater in nomine meo, ille vos docebit omnia, et suggeret vobis omnia, quæcumque dixero vobis.
+26 Paraclitus autem Spiritus sanctus, quem mittet Pater in nomine meo, ille vos docebit omnia, et suggeret vobis omnia, quaecumque dixero vobis.
 
 27 Pacem relinquo vobis, pacem meam do vobis: non quomodo mundus dat, ego do vobis. Non turbetur cor vestrum, neque formidet.
 

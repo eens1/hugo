@@ -9,11 +9,11 @@ draft: false
 
 2 Benedixit autem populus omnibus viris qui se sponte obtulerant ut habitarent in Ierusalem.
 
-3 Hi sunt itaque principes provinciæ qui habitaverunt in Ierusalem, et in civitatibus Iuda. Habitavit autem unusquisque in possessione sua, in urbibus suis, Israel, Sacerdotes, Levitæ, Nathinæi, et filii servorum Salomonis.
+3 Hi sunt itaque principes provinciae qui habitaverunt in Ierusalem, et in civitatibus Iuda. Habitavit autem unusquisque in possessione sua, in urbibus suis, Israel, Sacerdotes, Levitae, Nathinaei, et filii servorum Salomonis.
 
-4 Et in Ierusalem habitaverunt de filiis Iuda, et de filiis Beniamin: de filiis Iuda, Athaias filius Aziam, filii Zachariæ, filii Amariæ, filii Saphatiæ, filii Malaleel: de filiis Phares,
+4 Et in Ierusalem habitaverunt de filiis Iuda, et de filiis Beniamin: de filiis Iuda, Athaias filius Aziam, filii Zachariae, filii Amariae, filii Saphatiae, filii Malaleel: de filiis Phares,
 
-5 Maasia filius Baruch, filius Cholhoza, filius Hazia, filius Adaia, filius Ioiarib, filius Zachariæ, filius Silonitis:
+5 Maasia filius Baruch, filius Cholhoza, filius Hazia, filius Adaia, filius Ioiarib, filius Zachariae, filius Silonitis:
 
 6 omnes hi filii Phares, qui habitaverunt in Ierusalem, quadringenti sexaginta octo viri fortes.
 
@@ -21,35 +21,35 @@ draft: false
 
 8 et post eum Gebbai, Sellai, nongenti vigintiocto,
 
-9 et Ioel filius Zechri præpositus eorum, et Iudas filius Senua super civitatem secundus.
+9 et Ioel filius Zechri praepositus eorum, et Iudas filius Senua super civitatem secundus.
 
 10 Et de sacerdotibus, Idaia filius Ioarib, Iachin,
 
-11 Saraia filius Helciæ, filius Mosollam, filius Sadoc, filius Meraioth, filius Achitob princeps domus Dei,
+11 Saraia filius Helciae, filius Mosollam, filius Sadoc, filius Meraioth, filius Achitob princeps domus Dei,
 
-12 et fratres eorum facientes opera templi: octingenti viginti duo. Et Adaia filius Ieroham, filius Phelelia, filius Amsi, filius Zachariæ, filius Pheshur, filius Melchiæ,
+12 et fratres eorum facientes opera templi: octingenti viginti duo. Et Adaia filius Ieroham, filius Phelelia, filius Amsi, filius Zachariae, filius Pheshur, filius Melchiae,
 
 13 et fratres eius principes patrum: ducenti quadragintaduo. Et Amassai filius Azreel, filius Ahazi, filius Mosollamoth, filius Emmer,
 
-14 et fratres eorum potentes nimis: centum vigintiocto, et præpositus eorum Zabdiel filius potentium.
+14 et fratres eorum potentes nimis: centum vigintiocto, et praepositus eorum Zabdiel filius potentium.
 
 15 Et de Levitis Semeia filius Hasub, filius Azaricam, filius Hasabia, filius Boni,
 
-16 et Sabathai et Iozabed, super omnia opera, quæ erant forinsecus in domo Dei, a principibus Levitarum.
+16 et Sabathai et Iozabed, super omnia opera, quae erant forinsecus in domo Dei, a principibus Levitarum.
 
 17 Et Mathania filius Micha, filius Zebedei, filius Asaph princeps ad laudandum, et ad confitendum in oratione, et Becbecia secundus de fratribus eius, et Abda filius Samua, filius Galal, filius Idithun:
 
-18 omnes Levitæ in civitate sancta ducenti octogintaquattuor.
+18 omnes Levitae in civitate sancta ducenti octogintaquattuor.
 
 19 Et ianitores, Accub, Telmon, et fratres eorum, qui custodiebant ostia: centum septuaginta duo.
 
-20 Et reliqui ex Israel Sacerdotes et Levitæ in universis civitatibus Iuda, unusquisque in possessione sua.
+20 Et reliqui ex Israel Sacerdotes et Levitae in universis civitatibus Iuda, unusquisque in possessione sua.
 
-21 Et Nathinæi, qui habitabant in Ophel, et Siaha, et Gaspha de Nathinæis.
+21 Et Nathinaei, qui habitabant in Ophel, et Siaha, et Gaspha de Nathinaeis.
 
-22 Et episcopus Levitarum in Ierusalem, Azzi filius Bani, filius Hasabiæ, filius Mathaniæ, filius Michæ. De filiis Asaph, cantores in ministerio domus Dei.
+22 Et episcopus Levitarum in Ierusalem, Azzi filius Bani, filius Hasabiae, filius Mathaniae, filius Michae. De filiis Asaph, cantores in ministerio domus Dei.
 
-23 Præceptum quippe regis super eos erat, et ordo in cantoribus per dies singulos,
+23 Praeceptum quippe regis super eos erat, et ordo in cantoribus per dies singulos,
 
 24 et Phathahia filius Mesezebel, de filiis Zara filii Iuda in manu regis, iuxta omne verbum populi,
 
@@ -75,5 +75,5 @@ draft: false
 
 35 et Ono valle artificum.
 
-36 Et de Levitis portiones Iudæ et Beniamin.
+36 Et de Levitis portiones Iudae et Beniamin.
 

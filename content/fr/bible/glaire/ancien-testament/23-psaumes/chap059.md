@@ -14,7 +14,7 @@ summary: |
 
 ***Note*** :  Ps. 59, 1 : Par. Voir le Psaume 15 (Hébreu : 16).
 
-***Note*** :  Ps. 59, 1-2 : Titre hébreu : « Au chef de chœur. Sur [l’air de] schouschan ‘êdouth (le lis du témoignage). Mikthâm. De David. Pour être enseigné (comme l’élégie sur la mort de Saül et de Jonathas, voir 2 Rois, 1, 18). » Les paroles : Lorsqu’il brûla, etc. , indiquent d’une manière générale l’époque de la composition du psaume. Il fut fait avant la victoire de la vallée des Salines, à un moment où la Palestine du sud était maltraitée par les Iduméens à qui le roi n’avait pas de troupes suffisantes à opposer. ― Psaumes, 107, 7-14, est la reproduction de Psaumes, 59, 7-15.
+***Note*** :  Ps. 59, 1-2 : Titre hébreu : « Au chef de choeur. Sur [l’air de] schouschan ‘êdouth (le lis du témoignage). Mikthâm. De David. Pour être enseigné (comme l’élégie sur la mort de Saül et de Jonathas, voir 2 Rois, 1, 18). » Les paroles : Lorsqu’il brûla, etc. , indiquent d’une manière générale l’époque de la composition du psaume. Il fut fait avant la victoire de la vallée des Salines, à un moment où la Palestine du sud était maltraitée par les Iduméens à qui le roi n’avait pas de troupes suffisantes à opposer. ― Psaumes, 107, 7-14, est la reproduction de Psaumes, 59, 7-15.
 
 2 Lorsqu'il brûla la Mésopotamie de Syrie et Sobal, et que Joab, étant revenu, frappa l'Idumée dans la vallée des Salines, par la défaite de douze mille hommes.
 

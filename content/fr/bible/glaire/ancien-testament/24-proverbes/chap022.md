@@ -5,7 +5,7 @@ draft: false
 summary: |
   
   Prix de la bonne réputation.
-  Avantage de la pureté de cœur.
+  Avantage de la pureté de coeur.
   Exhortation à la sagesse.
   Ne pas opprimer le pauvre.
   Ne pas toucher aux bornes anciennes.
@@ -51,7 +51,7 @@ Il obtiendra la victoire et l'honneur, celui qui fait des présents; mais il rav
 10 Chasse le railleur, et s'en ira avec lui la querelle, et cesseront les plaintes et les outrages.
 
 
-11 Celui qui aime la pureté du cœur, à cause de la grâce de ses lèvres, aura pour ami le roi.
+11 Celui qui aime la pureté du coeur, à cause de la grâce de ses lèvres, aura pour ami le roi.
 
 
 12 Les yeux du Seigneur gardent la science; mais les paroles de l'homme inique sont confondues.
@@ -65,7 +65,7 @@ Il obtiendra la victoire et l'honneur, celui qui fait des présents; mais il rav
 ***Note*** :  Prov. 22, 14 : Fosse profonde ; abîme. Le mot fosse se prend aussi dans l’Ecriture pour pièges, embûches.
 
 
-15 La folie est liée au cœur de l'enfant, et la verge de la discipline la fera fuir.
+15 La folie est liée au coeur de l'enfant, et la verge de la discipline la fera fuir.
 
 ***Note*** :  Prov. 22, 15 : La folie ; c’est-à-dire l’ignorance, la faiblesse, le penchant au mal.
 
@@ -75,11 +75,11 @@ Il obtiendra la victoire et l'honneur, celui qui fait des présents; mais il rav
 ***Note*** :  Prov. 22, 16 : Qui opprime, etc. Voir Proverbes, 14, 31.
 
 
-17 Incline ton oreille, et écoute les paroles des sages; applique ton cœur à ma doctrine.
+17 Incline ton oreille, et écoute les paroles des sages; applique ton coeur à ma doctrine.
 
 ***Note*** :  Prov. 22, 17 : Ici commencent les paroles des sages, contenues dans les chapitres 22, verset 17 à 24, verset 22. C’est une série de préceptes sur la justice et la prudence.
 
-18 Elle sera belle pour toi, lorsque tu la garderas au fond de ton cœur, et elle se répandra sur tes lèvres; 19 Afin que ta confiance soit dans le Seigneur : c'est pour cela que je te l'ai montrée aujourd'hui, 20 Voilà que je te l'ai décrite triplement, avec réflexion et science;
+18 Elle sera belle pour toi, lorsque tu la garderas au fond de ton coeur, et elle se répandra sur tes lèvres; 19 Afin que ta confiance soit dans le Seigneur : c'est pour cela que je te l'ai montrée aujourd'hui, 20 Voilà que je te l'ai décrite triplement, avec réflexion et science;
 
 ***Note*** :  Prov. 22, 20 : Triplement ; ou trois fois ; c’est-à-dire diverses fois, souvent.
 
@@ -108,7 +108,7 @@ Il obtiendra la victoire et l'honneur, celui qui fait des présents; mais il rav
 28 Ne dépasse pas les anciennes bornes qu'ont posées tes pères.
 
 
-29 As-tu vu un homme prompt dans son œuvre? il se tiendra devant les rois, et il ne sera pas devant les hommes obscurs.
+29 As-tu vu un homme prompt dans son oeuvre? il se tiendra devant les rois, et il ne sera pas devant les hommes obscurs.
 
 ***Note*** :  Prov. 22, 29 : Il se tiendra, etc. Un homme diligent et actif s’insinuera à la cour des rois et ne s’attachera pas à des gens vils et obscurs.
 

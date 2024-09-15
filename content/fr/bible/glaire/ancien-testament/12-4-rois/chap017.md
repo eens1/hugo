@@ -64,7 +64,7 @@ summary: |
 
 24 Or le roi des Assyriens amena des habitants de Babylone, de Cutha, d'Ava, d'Emath et de Sépharvaïm, et les établit dans les villes de la Samarie, en la place des enfants d'Israël : et ils possédèrent la Samarie, et habitèrent dans ses villes.
 
-***Note*** :  IV Rois 17, 24 : Le roi des Assyriens, Sargon, successeur de Salmanasar. ― Babylone, la capitale de la Chaldée sur l’Euphrate. ― Cutha, aujourd’hui Tell Ibrahim, à 16 kilomètres au nord-est de Babylone. ― Ava, inconnue. ― Emath, sur l’Oronte, dans la Cœlésyrie. ― Sépharvaïm ou les deux Sippara, aujourd’hui Tell Abou-Habba, au sud-ouest de Bagdad, un peu à l’est du lit actuel de l’Euphrate, autrefois sur l’Euphrate même. Les ruines couvrent une surface de plus de trois kilomètres de circonférence.
+***Note*** :  IV Rois 17, 24 : Le roi des Assyriens, Sargon, successeur de Salmanasar. ― Babylone, la capitale de la Chaldée sur l’Euphrate. ― Cutha, aujourd’hui Tell Ibrahim, à 16 kilomètres au nord-est de Babylone. ― Ava, inconnue. ― Emath, sur l’Oronte, dans la Coelésyrie. ― Sépharvaïm ou les deux Sippara, aujourd’hui Tell Abou-Habba, au sud-ouest de Bagdad, un peu à l’est du lit actuel de l’Euphrate, autrefois sur l’Euphrate même. Les ruines couvrent une surface de plus de trois kilomètres de circonférence.
 
 25 Or lorsqu'ils commencèrent à y habiter, ils ne craignaient pas le Seigneur; et le Seigneur envoya contre eux les lions qui les tuaient. 26 On l'annonça au roi des Assyriens, et on lui dit : Les nations que vous avez transférées, et que vous avez fait habiter dans les villes de la Samarie, ignorent les lois du Dieu de ce pays; et le Seigneur a envoyé contre eux les lions qui les tuent, parce qu'ils ignorent le culte du Dieu de ce pays.
 

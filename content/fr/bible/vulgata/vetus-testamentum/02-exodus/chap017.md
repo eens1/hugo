@@ -9,7 +9,7 @@ draft: false
 
 2 Qui iurgatus contra Moysen, ait: Da nobis aquam, ut bibamus. Quibus respondit Moyses: Quid iurgamini contra me? cur tentatis Dominum?
 
-3 Sitivit ergo ibi populus præ aquæ penuria, et murmuravit contra Moysen, dicens: Cur fecisti nos exire de Ægypto, ut occideres nos, et liberos nostros, ac iumenta siti?
+3 Sitivit ergo ibi populus prae aquae penuria, et murmuravit contra Moysen, dicens: Cur fecisti nos exire de AEgypto, ut occideres nos, et liberos nostros, ac iumenta siti?
 
 4 Clamavit autem Moyses ad Dominum, dicens: Quid faciam populo huic? adhuc paululum, et lapidabit me.
 
@@ -31,9 +31,9 @@ draft: false
 
 13 Fugavitque Iosue Amalec, et populum eius in ore gladii.
 
-14 Dixit autem Dominus ad Moysen: Scribe hoc ob monimentum in libro, et trade auribus Iosue: delebo enim memoriam Amalec sub cælo.
+14 Dixit autem Dominus ad Moysen: Scribe hoc ob monimentum in libro, et trade auribus Iosue: delebo enim memoriam Amalec sub caelo.
 
-15 Ædificavitque Moyses altare: et vocavit nomen eius, Dominus exaltatio mea, dicens:
+15 AEdificavitque Moyses altare: et vocavit nomen eius, Dominus exaltatio mea, dicens:
 
 16 Quia manus solii Domini, et bellum Domini erit contra Amalec, a generatione in generationem.
 

@@ -13,23 +13,23 @@ draft: false
 
 4 Timuerunt illi vehementer, et dixerunt: Ecce duo reges non potuerunt stare coram eo, et quo modo nos valebimus resistere?
 
-5 Miserunt ergo præpositi domus, et præfecti civitatis, et maiores natu, et nutritii, ad Iehu, dicentes: Servi tui sumus, quæcumque iusseris faciemus, nec constituemus nobis regem: quæcumque tibi placent, fac.
+5 Miserunt ergo praepositi domus, et praefecti civitatis, et maiores natu, et nutritii, ad Iehu, dicentes: Servi tui sumus, quaecumque iusseris faciemus, nec constituemus nobis regem: quaecumque tibi placent, fac.
 
 6 Rescripsit autem eis litteras secundo, dicens: Si mei estis, et obeditis mihi, tollite capita filiorum domini vestri, et venite ad me hac eadem hora cras in Iezrahel. Porro filii regis, septuaginta viri apud optimates civitates nutriebantur.
 
 7 Cumque venissent litteras ad eos, tulerunt filios regis, et occiderunt septuaginta viros, et posuerunt capita eorum in cophinis, et miserunt ad eum in Iezrahel.
 
-8 Venit autem nuncius, et indicavit ei, dicens: Attulerunt capita filiorum regis. Qui respondit: Ponite ea ad duos acervos iuxta introitum portæ usque mane.
+8 Venit autem nuncius, et indicavit ei, dicens: Attulerunt capita filiorum regis. Qui respondit: Ponite ea ad duos acervos iuxta introitum portae usque mane.
 
 9 Cumque diluxisset, egressus est, et stans dixit ad omnem populum: Iusti estis: si ego coniuravi contra dominum meum, et interfeci eum, quis percussit omnes hos?
 
-10 Videte ergo nunc quoniam non cecidit de sermonibus Domini in terram, quos locutus est Dominus super domum Achab, et Dominus fecit quod locutus est in manu servi sui Eliæ.
+10 Videte ergo nunc quoniam non cecidit de sermonibus Domini in terram, quos locutus est Dominus super domum Achab, et Dominus fecit quod locutus est in manu servi sui Eliae.
 
-11 Percussit igitur Iehu omnes, qui reliqui erant de domo Achab in Iezrahel, et universos optimates eius, et notos, et sacerdotes, donec non remanerent ex eo reliquiæ.
+11 Percussit igitur Iehu omnes, qui reliqui erant de domo Achab in Iezrahel, et universos optimates eius, et notos, et sacerdotes, donec non remanerent ex eo reliquiae.
 
 12 Et surrexit, et venit in Samariam: cumque venisset ad Cameram pastorum in via,
 
-13 invenit fratres Ochoziæ regis Iuda, dixitque ad eos: Quinam estis vos? Qui responderunt: Fratres Ochoziæ sumus, et descendimus ad salutandos filios regis, et filios reginæ.
+13 invenit fratres Ochoziae regis Iuda, dixitque ad eos: Quinam estis vos? Qui responderunt: Fratres Ochoziae sumus, et descendimus ad salutandos filios regis, et filios reginae.
 
 14 Qui ait: Comprehendite eos vivos. Quos cum comprehendissent vivos, iugulaverunt eos in cisterna iuxta Cameram, quadraginta duos viros, et non reliquit ex eis quemquam.
 
@@ -51,27 +51,27 @@ draft: false
 
 23 Ingressusque Iehu, et Ionadab filius Rechab templum Baal, ait cultoribus Baal: Perquirite, et videte, ne quis forte vobiscum sit de servis Domini, sed ut sint servi Baal soli.
 
-24 Ingressi sunt igitur ut facerent victimas et holocausta: Iehu autem præparaverat sibi foris octoginta viros, et dixerat eis: Quicumque fugerit de hominibus his, quos ego adduxero in manus vestras, anima eius erit pro anima illius.
+24 Ingressi sunt igitur ut facerent victimas et holocausta: Iehu autem praeparaverat sibi foris octoginta viros, et dixerat eis: Quicumque fugerit de hominibus his, quos ego adduxero in manus vestras, anima eius erit pro anima illius.
 
-25 Factum est autem, cum completum esset holocaustum, præcepit Iehu militibus et ducibus suis: Ingredimini, et percutite eos, nullus evadat. Percusseruntque eos in ore gladii, et proiecerunt milites et duces: et ierunt in civitatem templi Baal,
+25 Factum est autem, cum completum esset holocaustum, praecepit Iehu militibus et ducibus suis: Ingredimini, et percutite eos, nullus evadat. Percusseruntque eos in ore gladii, et proiecerunt milites et duces: et ierunt in civitatem templi Baal,
 
 26 et protulerunt statuam de fano Baal, et combusserunt,
 
-27 et comminuerunt eam. Destruxerunt quoque ædem Baal, et fecerunt pro ea latrinas usque in diem hanc.
+27 et comminuerunt eam. Destruxerunt quoque aedem Baal, et fecerunt pro ea latrinas usque in diem hanc.
 
 28 Delevit itaque Iehu Baal de Israel:
 
 29 verumtamen a peccatis Ieroboam filii Nabat, qui peccare fecit Israel, non recessit, nec dereliquit vitulos aureos, qui erant in Bethel, et in Dan.
 
-30 Dixit autem Dominus ad Iehu: Quia studiose egisti quod rectum erat, et placebat in oculis meis, et omnia quæ erant in corde meo fecisti contra domum Achab: filii tui usque ad quartam generationem sedebunt super thronum Israel.
+30 Dixit autem Dominus ad Iehu: Quia studiose egisti quod rectum erat, et placebat in oculis meis, et omnia quae erant in corde meo fecisti contra domum Achab: filii tui usque ad quartam generationem sedebunt super thronum Israel.
 
 31 Porro Iehu non custodivit ut ambularet in lege Domini Dei Israel in toto corde suo: non enim recessit a peccatis Ieroboam, qui peccare fecerat Israel.
 
-32 In diebus illis cœpit Dominus tædere super Israel: percussitque eos Hazael in universis finibus Israel,
+32 In diebus illis coepit Dominus taedere super Israel: percussitque eos Hazael in universis finibus Israel,
 
-33 a Iordane contra Orientalem plagam, omnem Terram Galaad, et Gad, et Ruben, et Manasse, ab Aroer, quæ est super Torrentem Arnon, et Galaad, et Basan.
+33 a Iordane contra Orientalem plagam, omnem Terram Galaad, et Gad, et Ruben, et Manasse, ab Aroer, quae est super Torrentem Arnon, et Galaad, et Basan.
 
-34 Reliqua autem verborum Iehu, et universa quæ fecit, et fortitudo eius, nonne hæc scripta sunt in Libro verborum dierum regum Israel?
+34 Reliqua autem verborum Iehu, et universa quae fecit, et fortitudo eius, nonne haec scripta sunt in Libro verborum dierum regum Israel?
 
 35 Et dormivit Iehu cum patribus suis, sepelieruntque eum in Samaria: et regnavit Ioachaz filius eius pro eo.
 

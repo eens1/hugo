@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 Fili mi, attende ad sapientiam meam, et prudentiæ meæ inclina aurem tuam,
+1 Fili mi, attende ad sapientiam meam, et prudentiae meae inclina aurem tuam,
 
-2 ut custodias cogitationes, et disciplinam labia tua conservent. Ne attendas fallaciæ mulieris.
+2 ut custodias cogitationes, et disciplinam labia tua conservent. Ne attendas fallaciae mulieris.
 
 3 favus enim distillans labia meretricis, et nitidius oleo guttur eius.
 
@@ -15,7 +15,7 @@ draft: false
 
 5 Pedes eius descendunt in mortem, et ad inferos gressus illius penetrant.
 
-6 Per semitam vitæ non ambulant, vagi sunt gressus eius, et investigabiles.
+6 Per semitam vitae non ambulant, vagi sunt gressus eius, et investigabiles.
 
 7 Nunc ergo fili mi audi me, et ne recedas a verbis oris mei.
 
@@ -31,7 +31,7 @@ draft: false
 
 13 nec audivi vocem docentium me, et magistris non inclinavi aurem meam?
 
-14 Pene fui in omni malo, in medio ecclesiæ et synagogæ.
+14 Pene fui in omni malo, in medio ecclesiae et synagogae.
 
 15 Bibe aquam de cisterna tua, et fluenta putei tui:
 
@@ -39,7 +39,7 @@ draft: false
 
 17 Habeto eas solus, nec sint alieni participes tui.
 
-18 Sit vena tua benedicta, et lætare cum muliere adolescentiæ tuæ:
+18 Sit vena tua benedicta, et laetare cum muliere adolescentiae tuae:
 
 19 cerva charissima, et gratissimus hinnulus. ubera eius inebrient te in omni tempore, in amore eius delectare iugiter.
 
@@ -49,5 +49,5 @@ draft: false
 
 22 Iniquitates suas capiunt impium, et funibus peccatorum suorum constringitur.
 
-23 Ipse morietur, quia non habuit disciplinam, et in multitudine stultitiæ suæ decipietur.
+23 Ipse morietur, quia non habuit disciplinam, et in multitudine stultitiae suae decipietur.
 

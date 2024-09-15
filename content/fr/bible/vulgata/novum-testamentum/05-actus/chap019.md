@@ -11,7 +11,7 @@ draft: false
 
 3 Ille vero ait: In quo ergo baptizati estis? Qui dixerunt: In Ioannis baptismate.
 
-4 Dixit autem Paulus: Ioannes baptizavit baptismo pœnitentiæ populum, dicens: In eum, qui venturus esset post ipsum, ut crederent, hoc est, in Iesum.
+4 Dixit autem Paulus: Ioannes baptizavit baptismo poenitentiae populum, dicens: In eum, qui venturus esset post ipsum, ut crederent, hoc est, in Iesum.
 
 5 His auditis, baptizati sunt in nomine Domini Iesu.
 
@@ -23,21 +23,21 @@ draft: false
 
 9 Cum autem quidam indurarentur, et non crederent, maledicentes viam Domini coram multitudine, discedens ab eis, segregavit discipulos, quotidie disputans in schola tyranni cuiusdam.
 
-10 Hoc autem factum est per biennium, ita ut omnes, qui habitabant in Asia, audirent verbum Domini, Iudæi atque Gentiles.
+10 Hoc autem factum est per biennium, ita ut omnes, qui habitabant in Asia, audirent verbum Domini, Iudaei atque Gentiles.
 
 11 Virtutesque non quaslibet faciebat Deus per manum Pauli:
 
 12 ita ut etiam super languidos deferrentur a corpore eius sudaria, et semicinctia, et recedebant ab eis languores, et spiritus nequam egrediebantur.
 
-13 Tentaverunt autem quidam et de circumeuntibus Iudæis exorcistis, invocare super eos, qui habebant spiritus malos, nomen Domini Iesu, dicentes: Adiuro vos per Iesum, quem Paulus prædicat.
+13 Tentaverunt autem quidam et de circumeuntibus Iudaeis exorcistis, invocare super eos, qui habebant spiritus malos, nomen Domini Iesu, dicentes: Adiuro vos per Iesum, quem Paulus praedicat.
 
-14 Erant autem quidam Iudæi Scevæ principis sacerdotum septem filii, qui hoc faciebant.
+14 Erant autem quidam Iudaei Scevae principis sacerdotum septem filii, qui hoc faciebant.
 
 15 Respondens autem spiritus nequam dixit eis: Iesum novi, et Paulum scio: vos autem qui estis?
 
-16 Et insiliens in eos homo, in quo erat dæmonium pessimum, et dominatus amborum, invaluit contra eos, ita ut nudi, et vulnerati effugerent de domo illa.
+16 Et insiliens in eos homo, in quo erat daemonium pessimum, et dominatus amborum, invaluit contra eos, ita ut nudi, et vulnerati effugerent de domo illa.
 
-17 Hoc autem notum factum est omnibus Iudæis, atque Gentilibus, qui habitabant Ephesi: et cecidit timor super omnes illos, et magnificabatur nomen Domini Iesu.
+17 Hoc autem notum factum est omnibus Iudaeis, atque Gentilibus, qui habitabant Ephesi: et cecidit timor super omnes illos, et magnificabatur nomen Domini Iesu.
 
 18 Multique credentium veniebant, confitentes, et annunciantes actus suos.
 
@@ -51,13 +51,13 @@ draft: false
 
 23 Facta est autem illo tempore turbatio non minima de via Domini.
 
-24 Demetrius enim quidam nomine, argentarius, faciens ædes argenteas Dianæ, præstabat artificibus non modicum quæstum:
+24 Demetrius enim quidam nomine, argentarius, faciens aedes argenteas Dianae, praestabat artificibus non modicum quaestum:
 
 25 quos convocans, et eos, qui huiusmodi erant opifices, dixit: Viri, scitis quia de hoc artificio est nobis acquisitio:
 
-26 et videtis, et auditis quia non solum Ephesi, sed pene totius Asiæ, Paulus hic suadens avertit multam turbam, dicens: Quoniam non sunt dii, qui manibus fiunt.
+26 et videtis, et auditis quia non solum Ephesi, sed pene totius Asiae, Paulus hic suadens avertit multam turbam, dicens: Quoniam non sunt dii, qui manibus fiunt.
 
-27 Non solum autem hæc periclitabitur nobis pars in redargutionem venire, sed et magnæ Dianæ templum in nihilum reputabitur, sed et destrui incipiet maiestas eius, quam tota Asia, et orbis colit.
+27 Non solum autem haec periclitabitur nobis pars in redargutionem venire, sed et magnae Dianae templum in nihilum reputabitur, sed et destrui incipiet maiestas eius, quam tota Asia, et orbis colit.
 
 28 His auditis, repleti sunt ira, et exclamaverunt dicentes: Magna Diana Ephesiorum.
 
@@ -65,15 +65,15 @@ draft: false
 
 30 Paulo autem volente intrare in populum, non permiserunt discipuli.
 
-31 Quidam autem et de Asiæ principibus, qui erant amici eius, miserunt ad eum rogantes ne se daret in theatrum:
+31 Quidam autem et de Asiae principibus, qui erant amici eius, miserunt ad eum rogantes ne se daret in theatrum:
 
 32 alii autem aliud clamabant. Erat enim Ecclesia confusa: et plures nesciebant qua ex causa convenissent.
 
-33 De turba autem detraxerunt Alexandrum, propellentibus eum Iudæis. Alexander autem manu silentio postulato, volebat reddere rationem populo.
+33 De turba autem detraxerunt Alexandrum, propellentibus eum Iudaeis. Alexander autem manu silentio postulato, volebat reddere rationem populo.
 
-34 Quem ut cognoverunt Iudæum esse, vox facta una est omnium, quasi per horas duas clamantium: Magna Diana Ephesiorum.
+34 Quem ut cognoverunt Iudaeum esse, vox facta una est omnium, quasi per horas duas clamantium: Magna Diana Ephesiorum.
 
-35 Et cum sedasset scriba turbas, dixit: Viri Ephesii, quis enim est hominum, qui nesciat Ephesiorum civitatem cultricem esse magnæ Dianæ, Iovisque prolis?
+35 Et cum sedasset scriba turbas, dixit: Viri Ephesii, quis enim est hominum, qui nesciat Ephesiorum civitatem cultricem esse magnae Dianae, Iovisque prolis?
 
 36 Cum ergo his contradici non possit, oportet vos sedatos esse, et nihil temere agere.
 
@@ -81,7 +81,7 @@ draft: false
 
 38 Quod si Demetrius, et qui cum eo sunt artifices, habent adversus aliquem causam, conventus forenses aguntur, et proconsules sunt, accusent invicem.
 
-39 Si quid autem alterius rei quæritis: in legitima Ecclesia poterit absolvi.
+39 Si quid autem alterius rei quaeritis: in legitima Ecclesia poterit absolvi.
 
-40 Nam et periclitamur argui seditionis hodiernæ: cum nullus obnoxius sit (de quo possimus reddere rationem) concursus istius. Et cum hæc dixisset, dimisit Ecclesiam.
+40 Nam et periclitamur argui seditionis hodiernae: cum nullus obnoxius sit (de quo possimus reddere rationem) concursus istius. Et cum haec dixisset, dimisit Ecclesiam.
 

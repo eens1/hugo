@@ -13,7 +13,7 @@ draft: false
 
 4 Vectes quoque fecit de lignis setim, quos vestivit auro,
 
-5 et quos misit in annulos, qui erant in lateribus arcæ ad portandum eam.
+5 et quos misit in annulos, qui erant in lateribus arcae ad portandum eam.
 
 6 Fecit et propitiatorium, idest, oraculum, de auro mundissimo, duorum cubitorum et dimidii in longitudine, et cubiti ac semis in latitudine.
 
@@ -23,33 +23,33 @@ draft: false
 
 9 extendentes alas, et tegentes propitiatorium, seque mutuo et illud respicientes.
 
-10 Fecit et mensam de lignis setim in longitudine duorum cubitorum, et in latitudine unius cubiti, quæ habebat in altitudine cubitum ac semissem.
+10 Fecit et mensam de lignis setim in longitudine duorum cubitorum, et in latitudine unius cubiti, quae habebat in altitudine cubitum ac semissem.
 
 11 circumdeditque eam auro mundissimo, et fecit illi labium aureum per gyrum,
 
 12 ipsique labio coronam auream interrasilem quattuor digitorum, et super eamdem, alteram coronam auream.
 
-13 Fudit et quattuor circulos aureos, quos posuit in quattuor angulis per singulos pedes mensæ
+13 Fudit et quattuor circulos aureos, quos posuit in quattuor angulis per singulos pedes mensae
 
 14 contra coronam: misitque in eos vectes, ut possit mensa portari.
 
 15 Ipsos quoque vectes fecit de lignis setim, et circumdedit eos auro.
 
-16 Et vasa ad diversos usus mensæ, acetabula, phialas, et cyathos, et thuribula, ex auro puro, in quibus offerenda sunt libamina.
+16 Et vasa ad diversos usus mensae, acetabula, phialas, et cyathos, et thuribula, ex auro puro, in quibus offerenda sunt libamina.
 
-17 Fecit et candelabrum ductile de auro mundissimo. De cuius vecte calami, scyphi, sphærulæque ac lilia procedebant:
+17 Fecit et candelabrum ductile de auro mundissimo. De cuius vecte calami, scyphi, sphaerulaeque ac lilia procedebant:
 
 18 sex in utroque latere, tres calami ex parte una, et tres ex altera:
 
-19 tres scyphi in nucis modum per calamos singulos, sphærulæque simul et lilia: et tres scyphi instar nucis in calamo altero, sphærulæque simul et lilia. Æquum erat opus sex calamorum, qui procedebant de stipite candelabri.
+19 tres scyphi in nucis modum per calamos singulos, sphaerulaeque simul et lilia: et tres scyphi instar nucis in calamo altero, sphaerulaeque simul et lilia. AEquum erat opus sex calamorum, qui procedebant de stipite candelabri.
 
-20 In ipso autem vecte erant quattuor scyphi in nucis modum, sphærulæque per singulos simul et lilia:
+20 In ipso autem vecte erant quattuor scyphi in nucis modum, sphaerulaeque per singulos simul et lilia:
 
-21 et sphærulæ sub duobus calamis per loca tria, qui simul sex fiunt calami procedentes de vecte uno.
+21 et sphaerulae sub duobus calamis per loca tria, qui simul sex fiunt calami procedentes de vecte uno.
 
-22 et sphærulæ igitur, et calami ex ipso erant, universa ductilia ex auro purissimo.
+22 et sphaerulae igitur, et calami ex ipso erant, universa ductilia ex auro purissimo.
 
-23 Fecit et lucernas septem cum emunctoriis suis, et vasa ubi ea quæ emuncta sunt, extinguantur, de auro mundissimo.
+23 Fecit et lucernas septem cum emunctoriis suis, et vasa ubi ea quae emuncta sunt, extinguantur, de auro mundissimo.
 
 24 Talentum auri appendebat candelabrum cum omnibus vasis suis.
 

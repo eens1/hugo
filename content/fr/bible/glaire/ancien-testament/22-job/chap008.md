@@ -37,7 +37,7 @@ summary: |
 
 ***Note*** :  Job 8, 9 : Voir Job, 14, 2 ; Psaumes, 143, 4.
 
-10 Et eux-mêmes t'instruiront; ils te parleront, et c'est de leur cœur qu'ils tireront leurs paroles11 Est-ce que le jonc peut verdir sans humidité, ou le carex croître sans eau?
+10 Et eux-mêmes t'instruiront; ils te parleront, et c'est de leur coeur qu'ils tireront leurs paroles11 Est-ce que le jonc peut verdir sans humidité, ou le carex croître sans eau?
 
 ***Note*** :  Job 8, 11 : Carex, espèce de jonc.
 

@@ -13,9 +13,9 @@ summary: |
 ***Note*** :  Ps. 25, 1 : David innocent, éloigné de Sion, demande à Dieu de pouvoir le louer dans sa maison sainte. Composé probablement pendant la révolte d’Absalom. Voir 2 Rois, 15, 6-25. David regrette de ne pouvoir plus louer Dieu dans son Tabernacle : c’est là le sentiment principal de ce psaume.
 
 
-2 Eprouvez-moi, Seigneur, et sondez-moi ; brûlez mes reins et mon cœur.
+2 Eprouvez-moi, Seigneur, et sondez-moi ; brûlez mes reins et mon coeur.
 
-***Note*** :  Ps. 25, 2 : Brûlez, etc. ; passez par le feu mes reins et mon cœur, comme on y passe les métaux pour les épurer ; vous n’y trouverez rien de faux. Ou bien, comme les reins et le cœur marquent les affections et les pensées : Exposez-moi au feu des afflictions, et purifiez-moi des souillures et des affections terrestres.
+***Note*** :  Ps. 25, 2 : Brûlez, etc. ; passez par le feu mes reins et mon coeur, comme on y passe les métaux pour les épurer ; vous n’y trouverez rien de faux. Ou bien, comme les reins et le coeur marquent les affections et les pensées : Exposez-moi au feu des afflictions, et purifiez-moi des souillures et des affections terrestres.
 
 3 Parce que votre miséricorde est devant mes yeux; et je me suis complu dans votre vérité.
 

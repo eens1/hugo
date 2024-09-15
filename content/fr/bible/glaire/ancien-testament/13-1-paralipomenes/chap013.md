@@ -24,9 +24,9 @@ summary: |
 ***Note*** :  I Par. 13, 8 : Psaltérions, espèces de harpe.
 
 
-9 Mais, lorsqu'on fut parvenu à l'aire de Chidon, Oza tendit sa main pour soutenir l'arche ; car un bœuf bondissant l'avait fait un peu pencher.
+9 Mais, lorsqu'on fut parvenu à l'aire de Chidon, Oza tendit sa main pour soutenir l'arche ; car un boeuf bondissant l'avait fait un peu pencher.
 
-***Note*** :  I Par. 13, 9 : Un bœuf, etc. Dans le passage parallèle, voir 2 Rois, 6, 6, la Vulgate porte comme l’hébreu, dans les deux endroits : Les bœufs regimbaient.
+***Note*** :  I Par. 13, 9 : Un boeuf, etc. Dans le passage parallèle, voir 2 Rois, 6, 6, la Vulgate porte comme l’hébreu, dans les deux endroits : Les boeufs regimbaient.
 
 10 C'est pourquoi le Seigneur fut irrité contre Oza, et le frappa, parce qu'il avait touché l'arche : et il mourut là devant le Seigneur. 11 Et David fut contristé de ce que le Seigneur avait divisé Oza ; et il appela ce lieu : Division d'Oza, comme il a été appelé jusqu'au présent jour.
 

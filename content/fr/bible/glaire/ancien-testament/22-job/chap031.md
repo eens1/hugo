@@ -20,14 +20,14 @@ summary: |
 ***Note*** :  Job 31, 6 : Ma simplicité ; c’est-à-dire ma droiture, mon innocence.
 
 
-7 Que si mon pas s'est détourné de la voie, et si mon cœur a suivi mes yeux, et si à mes mains s'est attachée quelque souillure ;
+7 Que si mon pas s'est détourné de la voie, et si mon coeur a suivi mes yeux, et si à mes mains s'est attachée quelque souillure ;
 
 ***Note*** :  Job 31, 7 : La voie droite, juste.
 
 8 Que je sème et qu'un autre mange, et que ma race soit arrachée jusqu'à la racine.
 
 
-9 Si mon cœur a été séduit au sujet d'une femme, et si à la porte de mon ami j'ai dressé des embûches ; 10 Que ma femme soit la prostituée d'un autre, et que d'autres la déshonorent. 11 Car l'adultère est un crime énorme, et une iniquité très grande.
+9 Si mon coeur a été séduit au sujet d'une femme, et si à la porte de mon ami j'ai dressé des embûches ; 10 Que ma femme soit la prostituée d'un autre, et que d'autres la déshonorent. 11 Car l'adultère est un crime énorme, et une iniquité très grande.
 
 ***Note*** :  Job 31, 11 : L’adultère ; littéralement Cela (hoc), ce dont Job vient de parler. Or c’est l’adultère qu’il a désigné dans les deux versets précédents.
 
@@ -54,7 +54,7 @@ summary: |
 ***Note*** :  Job 31, 23 : Ce verset et les suivants sont encore des phrases conditionnelles entremêlées de parenthèses, dont le sens est suspendu, jusqu’au verset 35, qui leur sert de conclusion.
 
 
-24 Si j'ai pris l'or pour ma force, et si j'ai dit à l'or affiné : Tu es ma confiance :25 Si je me suis livré à l'allégresse à cause de mes abondantes richesses, et parce que ma main a trouvé des biens en très grand nombre ; 26 Si j'ai vu le soleil, lorsqu'il brillait de son vif éclat, et la lune marchant dans son clair, 27 Et si mon cœur s'est livré à la joie en secret, et si j'ai baisé ma main de ma bouche ;
+24 Si j'ai pris l'or pour ma force, et si j'ai dit à l'or affiné : Tu es ma confiance :25 Si je me suis livré à l'allégresse à cause de mes abondantes richesses, et parce que ma main a trouvé des biens en très grand nombre ; 26 Si j'ai vu le soleil, lorsqu'il brillait de son vif éclat, et la lune marchant dans son clair, 27 Et si mon coeur s'est livré à la joie en secret, et si j'ai baisé ma main de ma bouche ;
 
 ***Note*** :  Job 31, 27 : Les peuples anciens qui adoraient les astres, étendaient ordinairement la main vers eux et la portaient ensuite à leur bouche pour la baiser.
 

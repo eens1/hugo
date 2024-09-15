@@ -39,7 +39,7 @@ summary: |
 
 ***Note*** :  II Macc. 9, 6 : Très justement. C’est le vrai sens des mots satis juste, expliqués par le grec et même par l’hébreu. Comparer à 1 Machabées, 7, 21.
 
-7 Mais, outre cela, rempli d'orgueil, respirant en son cœur feu et flamme contre les Juifs, et comme il ordonna qu'on précipitât sa marche, il arriva qu'en allant avec impétuosité, il tomba de son char, et que par le choc terrible de son corps ses membres furent meurtris. 8 Ainsi celui qui se figurait qu'il commandait même aux flots de la mer, plein d'un orgueil dépassant la limite de l'orgueil humain, et qui pesait dans une balance les hauteurs des montagnes, alors humilié jusqu'à terre, était porté dans une litière, attestant dans sa personne la vertu manifeste de Dieu ;
+7 Mais, outre cela, rempli d'orgueil, respirant en son coeur feu et flamme contre les Juifs, et comme il ordonna qu'on précipitât sa marche, il arriva qu'en allant avec impétuosité, il tomba de son char, et que par le choc terrible de son corps ses membres furent meurtris. 8 Ainsi celui qui se figurait qu'il commandait même aux flots de la mer, plein d'un orgueil dépassant la limite de l'orgueil humain, et qui pesait dans une balance les hauteurs des montagnes, alors humilié jusqu'à terre, était porté dans une litière, attestant dans sa personne la vertu manifeste de Dieu ;
 
 ***Note*** :  II Macc. 9, 8 : Les hauteurs des montagnes ; hébraïsme, pour, les montagnes très élevées.
 
@@ -53,7 +53,7 @@ summary: |
 
 12 Et comme lui-même ne pouvait plus souffrir son infection, il dit : Il est juste d'être soumis à Dieu, et qu'un mortel ne se croie pas égal à Dieu. 13 Or ce criminel priait le Seigneur, de qui il ne devait pas obtenir miséricorde.
 
-***Note*** :  II Macc. 9, 13 : De qui, etc. ; parce que sa prière était l’effet de l’excès de son mal, mais nullement de la conversion de son cœur. Les rendre égaux ou semblables aux Athéniens, leur accorder l’indépendance et l’autonomie.
+***Note*** :  II Macc. 9, 13 : De qui, etc. ; parce que sa prière était l’effet de l’excès de son mal, mais nullement de la conversion de son coeur. Les rendre égaux ou semblables aux Athéniens, leur accorder l’indépendance et l’autonomie.
 
 14 Et la cité vers laquelle il venait en se hâtant, afin de l'abaisser jusqu'au sol, et d'en faire un sépulcre de cadavres amoncelés, il souhaite maintenant de la rendre libre. 15 Et les Juifs, dont il avait dit qu'il ne les traiterait pas comme étant dignes de la sépulture, mais qu'il les livrerait aux oiseaux et aux bêtes féroces, pour être déchirés, et qu'il les exterminerait avec les plus petits enfants, il promet maintenant de les rendre égaux aux Athéniens; 16 Et le temple saint aussi, qu'il avait auparavant pillé, il promet de l'orner de dons précieux, de multiplier les vases sacrés, et de fournir de ses revenus aux dépenses relatives aux sacrifices; 17 Outre cela, de se faire Juif et de parcourir tous les lieux de la terre, pour publier la puissance de Dieu.
 

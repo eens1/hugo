@@ -24,7 +24,7 @@ summary: |
 
 10 Et le Seigneur parla à Moïse, disant :11 Entre, et parle à Pharaon, roi d'Egypte, pour qu'il laisse sortir les enfants d'Israël de son pays. 12 Moïse répondit devant le Seigneur : Voilà que les enfants d'Israël ne m'écoutent pas : et comment Pharaon m'écoutera-t-il, surtout moi étant incirconcis des lèvres?
 
-***Note*** :  Ex. 6, 12 : La locution incirconcis des lèvres, de la bouche, des oreilles, du cœur, etc. , exprime une imperfection, une impureté, une indisposition dans ces parties, soit dans le sens physique, soit dans le sens naturel.
+***Note*** :  Ex. 6, 12 : La locution incirconcis des lèvres, de la bouche, des oreilles, du coeur, etc. , exprime une imperfection, une impureté, une indisposition dans ces parties, soit dans le sens physique, soit dans le sens naturel.
 
 
 13 C'est ainsi que le Seigneur parla à Moïse et Aaron et qu'il leur donna ses ordres pour les enfants d'Israël et pour Pharaon, roi d'Egypte, afin qu'ils fissent sortir les enfants d'Israël de la terre d'Egypte.
@@ -54,7 +54,7 @@ summary: |
 20 Or Amram prit pour femme Jochabed, fille de son oncle paternel, laquelle lui enfanta Aaron et Moïse. Et les années de la vie d'Amram furent cent trente-sept. 21 Les fils d'Isaar : Coré, Nepheg et Zéchri. 22 Les fils d'Oziel : Misaël, Elisaphan et Séthri
 
 
-23 Or Aaron prit pour femme Elisabeth, fille d'Aminadab, sœur de Nahasson, laquelle lui enfanta Nadab, Abiu, Eléazar et Ithamar.
+23 Or Aaron prit pour femme Elisabeth, fille d'Aminadab, soeur de Nahasson, laquelle lui enfanta Nadab, Abiu, Eléazar et Ithamar.
 
 
 24 Les fils de Coré: Aser, Elcana, et Abiasaph : c'est là la parenté des Corites.

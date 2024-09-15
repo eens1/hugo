@@ -19,7 +19,7 @@ summary: |
 2 Jusques à quand, Seigneur, crierai-je et vous ne m'exaucerez pas, jusques à quand élèverai-je ma voix avec force vers vous, souffrant violence, et vous ne me sauverez pas? 3 Pourquoi m'avez-vous montré l'iniquité et la peine, pourquoi avez-vous fait voir la rapine et l'injustice devant moi? Il y a eu jugement, mais l'opposition a été plus puissante. 4 A cause de cela, la loi a été déchirée, et le jugement n'est pas parvenu à l'exécution, parce que l'impie prévaut contre le juste; c'est pourquoi il sort de la une décision injuste.
 
 
-5 Jetez les yeux sur les nations, et voyez ; admirez et soyez frappés de stupeur : parce qu'il s'est fait en vos jours une œuvre que personne ne croira lorsqu'elle sera racontée.
+5 Jetez les yeux sur les nations, et voyez ; admirez et soyez frappés de stupeur : parce qu'il s'est fait en vos jours une oeuvre que personne ne croira lorsqu'elle sera racontée.
 
 ***Note*** :  Hab. 1, 5 : Parce qu’il s’est fait, etc. Saint Paul fait usage de ces paroles (voir Actes des Apôtres, 13, 40-41), contre les Juifs incrédules, en leur annonçant les maux qui vont fondre sur eux, et dont ceux qui arrivèrent à leurs ancêtres par les armes des Chaldéens étaient la figure.
 

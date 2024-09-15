@@ -30,14 +30,14 @@ summary: |
 
 8 Car Jérusalem s'est écroulée et Juda est renversé; parce que leur langue et leurs inventions sont contre le Seigneur, afin d'irriter les yeux de sa majesté.
 
-***Note*** :  Is. 3, 8-10 : Inventions ; selon l’hébreu, actions, œuvres. Comparer à Deutéronome, 28, 20 ; Juges, 2, 19 ; Psaumes, 27, 4, etc.
+***Note*** :  Is. 3, 8-10 : Inventions ; selon l’hébreu, actions, oeuvres. Comparer à Deutéronome, 28, 20 ; Juges, 2, 19 ; Psaumes, 27, 4, etc.
 
 9 La vue de leur visage leur a répondu, et comme Sodome, ils ont publié leur péché et ne l'ont pas caché ; malheur à leur âme, parce que les maux qu'ils avaient faits leur ont été rendus.
 
 ***Note*** :  Is. 3, 9 : La vue de leur visage ; ou ce qu’on voit de leur visage ; littéralement la connaissance, ou ce qu’on connaît (agnitio). La paraphrase chaldaïque donne ce sens, et c’est très vraisemblablement celui du texte hébreu. ― Leur a répondu ; a répondu, a témoigné contre eux. ― Comme Sodome. Voir Genèse, note 13. 10.
 
 
-10 Dites au juste qu'il est heureux, parce qu'il goûtera le fruit de ses inventions. 11 Malheur à l'impie livré au mal ; car il recevra le salaire des œuvres de ses mains.
+10 Dites au juste qu'il est heureux, parce qu'il goûtera le fruit de ses inventions. 11 Malheur à l'impie livré au mal ; car il recevra le salaire des oeuvres de ses mains.
 
 
 12 Mon peuple a été dépouillé par ses exacteurs, et des femmes les ont dominés. Mon peuple, ceux qui te disent heureux, ceux-là même te trompent; ils détruisent la voie de tes pas.

@@ -5,27 +5,27 @@ draft: false
 ---
 
 
-1 Cum disperdiderit Dominus Deus tuus gentes, quarum tibi traditurus est terram, et possederis eam, habitaverisque in urbibus eius et in ædibus:
+1 Cum disperdiderit Dominus Deus tuus gentes, quarum tibi traditurus est terram, et possederis eam, habitaverisque in urbibus eius et in aedibus:
 
-2 tres civitates separabis tibi in medio Terræ, quam Dominus Deus tuus dabit tibi in possessionem,
+2 tres civitates separabis tibi in medio Terrae, quam Dominus Deus tuus dabit tibi in possessionem,
 
-3 sternens diligenter viam: et in tres æqualiter partes totam Terræ tuæ provinciam divides: ut habeat e vicino qui propter homicidium profugus est, quo possit evadere.
+3 sternens diligenter viam: et in tres aequaliter partes totam Terrae tuae provinciam divides: ut habeat e vicino qui propter homicidium profugus est, quo possit evadere.
 
-4 Hæc erit lex homicidæ fugientis, cuius vita servanda est: Qui percusserit proximum suum nesciens, et qui heri et nudiustertius nullum contra eum odium habuisse comprobatur:
+4 Haec erit lex homicidae fugientis, cuius vita servanda est: Qui percusserit proximum suum nesciens, et qui heri et nudiustertius nullum contra eum odium habuisse comprobatur:
 
-5 sed abiisse cum eo simpliciter in silvam ad ligna cædenda, et in succisione lignorum securis fugerit manu, ferrumque lapsum de manubrio amicum eius percusserit, et occiderit: hic ad unam supradictarum urbium confugiet, et vivet:
+5 sed abiisse cum eo simpliciter in silvam ad ligna caedenda, et in succisione lignorum securis fugerit manu, ferrumque lapsum de manubrio amicum eius percusserit, et occiderit: hic ad unam supradictarum urbium confugiet, et vivet:
 
 6 ne forsitan proximus eius, cuius effusus est sanguis, dolore stimulatus, persequatur, et apprehendat eum si longior via fuerit, et percutiat animam eius, qui non est reus mortis: quia nullum contra eum, qui occisus est, odium prius habuisse monstratur.
 
-7 Idcirco præcipio tibi, ut tres civitates æqualis inter se spatii dividas.
+7 Idcirco praecipio tibi, ut tres civitates aequalis inter se spatii dividas.
 
 8 Cum autem dilataverit Dominus Deus tuus terminos tuos, sicut iuravit patribus tuis, et dederit tibi cunctam Terram, quam eis pollicitus est
 
-9 (si tamen custodieris mandata eius, et feceris quæ hodie præcipio tibi, ut diligas Dominum Deum tuum, et ambules in viis eius omni tempore) addes tibi tres alias civitates, et supradictarum trium urbium numerum duplicabis:
+9 (si tamen custodieris mandata eius, et feceris quae hodie praecipio tibi, ut diligas Dominum Deum tuum, et ambules in viis eius omni tempore) addes tibi tres alias civitates, et supradictarum trium urbium numerum duplicabis:
 
-10 ut non effundatur sanguis innoxius in medio Terræ, quam Dominus Deus tuus dabit tibi possidendam, ne sis sanguinis reus.
+10 ut non effundatur sanguis innoxius in medio Terrae, quam Dominus Deus tuus dabit tibi possidendam, ne sis sanguinis reus.
 
-11 Si quis autem odio habens proximum suum, insidiatus fuerit vitæ eius, surgensque percusserit illum, et mortuus fuerit, fugeritque ad unam de supradictis urbibus,
+11 Si quis autem odio habens proximum suum, insidiatus fuerit vitae eius, surgensque percusserit illum, et mortuus fuerit, fugeritque ad unam de supradictis urbibus,
 
 12 mittent seniores civitatis illius, et arripient eum de loco effugii, tradentque in manu proximi, cuius sanguis effusus est, et morietur.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 Non stabit testis unus contra aliquem, quidquid illud peccati, et facinoris fuerit: sed in ore duorum aut trium testium stabit omne verbum.
 
-16 Si steterit testis mendax contra hominem, accusans eum prævaricationis,
+16 Si steterit testis mendax contra hominem, accusans eum praevaricationis,
 
 17 stabunt ambo, quorum causa est, ante Dominum in conspectu sacerdotum et iudicum qui fuerint in diebus illis.
 

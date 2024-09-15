@@ -33,7 +33,7 @@ summary: |
 
 ***Note*** :  Ps. 75, 5-7 : La gloire de Dieu brille éclatante ; il a terrassé soldats et cavaliers.
 
-6 Ils ont été troublés, tous les insensés de cœur. Ils ont dormi leur sommeil, et tous les hommes de richesses n'ont rien trouvé dans leurs mains.
+6 Ils ont été troublés, tous les insensés de coeur. Ils ont dormi leur sommeil, et tous les hommes de richesses n'ont rien trouvé dans leurs mains.
 
 ***Note*** :  Ps. 75, 6 : Ils ont dormi, etc. La manière prompte et miraculeuse dont l’armée de Sennachérib fut exterminée soutient très bien cette idée de sommeil.
 
@@ -55,7 +55,7 @@ summary: |
 
 ***Note*** :  Ps. 75, 11-13 : Remercions Dieu qui me fin à l’orgueil des rois.
 
-12 Faites des vœux au Seigneur votre Dieu, et accomplissez-les, vous tous qui, étant autour de lui, apportez des présents, à lui le terrible,
+12 Faites des voeux au Seigneur votre Dieu, et accomplissez-les, vous tous qui, étant autour de lui, apportez des présents, à lui le terrible,
 
 ***Note*** :  Ps. 75, 12-13 : Comparer à 2 Paralipomènes, 33, 21-23.
 

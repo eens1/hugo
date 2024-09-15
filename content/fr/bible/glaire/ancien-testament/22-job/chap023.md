@@ -47,9 +47,9 @@ summary: |
 
 ***Note*** :  Job 23, 14 : Un grand nombre de moyens semblables de m’affliger, sans que rien puisse s’y opposer.
 
-15 Et c'est pour cela qu'à sa face je suis troublé, et que, le considérant, je suis agité par la crainte. 16 Dieu a amolli mon cœur, et, le Tout-Puissant m'a épouvanté.
+15 Et c'est pour cela qu'à sa face je suis troublé, et que, le considérant, je suis agité par la crainte. 16 Dieu a amolli mon coeur, et, le Tout-Puissant m'a épouvanté.
 
-***Note*** :  Job 23, 16 : A amolli mon cœur ; lui a ôté toute sa force.
+***Note*** :  Job 23, 16 : A amolli mon coeur ; lui a ôté toute sa force.
 
 17 Car je n'ai pas péri à cause des ténèbres qui me pressent, et une obscurité n'a pas couvert ma face.
 

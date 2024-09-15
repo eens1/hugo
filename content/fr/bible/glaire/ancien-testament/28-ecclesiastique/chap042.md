@@ -7,7 +7,7 @@ summary: |
   Plusieurs choses dont il ne faut pas rougir.
   Attention qu’un père doit avoir pour ses filles.
   Fuir la compagnie des femmes.
-  Louanges des œuvres du Seigneur.
+  Louanges des oeuvres du Seigneur.
 ---
 
 
@@ -30,7 +30,7 @@ summary: |
 
 6 Sur une femme méchante il est bon de mettre un sceau.
 
-***Note*** :  Sir. 42, 6 : Sur une femme, etc. ; il est bon de tenir enfermée une femme légère dans ses mœurs.
+***Note*** :  Sir. 42, 6 : Sur une femme, etc. ; il est bon de tenir enfermée une femme légère dans ses moeurs.
 
 7 Où il y a beaucoup de mains, enferme, et tout ce que tu livreras, compte et pèse-le; mais ce que tu donneras et recevras, écris-le tout. 8 Ne rougis point de la correction de l'insensé et de l'imprudent, ni des vieillards qui sont jugés par de jeunes gens, et tu seras bien instruit en toutes choses, et approuvé en présence de tous les hommes.
 
@@ -49,11 +49,11 @@ summary: |
 ***Note*** :  Sir. 42, 14 : Vaut mieux, etc. ; il vaut mieux avoir à souffrir l’injustice d’un homme que de recevoir des bienfaits d’une femme, qui pourrait les faire payer bien cher. ― Et qu’une femme, etc. La plupart des traducteurs et des interprètes regardent cette dernière phrase comme un simple explicatif ; de sorte qu’il ne s’agirait que d’une seule et même femme ; la teneur du texte, qui est la même dans le grec et dans la version Sixtine, nous semble s’y opposer.
 
 
-15 Je me souviendrai donc des œuvres du Seigneur, et les choses que j'ai vues, je les annoncerai; dans les paroles du Seigneur sont ses ouvrages.
+15 Je me souviendrai donc des oeuvres du Seigneur, et les choses que j'ai vues, je les annoncerai; dans les paroles du Seigneur sont ses ouvrages.
 
-***Note*** :  Sir. 42, 15 : Dans les paroles du Seigneur ; c’est-à-dire dans les divines Ecritures sont racontées ses œuvres ; ou selon d’autres, par la parole du Seigneur sont produites, conservées et gouvernées ses œuvres ; mais nous pensons avec Bossuet que la première interprétation est plus conforme à ce qui suit.
+***Note*** :  Sir. 42, 15 : Dans les paroles du Seigneur ; c’est-à-dire dans les divines Ecritures sont racontées ses oeuvres ; ou selon d’autres, par la parole du Seigneur sont produites, conservées et gouvernées ses oeuvres ; mais nous pensons avec Bossuet que la première interprétation est plus conforme à ce qui suit.
 
-16 Le soleil en éclairant porte en tous lieux ses regards, et la gloire du Seigneur, remplit ses œuvres.
+16 Le soleil en éclairant porte en tous lieux ses regards, et la gloire du Seigneur, remplit ses oeuvres.
 
 ***Note*** :  Sir. 42, 16 : Le soleil répand partout sa lumière ; la gloire du Seigneur se répand dans tous ses ouvrages. Comparer à Psaumes, 18, 5-6 ; Habacuc, 3, 3.
 
@@ -69,7 +69,7 @@ summary: |
 
 ***Note*** :  Sir. 42, 21 : Qui est avant, etc. ; qui est avant tous les siècles, et qui sera dans tous les siècles.
 
-22 Et il n'éprouve pas de diminution, et il n'a besoin du conseil de personne. 23 Combien désirables sont ses œuvres ! et c'est comme une étincelle, ce qu'on peut en considérer. 24 Toutes ces œuvres vivent et demeurent pour jamais, et en toute circonstance nécessaire, toutes lui obéissent. 25 Toutes choses sont doubles, l'une est opposée à l'autre, mais il n'a rien fait de défectueux.
+22 Et il n'éprouve pas de diminution, et il n'a besoin du conseil de personne. 23 Combien désirables sont ses oeuvres ! et c'est comme une étincelle, ce qu'on peut en considérer. 24 Toutes ces oeuvres vivent et demeurent pour jamais, et en toute circonstance nécessaire, toutes lui obéissent. 25 Toutes choses sont doubles, l'une est opposée à l'autre, mais il n'a rien fait de défectueux.
 
 ***Note*** :  Sir. 42, 25 : Sont doubles ; comme composés de deux. Voir pour ce mot et les suivants, Ecclésiastique, 33, 15. ― Il n’a rien fait de défectueux ; au contraire cette diversité et cette opposition dans les choses de la nature, entretient entre elles un ordre et une harmonie admirables, qui prouvent la puissance et la sagesse de Dieu.
 

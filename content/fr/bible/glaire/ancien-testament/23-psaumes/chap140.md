@@ -19,9 +19,9 @@ summary: |
 ***Note*** :  Ps. 140, 2 : L’élévation de vos mains. Voir Psaumes, 62, 5.
 
 
-3 Mettez, Seigneur, une garde à ma bouche, et une porte autour de mes lèvres. 4 N'inclinez pas mon cœur à des paroles de malice, pour prétexter des excuses à mes péchés, Avec des hommes qui opèrent l'iniquité : et je n'aurai point de part à ce qu'ils recherchent le plus.
+3 Mettez, Seigneur, une garde à ma bouche, et une porte autour de mes lèvres. 4 N'inclinez pas mon coeur à des paroles de malice, pour prétexter des excuses à mes péchés, Avec des hommes qui opèrent l'iniquité : et je n'aurai point de part à ce qu'ils recherchent le plus.
 
-***Note*** :  Ps. 140, 4 : N’inclines pas mon cœur ; c’est-à-dire ne permettez pas que mon cœur se laisse aller. ― A ce qu’ils recherchent le plus ; littéralement aux choses de leurs choix (cum electi eorum) ; selon l’hébreu, à leurs mets délicats, suaves, exquis.
+***Note*** :  Ps. 140, 4 : N’inclines pas mon coeur ; c’est-à-dire ne permettez pas que mon coeur se laisse aller. ― A ce qu’ils recherchent le plus ; littéralement aux choses de leurs choix (cum electi eorum) ; selon l’hébreu, à leurs mets délicats, suaves, exquis.
 
 
 5 Le juste me reprendra dans sa bonté, et il me corrigera; mais l'huile d'un pécheur ne parfumera pas ma tête. Parce que j'opposerai encore même ma prière contre les choses dans lesquelles ils se plaisent;

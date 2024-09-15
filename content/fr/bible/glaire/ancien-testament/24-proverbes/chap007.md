@@ -14,24 +14,24 @@ summary: |
 
 ***Note*** :  Prov. 7, 1-27 : Contre l’impureté.
 
-2 Observe mes commandements et tu vivras; et garde ma loi comme la pupille de ton œil :3 Lie-la à tes doigts, écris-la sur les tables de ton cœur.
+2 Observe mes commandements et tu vivras; et garde ma loi comme la pupille de ton oeil :3 Lie-la à tes doigts, écris-la sur les tables de ton coeur.
 
 ***Note*** :  Prov. 7, 3 : Lie-la, etc. Comparer à Exode, 13, 16 (? ) ; Deutéronome, 6, 8.
 
-4 Dis à la sagesse : Ma sœur ; et la prudence, appelle-la ton amie :5 Afin qu'elle te préserve d'une femme du dehors, et d'une étrangère, qui rend ses paroles douces.
+4 Dis à la sagesse : Ma soeur ; et la prudence, appelle-la ton amie :5 Afin qu'elle te préserve d'une femme du dehors, et d'une étrangère, qui rend ses paroles douces.
 
-***Note*** :  Prov. 7, 5 : D’une femme, etc. Par les versets 19 et 20, on voit qu’il est question ici d’une femme mariée, mais déréglée dans ses mœurs.
+***Note*** :  Prov. 7, 5 : D’une femme, etc. Par les versets 19 et 20, on voit qu’il est question ici d’une femme mariée, mais déréglée dans ses moeurs.
 
 
 6 Car de la fenêtre de ma maison par les barreaux, j'ai regardé,
 
 ***Note*** :  Prov. 7, 6 : Par les barreaux. Dans la Palestine, il n’y avait pas de vitres aux fenêtres, à cause de la grande chaleur ; on les fermait par des jalousies et des rideaux.
 
-7 Et je vois les petits enfants, je considère un jeune homme sans cœur,
+7 Et je vois les petits enfants, je considère un jeune homme sans coeur,
 
-***Note*** :  Prov. 7, 7 : Sans cœur (vecors), ou sans intelligence ; c’est-à-dire insensé ; car le terme hébreu, qui signifie proprement cœur, se prend souvent pour intelligence, sagesse.
+***Note*** :  Prov. 7, 7 : Sans coeur (vecors), ou sans intelligence ; c’est-à-dire insensé ; car le terme hébreu, qui signifie proprement coeur, se prend souvent pour intelligence, sagesse.
 
-8 Qui passe dans une rue au coin, et s'avance vers la maison de cette femme, 9 A la brume, sur le soir, dans les ténèbres de la nuit et une obscurité profonde. 10 Et voilà qu'au-devant de lui va une femme d'une parure de courtisane, prête à ravir des âmes ; causeuse et vagabonde, 11 Inquiète, ne pouvant dans sa maison se tenir sur ses pieds, 12 Tantôt dehors, tantôt dans les places publiques, tantôt aux coins des rues, tendant ses pièges. 13 Et prenant le jeune homme, elle lui donne un baiser, et, d'un visage effronté, elle le flatte, disant :14 J'avais voué des victimes pour ton salut; aujourd'hui j'ai acquitté mes vœux;
+8 Qui passe dans une rue au coin, et s'avance vers la maison de cette femme, 9 A la brume, sur le soir, dans les ténèbres de la nuit et une obscurité profonde. 10 Et voilà qu'au-devant de lui va une femme d'une parure de courtisane, prête à ravir des âmes ; causeuse et vagabonde, 11 Inquiète, ne pouvant dans sa maison se tenir sur ses pieds, 12 Tantôt dehors, tantôt dans les places publiques, tantôt aux coins des rues, tendant ses pièges. 13 Et prenant le jeune homme, elle lui donne un baiser, et, d'un visage effronté, elle le flatte, disant :14 J'avais voué des victimes pour ton salut; aujourd'hui j'ai acquitté mes voeux;
 
 ***Note*** :  Prov. 7, 14 : J’avais voué, etc. Elle engage hypocritement le jeune homme à manger avec elle la partie des victimes qui, d’après la loi mosaïque (voir Lévitique, 7, verset 15 et suivants ; 19, 6 ; 22, 29-30), lui revenait de son sacrifice.
 
@@ -47,7 +47,7 @@ summary: |
 
 ***Note*** :  Prov. 7, 20 : A la pleine lune, dans une quinzaine environ, car d’après le verset 9, l’obscurité est profonde ; on est donc au dernier quartier de la lune ou à la nouvelle lune.
 
-21 Elle l'a enlacé par la multitude de ses paroles; et par les flatteries de ses lèvres, elle l'a entraîné. 22 Aussitôt, il la suit comme un bœuf conduit pour servir de victime, et comme un agneau bondissant et ignorant, l'insensé, qu'on l'entraîne pour le lier,
+21 Elle l'a enlacé par la multitude de ses paroles; et par les flatteries de ses lèvres, elle l'a entraîné. 22 Aussitôt, il la suit comme un boeuf conduit pour servir de victime, et comme un agneau bondissant et ignorant, l'insensé, qu'on l'entraîne pour le lier,
 
 ***Note*** :  Prov. 7, 22 : Conduit pour servir de victime (ad victimam) ; ou plutôt selon l’hébreu et le grec : Conduit à la tuerie ; sans aucune mention de sacrifice, ce qui est le contraire du verset 14, où les termes du texte original et de la version des Septante signifient de véritables victimes de sacrifice.
 

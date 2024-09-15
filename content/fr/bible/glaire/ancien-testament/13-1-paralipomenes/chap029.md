@@ -11,7 +11,7 @@ summary: |
 ---
 
 
-1 Ensuite David, le roi, dit à toute l'assemblée ; Dieu a choisi uniquement Salomon, mon fils, encore jeune et délicat, quoique l'œuvre soit grande; car ce n'est pas pour un homme que se prépare cette habitation, mais pour Dieu.
+1 Ensuite David, le roi, dit à toute l'assemblée ; Dieu a choisi uniquement Salomon, mon fils, encore jeune et délicat, quoique l'oeuvre soit grande; car ce n'est pas pour un homme que se prépare cette habitation, mais pour Dieu.
 
 ***Note*** :  I Par. 29, 1 : Salomon, quoiqu’ayant environ vingt-deux ans, était jeune par rapport à David, et par rapport à un travail qui exigeait tous les secours de la nature, de l’art, du savoir, de la prudence, et d’une grande expérience.
 
@@ -30,14 +30,14 @@ summary: |
 
 ***Note*** :  I Par. 29, 7 : Le solide des Romains pesait un demi-sicle d’or hébraïque.
 
-8 De même tous ceux chez qui on trouva des pierres précieuses les donnèrent pour le trésor de la maison du Seigneur, par l'entremise de Jahiel, le Gersonite. 9 Et le peuple se livra à l'allégresse en promettant spontanément ses offrandes, parce qu'il les offrait de tout cœur au Seigneur; et aussi, David, le roi, se réjouit d'une grande joie.
+8 De même tous ceux chez qui on trouva des pierres précieuses les donnèrent pour le trésor de la maison du Seigneur, par l'entremise de Jahiel, le Gersonite. 9 Et le peuple se livra à l'allégresse en promettant spontanément ses offrandes, parce qu'il les offrait de tout coeur au Seigneur; et aussi, David, le roi, se réjouit d'une grande joie.
 
 
 10 Et il bénit le Seigneur devant toute la multitude, et il dit : Seigneur, Dieu d'Israël, notre père, vous êtes béni de siècle en siècle. 11 A vous, Seigneur, est la magnificence, la puissance, la gloire et la victoire ; à vous la louange ; car tout ce qui est dans le ciel et sur la terre est à vous; à vous. Seigneur, est le règne, et c'est vous qui êtes au-dessus de tous les princes. 12 A vous les richesses et à vous la gloire; c'est vous qui dominez sur toutes les créatures : en votre maison sont la force et la puissance; en votre main la grandeur et l'empire sur toutes choses13 Maintenant donc, ô notre Dieu, nous vous glorifions et nous louons votre nom illustre. 14 Qui suis-je, et qui est mon peuple pour que nous puissions vous offrir toutes ces choses? Tout est à vous, et c'est de votre main que nous avons reçu ce que nous vous avons donné ; 15 Car nous sommes des voyageurs et des étrangers devant vous comme tous nos pères. Nos jours passent comme l'ombre sur la terre, et rien ne les retient.
 
 ***Note*** :  I Par. 29, 15 : Voir Sagesse, 2, 5.
 
-16 Seigneur notre Dieu, toutes ces richesses que nous avons préparées pour bâtir une maison à votre saint nom sont de votre main, et à vous sont toutes choses. 17 Je sais, mon Dieu, que vous sondez les cœurs et que vous aimez la simplicité; c'est pourquoi, moi aussi, je vous ai offert toutes ces choses dans la simplicité de mon cœur, et plein d'allégresse ; et votre peuple qui se trouve ici, je l'ai vu avec une grande joie vous offrir ses présents. 18 Seigneur Dieu d'Abraham, d'Isaac et d'Israël, nos pères, conservez éternellement cette volonté de leur cœur, et que toujours ce sentiment de vénération pour vous persévère. 19 Donnez aussi à Salomon, mon fils, un cœur parfait, afin qu'il garde vos commandements, vos témoignages et vos cérémonies, et qu'il les accomplisse tous ; et qu'il bâtisse la maison dont j'ai préparé les dépenses.
+16 Seigneur notre Dieu, toutes ces richesses que nous avons préparées pour bâtir une maison à votre saint nom sont de votre main, et à vous sont toutes choses. 17 Je sais, mon Dieu, que vous sondez les coeurs et que vous aimez la simplicité; c'est pourquoi, moi aussi, je vous ai offert toutes ces choses dans la simplicité de mon coeur, et plein d'allégresse ; et votre peuple qui se trouve ici, je l'ai vu avec une grande joie vous offrir ses présents. 18 Seigneur Dieu d'Abraham, d'Isaac et d'Israël, nos pères, conservez éternellement cette volonté de leur coeur, et que toujours ce sentiment de vénération pour vous persévère. 19 Donnez aussi à Salomon, mon fils, un coeur parfait, afin qu'il garde vos commandements, vos témoignages et vos cérémonies, et qu'il les accomplisse tous ; et qu'il bâtisse la maison dont j'ai préparé les dépenses.
 
 ***Note*** :  I Par. 29, 19 : Les lois de Dieu souvent appelées dans l’Ecriture ses témoignages.
 

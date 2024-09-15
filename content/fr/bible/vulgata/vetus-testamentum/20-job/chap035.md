@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Igitur Eliu hæc rursum locutus est:
+1 Igitur Eliu haec rursum locutus est:
 
-2 Numquid æqua tibi videtur tua cogitatio, ut diceres: Iustior sum Deo?
+2 Numquid aequa tibi videtur tua cogitatio, ut diceres: Iustior sum Deo?
 
 3 Dixisti enim: Non tibi placet quod rectum est: vel quid tibi proderit, si ego peccavero?
 
 4 Itaque ego respondebo sermonibus tuis, et amicis tuis tecum.
 
-5 Suspice cælum et intuere, et contemplare æthera quod altior te sit.
+5 Suspice caelum et intuere, et contemplare aethera quod altior te sit.
 
-6 Si peccaveris, quid ei nocebis? et si multiplicatæ fuerint iniquitates tuæ, quid facies contra eum?
+6 Si peccaveris, quid ei nocebis? et si multiplicatae fuerint iniquitates tuae, quid facies contra eum?
 
 7 Porro si iuste egeris, quid donabis ei, aut quid de manu tua accipiet?
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Et non dixit: Ubi est Deus, qui fecit me, qui dedit carmina in nocte,
 
-11 Qui docet nos super iumenta terræ, et super volucres cæli erudit nos.
+11 Qui docet nos super iumenta terrae, et super volucres caeli erudit nos.
 
 12 Ibi clamabunt, et non exaudiet, propter superbiam malorum.
 

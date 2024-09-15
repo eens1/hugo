@@ -7,7 +7,7 @@ summary: |
   Devoirs des enfants envers leurs pères et mères.
   Exhortation à la douceur et à l’humilité.
   Réprimer sa curiosité.
-  Malheur du cœur dur, superbe et indocile.
+  Malheur du coeur dur, superbe et indocile.
   Vertu de l’aumône ; sa récompense.
 ---
 
@@ -25,7 +25,7 @@ summary: |
 
 ***Note*** :  Sir. 3, 3 : A honoré le père dans les fils ; en voulant que les fils rendent à leur père l’honneur, le respect, l’obéissance, etc. , qui lui sont dus. ― Cherchant avec soin (exqui rens) ; ce participe, en vertu d’un hébraïsme, dont nous avons parlé plus haut (voir fin des Observations préliminaires des Psaumes) devient un adverbe qualificatif du verbe suivant il a affermi, en sorte que le sens est : Dieu a affermi le plus soigneusement le jugement de la mère. Ainsi Dieu accorde aussi à la mère l’autorité, la puissance de commander, de réprimer et de punir. D’où il suit que les parents le représentent sur la terre à l’égard des enfants, et qu’ils sont les dépositaires de son autorité supérieure sur eux.
 
-4 Celui qui aime Dieu, l'invoquera pour ses péchés, s'en préservera à l'avenir. et dans sa prière de chaque jour, il sera exaucé. 5 Et comme est celui qui thésaurise, ainsi est celui qui honore sa mère. 6 Celui qui honore son père trouvera la joie dans ses fils, et au jour de sa prière, il sera exaucé. 7 Celui qui honore son père vivra d'une longue vie ; et celui qui obéit à son père fera la consolation de sa mère. 8 Celui qui craint le Seigneur honore son père et sa mère, et il servira comme ses maîtres ceux qui lui ont donné le jour. 9 En œuvres, en paroles et en toute patience, honore ton père,
+4 Celui qui aime Dieu, l'invoquera pour ses péchés, s'en préservera à l'avenir. et dans sa prière de chaque jour, il sera exaucé. 5 Et comme est celui qui thésaurise, ainsi est celui qui honore sa mère. 6 Celui qui honore son père trouvera la joie dans ses fils, et au jour de sa prière, il sera exaucé. 7 Celui qui honore son père vivra d'une longue vie ; et celui qui obéit à son père fera la consolation de sa mère. 8 Celui qui craint le Seigneur honore son père et sa mère, et il servira comme ses maîtres ceux qui lui ont donné le jour. 9 En oeuvres, en paroles et en toute patience, honore ton père,
 
 ***Note*** :  Sir. 3, 9 : Voir Exode, 20, 12 ; Deutéronome, 5, 16 ; Matthieu, 15, 4 ; Marc, 7, 10 ; Ephésiens, 6, 2.
 
@@ -42,7 +42,7 @@ summary: |
 
 ***Note*** :  Sir. 3, 17 : Dans la justice ; selon d’autres, à cause de ta justice. ― Il te sera bâti une maison. Dans le style de l’Ecriture, bâtir une maison à quelqu’un, signifie proprement lui donner des enfants, une famille nombreuse. Comparer à Exode, 1, 21 ; Deutéronome, 25, 9 ; Ruth, 4, 11 ; 1 Rois, 2, 35. ― On se souviendra de toi ; c’est-à-dire Dieu se souviendra.
 
-18 Quelle mauvaise réputation a celui qui abandonne son père ! et il est maudit de Dieu, celui qui exaspère sa mère. 19 Mon fils, accomplis tes œuvres avec douceur, et tu seras encore plus aimé que glorifié par les hommes.
+18 Quelle mauvaise réputation a celui qui abandonne son père ! et il est maudit de Dieu, celui qui exaspère sa mère. 19 Mon fils, accomplis tes oeuvres avec douceur, et tu seras encore plus aimé que glorifié par les hommes.
 
 ***Note*** :  Sir. 3, 19 : Tu seras encore, etc. ; littéralement au-dessus de la gloire des hommes tu seras aimé ; tu t’attireras l’estime des hommes, mais surtout leur amour.
 
@@ -62,18 +62,18 @@ summary: |
 
 ***Note*** :  Sir. 3, 24 : De ses ; c’est-à-dire de Dieu, nommé au verset 22.
 
-25 Car un très grand nombre de choses au-dessus du sens des hommes ont été découvertes pour toi. 26 Leurs conjectures aussi en ont séduit beaucoup, et leur sens les a retenus dans la vanité. 27 Le cœur dur sera malheureux à la fin ; et celui qui aime le péril y périra.
+25 Car un très grand nombre de choses au-dessus du sens des hommes ont été découvertes pour toi. 26 Leurs conjectures aussi en ont séduit beaucoup, et leur sens les a retenus dans la vanité. 27 Le coeur dur sera malheureux à la fin ; et celui qui aime le péril y périra.
 
 
-28 Le cœur qui marche dans deux voies n'aura pas de succès: et le pervers de cœur y trouvera une pierre d'achoppement. 29 Le cœur méchant sera accablé de douleurs, et le pécheur recommencera a pécher.
+28 Le coeur qui marche dans deux voies n'aura pas de succès: et le pervers de coeur y trouvera une pierre d'achoppement. 29 Le coeur méchant sera accablé de douleurs, et le pécheur recommencera a pécher.
 
 ***Note*** :  Sir. 3, 29 : Recommencera à pécher ; ou bien péchera encore, de nouveau. Comparer à ce qui a été dit à la fin des Observations préliminaires des Psaumes sur les verbes mis pour des adverbes.
 
-30 L'assemblée des superbes sera sans guérison ; car la tige du péché s'enracinera en eux ; et ils ne s'en apercevront pas. 31 Le cœur du sage se fait comprendre par sa sagesse, et l'oreille bonne écoutera la sagesse avec la plus vive ardeur.
+30 L'assemblée des superbes sera sans guérison ; car la tige du péché s'enracinera en eux ; et ils ne s'en apercevront pas. 31 Le coeur du sage se fait comprendre par sa sagesse, et l'oreille bonne écoutera la sagesse avec la plus vive ardeur.
 
 ***Note*** :  Sir. 3, 31 : L’oreille bonne ; pour l’oreille de l’homme de bien.
 
-32 Le cœur sage et intelligent s'abstiendra du péché, et dans les œuvres de justice il aura des succès. 33 L'eau éteint un feu ardent; et l'aumône résiste au péché;
+32 Le coeur sage et intelligent s'abstiendra du péché, et dans les oeuvres de justice il aura des succès. 33 L'eau éteint un feu ardent; et l'aumône résiste au péché;
 
 ***Note*** :  Sir. 3, 33 : Voir Daniel, 4, 24.
 

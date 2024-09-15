@@ -7,7 +7,7 @@ draft: false
 
 1 Appropinquabat autem dies festus Azymorum, qui dicitur Pascha:
 
-2 et quærebant principes sacerdotum, et Scribæ, quomodo Iesum interficerent: timebant vero plebem.
+2 et quaerebant principes sacerdotum, et Scribae, quomodo Iesum interficerent: timebant vero plebem.
 
 3 Intravit autem satanas in Iudam, qui cognominabatur Iscariotes, unum de duodecim.
 
@@ -15,7 +15,7 @@ draft: false
 
 5 Et gavisi sunt, et pacti sunt pecuniam illi dare.
 
-6 Et spopondit. Et quærebat opportunitatem ut traderet illum sine turbis.
+6 Et spopondit. Et quaerebat opportunitatem ut traderet illum sine turbis.
 
 7 Venit autem dies Azymorum, in qua necesse erat occidi pascha.
 
@@ -23,11 +23,11 @@ draft: false
 
 9 At illi dixerunt: Ubi vis paremus?
 
-10 Et dixit ad eos: Ecce introeuntibus vobis in civitatem, occurret vobis homo quidam amphoram aquæ portans: sequimini eum in domum, in quam intrat,
+10 Et dixit ad eos: Ecce introeuntibus vobis in civitatem, occurret vobis homo quidam amphoram aquae portans: sequimini eum in domum, in quam intrat,
 
 11 et dicetis patrifamilias domus: Dicit tibi Magister: Ubi est diversorium, ubi pascha cum discipulis meis manducem?
 
-12 Et ipse ostendet vobis cœnaculum magnum stratum, et ibi parate.
+12 Et ipse ostendet vobis coenaculum magnum stratum, et ibi parate.
 
 13 Euntes autem invenerunt sicut dixit illis, et paraverunt pascha.
 
@@ -43,19 +43,19 @@ draft: false
 
 19 Et accepto pane gratias egit, et fregit, et dedit eis, dicens: Hoc est corpus meum, quod pro vobis datur: hoc facite in meam commemorationem.
 
-20 Similiter et calicem, postquam cœnavit, dicens: Hic est calix novum testamentum in sanguine meo, qui pro vobis fundetur.
+20 Similiter et calicem, postquam coenavit, dicens: Hic est calix novum testamentum in sanguine meo, qui pro vobis fundetur.
 
 21 Verumtamen ecce manus tradentis me, mecum est in mensa.
 
-22 Et quidem Filius hominis, secundum quod definitum est, vadit: verumtamen væ homini illi, per quem tradetur.
+22 Et quidem Filius hominis, secundum quod definitum est, vadit: verumtamen vae homini illi, per quem tradetur.
 
-23 Et ipsi cœperunt quærere inter se, quis esset ex eis, qui hoc facturus esset.
+23 Et ipsi coeperunt quaerere inter se, quis esset ex eis, qui hoc facturus esset.
 
 24 Facta est autem et contentio inter eos, quis eorum videretur esse maior.
 
 25 Dixit autem eis: Reges Gentium dominantur eorum: et qui potestatem habent super eos, benefici vocantur.
 
-26 Vos autem non sic: sed qui maior est in vobis, fiat sicut minor: et qui præcessor est, sicut ministrator.
+26 Vos autem non sic: sed qui maior est in vobis, fiat sicut minor: et qui praecessor est, sicut ministrator.
 
 27 Nam quis maior est, qui recumbit, an qui ministrat? nonne qui recumbit? Ego autem in medio vestrum sum, sicut qui ministrat:
 
@@ -77,7 +77,7 @@ draft: false
 
 36 At illi dixerunt: Nihil. Dixit ergo eis: Sed nunc qui habet sacculum, tollat similiter et peram: et qui non habet, vendat tunicam suam, et emat gladium.
 
-37 Dico enim vobis, quoniam adhuc hoc, quod scriptum est, oportet impleri in me: Et cum iniquis deputatus est. Etenim ea, quæ sunt de me, finem habent.
+37 Dico enim vobis, quoniam adhuc hoc, quod scriptum est, oportet impleri in me: Et cum iniquis deputatus est. Etenim ea, quae sunt de me, finem habent.
 
 38 At illi dixerunt: Domine, ecce duo gladii hic. At ille dixit eis: Satis est.
 
@@ -89,11 +89,11 @@ draft: false
 
 42 dicens: Pater si vis, transfer calicem istum a me: Verumtamen non mea voluntas, sed tua fiat.
 
-43 Apparuit autem illi Angelus de cælo, confortans eum. Et factus in agonia, prolixius orabat.
+43 Apparuit autem illi Angelus de caelo, confortans eum. Et factus in agonia, prolixius orabat.
 
-44 Et factus est sudor eius, sicut guttæ sanguinis decurrentis in terram.
+44 Et factus est sudor eius, sicut guttae sanguinis decurrentis in terram.
 
-45 Et cum surrexisset ab oratione, et venisset ad discipulos suos, invenit eos dormientes præ tristitia.
+45 Et cum surrexisset ab oratione, et venisset ad discipulos suos, invenit eos dormientes prae tristitia.
 
 46 Et ait illis: Quid dormitis? surgite, orate, ne intretis in tentationem.
 
@@ -109,19 +109,19 @@ draft: false
 
 52 Dixit autem Iesus ad eos, qui venerant ad se, principes sacerdotum, et magistratus templi, et seniores: Quasi ad latronem existis cum gladiis, et fustibus?
 
-53 Cum quotidie vobiscum fuerim in templo, non extendistis manus in me: sed hæc est hora vestra, et potestas tenebrarum.
+53 Cum quotidie vobiscum fuerim in templo, non extendistis manus in me: sed haec est hora vestra, et potestas tenebrarum.
 
 54 Comprehendentes autem eum, duxerunt ad domum principis sacerdotum: Petrus vero sequebatur a longe.
 
 55 Accenso autem igne in medio atrii, et circumsedentibus illis, erat Petrus in medio eorum.
 
-56 Quem cum vidisset ancilla quædam sedentem ad lumen, et eum fuisset intuita, dixit: Et hic cum illo erat.
+56 Quem cum vidisset ancilla quaedam sedentem ad lumen, et eum fuisset intuita, dixit: Et hic cum illo erat.
 
 57 At ille negavit eum, dicens: Mulier, non novi illum.
 
 58 Et post pusillum alius videns eum, dixit: Et tu de illis es. Petrus vero ait: O homo, non sum.
 
-59 Et intervallo facto quasi horæ unius, alius quidam affirmabat, dicens: Vere et hic cum illo erat: nam et Galilæus est.
+59 Et intervallo facto quasi horae unius, alius quidam affirmabat, dicens: Vere et hic cum illo erat: nam et Galilaeus est.
 
 60 Et ait Petrus: Homo, nescio quid dicis. Et continuo adhuc illo loquente cantavit gallus.
 
@@ -129,13 +129,13 @@ draft: false
 
 62 Et egressus foras Petrus flevit amare.
 
-63 Et viri, qui tenebant illum, illudebant ei, cædentes.
+63 Et viri, qui tenebant illum, illudebant ei, caedentes.
 
 64 Et velaverunt eum, et percutiebant faciem eius: et interrogabant eum, dicentes: Prophetiza, quis est, qui te percussit?
 
 65 Et alia multa blasphemantes dicebant in eum.
 
-66 Et ut factus est dies, convenerunt seniores plebis, et principes sacerdotum, et Scribæ, et duxerunt illum in concilium suum, dicentes: Si tu es Christus, dic nobis.
+66 Et ut factus est dies, convenerunt seniores plebis, et principes sacerdotum, et Scribae, et duxerunt illum in concilium suum, dicentes: Si tu es Christus, dic nobis.
 
 67 Et ait illis: Si vobis dixero, non credetis mihi:
 

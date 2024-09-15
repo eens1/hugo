@@ -25,7 +25,7 @@ draft: false
 
 10 ab ipsis enim disces sapientiam, et doctrinam intellectus, et servire magnatis sine querela.
 
-11 Non te prætereat narratio seniorum: ipsi enim didicerunt a patribus suis:
+11 Non te praetereat narratio seniorum: ipsi enim didicerunt a patribus suis:
 
 12 quoniam ab ipsis disces intellectum, et in tempore necessitatis dare responsum.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 Ne contra faciem stes contumeliosi, ne sedeat quasi insidiator ori tuo.
 
-15 Noli fœnerari homini fortiori te: quod si fœneraveris, quasi perditum habe.
+15 Noli foenerari homini fortiori te: quod si foeneraveris, quasi perditum habe.
 
 16 Non spondeas super virtutem tuam: quod si spoponderis, quasi restituens cogita.
 
@@ -43,7 +43,7 @@ draft: false
 
 19 Cum iracundo non facias rixam, et cum audace non eas in desertum: quoniam quasi nihil est ante illum sanguis, et ubi non est adiutorium, elidet te.
 
-20 Cum fatuis consilium non habeas: non enim poterunt diligere nisi quæ eis placent.
+20 Cum fatuis consilium non habeas: non enim poterunt diligere nisi quae eis placent.
 
 21 Coram extraneo ne facias consilium: nescis enim quid pariet.
 

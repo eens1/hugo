@@ -41,7 +41,7 @@ draft: false
 
 18 qui enim in hoc servit Christo, placet Deo, et probatus est hominibus.
 
-19 Itaque quæ pacis sunt, sectemur: et quæ ædificationis sunt, in invicem custodiamus.
+19 Itaque quae pacis sunt, sectemur: et quae aedificationis sunt, in invicem custodiamus.
 
 20 Noli propter escam destruere opus Dei. omnia quidem sunt munda: sed malum est homini, qui per offendiculum manducat.
 

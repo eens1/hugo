@@ -5,7 +5,7 @@ draft: false
 summary: |
   
   Le Psalmiste s’invite lui-même à louer le Seigneur de ses bienfaits.
-  Il convie tous les anges et toutes les œuvres de Dieu à le bénir avec lui.
+  Il convie tous les anges et toutes les oeuvres de Dieu à le bénir avec lui.
 ---
 
 

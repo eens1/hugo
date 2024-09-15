@@ -31,7 +31,7 @@ chapitre 21, versets 1 à 10 ; il se rapproche alors de nouveau de Jérusalem et
 ***Note*** :  Is. 13, 5 : De l’extrémité du ciel ; de l’extrémité de l’horizon.
 
 
-6 Poussez des hurlements, parce qu'est proche le jour du Seigneur; il viendra du Seigneur comme une dévastation. 7 A cause de cela toutes les mains seront affaiblies, et tout cœur d'homme se desséchera, 8 Et sera brisé. Des tourments et des douleurs les tiendront; ils souffriront comme une femme en travail; chacun regardera son voisin avec stupeur ; leurs visages seront comme des faces brûlées par le feu.
+6 Poussez des hurlements, parce qu'est proche le jour du Seigneur; il viendra du Seigneur comme une dévastation. 7 A cause de cela toutes les mains seront affaiblies, et tout coeur d'homme se desséchera, 8 Et sera brisé. Des tourments et des douleurs les tiendront; ils souffriront comme une femme en travail; chacun regardera son voisin avec stupeur ; leurs visages seront comme des faces brûlées par le feu.
 
 
 9 Voici que le jour du Seigneur viendra cruel et plein d'indignation, et de colère et de fureur, pour réduire la terre en solitude, et en exterminer ses pécheurs. 10 Parce que les étoiles du ciel et leur splendeur ne répandront pas leur lumière; le soleil s'est couvert de ténèbres à son lever; et la lune ne luira pas dans sa lumière;
@@ -68,7 +68,7 @@ chapitre 21, versets 1 à 10 ; il se rapproche alors de nouveau de Jérusalem et
 
 ***Note*** :  Is. 13, 17 : Les Mèdes. Les Mèdes étaient déjà en guerre avec les rois d’Assyrie avant cette époque. Un roi de Ninive les mentionne vers l’an 810 avant Jésus-Christ. Leur nom ne désigne pas seulement ici les Mèdes proprement dits, mais aussi les Perses. En Egypte les Perses reçurent aussi le nom de Mèdes. Les Perses sont nommés pour la première fois dans l’Ancien Testament par Ezéchiel et par Daniel. Cyrus, dans les inscriptions qu’on a retrouvées de lui, ne prend pas lui-même le titre de Perse. Ce roi, dans la Cyropédie, V, 3, de Xénophon, en s’adressant à ses soldats, ne nomme aussi expressément que les Mèdes. ― Dans un autre passage de la Cyropédie, X, 1, 20, Cyrus demande aux Mèdes « qui n’ont pas besoin de richesses » d’aller avec lui.
 
-18 Mais de leurs flèches ils tueront les petits enfants, et ils n'auront pas pitié des seins qui allaitent, et les fils, leur œil ne les épargnera pas. 19 Et cette Babylone, glorieuse parmi les royaumes, illustre orgueil des Chaldéens, sera renversée, comme le Seigneur renversa Sodome et Gomorrhe.
+18 Mais de leurs flèches ils tueront les petits enfants, et ils n'auront pas pitié des seins qui allaitent, et les fils, leur oeil ne les épargnera pas. 19 Et cette Babylone, glorieuse parmi les royaumes, illustre orgueil des Chaldéens, sera renversée, comme le Seigneur renversa Sodome et Gomorrhe.
 
 ***Note*** :  Is. 13, 19 : Voir Genèse, 19, 24.
 

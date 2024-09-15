@@ -54,7 +54,7 @@ summary: |
 
 ***Note*** :  Dr. 19, 18 : Voir Daniel, 13, 62.
 
-19 Ils lui rendront ce qu'il avait eu dessein de faire à son frère, et tu ôteras le mal d'au milieu de toi, 20 Afin que tous les autres entendant, éprouvent de la crainte, et qu'ils n'osent nullement faire de telles choses. 21 Tu n'auras point pitié de lui; mais tu exigeras âme pour âme, œil pour œil, dent pour dent, main pour main, pied pour pied.
+19 Ils lui rendront ce qu'il avait eu dessein de faire à son frère, et tu ôteras le mal d'au milieu de toi, 20 Afin que tous les autres entendant, éprouvent de la crainte, et qu'ils n'osent nullement faire de telles choses. 21 Tu n'auras point pitié de lui; mais tu exigeras âme pour âme, oeil pour oeil, dent pour dent, main pour main, pied pour pied.
 
 ***Note*** :  Dr. 19, 21 : Voir Exode, 21, 23-24 ; Lévitique, 24, 20 ; Matthieu, 5, 38.
 

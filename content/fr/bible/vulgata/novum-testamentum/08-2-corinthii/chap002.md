@@ -7,7 +7,7 @@ draft: false
 
 1 Statui autem hoc ipsum apud me, ne iterum in tristitia venirem ad vos.
 
-2 Si enim ego contristo vos: et quis est, qui me lætificet, nisi qui contristatur ex me?
+2 Si enim ego contristo vos: et quis est, qui me laetificet, nisi qui contristatur ex me?
 
 3 Et hoc ipsum scripsi vobis, ut non cum venero, tristitiam super tristitiam habeam, de quibus oportuerat me gaudere: confidens in omnibus vobis, quia meum gaudium, omnium vestrum est.
 
@@ -15,7 +15,7 @@ draft: false
 
 5 Si quis autem contristavit, non me contristavit: sed ex parte, ut non onerem omnes vos.
 
-6 Sufficit illi, qui eiusmodi est, obiurgatio hæc, quæ fit a pluribus:
+6 Sufficit illi, qui eiusmodi est, obiurgatio haec, quae fit a pluribus:
 
 7 ita ut econtrario magis donetis, et consolemini, ne forte abundantiori tristitia absorbeatur qui eiusmodi est.
 
@@ -31,11 +31,11 @@ draft: false
 
 13 non habui requiem spiritui meo, eo quod non invenerim Titum fratrem meum, sed valefaciens eis, profectus sum in Macedoniam.
 
-14 Deo autem gratias, qui semper triumphat nos in Christo Iesu, et odorem notitiæ suæ manifestat per nos in omni loco:
+14 Deo autem gratias, qui semper triumphat nos in Christo Iesu, et odorem notitiae suae manifestat per nos in omni loco:
 
 15 quia Christi bonus odor sumus Deo in iis, qui salvi fiunt, et in iis, qui pereunt:
 
-16 aliis quidem odor mortis in mortem: aliis autem odor vitæ in vitam. Et ad hæc quis tam idoneus?
+16 aliis quidem odor mortis in mortem: aliis autem odor vitae in vitam. Et ad haec quis tam idoneus?
 
 17 Non enim sumus sicut plurimi, adulterantes verbum Dei, sed ex sinceritate, sed sicut ex Deo, coram Deo, in Christo loquimur.
 

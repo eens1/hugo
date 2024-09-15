@@ -45,7 +45,7 @@ summary: |
 ***Note*** :  Sir. 10, 13 : Il aura pour héritage, etc. L’auteur montre assez clairement, dans plusieurs passages, qu’il admettait la survivance des âmes aux corps. Ainsi il ne veut parler ici que de la partie matérielle de l’homme, c’est-à-dire de son corps, qui, à la mort, devient en effet, la pâture des bêtes et des vers. ― Les serpents, les bêtes qui rampent. Les corps qui ne sont pas ensevelis deviennent la proie des bêtes ; ceux qui sont enterrés sont dévorés par les vers.
 
 
-14 Le commencement de l'orgueil de l'homme est d'apostasier Dieu; 15 Parce que son cœur s'est retiré de celui qui l'a fait; parce que le commencement de tout péché est l'orgueil; celui qui s'y tiendra attaché sera chargé de malédictions, et l'orgueil le renversera à jamais.
+14 Le commencement de l'orgueil de l'homme est d'apostasier Dieu; 15 Parce que son coeur s'est retiré de celui qui l'a fait; parce que le commencement de tout péché est l'orgueil; celui qui s'y tiendra attaché sera chargé de malédictions, et l'orgueil le renversera à jamais.
 
 ***Note*** :  Sir. 10, 15 : Voir Proverbes, 18, 12.
 
@@ -74,7 +74,7 @@ summary: |
 ***Note*** :  Sir. 10, 28 : Voir 2 Rois, 12, 13. ― A l’esclave sensé, etc. Comparer à Proverbes, 17, 2.
 
 
-29 Ne t'élève pas en faisant ton œuvre, et ne temporise pas avec paresse aux temps de l'angoisse. 30 Mieux vaut celui qui travaille et qui abonde en toutes choses, que celui qui se glorifie et manque de pain.
+29 Ne t'élève pas en faisant ton oeuvre, et ne temporise pas avec paresse aux temps de l'angoisse. 30 Mieux vaut celui qui travaille et qui abonde en toutes choses, que celui qui se glorifie et manque de pain.
 
 ***Note*** :  Sir. 10, 30 : Voir Proverbes, 12, 9.
 

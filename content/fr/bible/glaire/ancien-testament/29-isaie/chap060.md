@@ -25,7 +25,7 @@ summary: |
 ***Note*** :  Is. 60, 4 : Voir Isaïe, 49, 18.
 
 
-5 Alors tu verras, et tu seras dans l'abondance; ton cœur admirera, et se dilatera, quand se sera tournée vers toi la richesse de la mer, et que la force des nations sera venue à toi.
+5 Alors tu verras, et tu seras dans l'abondance; ton coeur admirera, et se dilatera, quand se sera tournée vers toi la richesse de la mer, et que la force des nations sera venue à toi.
 
 
 6 Une inondation de chameaux te couvrira ainsi que les dromadaires de Madian et d'Epha ; tous viendront de Saba, apportant de l'or et de l'encens, et publiant des louanges en l'honneur du Seigneur.
@@ -91,7 +91,7 @@ summary: |
 20 Ton soleil ne se couchera plus, et ta lune ne diminuera pas; parce que le Seigneur sera ta lumière éternelle, et que les jours de ton deuil seront finis.
 
 
-21 Quant à ton peuple, tous seront justes; pour toujours ils posséderont la terre en héritage; il sera le rejeton de ma plantation, l'œuvre de ma main pour me glorifier.
+21 Quant à ton peuple, tous seront justes; pour toujours ils posséderont la terre en héritage; il sera le rejeton de ma plantation, l'oeuvre de ma main pour me glorifier.
 
 
 22 Le moindre de tes citoyens en produira mille, et le plus petit une nation très puissante ; moi le Seigneur, en son temps je ferai soudain cela.

@@ -9,7 +9,7 @@ draft: false
 
 2 maximus in salutem electorum Dei, expugnare insurgentes hostes, ut consequeretur hereditatem Israel.
 
-3 Quam gloriam adeptus est in tollendo manus suas, et iactando contra civitates romphæas?
+3 Quam gloriam adeptus est in tollendo manus suas, et iactando contra civitates romphaeas?
 
 4 Quis ante illum sic restitit? Nam hostes ipse Dominus perduxit:
 
@@ -21,11 +21,11 @@ draft: false
 
 8 ut cognoscant Gentes potentiam eius, quia contra Deum pugnare non est facile. Et secutus est a tergo potentis:
 
-9 et in diebus Moysi misericordiam fecit ipse, et Caleb filius Iephone, stare contra hostem, et prohibere gentem a peccatis, et perfringere murmur malitiæ.
+9 et in diebus Moysi misericordiam fecit ipse, et Caleb filius Iephone, stare contra hostem, et prohibere gentem a peccatis, et perfringere murmur malitiae.
 
-10 Et ipsi duo constituti, a periculo liberati sunt a numero sexcentorum millium peditum, inducere illos in hereditatem, in terram, quæ manat lac et mel.
+10 Et ipsi duo constituti, a periculo liberati sunt a numero sexcentorum millium peditum, inducere illos in hereditatem, in terram, quae manat lac et mel.
 
-11 Et dedit Dominus ipsi Caleb fortitudinem, et usque in senectutem permansit illi virtus, ut ascenderet in excelsum terræ locum, et semen ipsius obtinuit hereditatem:
+11 Et dedit Dominus ipsi Caleb fortitudinem, et usque in senectutem permansit illi virtus, ut ascenderet in excelsum terrae locum, et semen ipsius obtinuit hereditatem:
 
 12 ut viderent omnes filii Israel quia bonum est obsequi sancto Deo.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 ut sit memoria illorum in benedictione, et ossa eorum pullulent de loco suo,
 
-15 et nomen eorum permaneat in æternum, permanens ad filios illorum, sanctorum virorum gloria.
+15 et nomen eorum permaneat in aeternum, permanens ad filios illorum, sanctorum virorum gloria.
 
 16 Dilectus a Domino Deo suo Samuel propheta Domini, renovavit imperium, et unxit principes in gente sua.
 
@@ -43,11 +43,11 @@ draft: false
 
 19 et invocavit Dominum omnipotentem, in oppugnando hostes circumstantes undique in oblatione agni inviolati.
 
-20 Et intonuit de cælo Dominus, et in sonitu magno auditam fecit vocem suam,
+20 Et intonuit de caelo Dominus, et in sonitu magno auditam fecit vocem suam,
 
 21 et contrivit principes Tyriorum, et omnes duces Philisthiim:
 
-22 et ante tempus finis vitæ suæ et sæculi, testimonium præbuit in conspectu Domini, et Christi, pecunias et usque ad calceamenta ab omni carne non accepit, et non accusavit illum homo.
+22 et ante tempus finis vitae suae et saeculi, testimonium praebuit in conspectu Domini, et Christi, pecunias et usque ad calceamenta ab omni carne non accepit, et non accusavit illum homo.
 
-23 Et post hoc dormivit, et notum fecit regi, et ostendit illi finem vitæ suæ, et exaltavit vocem suam de terra in prophetia delere impietatem gentis.
+23 Et post hoc dormivit, et notum fecit regi, et ostendit illi finem vitae suae, et exaltavit vocem suam de terra in prophetia delere impietatem gentis.
 

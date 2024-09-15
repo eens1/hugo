@@ -39,7 +39,7 @@ summary: |
 
 ***Note*** :  I Par. 27, 28 : Aux figuiers, c’est-à-dire aux sycomores qui produisent des figues. Voir Luc, note 19. 4. Dans les plaines des Philistins. Voir Josué, note 9. 1.
 
-29 Mais aux troupeaux qui paissaient en Saron, fut préposé Sétraï, le Saronite, et aux bœufs dans les vallées, Saphat, fils d'Adli ; 30 Sur les chameaux, Ubil, L'Ismahélite, et sur les ânes, Jadias, le Méronathite; 31 Et sur les brebis, Jaziz l'Agaréen. Tous ceux-là étaient les intendants des biens du roi David.
+29 Mais aux troupeaux qui paissaient en Saron, fut préposé Sétraï, le Saronite, et aux boeufs dans les vallées, Saphat, fils d'Adli ; 30 Sur les chameaux, Ubil, L'Ismahélite, et sur les ânes, Jadias, le Méronathite; 31 Et sur les brebis, Jaziz l'Agaréen. Tous ceux-là étaient les intendants des biens du roi David.
 
 
 32 Mais Jonathan, oncle de David, homme sage et savant, était un de ses conseillers; lui et Jahiel, fils d'Hachamoni, étaient auprès des enfants du roi. 33 Achitophel aussi était conseiller du roi; Chusaï, l'Arachite, favori du roi. 34 Après Achitophel étaient Joïada, fils de Banaïas, et Abiathar ; mais le prince de l'armée du roi était Joab.

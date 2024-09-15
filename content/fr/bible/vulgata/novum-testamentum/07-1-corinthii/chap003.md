@@ -21,17 +21,17 @@ draft: false
 
 8 Qui autem plantat, et qui rigat, unum sunt. Unusquisque autem propriam mercedem accipiet secundum suum laborem.
 
-9 Dei enim sumus adiutores: Dei agricultura estis, Dei ædificatio estis.
+9 Dei enim sumus adiutores: Dei agricultura estis, Dei aedificatio estis.
 
-10 Secundum gratiam Dei, quæ data est mihi, ut sapiens architectus fundamentum posui: alius autem superædificat. Unusquisque autem videat quomodo superædificet.
+10 Secundum gratiam Dei, quae data est mihi, ut sapiens architectus fundamentum posui: alius autem superaedificat. Unusquisque autem videat quomodo superaedificet.
 
-11 Fundamentum enim aliud nemo potest ponere præter id, quod positum est, quod est Christus Iesus.
+11 Fundamentum enim aliud nemo potest ponere praeter id, quod positum est, quod est Christus Iesus.
 
-12 Si quis autem superædificat super fundamentum hoc, aurum, argentum, lapides pretiosos, ligna, fœnum, stipulam,
+12 Si quis autem superaedificat super fundamentum hoc, aurum, argentum, lapides pretiosos, ligna, foenum, stipulam,
 
 13 uniuscuiusque opus manifestum erit: dies enim Domini declarabit, quia in igne revelabitur: et uniuscuiusque opus quale sit, ignis probabit.
 
-14 Si cuius opus manserit quod superædificavit, mercedem accipiet.
+14 Si cuius opus manserit quod superaedificavit, mercedem accipiet.
 
 15 Si cuius opus arserit, detrimentum patietur: ipse autem salvus erit: sic tamen quasi per ignem.
 
@@ -39,15 +39,15 @@ draft: false
 
 17 Si quis autem templum Dei violaverit, disperdet illum Deus. Templum enim Dei sanctum est, quod estis vos.
 
-18 Nemo se seducat: si quis videtur inter vos sapiens esse in hoc sæculo, stultus fiat ut sit sapiens.
+18 Nemo se seducat: si quis videtur inter vos sapiens esse in hoc saeculo, stultus fiat ut sit sapiens.
 
 19 Sapientia enim huius mundi, stultitia est apud Deum. Scriptum est enim: Comprehendam sapientes in astutia eorum.
 
-20 Et iterum: Dominus novit cogitationes sapientium quoniam vanæ sunt.
+20 Et iterum: Dominus novit cogitationes sapientium quoniam vanae sunt.
 
 21 Nemo itaque glorietur in hominibus.
 
-22 Omnia enim vestra sunt, sive Paulus, sive Apollo, sive Cephas, sive mundus, sive vita, sive mors, sive præsentia, sive futura: omnia enim vestra sunt:
+22 Omnia enim vestra sunt, sive Paulus, sive Apollo, sive Cephas, sive mundus, sive vita, sive mors, sive praesentia, sive futura: omnia enim vestra sunt:
 
 23 vos autem Christi: Christus autem Dei.
 

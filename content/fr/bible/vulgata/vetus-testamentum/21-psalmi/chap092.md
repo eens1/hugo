@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 Dominus regnavit, decorem indutus est: indutus est Dominus fortitudinem, et præcinxit se. Etenim firmavit orbem terræ, qui non commovebitur.
+1 Dominus regnavit, decorem indutus est: indutus est Dominus fortitudinem, et praecinxit se. Etenim firmavit orbem terrae, qui non commovebitur.
 
-2 Parata sedes tua ex tunc: a sæculo tu es.
+2 Parata sedes tua ex tunc: a saeculo tu es.
 
 3 Elevaverunt flumina Domine: elevaverunt flumina vocem suam. Elevaverunt flumina fluctus suos,
 

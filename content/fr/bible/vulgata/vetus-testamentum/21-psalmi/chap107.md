@@ -13,9 +13,9 @@ draft: false
 
 4 Confitebor tibi in populis Domine: et psallam tibi in nationibus.
 
-5 Quia magna est super cælos misericordia tua: et usque ad nubes veritas tua:
+5 Quia magna est super caelos misericordia tua: et usque ad nubes veritas tua:
 
-6 Exaltare super cælos Deus, et super omnem terram gloria tua:
+6 Exaltare super caelos Deus, et super omnem terram gloria tua:
 
 7 ut liberentur dilecti tui. Salvum fac dextera tua, et exaudi me:
 
@@ -23,9 +23,9 @@ draft: false
 
 9 Meus est Galaad, et meus est Manasses: et Ephraim susceptio capitis mei. Iuda rex meus:
 
-10 Moab lebes spei meæ. In Idumæam extendam calceamentum meum: mihi alienigenæ amici facti sunt.
+10 Moab lebes spei meae. In Idumaeam extendam calceamentum meum: mihi alienigenae amici facti sunt.
 
-11 Quis deducet me in civitatem munitam? quis deducet me usque in Idumæam?
+11 Quis deducet me in civitatem munitam? quis deducet me usque in Idumaeam?
 
 12 Nonne tu Deus, qui repulisti nos, et non exibis Deus in virtutibus nostris?
 

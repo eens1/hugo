@@ -34,7 +34,7 @@ summary: |
 
 ***Note*** :  II Esdras 9, 7 : Voir Genèse, 11, 31. ― Du feu. Selon une tradition des Juifs, les Chaldéens voulurent faire brûler Abraham. Saint Jérôme semble avoir rejeté d’abord cette tradition comme fabuleuse, mais il l’a adoptée plus tard. Cependant on entend communément ici par le feu des Chaldéens, la ville Ur ou Our qui en hébreu signifie en effet feu, flamme. ― Le nom d’Abraham. Voir Genèse, 17, 5.
 
-8 Et vous avez trouvé son cœur fidèle devant vous, et vous avez fait avec lui alliance pour lui donner la terre du Chananéen, de l'Héthéen, de l'Amorrhéen, du Phérézéen, du Jébuséen et du Gergéséen, pour la donner à sa postérité ; et vous avez accompli vos paroles, parce que vous êtes juste.
+8 Et vous avez trouvé son coeur fidèle devant vous, et vous avez fait avec lui alliance pour lui donner la terre du Chananéen, de l'Héthéen, de l'Amorrhéen, du Phérézéen, du Jébuséen et du Gergéséen, pour la donner à sa postérité ; et vous avez accompli vos paroles, parce que vous êtes juste.
 
 
 9 Et vous avez vu l'affliction de nos pères en Egypte, et vous avez entendu leur cri sur la mer Rouge. 10 Et vous avez fait éclater des signes et des merveilles sur Pharaon, et sur tous ses serviteurs, et sur tout le peuple de ce pays; car vous avez connu qu'ils avaient agi insolemment contre eux, et vous vous êtes fait un nom comme il est encore en ce jour.

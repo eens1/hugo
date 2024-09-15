@@ -10,7 +10,7 @@ summary: |
 
 
 1 Pour la fin, pour Maheleth. Intelligence à David.
-L'insensé a dit dans son cœur : Il n'y a point de Dieu.
+L'insensé a dit dans son coeur : Il n'y a point de Dieu.
 
 ***Note*** :  Ps. 52, 1 : Voir Psaumes, 13, 1. ― Ce Psaume a quelques légères différences près, n’est que le 13e, avec lequel on peut le comparer. ― Intelligence à David. Voir le titre du Psaume 51 (Hébreu : 52). ― L’insensé se met souvent dans la Bible pour l’impie.
 

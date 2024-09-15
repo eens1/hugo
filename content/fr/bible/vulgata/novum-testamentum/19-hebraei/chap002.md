@@ -5,15 +5,15 @@ draft: false
 ---
 
 
-1 Propterea abundantius oportet observare nos ea, quæ audivimus ne forte pereffluamus.
+1 Propterea abundantius oportet observare nos ea, quae audivimus ne forte pereffluamus.
 
-2 Si enim qui per Angelos dictus est sermo, factus est firmus, et omnis prævaricatio, et inobedientia accepit iustam mercedis retributionem:
+2 Si enim qui per Angelos dictus est sermo, factus est firmus, et omnis praevaricatio, et inobedientia accepit iustam mercedis retributionem:
 
-3 quomodo nos effugiemus si tantam neglexerimus salutem? quæ cum initium accepisset enarrari per Dominum ab eis, qui audierunt, in nos confirmata est,
+3 quomodo nos effugiemus si tantam neglexerimus salutem? quae cum initium accepisset enarrari per Dominum ab eis, qui audierunt, in nos confirmata est,
 
 4 contestante Deo signis et portentis, et variis virtutibus, et Spiritus sancti distributionibus secundum suam voluntatem.
 
-5 Non enim Angelis subiecit Deus orbem terræ futurum, de quo loquimur.
+5 Non enim Angelis subiecit Deus orbem terrae futurum, de quo loquimur.
 
 6 Testatus est autem in quodam loco quis, dicens: Quid est homo quod memor es eius, aut filius hominis quoniam visitas eum?
 
@@ -27,7 +27,7 @@ draft: false
 
 11 Qui enim sanctificat, et qui sanctificantur, ex uno omnes. Propter quam causam non confunditur fratres eos vocare, dicens:
 
-12 Nunciabo nomen tuum fratribus meis: in medio Ecclesiæ laudabo te.
+12 Nunciabo nomen tuum fratribus meis: in medio Ecclesiae laudabo te.
 
 13 Et iterum: Ego ero fidens in eum. Et iterum: Ecce ego, et pueri mei, quos dedit mihi Deus.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 et liberaret eos, qui timore mortis per totam vitam obnoxii erant servituti.
 
-16 Nusquam enim Angelos apprehendit, sed semen Abrahæ apprehendit.
+16 Nusquam enim Angelos apprehendit, sed semen Abrahae apprehendit.
 
 17 Unde debuit per omnia fratribus similari, ut misericors fieret, et fidelis pontifex ad Deum, ut repropitiaret delicta populi.
 

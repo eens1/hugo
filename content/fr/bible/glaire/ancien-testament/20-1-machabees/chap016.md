@@ -42,7 +42,7 @@ summary: |
 
 ***Note*** :  I Macc. 16, 11 : Ptolémée, fils d’Adobi, ne nous est connu que par le récit de ce chapitre. Son nom grec semble indiquer des tendances hellénisantes dans sa famille.
 
-12 Car il était le gendre du grand prêtre. 13 Et son cœur s'exalta, et il voulait s'emparer du pays, et il méditait une trahison contre Simon et ses fils, afin de les détruire. 14 Or Simon, parcourant les cités qui étaient dans la contrée de la Judée, et en prenant soin, descendit à Jéricho, lui et Mathathias son fils et Judas, en l'année cent soixante-dix-septième et au onzième mois, c'est-à-dire le mois de Sabath.
+12 Car il était le gendre du grand prêtre. 13 Et son coeur s'exalta, et il voulait s'emparer du pays, et il méditait une trahison contre Simon et ses fils, afin de les détruire. 14 Or Simon, parcourant les cités qui étaient dans la contrée de la Judée, et en prenant soin, descendit à Jéricho, lui et Mathathias son fils et Judas, en l'année cent soixante-dix-septième et au onzième mois, c'est-à-dire le mois de Sabath.
 
 ***Note*** :  I Macc. 16, 14 : L’année cent soixante dix-septième du règne des Grecs, et la cent trente-quatrième avant Jésus-Christ. ― Sabath, en hébreu Schebat, onzième mois de l’année sacrée et cinquième de l’année civile. Il commençait à la nouvelle lune de janvier, selon les rabbins ; mais c’était plus probablement à celle de février.
 

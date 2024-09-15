@@ -60,7 +60,7 @@ summary: |
 
 19 Qu'ils ne se réjouissent point à mon sujet ceux qui s'opposent à moi injustement; qui me haïssent sans motif et clignent les yeux.
 
-***Note*** :  Ps. 34, 19 : Voir Jean, 15, 25. ― L’expression cligner les yeux ou l’œil (annuere oculis ou oculo) se prend ordinairement en mauvaise part dans l’Ecriture. Comparer à Proverbes, 6, 13 ; 10, 10 ; Ecclésiastique, 27, 25.
+***Note*** :  Ps. 34, 19 : Voir Jean, 15, 25. ― L’expression cligner les yeux ou l’oeil (annuere oculis ou oculo) se prend ordinairement en mauvaise part dans l’Ecriture. Comparer à Proverbes, 6, 13 ; 10, 10 ; Ecclésiastique, 27, 25.
 
 20 Car à la vérité, ils me parlaient pacifiquement ; mais, dans leur colère ardente, parlant à la terre, ils pensaient à des fourberies.
 
@@ -72,7 +72,7 @@ summary: |
 22 Vous l'avez vu, Seigneur; ne gardez pas le silence : Seigneur ne vous éloignez pas de moi. 23 Levez-vous, et procédez à mon jugement : mon Seigneur et mon Dieu, prenez en main ma cause, 24 Jugez-moi selon votre justice, Seigneur, mon Dieu, qu'ils ne se réjouissent point à mon sujet.
 
 
-25 Qu'ils ne disent point dans leurs cœurs : Triomphe! triomphe! pour notre âme ; qu'ils ne disent point non plus : Nous l'avons dévoré. 26 Qu'ils rougissent et qu'ils tremblent de frayeur, ceux qui se réjouissent de mes maux. Qu'ils soient revêtus de confusion et de frayeur, ceux qui parlent avec hauteur contre moi.
+25 Qu'ils ne disent point dans leurs coeurs : Triomphe! triomphe! pour notre âme ; qu'ils ne disent point non plus : Nous l'avons dévoré. 26 Qu'ils rougissent et qu'ils tremblent de frayeur, ceux qui se réjouissent de mes maux. Qu'ils soient revêtus de confusion et de frayeur, ceux qui parlent avec hauteur contre moi.
 
 
 27 Qu'ils exultent et qu'ils tressaillent d'allégresse, ceux qui veulent ma justice ; et qu'ils disent sans cesse : Que le Seigneur soit glorifié, ceux qui veulent la paix de son serviteur.

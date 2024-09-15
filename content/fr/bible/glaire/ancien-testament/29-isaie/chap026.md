@@ -26,21 +26,21 @@ Il l'humiliera jusqu'à terre et il la renversera jusque dans la poussière.
 6 Le pied la foulera, les pieds du pauvre, le pas de l'indigent.
 
 
-7 Le sentier du juste est droit, droit est le chemin où le juste doit marcher. 8 Et dans le sentier de vos jugements. Seigneur, nous vous avons attendu patiemment ; votre nom et votre souvenir sont dans le désir de l'âme. 9 Mon âme vous a désiré pendant la nuit ; mais et par mon esprit et dans mon cœur, dès le matin je veillerai pour vous.
+7 Le sentier du juste est droit, droit est le chemin où le juste doit marcher. 8 Et dans le sentier de vos jugements. Seigneur, nous vous avons attendu patiemment ; votre nom et votre souvenir sont dans le désir de l'âme. 9 Mon âme vous a désiré pendant la nuit ; mais et par mon esprit et dans mon coeur, dès le matin je veillerai pour vous.
 Lorsque vous aurez exercé vos jugements sur la terre, les habitants du globe apprendront la justice.
 
 
 10 Ayons pitié de l'impie, et il n'apprendra pas la justice ; dans la terre des saints il a fait des choses iniques, et il ne verra pas la gloire du Seigneur. 11 Seigneur, que votre main s'élève, et qu'ils ne voient pas ; qu'ils voient et qu'ils soient confondus, ceux qui sont jaloux de votre peuple et qu'un feu dévore vos ennemis.
 
 
-12 Seigneur, vous nous donnerez la paix ; car vous avez opéré toutes nos œuvres pour nous. 13 Seigneur notre Dieu, des maîtres étrangers nous ont possédés sans vous, que seulement par vous nous nous souvenions de votre nom.
+12 Seigneur, vous nous donnerez la paix ; car vous avez opéré toutes nos oeuvres pour nous. 13 Seigneur notre Dieu, des maîtres étrangers nous ont possédés sans vous, que seulement par vous nous nous souvenions de votre nom.
 
 
 14 Que les morts ne revivent point, que les géants ne ressuscitent point; à cause de cela vous les avez visités et brisés, et vous avez anéanti toute leur mémoire.
 
 ***Note*** :  Is. 26, 14 : Que les morts, etc. C’est une imprécation et en même temps une prédiction du malheur des Chaldéens, de ces maîtres étrangers (comparer au verset précédent), qui ont opprimé le peuple du Seigneur.
 
-15 Vous avez été indulgent envers cette nation, Seigneur, vous avez été indulgent envers cette nation ; est-ce que vous n'avez pas été glorifié ? Vous avez reculé les frontières de sa terre. 16 Seigneur, dans l'angoisse ils vous ont recherché, dans la tribulation du murmure votre enseignement était avec eux. 17 Comme celle qui a conçu, lorsqu'elle approche de l'enfantement, souffre et crie dans ses douleurs; ainsi nous sommes devenus à votre face, Seigneur. 18 Nous avons conçu, nous avons été comme en travail, nous avons enfanté du vent; nous n'avons pas fait des œuvres de salut sur la terre ; c'est pour cela que ne sont pas tombés les habitants de la terre.
+15 Vous avez été indulgent envers cette nation, Seigneur, vous avez été indulgent envers cette nation ; est-ce que vous n'avez pas été glorifié ? Vous avez reculé les frontières de sa terre. 16 Seigneur, dans l'angoisse ils vous ont recherché, dans la tribulation du murmure votre enseignement était avec eux. 17 Comme celle qui a conçu, lorsqu'elle approche de l'enfantement, souffre et crie dans ses douleurs; ainsi nous sommes devenus à votre face, Seigneur. 18 Nous avons conçu, nous avons été comme en travail, nous avons enfanté du vent; nous n'avons pas fait des oeuvres de salut sur la terre ; c'est pour cela que ne sont pas tombés les habitants de la terre.
 
 ***Note*** :  Is. 26, 18 : Nous n’avons pas fait, etc. Les Juifs n’ont pas mérité, par de bonnes actions, que Dieu exterminât les habitants des pays voisins de la Judée. Il a conservé ces peuples pour éprouver et châtier Juda.
 

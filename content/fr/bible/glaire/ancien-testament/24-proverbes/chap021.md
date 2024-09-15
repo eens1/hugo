@@ -4,20 +4,20 @@ date: 2024-09-06T20:00:40+02:00
 draft: false
 summary: |
   
-  Cœur du roi dans la main de Dieu.
+  Coeur du roi dans la main de Dieu.
   Paresse, source de misères.
-  Malheur de ceux qui ont le cœur dur pour les pauvres.
+  Malheur de ceux qui ont le coeur dur pour les pauvres.
   Avantages de la justice et de la sagesse.
   Le salut est un don du Seigneur.
 ---
 
 
-1 Comme sont les courants des eaux, ainsi est le cœur du roi dans la main du Seigneur : de quelque côté qu'il veut, il le fera tourner.
+1 Comme sont les courants des eaux, ainsi est le coeur du roi dans la main du Seigneur : de quelque côté qu'il veut, il le fera tourner.
 
-***Note*** :  Prov. 21, 1 : Comme sont, etc. De même qu’un jardinier réduit les divers courants des eaux pour les faire couler où il veut, dans les jardins, de même le Seigneur conduit le cœur du roi et en dispose selon sa volonté.
+***Note*** :  Prov. 21, 1 : Comme sont, etc. De même qu’un jardinier réduit les divers courants des eaux pour les faire couler où il veut, dans les jardins, de même le Seigneur conduit le coeur du roi et en dispose selon sa volonté.
 
 
-2 Toute voie de l'homme lui paraît droite; mais le Seigneur pèse les cœurs.
+2 Toute voie de l'homme lui paraît droite; mais le Seigneur pèse les coeurs.
 
 ***Note*** :  Prov. 21, 2 : Voir Proverbes, 16, 2.
 
@@ -25,7 +25,7 @@ summary: |
 3 Faire miséricorde et justice plaît plus au Seigneur que des victimes.
 
 
-4 L'exaltation des yeux vient de la dilatation du cœur : la lampe des impies est péché.
+4 L'exaltation des yeux vient de la dilatation du coeur : la lampe des impies est péché.
 
 ***Note*** :  Prov. 21, 4 : L’exaltation des yeux ; c’est-à-dire le regard altier, hautain. ― La dilatation ; l’enflure, l’orgueil.
 
@@ -33,15 +33,15 @@ summary: |
 5 Les pensées d'un homme fort amènent toujours l'abondance; mais tout paresseux est toujours dans la détresse.
 
 
-6 Celui qui amasse des trésors avec une langue de mensonge est vain et sans cœur, et il s'engagera dans les lacs de la mort.
+6 Celui qui amasse des trésors avec une langue de mensonge est vain et sans coeur, et il s'engagera dans les lacs de la mort.
 
-***Note*** :  Prov. 21, 6 : Sans cœur (excors). Voir Proverbes, 7, 7.
+***Note*** :  Prov. 21, 6 : Sans coeur (excors). Voir Proverbes, 7, 7.
 
 
 7 Les rapines des impies les entraîneront à leur ruine, parce qu'ils n'ont pas voulu faire justice.
 
 
-8 La voie perverse d'un homme est une voie étrangère ; mais celui qui est pur, son œuvre est droite.
+8 La voie perverse d'un homme est une voie étrangère ; mais celui qui est pur, son oeuvre est droite.
 
 
 9 Mieux vaut demeurer sur l'angle d'un toit qu'avec une femme querelleuse et dans une maison commune.
@@ -129,5 +129,5 @@ summary: |
 
 31 Le cheval est préparé pour le jour du combat; mais c'est le Seigneur qui donne la victoire.
 
-***Note*** :  Prov. 21, 31 : Le cheval, etc. Les Hébreux et les Orientaux en général ne se servaient du cheval que pour la guerre. Le bœuf était destiné à labourer et à conduire les chariots ordinaires ; l’âne et le chameau portaient les charges et les fardeaux ; on s’en servait même pour la monture dans les voyages. ― Victoire ; littéralement salut, délivrance ; mot qui, en hébreu, se prend pour une victoire remportée par un secours extraordinaire de Dieu.
+***Note*** :  Prov. 21, 31 : Le cheval, etc. Les Hébreux et les Orientaux en général ne se servaient du cheval que pour la guerre. Le boeuf était destiné à labourer et à conduire les chariots ordinaires ; l’âne et le chameau portaient les charges et les fardeaux ; on s’en servait même pour la monture dans les voyages. ― Victoire ; littéralement salut, délivrance ; mot qui, en hébreu, se prend pour une victoire remportée par un secours extraordinaire de Dieu.
 

@@ -27,7 +27,7 @@ summary: |
 
 8 C'est pourquoi le roi prit les deux fils de Respha, fille d'Aïa, qu'elle avait enfantés à Saül, Armoni et Miphiboseth, et les cinq fils de Michol, fille de Saül, qu'elle avait engendrés à Hadriel, fils de Berzellaï, lequel était de Molath;
 
-***Note*** :  II Rois 21, 8 : Les cinq fils de Michol, etc. Le mot Michol paraît être une faute de copiste ; car on lit plus haut (voir 1 Rois, 18, 19) que ce fut Mérob, sœur de Michol, qui épousa Hadriel, le Molathite, que Michol eut pour mari Phalti, fils de Laïs (voir 1 Rois, 25, 44), et qu’elle mourut sans enfants (voir 2 Rois, 6, 23). Les Juifs et la plupart des commentateurs chrétiens croient, d’après la version chaldaïque, que ce fut Mérob qui enfanta ces cinq fils à Hadriel, et que Michol les lui éleva.
+***Note*** :  II Rois 21, 8 : Les cinq fils de Michol, etc. Le mot Michol paraît être une faute de copiste ; car on lit plus haut (voir 1 Rois, 18, 19) que ce fut Mérob, soeur de Michol, qui épousa Hadriel, le Molathite, que Michol eut pour mari Phalti, fils de Laïs (voir 1 Rois, 25, 44), et qu’elle mourut sans enfants (voir 2 Rois, 6, 23). Les Juifs et la plupart des commentateurs chrétiens croient, d’après la version chaldaïque, que ce fut Mérob qui enfanta ces cinq fils à Hadriel, et que Michol les lui éleva.
 
 9 Et il les livra aux mains des Gabaonites, qui les crucifièrent sur la montagne, devant le Seigneur; et ces sept hommes tombèrent morts ensemble dans les premiers jours de la moisson, la moisson de l'orge commençant.
 

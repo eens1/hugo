@@ -20,9 +20,9 @@ summary: |
 
 8 Ce sont vos mains qui m'ont fait et m'ont façonné tout entier dans mes contours; et c'est ainsi que soudain vous me précipitez dans un abîme. 9 Souvenez-vous, je vous prie, que vous m'avez fait comme un vase d'argile, et que vous me réduirez en poussière. 10 Ne m'avez-vous pas trait comme le lait et coagulé comme le fromage?
 
-***Note*** :  Job 10, 10 : Les anciens croyaient que le fœtus se formait dans le sein maternel à la manière du lait qui se caille et s’épaissit. Job pouvait d’autant mieux conformer son langage à cette opinion, qu’aujourd’hui même la génération de l’homme est un mystère incompréhensible.
+***Note*** :  Job 10, 10 : Les anciens croyaient que le foetus se formait dans le sein maternel à la manière du lait qui se caille et s’épaissit. Job pouvait d’autant mieux conformer son langage à cette opinion, qu’aujourd’hui même la génération de l’homme est un mystère incompréhensible.
 
-11 Vous m'avez revêtu de peau et de chairs, et avec des os et des nerfs vous avez fait un tout de moi. 12 Vous m'avez donné vie et miséricorde, et vos soins ont conservé mon souffle vital. 13 Quoique vous cachiez ces choses dans votre cœur, je sais cependant que vous vous souvenez de toutes choses.
+11 Vous m'avez revêtu de peau et de chairs, et avec des os et des nerfs vous avez fait un tout de moi. 12 Vous m'avez donné vie et miséricorde, et vos soins ont conservé mon souffle vital. 13 Quoique vous cachiez ces choses dans votre coeur, je sais cependant que vous vous souvenez de toutes choses.
 
 ***Note*** :  Job 10, 13 : Quoique vous cachiez, etc. ; c’est-à-dire quoique par la manière dont vous me traitez aujourd’hui, vous semblez avoir oublié que je suis votre ouvrage, votre créature, comblée autrefois de vos bontés, je suis certain que vous n’êtes pas changé, et que vous ne m’avez pas rejeté.
 
@@ -41,5 +41,5 @@ summary: |
 17 Vous produisez vos témoins contre moi, vous augmentez aussi votre colère contre moi, et vos châtiments combattent contre moi.
 
 
-18 Pourquoi m'avez-vous tiré du sein de ma mère? Plût à Dieu que j'eusse été consumé ! aucun œil ne m'aurait vu. 19 J'aurais été comme n'étant point, transporté d'un sein au tombeau. 20 Est-ce que le petit nombre de mes jours ne finira pas bientôt? Laissez-moi donc que je pleure un peu ma douleur, 21 Avant que j'aille d'où je ne reviendrai pas, dans une terre ténébreuse et couverte d'une obscurité de mort; 22 Terre de misère et de ténèbres, où règne l'ombre de la mort, et où il n'y a aucun ordre, mais où habite une éternelle horreur.
+18 Pourquoi m'avez-vous tiré du sein de ma mère? Plût à Dieu que j'eusse été consumé ! aucun oeil ne m'aurait vu. 19 J'aurais été comme n'étant point, transporté d'un sein au tombeau. 20 Est-ce que le petit nombre de mes jours ne finira pas bientôt? Laissez-moi donc que je pleure un peu ma douleur, 21 Avant que j'aille d'où je ne reviendrai pas, dans une terre ténébreuse et couverte d'une obscurité de mort; 22 Terre de misère et de ténèbres, où règne l'ombre de la mort, et où il n'y a aucun ordre, mais où habite une éternelle horreur.
 

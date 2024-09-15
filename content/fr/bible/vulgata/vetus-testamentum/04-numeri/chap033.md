@@ -5,23 +5,23 @@ draft: false
 ---
 
 
-1 Hæ sunt mansiones filiorum Israel, qui egressi sunt de Ægypto per turmas suas in manu Moysi et Aaron,
+1 Hae sunt mansiones filiorum Israel, qui egressi sunt de AEgypto per turmas suas in manu Moysi et Aaron,
 
-2 quas descripsit Moyses iuxta castrorum loca, quæ Domini iussione mutabant.
+2 quas descripsit Moyses iuxta castrorum loca, quae Domini iussione mutabant.
 
-3 Profecti igitur de Ramesse mense primo, quintadecima die mensis primi, altera die Phase filii Israel in manu excelsa videntibus cunctis Ægyptiis,
+3 Profecti igitur de Ramesse mense primo, quintadecima die mensis primi, altera die Phase filii Israel in manu excelsa videntibus cunctis AEgyptiis,
 
 4 et sepelientibus primogenitos, quos percusserat Dominus (nam et in diis eorum exercuerat ultionem)
 
 5 castrametati sunt in Soccoth.
 
-6 Et de Soccoth venerunt in Etham, quæ est in extremis finibus solitudinis.
+6 Et de Soccoth venerunt in Etham, quae est in extremis finibus solitudinis.
 
-7 Inde egressi venerunt contra Phihahiroth, quæ respicit Beelsephon, et castrametati sunt ante Magdalum.
+7 Inde egressi venerunt contra Phihahiroth, quae respicit Beelsephon, et castrametati sunt ante Magdalum.
 
 8 Profectique de Phihahiroth, transierunt per medium mare in solitudinem: et ambulantes tribus diebus per desertum Etham, castrametati sunt in Mara.
 
-9 Profectique de Mara venerunt in Elim, ubi erant duodecim fontes aquarum, et palmæ septuaginta: ibique castrametati sunt.
+9 Profectique de Mara venerunt in Elim, ubi erant duodecim fontes aquarum, et palmae septuaginta: ibique castrametati sunt.
 
 10 Sed et inde egressi, fixerunt tentoria super Mare rubrum. Profectique de Mari rubro,
 
@@ -35,9 +35,9 @@ draft: false
 
 15 Profectique de Raphidim, castrametati sunt in deserto Sinai.
 
-16 Sed et de solitudine Sinai egressi, venerunt ad sepulchra concupiscentiæ.
+16 Sed et de solitudine Sinai egressi, venerunt ad sepulchra concupiscentiae.
 
-17 Profectique de sepulchris concupiscentiæ, castrametati sunt in Haseroth.
+17 Profectique de sepulchris concupiscentiae, castrametati sunt in Haseroth.
 
 18 Et de Haseroth venerunt in Rethma.
 
@@ -75,15 +75,15 @@ draft: false
 
 35 Egressique de Hebrona, castrametati sunt in Asiongaber.
 
-36 Inde profecti, venerunt in desertum Sin, hæc est Cades.
+36 Inde profecti, venerunt in desertum Sin, haec est Cades.
 
-37 Egressique de Cades, castrametati sunt in monte Hor, in extremis finibus Terræ Edom.
+37 Egressique de Cades, castrametati sunt in monte Hor, in extremis finibus Terrae Edom.
 
-38 Ascenditque Aaron sacerdos in montem Hor iubente Domino: et ibi mortuus est anno quadragesimo egressionis filiorum Israel ex Ægypto, mense quinto, prima die mensis,
+38 Ascenditque Aaron sacerdos in montem Hor iubente Domino: et ibi mortuus est anno quadragesimo egressionis filiorum Israel ex AEgypto, mense quinto, prima die mensis,
 
 39 cum esset annorum centum viginti trium.
 
-40 Audivitque Chananæus rex Arad, qui habitabat ad meridiem, in Terram Chanaan venisse filios Israel.
+40 Audivitque Chananaeus rex Arad, qui habitabat ad meridiem, in Terram Chanaan venisse filios Israel.
 
 41 Et profecti de monte Hor, castrametati sunt in Salmona.
 
@@ -91,7 +91,7 @@ draft: false
 
 43 Profectique de Phunon, castrametati sunt in Oboth.
 
-44 Et de Oboth, venerunt in Iieabarim, quæ est in finibus Moabitarum.
+44 Et de Oboth, venerunt in Iieabarim, quae est in finibus Moabitarum.
 
 45 Profectique de Iieabarim, fixere tentoria in Dibongad.
 
@@ -105,15 +105,15 @@ draft: false
 
 50 ubi locutus est Dominus ad Moysen:
 
-51 Præcipe filiis Israel, et dic ad eos: Quando transieritis Iordanem, intrantes Terram Chanaan,
+51 Praecipe filiis Israel, et dic ad eos: Quando transieritis Iordanem, intrantes Terram Chanaan,
 
-52 disperdite cunctos habitatores Terræ illius: confringite titulos, et statuas comminuite, atque omnia excelsa vastate,
+52 disperdite cunctos habitatores Terrae illius: confringite titulos, et statuas comminuite, atque omnia excelsa vastate,
 
 53 mundantes terram, et habitantes in ea. ego enim dedi vobis illam in possessionem,
 
 54 quam dividetis vobis sorte. Pluribus dabitis latiorem, et paucis angustiorem. Singulis ut sors ceciderit, ita tribuetur hereditas. Per tribus et familias possessio dividetur.
 
-55 Sin autem nolueritis interficere habitatores Terræ: qui remanserint, erunt vobis quasi clavi in oculis, et lanceæ in lateribus, et adversabuntur vobis in Terra habitationis vestræ:
+55 Sin autem nolueritis interficere habitatores Terrae: qui remanserint, erunt vobis quasi clavi in oculis, et lanceae in lateribus, et adversabuntur vobis in Terra habitationis vestrae:
 
 56 et quidquid illis cogitaveram facere, vobis faciam.
 

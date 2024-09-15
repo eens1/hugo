@@ -37,12 +37,12 @@ summary: |
 
 14 Souvenez-vous de moi mon Dieu, pour cela, et n'effacez point mes miséricordes que j'ai faites dans la maison de mon Dieu et dans ses cérémonies.
 
-***Note*** :  II Esdras 13, 14 : Mes miséricordes, c’est-à-dire mes actes de bonté, mes bonnes œuvres.
+***Note*** :  II Esdras 13, 14 : Mes miséricordes, c’est-à-dire mes actes de bonté, mes bonnes oeuvres.
 
 
 15 En ces jours-là, je vis en Juda des hommes foulant des pressoirs pendant le sabbat, portant les gerbes, chargeant sur les ânes du vin, des raisins, des figues et toute sorte de fardeaux, et les apportant à Jérusalem au jour du sabbat, et je leur dis expressément de vendre au jour auquel il est permis de vendre.
 
-***Note*** :  II Esdras 13, 15 : Toutes les œuvres énumérées ici sont interdites le jour du sabbat.
+***Note*** :  II Esdras 13, 15 : Toutes les oeuvres énumérées ici sont interdites le jour du sabbat.
 
 16 Les Tyriens aussi demeuraient dans la ville, y apportant des poissons et toute espèce d'objets de vente, et ils les vendaient dans les jours du Sabbat aux enfants de Juda dans Jérusalem. 17 Alors je fis des reproches aux grands de Juda, et je leur dis : Quelle est cette chose mauvaise que vous faites? et pourquoi profanez-vous le jour du sabbat? 18 Est-ce que nos pères n'ont pas fait ces choses, et notre Dieu n'a-t-il pas fait venir pour cela tout ce mal sur nous et sur cette ville? Et vous, vous ajoutez le courroux sur Israël en violant le sabbat. 19 Il arriva donc que, lorsque les portes de Jérusalem furent en repos au jour du sabbat, je dis, et on ferma les portes, et j'ordonnai qu'on ne les ouvrît point jusqu'après le sabbat; et je plaçai de mes serviteurs aux portes, afin que personne n'apportât de fardeau au jour du sabbat.
 

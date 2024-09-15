@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Ecce omnia hæc vidit oculus meus, et audivit auris mea, et intellexi singula.
+1 Ecce omnia haec vidit oculus meus, et audivit auris mea, et intellexi singula.
 
 2 Secundum scientiam vestram et ego novi: nec inferior vestri sum.
 
@@ -27,7 +27,7 @@ draft: false
 
 11 Statim ut se commoverit, turbabit vos, et terror eius irruet super vos.
 
-12 Memoria vestra comparabitur cineri, et redigentur in lutum cervices vestræ.
+12 Memoria vestra comparabitur cineri, et redigentur in lutum cervices vestrae.
 
 13 Tacete paulisper ut loquar quodcumque mihi mens suggesserit.
 
@@ -37,7 +37,7 @@ draft: false
 
 16 Et ipse erit salvator meus: non enim veniet in conspectu eius omnis hypocrita.
 
-17 Audite sermonem meum, et ænigmata percipite auribus vestris.
+17 Audite sermonem meum, et aenigmata percipite auribus vestris.
 
 18 Si fuero iudicatus, scio quod iustus inveniar.
 
@@ -55,7 +55,7 @@ draft: false
 
 25 Contra folium, quod vento rapitur, ostendis potentiam tuam, et stipulam siccam persequeris:
 
-26 Scribis enim contra me amaritudines, et consumere me vis peccatis adolescentiæ meæ.
+26 Scribis enim contra me amaritudines, et consumere me vis peccatis adolescentiae meae.
 
 27 Posuisti in nervo pedem meum, et observasti omnes semitas meas, et vestigia pedum meorum considerasti:
 

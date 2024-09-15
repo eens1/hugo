@@ -52,7 +52,7 @@ summary: |
 
 ***Note*** :  Sir. 15, 18 : Voir Jérémie, 21, 8.
 
-19 Parce que grande est la sagesse de Dieu; et il est fort en' puissance, et il voit tous les hommes sans cesse. 20 Les yeux du Seigneur sont sur ceux qui le craignent, et lui-même connaît toute œuvre de l'homme.
+19 Parce que grande est la sagesse de Dieu; et il est fort en' puissance, et il voit tous les hommes sans cesse. 20 Les yeux du Seigneur sont sur ceux qui le craignent, et lui-même connaît toute oeuvre de l'homme.
 
 ***Note*** :  Sir. 15, 20 : Voir Psaumes, 33, 16 ; Hébreux, 4, 13.
 

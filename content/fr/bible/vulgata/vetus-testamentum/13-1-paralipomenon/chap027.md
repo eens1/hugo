@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Filii autem Israel secundum numerum suum, principes familiarum, tribuni, et centuriones, et præfecti, qui ministrabant regi iuxta turmas suas, ingredientes et egredientes per singulos menses in anno, viginti quattuor millibus singuli præerant.
+1 Filii autem Israel secundum numerum suum, principes familiarum, tribuni, et centuriones, et praefecti, qui ministrabant regi iuxta turmas suas, ingredientes et egredientes per singulos menses in anno, viginti quattuor millibus singuli praeerant.
 
-2 Primæ turmæ in primo mense Iesboam præerat filius Zabdiel, et sub eo vigintiquattuor millia.
+2 Primae turmae in primo mense Iesboam praeerat filius Zabdiel, et sub eo vigintiquattuor millia.
 
 3 De filiis Phares, princeps cunctorum principum in exercitu mense primo.
 
 4 Secundi mensis habebat turmam Dudia Ahohites, et post se alter nomine Macelloth, qui regebat partem exercitus viginti quattuor millium.
 
-5 Dux quoque turmæ tertiæ in mense tertio, erat Banaias filius Ioiadæ sacerdos: et in divisione sua viginti quattuor millia.
+5 Dux quoque turmae tertiae in mense tertio, erat Banaias filius Ioiadae sacerdos: et in divisione sua viginti quattuor millia.
 
-6 Ipse est Banaias fortissimus inter triginta, et super triginta. præerat autem turmæ ipsius Amizabad filius eius.
+6 Ipse est Banaias fortissimus inter triginta, et super triginta. praeerat autem turmae ipsius Amizabad filius eius.
 
 7 Quartus, mense quarto, Asahel frater Ioab, et Zabadias filius eius post eum: et in turma eius vigintiquattuor millia.
 
@@ -35,41 +35,41 @@ draft: false
 
 15 Duodecimus, mense duodecimo, Holdai Netophathites, de stirpe Gothoniel: et in turma eius vigintiquattuor millia.
 
-16 Porro tribubus præerant Israel, Rubenitis, dux Eliezer filius Zechri: Simeonitis, dux Saphatias filius Maacha:
+16 Porro tribubus praeerant Israel, Rubenitis, dux Eliezer filius Zechri: Simeonitis, dux Saphatias filius Maacha:
 
 17 Levitis, Hasabias filius Camuel: Aaronitis, Sadoc:
 
 18 Iuda, Eliu, frater David: Issachar, Amri filius Michael.
 
-19 Zabulonitis, Iesmaias filius Abdiæ: Nephthalitibus, Ierimoth filius Ozriel:
+19 Zabulonitis, Iesmaias filius Abdiae: Nephthalitibus, Ierimoth filius Ozriel:
 
-20 filiis Ephraim, Osee filius Ozaziu: dimidiæ tribui Manasse, Ioel filius Phadaiæ:
+20 filiis Ephraim, Osee filius Ozaziu: dimidiae tribui Manasse, Ioel filius Phadaiae:
 
-21 et dimidiæ tribui Manasse in Galaad, Iaddo filius Zachariæ: Beniamin autem, Iasiel filius Abner.
+21 et dimidiae tribui Manasse in Galaad, Iaddo filius Zachariae: Beniamin autem, Iasiel filius Abner.
 
 22 Dan vero, Ezrihel filius Ieroham: hi principes filiorum Israel.
 
-23 Noluit autem David numerare eos a viginti annis inferius: quia dixerat Dominus ut multiplicaret Israel quasi stellas cæli.
+23 Noluit autem David numerare eos a viginti annis inferius: quia dixerat Dominus ut multiplicaret Israel quasi stellas caeli.
 
-24 Ioab filius Sarviæ cœperat numerare, nec complevit: quia super hoc ira irruerat in Israel: et idcirco numerus eorum qui fuerant recensiti, non est relatus in fastos regis David.
+24 Ioab filius Sarviae coeperat numerare, nec complevit: quia super hoc ira irruerat in Israel: et idcirco numerus eorum qui fuerant recensiti, non est relatus in fastos regis David.
 
-25 Super thesauros autem regis fuit Azmoth filius Adiel. his autem thesauris, qui erant in urbibus, et in vicis, et in turribus, præsidebat Ionathan filius Oziæ.
+25 Super thesauros autem regis fuit Azmoth filius Adiel. his autem thesauris, qui erant in urbibus, et in vicis, et in turribus, praesidebat Ionathan filius Oziae.
 
-26 Operi autem rustico, et agricolis, qui exercebant terram, præerat Ezri filius Chelub:
+26 Operi autem rustico, et agricolis, qui exercebant terram, praeerat Ezri filius Chelub:
 
 27 vinearumque cultoribus, Semeias Romathites: cellis autem vinariis, Zabdias Aphonites.
 
-28 Nam super oliveta et ficeta, quæ erant in campestribus, Balanam Gederites: super apothecas autem olei, Ioas.
+28 Nam super oliveta et ficeta, quae erant in campestribus, Balanam Gederites: super apothecas autem olei, Ioas.
 
-29 Porro armentis, quæ pascebantur in Saron, præpositus fuit Setrai Saronites: et super boves in vallibus Saphat filius Adli:
+29 Porro armentis, quae pascebantur in Saron, praepositus fuit Setrai Saronites: et super boves in vallibus Saphat filius Adli:
 
 30 super camelos vero, Ubil Ismahelites: et super asinos, Iadias Meronathites.
 
-31 super oves quoque Iaziz Agareus. omnes hi, principes substantiæ regis David.
+31 super oves quoque Iaziz Agareus. omnes hi, principes substantiae regis David.
 
 32 Ionathan autem patruus David, consiliarius, vir prudens et litteratus: ipse et Iahiel filius Hachamoni erant cum filiis regis.
 
 33 Achitophel etiam consiliarius regis, et Chusai Arachites amicus regis.
 
-34 Post Achitophel fuit Ioiada filius Banaiæ, et Abiathar. Princeps autem exercitus regis erat Ioab.
+34 Post Achitophel fuit Ioiada filius Banaiae, et Abiathar. Princeps autem exercitus regis erat Ioab.
 

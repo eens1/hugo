@@ -11,15 +11,15 @@ draft: false
 
 3 sic qui facit per vim iudicium iniquum.
 
-4 Quam bonum est correptum manifestare pœnitentiam! sic enim effugies voluntarium peccatum.
+4 Quam bonum est correptum manifestare poenitentiam! sic enim effugies voluntarium peccatum.
 
 5 Est tacens, qui invenitur sapiens: et est odibilis, qui procax est ad loquendum.
 
-6 Est tacens non habens sensum loquelæ: et est tacens sciens tempus aptum.
+6 Est tacens non habens sensum loquelae: et est tacens sciens tempus aptum.
 
 7 Homo sapiens tacebit usque ad tempus: lascivus autem, et imprudens non servabunt tempus.
 
-8 Qui multis utitur verbis, lædet animam suam: et qui potestatem sibi sumit iniuste, odietur.
+8 Qui multis utitur verbis, laedet animam suam: et qui potestatem sibi sumit iniuste, odietur.
 
 9 Est processio in malis viro indisciplinato, et est inventio in detrimentum.
 
@@ -29,31 +29,31 @@ draft: false
 
 12 Est qui multa redimat modico pretio, et restituens ea in septuplum.
 
-13 Sapiens in verbis seipsum amabilem facit: gratiæ autem fatuorum effundentur.
+13 Sapiens in verbis seipsum amabilem facit: gratiae autem fatuorum effundentur.
 
 14 Datus insipientis non erit utilis tibi: oculi enim illius septemplices sunt.
 
 15 exigua dabit, et multa improperabit: et apertio oris illius inflammatio est.
 
-16 Hodie fœneratur quis, et cras expetit: odibilis est homo huiusmodi.
+16 Hodie foeneratur quis, et cras expetit: odibilis est homo huiusmodi.
 
 17 Fatuo non erit amicus, et non erit gratia bonis illius.
 
-18 qui enim edunt panem illius: falsæ linguæ sunt. Quoties, et quanti irridebunt eum?
+18 qui enim edunt panem illius: falsae linguae sunt. Quoties, et quanti irridebunt eum?
 
 19 Neque enim quod habendum erat, directo sensu distribuit: similiter et quod non erat habendum.
 
-20 Lapsus falsæ linguæ, quasi qui in pavimento cadens: sic casus malorum festinanter veniet.
+20 Lapsus falsae linguae, quasi qui in pavimento cadens: sic casus malorum festinanter veniet.
 
 21 Homo acharis quasi fabula vana, in ore indisciplinatorum assidua erit.
 
 22 Ex ore fatui reprobabitur parabola: non enim dicit illam in tempore suo.
 
-23 Est qui vetatur peccare præ inopia, et in requie sua stimulabitur.
+23 Est qui vetatur peccare prae inopia, et in requie sua stimulabitur.
 
-24 Est qui perdet animam suam præ confusione, et ab imprudenti persona perdet eam: personæ autem acceptione perdet se.
+24 Est qui perdet animam suam prae confusione, et ab imprudenti persona perdet eam: personae autem acceptione perdet se.
 
-25 Est qui præ confusione promittit amico, et lucratus est eum inimicum gratis.
+25 Est qui prae confusione promittit amico, et lucratus est eum inimicum gratis.
 
 26 Opprobrium nequam in homine mendacium, et in ore indisciplinatorum assidue erit.
 
@@ -65,9 +65,9 @@ draft: false
 
 30 Qui operatur terram suam, inaltabit acervum frugum: et qui operatur iustitiam, ipse exaltabitur: qui vero placet magnatis, effugiet iniquitatem.
 
-31 Xenia et dona excæcant oculos iudicum, et quasi mutus in ore avertit correptiones eorum.
+31 Xenia et dona excaecant oculos iudicum, et quasi mutus in ore avertit correptiones eorum.
 
-32 Sapientia absconsa et thesaurus invisus: quæ utilitas in utrisque?
+32 Sapientia absconsa et thesaurus invisus: quae utilitas in utrisque?
 
 33 Melior est qui celat insipientiam suam, quam homo qui abscondit sapientiam suam.
 

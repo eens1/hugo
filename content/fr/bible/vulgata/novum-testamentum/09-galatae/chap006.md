@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Fratres, et si præoccupatus fuerit homo in aliquo delicto, vos, qui spirituales estis, huiusmodi instruite in spiritu lenitatis, considerans te ipsum, ne et tu tenteris.
+1 Fratres, et si praeoccupatus fuerit homo in aliquo delicto, vos, qui spirituales estis, huiusmodi instruite in spiritu lenitatis, considerans te ipsum, ne et tu tenteris.
 
 2 Alter alterius onera portate, et sic adimplebitis legem Christi.
 
@@ -19,7 +19,7 @@ draft: false
 
 7 Nolite errare: Deus non irridetur.
 
-8 Quæ enim seminaverit homo, hæc et metet. Quoniam qui seminat in carne sua, de carne et metet corruptionem: qui autem seminat in spiritu, de spiritu metet vitam æternam.
+8 Quae enim seminaverit homo, haec et metet. Quoniam qui seminat in carne sua, de carne et metet corruptionem: qui autem seminat in spiritu, de spiritu metet vitam aeternam.
 
 9 Bonum autem facientes, non deficiamus: tempore enim suo metemus non deficientes.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 Mihi autem absit gloriari, nisi in cruce Domini nostri Iesu Christi: per quem mihi mundus crucifixus est, et ego mundo.
 
-15 In Christo enim Iesu neque circumcisio aliquid valet, neque præputium, sed nova creatura.
+15 In Christo enim Iesu neque circumcisio aliquid valet, neque praeputium, sed nova creatura.
 
 16 Et quicumque hanc regulam secuti fuerint, pax super illos, et misericordia, et super Israel Dei.
 

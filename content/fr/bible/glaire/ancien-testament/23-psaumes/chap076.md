@@ -21,7 +21,7 @@ summary: |
 4 Je me suis souvenu de Dieu, et j'ai été ravi de joie ; je me suis exercé à méditer, et mon esprit a défailli.
 
 
-5 Mes yeux ont anticipé les veilles de la nuit ; j'ai été troublé, et je n'ai point parlé. 6 J'ai pensé aux jours anciens; et j'ai eu les années éternelles dans l'esprit. 7 Et j'ai médité la nuit avec mon cœur, je m'exerçais à prier et je sondais mon esprit.
+5 Mes yeux ont anticipé les veilles de la nuit ; j'ai été troublé, et je n'ai point parlé. 6 J'ai pensé aux jours anciens; et j'ai eu les années éternelles dans l'esprit. 7 Et j'ai médité la nuit avec mon coeur, je m'exerçais à prier et je sondais mon esprit.
 
 
 8 Est-ce que Dieu nous rejettera éternellement? ou ne sera-t-il pas de nouveau plus favorable encore?
@@ -31,13 +31,13 @@ summary: |
 9 Ou retranchera-t-il sans fin sa miséricorde, de génération en génération? 10 Ou Dieu oubliera-t-il d'avoir pitié? ou contiendra-t-il, dans sa colère, ses miséricordes?
 
 
-11 Et j'ai dit: C'est maintenant que je commence ; ce changement est l'œuvre de la droite du Très-Haut.
+11 Et j'ai dit: C'est maintenant que je commence ; ce changement est l'oeuvre de la droite du Très-Haut.
 
-***Note*** :  Ps. 76, 11 : Et j’ai dit ; après avoir ainsi déchargé mon cœur devant Dieu. ― Je commence à espérer.
+***Note*** :  Ps. 76, 11 : Et j’ai dit ; après avoir ainsi déchargé mon coeur devant Dieu. ― Je commence à espérer.
 
-12 Je me suis souvenu des œuvres du Seigneur, je me souviendrai aussi de vos merveilles depuis le commencement. 13 Je méditerai sur toutes vos œuvres, et je m'exercerai dans vos desseins.
+12 Je me suis souvenu des oeuvres du Seigneur, je me souviendrai aussi de vos merveilles depuis le commencement. 13 Je méditerai sur toutes vos oeuvres, et je m'exercerai dans vos desseins.
 
-***Note*** :  Ps. 76, 13 : Je m’exercerai dans vos desseins ; c’est-à-dire à réfléchir sur, etc. ― Vos desseins ; littéralement vos inventions ; l’hébreu porte : vos actions, vos œuvres.
+***Note*** :  Ps. 76, 13 : Je m’exercerai dans vos desseins ; c’est-à-dire à réfléchir sur, etc. ― Vos desseins ; littéralement vos inventions ; l’hébreu porte : vos actions, vos oeuvres.
 
 
 14 Ô Dieu, votre voie est sainte : quel Dieu est grand comme notre Dieu?

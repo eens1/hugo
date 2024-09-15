@@ -7,7 +7,7 @@ draft: false
 
 1 Clama, ne cesses, quasi tuba exalta vocem tuam, et annuncia populo meo scelera eorum, et domui Iacob peccata eorum.
 
-2 Me etenim de die in diem quærunt, et scire vias meas volunt: quasi gens, quæ iustitiam fecerit, et iudicium Dei sui non dereliquerit: rogant me iudicia iustitiæ: appropinquare Deo volunt.
+2 Me etenim de die in diem quaerunt, et scire vias meas volunt: quasi gens, quae iustitiam fecerit, et iudicium Dei sui non dereliquerit: rogant me iudicia iustitiae: appropinquare Deo volunt.
 
 3 Quare ieiunavimus, et non aspexisti: humiliavimus animas nostras, et nescisti? Ecce in die ieiunii vestri invenitur voluntas vestra, et omnes debitores vestros repetitis.
 
@@ -23,13 +23,13 @@ draft: false
 
 9 Tunc invocabis, et Dominus exaudiet: clamabis, et dicet: Ecce adsum. si abstuleris de medio tui catenam, et desieris extendere digitum, et loqui quod non prodest.
 
-10 Cum effuderis esurienti animam tuam, et animam afflictam repleveris, orietur in tenebris lux tua, et tenebræ tuæ erunt sicut meridies.
+10 Cum effuderis esurienti animam tuam, et animam afflictam repleveris, orietur in tenebris lux tua, et tenebrae tuae erunt sicut meridies.
 
-11 Et requiem tibi dabit Dominus semper, et implebit splendoribus animam tuam, et ossa tua liberabit, et eris quasi hortus irriguus, et sicut fons aquarum, cuius non deficient aquæ.
+11 Et requiem tibi dabit Dominus semper, et implebit splendoribus animam tuam, et ossa tua liberabit, et eris quasi hortus irriguus, et sicut fons aquarum, cuius non deficient aquae.
 
-12 Et ædificabuntur in te deserta sæculorum: fundamenta generationis et generationis suscitabis: et vocaberis ædificator sepium, avertens semitas in quietem.
+12 Et aedificabuntur in te deserta saeculorum: fundamenta generationis et generationis suscitabis: et vocaberis aedificator sepium, avertens semitas in quietem.
 
 13 Si averteris a sabbato pedem tuum, facere voluntatem tuam in die sancto meo, et vocaveris sabbatum delicatum, et sanctum Domini gloriosum, et glorificaveris eum dum non facis vias tuas, et non invenitur voluntas tua, ut loquaris sermonem:
 
-14 Tunc delectaberis super Domino, et sustollam te super altitudines terræ, et cibabo te hereditate Iacob patris tui. os enim Domini locutum est.
+14 Tunc delectaberis super Domino, et sustollam te super altitudines terrae, et cibabo te hereditate Iacob patris tui. os enim Domini locutum est.
 

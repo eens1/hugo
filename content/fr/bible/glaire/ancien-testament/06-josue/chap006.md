@@ -44,7 +44,7 @@ summary: |
 
 ***Note*** :  Josué 6, 20 : Voir Hébreux, 11, 30 ; 2 Machabées, 12, 15. ― Les murs, etc. Il est vraisemblable que Dieu excita tout à coup un tremblement de terre par lequel ces murs furent subitement renversés.
 
-21 Et ils tuèrent tout ce qui s'y trouvait, depuis l'homme jusqu'à la femme, depuis l'enfant jusqu'au vieillard. Les bœufs aussi, et les brebis et les ânes, ils les frappèrent du tranchant du glaive.
+21 Et ils tuèrent tout ce qui s'y trouvait, depuis l'homme jusqu'à la femme, depuis l'enfant jusqu'au vieillard. Les boeufs aussi, et les brebis et les ânes, ils les frappèrent du tranchant du glaive.
 
 
 22 Mais Josué dit aux deux hommes qui avaient été envoyés comme espions : Entrez dans la maison de la femme de mauvaise vie, et faites-la sortir, ainsi que tout ce qui est à elle, comme vous lui avez assuré par serment.

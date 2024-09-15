@@ -33,7 +33,7 @@ summary: |
 
 8 Mais dix hommes se trouvèrent parmi eux qui dirent à Ismahel : Ne nous faites pas mourir, parce que nous avons des trésors cachés dans le champ, du blé, de l'orge, de l'huile et du miel. Et il s'arrêta et ne les tua pas avec leurs frères.
 
-***Note*** :  Jr. 41, 8 : Dans le champ. Encore aujourd’hui en Palestine, on cache les récoltes dans les champs, dans des trous en forme de citernes, et l’ouverture en est si bien dissimulée qu’un œil étranger peut difficilement la découvrir.
+***Note*** :  Jr. 41, 8 : Dans le champ. Encore aujourd’hui en Palestine, on cache les récoltes dans les champs, dans des trous en forme de citernes, et l’ouverture en est si bien dissimulée qu’un oeil étranger peut difficilement la découvrir.
 
 9 Or la fosse dans laquelle Ismahel avait jeté tous les cadavres des hommes qu'il tua à cause de Godolias, est celle-là même qu'avait faite le roi Asa à cause de Baasa, roi d'Israël; Ismahel, fils de Nathanias, la remplit de morts.
 

@@ -5,23 +5,23 @@ draft: false
 ---
 
 
-1 In mense octavo in anno secundo Darii regis, factum est verbum Domini ad Zachariam, filium Barachiæ filii Addo, prophetam, dicens:
+1 In mense octavo in anno secundo Darii regis, factum est verbum Domini ad Zachariam, filium Barachiae filii Addo, prophetam, dicens:
 
 2 Iratus est Dominus super patres vestros iracundia.
 
-3 Et dices ad eos: Hæc dicit Dominus exercituum: Convertimini ad me, ait Dominus exercituum: et convertar ad vos, dicit Dominus exercituum.
+3 Et dices ad eos: Haec dicit Dominus exercituum: Convertimini ad me, ait Dominus exercituum: et convertar ad vos, dicit Dominus exercituum.
 
-4 Ne sitis sicut patres vestri, ad quos clamabant prophetæ priores, dicentes: Hæc dicit Dominus exercituum: Convertimini de viis vestris malis, et de cogitationibus vestris pessimis: et non audierunt, neque attenderunt ad me, dicit Dominus.
+4 Ne sitis sicut patres vestri, ad quos clamabant prophetae priores, dicentes: Haec dicit Dominus exercituum: Convertimini de viis vestris malis, et de cogitationibus vestris pessimis: et non audierunt, neque attenderunt ad me, dicit Dominus.
 
-5 Patres vestri ubi sunt? et prophetæ numquid in sempiternum vivent?
+5 Patres vestri ubi sunt? et prophetae numquid in sempiternum vivent?
 
-6 Verumtamen verba mea, et legitima mea, quæ mandavi servis meis prophetis, numquid non comprehenderunt patres vestros, et conversi sunt, et dixerunt: Sicut cogitavit Dominus exercituum facere nobis secundum vias nostras, et secundum adinventiones nostras fecit nobis.
+6 Verumtamen verba mea, et legitima mea, quae mandavi servis meis prophetis, numquid non comprehenderunt patres vestros, et conversi sunt, et dixerunt: Sicut cogitavit Dominus exercituum facere nobis secundum vias nostras, et secundum adinventiones nostras fecit nobis.
 
-7 In die vigesima et quarta undecimi mensis Sabath, in anno secundo Darii, factum est verbum Domini ad Zachariam filium Barachiæ, filii Addo, prophetam, dicens:
+7 In die vigesima et quarta undecimi mensis Sabath, in anno secundo Darii, factum est verbum Domini ad Zachariam filium Barachiae, filii Addo, prophetam, dicens:
 
-8 Vidi per noctem, et ecce vir ascendens super equum rufum, et ipse stabat inter myrteta, quæ erant in profundo: et post eum equi rufi, varii, et albi.
+8 Vidi per noctem, et ecce vir ascendens super equum rufum, et ipse stabat inter myrteta, quae erant in profundo: et post eum equi rufi, varii, et albi.
 
-9 Et dixi: Quid sunt isti, domine mi? Et dixit ad me Angelus, qui loquebatur in me: Ego ostendam tibi quid sint hæc.
+9 Et dixi: Quid sunt isti, domine mi? Et dixit ad me Angelus, qui loquebatur in me: Ego ostendam tibi quid sint haec.
 
 10 Et respondit vir, qui stabat inter myrteta, et dixit: Isti sunt, quos misit Dominus ut perambulent terram.
 
@@ -31,19 +31,19 @@ draft: false
 
 13 Et respondit Dominus angelo, qui loquebatur in me verba bona, verba consolatoria.
 
-14 Et dixit ad me angelus, qui loquebatur in me: Clama, dicens: Hæc dicit Dominus exercituum: Zelatus sum Ierusalem, et Sion zelo magno.
+14 Et dixit ad me angelus, qui loquebatur in me: Clama, dicens: Haec dicit Dominus exercituum: Zelatus sum Ierusalem, et Sion zelo magno.
 
 15 Et ira magna ego irascor super gentes opulentas: quia ego iratus sum parum, ipsi vero adiuverunt in malum.
 
-16 Propterea hæc dicit Dominus: Revertar ad Ierusalem in misericordiis: et domus mea ædificabitur in ea, ait Dominus exercituum: et perpendiculum extendetur super Ierusalem.
+16 Propterea haec dicit Dominus: Revertar ad Ierusalem in misericordiis: et domus mea aedificabitur in ea, ait Dominus exercituum: et perpendiculum extendetur super Ierusalem.
 
-17 Adhuc, clama dicens: Hæc dicit Dominus exercituum: Adhuc affluent civitates meæ bonis: et consolabitur adhuc Dominus Sion, et eliget adhuc Ierusalem.
+17 Adhuc, clama dicens: Haec dicit Dominus exercituum: Adhuc affluent civitates meae bonis: et consolabitur adhuc Dominus Sion, et eliget adhuc Ierusalem.
 
 18 Et levavi oculos meos, et vidi: et ecce quattuor cornua.
 
-19 Et dixi ad angelum, qui loquebatur in me: Quid sunt hæc? Et dixit ad me: Hæc sunt cornua, quæ ventilaverunt Iudam, et Israel, et Ierusalem.
+19 Et dixi ad angelum, qui loquebatur in me: Quid sunt haec? Et dixit ad me: Haec sunt cornua, quae ventilaverunt Iudam, et Israel, et Ierusalem.
 
 20 Et ostendit mihi Dominus quattuor fabros.
 
-21 Et dixi: Quid isti veniunt facere? Qui ait, dicens: Hæc sunt cornua, quæ ventilaverunt Iudam per singulos viros, et nemo eorum levavit caput suum: et venerunt isti deterrere ea, ut deiiciant cornua gentium, quæ levaverunt cornu super terram Iuda ut dispergerent eam.
+21 Et dixi: Quid isti veniunt facere? Qui ait, dicens: Haec sunt cornua, quae ventilaverunt Iudam per singulos viros, et nemo eorum levavit caput suum: et venerunt isti deterrere ea, ut deiiciant cornua gentium, quae levaverunt cornu super terram Iuda ut dispergerent eam.
 

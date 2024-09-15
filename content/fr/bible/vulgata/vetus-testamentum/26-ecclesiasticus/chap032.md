@@ -9,7 +9,7 @@ draft: false
 
 2 Curam illorum habe, et sic conside, et omni cura tua explicita recumbe:
 
-3 ut læteris propter illos, et ornamentum gratiæ accipias coronam, et dignationem consequaris corrogationis.
+3 ut laeteris propter illos, et ornamentum gratiae accipias coronam, et dignationem consequaris corrogationis.
 
 4 Loquere maior natu: decet enim te
 
@@ -27,13 +27,13 @@ draft: false
 
 11 Si bis interrogatus fueris, habeat caput responsum tuum.
 
-12 In multis esto quasi inscius, et audi tacens simul et quærens.
+12 In multis esto quasi inscius, et audi tacens simul et quaerens.
 
-13 In medio magnatorum non præsumas: et ubi sunt senes, non multum loquaris.
+13 In medio magnatorum non praesumas: et ubi sunt senes, non multum loquaris.
 
-14 Ante grandinem præibit coruscatio: et ante verecundiam præibit gratia, et pro reverentia accedet tibi bona gratia.
+14 Ante grandinem praeibit coruscatio: et ante verecundiam praeibit gratia, et pro reverentia accedet tibi bona gratia.
 
-15 Et hora surgendi non te trices: præcurre autem prior in domum tuam, et illic avocare, et illic lude,
+15 Et hora surgendi non te trices: praecurre autem prior in domum tuam, et illic avocare, et illic lude,
 
 16 et age conceptiones tuas, et non in delictis et verbo superbo.
 
@@ -41,7 +41,7 @@ draft: false
 
 18 Qui timet Dominum, excipiet doctrinam eius: et qui vigilaverint ad illum, invenient benedictionem.
 
-19 Qui quærit legem, replebitur ab ea: et qui insidiose agit, scandalizabitur in ea.
+19 Qui quaerit legem, replebitur ab ea: et qui insidiose agit, scandalizabitur in ea.
 
 20 Qui timent Dominum, invenient iudicium iustum, et iustitias quasi lumen accendent.
 
@@ -51,13 +51,13 @@ draft: false
 
 23 etiam postquam fecit cum eo sine consilio, et suis insectationibus arguetur.
 
-24 Fili sine consilio nihil facias, et post factum non pœnitebis.
+24 Fili sine consilio nihil facias, et post factum non poenitebis.
 
-25 In via ruinæ non eas, et non offendes in lapides: nec credas te viæ laboriosæ, ne ponas animæ tuæ scandalum:
+25 In via ruinae non eas, et non offendes in lapides: nec credas te viae laboriosae, ne ponas animae tuae scandalum:
 
 26 et a filiis tuis cave, et a domesticis tuis attende.
 
-27 In omni opere tuo crede ex fide animæ tuæ: hoc est enim conservatio mandatorum.
+27 In omni opere tuo crede ex fide animae tuae: hoc est enim conservatio mandatorum.
 
 28 Qui credit Deo, attendit mandatis: et qui confidit in illo, non minorabitur.
 

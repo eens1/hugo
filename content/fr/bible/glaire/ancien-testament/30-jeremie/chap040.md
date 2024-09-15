@@ -21,7 +21,7 @@ les Chaldéens tireront du meurtre de Godolias, s’enfuirent en Egypte, et y en
 
 2 Prenant donc Jérémie, le prince de la milice lui dit : Le Seigneur ton Dieu a prononcé ce mal sur ce lieu,
 
-***Note*** :  Jr. 40, 2 : Prince de la milice ; c’est le même que la Vulgate nomme ailleurs chef, maître de la milice (magister militiæ).
+***Note*** :  Jr. 40, 2 : Prince de la milice ; c’est le même que la Vulgate nomme ailleurs chef, maître de la milice (magister militiae).
 
 3 Et il l'a amené ; ainsi le Seigneur a fait comme il a dit, parce que vous avez péché contre le Seigneur, et que vous n'avez pas écouté sa voix; c'est ainsi que cela vous est arrivé. 4 Maintenant donc, voilà que je t'ai délivré des chaînes que tu avais aux mains; s'il te plaît de venir avec moi à Babylone, viens, et je tiendrai mes yeux sur toi; mais s'il te déplaît de venir avec moi à Babylone, demeure ici; voilà toute cette terre en ta présence ; ce que tu choisiras, tu l'auras, et où il te plaira d'aller, vas-y.
 

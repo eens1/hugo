@@ -11,15 +11,15 @@ draft: false
 
 3 si holocaustum fuerit eius oblatio, ac de armento; masculum immaculatum offeret ad ostium tabernaculi testimonii, ad placandum sibi Dominum:
 
-4 ponetque manum super caput hostiæ, et acceptabilis erit, atque in expiationem eius proficiens.
+4 ponetque manum super caput hostiae, et acceptabilis erit, atque in expiationem eius proficiens.
 
 5 immolabitque vitulum coram Domino, et offerent filii Aaron sacerdotes sanguinem eius, fundentes per altaris circuitum, quod est ante ostium tabernaculi.
 
-6 detractaque pelle hostiæ, artus in frusta concident,
+6 detractaque pelle hostiae, artus in frusta concident,
 
 7 et subiicient in altari ignem, strue lignorum ante composita:
 
-8 et membra quæ sunt cæsa, desuper ordinantes, caput videlicet, et cuncta quæ adhærent iecori,
+8 et membra quae sunt caesa, desuper ordinantes, caput videlicet, et cuncta quae adhaerent iecori,
 
 9 intestinis et pedibus lotis aqua: adolebitque ea sacerdos super altare in holocaustum et suavem odorem Domino.
 
@@ -27,11 +27,11 @@ draft: false
 
 11 immolabitque ad latus altaris, quod respicit ad Aquilonem, coram Domino: sanguinem vero illius fundent super altare filii Aaron per circuitum:
 
-12 dividentque membra, caput, et omnia quæ adhærent iecori: et ponent super ligna, quibus subiiciendus est ignis:
+12 dividentque membra, caput, et omnia quae adhaerent iecori: et ponent super ligna, quibus subiiciendus est ignis:
 
 13 intestina vero et pedes lavabunt aqua. Et oblata omnia adolebit sacerdos super altare in holocaustum et odorem suavissimum Domino.
 
-14 Si autem de avibus, holocausti oblatio fuerit Domino, de turturibus, aut pullis columbæ,
+14 Si autem de avibus, holocausti oblatio fuerit Domino, de turturibus, aut pullis columbae,
 
 15 offeret eam sacerdos ad altare: et retorto ad collum capite, ac rupto vulneris loco, decurrere faciet sanguinem super crepidinem altaris:
 

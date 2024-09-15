@@ -9,23 +9,23 @@ draft: false
 
 2 Dives habebat oves, et boves plurimos valde.
 
-3 Pauper autem nihil habebat omnino, præter ovem unam parvulam, quam emerat et nutrierat, et quæ creverat apud eum cum filiis eius simul, de pane illius comedens, et de calice eius bibens, et in sinu illius dormiens: eratque illi sicut filia.
+3 Pauper autem nihil habebat omnino, praeter ovem unam parvulam, quam emerat et nutrierat, et quae creverat apud eum cum filiis eius simul, de pane illius comedens, et de calice eius bibens, et in sinu illius dormiens: eratque illi sicut filia.
 
-4 Cum autem peregrinus quidam venisset ad divitem, parcens ille sumere de ovibus et de bobus suis, ut exhiberet convivium peregrino illi, qui venerat ad se, tulit ovem viri pauperis, et præparavit cibos homini qui venerat ad se.
+4 Cum autem peregrinus quidam venisset ad divitem, parcens ille sumere de ovibus et de bobus suis, ut exhiberet convivium peregrino illi, qui venerat ad se, tulit ovem viri pauperis, et praeparavit cibos homini qui venerat ad se.
 
 5 Iratus autem indignatione David adversus hominem illum nimis, dixit ad Nathan: Vivit Dominus, quoniam filius mortis est vir qui fecit hoc.
 
 6 Ovem reddet in quadruplum, eo quod fecerit verbum istud, et non pepercerit.
 
-7 Dixit autem Nathan ad David: Tu es ille vir. Hæc dicit Dominus Deus Israel: Ego unxi te in regem super Israel, et ego erui te de manu Saul,
+7 Dixit autem Nathan ad David: Tu es ille vir. Haec dicit Dominus Deus Israel: Ego unxi te in regem super Israel, et ego erui te de manu Saul,
 
 8 et dedi tibi domum domini tui, et uxores domini tui in sinu tuo, dedique tibi domum Israel et Iuda: et si parva sunt ista, adiiciam tibi multo maiora.
 
-9 Quare ergo contempsisti verbum Domini ut faceres malum in conspectu meo? Uriam Hethæum percussisti gladio, et uxorem illius accepisti in uxorem tibi, et interfecisti eum gladio filiorum Ammon.
+9 Quare ergo contempsisti verbum Domini ut faceres malum in conspectu meo? Uriam Hethaeum percussisti gladio, et uxorem illius accepisti in uxorem tibi, et interfecisti eum gladio filiorum Ammon.
 
-10 Quam ob rem non recedet gladius de domo tua usque in sempiternum, eo quod despexeris me, et tuleris uxorem Uriæ Hethæi, ut esset uxor tua.
+10 Quam ob rem non recedet gladius de domo tua usque in sempiternum, eo quod despexeris me, et tuleris uxorem Uriae Hethaei, ut esset uxor tua.
 
-11 Itaque hæc dicit Dominus: Ecce, ego suscitabo super te malum de domo tua, et tollam uxores tuas in oculis tuis, et dabo proximo tuo, et dormiet cum uxoribus tuis in oculis Solis huius.
+11 Itaque haec dicit Dominus: Ecce, ego suscitabo super te malum de domo tua, et tollam uxores tuas in oculis tuis, et dabo proximo tuo, et dormiet cum uxoribus tuis in oculis Solis huius.
 
 12 Tu enim fecisti abscondite: ego autem faciam verbum istud in conspectu omnis Israel, et in conspectu Solis.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 Verumtamen, quoniam blasphemare fecisti inimicos Domini, propter verbum hoc, filius, qui natus est tibi, morte morietur.
 
-15 Et reversus est Nathan in domum suam. Percussit quoque Dominus parvulum, quem pepererat uxor Uriæ David, et desperatus est.
+15 Et reversus est Nathan in domum suam. Percussit quoque Dominus parvulum, quem pepererat uxor Uriae David, et desperatus est.
 
 16 Deprecatusque est David Dominum pro parvulo: et ieiunavit David ieiunio, et ingressus seorsum, iacuit super terram.
 
@@ -51,9 +51,9 @@ draft: false
 
 23 Nunc autem quia mortuus est, quare ieiunem? Numquid potero revocare eum amplius? ego vadam magis ad eum: ille vero non revertetur ad me.
 
-24 Et consolatus est David Bethsabee uxorem suam, ingressusque ad eam, dormivit cum ea: quæ genuit filium, et vocavit nomen eius Salomon, et Dominus dilexit eum.
+24 Et consolatus est David Bethsabee uxorem suam, ingressusque ad eam, dormivit cum ea: quae genuit filium, et vocavit nomen eius Salomon, et Dominus dilexit eum.
 
-25 Misitque in manu Nathan prophetæ, et vocavit nomen eius, Amabilis Domino, eo quod diligeret eum Dominus.
+25 Misitque in manu Nathan prophetae, et vocavit nomen eius, Amabilis Domino, eo quod diligeret eum Dominus.
 
 26 Igitur pugnabat Ioab contra Rabbath filiorum Ammon, et expugnabat urbem regiam.
 
@@ -63,7 +63,7 @@ draft: false
 
 29 Congregavit itaque David omnem populum, et profectus est adversum Rabbath: cumque dimicasset, cepit eam.
 
-30 Et tulit diadema regis eorum de capite eius, pondo auri talentum, habens gemmas pretiosissimas, et impositum est super caput David. Sed et prædam civitatis asportavit multam valde:
+30 Et tulit diadema regis eorum de capite eius, pondo auri talentum, habens gemmas pretiosissimas, et impositum est super caput David. Sed et praedam civitatis asportavit multam valde:
 
 31 populum quoque eius adducens serravit, et circumegit super eos ferrata carpenta: divisitque cultris, et traduxit in typo laterum: sic fecit universis civitatibus filiorum Ammon: et reversus est David, et omnis exercitus in Ierusalem.
 

@@ -5,13 +5,13 @@ draft: false
 ---
 
 
-1 Noctem illam duxit rex insomnem, iussitque sibi afferri historias et annales priorum temporum. Quæ cum illo præsente legerentur,
+1 Noctem illam duxit rex insomnem, iussitque sibi afferri historias et annales priorum temporum. Quae cum illo praesente legerentur,
 
-2 ventum est ad illum locum ubi scriptum erat quo modo nunciasset Mardochæus insidias Bagathan, et Thares eunuchorum, regem Assuerum iugulare cupientium.
+2 ventum est ad illum locum ubi scriptum erat quo modo nunciasset Mardochaeus insidias Bagathan, et Thares eunuchorum, regem Assuerum iugulare cupientium.
 
-3 Quod cum audisset rex, ait: Quid pro hac fide honoris ac præmii Mardochæus consecutus est? Dixerunt ei servi illius ac ministri: Nihil omnino mercedis accepit.
+3 Quod cum audisset rex, ait: Quid pro hac fide honoris ac praemii Mardochaeus consecutus est? Dixerunt ei servi illius ac ministri: Nihil omnino mercedis accepit.
 
-4 Statimque rex, Quis est, inquit, in atrio? Aman quippe interius atrium domus regiæ intraverat, ut suggereret regi, et iuberet Mardochæum affigi patibulo, quod ei fuerat præparatum.
+4 Statimque rex, Quis est, inquit, in atrio? Aman quippe interius atrium domus regiae intraverat, ut suggereret regi, et iuberet Mardochaeum affigi patibulo, quod ei fuerat praeparatum.
 
 5 Responderunt pueri: Aman stat in atrio. Dixitque rex: Ingrediatur.
 
@@ -23,13 +23,13 @@ draft: false
 
 9 et primus de regiis principibus, ac tyrannis teneat equum eius, et per plateam civitatis incedens clamet, et dicat: Sic honorabitur, quemcumque voluerit rex honorare.
 
-10 Dixitque ei rex: Festina, et sumpta stola et equo, fac, ut locutus es, Mardochæo Iudæo, qui sedet ante fores palatii. Cave ne quidquam de his, quæ locutus es, prætermittas.
+10 Dixitque ei rex: Festina, et sumpta stola et equo, fac, ut locutus es, Mardochaeo Iudaeo, qui sedet ante fores palatii. Cave ne quidquam de his, quae locutus es, praetermittas.
 
-11 Tulit itaque Aman stolam et equum, indutumque Mardochæum in platea civitatis, et impositum equo præcedebat, atque clamabat: Hoc honore condignus est, quemcumque rex voluerit honorare.
+11 Tulit itaque Aman stolam et equum, indutumque Mardochaeum in platea civitatis, et impositum equo praecedebat, atque clamabat: Hoc honore condignus est, quemcumque rex voluerit honorare.
 
-12 Reversusque est Mardochæus ad ianuam palatii: et Aman festinavit ire in domum suam, lugens et operto capite:
+12 Reversusque est Mardochaeus ad ianuam palatii: et Aman festinavit ire in domum suam, lugens et operto capite:
 
-13 narravitque Zares uxori suæ, et amicis omnia quæ evenissent sibi. Cui responderunt sapientes, quos habebat in consilio, et uxor eius: Si de semine Iudæorum est Mardochæus, ante quem cadere cœpisti, non poteris ei resistere, sed cades in conspectu eius.
+13 narravitque Zares uxori suae, et amicis omnia quae evenissent sibi. Cui responderunt sapientes, quos habebat in consilio, et uxor eius: Si de semine Iudaeorum est Mardochaeus, ante quem cadere coepisti, non poteris ei resistere, sed cades in conspectu eius.
 
 14 Adhuc illis loquentibus, venerunt eunuchi regis, et cito eum ad convivium, quod regina paraverat, pergere compulerunt.
 

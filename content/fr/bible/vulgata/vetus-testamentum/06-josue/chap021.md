@@ -7,7 +7,7 @@ draft: false
 
 1 Accesseruntque principes familiarum Levi ad Eleazarum sacerdotem, et Iosue filium Nun, et ad duces cognationum per singulas tribus filiorum Israel:
 
-2 locutique sunt ad eos in Silo Terræ Chanaan, atque dixerunt: Dominus præcepit per manum Moysi, ut darentur nobis urbes ad habitandum, et suburbana earum ad alenda iumenta.
+2 locutique sunt ad eos in Silo Terrae Chanaan, atque dixerunt: Dominus praecepit per manum Moysi, ut darentur nobis urbes ad habitandum, et suburbana earum ad alenda iumenta.
 
 3 Dederuntque filii Israel de possessionibus suis iuxta imperium Domini, civitates et suburbana earum.
 
@@ -19,13 +19,13 @@ draft: false
 
 7 Et filiis Merari per cognationes suas de tribubus Ruben et Gad et Zabulon urbes duodecim.
 
-8 Dederuntque filii Israel Levitis civitates et suburbana earum, sicut præcepit Dominus per manum Moysi, singulis sorte tribuentes.
+8 Dederuntque filii Israel Levitis civitates et suburbana earum, sicut praecepit Dominus per manum Moysi, singulis sorte tribuentes.
 
 9 De tribubus filiorum Iuda et Simeon dedit Iosue civitates: quarum ista sunt nomina,
 
 10 filiis Aaron per familias Caath Levitici generis (prima enim sors illis egressa est)
 
-11 Cariatharbe patris Enac, quæ vocatur Hebron, in monte Iuda, et suburbana eius per circuitum.
+11 Cariatharbe patris Enac, quae vocatur Hebron, in monte Iuda, et suburbana eius per circuitum.
 
 12 Agros vero, et villas eius dederat Caleb filio Iephone ad possidendum.
 
@@ -37,13 +37,13 @@ draft: false
 
 16 et Ain, et Ieta, et Bethsames, cum suburbanis suis: civitates novem de tribubus, ut dictum est, duabus.
 
-17 De tribu autem filiorum Beniamin, Gabaon, et Gabæ,
+17 De tribu autem filiorum Beniamin, Gabaon, et Gabae,
 
 18 et Anathoth et Almon, cum suburbanis suis: civitates quattuor.
 
 19 Omnes simul civitates filiorum Aaron sacerdotis, tredecim, cum suburbanis suis.
 
-20 Reliquis vero per familias filiorum Caath Levitici generis hæc est data possessio.
+20 Reliquis vero per familias filiorum Caath Levitici generis haec est data possessio.
 
 21 De tribu Ephraim urbes confugii, Sichem cum suburbanis suis in monte Ephraim, et Gazer
 
@@ -53,9 +53,9 @@ draft: false
 
 24 et Aialon et Gethremmon, cum suburbanis suis, civitates quattuor.
 
-25 Porro de dimidia tribu Manasse, Thanach et Gethremmon, cum suburbanis suis civitates duæ.
+25 Porro de dimidia tribu Manasse, Thanach et Gethremmon, cum suburbanis suis civitates duae.
 
-26 Omnes civitates decem, et suburbana earum, datæ sunt filiis Caath inferioris gradus.
+26 Omnes civitates decem, et suburbana earum, datae sunt filiis Caath inferioris gradus.
 
 27 Filiis quoque Gerson Levitici generis dedit de dimidia tribu Manasse confugii civitates, Gaulon in Basan, et Bosram, cum suburbanis suis, civitates duas.
 
@@ -67,7 +67,7 @@ draft: false
 
 31 et Helcath, et Rohob, cum suburbanis suis, civitates quattuor.
 
-32 De tribu quoque Nephthali civitates confugii, Cedes in Galilæa, et Hammoth Dor, et Carthan, cum suburbanis suis, civitates tres.
+32 De tribu quoque Nephthali civitates confugii, Cedes in Galilaea, et Hammoth Dor, et Carthan, cum suburbanis suis, civitates tres.
 
 33 Omnes urbes familiarum Gerson, tredecim, cum suburbanis suis.
 
@@ -81,13 +81,13 @@ draft: false
 
 38 Omnes urbes filiorum Merari per familias et cognationes suas, duodecim.
 
-39 Itaque civitates universæ Levitarum in medio possessionis filiorum Israel fuerunt quadraginta octo
+39 Itaque civitates universae Levitarum in medio possessionis filiorum Israel fuerunt quadraginta octo
 
-40 cum suburbanis suis, singulæ per familias distributæ.
+40 cum suburbanis suis, singulae per familias distributae.
 
 41 Deditque Dominus Deus Israeli omnem Terram, quam traditurum se patribus eorum iuraverat: et possederunt illam, atque habitaverunt in ea.
 
 42 Dataque est ab eo pax in omnes per circuitum nationes: nullusque eis hostium resistere ausus est, sed cuncti in eorum ditionem redacti sunt.
 
-43 Ne unum quidem verbum, quod illis præstiturum se esse promiserat, irritum fuit, sed rebus expleta sunt omnia.
+43 Ne unum quidem verbum, quod illis praestiturum se esse promiserat, irritum fuit, sed rebus expleta sunt omnia.
 

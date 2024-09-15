@@ -7,7 +7,7 @@ draft: false
 
 1 De quibus autem scripsistis mihi: Bonum est homini mulierem non tangere:
 
-2 propter fornicationem autem unusquisque suam uxorem habeat, et unaquæque suum virum habeat.
+2 propter fornicationem autem unusquisque suam uxorem habeat, et unaquaeque suum virum habeat.
 
 3 Uxori vir debitum reddat: similiter autem et uxor viro.
 
@@ -23,11 +23,11 @@ draft: false
 
 9 Quod si non se continent, nubant. Melius est enim nubere, quam uri.
 
-10 Iis autem, qui matrimonio iuncti sunt, præcipio non ego, sed Dominus, uxorem a viro non discedere:
+10 Iis autem, qui matrimonio iuncti sunt, praecipio non ego, sed Dominus, uxorem a viro non discedere:
 
 11 quod si discesserit, manere innuptam, aut viro suo reconciliari. Et vir uxorem non dimittat.
 
-12 Nam ceteris ego dico, non Dominus. Si quis frater uxorem habet infidelem, et hæc consentit habitare cum illo, non dimittat illam.
+12 Nam ceteris ego dico, non Dominus. Si quis frater uxorem habet infidelem, et haec consentit habitare cum illo, non dimittat illam.
 
 13 Et si qua mulier fidelis habet virum infidelem, et hic consentit habitare cum illa, non dimittat virum:
 
@@ -39,13 +39,13 @@ draft: false
 
 17 nisi unicuique sicut divisit Dominus, unumquemque sicut vocavit Deus, ita ambulet, et sicut in omnibus Ecclesiis doceo.
 
-18 Circumcisus aliquis vocatus est? non adducat præputium. In præputio aliquis vocatus est? non circumcidatur.
+18 Circumcisus aliquis vocatus est? non adducat praeputium. In praeputio aliquis vocatus est? non circumcidatur.
 
-19 Circumcisio nihil est, et præputium nihil est: sed observatio mandatorum Dei.
+19 Circumcisio nihil est, et praeputium nihil est: sed observatio mandatorum Dei.
 
 20 Unusquisque in qua vocatione vocatus est, in ea permaneat.
 
-21 Servus vocatus es? non sit tibi curæ: sed et si potes fieri liber, magis utere.
+21 Servus vocatus es? non sit tibi curae: sed et si potes fieri liber, magis utere.
 
 22 Qui enim in Domino vocatus est servus, libertus est Domini: similiter qui liber vocatus est, servus est Christi.
 
@@ -53,11 +53,11 @@ draft: false
 
 24 Unusquisque in quo vocatus est, fratres, in hoc permaneat apud Deum.
 
-25 De virginibus autem præceptum Domini non habeo: consilium autem do, tamquam misericordiam consecutus a Domino, ut sim fidelis.
+25 De virginibus autem praeceptum Domini non habeo: consilium autem do, tamquam misericordiam consecutus a Domino, ut sim fidelis.
 
 26 Existimo ergo hoc bonum esse propter instantem necessitatem, quoniam bonum est homini sic esse.
 
-27 Alligatus es uxori? noli quærere solutionem. Solutus es ab uxore? noli quærere uxorem.
+27 Alligatus es uxori? noli quaerere solutionem. Solutus es ab uxore? noli quaerere uxorem.
 
 28 Si autem acceperis uxorem: non peccasti. Et si nupserit virgo, non peccavit. tribulationem tamen carnis habebunt huiusmodi. Ego autem vobis parco.
 
@@ -65,19 +65,19 @@ draft: false
 
 30 et qui flent, tamquam non flentes: et qui gaudent, tamquam non gaudentes: et qui emunt, tamquam non possidentes:
 
-31 et qui utuntur hoc mundo, tamquam non utantur: præterit enim figura huius mundi.
+31 et qui utuntur hoc mundo, tamquam non utantur: praeterit enim figura huius mundi.
 
-32 Volo autem vos sine solicitudine esse. Qui sine uxore est, solicitus est quæ Domini sunt, quomodo placeat Deo.
+32 Volo autem vos sine solicitudine esse. Qui sine uxore est, solicitus est quae Domini sunt, quomodo placeat Deo.
 
-33 Qui autem cum uxore est, solicitus est quæ sunt mundi, quomodo placeat uxori, et divisus est.
+33 Qui autem cum uxore est, solicitus est quae sunt mundi, quomodo placeat uxori, et divisus est.
 
-34 Et mulier innupta, et virgo cogitat quæ Domini sunt, ut sit sancta corpore, et spiritu. Quæ autem nupta est, cogitat quæ sunt mundi, quomodo placeat viro.
+34 Et mulier innupta, et virgo cogitat quae Domini sunt, ut sit sancta corpore, et spiritu. Quae autem nupta est, cogitat quae sunt mundi, quomodo placeat viro.
 
-35 Porro hoc ad utilitatem vestram dico: non ut laqueum vobis iniiciam, sed ad id, quod honestum est, et quod facultatem præbeat sine impedimento Dominum obsecrandi.
+35 Porro hoc ad utilitatem vestram dico: non ut laqueum vobis iniiciam, sed ad id, quod honestum est, et quod facultatem praebeat sine impedimento Dominum obsecrandi.
 
 36 Si quis autem turpem se videri existimat super virgine sua, quod sit superadulta, et ita oportet fieri: quod vult faciat: non peccat, si nubat.
 
-37 Nam qui statuit in corde suo firmus, non habens necessitatem, potestatem autem habens suæ voluntatis, et hoc iudicavit in corde suo, servare virginem suam, bene facit.
+37 Nam qui statuit in corde suo firmus, non habens necessitatem, potestatem autem habens suae voluntatis, et hoc iudicavit in corde suo, servare virginem suam, bene facit.
 
 38 Igitur et qui matrimonio iungit virginem suam, bene facit: et qui non iungit, melius facit.
 

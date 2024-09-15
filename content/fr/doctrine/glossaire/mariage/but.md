@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-> *Tobie 6:17* : "Or ceux qui embrassent le mariage de manière qu'ils bannissent Dieu de leur cœur et de leur esprit, et qu'ils s'abandonnent à leur passion, de même que le cheval et le mulet, qui n'ont pas d'intelligence, le démon a pouvoir sur eux." [^1]
+> *Tobie 6:17* : "Or ceux qui embrassent le mariage de manière qu'ils bannissent Dieu de leur coeur et de leur esprit, et qu'ils s'abandonnent à leur passion, de même que le cheval et le mulet, qui n'ont pas d'intelligence, le démon a pouvoir sur eux." [^1]
 
 [^1]: Glaire 1905, p. 943.
 

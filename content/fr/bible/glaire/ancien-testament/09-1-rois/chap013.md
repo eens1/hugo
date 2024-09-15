@@ -40,7 +40,7 @@ summary: |
 
 
 8 Et il attendit durant sept jours, selon l'ordre de Samuel, et Samuel ne vint point à Galgala, et le peuple se détacha de Saül. 9 Saul dit : Apportez-moi l'holocauste et les hosties pacifiques. Et il offrit l'holocauste. 10 Et comme il achevait d'offrir l'holocauste, voilà que Samuel arrivait; et Saul sortit au devant de lui pour le saluer. 11 Et Samuel lui demanda : Qu'avez-vous fait? Saül répondit: Parce que j'ai vu que le peuple se détachait de moi, et que vous n'étiez pas venu, selon les jours marqués, mais que les Philistins s'étaient assemblés à Machmas, 12 J'ai dit : Maintenant les Philistins descendront vers moi à Galgala, et je n'ai point apaisé la face du Seigneur. Poussé par la nécessité, j'ai offert l'holocauste. 13 Et Samuel dit à Saul : Vous avez agi en insensé, et vous n'avez pas gardé les commandements du Seigneur votre Dieu, qu'il vous a prescrits. Si vous n'aviez point fait cela, le Seigneur aurait déjà maintenant établi votre règne sur Israël pour toujours; 14 Mais votre règne ne subsistera
-plus désormais. Le Seigneur s'est cherché un homme selon son cœur; et le Seigneur lui a ordonné d'être chef sur son peuple, parce que vous n'avez pas observé ce qu'a ordonné le Seigneur.
+plus désormais. Le Seigneur s'est cherché un homme selon son coeur; et le Seigneur lui a ordonné d'être chef sur son peuple, parce que vous n'avez pas observé ce qu'a ordonné le Seigneur.
 
 ***Note*** :  I Rois 13, 14 : Voir Actes des Apôtres, 13, 22.
 

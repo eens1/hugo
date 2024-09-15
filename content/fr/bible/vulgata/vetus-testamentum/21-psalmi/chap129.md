@@ -7,7 +7,7 @@ draft: false
 
 1 Canticum graduum. De profundis clamavi ad te Domine:
 
-2 Domine exaudi vocem meam: Fiant aures tuæ intendentes, in vocem deprecationis meæ.
+2 Domine exaudi vocem meam: Fiant aures tuae intendentes, in vocem deprecationis meae.
 
 3 Si iniquitates observaveris Domine: Domine quis sustinebit?
 

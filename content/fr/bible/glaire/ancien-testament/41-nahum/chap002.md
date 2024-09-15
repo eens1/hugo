@@ -31,13 +31,13 @@ summary: |
 
 6 Les portes des fleuves ont été ouvertes, et le temple a été renversé par terre.
 
-***Note*** :  Nah. 2, 6 ; 2. 8 : Voir sur les mots fleuves, piscines d’eux, Nahum, 1, 8. ― Une inscription de Sennachérib, dite de Bellino, parle des dégâts et des dévastations produites par une inondation dans un palais royal de Ninive. ― Ouvrir les portes des fleuves, c’est en rompre les digues et donner aux eaux libre carrière. L’historien syrien Barhébræus dit que lorsque le perse Arbace prit la ville, il brisa les portes du Tigre et inonda ainsi Ninive.
+***Note*** :  Nah. 2, 6 ; 2. 8 : Voir sur les mots fleuves, piscines d’eux, Nahum, 1, 8. ― Une inscription de Sennachérib, dite de Bellino, parle des dégâts et des dévastations produites par une inondation dans un palais royal de Ninive. ― Ouvrir les portes des fleuves, c’est en rompre les digues et donner aux eaux libre carrière. L’historien syrien Barhébraeus dit que lorsque le perse Arbace prit la ville, il brisa les portes du Tigre et inonda ainsi Ninive.
 
 
-7 Et le soldat a été emmené captif, et ses servantes étaient conduites, gémissant comme des colombes et murmurant dans leurs cœurs. 8 Et Ninive, ses eaux étaient comme une piscine d'eaux; mais eux ont pris la fuite : arrêtez, arrêtez, et il n'est personne qui revienne. 9 Pillez l'argent, pillez l'or; et ses richesses en toute sorte de choses précieuses sont sans fin.
+7 Et le soldat a été emmené captif, et ses servantes étaient conduites, gémissant comme des colombes et murmurant dans leurs coeurs. 8 Et Ninive, ses eaux étaient comme une piscine d'eaux; mais eux ont pris la fuite : arrêtez, arrêtez, et il n'est personne qui revienne. 9 Pillez l'argent, pillez l'or; et ses richesses en toute sorte de choses précieuses sont sans fin.
 
 
-10 Ninive a été dévastée, déchirée, mise en pièces, et le cœur s'est fondu, et il y a eu faiblesse dans les genoux, défaillance dans tous les reins; et les faces d'eux tous étaient comme le noir d'une marmite. 11 Où est Ninive, demeure des lions, et propre au pâturage des petits des lions, vers laquelle allait le lion, afin d'y entrer, ainsi que le petit du lion, et il n'y a personne qui l'épouvante.
+10 Ninive a été dévastée, déchirée, mise en pièces, et le coeur s'est fondu, et il y a eu faiblesse dans les genoux, défaillance dans tous les reins; et les faces d'eux tous étaient comme le noir d'une marmite. 11 Où est Ninive, demeure des lions, et propre au pâturage des petits des lions, vers laquelle allait le lion, afin d'y entrer, ainsi que le petit du lion, et il n'y a personne qui l'épouvante.
 
 ***Note*** :  Nah. 2, 11 : Propre au pâturage ; le mot pascua est ici le féminin de l’adjectif pascuus, comme le prouve le relatif suivant, laquelle (quam), qui représente lui-même le substantif Ninive.
 

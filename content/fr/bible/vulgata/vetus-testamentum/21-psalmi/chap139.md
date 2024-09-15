@@ -9,7 +9,7 @@ draft: false
 
 2 Eripe me Domine ab homine malo: a viro iniquo eripe me.
 
-3 Qui cogitaverunt iniquitates in corde: tota die constituebant prælia.
+3 Qui cogitaverunt iniquitates in corde: tota die constituebant praelia.
 
 4 Acuerunt linguas suas sicut serpentis: venenum aspidum sub labiis eorum.
 
@@ -17,9 +17,9 @@ draft: false
 
 6 absconderunt superbi laqueum mihi: Et funes extenderunt in laqueum: iuxta iter scandalum posuerunt mihi.
 
-7 Dixi Domino: Deus meus es tu: exaudi Domine vocem deprecationis meæ.
+7 Dixi Domino: Deus meus es tu: exaudi Domine vocem deprecationis meae.
 
-8 Domine, Domine virtus salutis meæ: obumbrasti super caput meum in die belli:
+8 Domine, Domine virtus salutis meae: obumbrasti super caput meum in die belli:
 
 9 Ne tradas me Domine a desiderio meo peccatori: cogitaverunt contra me, ne derelinquas me, ne forte exaltentur.
 

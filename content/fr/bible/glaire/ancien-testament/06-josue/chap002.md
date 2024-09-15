@@ -28,7 +28,7 @@ summary: |
 
 ***Note*** :  Josué 2, 12 : Voir Josué, 6, 22.
 
-13 Que vous sauverez mon père et ma mère, mes frères et mes sœurs et tout ce qui est à eux, et que vous arracherez ainsi nos âmes à la mort. 14 Et ils lui répondirent : Que notre âme soit pour vous jusqu'à la mort, si toutefois tu ne nous trahis point; et lorsque le Seigneur nous aura livré cette terre, nous accomplirons envers toi la miséricorde et la fidélité.
+13 Que vous sauverez mon père et ma mère, mes frères et mes soeurs et tout ce qui est à eux, et que vous arracherez ainsi nos âmes à la mort. 14 Et ils lui répondirent : Que notre âme soit pour vous jusqu'à la mort, si toutefois tu ne nous trahis point; et lorsque le Seigneur nous aura livré cette terre, nous accomplirons envers toi la miséricorde et la fidélité.
 
 ***Note*** :  Josué 2, 14 : Que notre âme, etc. ; c’est-à-dire : Que nous périssions plutôt que de ne pas t’accorder la demande que tu nous fais. On a déjà remarqué plusieurs fois que le mot âme, en hébreu, se prend souvent pour vie, personne.
 

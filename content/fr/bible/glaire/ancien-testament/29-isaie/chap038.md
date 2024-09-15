@@ -15,7 +15,7 @@ summary: |
 
 ***Note*** :  Is. 38, 1 : Voir 4 Rois, 20, 1 ; 2 Paralipomènes, 32, 24.
 
-2 Et Ezéchias tourna sa face vers la muraille et pria le Seigneur, 3 Et il dit : Je vous conjure. Seigneur, souvenez-vous, je vous prie, comment j'ai marché devant vous dans la vérité et avec un cœur parfait, et comment j'ai fait ce qui est bon à vos yeux. Et Ezéchias pleura d'un grand pleur.
+2 Et Ezéchias tourna sa face vers la muraille et pria le Seigneur, 3 Et il dit : Je vous conjure. Seigneur, souvenez-vous, je vous prie, comment j'ai marché devant vous dans la vérité et avec un coeur parfait, et comment j'ai fait ce qui est bon à vos yeux. Et Ezéchias pleura d'un grand pleur.
 
 
 4 Et la parole du Seigneur fut adressée à Isaïe, disant :5 Va, et dis à Ezéchias : Voici ce que dit le Seigneur Dieu de David, votre père : J'ai entendu ta prière, et j'ai vu tes larmes ; et voici que j'ajouterai à tes jours quinze années; 6 Et je t'arracherai à la main du roi des Assyriens, toi et cette cité, et je la protégerai. 7 Or, voici le signe que tu auras du Seigneur, que le Seigneur accomplira cette parole qu'il a dite :8 Voici que moi je ferai que l'ombre des lignes par lesquelles elle était descendue sur l'horloge d'Achaz au soleil, retournera en arrière de dix lignes. Et le soleil retourna de dix lignes par les degrés par lesquels il était descendu.

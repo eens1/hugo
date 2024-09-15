@@ -7,19 +7,19 @@ draft: false
 
 1 Habitavit autem Iacob in terra Chanaan, in qua pater suus peregrinatus est.
 
-2 Et hæ sunt generationes eius: Ioseph cum sedecim esset annorum, pascebat gregem cum fratribus suis adhuc puer: et erat cum filiis Balæ et Zelphæ uxorum patris sui: accusavitque fratres suos apud patrem crimine pessimo.
+2 Et hae sunt generationes eius: Ioseph cum sedecim esset annorum, pascebat gregem cum fratribus suis adhuc puer: et erat cum filiis Balae et Zelphae uxorum patris sui: accusavitque fratres suos apud patrem crimine pessimo.
 
 3 Israel autem diligebat Ioseph super omnes filios suos, eo quod in senectute genuisset eum: fecitque ei tunicam polymitam.
 
 4 Videntes autem fratres eius quod a patre plus cunctis filiis amaretur, oderant eum, nec poterant ei quidquam pacifice loqui.
 
-5 Accidit quoque ut visum somnium referret fratribus suis: quæ causa maioris odii seminarium fuit.
+5 Accidit quoque ut visum somnium referret fratribus suis: quae causa maioris odii seminarium fuit.
 
 6 Dixitque ad eos: Audite somnium meum quod vidi:
 
 7 Putabam nos ligare manipulos in agro: et quasi consurgere manipulum meum, et stare, vestrosque manipulos circumstantes adorare manipulum meum.
 
-8 Responderunt fratres eius: Numquid rex noster eris? aut subiiciemur ditioni tuæ? Hæc ergo causa somniorum atque sermonum, invidiæ et odii fomitem ministravit.
+8 Responderunt fratres eius: Numquid rex noster eris? aut subiiciemur ditioni tuae? Haec ergo causa somniorum atque sermonum, invidiae et odii fomitem ministravit.
 
 9 Aliud quoque vidit somnium, quod narrans fratribus, ait: Vidi per somnium, quasi solem, et lunam, et stellas undecim adorare me.
 
@@ -31,11 +31,11 @@ draft: false
 
 13 dixit ad eum Israel: Fratres tui pascunt oves in Sichimis: veni, mittam te ad eos. Quo respondente,
 
-14 Præsto sum, ait ei: Vade, et vide si cuncta prospera sint erga fratres tuos, et pecora: et renuncia mihi quid agatur. Missus de Valle Hebron, venit in Sichem:
+14 Praesto sum, ait ei: Vade, et vide si cuncta prospera sint erga fratres tuos, et pecora: et renuncia mihi quid agatur. Missus de Valle Hebron, venit in Sichem:
 
-15 invenitque eum vir errantem in agro, et interrogavit quid quæreret.
+15 invenitque eum vir errantem in agro, et interrogavit quid quaereret.
 
-16 At ille respondit: Fratres meos quæro, indica mihi ubi pascant greges.
+16 At ille respondit: Fratres meos quaero, indica mihi ubi pascant greges.
 
 17 Dixitque ei vir: Recesserunt de loco isto: audivi autem eos dicentes: Eamus in Dothain. Perrexit ergo Ioseph post fratres suos, et invenit eos in Dothain.
 
@@ -47,25 +47,25 @@ draft: false
 
 21 Audiens autem hoc Ruben, nitebatur liberare eum de manibus eorum, et dicebat:
 
-22 Non interficiatis animam eius, nec effundatis sanguinem: sed proiicite eum in cisternam hanc, quæ est in solitudine, manusque vestras servate innoxias: hoc autem dicebat, volens eripere eum de manibus eorum, et reddere patri suo.
+22 Non interficiatis animam eius, nec effundatis sanguinem: sed proiicite eum in cisternam hanc, quae est in solitudine, manusque vestras servate innoxias: hoc autem dicebat, volens eripere eum de manibus eorum, et reddere patri suo.
 
 23 Confestim igitur ut pervenit ad fratres suos, nudaverunt eum tunica talari, et polymita:
 
-24 miseruntque eum in cisternam veterem, quæ non habebat aquam.
+24 miseruntque eum in cisternam veterem, quae non habebat aquam.
 
-25 Et sedentes ut comederent panem, viderunt Ismaelitas viatores venire de Galaad, et camelos eorum portantes aromata, et resinam, et stacten in Ægyptum.
+25 Et sedentes ut comederent panem, viderunt Ismaelitas viatores venire de Galaad, et camelos eorum portantes aromata, et resinam, et stacten in AEgyptum.
 
 26 Dixit ergo Iudas fratribus suis: Quid nobis prodest si occiderimus fratrem nostrum, et celaverimus sanguinem ipsius?
 
-27 Melius est ut venundetur Ismaelitis, et manus nostræ non polluantur: frater enim, et caro nostra est. Acquieverunt fratres sermonibus illius.
+27 Melius est ut venundetur Ismaelitis, et manus nostrae non polluantur: frater enim, et caro nostra est. Acquieverunt fratres sermonibus illius.
 
-28 Et prætereuntibus Madianitis negotiatoribus, extrahentes eum de cisterna, vendiderunt eum Ismaelitis, viginti argenteis: qui duxerunt eum in Ægyptum.
+28 Et praetereuntibus Madianitis negotiatoribus, extrahentes eum de cisterna, vendiderunt eum Ismaelitis, viginti argenteis: qui duxerunt eum in AEgyptum.
 
 29 Reversusque Ruben ad cisternam, non invenit puerum:
 
 30 et scissis vestibus pergens ad fratres suos, ait: Puer non comparet, et ego quo ibo?
 
-31 Tulerunt autem tunicam eius, et in sanguine hœdi, quem occiderant, tinxerunt:
+31 Tulerunt autem tunicam eius, et in sanguine hoedi, quem occiderant, tinxerunt:
 
 32 mittentes qui ferrent ad patrem, et dicerent: Hanc invenimus: vide utrum tunica filii tui sit, an non.
 
@@ -75,5 +75,5 @@ draft: false
 
 35 Congregatis autem cunctis liberis eius ut lenirent dolorem patris, noluit consolationem accipere, sed ait: Descendam ad filium meum lugens in infernum. Et illo perseverante in fletu,
 
-36 Madianitæ vendiderunt Ioseph in Ægypto Putiphari eunucho Pharaonis magistro militum.
+36 Madianitae vendiderunt Ioseph in AEgypto Putiphari eunucho Pharaonis magistro militum.
 

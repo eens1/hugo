@@ -17,14 +17,14 @@ summary: |
 assiégèrent sans succès Jérusalem, voir 4 Rois, 16, 5. C’est alors qu’Isaïe fit la prophétie du chapitre 7, versets 1 à 9. ― 3° Comme Phacée et Rasin continuèrent, probablement chacun de leur côté, à ravager le royaume de Juda, Rasin poussant jusqu’à la mer Rouge, voir 4 Rois, 16, 6, et emportant un grand butin, voir 2 Paralipomènes, 28, 5 ; Phacée ravageant aussi Juda, faisant périr cent vingt mille hommes, emmenant deux cent mille captifs, voir 2 Paralipomènes, 28, vv. 5-6, 8, Achaz manqua de confiance en Dieu ; et ne se sentant pas de force à lutter contre ces deux ennemis que soutenaient encore les Iduméens et les Philistins, voir 4 Rois, 16, 6 ; 2 Paralipomènes, 28, 17-18, il appela à son aide Téglathphalasar, roi d’Assyrie. Isaïe fit les prophéties du chapitre 7, verset 10 au chapitre 12, à la suite de cet appel à l’étranger. ― C’est au moment où le bruit de la marche des Israélites et des Syriens vient d’arriver dans la capitale, et la remplit de terreur, qu’Isaïe commence les prophéties contenues
 dans les chapitres 7 à 12. Elles forment ce qu’on a appelé le livre d’Emmanuel, parce qu’Emmanuel ou le Messie en est le sujet principal. Elles ont cela de commun, qu’elles ont toutes été faites à l’occasion de la guerre de Phacée et de Rasin contre Juda.
 
-2 Et on l'annonça à la maison de David, en disant : La Syrie a trouvé un appui dans Ephraïm; et le cœur d'Achaz fut agité ainsi que le cœur du peuple, comme la face du vent.
+2 Et on l'annonça à la maison de David, en disant : La Syrie a trouvé un appui dans Ephraïm; et le coeur d'Achaz fut agité ainsi que le coeur du peuple, comme la face du vent.
 
 
 3 Et le Seigneur dit à Isaïe : Sors au-devant d'Achaz, toi et Jasub ton fils qui t'est resté, et va à l'extrémité du canal de la piscine supérieure, sur la voie du champ du foulon.
 
 ***Note*** :  Is. 7, 3 : Jasub ; signifie en hébreu un reste reviendra ; nom mystérieux, et que Dieu, autant qu’on peut en juger, avait fait donner à cet enfant, comme preuve que Juda serait délivré de l’oppression de ce règne, et que les restes du peuple se convertiraient sous le règne d’Ezéchias. Comparer à Isaïe, 10, 21-22. ― La piscine supérieure ; elle était au pied des murs de Jérusalem, à l’orient. ― La situation de la piscine supérieure est controversée, mais on la place aujourd’hui le plus communément à l’ouest de la ville, et on l’identifie avec le Birket-Mamilla.
 
-4 Et tu lui diras : Voyez à vous tenir en repos ; ne craignez point, et que votre cœur ne tremble point à cause de ces deux bouts de tisons fumants, devant la colère de Rasin, roi de Syrie, et du fils de Romélie ; 5 Parce que la Syrie, Ephraïm et le fils de Romélie ont formé de mauvais desseins contre vous, disant :
+4 Et tu lui diras : Voyez à vous tenir en repos ; ne craignez point, et que votre coeur ne tremble point à cause de ces deux bouts de tisons fumants, devant la colère de Rasin, roi de Syrie, et du fils de Romélie ; 5 Parce que la Syrie, Ephraïm et le fils de Romélie ont formé de mauvais desseins contre vous, disant :
 
 
 6 Montons contre Juda, et mettons-le en mouvement, faisons-le venir à nous, et établissons-y pour roi le fils de Tabéei.
@@ -77,11 +77,11 @@ n’est parce qu’il ne devait naître réellement que plus de 700 ans après ?
 
 21 Et il arrivera en ce temps-là qu'un homme nourrira une vache et deux brebis,
 
-***Note*** :  Is. 7, 21 : Vache ; littéralement vache de bœufs (vaccam boum) ; les Septante lisent : génisse de bœufs, et l’hébreu : génisse de bœuf.
+***Note*** :  Is. 7, 21 : Vache ; littéralement vache de boeufs (vaccam boum) ; les Septante lisent : génisse de boeufs, et l’hébreu : génisse de boeuf.
 
 22 Et à cause de l'abondance du lait il mangera du beurre ; car il mangera du beurre et du lait, quiconque aura été laissé au milieu de la terre. 23 Et il arrivera en ce jour-là, qu'en tout lieu où il y aura eu mille pieds de vigne, à mille pièces d'argent, ces pieds de vigne seront changés en épines et en ronces. 24 On y entrera avec les flèches et l'arc; car les ronces et les épines seront sur toute la terre.
 
 ***Note*** :  Is. 7, 24 : Avec les flèches, à cause des bêtes sauvages.
 
-25 Quant à toutes les montagnes qui seront bien sarclées, la crainte des épines et des ronces ne les atteindra pas, mais elles serviront de pâturage au bœuf, et le menu bétail les foulera aux pieds.
+25 Quant à toutes les montagnes qui seront bien sarclées, la crainte des épines et des ronces ne les atteindra pas, mais elles serviront de pâturage au boeuf, et le menu bétail les foulera aux pieds.
 

@@ -19,9 +19,9 @@ summary: |
 ***Note*** :  Prov. 31, 1 : Lamuel, roi. La plupart des interprètes conviennent que ce Lamuel, dont le nom en hébreu signifie qui est à Dieu, ou qui a Dieu avec lui, ou consacré à Dieu, ou enfin consacré de Dieu, n’est autre que Salomon, d’autant plus qu’il n’y a jamais eu de roi d’Israël ou de Juda qui ait porté ce nom, et que jamais on n’aurait inséré dans le canon des Ecritures sacrées l’ouvrage d’un prince païen.
 
 
-2 Que te dirai-je, mon bien aimé, que te dirai-je, bien aimé de mon sein, que te dirai-je, bien-aimé de mes vœux?
+2 Que te dirai-je, mon bien aimé, que te dirai-je, bien aimé de mon sein, que te dirai-je, bien-aimé de mes voeux?
 
-***Note*** :  Prov. 31, 2 : Bien-aimé de mes vœux ; c’est-à-dire que j’ai souhaité par tant de vœux les plus ardents.
+***Note*** :  Prov. 31, 2 : Bien-aimé de mes voeux ; c’est-à-dire que j’ai souhaité par tant de voeux les plus ardents.
 
 3 Ne donne pas aux femmes ton bien, et tes richesses pour perdre des rois.
 
@@ -30,7 +30,7 @@ summary: |
 
 ***Note*** :  Prov. 31, 5 : Les jugements ; la justice, l’équité dans les jugements, ou bien les lois, les ordonnances. ― Qu’ils ne changent, etc. ; qu’ils ne donnent de fausses décisions dans la cause des pauvres.
 
-6 Donnez de la cervoise à ceux qui sont affligés, et du vin à ceux qui ont le cœur dans l'amertume ; 7 Qu'ils boivent et qu'ils oublient leur détresse, et que de leur douleur ils ne se souviennent plus.
+6 Donnez de la cervoise à ceux qui sont affligés, et du vin à ceux qui ont le coeur dans l'amertume ; 7 Qu'ils boivent et qu'ils oublient leur détresse, et que de leur douleur ils ne se souviennent plus.
 
 
 8 Ouvre ta bouche pour le muet, et pour les causes de tous les fils qui passent;
@@ -47,7 +47,7 @@ admirable ; il montre, suivant la pensée de Herder, « l’hommage qu’on rend
 
 ***Note*** :  Prov. 31, 10 : Une femme forte. Les Pères ont considéré cette femme forte comme la figure de la sainte Vierge et de l’Eglise de Jésus-Christ. Ils ont expliqué en ce sens tout le reste du chapitre.
 
-11 Le cœur de son mari se confie en elle ; et il ne manquera pas de dépouilles. 12 Elle lui rendra le bien et non le mal, tous les jours de sa vie. 13 Elle a cherché la laine et le lin, et elle a travaillé par le conseil de ses mains.
+11 Le coeur de son mari se confie en elle ; et il ne manquera pas de dépouilles. 12 Elle lui rendra le bien et non le mal, tous les jours de sa vie. 13 Elle a cherché la laine et le lin, et elle a travaillé par le conseil de ses mains.
 
 ***Note*** :  Prov. 31, 13 : Elle a travaillé, etc. ; elle n’a pas acheté les toiles et les étoffes toutes faites, mais elle les a travaillées elle-même de ses propres mains.
 
@@ -67,4 +67,4 @@ admirable ; il montre, suivant la pensée de Herder, « l’hommage qu’on rend
 
 ***Note*** :  Prov. 31, 24 : Au Chananéen. Les Chananéens étaient célèbres dans l’antiquité par leur commerce. C’est pour cela que Chananéen est devenu synonyme de marchand, commerçant.
 
-25 La force et la beauté sont son vêtement, et elle rira au jour dernier. 26 Elle a ouvert sa bouche à la sagesse, et la loi de la clémence est sur sa langue. 27 Elle a considéré les sentiers de sa maison, et elle n'a pas mangé de pain dans l'oisiveté. 28 Ses fils se sont levés et l'ont proclamée très heureuse ; son mari s'est levé, et l'a louée. 29 Beaucoup de filles ont amassé des richesses : mais toi, tu les as toutes surpassées. 30 Trompeuse est la grâce, et vaine est la beauté : la femme qui craint le Seigneur est celle qui sera louée. 31 Donnez-lui le fruit de ses mains, et que ses œuvres la louent aux portes de la ville.
+25 La force et la beauté sont son vêtement, et elle rira au jour dernier. 26 Elle a ouvert sa bouche à la sagesse, et la loi de la clémence est sur sa langue. 27 Elle a considéré les sentiers de sa maison, et elle n'a pas mangé de pain dans l'oisiveté. 28 Ses fils se sont levés et l'ont proclamée très heureuse ; son mari s'est levé, et l'a louée. 29 Beaucoup de filles ont amassé des richesses : mais toi, tu les as toutes surpassées. 30 Trompeuse est la grâce, et vaine est la beauté : la femme qui craint le Seigneur est celle qui sera louée. 31 Donnez-lui le fruit de ses mains, et que ses oeuvres la louent aux portes de la ville.

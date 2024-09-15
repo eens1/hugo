@@ -48,16 +48,16 @@ summary: |
 ***Note*** :  Agg. 2, 14 : Elle sera souillée. Cette réponse est fondée sur ce que la loi déclare (voir Nombres, 19, 22), que celui qui est souillé souillera tout ce qu’il touchera.
 
 
-15 Et Aggée reprit et dit : Ainsi est ce peuple, ainsi est cette nation devant ma face, dit le Seigneur, et ainsi est-il de toute œuvre de leurs mains, et tout ce qu'ils m'ont offert en ce lieu sera souillé. 16 Et maintenant appliquez vos cœurs à ce qui s'est passé depuis ce jour et au-delà, avant qu'une pierre eût été posée sur une pierre au temple du Seigneur. 17 Lorsque vous vous approchiez d'un tas de vingt boisseaux de grains, ils se réduisaient à dix ; et lorsque vous entriez au pressoir pour faire cinquante cruches de vin, il s'en faisait vingt.
+15 Et Aggée reprit et dit : Ainsi est ce peuple, ainsi est cette nation devant ma face, dit le Seigneur, et ainsi est-il de toute oeuvre de leurs mains, et tout ce qu'ils m'ont offert en ce lieu sera souillé. 16 Et maintenant appliquez vos coeurs à ce qui s'est passé depuis ce jour et au-delà, avant qu'une pierre eût été posée sur une pierre au temple du Seigneur. 17 Lorsque vous vous approchiez d'un tas de vingt boisseaux de grains, ils se réduisaient à dix ; et lorsque vous entriez au pressoir pour faire cinquante cruches de vin, il s'en faisait vingt.
 
-***Note*** :  Agg. 2, 17 : Ce verset paraît être un complément de : Appliquez vos cœurs, du verset précédent et signifie par conséquent : Souvenez-vous aussi que lorsque vous vous approchiez, etc. ― Ils se réduisaient à dix ; littéralement, et qu’ils se réduisaient à dix (et fierent decem) ; ce qui fait de ce membre de phrase une continuation de la protase lorsque vous, etc. , et laisse ainsi le sens inachevé. Notre interprétation est d’ailleurs parfaitement conforme à ce qui suit immédiatement. ― Il s’en faisait ; littéralement, et il s’en faisait (et fiebant). Ce et, purement pléonastique, ne fait qu’indiquer l’apodose, dont la protase est, lorsque vous entriez, etc.
+***Note*** :  Agg. 2, 17 : Ce verset paraît être un complément de : Appliquez vos coeurs, du verset précédent et signifie par conséquent : Souvenez-vous aussi que lorsque vous vous approchiez, etc. ― Ils se réduisaient à dix ; littéralement, et qu’ils se réduisaient à dix (et fierent decem) ; ce qui fait de ce membre de phrase une continuation de la protase lorsque vous, etc. , et laisse ainsi le sens inachevé. Notre interprétation est d’ailleurs parfaitement conforme à ce qui suit immédiatement. ― Il s’en faisait ; littéralement, et il s’en faisait (et fiebant). Ce et, purement pléonastique, ne fait qu’indiquer l’apodose, dont la protase est, lorsque vous entriez, etc.
 
 
 18 Je vous ai frappés d'un vent brûlant; et j'ai frappé de la nielle et de la grêle tous les travaux de vos mains ; et il n'y a eu personne parmi vous qui revînt à moi, dit le Seigneur.
 
 ***Note*** :  Agg. 2, 18 : Voir Amos, 4, 9.
 
-19 Appliquez vos cœurs à ce qui se fera depuis ce jour et à l'avenir, depuis le vingt-quatrième jour du neuvième mois; depuis le jour que les fondements du temple du Seigneur ont été jetés, appliquez votre cœur.
+19 Appliquez vos coeurs à ce qui se fera depuis ce jour et à l'avenir, depuis le vingt-quatrième jour du neuvième mois; depuis le jour que les fondements du temple du Seigneur ont été jetés, appliquez votre coeur.
 
 ***Note*** :  Agg. 2, 19 : Du neuvième mois. Voir le verset 11.
 

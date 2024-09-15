@@ -35,7 +35,7 @@ summary: |
 12 Un homme vain s'élève jusqu'à l'orgueil, et il se croit libre comme le petit d'un onagre.
 
 
-13 Pour toi, tu as endurci ton cœur, cependant tu as tendu tes mains vers Dieu.
+13 Pour toi, tu as endurci ton coeur, cependant tu as tendu tes mains vers Dieu.
 
 ***Note*** :  Job 11, 13 : Vers Dieu ; littéralement vers lui. Le pronom lui représente évidemment le mot Dieu, exprimé au verset 7.
 

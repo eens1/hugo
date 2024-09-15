@@ -19,11 +19,11 @@ draft: false
 
 7 Ecce enim in iniquitatibus conceptus sum: et in peccatis concepit me mater mea.
 
-8 Ecce enim veritatem dilexisti: incerta, et occulta sapientiæ tuæ manifestasti mihi.
+8 Ecce enim veritatem dilexisti: incerta, et occulta sapientiae tuae manifestasti mihi.
 
 9 Asperges me hyssopo, et mundabor: lavabis me, et super nivem dealbabor.
 
-10 Auditui meo dabis gaudium et lætitiam: et exultabunt ossa humiliata.
+10 Auditui meo dabis gaudium et laetitiam: et exultabunt ossa humiliata.
 
 11 Averte faciem tuam a peccatis meis: et omnes iniquitates meas dele.
 
@@ -31,11 +31,11 @@ draft: false
 
 13 Ne proiicias me a facie tua: et spiritum sanctum tuum ne auferas a me.
 
-14 Redde mihi lætitiam salutaris tui: et spiritu principali confirma me.
+14 Redde mihi laetitiam salutaris tui: et spiritu principali confirma me.
 
 15 Docebo iniquos vias tuas: et impii ad te convertentur.
 
-16 Libera me de sanguinibus Deus, Deus salutis meæ: et exultabit lingua mea iustitiam tuam.
+16 Libera me de sanguinibus Deus, Deus salutis meae: et exultabit lingua mea iustitiam tuam.
 
 17 Domine, labia mea aperies: et os meum annunciabit laudem tuam.
 
@@ -43,7 +43,7 @@ draft: false
 
 19 Sacrificium Deo spiritus contribulatus: cor contritum, et humiliatum Deus non despicies.
 
-20 Benigne fac Domine in bona voluntate tua Sion: ut ædificentur muri Ierusalem.
+20 Benigne fac Domine in bona voluntate tua Sion: ut aedificentur muri Ierusalem.
 
-21 Tunc acceptabis sacrificium iustitiæ, oblationes, et holocausta: tunc imponent super altare tuum vitulos.
+21 Tunc acceptabis sacrificium iustitiae, oblationes, et holocausta: tunc imponent super altare tuum vitulos.
 

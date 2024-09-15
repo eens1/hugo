@@ -11,14 +11,14 @@ summary: |
 
 1 Dans les hymnes de David.
 
-***Note*** :  Ps. 60, 1 : Prière de David éloigné de Jérusalem pendant la révolte d’Absalom. Titre hébreu : « Au chef de chœur. Avec accompagnement d’instruments à corde (Neginôth). De David. » ― Composé par David fugitif, pendant la révolte d’Absalom à Mahanaïm (Vulgate : Castra, voir 2 Rois, 17, 24, ou en quelque autre endroit du pays de Galaad.
+***Note*** :  Ps. 60, 1 : Prière de David éloigné de Jérusalem pendant la révolte d’Absalom. Titre hébreu : « Au chef de choeur. Avec accompagnement d’instruments à corde (Neginôth). De David. » ― Composé par David fugitif, pendant la révolte d’Absalom à Mahanaïm (Vulgate : Castra, voir 2 Rois, 17, 24, ou en quelque autre endroit du pays de Galaad.
 
 
 2 Exaucez, ô Dieu, ma supplication; soyez attentif à ma prière.
 
 ***Note*** :  Ps. 60, 2-4 : Prière de David fugitif pour que Dieu le soutienne et le conduise.
 
-3 Des extrémités de la terre j'ai crié vers vous : tandis que mon cœur était dans l'anxiété, vous m'avez élevé sur une pierre. Vous m'avez conduit,
+3 Des extrémités de la terre j'ai crié vers vous : tandis que mon coeur était dans l'anxiété, vous m'avez élevé sur une pierre. Vous m'avez conduit,
 
 ***Note*** :  Ps. 60, 3 : Une pierre ; un rocher haut et inaccessible.
 
@@ -44,5 +44,5 @@ summary: |
 
 ***Note*** :  Ps. 60, 8 : Recherchera, sondera, approfondira.
 
-9 Ainsi je dirai un psaume à la gloire de votre nom dans les siècles des siècles ; afin de m'acquitter de mes vœux de jour en jour.
+9 Ainsi je dirai un psaume à la gloire de votre nom dans les siècles des siècles ; afin de m'acquitter de mes voeux de jour en jour.
 

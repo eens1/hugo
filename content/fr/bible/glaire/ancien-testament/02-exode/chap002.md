@@ -20,14 +20,14 @@ summary: |
 
 ***Note*** :  Ex. 2, 3 : Du fleuve du Nil, sans doute sur la branche tanitique, près de la ville de Tanis.
 
-4 La sœur de l'enfant se tenant au loin, et considérant l'issue de la chose.
+4 La soeur de l'enfant se tenant au loin, et considérant l'issue de la chose.
 
 
 5 Or voilà que la fille de Pharaon descendait pour se baigner dans le fleuve, et ses jeunes filles marchaient le long du bord de l'eau. Lorsqu'elle eut vu la corbeille au milieu des joncs, elle envoya une de ses servantes, qui l'apporta.
 
 ***Note*** :  Ex. 2, 5 : Voir Actes des Apôtres, 7, 21 ; Hébreux, 11, 23. ― Ses jeunes filles ; les filles attachées à son service. ― La fille de Pharaon s’appelait, d’après la tradition juive, Thermonthis. Elle était probablement fille de Séti Ier, père de Ramsès II.
 
-6 Ouvrant la corbeille, et y apercevant le petit enfant qui criait, elle eut pitié de lui, et dit : C'est un enfant des Hébreux. 7 Alors la sœur de l'enfant : Voulez-vous, lui dit-elle, que j'aille, et que je vous fasse venir une femme des Hébreux qui puisse nourrir ce petit enfant? 8 Elle répondit : Va. La jeune fille alla et appela sa mère, 9 A laquelle la fille de Pharaon ayant parlé : Prends, dit-elle, cet enfant, et nourris-le-moi; c'est moi qui te donnerai ton salaire. La femme prit et nourrit l'enfant; et quand il eut grandi elle le remit à la fille de Pharaon, 10 Qui l'adopta pour son fils, et lui donna le nom de Moïse, disant : C'est de l'eau que je l'ai tiré.
+6 Ouvrant la corbeille, et y apercevant le petit enfant qui criait, elle eut pitié de lui, et dit : C'est un enfant des Hébreux. 7 Alors la soeur de l'enfant : Voulez-vous, lui dit-elle, que j'aille, et que je vous fasse venir une femme des Hébreux qui puisse nourrir ce petit enfant? 8 Elle répondit : Va. La jeune fille alla et appela sa mère, 9 A laquelle la fille de Pharaon ayant parlé : Prends, dit-elle, cet enfant, et nourris-le-moi; c'est moi qui te donnerai ton salaire. La femme prit et nourrit l'enfant; et quand il eut grandi elle le remit à la fille de Pharaon, 10 Qui l'adopta pour son fils, et lui donna le nom de Moïse, disant : C'est de l'eau que je l'ai tiré.
 
 
 11 En ces jours-là, après que Moïse fut devenu grand, il sortit vers ses frères, et il vit leur affliction, et un Egyptien frappant un des Hébreux ses frères.

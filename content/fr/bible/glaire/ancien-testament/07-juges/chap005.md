@@ -24,7 +24,7 @@ summary: |
 
 ***Note*** :  Juges 5, 8 : Est-ce que ; littéralement si. Cette particule est souvent en hébreu interrogative, ou négative ; on pourrait donc traduire aussi : Ni lance ni bouclier ne paraissaient.
 
-9 Mon cœur aime les princes d'Israël : vous qui volontairement vous êtes offerts au danger, bénissez le Seigneur.
+9 Mon coeur aime les princes d'Israël : vous qui volontairement vous êtes offerts au danger, bénissez le Seigneur.
 
 
 10 Vous qui montez sur des ânes brillants, qui siégez dans le jugement et qui marchez dans la voie, parlez.

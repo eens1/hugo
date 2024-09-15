@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Quid necesse est homini maiora se quærere, cum ignoret quid conducat sibi in vita sua numero dierum peregrinationis suæ, et tempore, quod velut umbra præterit? Aut quis ei poterit indicare quod post eum futurum sub sole sit?
+1 Quid necesse est homini maiora se quaerere, cum ignoret quid conducat sibi in vita sua numero dierum peregrinationis suae, et tempore, quod velut umbra praeterit? Aut quis ei poterit indicare quod post eum futurum sub sole sit?
 
 2 Melius est nomen bonum, quam unguenta pretiosa: et dies mortis die nativitatis.
 
@@ -13,7 +13,7 @@ draft: false
 
 4 Melior est ira risu: quia per tristitiam vultus, corrigitur animus delinquentis.
 
-5 Cor sapientium ubi tristitia est, et cor stultorum ubi lætitia.
+5 Cor sapientium ubi tristitia est, et cor stultorum ubi laetitia.
 
 6 Melius est a sapiente corripi, quam stultorum adulatione decipi.
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Ne sis velox ad irascendum: quia ira in sinu stulti requiescit.
 
-11 Ne dicas: Quid putas causæ est quod priora tempora meliora fuere quam nunc sunt? stulta enim est huiuscemodi interrogatio.
+11 Ne dicas: Quid putas causae est quod priora tempora meliora fuere quam nunc sunt? stulta enim est huiuscemodi interrogatio.
 
 12 Utilior est sapientia cum divitiis, et magis prodest videntibus solem.
 
@@ -33,9 +33,9 @@ draft: false
 
 14 Considera opera Dei, quod nemo possit corrigere quem ille despexerit.
 
-15 In die bona fruere bonis, et malam diem præcave. sicut enim hanc, sic et illam fecit Deus, ut non inveniat homo contra eum iustas querimonias.
+15 In die bona fruere bonis, et malam diem praecave. sicut enim hanc, sic et illam fecit Deus, ut non inveniat homo contra eum iustas querimonias.
 
-16 Hæc quoque vidi in diebus vanitatis meæ: Iustus perit in iustitia sua, et impius multo vivit tempore in malitia sua.
+16 Haec quoque vidi in diebus vanitatis meae: Iustus perit in iustitia sua, et impius multo vivit tempore in malitia sua.
 
 17 Noli esse iustus multum: neque plus sapias quam necesse est, ne obstupescas.
 
@@ -55,13 +55,13 @@ draft: false
 
 25 multo magis quam erat: et alta profunditas, quis inveniet eam?
 
-26 Lustravi universa animo meo, ut scirem, et considerarem, et quærerem sapientiam, et rationem: et ut cognoscerem impietatem stulti, et errorem imprudentium:
+26 Lustravi universa animo meo, ut scirem, et considerarem, et quaererem sapientiam, et rationem: et ut cognoscerem impietatem stulti, et errorem imprudentium:
 
-27 et inveni amariorem morte mulierem, quæ laqueus venatorum est, et sagena cor eius, vincula sunt manus illius. qui placet Deo, effugiet illam: qui autem peccator est, capietur ab illa.
+27 et inveni amariorem morte mulierem, quae laqueus venatorum est, et sagena cor eius, vincula sunt manus illius. qui placet Deo, effugiet illam: qui autem peccator est, capietur ab illa.
 
 28 Ecce hoc inveni, dixit Ecclesiastes, unum et alterum, ut invenirem rationem,
 
-29 quam adhuc quærit anima mea, et non inveni. Virum de mille unum reperi, mulierem ex omnibus non inveni.
+29 quam adhuc quaerit anima mea, et non inveni. Virum de mille unum reperi, mulierem ex omnibus non inveni.
 
-30 Solummodo hoc inveni, quod fecerit Deus hominem rectum, et ipse se infinitis miscuerit quæstionibus. Quis talis ut sapiens est? et quis cognovit solutionem verbi?
+30 Solummodo hoc inveni, quod fecerit Deus hominem rectum, et ipse se infinitis miscuerit quaestionibus. Quis talis ut sapiens est? et quis cognovit solutionem verbi?
 

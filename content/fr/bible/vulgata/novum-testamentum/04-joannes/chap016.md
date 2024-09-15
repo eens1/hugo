@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Hæc locutus sum vobis, ut non scandalizemini.
+1 Haec locutus sum vobis, ut non scandalizemini.
 
-2 Absque synagogis facient vos: sed venit hora, ut omnis, qui interficit vos, arbitretur obsequium se præstare Deo.
+2 Absque synagogis facient vos: sed venit hora, ut omnis, qui interficit vos, arbitretur obsequium se praestare Deo.
 
-3 et hæc facient vobis, quia non noverunt Patrem, neque me.
+3 et haec facient vobis, quia non noverunt Patrem, neque me.
 
-4 Sed hæc locutus sum vobis: ut cum venerit hora eorum reminiscamini, quia ego dixi vobis.
+4 Sed haec locutus sum vobis: ut cum venerit hora eorum reminiscamini, quia ego dixi vobis.
 
-5 Hæc autem vobis ab initio non dixi, quia vobiscum eram: Et nunc vado ad eum, qui misit me; et nemo ex vobis interrogat me, Quo vadis?
+5 Haec autem vobis ab initio non dixi, quia vobiscum eram: Et nunc vado ad eum, qui misit me; et nemo ex vobis interrogat me, Quo vadis?
 
-6 Sed quia hæc locutus sum vobis, tristitia implevit cor vestrum.
+6 Sed quia haec locutus sum vobis, tristitia implevit cor vestrum.
 
 7 Sed ego veritatem dico vobis: expedit vobis ut ego vadam: si enim non abiero, Paraclitus non veniet ad vos: si autem abiero, mittam eum ad vos.
 
@@ -29,11 +29,11 @@ draft: false
 
 12 Adhuc multa habeo vobis dicere: sed non potestis portare modo.
 
-13 Cum autem venerit ille Spiritus veritatis, docebit vos omnem veritatem. non enim loquetur a semetipso: sed quæcumque audiet loquetur, et quæ ventura sunt annunciabit vobis.
+13 Cum autem venerit ille Spiritus veritatis, docebit vos omnem veritatem. non enim loquetur a semetipso: sed quaecumque audiet loquetur, et quae ventura sunt annunciabit vobis.
 
 14 Ille me clarificabit: quia de meo accipiet, et annunciabit vobis.
 
-15 Omnia quæcumque habet Pater, mea sunt. Propterea dixi: quia de meo accipiet, et annunciabit vobis.
+15 Omnia quaecumque habet Pater, mea sunt. Propterea dixi: quia de meo accipiet, et annunciabit vobis.
 
 16 Modicum, et iam non videbitis me: et iterum modicum, et videbitis me: quia vado ad Patrem.
 
@@ -41,11 +41,11 @@ draft: false
 
 18 Dicebant ergo: Quid est hoc, quod dicit, Modicum? nescimus quid loquitur.
 
-19 Cognovit autem Iesus, quia volebant eum interrogare, et dixit eis: De hoc quæritis inter vos quia dixi, Modicum, et non videbitis me: et iterum modicum, et videbitis me.
+19 Cognovit autem Iesus, quia volebant eum interrogare, et dixit eis: De hoc quaeritis inter vos quia dixi, Modicum, et non videbitis me: et iterum modicum, et videbitis me.
 
 20 Amen, amen dico vobis: quia plorabitis, et flebitis vos, mundus autem gaudebit: vos autem contristabimini, sed tristitia vestra vertetur in gaudium.
 
-21 Mulier cum parit, tristitiam habet, quia venit hora eius: cum autem pepererit puerum, iam non meminit pressuræ propter gaudium: quia natus est homo in mundum.
+21 Mulier cum parit, tristitiam habet, quia venit hora eius: cum autem pepererit puerum, iam non meminit pressurae propter gaudium: quia natus est homo in mundum.
 
 22 Et vos igitur nunc quidem tristitiam habetis, iterum autem videbo vos, et gaudebit cor vestrum: et gaudium vestrum nemo tollet a vobis.
 
@@ -53,7 +53,7 @@ draft: false
 
 24 Usque modo non petistis quidquam in nomine meo: Petite, et accipietis, ut gaudium vestrum sit plenum.
 
-25 Hæc in proverbiis locutus sum vobis. Venit hora cum iam non in proverbiis loquar vobis, sed palam de Patre annunciabo vobis.
+25 Haec in proverbiis locutus sum vobis. Venit hora cum iam non in proverbiis loquar vobis, sed palam de Patre annunciabo vobis.
 
 26 in illo die in nomine meo petetis: et non dico vobis quia ego rogabo Patrem de vobis:
 
@@ -69,5 +69,5 @@ draft: false
 
 32 Ecce venit hora, et iam venit, ut dispergamini unusquisque in propria, et me solum relinquatis: et non sum solus, quia Pater mecum est.
 
-33 Hæc locutus sum vobis, ut in me pacem habeatis. In mundo pressuram habebitis: sed confidite, ego vici mundum.
+33 Haec locutus sum vobis, ut in me pacem habeatis. In mundo pressuram habebitis: sed confidite, ego vici mundum.
 

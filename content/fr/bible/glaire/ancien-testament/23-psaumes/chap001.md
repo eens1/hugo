@@ -5,7 +5,7 @@ draft: false
 summary: |
   
   Ce Psaume contient comme un précis de toute la doctrine du psautier et un abrégé de toute la morale.
-  Le Psalmiste y représente que le bonheur de l’homme en cette vie consiste à s’éloigner des maximes et des mœurs des impies, et à s’attacher constamment à la loi de Dieu.
+  Le Psalmiste y représente que le bonheur de l’homme en cette vie consiste à s’éloigner des maximes et des moeurs des impies, et à s’attacher constamment à la loi de Dieu.
 ---
 
 

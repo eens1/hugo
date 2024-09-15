@@ -9,7 +9,7 @@ draft: false
 
 2 Loquimini filiis Israel, et dicite eis: Vir, qui patitur fluxum seminis, immundus erit.
 
-3 Et tunc iudicabitur huic vitio subiacere, cum per singula momenta adhæserit carni eius, atque concreverit fœdus humor.
+3 Et tunc iudicabitur huic vitio subiacere, cum per singula momenta adhaeserit carni eius, atque concreverit foedus humor.
 
 4 Omne stratum, in quo dormierit, immundum erit, et ubicumque sederit.
 
@@ -31,7 +31,7 @@ draft: false
 
 13 Si sanatus fuerit qui huiuscemodi sustinet passionem, numerabit septem dies post emundationem sui, et lotis vestibus et toto corpore in aquis viventibus, erit mundus.
 
-14 Die autem octavo sumet duos turtures, aut duos pullos columbæ, et veniet in conspectum Domini ad ostium tabernaculi testimonii, dabitque eos sacerdoti.
+14 Die autem octavo sumet duos turtures, aut duos pullos columbae, et veniet in conspectum Domini ad ostium tabernaculi testimonii, dabitque eos sacerdoti.
 
 15 qui faciet unum pro peccato, et alterum in holocaustum: rogabitque pro eo coram Domino, ut emundetur a fluxi seminis sui.
 
@@ -41,11 +41,11 @@ draft: false
 
 18 Mulier, cum qua coierit, lavabitur aqua, et immunda erit usque ad vesperum.
 
-19 Mulier, quæ redeunte mense patitur fluxum sanguinis, septem diebus separabitur.
+19 Mulier, quae redeunte mense patitur fluxum sanguinis, septem diebus separabitur.
 
 20 Omnis qui tetigerit eam, immundus erit usque ad vesperum:
 
-21 et in quo dormierit vel sederit diebus separationis suæ, polluetur.
+21 et in quo dormierit vel sederit diebus separationis suae, polluetur.
 
 22 Qui tetigerit lectum eius, lavabit vestimenta sua: et ipse lotus aqua, immundus erit usque ad vesperum.
 
@@ -53,21 +53,21 @@ draft: false
 
 24 Si coierit cum ea vir tempore sanguinis menstrualis, immundus erit septem diebus: et omne stratum, in quo dormierit, polluetur.
 
-25 Mulier, quæ patitur multis diebus fluxum sanguinis non in tempore menstruali, vel quæ post menstruum sanguinem fluere non cessat, quamdiu subiacet huic passioni, immunda erit quasi sit in tempore menstruo.
+25 Mulier, quae patitur multis diebus fluxum sanguinis non in tempore menstruali, vel quae post menstruum sanguinem fluere non cessat, quamdiu subiacet huic passioni, immunda erit quasi sit in tempore menstruo.
 
 26 omne stratum, in quo dormierit, et vas in quo sederit, pollutum erit.
 
 27 quicumque tetigerit ea, lavabit vestimenta sua: et ipse lotus aqua, immundus erit usque ad vesperam.
 
-28 Si steterit sanguis, et fluere cessaverit, numerabit septem dies purificationis suæ:
+28 Si steterit sanguis, et fluere cessaverit, numerabit septem dies purificationis suae:
 
 29 et die octavo offeret pro se sacerdoti duos turtures, aut duos pullos columbarum ad ostium tabernaculi testimonii:
 
-30 qui unum faciet pro peccato, et alterum in holocaustum, rogabitque pro ea coram Domino, et pro fluxu immunditiæ eius.
+30 qui unum faciet pro peccato, et alterum in holocaustum, rogabitque pro ea coram Domino, et pro fluxu immunditiae eius.
 
 31 Docebitis ergo filios Israel ut caveant immunditiam, et non moriantur in sordibus suis, cum polluerint tabernaculum meum quod est inter eos.
 
 32 Ista est lex eius, qui patitur fluxum seminis, et qui polluitur coitu,
 
-33 et quæ menstruis temporibus separatur, vel quæ iugi fluit sanguine, et hominis, qui dormierit cum ea.
+33 et quae menstruis temporibus separatur, vel quae iugi fluit sanguine, et hominis, qui dormierit cum ea.
 

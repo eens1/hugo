@@ -11,7 +11,7 @@ draft: false
 
 3 Quid communicabit cacabus ad ollam? quando enim se colliserint, confringetur.
 
-4 Dives iniuste egit, et fremet: pauper autem læsus tacebit.
+4 Dives iniuste egit, et fremet: pauper autem laesus tacebit.
 
 5 Si largitus fueris, assumet te: et si non habueris, derelinquet te.
 
@@ -31,7 +31,7 @@ draft: false
 
 13 Ne improbus sis, ne impingaris: et ne longe sis ab eo, ne eas in oblivionem.
 
-14 Ne retineas ex æquo loqui cum illo: nec credas multis verbis illius. ex multa enim loquela tentabit te, et subridens interrogabit te de absconditis tuis.
+14 Ne retineas ex aequo loqui cum illo: nec credas multis verbis illius. ex multa enim loquela tentabit te, et subridens interrogabit te de absconditis tuis.
 
 15 Immitis animus illius conservabit verba tua: et non parcet de malitia, et de vinculis.
 
@@ -47,7 +47,7 @@ draft: false
 
 21 Si communicabit lupus agno aliquando, sic peccator iusto.
 
-22 Quæ communicatio sancto homini ad canem? aut quæ pars diviti ad pauperem?
+22 Quae communicatio sancto homini ad canem? aut quae pars diviti ad pauperem?
 
 23 Venatio leonis onager in eremo: sic et pascua divitum, sunt pauperes.
 

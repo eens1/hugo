@@ -9,23 +9,23 @@ draft: false
 
 2 Confitebor tibi Domine in toto corde meo: narrabo omnia mirabilia tua.
 
-3 Lætabor et exultabo in te: psallam nomini tuo Altissime,
+3 Laetabor et exultabo in te: psallam nomini tuo Altissime,
 
 4 In convertendo inimicum meum retrorsum: infirmabuntur, et peribunt a facie tua.
 
 5 Quoniam fecisti iudicium meum et causam meam: sedisti super thronum qui iudicas iustitiam.
 
-6 Increpasti Gentes, et periit impius: nomen eorum delesti in æternum et in sæculum sæculi.
+6 Increpasti Gentes, et periit impius: nomen eorum delesti in aeternum et in saeculum saeculi.
 
-7 Inimici defecerunt frameæ in finem: et civitates eorum destruxisti. Periit memoria eorum cum sonitu:
+7 Inimici defecerunt frameae in finem: et civitates eorum destruxisti. Periit memoria eorum cum sonitu:
 
-8 et Dominus in æternum permanet. Paravit in iudicio thronum suum:
+8 et Dominus in aeternum permanet. Paravit in iudicio thronum suum:
 
-9 et ipse iudicabit orbem terræ in æquitate, iudicabit populos in iustitia.
+9 et ipse iudicabit orbem terrae in aequitate, iudicabit populos in iustitia.
 
 10 Et factus est Dominus refugium pauperi: adiutor in opportunitatibus, in tribulatione.
 
-11 Et sperent in te qui noverunt nomen tuum: quoniam non dereliquisti quærentes te Domine.
+11 Et sperent in te qui noverunt nomen tuum: quoniam non dereliquisti quaerentes te Domine.
 
 12 Psallite Domino, qui habitat in Sion: annunciate inter Gentes studia eius:
 
@@ -33,13 +33,13 @@ draft: false
 
 14 Miserere mei Domine: vide humilitatem meam de inimicis meis.
 
-15 Qui exaltas me de portis mortis, ut annunciem omnes laudationes tuas in portis filiæ Sion.
+15 Qui exaltas me de portis mortis, ut annunciem omnes laudationes tuas in portis filiae Sion.
 
-16 Exultabo in salutari tuo: infixæ sunt Gentes in interitu, quem fecerunt. In laqueo isto, quem absconderunt, comprehensus est pes eorum.
+16 Exultabo in salutari tuo: infixae sunt Gentes in interitu, quem fecerunt. In laqueo isto, quem absconderunt, comprehensus est pes eorum.
 
 17 Cognoscetur Dominus iudicia faciens: in operibus manuum suarum comprehensus est peccator.
 
-18 Convertantur peccatores in infernum, omnes Gentes quæ obliviscuntur Deum.
+18 Convertantur peccatores in infernum, omnes Gentes quae obliviscuntur Deum.
 
 19 Quoniam non in finem oblivio erit pauperis: patientia pauperum non peribit in finem.
 
@@ -51,11 +51,11 @@ draft: false
 
 23 Dum superbit impius, incenditur pauper: comprehenduntur in consiliis quibus cogitant.
 
-24 Quoniam laudatur peccator in desideriis animæ suæ: et iniquus benedicitur.
+24 Quoniam laudatur peccator in desideriis animae suae: et iniquus benedicitur.
 
-25 Exacerbavit Dominum peccator, secundum multitudinem iræ suæ non quæret.
+25 Exacerbavit Dominum peccator, secundum multitudinem irae suae non quaeret.
 
-26 Non est Deus in conspectu eius: inquinatæ sunt viæ illius in omni tempore. Auferuntur iudicia tua a facie eius: omnium inimicorum suorum dominabitur.
+26 Non est Deus in conspectu eius: inquinatae sunt viae illius in omni tempore. Auferuntur iudicia tua a facie eius: omnium inimicorum suorum dominabitur.
 
 27 Dixit enim in corde suo: Non movebor a generatione in generationem, sine malo.
 
@@ -75,11 +75,11 @@ draft: false
 
 35 Vides, quoniam tu laborem et dolorem consideras: ut tradas eos in manus tuas. Tibi derelictus est pauper: orphano tu eris adiutor.
 
-36 Contere brachium peccatoris et maligni: quæretur peccatum illius, et non invenietur.
+36 Contere brachium peccatoris et maligni: quaeretur peccatum illius, et non invenietur.
 
-37 Dominus regnabit in æternum, et in sæculum sæculi: peribitis Gentes de terra illius.
+37 Dominus regnabit in aeternum, et in saeculum saeculi: peribitis Gentes de terra illius.
 
-38 Desiderium pauperum exaudivit Dominus: præparationem cordis eorum audivit auris tua.
+38 Desiderium pauperum exaudivit Dominus: praeparationem cordis eorum audivit auris tua.
 
 39 Iudicare pupillo et humili, ut non apponat ultra magnificare se homo super terram.
 

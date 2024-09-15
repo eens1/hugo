@@ -11,17 +11,17 @@ draft: false
 
 3 Optabam enim ego ipse anathema esse a Christo pro fratribus meis, qui sunt cognati mei secundum carnem,
 
-4 qui sunt Israelitæ, quorum adoptio est filiorum, et gloria, et testamentum, et legislatio, et obsequium, et promissa:
+4 qui sunt Israelitae, quorum adoptio est filiorum, et gloria, et testamentum, et legislatio, et obsequium, et promissa:
 
-5 quorum patres, et ex quibus est Christus secundum carnem, qui est super omnia Deus benedictus in sæcula. Amen.
+5 quorum patres, et ex quibus est Christus secundum carnem, qui est super omnia Deus benedictus in saecula. Amen.
 
-6 Non autem quod exciderit verbum Dei. Non enim omnes qui ex Israel sunt, ii sunt Israelitæ:
+6 Non autem quod exciderit verbum Dei. Non enim omnes qui ex Israel sunt, ii sunt Israelitae:
 
-7 neque qui semen sunt Abrahæ, omnes filii: sed in Isaac vocabitur tibi semen:
+7 neque qui semen sunt Abrahae, omnes filii: sed in Isaac vocabitur tibi semen:
 
-8 id est, non qui filii carnis, hi filii Dei: sed qui filii sunt promissionis, æstimantur in semine.
+8 id est, non qui filii carnis, hi filii Dei: sed qui filii sunt promissionis, aestimantur in semine.
 
-9 Promissionis enim verbum hoc est: Secundum hoc tempus veniam: et erit Saræ filius.
+9 Promissionis enim verbum hoc est: Secundum hoc tempus veniam: et erit Sarae filius.
 
 10 Non solum autem illa: sed et Rebecca ex uno concubitu habens, Isaac patris nostri.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 Quid ergo dicemus? numquid iniquitas apud Deum? Absit.
 
-15 Moysi enim dicit: Miserebor cuius misereor: et misericordiam præstabo cuius miserebor.
+15 Moysi enim dicit: Miserebor cuius misereor: et misericordiam praestabo cuius miserebor.
 
 16 Igitur non volentis, neque currentis, sed miserentis est Dei.
 
@@ -47,25 +47,25 @@ draft: false
 
 21 An non habet potestatem figulus luti ex eadem massa facere aliud quidem vas in honorem, aliud vero in contumeliam?
 
-22 Quod si Deus volens ostendere iram, et notum facere potentiam suam, sustinuit in multa patientia vasa iræ, apta in interitum,
+22 Quod si Deus volens ostendere iram, et notum facere potentiam suam, sustinuit in multa patientia vasa irae, apta in interitum,
 
-23 ut ostenderet divitias gloriæ suæ in vasa misericordiæ, quæ præparavit in gloriam.
+23 ut ostenderet divitias gloriae suae in vasa misericordiae, quae praeparavit in gloriam.
 
-24 Quos et vocavit nos non solum ex Iudæis, sed etiam in Gentibus,
+24 Quos et vocavit nos non solum ex Iudaeis, sed etiam in Gentibus,
 
 25 sicut in Osee dicit: Vocabo non plebem meam, plebem meam: et non dilectam, dilectam: et non misericordiam consecutam, misericordiam consecutam.
 
 26 Et erit: in loco, ubi dictum est eis: Non plebs mea vos: ibi vocabuntur filii Dei vivi.
 
-27 Isaias autem clamat pro Israel: Si fuerit numerus filiorum Israel tamquam arena maris, reliquiæ salvæ fient.
+27 Isaias autem clamat pro Israel: Si fuerit numerus filiorum Israel tamquam arena maris, reliquiae salvae fient.
 
-28 Verbum enim consummans, et abbrevians in æquitate: quia verbum breviatum faciet Dominus super terram:
+28 Verbum enim consummans, et abbrevians in aequitate: quia verbum breviatum faciet Dominus super terram:
 
-29 et sicut prædixit Isaias: Nisi Dominus sabaoth reliquisset nobis semen, sicut Sodoma facti essemus, et sicut Gomorrha similes fuissemus.
+29 et sicut praedixit Isaias: Nisi Dominus sabaoth reliquisset nobis semen, sicut Sodoma facti essemus, et sicut Gomorrha similes fuissemus.
 
-30 Quid ergo dicemus? Quod gentes, quæ non sectabantur iustitiam, apprehenderunt iustitiam: iustitiam autem, quæ ex fide est.
+30 Quid ergo dicemus? Quod gentes, quae non sectabantur iustitiam, apprehenderunt iustitiam: iustitiam autem, quae ex fide est.
 
-31 Israel vero sectando legem iustitiæ, in legem iustitiæ non pervenit.
+31 Israel vero sectando legem iustitiae, in legem iustitiae non pervenit.
 
 32 Quare? Quia non ex fide, sed quasi ex operibus: offenderunt enim in lapidem offensionis,
 

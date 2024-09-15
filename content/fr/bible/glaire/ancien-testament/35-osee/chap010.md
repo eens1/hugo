@@ -9,7 +9,7 @@ summary: |
 ---
 
 
-1 Israël était une vigne couverte de feuilles, le fruit les égalait; selon l'abondance de son fruit elle a multiplié ses autels; suivant la fertilité de sa terre, elle a été féconde en simulacres. 2 Leur cœur s'est partagé, maintenant ils périront; lui-même brisera leurs simulacres, il renversera leurs autels.
+1 Israël était une vigne couverte de feuilles, le fruit les égalait; selon l'abondance de son fruit elle a multiplié ses autels; suivant la fertilité de sa terre, elle a été féconde en simulacres. 2 Leur coeur s'est partagé, maintenant ils périront; lui-même brisera leurs simulacres, il renversera leurs autels.
 
 ***Note*** :  Os. 10, 2 : S’est partagé entre le culte de Baal et celui du Seigneur.
 

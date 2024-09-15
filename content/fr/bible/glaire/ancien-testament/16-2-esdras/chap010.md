@@ -25,7 +25,7 @@ fils et leurs filles,
 
 ***Note*** :  II Esdras 10, 31 : Un jour sanctifié ; consacré à quelque fête religieuse. ― Nous abandonnerons, etc. ; c’est-à-dire pendant chaque septième année nous ne cultiverons pas la terre, nous ne sèmerons pas, etc. Voir Lévitique, 25, verset 4 et suivants. ― Nous abandonnerons, etc. ; c’est-à-dire nous n’exigerons d’aucune main, qu’elle paye ce qui nous sera dû. Comparer à Deutéronome, 15, 2.
 
-32 Et nous établirons pour nous comme préceptes de donner par an la troisième partie d'un sicle, pour l'œuvre de la maison de notre Dieu.
+32 Et nous établirons pour nous comme préceptes de donner par an la troisième partie d'un sicle, pour l'oeuvre de la maison de notre Dieu.
 
 
 33 Pour les pains de proposition, et pour le sacrifice perpétuel, pour l'holocauste perpétuel dans les sabbats, dans les calendes, dans les solennités, et dans les choses sanctifiées et pour le péché, afin que l'on prie pour Israël, et pour le service de la maison de notre Dieu.
@@ -41,7 +41,7 @@ fils et leurs filles,
 
 ***Note*** :  II Esdras 10, 35 : Nous promîmes et nous jurâmes. Ces deux verbes, exprimés au verset 29, sont sous-entendus ici. Ils ne sauraient dépendre de nous jetâmes le sort (voir verset 34), parce que l’offrande des prémices dont il s’agit ici était expressément ordonnée par la loi.
 
-36 Et les premiers-nés de nos fils et de nos troupeaux, comme il est écrit dans la loi, et les prémices de nos bœufs et de nos brebis, pour être offerts dans la maison de notre Dieu, aux prêtres qui servent dans la maison de notre Dieu; 37 Les prémices aussi de nos aliments et de nos libations, et les fruits de tout arbre, de la vigne aussi bien que de l'olivier, nous les apporterons aux prêtres, pour le trésor de notre Dieu, et la dixième partie de notre terre aux Lévites. Eux-mêmes, les Lévites recevront de toutes les villes les dîmes de nos travaux. 38 Et le prêtre, fils d'Aaron, sera avec les Lévites dans les dîmes des Lévites; et les Lévites offriront la dixième partie de leur dîme dans la maison de notre Dieu, au lieu où on garde le trésor, dans la maison du trésor.
+36 Et les premiers-nés de nos fils et de nos troupeaux, comme il est écrit dans la loi, et les prémices de nos boeufs et de nos brebis, pour être offerts dans la maison de notre Dieu, aux prêtres qui servent dans la maison de notre Dieu; 37 Les prémices aussi de nos aliments et de nos libations, et les fruits de tout arbre, de la vigne aussi bien que de l'olivier, nous les apporterons aux prêtres, pour le trésor de notre Dieu, et la dixième partie de notre terre aux Lévites. Eux-mêmes, les Lévites recevront de toutes les villes les dîmes de nos travaux. 38 Et le prêtre, fils d'Aaron, sera avec les Lévites dans les dîmes des Lévites; et les Lévites offriront la dixième partie de leur dîme dans la maison de notre Dieu, au lieu où on garde le trésor, dans la maison du trésor.
 
 ***Note*** :  II Esdras 10, 38 : Et le prêtre, etc. ; c’est-à-dire qu’il y aura toujours un prêtre chargé d’inspecter les dîmes que les Lévites recevront, afin d’en prendre la dixième partie pour les prêtres, selon ce qui est prescrit par Moïse (voir Nombres, 18, 26-27). ― Par le lieu où on garde le trésor, lieu que souvent on appelle simplement trésor, on entend des espèces de greniers ou de magasins dans lesquels on rassemblait toutes les choses saintes et toutes celles qui étaient consacrées au service du temple.
 

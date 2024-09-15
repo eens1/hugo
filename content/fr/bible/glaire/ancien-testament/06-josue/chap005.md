@@ -10,7 +10,7 @@ summary: |
 ---
 
 
-1 Quand donc tous les rois des Amorrhéens qui habitaient au-delà du Jourdain, vers le côté occidental, et tous les rois de Chanaan qui possédaient les lieux voisins de la grande mer, apprirent que le Seigneur avait séché le cours du Jourdain devant les enfants d'Israël, jusqu'à ce qu'ils eussent passé, leur cœur défaillit, et le courage les abandonna, parce qu'ils craignaient l'entrée des enfants d'Israël.
+1 Quand donc tous les rois des Amorrhéens qui habitaient au-delà du Jourdain, vers le côté occidental, et tous les rois de Chanaan qui possédaient les lieux voisins de la grande mer, apprirent que le Seigneur avait séché le cours du Jourdain devant les enfants d'Israël, jusqu'à ce qu'ils eussent passé, leur coeur défaillit, et le courage les abandonna, parce qu'ils craignaient l'entrée des enfants d'Israël.
 
 ***Note*** :  Josué 5, 1 : La grande mer. Voir Josué, 1, 4.
 

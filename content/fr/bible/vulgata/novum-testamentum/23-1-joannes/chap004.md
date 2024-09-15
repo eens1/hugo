@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Charissimi, nolite omni spiritui credere, sed probate spiritus si ex Deo sint: quoniam multi pseudoprophetæ exierunt in mundum.
+1 Charissimi, nolite omni spiritui credere, sed probate spiritus si ex Deo sint: quoniam multi pseudoprophetae exierunt in mundum.
 
 2 in hoc cognoscitur spiritus Dei: omnis spiritus qui confitetur Iesum Christum in carne venisse, ex Deo est:
 
@@ -39,7 +39,7 @@ draft: false
 
 17 In hoc perfecta est charitas Dei nobiscum, ut fiduciam habeamus in die iudicii: quia sicut ille est, et nos sumus in hoc mundo.
 
-18 Timor non est in charitate: sed perfecta charitas foras mittit timorem, quoniam timor pœnam habet. qui autem timet, non est perfectus in charitate.
+18 Timor non est in charitate: sed perfecta charitas foras mittit timorem, quoniam timor poenam habet. qui autem timet, non est perfectus in charitate.
 
 19 Nos ergo diligamus Deum, quoniam Deus prior dilexit nos.
 

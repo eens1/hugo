@@ -36,19 +36,19 @@ summary: |
 
 ***Note*** :  Jr. 3, 6 : Voir Jérémie, 2, 20. ― 2° Impénitence d’Israël, du chapitre 3, verset 6 au chapitre 10. ― La seconde cause de la réprobation d’Israël, c’est son impénitence. ― I. Juda n’a pas profité du malheur d’Israël pour se convertir, et a méprisé tous les avertissements divins, du chapitre 3, verset 6 au chapitre 4, verset 4. ― 1° Il a vu comment Dieu a puni les dix tribus schismatiques et la ruine du royaume de Samarie, sans que cet avertissement ne lui servît de rien, chapitre 3, versets 6 à 10. ― 2° Bien plus, Israël est meilleur que Juda ; aussi le Prophète l’exhorte-t-il, de la part de Dieu, à reconnaître ses iniquités passées, pour qu’il soit ramené à Jérusalem, versets 11 à 17. ― 3° Du reste, que Juda se convertisse comme Israël, et l’un et l’autre seront pardonnés, parce que ce n’est pas la volonté de Dieu, mais leurs crimes qui sont la cause de leurs malheurs, versets 18 à 25. ― 4° Le salut serait donc encore possible pour Juda pénitent, chapitre 4, versets 1 à 4.
 
-7 Et j'ai dit, lorsqu'elle a eu fait toutes ces choses : Reviens à moi, et elle n'est pas revenue. Et sa sœur, la prévaricatrice Juda, a vu8 Que parce que la rebelle Israël avait été adultère, je l'avais renvoyée, et que je lui avais donné un acte de répudiation; elle n'a pas craint, la prévaricatrice Juda, sa sœur, mais elle s'en est allée, et elle a forniqué aussi elle-même.
+7 Et j'ai dit, lorsqu'elle a eu fait toutes ces choses : Reviens à moi, et elle n'est pas revenue. Et sa soeur, la prévaricatrice Juda, a vu8 Que parce que la rebelle Israël avait été adultère, je l'avais renvoyée, et que je lui avais donné un acte de répudiation; elle n'a pas craint, la prévaricatrice Juda, sa soeur, mais elle s'en est allée, et elle a forniqué aussi elle-même.
 
 
 9 Et par la facilité de sa fornication elle a souillé la terre, et elle a commis l'adultère avec la pierre et le bois.
 
 ***Note*** :  Jr. 3, 9 : La facilité ; le peu de scrupule, l’effronterie. ― L’adultère ; l’idolâtrie. ― La pierre et le bois ; désignent des idoles faites de ces matières. Comparer à Jérémie, 2, 27.
 
-10 Et au milieu de toutes ces choses, la prévaricatrice Juda, sa sœur, n'est pas revenue à moi de tout son cœur, mais avec mensonge, dit le Seigneur.
+10 Et au milieu de toutes ces choses, la prévaricatrice Juda, sa soeur, n'est pas revenue à moi de tout son coeur, mais avec mensonge, dit le Seigneur.
 
 
 11 Et le Seigneur me dit : Elle a justifié son âme, la rebelle Israël, en comparaison de la prévaricatrice Juda.
 
-***Note*** :  Jr. 3, 11 : Elle a justifié, etc. ; elle s’est justifiée ; elle a montré qu’elle n’était pas bien coupable par la comparaison qu’elle a faite de sa conduite avec celle de sa sœur Juda.
+***Note*** :  Jr. 3, 11 : Elle a justifié, etc. ; elle s’est justifiée ; elle a montré qu’elle n’était pas bien coupable par la comparaison qu’elle a faite de sa conduite avec celle de sa soeur Juda.
 
 12 Va, et crie ces paroles contre l'aquilon, et tu diras : Reviens, rebelle Israël, dit le Seigneur, et je ne détournerai pas ma face de vous, parce que moi, je suis saint, dit le Seigneur, et je ne serai pas irrité pour toujours.
 
@@ -56,15 +56,15 @@ summary: |
 13 Mais reconnais ton iniquité, parce que tu as prévariqué contre le Seigneur ton Dieu ; que tu as dispersé tes voies pour des étrangers, sous tout arbre touffu, et que tu n'as pas écouté ma voix, dit le Seigneur.
 
 
-14 Convertissez-vous, mes fils, en revenant vers moi, dit le Seigneur; parce que je suis votre époux ; je vous prendrai, un d'une cité, deux d'une famille, et je vous introduirai dans Sion. 15 Et je vous donnerai des pasteurs selon mon cœur, et ils vous nourriront de science et de doctrine.
+14 Convertissez-vous, mes fils, en revenant vers moi, dit le Seigneur; parce que je suis votre époux ; je vous prendrai, un d'une cité, deux d'une famille, et je vous introduirai dans Sion. 15 Et je vous donnerai des pasteurs selon mon coeur, et ils vous nourriront de science et de doctrine.
 
 
-16 Et lorsque vous vous serez multipliés, et que vous aurez crû sur la terre en ces jours-là, dit le Seigneur, on ne dira plus : L'arche d'alliance du Seigneur; elle ne montera pas sur le cœur, on ne se la rappellera pas, elle ne sera pas visitée, et on ne la refera plus.
+16 Et lorsque vous vous serez multipliés, et que vous aurez crû sur la terre en ces jours-là, dit le Seigneur, on ne dira plus : L'arche d'alliance du Seigneur; elle ne montera pas sur le coeur, on ne se la rappellera pas, elle ne sera pas visitée, et on ne la refera plus.
 
-***Note*** :  Jr. 3, 16 : Elle ne montera pas sur le cœur ; elle ne viendra pas même à l’esprit, on n’y pensera même pas. Le mot hébreu cœur signifie aussi esprit.
+***Note*** :  Jr. 3, 16 : Elle ne montera pas sur le coeur ; elle ne viendra pas même à l’esprit, on n’y pensera même pas. Le mot hébreu coeur signifie aussi esprit.
 
 
-17 En ce temps-là, on appellera Jérusalem le trône du Seigneur, et toutes les nations s'y rassembleront au nom du Seigneur, dans Jérusalem, et elles ne courront pas après la perversité de leur cœur très mauvais.
+17 En ce temps-là, on appellera Jérusalem le trône du Seigneur, et toutes les nations s'y rassembleront au nom du Seigneur, dans Jérusalem, et elles ne courront pas après la perversité de leur coeur très mauvais.
 
 
 18 En ces jours-là, la maison de Juda ira vers la maison d'Israël, et elles viendront ensemble de la terre de l'aquilon dans la terre que j'ai donnée à vos pères.

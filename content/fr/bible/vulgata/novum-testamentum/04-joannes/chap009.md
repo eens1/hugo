@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 Et præteriens Iesus vidit hominem cæcum a nativitate:
+1 Et praeteriens Iesus vidit hominem caecum a nativitate:
 
-2 et interrogaverunt eum discipuli eius: Rabbi, quis peccavit, hic, aut parentes eius, ut cæcus nasceretur?
+2 et interrogaverunt eum discipuli eius: Rabbi, quis peccavit, hic, aut parentes eius, ut caecus nasceretur?
 
 3 Respondit Iesus: Neque hic peccavit, neque parentes eius: sed ut manifestentur opera Dei in illo.
 
@@ -15,7 +15,7 @@ draft: false
 
 5 quamdiu sum in mundo, lux sum mundi.
 
-6 Hæc cum dixisset, expuit in terram, et fecit lutum ex sputo, et linivit lutum super oculos eius,
+6 Haec cum dixisset, expuit in terram, et fecit lutum ex sputo, et linivit lutum super oculos eius,
 
 7 et dixit ei: Vade, lava in natatoria Siloe (quod interpretatur Missus.) Abiit ergo, et lavit, et venit videns.
 
@@ -29,31 +29,31 @@ draft: false
 
 12 Et dixerunt ei: Ubi est ille? Ait: Nescio.
 
-13 Adducunt eum ad Pharisæos, qui cæcus fuerat.
+13 Adducunt eum ad Pharisaeos, qui caecus fuerat.
 
 14 Erat autem sabbatum quando lutum fecit Iesus, et aperuit oculos eius.
 
-15 Iterum ergo interrogabant eum Pharisæi quomodo vidisset. Ille autem dixit eis: Lutum mihi posuit super oculos, et lavi, et video.
+15 Iterum ergo interrogabant eum Pharisaei quomodo vidisset. Ille autem dixit eis: Lutum mihi posuit super oculos, et lavi, et video.
 
-16 Dicebant ergo ex Pharisæis quidam: Non est hic homo a Deo, qui sabbatum non custodit. Alii autem dicebant: Quomodo potest homo peccator hæc signa facere? Et schisma erat inter eos.
+16 Dicebant ergo ex Pharisaeis quidam: Non est hic homo a Deo, qui sabbatum non custodit. Alii autem dicebant: Quomodo potest homo peccator haec signa facere? Et schisma erat inter eos.
 
-17 Dicunt ergo cæco iterum: Tu quid dicis de illo, qui aperuit oculos tuos? Ille autem dixit: Quia propheta est.
+17 Dicunt ergo caeco iterum: Tu quid dicis de illo, qui aperuit oculos tuos? Ille autem dixit: Quia propheta est.
 
-18 Non crediderunt ergo Iudæi de illo, quia cæcus fuisset et vidisset, donec vocaverunt parentes eius, qui viderat:
+18 Non crediderunt ergo Iudaei de illo, quia caecus fuisset et vidisset, donec vocaverunt parentes eius, qui viderat:
 
-19 et interrogaverunt eos, dicentes: Hic est filius vester, quem vos dicitis quia cæcus natus est? Quomodo ergo nunc videt?
+19 et interrogaverunt eos, dicentes: Hic est filius vester, quem vos dicitis quia caecus natus est? Quomodo ergo nunc videt?
 
-20 Responderunt eis parentes eius, et dixerunt: Scimus quia hic est filius noster, et quia cæcus natus est:
+20 Responderunt eis parentes eius, et dixerunt: Scimus quia hic est filius noster, et quia caecus natus est:
 
-21 quomodo autem nunc videat, nescimus: aut quis eius aperuit oculos, nos nescimus: ipsum interrogate: ætatem habet, ipse de se loquatur.
+21 quomodo autem nunc videat, nescimus: aut quis eius aperuit oculos, nos nescimus: ipsum interrogate: aetatem habet, ipse de se loquatur.
 
-22 Hæc dixerunt parentes eius, quoniam timebant Iudæos: iam enim conspiraverunt Iudæi, ut si quis eum confiteretur esse Christum, extra synagogam fieret.
+22 Haec dixerunt parentes eius, quoniam timebant Iudaeos: iam enim conspiraverunt Iudaei, ut si quis eum confiteretur esse Christum, extra synagogam fieret.
 
-23 Propterea parentes eius dixerunt: Quia ætatem habet, ipsum interrogate.
+23 Propterea parentes eius dixerunt: Quia aetatem habet, ipsum interrogate.
 
-24 Vocaverunt ergo rursum hominem, qui fuerat cæcus, et dixerunt ei: Da gloriam Deo. nos scimus quia hic homo peccator est.
+24 Vocaverunt ergo rursum hominem, qui fuerat caecus, et dixerunt ei: Da gloriam Deo. nos scimus quia hic homo peccator est.
 
-25 Dixit ergo eis ille: Si peccator est, nescio: unum scio, quia cæcus cum essem, modo video.
+25 Dixit ergo eis ille: Si peccator est, nescio: unum scio, quia caecus cum essem, modo video.
 
 26 Dixerunt ergo illi: Quid fecit tibi? quomodo aperuit tibi oculos?
 
@@ -67,7 +67,7 @@ draft: false
 
 31 scimus autem quia peccatores Deus non audit: sed si quis Dei cultor est, et voluntatem eius facit, hunc exaudit.
 
-32 A sæculo non est auditum quia quis aperuit oculos cæci nati.
+32 A saeculo non est auditum quia quis aperuit oculos caeci nati.
 
 33 Nisi esset hic a Deo, non poterat facere quidquam.
 
@@ -81,9 +81,9 @@ draft: false
 
 38 At ille ait: Credo Domine. Et procidens adoravit eum.
 
-39 Et dixit Iesus: In iudicium ego in hunc mundum veni: ut qui non vident videant, et qui vident cæci fiant.
+39 Et dixit Iesus: In iudicium ego in hunc mundum veni: ut qui non vident videant, et qui vident caeci fiant.
 
-40 Et audierunt quidam ex Pharisæis, qui cum ipso erant, et dixerunt ei: Numquid et nos cæci sumus?
+40 Et audierunt quidam ex Pharisaeis, qui cum ipso erant, et dixerunt ei: Numquid et nos caeci sumus?
 
-41 Dixit eis Iesus: Si cæci essetis, non haberetis peccatum. nunc vero dicitis: Quia videmus. Peccatum vestrum manet.
+41 Dixit eis Iesus: Si caeci essetis, non haberetis peccatum. nunc vero dicitis: Quia videmus. Peccatum vestrum manet.
 

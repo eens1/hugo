@@ -7,13 +7,13 @@ draft: false
 
 1 Locutusque est Dominus ad Moysen, dicens:
 
-2 Præcipe filiis Israel, et dices ad eos: Cum ingressi fueritis Terram Chanaan, et in possessionem vobis sorte ceciderit, his finibus terminabitur.
+2 Praecipe filiis Israel, et dices ad eos: Cum ingressi fueritis Terram Chanaan, et in possessionem vobis sorte ceciderit, his finibus terminabitur.
 
-3 Pars meridiana incipiet a solitudine Sin, quæ est iuxta Edom: et habebit terminos contra Orientem mare salsissimum.
+3 Pars meridiana incipiet a solitudine Sin, quae est iuxta Edom: et habebit terminos contra Orientem mare salsissimum.
 
 4 qui circuibunt australem plagam per ascensum Scorpionis, ita ut transeant in Senna, et perveniant a meridie usque ad Cadesbarne, unde egredientur confinia ad villam nomine Adar, et tendent usque ad Asemona.
 
-5 ibitque per gyrum terminus ab Asemona usque ad Torrentem Ægypti, et maris magni littore finietur.
+5 ibitque per gyrum terminus ab Asemona usque ad Torrentem AEgypti, et maris magni littore finietur.
 
 6 Plaga autem occidentalis a mari magno incipiet, et ipso fine claudetur.
 
@@ -29,15 +29,15 @@ draft: false
 
 12 et tendent usque ad Iordanem, et ad ultimum salsissimo claudentur mari. Hanc habebitis Terram per fines suos in circuitu.
 
-13 Præcepitque Moyses filiis Israel, dicens: Hæc erit Terra, quam possidebitis sorte, et quam iussit Dominus dari novem tribubus, et dimidiæ tribui.
+13 Praecepitque Moyses filiis Israel, dicens: Haec erit Terra, quam possidebitis sorte, et quam iussit Dominus dari novem tribubus, et dimidiae tribui.
 
 14 Tribus enim filiorum Ruben per familias suas, et tribus filiorum Gad iuxta cognationum numerum, media quoque tribus Manasse,
 
-15 id est, duæ semis tribus, acceperunt partem suam trans Iordanem contra Iericho ad orientalem plagam.
+15 id est, duae semis tribus, acceperunt partem suam trans Iordanem contra Iericho ad orientalem plagam.
 
 16 Et ait Dominus ad Moysen:
 
-17 Hæc sunt nomina virorum, qui Terram vobis divident, Eleazar sacerdos, et Iosue filius Nun,
+17 Haec sunt nomina virorum, qui Terram vobis divident, Eleazar sacerdos, et Iosue filius Nun,
 
 18 et singuli principes de tribubus singulis,
 
@@ -61,5 +61,5 @@ draft: false
 
 28 De tribu Nephthali, Phedael filius Ammiud.
 
-29 Hi sunt, quibus præcepit Dominus ut dividerent filiis Israel Terram Chanaan.
+29 Hi sunt, quibus praecepit Dominus ut dividerent filiis Israel Terram Chanaan.
 

@@ -21,7 +21,7 @@ summary: |
 
 ***Note*** :  Ps. 36, 3 : Et tu habiteras la terre ; littéralement Et habite ; hébraïsme. Voir Psaumes, 33, 6. Cette promesse d’habiter la terre est souvent répétée dans ce psaume ; et c’est ce qui a déterminé D. Calmet à dire que ces promesses regardaient le peuple juif captif à Babylone, pour qui rien n’était alors plus consolant que l’espérance de retourner dans la terre de ses pères. Mais dans le sens figuré, les Pères de l’Eglise l’expliquent du séjour des bienheureux au ciel. Comparer à Psaumes, 26, 13.
 
-4 Mets tes délices dans le Seigneur, et il t'accordera ce que ton cœur demande.
+4 Mets tes délices dans le Seigneur, et il t'accordera ce que ton coeur demande.
 
 
 5 Révèle au Seigneur ta voie, espère en lui, et lui fera selon tes désirs. 6 Il fera éclater ta justice comme une lumière, et ton droit comme les splendeurs du midi.
@@ -40,10 +40,10 @@ summary: |
 
 12 Le pécheur observera le juste, et il grincera des dents contre lui. 13 Mais le Seigneur se rira de lui, parce qu'il voit que viendra son jour.
 
-***Note*** :  Ps. 36, 13 : Son jour dernier, le jour de sa mort, où il lui rendra selon ses œuvres.
+***Note*** :  Ps. 36, 13 : Son jour dernier, le jour de sa mort, où il lui rendra selon ses oeuvres.
 
 
-14 Les pécheurs ont tiré le glaive : ils ont tendu leur arc, Afin de renverser un pauvre et un homme sans ressource, afin de tuer les hommes droits de cœur. 15 Que leur glaive entre dans leur cœur à eux-mêmes, et que leur arc soit brisé.
+14 Les pécheurs ont tiré le glaive : ils ont tendu leur arc, Afin de renverser un pauvre et un homme sans ressource, afin de tuer les hommes droits de coeur. 15 Que leur glaive entre dans leur coeur à eux-mêmes, et que leur arc soit brisé.
 
 
 16 Mieux vaut au juste un bien modique, que de grandes richesses de méchants. 17 Parce que les bras des impies se sont rompus ; mais le Seigneur affermit les justes.
@@ -82,7 +82,7 @@ summary: |
 
 ***Note*** :  Ps. 36, 30 : Voir Proverbes, 31, 26. ― S’exercera, etc. Voir Psaumes, 34, 28.
 
-31 La loi de Dieu est dans son cœur, ses pas ne chancelleront pas.
+31 La loi de Dieu est dans son coeur, ses pas ne chancelleront pas.
 
 ***Note*** :  Ps. 36, 31 : Voir Isaïe, 51, 7.
 
@@ -100,7 +100,7 @@ summary: |
 
 37 Garde l'innocence, et aie les yeux sur l'équité : parce que une postérité est réservée à l'homme pacifique.
 
-***Note*** :  Ps. 36, 37-38 : Postérité ; littéralement restes (reliquiæ), mot qui, en hébreu, signifie souvent, en effet, ceux qu’un homme laisse après lui.
+***Note*** :  Ps. 36, 37-38 : Postérité ; littéralement restes (reliquiae), mot qui, en hébreu, signifie souvent, en effet, ceux qu’un homme laisse après lui.
 
 38 Mais les injustes périront entièrement tous ensemble; et la postérité des impies mourra.
 

@@ -11,7 +11,7 @@ summary: |
 
 1 Continuant de nouveau, Eliu dit ceci :
 
-***Note*** :  Job 36, 1 : IVe discours d’Eliu : Dieu afflige l’homme pour le garder du péché et l’exciter au repentir, chapitres 36 et 37. ― Dans son dernier discours, Eliu explose encore plus complètement les motifs pour lesquels Dieu permet que le juste soit affligé : c’est pour le tenir en garde contre le péché, ou, s’il a péché, pour l’exciter au repentir. ― 1° Son exorde annonce des raisons décisives en faveur de sa thèse, chapitre 36, versets 2 à 4. ― 2° Dieu est tout-puissant, mais il ne dédaigne personne, et c’est ce qu’il montre en éprouvant ceux qu’il aime, versets 5 à 12. ― 3° C’est pour le plus grand bien de Job que Dieu l’afflige ; il doit donc veiller à ne pas perdre par sa faute la bénédiction que Dieu veut répandre sur lui, versets 13 à 22. ― 4° L’homme doit louer humblement ce maître incomparable qui manifeste sa puissance et sa sagesse par ses œuvres merveilleuses et par les phénomènes atmosphériques, versets 23 à 33. ― 5° Eliu décrit en détail l’orage, sa magnificence et ses suites, chapitre 37,
+***Note*** :  Job 36, 1 : IVe discours d’Eliu : Dieu afflige l’homme pour le garder du péché et l’exciter au repentir, chapitres 36 et 37. ― Dans son dernier discours, Eliu explose encore plus complètement les motifs pour lesquels Dieu permet que le juste soit affligé : c’est pour le tenir en garde contre le péché, ou, s’il a péché, pour l’exciter au repentir. ― 1° Son exorde annonce des raisons décisives en faveur de sa thèse, chapitre 36, versets 2 à 4. ― 2° Dieu est tout-puissant, mais il ne dédaigne personne, et c’est ce qu’il montre en éprouvant ceux qu’il aime, versets 5 à 12. ― 3° C’est pour le plus grand bien de Job que Dieu l’afflige ; il doit donc veiller à ne pas perdre par sa faute la bénédiction que Dieu veut répandre sur lui, versets 13 à 22. ― 4° L’homme doit louer humblement ce maître incomparable qui manifeste sa puissance et sa sagesse par ses oeuvres merveilleuses et par les phénomènes atmosphériques, versets 23 à 33. ― 5° Eliu décrit en détail l’orage, sa magnificence et ses suites, chapitre 37,
 versets 1 à 13. ― 6° En face de pareils spectacles, Job peut bien reconnaître sa faiblesse et son ignorance, comme Eliu reconnaît la sienne, versets 14 à 24. C’est la conclusion naturelle des discours d’Eliu et la préparation de l’apparition de Dieu qui se manifeste maintenant au sein d’une de ces tempêtes que l’orateur vient de décrire.
 
 
@@ -22,7 +22,7 @@ versets 1 à 13. ― 6° En face de pareils spectacles, Job peut bien reconnaît
 3 Je reprendrai mes preuves dès le commencement, et je te montrerai que mon créateur est juste. 4 Vraiment, en effet, mes discours sont exempts de mensonge, et ma parfaite science le sera prouvée.
 
 
-5 Dieu ne rejette point les puissants, puisqu'il est lui-même puissant. 6 Mais il ne sauve point les impies, et il fait justice aux pauvres. 7 Il ne détournera pas ses yeux du juste ; et il place des rois sur le trône pour toujours, et ces rois sont ainsi élevés. 8 Et s'ils sont dans les chaînes, et s'ils se trouvent resserrés par les liens de la pauvreté, 9 Il leur montrera leurs œuvres et leurs crimes, parce qu'ils ont été violents. 10 Il découvrira leur oreille pour les reprendre ; et il parlera, afin qu'ils reviennent de l'iniquité.
+5 Dieu ne rejette point les puissants, puisqu'il est lui-même puissant. 6 Mais il ne sauve point les impies, et il fait justice aux pauvres. 7 Il ne détournera pas ses yeux du juste ; et il place des rois sur le trône pour toujours, et ces rois sont ainsi élevés. 8 Et s'ils sont dans les chaînes, et s'ils se trouvent resserrés par les liens de la pauvreté, 9 Il leur montrera leurs oeuvres et leurs crimes, parce qu'ils ont été violents. 10 Il découvrira leur oreille pour les reprendre ; et il parlera, afin qu'ils reviennent de l'iniquité.
 
 ***Note*** :  Job 36, 10 : Il découvrira leur oreille ; c’est-à-dire il ouvrira. Comparer à Job, 33, 16. Le mot découvrir est aussi dans le texte hébreu ; il signifie proprement, écarter les cheveux ou toute autre chose qui couvre les oreilles.
 
@@ -50,13 +50,13 @@ versets 1 à 13. ― 6° En face de pareils spectacles, Job peut bien reconnaît
 21 Prends garde de ne point te porter à l'iniquité ; car tu as commencé à la suivre, après la misère qui t'a atteint.
 
 
-22 Vois donc! Dieu est élevé dans sa puissance, et nul ne lui est semblable parmi les législateurs. 23 Qui pourra scruter ses voies? ou qui peut lui dire : Vous avez commis une iniquité? 24 Souviens-toi que tu ignores son œuvre, que les hommes ont chantée.
+22 Vois donc! Dieu est élevé dans sa puissance, et nul ne lui est semblable parmi les législateurs. 23 Qui pourra scruter ses voies? ou qui peut lui dire : Vous avez commis une iniquité? 24 Souviens-toi que tu ignores son oeuvre, que les hommes ont chantée.
 
-***Note*** :  Job 36, 24 : Son œuvre ; c’est-à-dire l’œuvre de la création, ou bien ses ouvrages en général, en supposant que l’opus de la Vulgate soit un nom collectif. ― Que les hommes ont chantée. Les anciens ne conservaient guère la mémoire des grands événements que par des cantiques composés exprès.
+***Note*** :  Job 36, 24 : Son oeuvre ; c’est-à-dire l’oeuvre de la création, ou bien ses ouvrages en général, en supposant que l’opus de la Vulgate soit un nom collectif. ― Que les hommes ont chantée. Les anciens ne conservaient guère la mémoire des grands événements que par des cantiques composés exprès.
 
 25 Tous les hommes le voient, chacun le considère de loin.
 
-***Note*** :  Job 36, 25 : Tous les hommes le voient dans ses œuvres. ― Chacun le considère de loin, et par conséquent d’une manière imparfaite, confuse et avec une certaine obscurité. Comparer à 1 Corinthiens, 13, 12.
+***Note*** :  Job 36, 25 : Tous les hommes le voient dans ses oeuvres. ― Chacun le considère de loin, et par conséquent d’une manière imparfaite, confuse et avec une certaine obscurité. Comparer à 1 Corinthiens, 13, 12.
 
 26 Vois donc ! Dieu est grand, il surpasse notre science, et le nombre de ses années est incalculable.
 

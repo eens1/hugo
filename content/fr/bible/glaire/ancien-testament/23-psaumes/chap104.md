@@ -9,11 +9,11 @@ summary: |
 ---
 
 
-1 Louez le Seigneur, et invoquez son nom : annoncez, parmi les nations, ses œuvres.
+1 Louez le Seigneur, et invoquez son nom : annoncez, parmi les nations, ses oeuvres.
 
 ***Note*** :  Ps. 104, 1 : Voir 1 Paralipomènes, 16, 8 ; Isaïe, 12, 4. ― Ce psaume, composé par David, fut chanté à la fête de la translation de l’arche à Jérusalem, voir 1 Paralipomènes, 16, 7. Ce chapitre des Paralipomènes reproduit les quinze premiers versets, voir 1 Paralipomènes, 16, 8-22 ; il les fait suivre sans interruption, de Psaumes, 96, 1 et 106, 47-48. Le Psaume 104 résume l’histoire d’Israël et fait ressortir la Providence de Dieu sur son peuple. Voir Psaumes 77 et 105. ― La versification est régulière, mais ce psaume est sans grande élévation poétique.
 
-2 Chantez-le, et jouez du psaltérion en son honneur : racontez toutes ses merveilles. 3 Glorifiez-vous en son nom saint : qu'il se réjouisse, le cœur de ceux qui cherchent le Seigneur. 4 Cherchez le Seigneur et soyez fortifiés : cherchez sa face sans cesse.
+2 Chantez-le, et jouez du psaltérion en son honneur : racontez toutes ses merveilles. 3 Glorifiez-vous en son nom saint : qu'il se réjouisse, le coeur de ceux qui cherchent le Seigneur. 4 Cherchez le Seigneur et soyez fortifiés : cherchez sa face sans cesse.
 
 ***Note*** :  Ps. 104, 4 : Et soyez fortifiés ; hébraïsme, pour et vous serez fortifiés.
 
@@ -74,7 +74,7 @@ summary: |
 
 ***Note*** :  Ps. 104, 24 : Voir Exode, 1, 7 ; Actes des Apôtres, 7, 17.
 
-25 Il changea leur cœur, afin qu'ils haïssent son peuple, et qu'ils employassent la fraude contre ses serviteurs.
+25 Il changea leur coeur, afin qu'ils haïssent son peuple, et qu'ils employassent la fraude contre ses serviteurs.
 
 ***Note*** :  Ps. 104, 25 : Il changea, etc. Voir, pour le vrai sens de ce verset, Exode, 4, 21.
 

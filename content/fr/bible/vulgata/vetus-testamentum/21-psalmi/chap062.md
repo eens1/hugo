@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Psalmus David, Cum esset in deserto Idumææ.
+1 Psalmus David, Cum esset in deserto Idumaeae.
 
 2 Deus Deus meus ad te de luce vigilo. Sitivit in te anima mea, quam multipliciter tibi caro mea.
 
@@ -21,11 +21,11 @@ draft: false
 
 8 quia fuisti adiutor meus. Et in velamento alarum tuarum exultabo,
 
-9 adhæsit anima mea post te: me suscepit dextera tua.
+9 adhaesit anima mea post te: me suscepit dextera tua.
 
-10 Ipsi vero in vanum quæsierunt animam meam, introibunt in inferiora terræ:
+10 Ipsi vero in vanum quaesierunt animam meam, introibunt in inferiora terrae:
 
 11 tradentur in manus gladii, partes vulpium erunt.
 
-12 Rex vero lætabitur in Deo, laudabuntur omnes qui iurant in eo: quia obstructum est os loquentium iniqua.
+12 Rex vero laetabitur in Deo, laudabuntur omnes qui iurant in eo: quia obstructum est os loquentium iniqua.
 

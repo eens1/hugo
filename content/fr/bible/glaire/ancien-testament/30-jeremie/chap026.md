@@ -20,7 +20,7 @@ summary: |
 
 ***Note*** :  Jr. 26, 2 : Le parvis ; c’est le grand parvis du peuple.
 
-3 Pour voir si par hasard ils écouteront, et s'ils se convertiront, chacun de sa voie mauvaise, et je me repentirai du mal que je pense leur faire, à cause de la malice de leurs œuvres. 4 Et tu leur diras : Voici ce que dit le Seigneur : Si vous ne m'écoutez pas, quand j'ordonne que vous marchiez dans ma loi que je vous ai donnée, 5 Et que vous entendiez les paroles de mes serviteurs les prophètes, que moi j'ai envoyés vers vous, me levant durant la nuit et les dirigeant, et que vous n'avez pas écoutés,
+3 Pour voir si par hasard ils écouteront, et s'ils se convertiront, chacun de sa voie mauvaise, et je me repentirai du mal que je pense leur faire, à cause de la malice de leurs oeuvres. 4 Et tu leur diras : Voici ce que dit le Seigneur : Si vous ne m'écoutez pas, quand j'ordonne que vous marchiez dans ma loi que je vous ai donnée, 5 Et que vous entendiez les paroles de mes serviteurs les prophètes, que moi j'ai envoyés vers vous, me levant durant la nuit et les dirigeant, et que vous n'avez pas écoutés,
 
 ***Note*** :  Jr. 26, 5 : Me levant durant la nuit. Voir Jérémie, 25, 3.
 

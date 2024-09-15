@@ -24,7 +24,7 @@ summary: |
 ***Note*** :  Sg. 6, 3 : Qui vous complaisez, etc. ; qui vous glorifiez de commander à une foule de nations.
 
 
-4 Parce que la puissance vous a été donnée par le Seigneur, et la force par le Très-Haut, qui interrogera vos œuvres et scrutera vos pensées :
+4 Parce que la puissance vous a été donnée par le Seigneur, et la force par le Très-Haut, qui interrogera vos oeuvres et scrutera vos pensées :
 
 ***Note*** :  Sg. 6, 4 : Voir Romains, 13, 1.
 

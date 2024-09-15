@@ -22,7 +22,7 @@ summary: |
 3 Et, revenus, ils lui dirent : Que tout le peuple ne monte point, mais que deux ou trois mille hommes aillent, et détruisent la ville : pourquoi tout le peuple se fatiguerait-il en vain contre des ennemis très peu nombreux?
 
 
-4 Il monta donc trois mille combattants, qui aussitôt tournant le dos, 5 Furent battus par les habitants de la ville de Haï; et il tomba trente-six hommes d'entre eux; et les ennemis les poursuivirent depuis la porte jusqu'à Sabarim, et ils les taillèrent en pièces, pendant qu'ils fuyaient à travers les versants ; et le cœur du peuple fut saisi d'une grande crainte et s'écoula comme l'eau.
+4 Il monta donc trois mille combattants, qui aussitôt tournant le dos, 5 Furent battus par les habitants de la ville de Haï; et il tomba trente-six hommes d'entre eux; et les ennemis les poursuivirent depuis la porte jusqu'à Sabarim, et ils les taillèrent en pièces, pendant qu'ils fuyaient à travers les versants ; et le coeur du peuple fut saisi d'une grande crainte et s'écoula comme l'eau.
 
 
 6 Mais Josué déchira ses vêtements et tomba, incliné vers la terre devant l'arche du Seigneur jusqu'au soir, tant lui que tous les anciens d'Israël; et ils mirent de la poussière sur leurs têtes, 7 Et Josué dit : Hélas ! Seigneur Dieu, pourquoi avez-vous voulu que ce peuple passât le fleuve du Jourdain, pour nous livrer aux mains de l'Amorrhéen et nous perdre? Oh ! que ne sommes-nous demeurés au-delà du Jourdain comme nous avions commencé!8 Mon Seigneur Dieu, que dirai-je, voyant Israël tournant le dos devant ses ennemis? 9 Les Chananéens rapprendront et tous les habitants de la terre, et réunis ensemble, ils nous envelopperont, et ils effaceront notre nom de la terre; et que ferez-vous pour votre grand nom ?
@@ -47,7 +47,7 @@ summary: |
 ***Note*** :  Josué 7, 23 : Devant le Seigneur ; c’est-à-dire devant l’arche du Seigneur.
 
 
-24 Or, Josué et tout Israël avec lui prenant Achan, fils de Zaré, l'argent, le manteau et la règle, d'or; ses fils aussi et ses filles, ses bœufs, ses ânes et ses brebis, sa tente elle-même et tous ses meubles, les conduisirent dans la vallée d'Achor,
+24 Or, Josué et tout Israël avec lui prenant Achan, fils de Zaré, l'argent, le manteau et la règle, d'or; ses fils aussi et ses filles, ses boeufs, ses ânes et ses brebis, sa tente elle-même et tous ses meubles, les conduisirent dans la vallée d'Achor,
 
 ***Note*** :  Josué 7, 24 : Dans la vallée d’Achor. Cette vallée, dans le voisinage de Haï, au nord de Jéricho, ne peut être exactement déterminée.
 

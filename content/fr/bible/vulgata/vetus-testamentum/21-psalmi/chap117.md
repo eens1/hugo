@@ -5,13 +5,13 @@ draft: false
 ---
 
 
-1 Alleluia. Confitemini Domino quoniam bonus: quoniam in sæculum misericordia eius.
+1 Alleluia. Confitemini Domino quoniam bonus: quoniam in saeculum misericordia eius.
 
-2 Dicat nunc Israel quoniam bonus: quoniam in sæculum misericordia eius.
+2 Dicat nunc Israel quoniam bonus: quoniam in saeculum misericordia eius.
 
-3 Dicat nunc domus Aaron: quoniam in sæculum misericordia eius.
+3 Dicat nunc domus Aaron: quoniam in saeculum misericordia eius.
 
-4 Dicant nunc qui timent Dominum: quoniam in sæculum misericordia eius.
+4 Dicant nunc qui timent Dominum: quoniam in saeculum misericordia eius.
 
 5 De tribulatione invocavi Dominum: et exaudivit me in latitudine Dominus.
 
@@ -41,17 +41,17 @@ draft: false
 
 18 Castigans castigavit me Dominus: et morti non tradidit me.
 
-19 Aperite mihi portas iustitiæ, ingressus in eas confitebor Domino:
+19 Aperite mihi portas iustitiae, ingressus in eas confitebor Domino:
 
-20 hæc porta Domini, iusti intrabunt in eam.
+20 haec porta Domini, iusti intrabunt in eam.
 
 21 Confitebor tibi quoniam exaudisti me: et factus es mihi in salutem.
 
-22 Lapidem, quem reprobaverunt ædificantes: hic factus est in caput anguli.
+22 Lapidem, quem reprobaverunt aedificantes: hic factus est in caput anguli.
 
 23 A Domino factum est istud: et est mirabile in oculis nostris.
 
-24 Hæc est dies, quam fecit Dominus: exultemus, et lætemur in ea.
+24 Haec est dies, quam fecit Dominus: exultemus, et laetemur in ea.
 
 25 O Domine salvum me fac, o Domine bene prosperare:
 
@@ -61,5 +61,5 @@ draft: false
 
 28 Deus meus es tu, et confitebor tibi: Deus meus es tu, et exaltabo te. Confitebor tibi quoniam exaudisti me: et factus es mihi in salutem.
 
-29 Confitemini Domino quoniam bonus: quoniam in sæculum misericordia eius.
+29 Confitemini Domino quoniam bonus: quoniam in saeculum misericordia eius.
 

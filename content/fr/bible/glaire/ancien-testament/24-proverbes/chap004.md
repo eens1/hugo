@@ -7,7 +7,7 @@ summary: |
   Salomon donne aux autres les instructions qu’il a reçues lui-même pendant sa jeunesse.
   Exhortation à étudier la sagesse.
   Inquiétudes des méchants.
-  Garder son cœur avec soin.
+  Garder son coeur avec soin.
   Veiller sur sa langue et sur ses démarches.
 ---
 
@@ -25,7 +25,7 @@ summary: |
 
 ***Note*** :  Prov. 4, 3 : Chéri (tenellus) ; le grec porte obéissant, docile. ― Comme ; particule qui se sous-entend très souvent dans le style biblique, et qui est évidemment sous-entendue ici, puisque Salomon eut trois frères (voir 1 Paralipomènes, 3, 5) ; à moins qu’on ne prenne fils unique dans le sens de fils chéri, le bien-aimé, comme l’ont fait les Septante. On sait, d’ailleurs, que les écrivains grecs et latins désignaient quelquefois par bien-aimés les fils uniques ou premiers-nés.
 
-4 Et il m'instruisait, et me disait : Que ton cœur reçoive mes paroles, garde mes préceptes et tu vivras. 5 Possède la sagesse, possède la prudence : n'oublie pas les paroles de ma bouche et ne t'en écarte pas. 6 Ne rejette pas la sagesse, et elle te gardera : aime-la, et elle te conservera. 7 Un principe de sagesse est : Mets-toi en possession de la sagesse ; et par tout ce que tu possèdes, acquiers la prudence;
+4 Et il m'instruisait, et me disait : Que ton coeur reçoive mes paroles, garde mes préceptes et tu vivras. 5 Possède la sagesse, possède la prudence : n'oublie pas les paroles de ma bouche et ne t'en écarte pas. 6 Ne rejette pas la sagesse, et elle te gardera : aime-la, et elle te conservera. 7 Un principe de sagesse est : Mets-toi en possession de la sagesse ; et par tout ce que tu possèdes, acquiers la prudence;
 
 ***Note*** :  Prov. 4, 7 : Un principe de sagesse, etc. ; c’est-à-dire c’est déjà être sage, que de chercher la sagesse, que de travailler pour l’obtenir. ― Par tout ce que tu possèdes ; c’est-à-dire emploie, si c’est nécessaire, tout ce que tu possèdes pour acquérir la prudence.
 
@@ -47,11 +47,11 @@ summary: |
 19 La voie des impies est ténébreuse ; ils ne savent où ils se précipitent.
 
 
-20 Mon fils, écoute mes discours, et à mes paroles incline ton oreille ; 21 Qu'elles ne s'éloignent pas de tes yeux, garde-les au milieu de ton cœur ; 22 Car elles sont la vie pour ceux qui les trouvent, et la santé pour toute chair :
+20 Mon fils, écoute mes discours, et à mes paroles incline ton oreille ; 21 Qu'elles ne s'éloignent pas de tes yeux, garde-les au milieu de ton coeur ; 22 Car elles sont la vie pour ceux qui les trouvent, et la santé pour toute chair :
 
 ***Note*** :  Prov. 4, 22 : Toute chair, dans le langage de l’Ecriture, signifie tous les hommes.
 
-23 Garde ton cœur en toute vigilance, parce que c'est de lui que la vie procède. 24 Écarte de toi la bouche perverse ; et que des lèvres médisantes soient loin de toi. 25 Que tes yeux voient ce qui est droit, et que tes paupières précèdent tes pas.
+23 Garde ton coeur en toute vigilance, parce que c'est de lui que la vie procède. 24 Écarte de toi la bouche perverse ; et que des lèvres médisantes soient loin de toi. 25 Que tes yeux voient ce qui est droit, et que tes paupières précèdent tes pas.
 
 ***Note*** :  Prov. 4, 25 : Que tes yeux, etc. ; c’est-à-dire regarde droit devant toi, sans porter inconsidérément tes yeux de côté et d’autre. ― Que tes paupières, etc. ; c’est la même pensée que la précédente, mais exprimée en des termes différents.
 

@@ -5,19 +5,19 @@ draft: false
 ---
 
 
-1 Postquam autem ædificatus est murus, et posui valvas, et recensui ianitores, et cantores, et Levitas:
+1 Postquam autem aedificatus est murus, et posui valvas, et recensui ianitores, et cantores, et Levitas:
 
-2 præcepi Hanani fratri meo, et Hananiæ principi domus de Ierusalem (ipse enim quasi vir verax et timens Deum plus ceteris videbatur)
+2 praecepi Hanani fratri meo, et Hananiae principi domus de Ierusalem (ipse enim quasi vir verax et timens Deum plus ceteris videbatur)
 
-3 et dixi eis: Non aperiantur portæ Ierusalem usque ad calorem solis. Cumque adhuc assisterent, clausæ portæ sunt, et oppilatæ: et posui custodes de habitatoribus Ierusalem, singulos per vices suas, et unumquemque contra domum suam.
+3 et dixi eis: Non aperiantur portae Ierusalem usque ad calorem solis. Cumque adhuc assisterent, clausae portae sunt, et oppilatae: et posui custodes de habitatoribus Ierusalem, singulos per vices suas, et unumquemque contra domum suam.
 
-4 Civitas autem erat lata nimis et grandis, et populus parvus in medio eius, et non erant domus ædificatæ.
+4 Civitas autem erat lata nimis et grandis, et populus parvus in medio eius, et non erant domus aedificatae.
 
 5 Deus autem dedit in corde meo, et congregavi optimates, et magistratus, et vulgus, ut recenserem eos: et inveni librum census eorum, qui ascenderant primum, et inventum est scriptum in eo.
 
-6 Isti filii provinciæ, qui ascenderunt de captivitate migrantium, quos transtulerat Nabuchodonosor rex Babylonis, et reversi sunt in Ierusalem, et in Iudæam, unusquisque in civitatem suam.
+6 Isti filii provinciae, qui ascenderunt de captivitate migrantium, quos transtulerat Nabuchodonosor rex Babylonis, et reversi sunt in Ierusalem, et in Iudaeam, unusquisque in civitatem suam.
 
-7 Qui venerunt cum Zorobabel, Iosue, Nehemias, Azarias, Raamias, Nahamani, Mardochæus, Belsam, Mespharath, Begoai, Nahum, Baana. Numerus virorum populi Israel:
+7 Qui venerunt cum Zorobabel, Iosue, Nehemias, Azarias, Raamias, Nahamani, Mardochaeus, Belsam, Mespharath, Begoai, Nahum, Baana. Numerus virorum populi Israel:
 
 8 Filii Pharos, duo millia centum septuaginta duo:
 
@@ -27,7 +27,7 @@ draft: false
 
 11 Filii Phahathmoab filiorum Iosue et Ioab, duo millia octingenti decem et octo:
 
-12 Filii Ælam, mille ducenti quinquagintaquattuor:
+12 Filii AElam, mille ducenti quinquagintaquattuor:
 
 13 Filii Zethua, octingenti quadragintaquinque:
 
@@ -45,7 +45,7 @@ draft: false
 
 20 Filii Adin, sexcenti quinquagintaquinque:
 
-21 Filii Ater, filii Hezeciæ, nonagintaocto:
+21 Filii Ater, filii Hezeciae, nonagintaocto:
 
 22 Filii Hasem, trecenti vigintiocto:
 
@@ -71,7 +71,7 @@ draft: false
 
 33 Viri Nebo alterius, quinquagintaduo.
 
-34 Viri Ælam alterius, mille ducenti quinquagintaquattuor.
+34 Viri AElam alterius, mille ducenti quinquagintaquattuor.
 
 35 Filii Harem, trecenti viginti.
 
@@ -87,17 +87,17 @@ draft: false
 
 41 Filii Phashur, mille ducenti quadragintaseptem.
 
-42 Filii Arem, mille decem et septem. Levitæ:
+42 Filii Arem, mille decem et septem. Levitae:
 
 43 Filii Iosue et Cedmihel filiorum
 
-44 Oduiæ, septuagintaquattuor. Cantores:
+44 Oduiae, septuagintaquattuor. Cantores:
 
 45 Filii Asaph, centum quadragintaocto.
 
 46 Ianitores: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatita, filii Sobai: centum trigintaocto.
 
-47 Nathinæi: filii Soha, filii Hasupha, filii Tebbaoth,
+47 Nathinaei: filii Soha, filii Hasupha, filii Tebbaoth,
 
 48 filii Ceros, filii Siaa, filii Phadon, filii Lebana, filii Hagaba, filii Selmai,
 
@@ -123,7 +123,7 @@ draft: false
 
 59 filii Saphatia, filii Hatil, filii Phochereth, qui erat ortus ex Sabaim, filio Amon.
 
-60 Omnes Nathinæi, et filii servorum Salomonis, trecenti nonagintaduo.
+60 Omnes Nathinaei, et filii servorum Salomonis, trecenti nonagintaduo.
 
 61 Hi sunt autem, qui ascenderunt de Thelmela, Thelharsa, Cherub, Addon, et Emmer: et non potuerunt indicare domum patrum suorum, et semen suum, utrum ex Israel essent.
 
@@ -131,7 +131,7 @@ draft: false
 
 63 Et de Sacerdotibus, filii Habia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis uxorem: et vocatus est nomine eorum.
 
-64 Hi quæsierunt scripturam suam in censu, et non invenerunt: et eiecti sunt de sacerdotio.
+64 Hi quaesierunt scripturam suam in censu, et non invenerunt: et eiecti sunt de sacerdotio.
 
 65 Dixitque Athersatha eis ut non manducarent de Sanctis sanctorum, donec staret Sacerdos doctus et eruditus.
 
@@ -149,5 +149,5 @@ draft: false
 
 72 Et quod dedit reliquus populus, auri drachmas viginti millia, et argenti mnas duo millia, et tunicas sacerdotales sexagintaseptem.
 
-73 Habitaverunt autem Sacerdotes, et Levitæ, et ianitores, et cantores, et reliquum vulgus, et Nathinæi, et omnis Israel in civitatibus suis.
+73 Habitaverunt autem Sacerdotes, et Levitae, et ianitores, et cantores, et reliquum vulgus, et Nathinaei, et omnis Israel in civitatibus suis.
 

@@ -15,7 +15,7 @@ summary: |
 
 ***Note*** :  Gn. 36, 2 : Les femmes d’Esaü sont nommées autrement (voir Genèse, 26, 34). Il n’était pas rare chez les Hébreux de voir la même personne porter plusieurs noms.
 
-3 Et aussi Bazemath, fille d'Ismaël, sœur de Nabaïoth. 4 Ada enfanta Eliphaz; Bazemath enfanta Rahuel;
+3 Et aussi Bazemath, fille d'Ismaël, soeur de Nabaïoth. 4 Ada enfanta Eliphaz; Bazemath enfanta Rahuel;
 
 ***Note*** :  Gn. 36, 4 : Voir 1 Paralipomènes, 1, 35.
 
@@ -52,7 +52,7 @@ summary: |
 
 ***Note*** :  Gn. 36, 20 : Voir 1 Paralipomènes, 1, 38. Horréen. C’est le mot qui a été écrit Chorréen, voir Genèse, 14, 6.
 
-21 Dison, Eser et Disan : ce sont là les chefs Horréens, fils de Séir, dans le pays d'Edom. 22 Mais les fils de Lotan furent Hori et Héman : or, la sœur de Lotan était Thamna. 23 Voici les fils de Sobal : Alvan, Manahat, Ebal, Sépho et Onam. 24 Et voici les fils de Sébéon : Aïa et Ana. Celui-ci est Ana, qui trouva les eaux chaudes dans le désert, pendant qu'il paissait les ânes de Sébéon son père; 25 Il eut pour fils Dison, et pour fille Oolibama. 26 Or, voici les fils de Dison : Hamdan, Eséban, Jéthram et Charan; 27 Et les fils d'Eser : Balaan, Zavan et Achan. 28 Mais Disan eut pour fils Hus et Aram.
+21 Dison, Eser et Disan : ce sont là les chefs Horréens, fils de Séir, dans le pays d'Edom. 22 Mais les fils de Lotan furent Hori et Héman : or, la soeur de Lotan était Thamna. 23 Voici les fils de Sobal : Alvan, Manahat, Ebal, Sépho et Onam. 24 Et voici les fils de Sébéon : Aïa et Ana. Celui-ci est Ana, qui trouva les eaux chaudes dans le désert, pendant qu'il paissait les ânes de Sébéon son père; 25 Il eut pour fils Dison, et pour fille Oolibama. 26 Or, voici les fils de Dison : Hamdan, Eséban, Jéthram et Charan; 27 Et les fils d'Eser : Balaan, Zavan et Achan. 28 Mais Disan eut pour fils Hus et Aram.
 
 
 29 Voici les chefs des Horréens : le chef Lotan, le chef Sobal, le chef Sébéon, le chef Ana, 30 Le chef Dison, le chef Eser et le chef Disan : ce sont là les chefs qui ont commandé dans le pays de Séir.

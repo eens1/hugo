@@ -15,7 +15,7 @@ draft: false
 
 5 Qui sibi nequam est, cui alii bonus erit? et non iucundabitur in bonis suis.
 
-6 Qui sibi invidet, nihil est illo nequius, et hæc redditio est malitiæ illius:
+6 Qui sibi invidet, nihil est illo nequius, et haec redditio est malitiae illius:
 
 7 et si bene fecerit, ignoranter, et non volens facit: et in novissimo manifestat malitiam suam.
 
@@ -31,7 +31,7 @@ draft: false
 
 13 Ante mortem benefac amico tuo, et secundum vires tuas exporrigens da pauperi.
 
-14 Non defrauderis a die bono, et particula boni doni non te prætereat.
+14 Non defrauderis a die bono, et particula boni doni non te praetereat.
 
 15 Nonne aliis relinques dolores et labores tuos in divisione sortis?
 
@@ -39,7 +39,7 @@ draft: false
 
 17 Ante obitum tuum operare iustitiam: quoniam non est apud inferos invenire cibum.
 
-18 Omnis caro sicut fœnum veterascet, et sicut folium fructificans in arbore viridi.
+18 Omnis caro sicut foenum veterascet, et sicut folium fructificans in arbore viridi.
 
 19 Alia generantur, et alia deiiciuntur: sic generatio carnis et sanguinis, alia finitur, et alia nascitur.
 
@@ -53,7 +53,7 @@ draft: false
 
 24 qui respicit per fenestras illius, et in ianuis illius audiens:
 
-25 qui requiescit iuxta domum illius, et in parietibus illius figens palum statuet casulam suam ad manus illius, et requiescent in casula illius bona per ævum:
+25 qui requiescit iuxta domum illius, et in parietibus illius figens palum statuet casulam suam ad manus illius, et requiescent in casula illius bona per aevum:
 
 26 statuet filios suos sub tegmine illius, et sub ramis eius morabitur.
 

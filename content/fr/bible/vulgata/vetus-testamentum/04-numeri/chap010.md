@@ -9,13 +9,13 @@ draft: false
 
 2 Fac tibi duas tubas argenteas ductiles, quibus convocare possis multitudinem quando movenda sunt castra.
 
-3 Cumque increpueris tubis, congregabitur ad te omnis turba ad ostium tabernaculi fœderis.
+3 Cumque increpueris tubis, congregabitur ad te omnis turba ad ostium tabernaculi foederis.
 
 4 Si semel clangueris, venient ad te principes, et capita multitudinis Israel.
 
 5 Si autem prolixior atque concisus clangor increpuerit, movebunt castra primi qui sunt ad orientalem plagam.
 
-6 In secundo autem sonitu et pari ululatu tubæ, levabunt tentoria qui habitant ad meridiem. et iuxta hunc modum reliqui facient, ululantibus tubis in profectionem.
+6 In secundo autem sonitu et pari ululatu tubae, levabunt tentoria qui habitant ad meridiem. et iuxta hunc modum reliqui facient, ululantibus tubis in profectionem.
 
 7 Quando autem congregandus est populus, simplex tubarum clangor erit, et non concise ululabunt.
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Si quando habebitis epulum, et dies festos, et calendas, canetis tubis super holocaustis, et pacificis victimis, ut sint vobis in recordationem Dei vestri. ego Dominus Deus vester.
 
-11 Anno secundo, mense secundo, vigesima die mensis elevata est nubes de tabernaculo fœderis:
+11 Anno secundo, mense secundo, vigesima die mensis elevata est nubes de tabernaculo foederis:
 
 12 profectique sunt filii Israel per turmas suas de deserto Sinai, et recubuit nubes in solitudine Pharan.
 
@@ -45,7 +45,7 @@ draft: false
 
 20 Porro in tribu Gad erat princeps Eliasaph filius Duel.
 
-21 Profectique sunt et Caathitæ portantes Sanctuarium. Tamdiu tabernaculum portabatur, donec venirent ad erectionis locum.
+21 Profectique sunt et Caathitae portantes Sanctuarium. Tamdiu tabernaculum portabatur, donec venirent ad erectionis locum.
 
 22 Moverunt castra et filii Ephraim per turmas suas, in quorum exercitu princeps erat Elisama filius Ammiud.
 
@@ -59,9 +59,9 @@ draft: false
 
 27 Et in tribu filiorum Nephthali princeps fuit Ahira filius Enan.
 
-28 Hæc sunt castra, et profectiones filiorum Israel per turmas suas quando egrediebantur.
+28 Haec sunt castra, et profectiones filiorum Israel per turmas suas quando egrediebantur.
 
-29 Dixitque Moyses Hobab filio Raguel Madianitæ, cognato suo: Proficiscimur ad locum, quem Dominus daturus est nobis: veni nobiscum, ut benefaciamus tibi: quia Dominus bona promisit Israeli.
+29 Dixitque Moyses Hobab filio Raguel Madianitae, cognato suo: Proficiscimur ad locum, quem Dominus daturus est nobis: veni nobiscum, ut benefaciamus tibi: quia Dominus bona promisit Israeli.
 
 30 Cui ille respondit: Non vadam tecum, sed revertar in terram meam, in qua natus sum.
 
@@ -69,7 +69,7 @@ draft: false
 
 32 Cumque nobiscum veneris, quidquid optimum fuerit ex opibus, quas nobis traditurus est Dominus, dabimus tibi.
 
-33 Profecti sunt ergo de Monte Domini viam trium dierum, arcaque fœderis Domini præcedebat eos, per dies tres providens castrorum locum.
+33 Profecti sunt ergo de Monte Domini viam trium dierum, arcaque foederis Domini praecedebat eos, per dies tres providens castrorum locum.
 
 34 Nubes quoque Domini super eos erat per diem cum incederent.
 

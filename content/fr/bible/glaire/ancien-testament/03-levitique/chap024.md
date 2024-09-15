@@ -35,7 +35,7 @@ summary: |
 
 ***Note*** :  Lv. 24, 18 : Ame pour âme ; c’est-à-dire individu pour individu, animal pour animal.
 
-19 Celui qui fera un outrage à quelqu'un de ses concitoyens, comme il aura fait, ainsi il lui sera fait :20 Il rendra fracture pour fracture, œil pour œil, dent pour dent. Quelque outrage qu'il ait fait, il sera obligé de le souffrir.
+19 Celui qui fera un outrage à quelqu'un de ses concitoyens, comme il aura fait, ainsi il lui sera fait :20 Il rendra fracture pour fracture, oeil pour oeil, dent pour dent. Quelque outrage qu'il ait fait, il sera obligé de le souffrir.
 
 ***Note*** :  Lv. 24, 20 : Voir Exode, 21, 24 ; Deutéronome, 19, 21 ; Matthieu, 5, 38.
 

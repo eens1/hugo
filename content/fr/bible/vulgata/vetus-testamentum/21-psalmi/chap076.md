@@ -9,23 +9,23 @@ draft: false
 
 2 Voce mea ad Dominum clamavi: voce mea ad Deum, et intendit mihi.
 
-3 In die tribulationis meæ Deum exquisivi, manibus meis nocte contra eum: et non sum deceptus. Renuit consolari anima mea,
+3 In die tribulationis meae Deum exquisivi, manibus meis nocte contra eum: et non sum deceptus. Renuit consolari anima mea,
 
 4 memor fui Dei, et delectatus sum, et exercitatus sum: et defecit spiritus meus.
 
 5 Anticipaverunt vigilias oculi mei: turbatus sum, et non sum locutus.
 
-6 Cogitavi dies antiquos: et annos æternos in mente habui.
+6 Cogitavi dies antiquos: et annos aeternos in mente habui.
 
 7 Et meditatus sum nocte cum corde meo, et exercitabar, et scopebam spiritum meum.
 
-8 Numquid in æternum proiiciet Deus: aut non apponet ut complacitior sit adhuc?
+8 Numquid in aeternum proiiciet Deus: aut non apponet ut complacitior sit adhuc?
 
 9 Aut in finem misericordiam suam abscindet, a generatione in generationem?
 
 10 Aut obliviscetur misereri Deus? aut continebit in ira sua misericordias suas?
 
-11 Et dixi nunc cœpi: hæc mutatio dexteræ Excelsi.
+11 Et dixi nunc coepi: haec mutatio dexterae Excelsi.
 
 12 Memor fui operum Domini: quia memor ero ab initio mirabilium tuorum,
 
@@ -37,13 +37,13 @@ draft: false
 
 16 redemisti in brachio tuo populum tuum, filios Iacob, et Ioseph.
 
-17 Viderunt te aquæ Deus, viderunt te aquæ: et timuerunt, et turbatæ sunt abyssi.
+17 Viderunt te aquae Deus, viderunt te aquae: et timuerunt, et turbatae sunt abyssi.
 
-18 Multitudo sonitus aquarum: vocem dederunt nubes. Etenim sagittæ tuæ transeunt:
+18 Multitudo sonitus aquarum: vocem dederunt nubes. Etenim sagittae tuae transeunt:
 
-19 vox tonitrui tui in rota. Illuxerunt coruscationes tuæ orbi terræ: commota est et contremuit terra.
+19 vox tonitrui tui in rota. Illuxerunt coruscationes tuae orbi terrae: commota est et contremuit terra.
 
-20 In mari via tua, et semitæ tuæ in aquis multis: et vestigia tua non cognoscentur.
+20 In mari via tua, et semitae tuae in aquis multis: et vestigia tua non cognoscentur.
 
 21 Deduxisti sicut oves populum tuum, in manu Moysi et Aaron.
 

@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Qui vivet in æternum, creavit omnia simul. Deus solus iustificabitur, et manet invictus rex in æternum.
+1 Qui vivet in aeternum, creavit omnia simul. Deus solus iustificabitur, et manet invictus rex in aeternum.
 
 2 Quis sufficit enarrare opera illius?
 
@@ -17,15 +17,15 @@ draft: false
 
 6 Cum consummaverit homo, tunc incipiet: et cum quieverit, aporiabitur.
 
-7 Quid est homo, et quæ est gratia illius? et quid bonum, aut quid nequam illius?
+7 Quid est homo, et quae est gratia illius? et quid bonum, aut quid nequam illius?
 
-8 Numerus dierum hominum ut multum centum anni: quasi gutta aquæ maris deputati sunt: et sicut calculus arenæ, sic exigui anni in die ævi.
+8 Numerus dierum hominum ut multum centum anni: quasi gutta aquae maris deputati sunt: et sicut calculus arenae, sic exigui anni in die aevi.
 
 9 Propter hoc patiens est Deus in illis, et effundit super eos misericordiam suam.
 
-10 Vidit præsumptionem cordis eorum quoniam mala est, et cognovit subversionem illorum quoniam nequam est.
+10 Vidit praesumptionem cordis eorum quoniam mala est, et cognovit subversionem illorum quoniam nequam est.
 
-11 Ideo adimplevit propitiationem suam in illis, et ostendit eis viam æquitatis.
+11 Ideo adimplevit propitiationem suam in illis, et ostendit eis viam aequitatis.
 
 12 Miseratio hominis circa proximum suum: misericordia autem Dei super omnem carnem.
 
@@ -47,15 +47,15 @@ draft: false
 
 21 Ante languorem humilia te, et in tempore infirmitatis ostende conversationem tuam.
 
-22 Non impediaris orare semper, et ne verearis usque ad mortem iustificari: quoniam merces Dei manet in æternum.
+22 Non impediaris orare semper, et ne verearis usque ad mortem iustificari: quoniam merces Dei manet in aeternum.
 
-23 Ante orationem præpara animam tuam: et noli esse quasi homo qui tentat Deum.
+23 Ante orationem praepara animam tuam: et noli esse quasi homo qui tentat Deum.
 
-24 Memento iræ in die consummationis, et tempus retributionis in conversatione faciei.
+24 Memento irae in die consummationis, et tempus retributionis in conversatione faciei.
 
-25 Memento paupertatis in tempore abundantiæ, et necessitatum paupertatis in die divitiarum.
+25 Memento paupertatis in tempore abundantiae, et necessitatum paupertatis in die divitiarum.
 
-26 A mane usque ad vesperam immutabitur tempus, et hæc omnia citata in oculis Dei.
+26 A mane usque ad vesperam immutabitur tempus, et haec omnia citata in oculis Dei.
 
 27 Homo sapiens in omnibus metuet, et in diebus delictorum attendet ab inertia.
 
@@ -65,9 +65,9 @@ draft: false
 
 30 Post concupiscentias tuas non eas, et a voluntate tua avertere.
 
-31 Si præstes animæ tuæ concupiscentias eius, faciat te in gaudium inimicis tuis.
+31 Si praestes animae tuae concupiscentias eius, faciat te in gaudium inimicis tuis.
 
 32 Ne oblecteris in turbis nec in modicis: assidua enim est commissio illorum.
 
-33 Ne fueris mediocris in contentione ex fœnore, et est tibi nihil in sacculo: eris enim invidus vitæ tuæ.
+33 Ne fueris mediocris in contentione ex foenore, et est tibi nihil in sacculo: eris enim invidus vitae tuae.
 

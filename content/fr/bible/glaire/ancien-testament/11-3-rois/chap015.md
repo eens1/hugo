@@ -15,7 +15,7 @@ summary: |
 
 ***Note*** :  III Rois 15, 2 : Voir 2 Paralipomènes, 13, 2.
 
-3 Et il marcha dans tous les péchés que son père avait commis avant lui, et son cœur n'était point parfait avec le Seigneur son Dieu, comme le cœur de David son père. 4 Mais, à cause de David, le Seigneur son Dieu lui donna une lampe dans Jérusalem, en sorte qu'il suscita son fils après lui, et maintint Jérusalem,
+3 Et il marcha dans tous les péchés que son père avait commis avant lui, et son coeur n'était point parfait avec le Seigneur son Dieu, comme le coeur de David son père. 4 Mais, à cause de David, le Seigneur son Dieu lui donna une lampe dans Jérusalem, en sorte qu'il suscita son fils après lui, et maintint Jérusalem,
 
 ***Note*** :  III Rois 15, 4 : Une lampe. Voir 3 Rois, 11, 36.
 
@@ -44,7 +44,7 @@ summary: |
 
 ***Note*** :  III Rois 15, 13 : Dans le torrent de Cédron, à l’est et au sud-est de Jérusalem. ― Au lieu de Priape, l’original porte Aschéra ou Astarté.
 
-14 Mais il ne détruisit pas les hauts lieux. Toutefois le cœur d'Asa fut parfait avec le Seigneur durant tous ses jours;
+14 Mais il ne détruisit pas les hauts lieux. Toutefois le coeur d'Asa fut parfait avec le Seigneur durant tous ses jours;
 
 ***Note*** :  III Rois 15, 14 : Les hauts lieux. Voir Nombres, note 22. 41.
 

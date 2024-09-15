@@ -44,14 +44,14 @@ summary: |
 18 Il a aimé la malédiction, et elle viendra à lui : il n'a pas voulu la bénédiction, et elle s'éloignera de lui. Il s'est revêtu de la malédiction comme d'un vêtement, et elle est entrée comme de l'eau dans ses entrailles, et comme de l'huile dans ses os. 19 Qu'elle lui soit comme le vêtement dont il se couvre, et comme la ceinture dont il est toujours ceint.
 
 
-20 Telle est, auprès du Seigneur, l'œuvre de ceux qui parlent mal de moi, de ceux qui blasphèment contre moi.
+20 Telle est, auprès du Seigneur, l'oeuvre de ceux qui parlent mal de moi, de ceux qui blasphèment contre moi.
 
 ***Note*** :  Ps. 108, 20 : Telle est, etc. ; telle sera auprès du Seigneur la récompense de ceux qui etc.
 
 21 Et vous, Seigneur, Seigneur, agissez avec moi à cause de votre nom, parce que douce est votre miséricorde. Délivrez-moi,
 
 
-22 Parce que moi, je suis indigent et pauvre, et que mon cœur s'est troublé au dedans de moi. 23 Comme l'ombre, lorsqu'elle déchue, j'ai été enlevé, et j'ai été chassé comme les sauterelles.
+22 Parce que moi, je suis indigent et pauvre, et que mon coeur s'est troublé au dedans de moi. 23 Comme l'ombre, lorsqu'elle déchue, j'ai été enlevé, et j'ai été chassé comme les sauterelles.
 
 ***Note*** :  Ps. 108, 23 : Chassé, littéralement agité, secoué.
 

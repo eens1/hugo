@@ -34,7 +34,7 @@ summary: |
 
 ***Note*** :  Ps. 40, 6 : M’ont dit ; pour ont dit de moi. Voir Psaumes, 3, 2 ? .
 
-7 Et si quelqu'un d'eux entrait pour me voir, il tenait de vains discours : son cœur s'est amassé de l'iniquité. Il sortait dehors, et il parlait
+7 Et si quelqu'un d'eux entrait pour me voir, il tenait de vains discours : son coeur s'est amassé de l'iniquité. Il sortait dehors, et il parlait
 
 
 8 De même. Contre moi murmuraient tous mes ennemis: contre moi ils formaient de mauvais desseins. 9 Ils ont élevé une parole inique contre moi : N'est-ce pas que celui qui dort ne se relèvera jamais?

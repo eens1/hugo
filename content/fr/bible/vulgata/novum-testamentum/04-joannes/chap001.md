@@ -13,7 +13,7 @@ draft: false
 
 4 in ipso vita erat, et vita erat lux hominum:
 
-5 et lux in tenebris lucet, et tenebræ eam non comprehenderunt.
+5 et lux in tenebris lucet, et tenebrae eam non comprehenderunt.
 
 6 Fuit homo missus a Deo, cui nomen erat Ioannes.
 
@@ -21,7 +21,7 @@ draft: false
 
 8 non erat ille lux, sed ut testimonium perhiberet de lumine.
 
-9 Erat lux vera, quæ illuminat omnem hominem venientem in hunc mundum.
+9 Erat lux vera, quae illuminat omnem hominem venientem in hunc mundum.
 
 10 in mundo erat, et mundus per ipsum factus est, et mundus eum non cognovit.
 
@@ -31,7 +31,7 @@ draft: false
 
 13 qui non ex sanguinibus, neque ex voluntate carnis, neque ex voluntate viri, sed ex Deo nati sunt.
 
-14 Et verbum caro factum est, et habitavit in nobis: et vidimus gloriam eius, gloriam quasi unigeniti a patre plenum gratiæ et veritatis.
+14 Et verbum caro factum est, et habitavit in nobis: et vidimus gloriam eius, gloriam quasi unigeniti a patre plenum gratiae et veritatis.
 
 15 Ioannes testimonium perhibet de ipso, et clamat dicens: Hic erat, quem dixi: Qui post me venturus est, ante me factus est: quia prior me erat.
 
@@ -41,7 +41,7 @@ draft: false
 
 18 Deum nemo vidit umquam: unigenitus filius, qui est in sinu patris, ipse enarravit.
 
-19 Et hoc est testimonium Ioannis, quando miserunt Iudæi ab Ierosolymis sacerdotes et Levitas ad eum ut interrogarent eum: Tu quis es?
+19 Et hoc est testimonium Ioannis, quando miserunt Iudaei ab Ierosolymis sacerdotes et Levitas ad eum ut interrogarent eum: Tu quis es?
 
 20 Et confessus est, et non negavit: et confessus est: Quia non sum ego Christus.
 
@@ -51,7 +51,7 @@ draft: false
 
 23 Ait: Ego vox clamantis in deserto: Dirigite viam Domini, sicut dixit Isaias propheta.
 
-24 Et qui missi fuerant, erant ex Pharisæis.
+24 Et qui missi fuerant, erant ex Pharisaeis.
 
 25 Et interrogaverunt eum, et dixerunt ei: Quid ergo baptizas, si tu non es Christus, neque Elias, neque Propheta?
 
@@ -59,7 +59,7 @@ draft: false
 
 27 Ipse est, qui post me venturus est, qui ante me factus est: cuius ego non sum dignus ut solvam eius corigiam calceamenti.
 
-28 Hæc in Bethania facta sunt trans Iordanem, ubi erat Ioannes baptizans.
+28 Haec in Bethania facta sunt trans Iordanem, ubi erat Ioannes baptizans.
 
 29 Altera die vidit Ioannes Iesum venientem ad se, et ait: Ecce agnus Dei, ecce qui tollit peccatum mundi.
 
@@ -67,7 +67,7 @@ draft: false
 
 31 et ego nesciebam eum, sed ut manifestetur in Israel, propterea veni ego in aqua baptizans.
 
-32 Et testimonium perhibuit Ioannes, dicens: Quia vidi Spiritum descendentem quasi columbam de cælo, et mansit super eum.
+32 Et testimonium perhibuit Ioannes, dicens: Quia vidi Spiritum descendentem quasi columbam de caelo, et mansit super eum.
 
 33 Et ego nesciebam eum: sed qui misit me baptizare in aqua, ille mihi dixit: Super quem videris Spiritum descendentem, et manentem super eum, hic est, qui baptizat in Spiritu sancto.
 
@@ -79,7 +79,7 @@ draft: false
 
 37 Et audierunt eum duo discipuli loquentem, et secuti sunt Iesum.
 
-38 Conversus autem Iesus, et videns eos sequentes se, dicit eis: Quid quæritis? Qui dixerunt ei: Rabbi, (quod dicitur interpretatum Magister) ubi habitas?
+38 Conversus autem Iesus, et videns eos sequentes se, dicit eis: Quid quaeritis? Qui dixerunt ei: Rabbi, (quod dicitur interpretatum Magister) ubi habitas?
 
 39 Dicit eis: Venite, et videte. Venerunt, et viderunt ubi maneret, et apud eum manserunt die illo: hora autem erat quasi decima.
 
@@ -89,11 +89,11 @@ draft: false
 
 42 Et adduxit eum ad Iesum. Intuitus autem eum Iesus, dixit: Tu es Simon filius Iona: tu vocaberis Cephas. quod interpretatur Petrus.
 
-43 In crastinum voluit exire in Galilæam, et invenit Philippum. Et dicit ei Iesus: Sequere me.
+43 In crastinum voluit exire in Galilaeam, et invenit Philippum. Et dicit ei Iesus: Sequere me.
 
-44 Erat autem Philippus a Bethsaida, civitate Andreæ, et Petri.
+44 Erat autem Philippus a Bethsaida, civitate Andreae, et Petri.
 
-45 Invenit Philippus Nathanael, et dicit ei: Quem scripsit Moyses in lege, et Prophetæ, invenimus Iesum filium Ioseph a Nazareth.
+45 Invenit Philippus Nathanael, et dicit ei: Quem scripsit Moyses in lege, et Prophetae, invenimus Iesum filium Ioseph a Nazareth.
 
 46 Et dixit ei Nathanael: A Nazareth potest aliquid boni esse? Dicit ei Philippus: Veni, et vide.
 
@@ -105,5 +105,5 @@ draft: false
 
 50 Respondit Iesus, et dixit ei: Quia dixi tibi: Vidi te sub ficu, credis: maius his videbis.
 
-51 Et dicit ei: Amen, amen dico vobis, videbitis cælum apertum, et Angelos Dei ascendentes, et descendentes supra Filium hominis.
+51 Et dicit ei: Amen, amen dico vobis, videbitis caelum apertum, et Angelos Dei ascendentes, et descendentes supra Filium hominis.
 

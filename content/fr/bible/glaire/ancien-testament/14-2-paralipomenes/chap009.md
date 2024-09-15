@@ -12,7 +12,7 @@ summary: |
 ---
 
 
-1 La reine de Saba aussi, ayant appris la renommée de Salomon, vint à Jérusalem pour l'éprouver par des énigmes, avec de grandes richesses, et des chameaux qui portaient des aromates, et une grande quantité d'or, et des pierres précieuses. Et lorsqu'elle lut venue vers Salomon, elle lui dit tout ce qui était en son cœur.
+1 La reine de Saba aussi, ayant appris la renommée de Salomon, vint à Jérusalem pour l'éprouver par des énigmes, avec de grandes richesses, et des chameaux qui portaient des aromates, et une grande quantité d'or, et des pierres précieuses. Et lorsqu'elle lut venue vers Salomon, elle lui dit tout ce qui était en son coeur.
 
 ***Note*** :  II Par. 9, 1 : Voir 3 Rois, 10, 1 ; Matthieu, 12, 42 ; Luc, 11, 31. ― Saba. Voir 3 Rois, 10, 1.
 
@@ -56,7 +56,7 @@ summary: |
 ***Note*** :  II Par. 9, 21 : Les vaisseaux du roi allaient en Tharsis. Voir 3 Rois, 10, 22.
 
 
-22 Le roi Salomon surpassa donc tous les rois de la terre en richesse et en gloire. 23 Et tous les rois de la terre désiraient voir la face de Salomon, pour écouter la sagesse que Dieu avait mise en son cœur; 24 Et ils lui envoyaient des présents, des vases d'argent et d'or, des vêtements, des armes, des aromates, des chevaux et des mulets, à chaque année. 25 Salomon eut encore quarante mille chevaux dans des écuries, douze mille chars et autant de cavaliers, et il les plaça dans les villes des quadriges, et où était le roi, dans Jérusalem. 26 Il exerça aussi sa puissance sur tous les rois, depuis le fleuve d'Euphrate jusqu'à la terre des Philistins et jusqu'aux frontières d'Egypte. 27 Et il procura une abondance d'argent dans Jérusalem comme celle des pierres, et une multitude de cèdres, semblable à celle des sycomores qui sont produits dans les plaines.
+22 Le roi Salomon surpassa donc tous les rois de la terre en richesse et en gloire. 23 Et tous les rois de la terre désiraient voir la face de Salomon, pour écouter la sagesse que Dieu avait mise en son coeur; 24 Et ils lui envoyaient des présents, des vases d'argent et d'or, des vêtements, des armes, des aromates, des chevaux et des mulets, à chaque année. 25 Salomon eut encore quarante mille chevaux dans des écuries, douze mille chars et autant de cavaliers, et il les plaça dans les villes des quadriges, et où était le roi, dans Jérusalem. 26 Il exerça aussi sa puissance sur tous les rois, depuis le fleuve d'Euphrate jusqu'à la terre des Philistins et jusqu'aux frontières d'Egypte. 27 Et il procura une abondance d'argent dans Jérusalem comme celle des pierres, et une multitude de cèdres, semblable à celle des sycomores qui sont produits dans les plaines.
 
 ***Note*** :  II Par. 9, 27 : Des sycomores à figues. Voir Luc, 19, 4.
 

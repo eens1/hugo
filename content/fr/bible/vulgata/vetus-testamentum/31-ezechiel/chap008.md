@@ -9,11 +9,11 @@ draft: false
 
 2 Et vidi, et ecce similitudo quasi aspectus ignis: ab aspectu lumborum eius, et deorsum, ignis: et a lumbis eius, et sursum, quasi aspectus splendoris, ut visio electri.
 
-3 Et emissa similitudo manus apprehendit me in cincinno capitis mei: et elevavit me Spiritus inter terram, et cælum: et adduxit me in Ierusalem in visione Dei, iuxta ostium interius, quod respiciebat ad Aquilonem, ubi erat statutum idolum zeli ad provocandam æmulationem.
+3 Et emissa similitudo manus apprehendit me in cincinno capitis mei: et elevavit me Spiritus inter terram, et caelum: et adduxit me in Ierusalem in visione Dei, iuxta ostium interius, quod respiciebat ad Aquilonem, ubi erat statutum idolum zeli ad provocandam aemulationem.
 
 4 Et ecce ibi gloria Dei Israel secundum visionem, quam videram in campo.
 
-5 Et dixit ad me: Fili hominis, leva oculos tuos ad viam Aquilonis. Et levavi oculos meos ad viam Aquilonis: et ecce ab Aquilone portæ altaris idolum zeli in ipso introitu.
+5 Et dixit ad me: Fili hominis, leva oculos tuos ad viam Aquilonis. Et levavi oculos meos ad viam Aquilonis: et ecce ab Aquilone portae altaris idolum zeli in ipso introitu.
 
 6 Et dixit ad me: Fili hominis, putasne, vides tu quid isti faciunt, abominationes magnas, quas domus Israel facit hic, ut procul recedam a sanctuario meo? et adhuc conversus videbis abominationes maiores.
 
@@ -25,13 +25,13 @@ draft: false
 
 10 Et ingressus vidi, et ecce omnis similitudo reptilium, et animalium, abominatio, et universa idola domus Israel depicta erant in pariete in circuitu per totum.
 
-11 Et septuaginta viri de senioribus domus Israel, et Iezonias filius Saphan stabat in medio eorum, stantium ante picturas: et unusquisque habebat thuribulum in manu sua: et vapor nebulæ de thure consurgebat.
+11 Et septuaginta viri de senioribus domus Israel, et Iezonias filius Saphan stabat in medio eorum, stantium ante picturas: et unusquisque habebat thuribulum in manu sua: et vapor nebulae de thure consurgebat.
 
-12 Et dixit ad me: Certe vides fili hominis quæ seniores domus Israel faciunt in tenebris, unusquisque in abscondito cubiculi sui: dicunt enim: Non videt Dominus nos, dereliquit Dominus terram.
+12 Et dixit ad me: Certe vides fili hominis quae seniores domus Israel faciunt in tenebris, unusquisque in abscondito cubiculi sui: dicunt enim: Non videt Dominus nos, dereliquit Dominus terram.
 
 13 Et dixit ad me: Adhuc conversus videbis abominationes maiores, quas isti faciunt.
 
-14 Et introduxit me per ostium portæ domus Domini, quod respiciebat ad Aquilonem: et ecce ibi mulieres sedebant plangentes Adonidem.
+14 Et introduxit me per ostium portae domus Domini, quod respiciebat ad Aquilonem: et ecce ibi mulieres sedebant plangentes Adonidem.
 
 15 Et dixit ad me: Certe vidisti fili hominis: adhuc conversus videbis abominationes maiores his.
 

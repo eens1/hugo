@@ -46,7 +46,7 @@ summary: |
 
 ***Note*** :  Gn. 18, 18 : Voir Genèse, 12, 3 ; 22, 18.
 
-19 Car je sais qu'il ordonnera à ses enfants et à sa maison après lui, de garder la voie du Seigneur, et de pratiquer l'équité et la justice, afin que le Seigneur accomplisse à cause d'Abraham tout ce qu'il lui a dit. 20 Le Seigneur dit donc : La clameur de Sodome et de Gomorrhe s'est multipliée, et leur péché s'est aggravé outre mesure, 21 Je descendrai, et je verrai, si la clameur qui est venue jusqu'à moi, elles l'ont accomplie par leurs œuvres : s'il n'en est pas ainsi, que je le sache.
+19 Car je sais qu'il ordonnera à ses enfants et à sa maison après lui, de garder la voie du Seigneur, et de pratiquer l'équité et la justice, afin que le Seigneur accomplisse à cause d'Abraham tout ce qu'il lui a dit. 20 Le Seigneur dit donc : La clameur de Sodome et de Gomorrhe s'est multipliée, et leur péché s'est aggravé outre mesure, 21 Je descendrai, et je verrai, si la clameur qui est venue jusqu'à moi, elles l'ont accomplie par leurs oeuvres : s'il n'en est pas ainsi, que je le sache.
 
 
 22 Et ils partirent de là, et ils s'en allèrent vers Sodome ; mais Abraham se tenait encore devant le Seigneur.

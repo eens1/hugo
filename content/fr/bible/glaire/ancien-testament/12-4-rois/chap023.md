@@ -16,7 +16,7 @@ summary: |
 
 ***Note*** :  IV Rois 23, 1 : Voir 1 Paralipomènes, 34, 28.
 
-2 Et le roi monta dans le temple du Seigneur, ainsi que tous les hommes de Juda et tous ceux qui habitaient dans Jérusalem avec lui, les prêtres, les prophètes et tout le peuple, depuis le petit jusqu'au grand, et il lut, tous l'écoutant, toutes les paroles du livre de l'alliance, qui avait été trouvé dans la maison du Seigneur. 3 Et le roi se tint debout dans la tribune, et fit l'alliance devant le Seigneur, afin qu'ils marchassent à la suite du Seigneur, qu'ils observassent ses préceptes, ses lois et ses cérémonies en tout leur cœur et en toute leur âme, et qu'ils rétablissent toutes les paroles de l'alliance qui étaient écrites dans ce livre; et le peuple acquiesça à l'alliance.
+2 Et le roi monta dans le temple du Seigneur, ainsi que tous les hommes de Juda et tous ceux qui habitaient dans Jérusalem avec lui, les prêtres, les prophètes et tout le peuple, depuis le petit jusqu'au grand, et il lut, tous l'écoutant, toutes les paroles du livre de l'alliance, qui avait été trouvé dans la maison du Seigneur. 3 Et le roi se tint debout dans la tribune, et fit l'alliance devant le Seigneur, afin qu'ils marchassent à la suite du Seigneur, qu'ils observassent ses préceptes, ses lois et ses cérémonies en tout leur coeur et en toute leur âme, et qu'ils rétablissent toutes les paroles de l'alliance qui étaient écrites dans ce livre; et le peuple acquiesça à l'alliance.
 
 
 4 Alors le roi ordonna à Helcias, le pontife, aux prêtres du second ordre, et aux portiers, de jeter hors du temple du Seigneur tous les vases qui avaient appartenu à Baal, au bois sacré et à toute l'armée du ciel, et il les brûla hors de Jérusalem, dans la vallée de Cédron, et il en emporta la poussière à Béthel.
@@ -85,7 +85,7 @@ summary: |
 ***Note*** :  IV Rois 23, 24 : Un esprit de python. Voir Lévitique, 20, 27.
 
 
-25 Il n'y a point eu avant Josias de roi semblable, qui soit retourné comme lui au Seigneur en tout son cœur, en toute son âme, et en toute sa force, selon toute la loi de Moïse, et après lui, il n'y en a pas eu de semblable à lui. 26 Cependant le Seigneur ne revint point de la colère de sa grande fureur, dont fut irritée sa fureur contre Juda, à cause des sujets d'irritation qu'avait provoqués en lui Manassé.
+25 Il n'y a point eu avant Josias de roi semblable, qui soit retourné comme lui au Seigneur en tout son coeur, en toute son âme, et en toute sa force, selon toute la loi de Moïse, et après lui, il n'y en a pas eu de semblable à lui. 26 Cependant le Seigneur ne revint point de la colère de sa grande fureur, dont fut irritée sa fureur contre Juda, à cause des sujets d'irritation qu'avait provoqués en lui Manassé.
 
 ***Note*** :  IV Rois 23, 26 : Les traducteurs qui n’ont pas reproduit ces pléonasmes de la Vulgate et de l’hébreu ont singulièrement diminué la force et l’énergie du sens.
 
@@ -99,7 +99,7 @@ summary: |
 
 29 Aux jours de Josias, Pharaon Néchao, roi d'Egypte, monta contre le roi des Assyriens, vers le fleuve d'Euphrate, et Josias, le roi, alla à sa rencontre; et il fut tué à Mageddo, lorsqu'il l'eut vu.
 
-***Note*** :  IV Rois 23, 29 : Voir 2 Paralipomènes, 35, 20. ― Lorsqu’il l’eut vu ; c’est-à-dire lorsqu’il lui eut livré un combat. ― Néchao II, pharaon de la XXVIe dynastie, régna depuis 611 jusqu’à 605 environ avant Jésus-Christ. ― Mageddo barrait les voies du Liban et pouvait à volonté ouvrir ou fermer la route aux armées qui marchaient vers l’Euphrate. Aussi joua-t-elle dans toutes les guerres des Egyptiens en Asie un rôle prédominant. Elle avait été le point de ralliement des forces chananéennes et le poste avancé des peuples du nord contre les attaques venues du sud. Une bataille perdue sous ses murs livrait la Palestine entière aux mains du vainqueur et lui permettait de continuer sa marche vers la Cœlésyrie.
+***Note*** :  IV Rois 23, 29 : Voir 2 Paralipomènes, 35, 20. ― Lorsqu’il l’eut vu ; c’est-à-dire lorsqu’il lui eut livré un combat. ― Néchao II, pharaon de la XXVIe dynastie, régna depuis 611 jusqu’à 605 environ avant Jésus-Christ. ― Mageddo barrait les voies du Liban et pouvait à volonté ouvrir ou fermer la route aux armées qui marchaient vers l’Euphrate. Aussi joua-t-elle dans toutes les guerres des Egyptiens en Asie un rôle prédominant. Elle avait été le point de ralliement des forces chananéennes et le poste avancé des peuples du nord contre les attaques venues du sud. Une bataille perdue sous ses murs livrait la Palestine entière aux mains du vainqueur et lui permettait de continuer sa marche vers la Coelésyrie.
 
 30 Et ses serviteurs l'enlevèrent mort de Mageddo, le portèrent à Jérusalem et l'ensevelirent dans son sépulcre. Alors le peuple du pays prit Joachaz, fils de Josias; et ils l'oignirent, et l'établirent en la place de son père.
 

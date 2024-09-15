@@ -15,9 +15,9 @@ draft: false
 
 5 Tribuat tibi secundum cor tuum: et omne consilium tuum confirmet.
 
-6 Lætabimur in salutari tuo: et in nomine Dei nostri magnificabimur.
+6 Laetabimur in salutari tuo: et in nomine Dei nostri magnificabimur.
 
-7 Impleat Dominus omnes petitiones tuas: nunc cognovi quoniam salvum fecit Dominus CHRISTUM suum. Exaudiet illum de cælo sancto suo: in potentatibus salus dexteræ eius.
+7 Impleat Dominus omnes petitiones tuas: nunc cognovi quoniam salvum fecit Dominus CHRISTUM suum. Exaudiet illum de caelo sancto suo: in potentatibus salus dexterae eius.
 
 8 Hi in curribus, et hi in equis: nos autem in nomine Domini Dei nostri invocabimus.
 

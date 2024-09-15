@@ -55,7 +55,7 @@ summary: |
 ***Note*** :  Sir. 9, 12 : Ne t’assieds, etc. Cette première partie du verset a son explication dans la seconde : Ne t’appuie pas, etc. ; ce qui est une allusion à la manière dont on était à table, couché sur des lits, et appuyé sur le coude ; et comme on était placé les uns au-dessous des autres, le second convive avait la tête sur la poitrine du premier, le troisième sur la poitrine du second, et ainsi de suite. Il était donc de la dernière indécence qu’un homme se plaçât à table auprès d’une femme étrangère.
 
 
-13 Et ne dispute pas avec elle dans le vin, de peur que ton cœur ne s'incline vers elle, et que par ton sang tu ne tombes dans la perdition.
+13 Et ne dispute pas avec elle dans le vin, de peur que ton coeur ne s'incline vers elle, et que par ton sang tu ne tombes dans la perdition.
 
 ***Note*** :  Sir. 9, 13 : Ne dispute pas, etc. ; c’est-à-dire ne fais pas des défis de boire. ― Que par ton sang ; par ta mort, si tu commets l’adultère à la suite des débauches de la table. On sait que chez les Hébreux l’adultère était puni de mort. Voir Lévitique, 20, 10.
 

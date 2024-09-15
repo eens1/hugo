@@ -25,7 +25,7 @@ summary: |
 
 7 Ne consulte pas avec celui qui te tend un piège ; et à ceux qui te portent envie, cache tes desseins. 8 Tout conseiller donne son avis; mais tel conseiller l'est pour lui-même. 9 Contre un conseiller tiens en garde ton âme; sache d'abord quels sont ses besoins; car c'est à lui qu'il pensera.
 
-***Note*** :  Sir. 37, 9 : Car c’est à lui qu’il pensera ; c’est-à-dire à son intérêt personnel ; littéralement à son esprit ; en supposant (ce qui nous paraît très probable) que les mots animo suo soient au datif, et signifient à sa personne, à lui, comme animæ suæ.
+***Note*** :  Sir. 37, 9 : Car c’est à lui qu’il pensera ; c’est-à-dire à son intérêt personnel ; littéralement à son esprit ; en supposant (ce qui nous paraît très probable) que les mots animo suo soient au datif, et signifient à sa personne, à lui, comme animae suae.
 
 10 Crains qu'il ne plante un pieu dans la terre, et qu'il ne te dise :
 
@@ -42,16 +42,16 @@ summary: |
 15 Mais sois assidu auprès d'un homme saint, lorsque tu en auras connu quelqu'un qui garde la crainte de Dieu ;
 
 
-16 Dont l'âme est selon ton âme, et qui, lorsque tu chancelleras dans les ténèbres, prendra part à ta douleur. 17 Etablis en toi un cœur de bon conseil; car aucune autre chose ne vaut davantage pour toi. 18 L'âme d'un homme saint fait connaître quelquefois les choses vraies, mieux que sept sentinelles assises sur un lieu élevé pour observer.
+16 Dont l'âme est selon ton âme, et qui, lorsque tu chancelleras dans les ténèbres, prendra part à ta douleur. 17 Etablis en toi un coeur de bon conseil; car aucune autre chose ne vaut davantage pour toi. 18 L'âme d'un homme saint fait connaître quelquefois les choses vraies, mieux que sept sentinelles assises sur un lieu élevé pour observer.
 
 ***Note*** :  Sir. 37, 18 : Mieux ; mot implicitement contenu dans l’adverbe quam, qui, par hébraïsme, est mis pour plus que (plus quam). Comparer au 1° au milieu des Observations préliminaires des Psaumes.
 
 
-19 Mais en toutes choses prie le Très-Haut pour qu'il dirige ta voie dans la vérité. 20 Qu'une parole véridique précède toutes tes œuvres, et un conseil immuable, toutes tes actions.
+19 Mais en toutes choses prie le Très-Haut pour qu'il dirige ta voie dans la vérité. 20 Qu'une parole véridique précède toutes tes oeuvres, et un conseil immuable, toutes tes actions.
 
-***Note*** :  Sir. 37, 20 : Qu’une parole, etc. ; littéralement avant toutes tes œuvres, qu’une parole véridique te précède.
+***Note*** :  Sir. 37, 20 : Qu’une parole, etc. ; littéralement avant toutes tes oeuvres, qu’une parole véridique te précède.
 
-21 Une parole mauvaise changera le cœur, d'où naissent quatre choses : le bien et le mal, la vie et la mort ; et la langue exerce sur elles un pouvoir continuel. Il est tel homme habile qui en instruit beaucoup, et qui, à son âme, est inutile.
+21 Une parole mauvaise changera le coeur, d'où naissent quatre choses : le bien et le mal, la vie et la mort ; et la langue exerce sur elles un pouvoir continuel. Il est tel homme habile qui en instruit beaucoup, et qui, à son âme, est inutile.
 
 
 22 Tel homme expérimenté en a instruit beaucoup, et à son âme il a été doux.

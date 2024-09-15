@@ -11,11 +11,11 @@ draft: false
 
 3 Deus manifeste veniet: Deus noster et non silebit. Ignis in conspectu eius exardescet: et in circuitu eius tempestas valida.
 
-4 Advocabit cælum desursum: et terram discernere populum suum.
+4 Advocabit caelum desursum: et terram discernere populum suum.
 
 5 Congregate illi sanctos eius: qui ordinant testamentum eius super sacrificia.
 
-6 Et annunciabunt cæli iustitiam eius: quoniam Deus iudex est.
+6 Et annunciabunt caeli iustitiam eius: quoniam Deus iudex est.
 
 7 Audi populus meus, et loquar: Israel, et testificabor tibi: Deus Deus tuus ego sum.
 
@@ -23,11 +23,11 @@ draft: false
 
 9 Non accipiam de domo tua vitulos: neque de gregibus tuis hircos.
 
-10 Quoniam meæ sunt omnes feræ silvarum, iumenta in montibus et boves.
+10 Quoniam meae sunt omnes ferae silvarum, iumenta in montibus et boves.
 
-11 Cognovi omnia volatilia cæli: et pulchritudo agri mecum est.
+11 Cognovi omnia volatilia caeli: et pulchritudo agri mecum est.
 
-12 Si esuriero, non dicam tibi: meus est enim orbis terræ, et plenitudo eius.
+12 Si esuriero, non dicam tibi: meus est enim orbis terrae, et plenitudo eius.
 
 13 Numquid manducabo carnes taurorum? aut sanguinem hircorum potabo?
 
@@ -43,11 +43,11 @@ draft: false
 
 19 Os tuum abundavit malitia: et lingua tua concinnabat dolos.
 
-20 Sedens adversus fratrem tuum loquebaris, et adversus filium matris tuæ ponebas scandalum:
+20 Sedens adversus fratrem tuum loquebaris, et adversus filium matris tuae ponebas scandalum:
 
-21 hæc fecisti, et tacui. Existimasti inique quod ero tui similis: arguam te, et statuam contra faciem tuam.
+21 haec fecisti, et tacui. Existimasti inique quod ero tui similis: arguam te, et statuam contra faciem tuam.
 
-22 Intelligite hæc qui obliviscimini Deum: nequando rapiat, et non sit qui eripiat.
+22 Intelligite haec qui obliviscimini Deum: nequando rapiat, et non sit qui eripiat.
 
 23 Sacrificium laudis honorificabit me: et illic iter, quo ostendam illi salutare Dei.
 

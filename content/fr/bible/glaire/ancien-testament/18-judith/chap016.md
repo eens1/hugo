@@ -68,7 +68,7 @@ summary: |
 20 Malheur à la nation qui s'élève contre mon peuple! car le Seigneur tout-puissant se vengera d'eux, et les visitera au jour du jugement. 21 Et il répandra du feu et des vers dans leur chair, afin qu'ils brûlent et qu'ils le sentent éternellement.
 
 
-22 Or il arriva, après cela, que tout le peuple après la victoire vint à Jérusalem adorer le Seigneur ; et aussitôt qu'ils furent purifiés, ils offrirent tous leurs holocaustes, leurs vœux et leurs promesses. 23 Quant à Judith, ce sont tous les instruments de guerre d'Holoferne, que le peuple lui avait donnés, et le rideau qu'elle-même avait enlevé de son lit, 'qu'elle offrit, en anathème d'oubli.
+22 Or il arriva, après cela, que tout le peuple après la victoire vint à Jérusalem adorer le Seigneur ; et aussitôt qu'ils furent purifiés, ils offrirent tous leurs holocaustes, leurs voeux et leurs promesses. 23 Quant à Judith, ce sont tous les instruments de guerre d'Holoferne, que le peuple lui avait donnés, et le rideau qu'elle-même avait enlevé de son lit, 'qu'elle offrit, en anathème d'oubli.
 
 ***Note*** :  Judith 16, 23 : En anathème d’oubli ; c’est-à-dire, selon les uns, comme un monument consacré à Dieu, et qui devait empêcher à jamais les Israélites d’oublier la victoire signalée que le Seigneur venait de leur accorder ; ou bien, selon les autres, un monument consacré à Dieu, et destiné à leur faire oublier les maux passés.
 

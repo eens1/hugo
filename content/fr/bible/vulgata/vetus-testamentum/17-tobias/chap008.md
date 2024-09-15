@@ -5,23 +5,23 @@ draft: false
 ---
 
 
-1 Postquam vero cœnaverunt, introduxerunt iuvenem ad eam.
+1 Postquam vero coenaverunt, introduxerunt iuvenem ad eam.
 
 2 Recordatus itaque Tobias sermonum Angeli, protulit de cassidili suo partem iecoris, posuitque eam super carbones vivos.
 
-3 Tunc Raphael Angelus apprehendit dæmonium, et religavit illud in deserto superioris Ægypti.
+3 Tunc Raphael Angelus apprehendit daemonium, et religavit illud in deserto superioris AEgypti.
 
 4 Tunc hortatus est virginem Tobias, dixitque ei: Sara, exsurge, et deprecemur Deum hodie, et cras, et secundum cras: quia his tribus noctibus Deo iungimur: tertia autem transacta nocte, in nostro erimus coniugio.
 
-5 filii quippe sanctorum sumus, et non possumus ita coniungi sicut gentes, quæ ignorant Deum.
+5 filii quippe sanctorum sumus, et non possumus ita coniungi sicut gentes, quae ignorant Deum.
 
 6 Surgentes autem pariter, instanter orabant ambo simul, ut sanitas daretur eis.
 
-7 Dixitque Tobias: Domine Deus patrum nostrorum, benedicant te cæli et terræ, mareque et fontes, et flumina, et omnes creaturæ tuæ, quæ in eis sunt.
+7 Dixitque Tobias: Domine Deus patrum nostrorum, benedicant te caeli et terrae, mareque et fontes, et flumina, et omnes creaturae tuae, quae in eis sunt.
 
-8 Tu fecisti Adam de limo terræ, dedistique ei adiutorium Hevam.
+8 Tu fecisti Adam de limo terrae, dedistique ei adiutorium Hevam.
 
-9 Et nunc Domine tu scis, quia non luxuriæ causa accipio sororem meam coniugem, sed sola posteritatis dilectione, in qua benedicatur nomen tuum in sæcula sæculorum.
+9 Et nunc Domine tu scis, quia non luxuriae causa accipio sororem meam coniugem, sed sola posteritatis dilectione, in qua benedicatur nomen tuum in saecula saeculorum.
 
 10 Dixit quoque Sara: Miserere nobis Domine, miserere nobis, et consenescamus ambo pariter sani.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 Mitte unam de ancillis tuis, et videat si mortuus est, ut sepeliam eum antequam illucescat dies.
 
-15 At illa misit unam ex ancillis suis. Quæ ingressa cubiculum, reperit eos salvos et incolumes, secum pariter dormientes.
+15 At illa misit unam ex ancillis suis. Quae ingressa cubiculum, reperit eos salvos et incolumes, secum pariter dormientes.
 
 16 Et reversa nunciavit bonum nuntium: et benedixerunt Dominum, Raguel videlicet et Anna uxor eius,
 
@@ -41,15 +41,15 @@ draft: false
 
 18 Fecisti enim nobiscum misericordiam tuam, et exclusisti a nobis inimicum persequentem nos.
 
-19 Misertus es autem duobus unicis. Fac eos Domine plenius benedicere te: et sacrificium tibi laudis tuæ et suæ sanitatis offerre, ut cognoscat universitas gentium, quia tu es Deus solus in universa terra.
+19 Misertus es autem duobus unicis. Fac eos Domine plenius benedicere te: et sacrificium tibi laudis tuae et suae sanitatis offerre, ut cognoscat universitas gentium, quia tu es Deus solus in universa terra.
 
-20 Statimque præcepit servis suis Raguel, ut replerent fossam, quam fecerant priusquam elucesceret.
+20 Statimque praecepit servis suis Raguel, ut replerent fossam, quam fecerant priusquam elucesceret.
 
-21 Uxori autem suæ dixit ut instrueret convivium, et præpararet omnia, quæ in cibos erant iter agentibus necessaria.
+21 Uxori autem suae dixit ut instrueret convivium, et praepararet omnia, quae in cibos erant iter agentibus necessaria.
 
 22 Duas quoque pingues vaccas, et quatuor arietes occidi fecit, et parari epulas omnibus vicinis suis, cunctisque amicis.
 
 23 Et adiuravit Raguel Tobiam, ut duas hebdomadas moraretur apud se.
 
-24 De omnibus autem, quæ possidebat Raguel, dimidiam partem dedit Tobiæ, et fecit scripturam, ut pars dimidia quæ supererat post obitum eorum, Tobiæ dominio deveniret.
+24 De omnibus autem, quae possidebat Raguel, dimidiam partem dedit Tobiae, et fecit scripturam, ut pars dimidia quae supererat post obitum eorum, Tobiae dominio deveniret.
 

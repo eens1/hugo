@@ -25,7 +25,7 @@ summary: |
 4 Ecoutez, et moi je parlerai; je vous interrogerai, et répondez-moi.
 
 
-5 Je vous avais entendu au moyen de mon oreille ; mais maintenant c'est mon œil qui vous voit. 6 C'est pourquoi je m'accuse moi-même et je fais pénitence dans la poussière et la cendre.
+5 Je vous avais entendu au moyen de mon oreille ; mais maintenant c'est mon oeil qui vous voit. 6 C'est pourquoi je m'accuse moi-même et je fais pénitence dans la poussière et la cendre.
 
 
 7 Or après que le Seigneur eut adressé ces paroles à Job, il dit à Eliphaz, le Thémanite : Ma fureur s'est irritée contre toi et contre tes deux amis, parce que vous n'avez pas parlé devant moi avec droiture, comme mon serviteur Job.
@@ -44,12 +44,12 @@ summary: |
 
 ***Note*** :  Job 42, 10-12 : Job, en priant pour ses amis, selon l’ordre que Dieu lui en a donné, s’humilie lui-même en sa présence, et son humiliation, jointe à cette charité qui le portait à intercéder pour ceux qui l’avaient outragé, lui fit mériter pour récompense une grande augmentation dans tous ses biens. Mais, comme le remarque saint Augustin, (Epist. CXX, chap. X), c’eût été peu de choses pour Job que de recevoir temporellement le double de ce qu’il avait possédé auparavant, pour récompense de cette admirable fermeté avec laquelle il avait souffert une si terrible épreuve de sa vertu. C’est donc principalement la béatitude de l’autre vie que le Saint-Esprit a voulu nous figurer par cette prospérité beaucoup plus grande que la première dont le Seigneur récompensa sa fidélité.
 
-11 Alors vinrent vers lui tous ses frères et toutes ses sœurs et tous ceux qui l'avaient connu auparavant, et ils mangèrent avec lui du pain dans sa maison, et ils secouèrent la tête sur lui, et ils le consolèrent de tout le mal que lui avait envoyé le Seigneur, et ils lui donnèrent chacun une brebis et un pendant d'oreille d'or.
+11 Alors vinrent vers lui tous ses frères et toutes ses soeurs et tous ceux qui l'avaient connu auparavant, et ils mangèrent avec lui du pain dans sa maison, et ils secouèrent la tête sur lui, et ils le consolèrent de tout le mal que lui avait envoyé le Seigneur, et ils lui donnèrent chacun une brebis et un pendant d'oreille d'or.
 
 ***Note*** :  Job 42, 11 : Le mot pain, dans la langue des Hébreux, se prend très souvent pour nourriture, aliment en général, et l’expression manger du pain, ou manger le pain, signifie simplement manger, prendre de la nourriture, faire un repas. ― Secouèrent la tête sur lui. Voir, pour le vrai sens de cette expression, Job, 28, 5. (? )
 
 
-12 Mais le Seigneur bénit Job dans les derniers jours plus que dans ses premiers. Et il eut quatorze mille brebis, six mille chameaux, mille paires de bœufs et mille ânesses. 13 Il eut aussi sept fils et trois filles.
+12 Mais le Seigneur bénit Job dans les derniers jours plus que dans ses premiers. Et il eut quatorze mille brebis, six mille chameaux, mille paires de boeufs et mille ânesses. 13 Il eut aussi sept fils et trois filles.
 
 ***Note*** :  Job 42, 13 : Et leur père leur donna, etc. ; c’est-à-dire que Job donna à ses filles leur part dans son héritage comme à ses fils. L’auteur du livre de Job, qui était Hébreu, fait cette remarque, parce que dans sa nation les filles n’héritaient pas, quand elles avaient des frères (voir Nombres, 27, 8). L’usage contraire était établi dans l’Arabie, nous le voyons confirmé par Mahomet dans le Coran. On voit la même chose parmi les Romains, dans les lois des douze Tables et dans leurs lois civiles.
 

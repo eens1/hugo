@@ -20,11 +20,11 @@ summary: |
 avec elles par des mariages, et vous unir par des liens d'amitié, 13 Sachez, dès maintenant, que le Seigneur votre Dieu ne les détruira pas devant votre face, mais elles seront pour vous une fosse, un filet, et un obstacle à votre côté, et des épines dans vos yeux, jusqu'à ce qu'il vous enlève et vous extermine de cette terre excellente qu'il vous a livrée.
 
 
-14 Voici que moi aujourd'hui, j'entre dans la voie de toute la terre, et vous reconnaîtrez de tout cœur, que de toutes les paroles que le Seigneur a promis d'accomplir en votre faveur, aucune n'a été dite en vain.
+14 Voici que moi aujourd'hui, j'entre dans la voie de toute la terre, et vous reconnaîtrez de tout coeur, que de toutes les paroles que le Seigneur a promis d'accomplir en votre faveur, aucune n'a été dite en vain.
 
 ***Note*** :  Josué 23, 14 : Voir 3 Rois, 2, 2. ― Aujourd’hui ; hébraïsme, pour bientôt. ― Dans la voie de toute la terre ; la voie que tout le monde prend, où tous les hommes sont obligés d’entrer, la voie de la mort.
 
-15 Comme donc il a accompli par ses œuvres tout ce qu'il a promis, et que toutes choses ont été prospères, ainsi il amènera sur vous tous les maux dont il vous a menacés, jusqu'à ce qu'il vous enlève et vous extermine de cette terre excellente qu'il vous a livrée, 16 Parce que vous aurez violé l'alliance du Seigneur votre Dieu qu'il a faite avec vous, que vous aurez servi des dieux étrangers, et que vous les aurez adorés ; soudain et promptement s'élèvera contre vous la fureur du Seigneur, et vous serez enlevés de cette terre excellente qu'il vous a livrée.
+15 Comme donc il a accompli par ses oeuvres tout ce qu'il a promis, et que toutes choses ont été prospères, ainsi il amènera sur vous tous les maux dont il vous a menacés, jusqu'à ce qu'il vous enlève et vous extermine de cette terre excellente qu'il vous a livrée, 16 Parce que vous aurez violé l'alliance du Seigneur votre Dieu qu'il a faite avec vous, que vous aurez servi des dieux étrangers, et que vous les aurez adorés ; soudain et promptement s'élèvera contre vous la fureur du Seigneur, et vous serez enlevés de cette terre excellente qu'il vous a livrée.
 
 ***Note*** :  Josué 23, 16 : Ces prédictions ont été accomplies pendant la captivité de Babylone, et surtout depuis la mort de Jésus-Christ.
 

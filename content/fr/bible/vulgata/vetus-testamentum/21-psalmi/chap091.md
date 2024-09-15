@@ -15,13 +15,13 @@ draft: false
 
 5 Quia delectasti me Domine in factura tua: et in operibus manuum tuarum exultabo.
 
-6 Quam magnificata sunt opera tua Domine! nimis profundæ factæ sunt cogitationes tuæ:
+6 Quam magnificata sunt opera tua Domine! nimis profundae factae sunt cogitationes tuae:
 
-7 Vir insipiens non cognoscet: et stultus non intelliget hæc.
+7 Vir insipiens non cognoscet: et stultus non intelliget haec.
 
-8 Cum exorti fuerint peccatores sicut fœnum: et apparuerint omnes, qui operantur iniquitatem: Ut intereant in sæculum sæculi:
+8 Cum exorti fuerint peccatores sicut foenum: et apparuerint omnes, qui operantur iniquitatem: Ut intereant in saeculum saeculi:
 
-9 tu autem Altissimus in æternum Domine.
+9 tu autem Altissimus in aeternum Domine.
 
 10 Quoniam ecce inimici tui Domine, quoniam ecce inimici tui peribunt: et dispergentur omnes, qui operantur iniquitatem.
 

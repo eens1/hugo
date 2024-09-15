@@ -55,13 +55,13 @@ summary: |
 
 11 En ce jour-là, tu ne seras pas confondue pour toutes les inventions par lesquelles tu as prévariqué contre moi ; parce que j'enlèverai du milieu de toi les flatteurs fastueux de ton orgueil; tu ne t'enorgueilliras plus désormais sur ma montagne sainte.
 
-***Note*** :  Soph. 3, 11 : Inventions ; en hébreu, actions, œuvres. ― Tu ne t’enorgueilliras plus ; littéralement, tu n’ajouteras pas à t’enorgueillir. Voir sur cet hébraïsme, le 2° à la fin des Observations préliminaires des Psaumes. ― Sur ma montagne sainte ; c’est-à-dire, dans mon temple. Les Juifs tiraient vanité outre mesure de la beauté de leur temple ; Jérémie (voir Jérémie, 7, 4) leur en fait un reproche.
+***Note*** :  Soph. 3, 11 : Inventions ; en hébreu, actions, oeuvres. ― Tu ne t’enorgueilliras plus ; littéralement, tu n’ajouteras pas à t’enorgueillir. Voir sur cet hébraïsme, le 2° à la fin des Observations préliminaires des Psaumes. ― Sur ma montagne sainte ; c’est-à-dire, dans mon temple. Les Juifs tiraient vanité outre mesure de la beauté de leur temple ; Jérémie (voir Jérémie, 7, 4) leur en fait un reproche.
 
 
 12 Et je laisserai au milieu de toi un peuple pauvre et indigent, et ils espéreront dans le nom du Seigneur. 13 Les restes d'Israël ne commettront pas l'iniquité et ne parleront pas mensonge ; il ne se trouvera pas dans leur bouche de langue trompeuse ; parce qu'eux-mêmes paîtront, et se coucheront, et il n'y aura personne qui les épouvante.
 
 
-14 Loue, fille de Sion; jubile, Israël; réjouis-toi, et exulte en tout ton cœur, fille de Jérusalem. 15 Le Seigneur a effacé ton arrêt, il a éloigné tes ennemis ; le roi d'Israël, le Seigneur, est au milieu de toi; tu ne craindras plus le malheur.
+14 Loue, fille de Sion; jubile, Israël; réjouis-toi, et exulte en tout ton coeur, fille de Jérusalem. 15 Le Seigneur a effacé ton arrêt, il a éloigné tes ennemis ; le roi d'Israël, le Seigneur, est au milieu de toi; tu ne craindras plus le malheur.
 
 
 16 En ce jour-là, on dira à Jérusalem : Ne crains pas ; Sion, que tes mains ne s'affaiblissent point. 17 Le Seigneur, ton Dieu, le Dieu fort sera au milieu de toi ; lui-même te sauvera; il se réjouira de joie en toi, il se reposera en ton amour, il exultera en toi, au milieu des louanges.

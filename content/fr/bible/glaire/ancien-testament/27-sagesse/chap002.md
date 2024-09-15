@@ -14,11 +14,11 @@ summary: |
 
 ***Note*** :  Sg. 2, 1 : Voir Job, 7, 1 ; 14, 1. ― Jouissance ; repos ; littéralement rafraîchissement ; le grec porte guérison.
 
-2 Parce que nous sommes nés de rien, et qu'après cela nous serons comme si nous n'avions pas été ; parce que le souffle de nos narines est une fumée, et la parole une étincelle pour agiter notre cœur ;
+2 Parce que nous sommes nés de rien, et qu'après cela nous serons comme si nous n'avions pas été ; parce que le souffle de nos narines est une fumée, et la parole une étincelle pour agiter notre coeur ;
 
 ***Note*** :  Sg. 2, 2 : Après cela ; c’est-à-dire après la mort.
 
-3 Cette étincelle éteinte, notre corps sera cendre, et l'esprit se dissipera comme un air subtil, et notre vie passera comme la trace d'un nuage, et s'évanouira comme un brouillard qui est chassé par les rayons du soleil et qui tombe, appesanti par sa chaleur; 4 Et notre nom subira l'oubli par le temps, et personne ne se souviendra de nos œuvres. 5 Car c'est le passage d'une ombre que notre temps, et il n'y a pas de retour après notre fin, parce que le sceau est posé, et que personne ne revient.
+3 Cette étincelle éteinte, notre corps sera cendre, et l'esprit se dissipera comme un air subtil, et notre vie passera comme la trace d'un nuage, et s'évanouira comme un brouillard qui est chassé par les rayons du soleil et qui tombe, appesanti par sa chaleur; 4 Et notre nom subira l'oubli par le temps, et personne ne se souviendra de nos oeuvres. 5 Car c'est le passage d'une ombre que notre temps, et il n'y a pas de retour après notre fin, parce que le sceau est posé, et que personne ne revient.
 
 ***Note*** :  Sg. 2, 5 : Voir 1 Paralipomènes, 29, 15. ― Notre temps ; le temps, la durée de notre vie. ― Le sceau est posé ; c’est une allusion à une ancienne coutume qui était de placer les corps dans des cavernes, dont on fermait exactement l’entrée en y mettant un sceau.
 
@@ -38,7 +38,7 @@ summary: |
 
 ***Note*** :  Sg. 2, 11 : Est regardé comme (invenitur), selon le grec, est convaincu.
 
-12 Circonvenons donc le juste, parce qu'il nous est inutile, qu'il est contraire à nos œuvres, qu'il nous reproche les péchés contre la loi, et qu'il nous déshonore en décriant les fautes de notre conduite.
+12 Circonvenons donc le juste, parce qu'il nous est inutile, qu'il est contraire à nos oeuvres, qu'il nous reproche les péchés contre la loi, et qu'il nous déshonore en décriant les fautes de notre conduite.
 
 ***Note*** :  Sg. 2, 12 : Circonvenons, etc. Tout ce qui est dit dans ce verset et les suivants, jusqu’à la fin du chapitre, exprime les sentiments des impies contre les justes en général ; mais représente si parfaitement la fureur des Juifs contre Jésus-Christ, que les Pères l’ont regardé comme une prophétie de sa Passion.
 
@@ -52,7 +52,7 @@ summary: |
 
 15 Sa vue nous est même à charge, parce que sa vie est dissemblable de la vie des autres et que ses voies ont été changées.
 
-***Note*** :  Sg. 2, 15 : Ont été changées. Le latin immutatæ sunt étant amphibologique (puisqu’il est susceptible des deux significations opposées, ont été changées et n’ont pas été changées, sont immuables), nous avons dû l’expliquer par le texte grec, qui veut dire seulement ont été changées, déplacées ou sont différentes des autres.
+***Note*** :  Sg. 2, 15 : Ont été changées. Le latin immutatae sunt étant amphibologique (puisqu’il est susceptible des deux significations opposées, ont été changées et n’ont pas été changées, sont immuables), nous avons dû l’expliquer par le texte grec, qui veut dire seulement ont été changées, déplacées ou sont différentes des autres.
 
 16 Nous sommes estimés par lui frivoles ; il s'abstient de nos voies comme de souillures : il préfère les derniers moments des justes, et il se glorifie d'avoir pour père Dieu. 17 Voyons donc si ses paroles sont véritables; éprouvons ce qui lui arrivera, et nous saurons quels seront ses derniers moments. 18 Car s'il est vrai fils de Dieu, Dieu prendra sa défense, et il le délivrera des mains de ses ennemis.
 

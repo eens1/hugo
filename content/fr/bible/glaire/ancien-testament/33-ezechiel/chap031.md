@@ -37,7 +37,7 @@ summary: |
 ***Note*** :  Éz. 31, 9 : Tous les arbres, littéralement et tous. Voir Ezéchiel, 29, 7.
 
 
-10 A cause de cela, voici ce que dit le Seigneur Dieu : Parce qu'il s'est élevé en hauteur, et qu'il a poussé sa cime verdoyante et touffue, et que son cœur s'est enorgueilli dans sa grandeur, 11 Je l'ai livré à la main de l'homme le plus fort des nations, qui agira comme il voudra ; selon son impiété je l'ai rejeté.
+10 A cause de cela, voici ce que dit le Seigneur Dieu : Parce qu'il s'est élevé en hauteur, et qu'il a poussé sa cime verdoyante et touffue, et que son coeur s'est enorgueilli dans sa grandeur, 11 Je l'ai livré à la main de l'homme le plus fort des nations, qui agira comme il voudra ; selon son impiété je l'ai rejeté.
 
 ***Note*** :  Éz. 31, 11 : L’homme ; mot évidemment sous-entendu ; parce que l’adjectif masculin le plus fort (fortissimi) ne saurait se rapporter à nations (gentium), qui est du féminin en latin aussi bien qu’en français. Cet homme est Nabopolassar, père de Nabuchodonosor, lequel détruisit la monarchie assyrienne et fonda celle des Chaldéens. ― Qui agira, etc. ; littéralement et par hébraïsme, agissant agira (faciens faciet).
 

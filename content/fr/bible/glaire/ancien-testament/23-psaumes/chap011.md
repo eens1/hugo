@@ -10,16 +10,16 @@ summary: |
 
 1 Pour la fin, pour l'octave, psaume de David.
 
-***Note*** :  Ps. 11, 1 : Hébreu : « Au chef de chœur. Sur le schemînith » (voir Psaume 6). Prière de David pour obtenir de Dieu qu’il le protège au milieu des méchants qui l’entourent.
+***Note*** :  Ps. 11, 1 : Hébreu : « Au chef de choeur. Sur le schemînith » (voir Psaume 6). Prière de David pour obtenir de Dieu qu’il le protège au milieu des méchants qui l’entourent.
 
 
 2 Sauvez-moi, Seigneur, car il n'y a plus de saint : les vérités ont diminué parmi les fils des hommes.
 
 ***Note*** :  Ps. 11, 2-3 : Appel de David à Dieu, au milieu des trompeurs dont il est environné.
 
-3 Ils ont dit des choses vaines, chacun à son prochain : leurs lèvres sont trompeuses; ils ont parlé avec un cœur et un cœur.
+3 Ils ont dit des choses vaines, chacun à son prochain : leurs lèvres sont trompeuses; ils ont parlé avec un coeur et un coeur.
 
-***Note*** :  Ps. 11, 3 : Un cœur et un cœur ; un cœur double, plein de duplicité.
+***Note*** :  Ps. 11, 3 : Un coeur et un coeur ; un coeur double, plein de duplicité.
 
 
 4 Que Dieu perde entièrement toutes les lèvres trompeuses, et la langue qui profère des discours superbes,

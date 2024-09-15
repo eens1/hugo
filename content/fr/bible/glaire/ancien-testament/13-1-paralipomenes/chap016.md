@@ -16,23 +16,23 @@ summary: |
 
 2 Et lorsque David eut achevé d'offrir les holocaustes et les sacrifices pacifiques, il bénit le peuple au nom du Seigneur. 3 Et il distribua à chacun en particulier, depuis l'homme jusqu'à la femme, une miche de pain, un morceau de viande de bubale rôtie, et de fleur de farine frite dans l'huile.
 
-***Note*** :  I Par. 16, 3 : Bubale, espèce d’antilope. Le mot hébreu traduit par bubale désigne probablement un morceau de viande rôtie, du bœuf sans doute.
+***Note*** :  I Par. 16, 3 : Bubale, espèce d’antilope. Le mot hébreu traduit par bubale désigne probablement un morceau de viande rôtie, du boeuf sans doute.
 
 
-4 Et il établit devant l'arche du Seigneur des Lévites qui devaient le servir, rappeler le souvenir de ses œuvres, glorifier et louer le Seigneur Dieu d'Israël :5 Asaph, le premier, et son second, Zacharie; ensuite Jahiel, Sémiramoth, Jéhiel, Mathathias, Eliab, Banaïas et Obédédom; Jéhiel, pour les instruments de psaltérions et pour les lyres, et Asaph, pour jouer des cymbales. 6 Or Banaïas et Jaziel, prêtres, devaient sonner continuellement de la trompette devant l'arche de l'alliance du Seigneur.
+4 Et il établit devant l'arche du Seigneur des Lévites qui devaient le servir, rappeler le souvenir de ses oeuvres, glorifier et louer le Seigneur Dieu d'Israël :5 Asaph, le premier, et son second, Zacharie; ensuite Jahiel, Sémiramoth, Jéhiel, Mathathias, Eliab, Banaïas et Obédédom; Jéhiel, pour les instruments de psaltérions et pour les lyres, et Asaph, pour jouer des cymbales. 6 Or Banaïas et Jaziel, prêtres, devaient sonner continuellement de la trompette devant l'arche de l'alliance du Seigneur.
 
 
 7 En ce jour-là, David fit Asaph premier chantre, pour chanter ainsi que ses frères les louanges du Seigneur.
 
 
-8 Glorifiez le Seigneur, et invoquez son nom : faites connaître ses œuvres parmi les peuples.
+8 Glorifiez le Seigneur, et invoquez son nom : faites connaître ses oeuvres parmi les peuples.
 
-***Note*** :  I Par. 16, 8 : Voir Psaumes, 104, 1 ; Isaïe, 12, 4. ― Ses œuvres ; ainsi porte l’hébreu ; Vulgate, ses inventions.
+***Note*** :  I Par. 16, 8 : Voir Psaumes, 104, 1 ; Isaïe, 12, 4. ― Ses oeuvres ; ainsi porte l’hébreu ; Vulgate, ses inventions.
 
 9 Chantez-le et jouez du psaltérion en son honneur; et racontez toutes ses merveilles.
 
 
-10 Louez son saint nom : qu'il se réjouisse, le cœur de ceux qui cherchent le Seigneur. 11 Cherchez le Seigneur et sa force : cherchez sa face sans cesse.
+10 Louez son saint nom : qu'il se réjouisse, le coeur de ceux qui cherchent le Seigneur. 11 Cherchez le Seigneur et sa force : cherchez sa face sans cesse.
 
 
 12 Souvenez-vous de ses merveilles qu'il a faites, de ses prodiges, et des jugements de sa bouche. 13 Postérité d'Israël, son serviteur, enfants de Jacob, son élu.

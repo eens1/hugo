@@ -33,7 +33,7 @@ summary: |
 
 7 Et David enleva les armes d'or qu'avaient les serviteurs d'Adarézer, et les porta à Jérusalem. 8 Et de Beté et de Béroth, villes d'Adarézer, le roi David enleva une très grande quantité d'airain.
 
-***Note*** :  II Rois 8, 8 : Beté porte le nom de Thébath dans le passage parallèle de 1 Paralipomènes, 18, 8. C’était une ville de l’Aram-Soba, entre Alep et Palmyre. ― Béroth, confondue souvent à tort avec Beyrouth, était aussi une ville de l’Aram-Soba, peut-être le Bercitàn actuel, dans la Cœlésyrie.
+***Note*** :  II Rois 8, 8 : Beté porte le nom de Thébath dans le passage parallèle de 1 Paralipomènes, 18, 8. C’était une ville de l’Aram-Soba, entre Alep et Palmyre. ― Béroth, confondue souvent à tort avec Beyrouth, était aussi une ville de l’Aram-Soba, peut-être le Bercitàn actuel, dans la Coelésyrie.
 
 
 9 Or, Thoü, roi d'Emath, apprit que David avait battu toutes les forces d'Adarézer;

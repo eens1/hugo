@@ -7,9 +7,9 @@ draft: false
 
 1 Et locutus est Dominus ad Moysen, dicens:
 
-2 Præcipe filiis Israel, ut afferant tibi oleum de olivis purissimum, ac lucidum, ad concinnandas lucernas iugiter,
+2 Praecipe filiis Israel, ut afferant tibi oleum de olivis purissimum, ac lucidum, ad concinnandas lucernas iugiter,
 
-3 extra velum testimonii in tabernaculo fœderis. Ponetque eas Aaron a vespere usque ad mane coram Domino, cultu rituque perpetuo in generationibus vestris.
+3 extra velum testimonii in tabernaculo foederis. Ponetque eas Aaron a vespere usque ad mane coram Domino, cultu rituque perpetuo in generationibus vestris.
 
 4 Super candelabrum mundissimum ponentur semper in conspectu Domini.
 
@@ -19,11 +19,11 @@ draft: false
 
 7 et pones super eos thus lucidissimum, ut sit panis in monimentum oblationis Domini.
 
-8 Per singula sabbata mutabuntur coram Domino suscepti a filiis Israel fœdere sempiterno:
+8 Per singula sabbata mutabuntur coram Domino suscepti a filiis Israel foedere sempiterno:
 
 9 eruntque Aaron et filiorum eius, ut comedant eos in loco sancto: quia Sanctum sanctorum est de sacrificiis Domini iure perpetuo.
 
-10 Ecce autem egressus filius mulieris Israelitidis, quem pepererat de viro Ægyptio inter filios Israel, iurgatus est in castris cum viro Israelita.
+10 Ecce autem egressus filius mulieris Israelitidis, quem pepererat de viro AEgyptio inter filios Israel, iurgatus est in castris cum viro Israelita.
 
 11 Cumque blasphemasset nomen, et maledixisset ei, adductus est ad Moysen. (Vocabatur autem mater eius Salumith, filia Dabri de tribu Dan.)
 
@@ -47,7 +47,7 @@ draft: false
 
 21 Qui percusserit iumentum, reddet aliud. Qui percusserit hominem, punietur.
 
-22 Æquum iudicium sit inter vos, sive peregrinus, sive civis peccaverit: quia ego sum Dominus Deus vester.
+22 AEquum iudicium sit inter vos, sive peregrinus, sive civis peccaverit: quia ego sum Dominus Deus vester.
 
-23 Locutusque est Moyses ad filios Israel: et eduxerunt eum, qui blasphemaverat, extra castra, ac lapidibus oppresserunt. Feceruntque filii Israel sicut præceperat Dominus Moysi.
+23 Locutusque est Moyses ad filios Israel: et eduxerunt eum, qui blasphemaverat, extra castra, ac lapidibus oppresserunt. Feceruntque filii Israel sicut praeceperat Dominus Moysi.
 

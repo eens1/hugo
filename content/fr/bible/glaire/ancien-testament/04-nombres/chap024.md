@@ -12,7 +12,7 @@ summary: |
 
 ***Note*** :  Nb. 24, 1 : Vers le désert, vers les plaines de Moab, où était le camp des Israélites.
 
-2 Et levant les yeux, il vit Israël dans les tentes, campé selon ses tribus : et. l'esprit de Dieu s'emparant de lui, 3 Et lui, employant sa parabole, s'écria : Il a dit, Balaam, fils de Béor; il a dit, l'homme dont l'œil fut fermé ;
+2 Et levant les yeux, il vit Israël dans les tentes, campé selon ses tribus : et. l'esprit de Dieu s'emparant de lui, 3 Et lui, employant sa parabole, s'écria : Il a dit, Balaam, fils de Béor; il a dit, l'homme dont l'oeil fut fermé ;
 
 
 4 Il a dit, celui qui entend les paroles de Dieu, qui a contemplé la vision du Tout-Puissant, qui tombe, et ainsi ses yeux sont ouverts :
@@ -37,7 +37,7 @@ summary: |
 14 Cependant, allant vers mon peuple, je donnerai un conseil sur ce que ton peuple doit faire à celui-ci dans le dernier temps.
 
 
-15 Employant donc sa parabole, il dit encore : Il a dit, Balaam, fils de Béor; il a dit, l'homme dont l'œil fut fermé;
+15 Employant donc sa parabole, il dit encore : Il a dit, Balaam, fils de Béor; il a dit, l'homme dont l'oeil fut fermé;
 
 
 16 Il a dit, celui qui entend les paroles de Dieu, qui connaît la doctrine du Très-Haut, et voit les visions du Tout-Puissant, qui, tombant, a les yeux ouverts.

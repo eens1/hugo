@@ -16,7 +16,7 @@ summary: |
 1 Celui qui veut rompre avec son ami en cherche les occasions ; mais il sera couvert d'opprobre en tout temps.
 
 
-2 L'insensé ne reçoit pas les paroles de la prudence, à moins que tu ne lui dises les choses qui se trouvent dans son cœur.
+2 L'insensé ne reçoit pas les paroles de la prudence, à moins que tu ne lui dises les choses qui se trouvent dans son coeur.
 
 
 3 L'impie, lorsqu'il est venu au fond des péchés, méprise; mais l'ignominie le suit ainsi que l'opprobre.
@@ -55,7 +55,7 @@ La crainte abat le paresseux; mais les âmes des efféminés auront faim.
 ***Note*** :  Prov. 18, 11 : Sa ville forte ; littéralement et par hébraïsme, la ville de sa force.
 
 
-12 Avant qu'il soit brisé, le cœur de l'homme est exalté; et avant d'être élevé en gloire, il est humilié.
+12 Avant qu'il soit brisé, le coeur de l'homme est exalté; et avant d'être élevé en gloire, il est humilié.
 
 
 13 Celui qui répond avant d'écouter se montre insensé et digne de confusion.
@@ -66,7 +66,7 @@ La crainte abat le paresseux; mais les âmes des efféminés auront faim.
 14 L'esprit de l'homme soutient sa faiblesse ; mais un esprit facile à se mettre en colère, qui pourra le soutenir?
 
 
-15 Le cœur prudent possédera la science ; et l'oreille des sages cherche la doctrine.
+15 Le coeur prudent possédera la science ; et l'oreille des sages cherche la doctrine.
 
 
 16 Le présent d'un homme élargit sa voie, et devant les princes lui fait faire place.
@@ -78,7 +78,7 @@ La crainte abat le paresseux; mais les âmes des efféminés auront faim.
 
 ***Note*** :  Prov. 18, 17-21 : Contre l’amour de la dispute et le mauvais usage de la langue.
 
-***Note*** :  Prov. 18, 17 : Le juste, etc. Lorsque le juste a commis une faute, il est le premier à l’avouer et à reconnaître son tort. Si son ami vient, il sonde avec lui le fond de son cœur.
+***Note*** :  Prov. 18, 17 : Le juste, etc. Lorsque le juste a commis une faute, il est le premier à l’avouer et à reconnaître son tort. Si son ami vient, il sonde avec lui le fond de son coeur.
 
 
 18 Le sort apaise les différends; et entre les puissants mêmes, il sert d'arbitre.

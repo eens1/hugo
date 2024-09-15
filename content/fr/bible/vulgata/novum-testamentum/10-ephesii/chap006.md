@@ -9,7 +9,7 @@ draft: false
 
 2 Honora patrem tuum, et matrem tuam. quod est mandatum primum in promissione:
 
-3 ut bene sit tibi, et sis longævus super terram.
+3 ut bene sit tibi, et sis longaevus super terram.
 
 4 Et vos patres nolite ad iracundiam provocare filios vestros: sed educate illos in disciplina, et correptione Domini.
 
@@ -21,19 +21,19 @@ draft: false
 
 8 scientes quoniam unusquisque quodcumque fecerit bonum, hoc recipiet a Domino, sive servus, sive liber.
 
-9 Et vos domini eadem facite illis, remittentes minas: scientes quia et illorum, et vester Dominus est in cælis: et personarum acceptio non est apud eum.
+9 Et vos domini eadem facite illis, remittentes minas: scientes quia et illorum, et vester Dominus est in caelis: et personarum acceptio non est apud eum.
 
 10 De cetero fratres confortamini in Domino, et in potentia virtutis eius.
 
 11 Induite vos armaturam Dei, ut possitis stare adversus insidias diaboli.
 
-12 quoniam non est nobis colluctatio adversus carnem et sanguinem: sed adversus principes, et potestates, adversus mundi rectores tenebrarum harum, contra spiritualia nequitiæ, in cælestibus.
+12 quoniam non est nobis colluctatio adversus carnem et sanguinem: sed adversus principes, et potestates, adversus mundi rectores tenebrarum harum, contra spiritualia nequitiae, in caelestibus.
 
 13 Propterea accipite armaturam Dei, ut possitis resistere in die malo, et in omnibus perfeci stare.
 
-14 State ergo succincti lumbos vestros in veritate, et induti loricam iustitiæ,
+14 State ergo succincti lumbos vestros in veritate, et induti loricam iustitiae,
 
-15 et calceati pedes in præparatione Evangelii pacis:
+15 et calceati pedes in praeparatione Evangelii pacis:
 
 16 in omnibus sumentes scutum fidei, in quo possitis omnia tela nequissimi ignea extinguere:
 
@@ -45,9 +45,9 @@ draft: false
 
 20 pro quo legatione fungor in catena, ita ut in ipso audeam, prout oportet me, loqui.
 
-21 Ut autem et vos sciatis quæ circa me sunt, quid agam: omnia vobis nota faciet Tychicus, charissimus frater, et fidelis minister in Domino:
+21 Ut autem et vos sciatis quae circa me sunt, quid agam: omnia vobis nota faciet Tychicus, charissimus frater, et fidelis minister in Domino:
 
-22 quem misi ad vos in hoc ipsum, ut cognoscatis quæ circa nos sunt, et consoletur corda vestra.
+22 quem misi ad vos in hoc ipsum, ut cognoscatis quae circa nos sunt, et consoletur corda vestra.
 
 23 Pax fratribus, et charitas cum fide a Deo Patre, et Domino Iesu Christo.
 

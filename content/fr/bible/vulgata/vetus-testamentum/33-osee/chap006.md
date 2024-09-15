@@ -9,7 +9,7 @@ draft: false
 
 2 quia ipse cepit, et sanabit nos: percutiet, et curabit nos.
 
-3 Vivificabit nos post duos dies: in die tertia suscitabit nos, et vivemus in conspectu eius. Sciemus, sequemurque ut cognoscamus Dominum: quasi diluculum præparatus est egressus eius, et veniet quasi imber nobis temporaneus et serotinus terræ.
+3 Vivificabit nos post duos dies: in die tertia suscitabit nos, et vivemus in conspectu eius. Sciemus, sequemurque ut cognoscamus Dominum: quasi diluculum praeparatus est egressus eius, et veniet quasi imber nobis temporaneus et serotinus terrae.
 
 4 Quid faciam tibi Ephraim? quid faciam tibi Iuda? misericordia vestra quasi nubes matutina, et quasi ros mane pertransiens.
 
@@ -17,7 +17,7 @@ draft: false
 
 6 Quia misericordiam volui, et non sacrificium, et scientiam Dei plusquam holocausta.
 
-7 Ipsi autem sicut Adam transgressi sunt pactum, ibi prævaricati sunt in me.
+7 Ipsi autem sicut Adam transgressi sunt pactum, ibi praevaricati sunt in me.
 
 8 Galaad civitas operantium idolum, supplantata sanguine.
 

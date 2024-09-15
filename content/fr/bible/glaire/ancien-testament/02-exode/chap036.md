@@ -21,7 +21,7 @@ summary: |
 3 Il leur livra tous les dons des enfants d'Israël. Pendant qu'ils s'appliquaient avec ardeur à l'ouvrage, chaque jour au matin le peuple offrait des présents votifs. 4 C'est pourquoi les ouvriers forcés de venir, 5 Dirent à Moïse : Le peuple offre plus qu'il n'est nécessaire. 6 Moïse commanda donc qu'il fût publié par la voix du hérault : Que ni homme ni femme n'offre plus rien pour l'ouvrage du sanctuaire. Et ainsi on cessa d'offrir des présents, 7 Parce que ceux qui avaient été offerts suffisaient et surabondaient.
 
 
-8 Et tous les sages de cœur pour accomplir l'ouvrage du tabernacle, dix rideaux de fin lin retors, d'hyacinthe, de pourpre, d'écarlate deux fois teinte, d'un travail varié, et selon l'art de la tissure en diverses couleurs. 9 Un des rideaux avait en longueur vingt-huit coudées, et en largeur quatre; il y avait une seule mesure pour tous les rideaux. 10 Il joignit cinq rideaux l'un à l'autre, et il attacha les cinq autres ensemble.
+8 Et tous les sages de coeur pour accomplir l'ouvrage du tabernacle, dix rideaux de fin lin retors, d'hyacinthe, de pourpre, d'écarlate deux fois teinte, d'un travail varié, et selon l'art de la tissure en diverses couleurs. 9 Un des rideaux avait en longueur vingt-huit coudées, et en largeur quatre; il y avait une seule mesure pour tous les rideaux. 10 Il joignit cinq rideaux l'un à l'autre, et il attacha les cinq autres ensemble.
 
 ***Note*** :  Ex. 36, 10 : Il joignit, etc. C’est Béséléel, nommé au verset 1, qui est le sujet de ce verbe et des suivants.
 

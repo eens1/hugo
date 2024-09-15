@@ -5,15 +5,15 @@ draft: false
 ---
 
 
-1 Psalmus David Adversus Goliath. Benedictus Dominus Deus meus, qui docet manus meas ad prælium, et digitos meos ad bellum.
+1 Psalmus David Adversus Goliath. Benedictus Dominus Deus meus, qui docet manus meas ad praelium, et digitos meos ad bellum.
 
 2 Misericordia mea, et refugium meum: susceptor meus, et liberator meus: Protector meus, et in ipso speravi: qui subdit populum meum sub me.
 
 3 Domine quid est homo, quia innotuisti ei? aut filius hominis, quia reputas eum?
 
-4 Homo vanitati similis factus est: dies eius sicut umbra prætereunt.
+4 Homo vanitati similis factus est: dies eius sicut umbra praetereunt.
 
-5 Domine inclina cælos tuos, et descende: tange montes, et fumigabunt.
+5 Domine inclina caelos tuos, et descende: tange montes, et fumigabunt.
 
 6 Fulgura coruscationem, et dissipabis eos: emitte sagittas tuas, et conturbabis eos:
 
@@ -27,11 +27,11 @@ draft: false
 
 11 eripe me. Et erue me de manu filiorum alienorum, quorum os locutum est vanitatem: et dextera eorum, dextera iniquitatis:
 
-12 Quorum filii, sicut novellæ plantationes in iuventute sua. Filiæ eorum compositæ: circumornatæ ut similitudo templi.
+12 Quorum filii, sicut novellae plantationes in iuventute sua. Filiae eorum compositae: circumornatae ut similitudo templi.
 
-13 Promptuaria eorum plena, eructantia ex hoc in illud. Oves eorum fœtosæ, abundantes in egressibus suis:
+13 Promptuaria eorum plena, eructantia ex hoc in illud. Oves eorum foetosae, abundantes in egressibus suis:
 
-14 boves eorum crassæ. Non est ruina maceriæ, neque transitus: neque clamor in plateis eorum.
+14 boves eorum crassae. Non est ruina maceriae, neque transitus: neque clamor in plateis eorum.
 
-15 Beatum dixerunt populum, cui hæc sunt: beatus populus, cuius Dominus Deus eius.
+15 Beatum dixerunt populum, cui haec sunt: beatus populus, cuius Dominus Deus eius.
 

@@ -14,7 +14,7 @@ summary: |
 
 1 Que les îles se taisent devant moi, et que les nations prennent une nouvelle force; qu'elles s'approchent, et alors qu'elles parlent, et entrons ensemble en jugement.
 
-***Note*** :  Is. 41, 1-29 : 2e discours : Dieu, maître de l’univers et de l’avenir, chapitre 41. ― A qui m’avez-vous assimilé et égalé ? avait dit Dieu dans le chapitre précédent, voir Isaïe, 40, 25. Isaïe reprend maintenant cette pensée et en fait le sujet du second discours, dans lequel, s’adressant aux païens, il leur montre que le Seigneur est le maître de l’univers et leur annonce qu’il appelle du nord-est, voir Isaïe, 41, vv. 2, 25, le conquérant, c’est-à-dire Cyrus, originaire du nord, par sa parenté avec les Mèdes, et de l’est, parce qu’il était Perse. Dieu nous apprend aussi que les exploits de Cyrus seront son œuvre et une preuve de sa supériorité infinie sur les faux dieux ; qu’ils seront la ruine des idolâtres et le salut de son propre peuple, versets 1 à 20. Ce qu’il veut accomplir, il l’annonce à l’avance, versets 21 à 24, afin que chacun sache qu’il est le souverain maître et que lui seul dispose de l’avenir, versets 25 à 29.
+***Note*** :  Is. 41, 1-29 : 2e discours : Dieu, maître de l’univers et de l’avenir, chapitre 41. ― A qui m’avez-vous assimilé et égalé ? avait dit Dieu dans le chapitre précédent, voir Isaïe, 40, 25. Isaïe reprend maintenant cette pensée et en fait le sujet du second discours, dans lequel, s’adressant aux païens, il leur montre que le Seigneur est le maître de l’univers et leur annonce qu’il appelle du nord-est, voir Isaïe, 41, vv. 2, 25, le conquérant, c’est-à-dire Cyrus, originaire du nord, par sa parenté avec les Mèdes, et de l’est, parce qu’il était Perse. Dieu nous apprend aussi que les exploits de Cyrus seront son oeuvre et une preuve de sa supériorité infinie sur les faux dieux ; qu’ils seront la ruine des idolâtres et le salut de son propre peuple, versets 1 à 20. Ce qu’il veut accomplir, il l’annonce à l’avance, versets 21 à 24, afin que chacun sache qu’il est le souverain maître et que lui seul dispose de l’avenir, versets 25 à 29.
 
 ***Note*** :  Is. 41, 1 ; 41. 5 : Les îles ; les régions lointaines. Voir Psaumes, 96, 1.
 
@@ -96,7 +96,7 @@ summary: |
 21 Plaidez sans délai votre cause, dit le Seigneur, apportez vos preuves, si par hasard vous en avez quelqu'une, dit le roi de Jacob.
 
 
-22 Qu'ils s'approchent, et qu'ils nous annoncent toutes les choses qui doivent arriver; annoncez celles qui furent les premières; et nous y appliquerons notre cœur, et nous saurons leur fin; et indiquez-nous celles qui doivent arriver.
+22 Qu'ils s'approchent, et qu'ils nous annoncent toutes les choses qui doivent arriver; annoncez celles qui furent les premières; et nous y appliquerons notre coeur, et nous saurons leur fin; et indiquez-nous celles qui doivent arriver.
 
 
 23 Annoncez-nous les choses qui doivent arriver dans l'avenir, et nous saurons que vous êtes dieux ; faites aussi du bien ou du mal, si vous le pouvez, et nous parlerons, et nous verrons ensemble.
@@ -104,7 +104,7 @@ summary: |
 ***Note*** :  Is. 41, 23 : Nous parlerons, et nous verrons ; littéralement, et par hébraïsme, que nous parlions, et que nous voyions.
 
 
-24 Voilà que vous, vous sortez de rien, et votre œuvre de ce qui n'est pas ; c'est l'abomination qui vous a choisis.
+24 Voilà que vous, vous sortez de rien, et votre oeuvre de ce qui n'est pas ; c'est l'abomination qui vous a choisis.
 
 
 25 Je l'ai suscité de l'aquilon, et il viendra du levant ; il invoquera mon nom; et il traitera les magistrats comme de la boue, et il les foulera comme le potier foule sous ses pieds l'argile.

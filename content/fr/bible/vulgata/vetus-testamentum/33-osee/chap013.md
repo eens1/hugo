@@ -9,15 +9,15 @@ draft: false
 
 2 Et nunc addiderunt ad peccandum: feceruntque sibi conflatile de argento suo quasi similitudinem idolorum, factura artificum totum est: his ipsi dicunt: Immolate homines vitulos adorantes.
 
-3 Idcirco erunt quasi nubes matutina, et sicut ros matutinus præteriens, sicut pulvis turbine raptus ex area, et sicut fumus de fumario.
+3 Idcirco erunt quasi nubes matutina, et sicut ros matutinus praeteriens, sicut pulvis turbine raptus ex area, et sicut fumus de fumario.
 
-4 Ego autem Dominus Deus tuus ex Terra Ægypti: et Deum absque me nescies, et salvator non est præter me.
+4 Ego autem Dominus Deus tuus ex Terra AEgypti: et Deum absque me nescies, et salvator non est praeter me.
 
 5 Ego cognovi te in deserto, in terra solitudinis.
 
 6 Iuxta pascua sua adimpleti sunt, et saturati sunt: et levaverunt cor suum, et obliti sunt mei.
 
-7 Et ego ero eis quasi leæna, sicut pardus in via Assyriorum.
+7 Et ego ero eis quasi leaena, sicut pardus in via Assyriorum.
 
 8 Occurram eis quasi ursa raptis catulis, et dirumpam interiora iecoris eorum: et consumam eos ibi quasi leo, bestia agri scindet eos.
 

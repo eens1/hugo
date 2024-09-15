@@ -19,12 +19,12 @@ summary: |
 
 4 Une génération passe, et une génération vient; mais la terre pour toujours reste debout.
 
-***Note*** :  Eccl. 1, 4 : Pour toujours (in æternum) ne signifie pas éternellement. L’auteur veut dire simplement que tout dans ce monde paraît, passe et disparaît, tandis que la terre est stable, et, par sa stabilité, plus à l’abri que les autres êtres de perpétuelles révolutions. Ainsi il est évident que l’auteur n’enseigne pas l’éternité du monde, comme l’ont prétendu les incrédules.
+***Note*** :  Eccl. 1, 4 : Pour toujours (in aeternum) ne signifie pas éternellement. L’auteur veut dire simplement que tout dans ce monde paraît, passe et disparaît, tandis que la terre est stable, et, par sa stabilité, plus à l’abri que les autres êtres de perpétuelles révolutions. Ainsi il est évident que l’auteur n’enseigne pas l’éternité du monde, comme l’ont prétendu les incrédules.
 
 5 Le soleil se lève et se couche, et il revient à son lieu : et là renaissant, 6 Il tourne vers le midi, et se dirige vers l'aquilon. Parcourant toutes choses en tournant, le vent avance et revient vers ses circuits.
 
 
-7 Tous les fleuves entrent dans la mer, et la mer ne déborde pas : vers le lieu d'où ils sortent, les fleuves retournent pour de nouveau couler. 8 Toutes choses sont difficiles; l'homme ne peut les expliquer par le discours. L'œil ne se rassasie pas de voir, ni l'oreille d'entendre.
+7 Tous les fleuves entrent dans la mer, et la mer ne déborde pas : vers le lieu d'où ils sortent, les fleuves retournent pour de nouveau couler. 8 Toutes choses sont difficiles; l'homme ne peut les expliquer par le discours. L'oeil ne se rassasie pas de voir, ni l'oreille d'entendre.
 
 ***Note*** :  Eccl. 1, 8 : Il n’y a pas de scepticisme dans ce verset ; nous y apprenons seulement que l’homme ne peut prétendre à approfondir et à expliquer entièrement les choses de ce monde, à cause des bornes trop étroites de son esprit.
 
@@ -40,7 +40,7 @@ summary: |
 
 ***Note*** :  Eccl. 1, 13 : Les fils de l’homme ou des hommes, se met souvent dans la Bible pour les hommes mêmes, les humains.
 
-14 J'ai vu toutes les choses qui se font sous le soleil, et voilà qu'elles sont toutes vanité et affliction d'esprit. 15 Les pervers difficilement se corrigent, et des insensés infini est le nombre. 16 J'ai parlé en mon cœur, disant : Voilà que j'ai été fait grand, et que j'ai surpassé en sagesse tous ceux qui ont été avant moi dans Jérusalem : et mon esprit a contemplé beaucoup de choses sagement, et j'ai beaucoup appris. 17 Et j'ai appliqué mon cœur pour connaître la sagesse et la doctrine, et les erreurs et la folie, et j'ai reconnu qu'en cela aussi était un travail et une affliction d'esprit ;
+14 J'ai vu toutes les choses qui se font sous le soleil, et voilà qu'elles sont toutes vanité et affliction d'esprit. 15 Les pervers difficilement se corrigent, et des insensés infini est le nombre. 16 J'ai parlé en mon coeur, disant : Voilà que j'ai été fait grand, et que j'ai surpassé en sagesse tous ceux qui ont été avant moi dans Jérusalem : et mon esprit a contemplé beaucoup de choses sagement, et j'ai beaucoup appris. 17 Et j'ai appliqué mon coeur pour connaître la sagesse et la doctrine, et les erreurs et la folie, et j'ai reconnu qu'en cela aussi était un travail et une affliction d'esprit ;
 
 ***Note*** :  Eccl. 1, 17 : La doctrine ; c’est-à-dire la science, les connaissances.
 

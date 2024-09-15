@@ -15,13 +15,13 @@ draft: false
 
 5 Elegit nobis hereditatem suam: speciem Iacob, quam dilexit.
 
-6 Ascendit Deus in iubilo: et Dominus in voce tubæ.
+6 Ascendit Deus in iubilo: et Dominus in voce tubae.
 
 7 Psallite Deo nostro, psallite: psallite Regi nostro, psallite.
 
-8 Quoniam Rex omnis terræ Deus: psallite sapienter.
+8 Quoniam Rex omnis terrae Deus: psallite sapienter.
 
 9 Regnabit Deus super gentes: Deus sedet super sedem sanctam suam.
 
-10 Principes populorum congregati sunt cum Deo Abraham: quoniam dii fortes terræ, vehementer elevati sunt.
+10 Principes populorum congregati sunt cum Deo Abraham: quoniam dii fortes terrae, vehementer elevati sunt.
 

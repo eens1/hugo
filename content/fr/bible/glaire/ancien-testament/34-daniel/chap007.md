@@ -28,7 +28,7 @@ du perse deux empires successifs ; à leurs yeux les dix cornes sont dix rois de
 
 ***Note*** :  Dn. 7, 3 : Quatre grandes bêtes ; c’est-à-dire quatre grands empires (voir verset 17), dont probablement le premier est l’empire des Chaldéens ; le second celui des Mèdes et des Perses ; le troisième, celui des Grecs ; le quatrième, celui des Romains.
 
-4 La première était comme une lionne, et elle avait des ailes d'aigle ; je la regardais jusqu'à ce que ses ailes furent arrachées et qu'elle fut élevée de terre; et elle se tint sur ses pieds comme un homme; et un cœur d'homme lui fut donné. 5 Et voici qu'une autre bête semblable à un ours, se tint à côté ; et il y avait trois rangs dans sa gueule et dans ses dents, et on lui disait ainsi : Lève-toi, mange beaucoup de chairs. 6 Après cela je regardais, et voici une autre bête comme un léopard, et elle avait quatre ailes d'oiseau au-dessus d'elle; et cette bête avait quatre têtes, et la puissance lui fut donnée.
+4 La première était comme une lionne, et elle avait des ailes d'aigle ; je la regardais jusqu'à ce que ses ailes furent arrachées et qu'elle fut élevée de terre; et elle se tint sur ses pieds comme un homme; et un coeur d'homme lui fut donné. 5 Et voici qu'une autre bête semblable à un ours, se tint à côté ; et il y avait trois rangs dans sa gueule et dans ses dents, et on lui disait ainsi : Lève-toi, mange beaucoup de chairs. 6 Après cela je regardais, et voici une autre bête comme un léopard, et elle avait quatre ailes d'oiseau au-dessus d'elle; et cette bête avait quatre têtes, et la puissance lui fut donnée.
 
 ***Note*** :  Dn. 7, 6 : Ces quatre ailes et ces quatre têtes représentent probablement les quatre princes qui, après la mort d’Alexandre, se partagèrent son royaume. Comparer à Daniel, 8, vv. 8, 22.
 
@@ -89,7 +89,7 @@ du perse deux empires successifs ; à leurs yeux les dix cornes sont dix rois de
 ***Note*** :  Dn. 7, 27 : Cette partie de la prophétie ne saurait s’expliquer de l’empire que Dieu donna aux Machabées, et aux princes leurs successeurs ; car leur puissance ne fut ni assez absolue ni assez étendue pour vérifier de si grandes et de si magnifiques promesses. Il n’y a que l’empire de Jésus-Christ et de son Eglise en qui l’on trouve l’accomplissement réel et véritable.
 
 
-28 Ici est la fin de la parole. Moi, Daniel, jetais beaucoup troublé par mes pensées, et ma face changea en moi ; mais la parole, je la conservai dans mon cœur.
+28 Ici est la fin de la parole. Moi, Daniel, jetais beaucoup troublé par mes pensées, et ma face changea en moi ; mais la parole, je la conservai dans mon coeur.
 
 ***Note*** :  Dn. 7, 28 : De la parole ; du discours de l’ange.
 

@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Unde fratres sancti, vocationis cælestis participes, considerate Apostolum, et pontificem confessionis nostræ Iesum:
+1 Unde fratres sancti, vocationis caelestis participes, considerate Apostolum, et pontificem confessionis nostrae Iesum:
 
 2 qui fidelis est ei, qui fecit illum sicut et Moyses in omni domo eius.
 
-3 Amplioris enim gloriæ iste præ Moyse dignus est habitus, quanto ampliorem honorem habet domus, qui fabricavit illam.
+3 Amplioris enim gloriae iste prae Moyse dignus est habitus, quanto ampliorem honorem habet domus, qui fabricavit illam.
 
 4 Omnis namque domus fabricatur ab aliquo: qui autem omnia creavit, Deus est.
 
-5 Et Moyses quidem fidelis erat in tota domo eius tamquam famulus, in testimonium eorum, quæ dicenda erant:
+5 Et Moyses quidem fidelis erat in tota domo eius tamquam famulus, in testimonium eorum, quae dicenda erant:
 
-6 Christus vero tamquam filius in domo sua: quæ domus sumus nos, si fiduciam, et gloriam spei usque ad finem, firmam retineamus.
+6 Christus vero tamquam filius in domo sua: quae domus sumus nos, si fiduciam, et gloriam spei usque ad finem, firmam retineamus.
 
 7 Quapropter sicut dicit Spiritus sanctus: Hodie si vocem eius audieritis,
 
@@ -31,11 +31,11 @@ draft: false
 
 13 sed adhortamini vosmetipsos per singulos dies, donec Hodie cognominatur, ut non obduretur quis ex vobis fallacia peccati.
 
-14 Participes enim Christi effecti sumus: si tamen initium substantiæ eius usque ad finem firmum retineamus.
+14 Participes enim Christi effecti sumus: si tamen initium substantiae eius usque ad finem firmum retineamus.
 
 15 Dum dicitur: Hodie si vocem eius audieritis, nolite obdurare corda vestra, quemadmodum in illa exacerbatione.
 
-16 Quidam enim audientes exacerbaverunt: sed non universi qui profecti sunt ex Ægypto per Moysen.
+16 Quidam enim audientes exacerbaverunt: sed non universi qui profecti sunt ex AEgypto per Moysen.
 
 17 Quibus autem infensus est quadraginta annis? Nonne illis, qui peccaverunt, quorum cadavera prostrata sunt in deserto?
 

@@ -5,21 +5,21 @@ draft: false
 ---
 
 
-1 Occasiones quærit qui vult recedere ab amico: omni tempore erit exprobrabilis.
+1 Occasiones quaerit qui vult recedere ab amico: omni tempore erit exprobrabilis.
 
-2 Non recipit stultus verba prudentiæ: nisi ea dixeris quæ versantur in corde eius.
+2 Non recipit stultus verba prudentiae: nisi ea dixeris quae versantur in corde eius.
 
 3 Impius, cum in profundum venerit peccatorum, contemnit: sed sequitur eum ignominia et opprobrium.
 
-4 Aqua profunda verba ex ore viri: et torrens redundans fons sapientiæ.
+4 Aqua profunda verba ex ore viri: et torrens redundans fons sapientiae.
 
 5 Accipere personam impii non est bonum, ut declines a veritate iudicii.
 
 6 Labia stulti miscent se rixis: et os eius iurgia provocat.
 
-7 Os stulti contritio eius: et labia ipsius, ruina animæ eius.
+7 Os stulti contritio eius: et labia ipsius, ruina animae eius.
 
-8 Verba bilinguis, quasi simplicia: et ipsa perveniunt usque ad interiora ventris. Pigrum deiicit timor: animæ autem effeminatorum esurient.
+8 Verba bilinguis, quasi simplicia: et ipsa perveniunt usque ad interiora ventris. Pigrum deiicit timor: animae autem effeminatorum esurient.
 
 9 Qui mollis et dissolutus est in opere suo, frater est sua opera dissipantis.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 Spiritus viri sustentat imbecillitatem suam: spiritum vero ad irascendum facilem quis poterit sustinere?
 
-15 Cor prudens possidebit scientiam: et auris sapientium quærit doctrinam.
+15 Cor prudens possidebit scientiam: et auris sapientium quaerit doctrinam.
 
 16 Donum hominis dilatat viam eius, et ante principes spatium ei facit.
 
@@ -45,7 +45,7 @@ draft: false
 
 20 De fructu oris viri replebitur venter eius: et genimina labiorum ipsius saturabunt eum.
 
-21 Mors, et vita in manu linguæ: qui diligunt eam, comedent fructus eius.
+21 Mors, et vita in manu linguae: qui diligunt eam, comedent fructus eius.
 
 22 Qui invenit mulierem bonam, invenit bonum: et hauriet iucunditatem a Domino. Qui expellit mulierem bonam, expellit bonum: qui autem tenet adulteram, stultus est et impius.
 

@@ -33,7 +33,7 @@ summary: |
 
 ***Note*** :  Ex. 4, 12 : Voir Matthieu, 10, 20.
 
-13 Mais lui : Je vous conjure, Seigneur, dit-il, envoyez celui que vous devez envoyer. 14 Le Seigneur, irrité contre Moïse, dit : Je sais qu'Aaron ton frère, le Lévite, parle avec facilité ; voilà qu'il sort lui-même au devant de toi, et te voyant, il se réjouira en son cœur. 15 Parle-lui, et mets mes paroles en sa bouche : et moi, je serai en ta bouche et en sa bouche, et je vous montrerai ce que vous devez faire.
+13 Mais lui : Je vous conjure, Seigneur, dit-il, envoyez celui que vous devez envoyer. 14 Le Seigneur, irrité contre Moïse, dit : Je sais qu'Aaron ton frère, le Lévite, parle avec facilité ; voilà qu'il sort lui-même au devant de toi, et te voyant, il se réjouira en son coeur. 15 Parle-lui, et mets mes paroles en sa bouche : et moi, je serai en ta bouche et en sa bouche, et je vous montrerai ce que vous devez faire.
 
 ***Note*** :  Ex. 4, 15 : Voir Exode, 7, 2.
 
@@ -43,7 +43,7 @@ summary: |
 18 Moïse s'en alla, et retourna vers Jéthro, son beau-père, et lui dit : Je m'en irai et je retournerai vers mes frères en Egypte, pour que je voie s'ils vivent encore. Jéthro lui dit : Va en paix.
 
 
-19 Ainsi le Seigneur dit à Moïse à Madian : Va, et retourne en Egypte; car ils sont morts tous ceux qui cherchaient ton âme. 20 Moïse prit donc sa femme et ses fils, les mit sur l'âne et retourna en Egypte, portant la verge de Dieu en sa main. 21 Et le Seigneur lui dit pendant qu'il retournait en Egypte : Aie soin de faire devant Pharaon tous les prodiges que j'ai mis en ta main; moi, j'endurcirai son cœur, et il ne laissera pas aller le peuple.
+19 Ainsi le Seigneur dit à Moïse à Madian : Va, et retourne en Egypte; car ils sont morts tous ceux qui cherchaient ton âme. 20 Moïse prit donc sa femme et ses fils, les mit sur l'âne et retourna en Egypte, portant la verge de Dieu en sa main. 21 Et le Seigneur lui dit pendant qu'il retournait en Egypte : Aie soin de faire devant Pharaon tous les prodiges que j'ai mis en ta main; moi, j'endurcirai son coeur, et il ne laissera pas aller le peuple.
 
 ***Note*** :  Ex. 4, 21 : L’Ecriture dit souvent que Dieu fait ce qu’il permet seulement. C’est donc en ce sens qu’il faut entendre ce qui est dit ici de l’endurcissement de Pharaon, et un grand nombre de passages de la Bible, où nous trouvons la même locution.
 

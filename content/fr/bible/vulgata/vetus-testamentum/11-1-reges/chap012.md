@@ -7,7 +7,7 @@ draft: false
 
 1 Venit autem Roboam in Sichem: illuc enim congregatus erat omnis Israel ad constituendum eum regem.
 
-2 At vero Ieroboam filius Nabat, cum adhuc esset in Ægypto profugus a facie regis Salomonis, audita morte eius, reversus est de Ægypto.
+2 At vero Ieroboam filius Nabat, cum adhuc esset in AEgypto profugus a facie regis Salomonis, audita morte eius, reversus est de AEgypto.
 
 3 Miseruntque et vocaverunt eum: venit ergo Ieroboam, et omnis multitudo Israel, et locuti sunt ad Roboam, dicentes:
 
@@ -25,25 +25,25 @@ draft: false
 
 10 Et dixerunt ei iuvenes qui nutriti fuerant cum eo: Sic loqueris populo huic, qui locuti sunt ad te, dicentes: Pater tuus aggravavit iugum nostrum, tu releva nos. Sic loqueris ad eos: Minimus digitus meus grossior est dorso patris mei.
 
-11 Et nunc pater meus posuit super vos iugum grave, ego autem addam super iugum vestrum: pater meus cecidit vos flagellis, ego autem cædam vos scorpionibus
+11 Et nunc pater meus posuit super vos iugum grave, ego autem addam super iugum vestrum: pater meus cecidit vos flagellis, ego autem caedam vos scorpionibus
 
 12 Venit ergo Ieroboam, et omnis populus ad Roboam die tertia, sicut locutus fuerat rex, dicens: Revertimini ad me die tertia.
 
 13 Responditque rex populo dura, derelicto consilio seniorum, quod ei dederant,
 
-14 et locutus est eis secundum consilium iuvenum, dicens: Pater meus aggravavit iugum vestrum, ego autem addam iugo vestro: pater meus cecidit vos flagellis, ego autem cædam vos scorpionibus.
+14 et locutus est eis secundum consilium iuvenum, dicens: Pater meus aggravavit iugum vestrum, ego autem addam iugo vestro: pater meus cecidit vos flagellis, ego autem caedam vos scorpionibus.
 
-15 Et non acquievit rex populo: quoniam aversatus fuerat eum Dominus, ut suscitaret verbum suum, quod locutus fuerat in manu Ahiæ Silonitæ, ad Ieroboam filium Nabat.
+15 Et non acquievit rex populo: quoniam aversatus fuerat eum Dominus, ut suscitaret verbum suum, quod locutus fuerat in manu Ahiae Silonitae, ad Ieroboam filium Nabat.
 
-16 Videns itaque populus quod noluisset eos audire rex, respondit ei dicens: Quæ nobis pars in David? vel quæ hereditas in filio Isai? Vade in tabernacula tua Israel, nunc vide domum tuam David. Et abiit Israel in tabernacula sua.
+16 Videns itaque populus quod noluisset eos audire rex, respondit ei dicens: Quae nobis pars in David? vel quae hereditas in filio Isai? Vade in tabernacula tua Israel, nunc vide domum tuam David. Et abiit Israel in tabernacula sua.
 
 17 Super filios autem Israel, quicumque habitabant in civitatibus Iuda, regnavit Roboam.
 
 18 Misit ergo rex Roboam Aduram, qui erat super tributa: et lapidavit eum omnis Israel, et mortuus est. Porro rex Roboam festinus ascendit currum, et fugit in Ierusalem:
 
-19 recessitque Israel a domo David, usque in præsentem diem.
+19 recessitque Israel a domo David, usque in praesentem diem.
 
-20 Factum est autem cum audisset omnis Israel, quod reversus esset Ieroboam, miserunt, et vocaverunt eum congregato cœtu, et constituerunt eum regem super omnem Israel, nec secutus est quisquam domum David præter tribum Iuda solam.
+20 Factum est autem cum audisset omnis Israel, quod reversus esset Ieroboam, miserunt, et vocaverunt eum congregato coetu, et constituerunt eum regem super omnem Israel, nec secutus est quisquam domum David praeter tribum Iuda solam.
 
 21 Venit autem Roboam Ierusalem, et congregavit universam domum Iuda, et tribum Beniamin, centum octoginta millia electorum virorum bellatorum, ut pugnarent contra domum Israel, et reducerent regnum Roboam filio Salomonis.
 
@@ -51,15 +51,15 @@ draft: false
 
 23 Loquere ad Roboam filium Salomonis regem Iuda, et ad omnem domum Iuda, et Beniamin, et reliquos de populo, dicens:
 
-24 Hæc dicit Dominus: Non ascendetis, neque bellabitis contra fratres vestros filios Israel: revertatur vir in domum suam, a me enim factum est verbum hoc. Audierunt sermonem Domini, et reversi sunt de itinere sicut eis præceperat Dominus.
+24 Haec dicit Dominus: Non ascendetis, neque bellabitis contra fratres vestros filios Israel: revertatur vir in domum suam, a me enim factum est verbum hoc. Audierunt sermonem Domini, et reversi sunt de itinere sicut eis praeceperat Dominus.
 
-25 Ædificavit autem Ieroboam Sichem in monte Ephraim, et habitavit ibi: et egressus inde ædificavit Phanuel.
+25 AEdificavit autem Ieroboam Sichem in monte Ephraim, et habitavit ibi: et egressus inde aedificavit Phanuel.
 
 26 Dixitque Ieroboam in corde suo: Nunc revertetur regnum ad domum David,
 
 27 si ascenderit populus iste ut faciat sacrificia in domo Domini in Ierusalem: et convertetur cor populi huius ad dominum suum Roboam regem Iuda, interficientque me, et revertentur ad eum.
 
-28 Et excogitato consilio fecit duos vitulos aureos, et dixit eis: Nolite ultra ascendere in Ierusalem: Ecce dii tui Israel, qui te eduxerunt de Terra Ægypti.
+28 Et excogitato consilio fecit duos vitulos aureos, et dixit eis: Nolite ultra ascendere in Ierusalem: Ecce dii tui Israel, qui te eduxerunt de Terra AEgypti.
 
 29 Posuitque unum in Bethel, et alterum in Dan:
 
@@ -67,7 +67,7 @@ draft: false
 
 31 Et fecit fana in excelsis, et sacerdotes de extremis populi, qui non erant de filiis Levi.
 
-32 Constituitque diem sollemnem in mense octavo, quintadecima die mensis, in similitudinem sollemnitatis, quæ celebrabatur in Iuda. Et ascendens altare, similiter fecit in Bethel, ut immolaret vitulis, quos fabricatus fuerat: constituitque in Bethel sacerdotes excelsorum, quæ fecerat.
+32 Constituitque diem sollemnem in mense octavo, quintadecima die mensis, in similitudinem sollemnitatis, quae celebrabatur in Iuda. Et ascendens altare, similiter fecit in Bethel, ut immolaret vitulis, quos fabricatus fuerat: constituitque in Bethel sacerdotes excelsorum, quae fecerat.
 
 33 Et ascendit super altare quod extruxerat in Bethel, quintadecima die mensis octavi, quem finxerat de corde suo: et fecit sollemnitatem filiis Israel, et ascendit super altare, ut adoleret incensum.
 

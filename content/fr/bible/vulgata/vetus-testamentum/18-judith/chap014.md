@@ -15,7 +15,7 @@ draft: false
 
 5 Cumque cognoveritis fugere eos, ite post illos securi, quoniam Dominus conteret eos sub pedibus vestris.
 
-6 Tunc Achior videns virtutem, quam fecit Deus Israel, relicto gentilitatis ritu, credidit Deo, et circumcidit carnem præputii sui, et appositus est ad populum Israel, et omnis successio generis eius usque in hodiernum diem.
+6 Tunc Achior videns virtutem, quam fecit Deus Israel, relicto gentilitatis ritu, credidit Deo, et circumcidit carnem praeputii sui, et appositus est ad populum Israel, et omnis successio generis eius usque in hodiernum diem.
 
 7 Mox autem ut ortus est dies, suspenderunt super muros caput Holofernis, accepitque unusquisque vir arma sua, et egressi sunt cum grandi strepitu et ululatu.
 
@@ -27,7 +27,7 @@ draft: false
 
 11 Sed cum venissent eius duces ac tribuni, et universi maiores exercitus regis Assyriorum, dixerunt cubiculariis:
 
-12 Intrate, et excitate illum, quoniam egressi mures de cavernis suis, ausi sunt provocare nos ad prælium.
+12 Intrate, et excitate illum, quoniam egressi mures de cavernis suis, ausi sunt provocare nos ad praelium.
 
 13 Tunc ingressus Vagao cubiculum eius, stetit ante cortinam, et plausum fecit manibus suis: suspicabatur enim illum cum Iudith dormire.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 Et ingressus tabernaculum Iudith, non invenit eam, et exiliit foras ad populum,
 
-16 et dixit: Una mulier Hebræa fecit confusionem in domo regis Nabuchodonosor: ecce enim Holofernes iacet in terra, et caput eius non est in illo.
+16 et dixit: Una mulier Hebraea fecit confusionem in domo regis Nabuchodonosor: ecce enim Holofernes iacet in terra, et caput eius non est in illo.
 
 17 Quod cum audissent principes virtutis Assyriorum, sciderunt omnes vestimenta sua, et intolerabilis timor et tremor cecidit super eos, et turbati sunt animi eorum valde.
 

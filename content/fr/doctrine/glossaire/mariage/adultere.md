@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-> *Proverbes 7:32* : "Mais celui qui est adultère, à cause de son manque de cœur, perdra son âme." [^1]
+> *Proverbes 7:32* : "Mais celui qui est adultère, à cause de son manque de coeur, perdra son âme." [^1]
 
 [^1]: Glaire 1905, p. 1315.
 

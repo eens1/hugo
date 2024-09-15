@@ -7,7 +7,7 @@ draft: false
 
 1 In finem, Psalmus David, pro extasi.
 
-2 In te Domine speravi non confundar in æternum: in iustitia tua libera me.
+2 In te Domine speravi non confundar in aeternum: in iustitia tua libera me.
 
 3 Inclina ad me aurem tuam, accelera ut eruas me. Esto mihi in Deum protectorem: et in domum refugii, ut salvum me facias.
 
@@ -19,7 +19,7 @@ draft: false
 
 7 Odisti observantes vanitates, supervacue. Ego autem in Domino speravi:
 
-8 exultabo, et lætabor in misericordia tua. Quoniam respexisti humilitatem meam, salvasti de necessitatibus animam meam.
+8 exultabo, et laetabor in misericordia tua. Quoniam respexisti humilitatem meam, salvasti de necessitatibus animam meam.
 
 9 Nec conclusisti me in manibus inimici: statuisti in loco spatioso pedes meos.
 
@@ -35,21 +35,21 @@ draft: false
 
 15 Ego autem in te speravi Domine: dixi: Deus meus es tu:
 
-16 in manibus tuis sortes meæ. Eripe me de manu inimicorum meorum, et a persequentibus me.
+16 in manibus tuis sortes meae. Eripe me de manu inimicorum meorum, et a persequentibus me.
 
 17 Illustra faciem tuam super servum tuum, salvum me fac in misericordia tua:
 
 18 Domine non confundar, quoniam invocavi te. Erubescant impii, et deducantur in infernum:
 
-19 muta fiant labia dolosa. Quæ loquuntur adversus iustum iniquitatem, in superbia, et in abusione.
+19 muta fiant labia dolosa. Quae loquuntur adversus iustum iniquitatem, in superbia, et in abusione.
 
-20 Quam magna multitudo dulcedinis tuæ Domine, quam abscondisti timentibus te. Perfecisti eis, qui sperant in te, in conspectu filiorum hominum.
+20 Quam magna multitudo dulcedinis tuae Domine, quam abscondisti timentibus te. Perfecisti eis, qui sperant in te, in conspectu filiorum hominum.
 
-21 Abscondes eos in abscondito faciei tuæ a conturbatione hominum. Proteges eos in tabernaculo tuo a contradictione linguarum.
+21 Abscondes eos in abscondito faciei tuae a conturbatione hominum. Proteges eos in tabernaculo tuo a contradictione linguarum.
 
 22 Benedictus Dominus: quoniam mirificavit misericordiam suam mihi in civitate munita.
 
-23 Ego autem dixi in excessu mentis meæ: Proiectus sum a facie oculorum tuorum. Ideo exaudisti vocem orationis meæ, dum clamarem ad te.
+23 Ego autem dixi in excessu mentis meae: Proiectus sum a facie oculorum tuorum. Ideo exaudisti vocem orationis meae, dum clamarem ad te.
 
 24 Diligite Dominum omnes sancti eius: quoniam veritatem requiret Dominus, et retribuet abundanter facientibus superbiam.
 

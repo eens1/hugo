@@ -15,7 +15,7 @@ summary: |
 ***Note*** :  Ps. 64, 1 : De Jérémie et d’Ezéchiel. Cette addition faite par la Vulgate signifie sans doute que Jérémie et Ezéchiel firent chanter ce psaume de David à leurs frères. Ce psaume est un chant de victoire, mais il est impossible de déterminer exactement à quelle occasion il fut composé. ― Il est remarquable par son mouvement lyrique et par la vivacité des couleurs ; quoique quelques-unes de ses tournures soient hardies, il est généralement clair.
 
 
-2 A vous, ô Dieu, convient un hymne en Sion; et à vous sera rendu un vœu dans Jérusalem. 3 Exaucez ma prière : vers vous, toute chair viendra. 4 Des paroles d'hommes iniques ont prévalu sur nous; mais vous, vous pardonnerez nos iniquités. 5 Bienheureux celui que vous avez choisi et pris à votre service: il habitera dans vos parvis. Nous serons remplis des biens de votre maison : votre temple est saint,
+2 A vous, ô Dieu, convient un hymne en Sion; et à vous sera rendu un voeu dans Jérusalem. 3 Exaucez ma prière : vers vous, toute chair viendra. 4 Des paroles d'hommes iniques ont prévalu sur nous; mais vous, vous pardonnerez nos iniquités. 5 Bienheureux celui que vous avez choisi et pris à votre service: il habitera dans vos parvis. Nous serons remplis des biens de votre maison : votre temple est saint,
 
 
 6 Admirable par l'équité qui y règne. Exaucez-nous, ô Dieu, notre salut, l'espérance de toutes les extrémités de la terre, et sur la mer, au loin.
@@ -31,7 +31,7 @@ summary: |
 
 10 Vous avez visité la terre, et vous l'avez enivrée : vous avez multiplié ses richesses. Le fleuve de Dieu a été rempli d'eaux, vous avez par là préparé la nourriture des hommes; car c'est ainsi qu'est la préparation de la terre.
 
-***Note*** :  Ps. 64, 10 : Vous l’avez enivrée ; c’est-à-dire arrosée de pluies abondantes. ― Le fleuve de Dieu, ou le fleuve par excellence, le Jourdain, selon les uns ; ou les grands fleuves en général, selon les autres ; le singulier, dans le style biblique, se mettant souvent pour le pluriel. ― Des hommes ; littéralement d’eux (illorum), c’est-à-dire des habitants de la terre, nommés au verset précédent. ― La préparation de la terre ; littéralement sa préparation (præparatio ejus) ; or, le pronom représente certainement ici le mot terre, exprimé au verset précédent. Le sens de cette dernière phrase est donc : Car c’est ainsi que vous préparez la terre pour la nourriture de ses habitants.
+***Note*** :  Ps. 64, 10 : Vous l’avez enivrée ; c’est-à-dire arrosée de pluies abondantes. ― Le fleuve de Dieu, ou le fleuve par excellence, le Jourdain, selon les uns ; ou les grands fleuves en général, selon les autres ; le singulier, dans le style biblique, se mettant souvent pour le pluriel. ― Des hommes ; littéralement d’eux (illorum), c’est-à-dire des habitants de la terre, nommés au verset précédent. ― La préparation de la terre ; littéralement sa préparation (praeparatio ejus) ; or, le pronom représente certainement ici le mot terre, exprimé au verset précédent. Le sens de cette dernière phrase est donc : Car c’est ainsi que vous préparez la terre pour la nourriture de ses habitants.
 
 ***Note*** :  Ps. 64, 10-14 : Dieu féconde la terre et nous nourrit.
 

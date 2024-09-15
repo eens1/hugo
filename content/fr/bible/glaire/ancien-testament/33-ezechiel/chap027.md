@@ -40,7 +40,7 @@ summary: |
 
 10 Les Perses, et les Lydiens, et les Lybiens étaient dans ton armée, tes hommes de guerre ; ils ont suspendu chez toi la cuirasse et le bouclier pour ton ornement. 11 Les fils d'Arad, et ton armée, étaient sur tes murs tout autour; et aussi les Pygmées qui étaient sur tes tours ont suspendu leurs carquois à tes murs tout autour; ils ont mis eux-mêmes le comble à ta beauté.
 
-***Note*** :  Éz. 27, 11 : Pygmées (Pygmæi) ; signifie, en grec, combattants, comme l’a remarqué saint Jérôme. ― Le mot rendu par Pygmées est dans l’original gammadim, qui signifie braves ; il désigne les troupes indigènes de Phénicie.
+***Note*** :  Éz. 27, 11 : Pygmées (Pygmaei) ; signifie, en grec, combattants, comme l’a remarqué saint Jérôme. ― Le mot rendu par Pygmées est dans l’original gammadim, qui signifie braves ; il désigne les troupes indigènes de Phénicie.
 
 12 Les Carthaginois qui négociaient avec toi par l'abondance de toutes les richesses, ont rempli tes foires d'argent, de fer, d'étain, et de plomb.
 

@@ -44,7 +44,7 @@ summary: |
 ***Note*** :  Ps. 15, 8 : Voir Actes des Apôtres, 2, 25. ― Je voyais, etc. L’apôtre saint Pierre nous apprend que David avait en vue Jésus-Christ, par ces paroles (voir Actes des Apôtres, 2, verset 25 et suivants). D’un autre côté, les Pères de l’Eglise lui en font aussi l’application, en disant que le Sauveur, dans tous les moments de sa vie et de sa Passion, n’a jamais perdu de vue Dieu son Père. Le reste de ce verset et les versets suivants s’appliquent à Jésus-Christ. Voir encore Actes des Apôtres, 13, 35.
 
 
-9 C'est pourquoi mon cœur s'est réjoui et ma langue a tressailli, et même ma chair reposera dans l'espérance.
+9 C'est pourquoi mon coeur s'est réjoui et ma langue a tressailli, et même ma chair reposera dans l'espérance.
 
 ***Note*** :  Ps. 15, 9-11 : Joie du Psalmiste à cause des bienfaits qu’il a reçus et il recevra de Dieu.
 

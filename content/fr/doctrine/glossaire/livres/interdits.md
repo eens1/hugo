@@ -83,7 +83,7 @@ draft: false
 
 >> 2^o Tout livre soutenant l'hérésie ou le schisme ou cherchant à ruiner de quelque manière que ce soit les bases de la religion, c. 1399, n.  2.
 
->> 3° Tout livre attaquant, à l'occasion, la religion ou les bonnes mœurs, c. 1399, n. 3.
+>> 3° Tout livre attaquant, à l'occasion, la religion ou les bonnes moeurs, c. 1399, n. 3.
 
 >> 4^o Le livre de n'importe quel catholique [*acatholicorum*, donc plutôt non-catholique ou acatholique], traitant de la religion *ex professo*, à moins qu'il ne soit constaté qu'il ne contient rien contre la foi catholique, c. 1399, n. 4.
 

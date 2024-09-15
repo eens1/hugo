@@ -40,7 +40,7 @@ summary: |
 ***Note*** :  Jr. 48, 7 : Chamos ; était la principale divinité des Moabites.
 
 
-8 Et viendra un spoliateur dans toutes les villes, et nulle ville ne sera sauvée; et les vallées périront, et les campagnes seront ravagées, parce que l'a dit le Seigneur. 9 Donnez une fleur à Moab, parce qu'elle sortira florissante, et ses cités seront désertes et inhabitables. 10 Maudit celui qui fait l'œuvre du Seigneur frauduleusement; et maudit celui qui empêche son glaive de verser le sang.
+8 Et viendra un spoliateur dans toutes les villes, et nulle ville ne sera sauvée; et les vallées périront, et les campagnes seront ravagées, parce que l'a dit le Seigneur. 9 Donnez une fleur à Moab, parce qu'elle sortira florissante, et ses cités seront désertes et inhabitables. 10 Maudit celui qui fait l'oeuvre du Seigneur frauduleusement; et maudit celui qui empêche son glaive de verser le sang.
 
 
 11 Moab dès sa jeunesse a été fertile, et il s'est reposé sur sa lie ; il n'a pas été versé d'un vase dans un autre vase, et il n'a pas émigré ; c'est pour cela que son goût lui est toujours demeuré, et que son parfum n'est point changé.
@@ -102,7 +102,7 @@ summary: |
 ***Note*** :  Jr. 48, 28 : Habitez dans la pierre ; dans les cavernes qui sont nombreuses dans le pays de Moab comme en Palestine et où l’on cherchait un refuge en temps de guerre.
 
 
-29 Nous avons appris l'orgueil de Moab (il est superbe à l'excès), sa hauteur et son arrogance, et son orgueil, et la fierté de son cœur.
+29 Nous avons appris l'orgueil de Moab (il est superbe à l'excès), sa hauteur et son arrogance, et son orgueil, et la fierté de son coeur.
 
 ***Note*** :  Jr. 48, 29 : Voir Isaïe, 16, 6.
 
@@ -130,7 +130,7 @@ summary: |
 35 Et j'ôterai de Moab, dit le Seigneur, et celui qui fait des oblations sur les hauteurs, et celui qui sacrifie à ses dieux.
 
 
-36 C'est pour cela que mon cœur sur Moab retentira comme une flûte; et mon cœur sur les hommes de mur de briques donnera un son de flûte; parce qu'il a fait plus qu'il ne pouvait, c'est pour cela qu'ils ont péri.
+36 C'est pour cela que mon coeur sur Moab retentira comme une flûte; et mon coeur sur les hommes de mur de briques donnera un son de flûte; parce qu'il a fait plus qu'il ne pouvait, c'est pour cela qu'ils ont péri.
 
 ***Note*** :  Jr. 48, 36 : Un son de flûte. Chez les Hébreux, comme chez d’autres peuples de l’antiquité, on jouait de la flûte aux funérailles et dans le deuil aussi bien que dans les fêtes et les réjouissances. ― Hommes. Voir le verset 31. ― Parce qu’il a fait, etc. ; c’est-à-dire parce que dans son orgueil et sa présomption, Moab a entrepris une chose très périlleuse pour lui, en s’opposant aux Chaldéens et en voulant mesurer ses forces avec ces vainqueurs de l’Asie.
 
@@ -154,7 +154,7 @@ summary: |
 
 ***Note*** :  Jr. 48, 40 : Il volera, il étendra ; c’est-à-dire l’ennemi, Nabuchodonosor.
 
-41 Carioth a été prise, les fortifications ont été emportées ; et le cœur des forts de Moab sera en ce jour-là comme le cœur d'une femme en travail.
+41 Carioth a été prise, les fortifications ont été emportées ; et le coeur des forts de Moab sera en ce jour-là comme le coeur d'une femme en travail.
 
 ***Note*** :  Jr. 48, 41 : Carioth. Voir le verset 24.
 

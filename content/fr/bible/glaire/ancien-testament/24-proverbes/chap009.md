@@ -59,9 +59,9 @@ summary: |
 
 ***Note*** :  Prov. 9, 15 : Afin d’appeler elle-même. La Folie est toujours inférieure à la Sagesse. Celle-ci faisait inviter à son banquet par ses servantes, voir Proverbes, 9, 3 ; la Folie doit faire les invitations elle-même.
 
-16 Que celui qui est tout petit se détourne et vienne vers moi. Et elle a dit à un jeune homme sans cœur :
+16 Que celui qui est tout petit se détourne et vienne vers moi. Et elle a dit à un jeune homme sans coeur :
 
-***Note*** :  Prov. 9, 16 : A un jeune homme sans cœur (vecordi). Voir Proverbes, 7, 7. ― Ce verset est la répétition du verset 4, mais la Folie le répète dans un sens ironique, appelant petit ou simple celui qui suit les voies de la Sagesse.
+***Note*** :  Prov. 9, 16 : A un jeune homme sans coeur (vecordi). Voir Proverbes, 7, 7. ― Ce verset est la répétition du verset 4, mais la Folie le répète dans un sens ironique, appelant petit ou simple celui qui suit les voies de la Sagesse.
 
 17 Des eaux dérobées sont plus douces, et un pain caché est plus suave.
 

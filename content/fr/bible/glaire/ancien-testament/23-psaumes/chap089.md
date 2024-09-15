@@ -53,14 +53,14 @@ summary: |
 ***Note*** :  Ps. 89, 10 : Voir Ecclésiastique, 17, 8. ― En elles-mêmes ; ordinairement ; si aucune maladie ou tout autre accident extraordinaire ne vient en abréger le cours. ― Mais survient, etc. ; c’est-à-dire notre vie ne va pas ordinairement au-delà de quatre-vingts ans, parce que votre douce miséricorde vient, en nous enlevant de ce monde, nous délivrer des infirmités et des autres misères, qui, dans un âge plus avancé, font de la vie une mort continuelle.
 
 
-11 Qui connaît la puissance de votre colère, et peut, à cause de la crainte qu'il a de vous, les effets de votre colère12 Enumérer? Faites ainsi connaître votre droite, et ceux qui sont instruits de cœur dans la sagesse.
+11 Qui connaît la puissance de votre colère, et peut, à cause de la crainte qu'il a de vous, les effets de votre colère12 Enumérer? Faites ainsi connaître votre droite, et ceux qui sont instruits de coeur dans la sagesse.
 
 ***Note*** :  Ps. 89, 12 : Ce verset commence, pour le sens, à Faites, etc. ― Enumérer est la conclusion de la phrase du verset précédent.
 
 ***Note*** :  Ps. 89, 12-17 : Prière à Dieu, pour qu’il ait pitié de ses serviteurs et leur accorde ses grâces.
 
 
-13 Revenez, vers nous, Seigneur, jusqu'à quand? . . . et soyez exorable aux vœux de vos serviteurs.
+13 Revenez, vers nous, Seigneur, jusqu'à quand? . . . et soyez exorable aux voeux de vos serviteurs.
 
 ***Note*** :  Ps. 89, 13 : Jusqu’à quand ? … Voir Psaumes, 6, 4.
 
@@ -72,5 +72,5 @@ summary: |
 
 ***Note*** :  Ps. 89, 15 : Nous avons vu. Voir Psaumes, 88, 49.
 
-16 Jetez les yeux sur vos serviteurs et sur vos œuvres, et dirigez leurs fils. 17 Et soit la splendeur du Seigneur notre Dieu sur nous, et dirigez les œuvres de nos mains pour nous, et dirigez l'œuvre de nos mains.
+16 Jetez les yeux sur vos serviteurs et sur vos oeuvres, et dirigez leurs fils. 17 Et soit la splendeur du Seigneur notre Dieu sur nous, et dirigez les oeuvres de nos mains pour nous, et dirigez l'oeuvre de nos mains.
 

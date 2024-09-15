@@ -10,7 +10,7 @@ summary: |
 
 1 Voici la bénédiction dont Moïse, homme de Dieu, bénit les enfants d'Israël avant sa mort.
 
-***Note*** :  Dr. 33, 1 : On s’accorde assez généralement à regarder ce chapitre et le suivant comme appartenant au livre de Josué. Autrefois, les livres saints étaient ordinairement sans titres et sans sommaires ; ils se suivaient, sans aucune division par sections. Cependant les bénédictions contenues dans ce 33° chapitre sont incontestablement l’œuvre de Moïse.
+***Note*** :  Dr. 33, 1 : On s’accorde assez généralement à regarder ce chapitre et le suivant comme appartenant au livre de Josué. Autrefois, les livres saints étaient ordinairement sans titres et sans sommaires ; ils se suivaient, sans aucune division par sections. Cependant les bénédictions contenues dans ce 33° chapitre sont incontestablement l’oeuvre de Moïse.
 
 2 Il dit donc : Le Seigneur est venu de Sinaï, et il s'est levé pour nous de Séir ; il a apparu de la montagne de Pharan, et avec lui des milliers de saints. En sa main droite était une loi de feu.
 
@@ -42,7 +42,7 @@ summary: |
 
 ***Note*** :  Dr. 33, 10 : Vos ordonnances, etc. Ces mots forment évidemment un des compléments du verbe ont observé du verset précédent, et sont en apposition avec parole et alliance du même verset 9 ; d’où le sens est : Ceux-là ont gardé votre parole, et ont observé votre alliance, qui ne sont autre chose que vos ordonnances, ô Jacob, et votre loi, ô Israël. Quelques traducteurs, abandonnant la Vulgate, ont rendu conformément à l’hébreu : Ils ont enseigné vos ordonnances à Jacob et votre loi à Israël.
 
-11 Bénissez, Seigneur, sa force, et recevez les œuvres de ses mains. Frappez le dos de ses ennemis, et que ceux qui le haïssent ne se relèvent point.
+11 Bénissez, Seigneur, sa force, et recevez les oeuvres de ses mains. Frappez le dos de ses ennemis, et que ceux qui le haïssent ne se relèvent point.
 
 
 12 Et à Benjamin il dit : Le bien-aimé du Seigneur habitera avec confiance en lui ; il demeurera tout le jour comme dans une chambre nuptiale, et il se reposera entre ses bras.
@@ -92,5 +92,5 @@ summary: |
 
 ***Note*** :  Dr. 33, 26 : Du peuple très juste. Voir Deutéronome, 32, 15.
 
-27 Son habitacle est en haut; et au-dessous sont ses bras éternels ; il chassera de ta face l'ennemi, et il dira : Sois brisé. 28 Israël habitera avec assurance et seul. L'œil de Jacob sera fixé sur une terre de vin et de blé, et les cieux seront obscurcis par la rosée. 29 Tu es heureux, Israël : qui est semblable à toi, peuple, qui es sauvé dans le Seigneur? il est le bouclier de ta défense, et le glaive de ta gloire ; tes ennemis te renieront, et tu fouleras aux pieds leurs cous.
+27 Son habitacle est en haut; et au-dessous sont ses bras éternels ; il chassera de ta face l'ennemi, et il dira : Sois brisé. 28 Israël habitera avec assurance et seul. L'oeil de Jacob sera fixé sur une terre de vin et de blé, et les cieux seront obscurcis par la rosée. 29 Tu es heureux, Israël : qui est semblable à toi, peuple, qui es sauvé dans le Seigneur? il est le bouclier de ta défense, et le glaive de ta gloire ; tes ennemis te renieront, et tu fouleras aux pieds leurs cous.
 

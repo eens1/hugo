@@ -51,7 +51,7 @@ summary: |
 
 ***Note*** :  Gn. 4, 20 : Abel paissait aussi ses troupeaux (verset 2) ; mais Jabel fut le premier qui fit profession particulière de conduire des troupeaux.
 
-21 Et le nom de son frère était Jubal ; c'est le père de ceux qui jouent de la harpe et de l'orgue. 22 Sella aussi engendra Tubalcaïn, qui sut travailler avec le marteau, et faire toutes sortes d'ouvrages d'airain et de fer. La sœur de Tubalcaïn fut Noëma.
+21 Et le nom de son frère était Jubal ; c'est le père de ceux qui jouent de la harpe et de l'orgue. 22 Sella aussi engendra Tubalcaïn, qui sut travailler avec le marteau, et faire toutes sortes d'ouvrages d'airain et de fer. La soeur de Tubalcaïn fut Noëma.
 
 ***Note*** :  Gn. 4, 22 : Toutes sortes d’ouvrages d’airain et de fer. Conformément à ce qui est dit ici, l’archéologie nous montre en Asie le berceau des arts métallurgiques.
 

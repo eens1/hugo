@@ -11,9 +11,9 @@ draft: false
 
 3 Dentes leonis, dentes eius, interficientes animas hominum.
 
-4 Quasi romphæa bis acuta omnis iniquitas, plagæ illius non est sanitas.
+4 Quasi romphaea bis acuta omnis iniquitas, plagae illius non est sanitas.
 
-5 Obiurgatio et iniuriæ annullabunt substantiam: et domus quæ nimis locuples est, annullabitur superbia: sic substantia superbi eradicabitur.
+5 Obiurgatio et iniuriae annullabunt substantiam: et domus quae nimis locuples est, annullabitur superbia: sic substantia superbi eradicabitur.
 
 6 Deprecatio pauperis ex ore usque ad aures eius perveniet, et iudicium festinato adveniet illi.
 
@@ -21,11 +21,11 @@ draft: false
 
 8 Notus a longe potens lingua audaci: et sensatus scit labi se ab ipso.
 
-9 Qui ædificat domum suam impendiis alienis, quasi qui colligat lapides suos in hyeme.
+9 Qui aedificat domum suam impendiis alienis, quasi qui colligat lapides suos in hyeme.
 
 10 Stupa collecta synagoga peccantium, et consummatio illorum flamma ignis.
 
-11 Via peccatorum complanata lapidibus, et in fine illorum inferi, et tenebræ, et pœnæ.
+11 Via peccatorum complanata lapidibus, et in fine illorum inferi, et tenebrae, et poenae.
 
 12 Qui custodit iustitiam, continebit sensum eius.
 
@@ -33,9 +33,9 @@ draft: false
 
 14 Non erudietur qui non est sapiens in bono.
 
-15 Est autem sapientia, quæ abundat in malo: et non est sensus ubi est amaritudo.
+15 Est autem sapientia, quae abundat in malo: et non est sensus ubi est amaritudo.
 
-16 Scientia sapientis tamquam inundatio abundabit, et consilium illius sicut fons vitæ permanet.
+16 Scientia sapientis tamquam inundatio abundabit, et consilium illius sicut fons vitae permanet.
 
 17 Cor fatui quasi vas confractum, et omnem sapientiam non tenebit.
 
@@ -43,7 +43,7 @@ draft: false
 
 19 Narratio fatui quasi sarcina in via. nam in labiis sensati invenietur gratia.
 
-20 Os prudentis quæritur in ecclesia, et verba illius cogitabunt in cordibus suis.
+20 Os prudentis quaeritur in ecclesia, et verba illius cogitabunt in cordibus suis.
 
 21 Tamquam domus exterminata, sic fatuo sapientia: et scientia insensati inenarrabilia verba.
 

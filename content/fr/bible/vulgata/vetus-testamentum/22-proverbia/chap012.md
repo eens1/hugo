@@ -11,7 +11,7 @@ draft: false
 
 3 Non roborabitur homo ex impietate: et radix iustorum non commovebitur.
 
-4 Mulier diligens, corona est viro suo: et putredo in ossibus eius, quæ confusione res dignas gerit.
+4 Mulier diligens, corona est viro suo: et putredo in ossibus eius, quae confusione res dignas gerit.
 
 5 Cogitationes iustorum iudicia: et consilia impiorum fraudulenta:
 
@@ -37,9 +37,9 @@ draft: false
 
 16 Fatuus statim indicat iram suam: qui autem dissimulat iniuriam, callidus est.
 
-17 Qui quod novit loquitur, index iustitiæ est: qui autem mentitur, testis est fraudulentus.
+17 Qui quod novit loquitur, index iustitiae est: qui autem mentitur, testis est fraudulentus.
 
-18 Est qui promittit, et quasi gladio pungitur conscientiæ: lingua autem sapientium sanitas est.
+18 Est qui promittit, et quasi gladio pungitur conscientiae: lingua autem sapientium sanitas est.
 
 19 Labium veritatis firmum erit in perpetuum: qui autem testis est repentinus, concinnat linguam mendacii.
 
@@ -51,13 +51,13 @@ draft: false
 
 23 Homo versatus celat scientiam: et cor insipientium provocat stultitiam.
 
-24 Manus fortium dominabitur: quæ autem remissa est, tributis serviet.
+24 Manus fortium dominabitur: quae autem remissa est, tributis serviet.
 
-25 Mœror in corde viri humiliabit illum, et sermone bono lætificabitur.
+25 Moeror in corde viri humiliabit illum, et sermone bono laetificabitur.
 
 26 Qui negligit damnum propter amicum, iustus est: iter autem impiorum decipiet eos.
 
 27 Non inveniet fraudulentus lucrum: et substantia hominis erit auri pretium.
 
-28 In semita iustitiæ, vita: iter autem devium ducit ad mortem.
+28 In semita iustitiae, vita: iter autem devium ducit ad mortem.
 

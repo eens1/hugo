@@ -55,7 +55,7 @@ des noms verbaux qui ne peuvent être déterminés à un temps particulier que p
 
 ***Note*** :  Ml. 1, 13 : Voilà de notre travail (Ecce de labore). Après ecce, est évidemment sous-entendu un mot du genre neutre, tel que aliquid, negotium, oblatum, avec lequel puisse s’accorder le pronom neutre suivant : illud. Ainsi le sens paraît être : Ce que nous vous offrons est le fruit le plus excellent de notre travail, et cependant vous avez soufflé dessus ; c’est-à-dire, vous le méprisez au fond, puisque c’est un animal, etc. Voir le verset 8.
 
-14 Maudit le fourbe qui a dans son troupeau un mâle, et qui faisant un vœu, immole un animal débile au Seigneur; parce que je suis le grand roi, dit le Seigneur des armées, et mon nom est terrible parmi les nations.
+14 Maudit le fourbe qui a dans son troupeau un mâle, et qui faisant un voeu, immole un animal débile au Seigneur; parce que je suis le grand roi, dit le Seigneur des armées, et mon nom est terrible parmi les nations.
 
-***Note*** :  Ml. 1, 14 : Un mâle sans défaut était la victime désignée par la loi pour les vœux faits au Seigneur (voir Lévitique, 22, verset 18 et suivants).
+***Note*** :  Ml. 1, 14 : Un mâle sans défaut était la victime désignée par la loi pour les voeux faits au Seigneur (voir Lévitique, 22, verset 18 et suivants).
 

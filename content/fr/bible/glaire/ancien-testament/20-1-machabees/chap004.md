@@ -49,7 +49,7 @@ summary: |
 25 Et une grande victoire fut remportée par Israël en ce jour-là.
 
 
-26 Or tous ceux des étrangers qui échappèrent, vinrent et annoncèrent à Lysias tout ce qui était arrivé. 27 Ce qu'ayant entendu, celui-ci consterné sentait son cœur défaillir, parce qu'il n'était pas arrivé en Israël comme il avait voulu, et comme avait commandé le roi.
+26 Or tous ceux des étrangers qui échappèrent, vinrent et annoncèrent à Lysias tout ce qui était arrivé. 27 Ce qu'ayant entendu, celui-ci consterné sentait son coeur défaillir, parce qu'il n'était pas arrivé en Israël comme il avait voulu, et comme avait commandé le roi.
 
 
 28 Et l'année suivante, Lysias réunit soixante mille hommes de pieds choisis et cinq mille cavaliers, pour soumettre les Juifs. 29 Et ils vinrent en Judée, et posèrent leur camp près de Béthoron, et Judas vint à leur rencontre avec dix mille hommes.
@@ -112,7 +112,7 @@ summary: |
 
 58 Et il y eut une très grande joie parmi le peuple, et l'opprobre des nations fut banni. 59 Et Judas établit, ainsi que ses frères et toute l'assemblée d'Israël, que le jour de la dédicace de l'autel serait célébré à des temps fixés, d'année en année, pendant huit jours, depuis le vingt-cinquième jour du mois de Casleu, avec allégresse et joie.
 
-***Note*** :  I Macc. 4, 59 : La dédicace de l’autel ; fête connue dans l’Evangile sous le d’Encænia (voir Jean, 10, 22). ― A des temps fixés ; littéralement, en ses temps (in temporibus suis).
+***Note*** :  I Macc. 4, 59 : La dédicace de l’autel ; fête connue dans l’Evangile sous le d’Encaenia (voir Jean, 10, 22). ― A des temps fixés ; littéralement, en ses temps (in temporibus suis).
 
 
 60 Et ils construisirent en ce temps-là, sur la montagne de Sion et tout autour, de hauts murs et de fortes tours, de peur que quelque jour les nations ne vinssent et ne la foulassent aux pieds, comme elles avaient fait auparavant; 61 Et il y posta un corps de troupes, afin de la garder, et il la fortifia pour assurer Bethsura, afin que le peuple eût une forteresse en face de l'Idumée.

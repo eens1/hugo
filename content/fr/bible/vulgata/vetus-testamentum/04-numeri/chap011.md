@@ -13,7 +13,7 @@ draft: false
 
 4 Vulgus quippe promiscuum, quod ascenderat cum eis, flagravit desiderio, sedens et flens, iunctis sibi pariter filiis Israel, et ait: Quis dabit nobis ad vescendum carnes?
 
-5 Recordamur piscium quos comedebamus in Ægypto gratis: in mentem nobis veniunt cucumeres, et pepones, porrique, et cepe, et allia.
+5 Recordamur piscium quos comedebamus in AEgypto gratis: in mentem nobis veniunt cucumeres, et pepones, porrique, et cepe, et allia.
 
 6 Anima nostra arida est, nihil aliud respiciunt oculi nostri nisi Man.
 
@@ -29,25 +29,25 @@ draft: false
 
 12 Numquid ego concepi omnem hanc multitudinem, vel genui eam, ut dicas mihi: Porta eos in sinu tuo sicut portare solet nutrix infantulum, et defer in terram, pro qua iurasti patribus eorum?
 
-13 Unde mihi carnes ut dem tantæ multitudini? flent contra me, dicentes: Da nobis carnes ut comedamus.
+13 Unde mihi carnes ut dem tantae multitudini? flent contra me, dicentes: Da nobis carnes ut comedamus.
 
 14 Non possum solus sustinere omnem hunc populum, quia gravis est mihi.
 
 15 Sin aliter tibi videtur, obsecro ut interficias me, et inveniam gratiam in oculis tuis, ne tantis afficiar malis.
 
-16 Et dixit Dominus ad Moysen: Congrega mihi septuaginta viros de senibus Israel, quos tu nosti quod senes populi sint ac magistri: et duces eos ad ostium tabernaculi fœderis, faciesque ibi stare tecum,
+16 Et dixit Dominus ad Moysen: Congrega mihi septuaginta viros de senibus Israel, quos tu nosti quod senes populi sint ac magistri: et duces eos ad ostium tabernaculi foederis, faciesque ibi stare tecum,
 
 17 ut descendam et loquar tibi: et auferam de spiritu tuo, tradamque eis, ut sustentent tecum onus populi, et non tu solus graveris.
 
-18 Populo quoque dices: Sanctificamini: cras comedetis carnes. ego enim audivi vos dicere: Quis dabit nobis escas carnium? bene nobis erat in Ægypto. Ut det vobis Dominus carnes, et comedatis:
+18 Populo quoque dices: Sanctificamini: cras comedetis carnes. ego enim audivi vos dicere: Quis dabit nobis escas carnium? bene nobis erat in AEgypto. Ut det vobis Dominus carnes, et comedatis:
 
 19 non uno die, nec duobus, vel quinque aut decem, nec viginti quidem,
 
-20 sed usque ad mensem dierum, donec exeat per nares vestras, et vertatur in nauseam, eo quod replueritis Dominum, qui in medio vestri est, et fleveritis coram eo, dicentes: Quare egressi sumus ex Ægypto?
+20 sed usque ad mensem dierum, donec exeat per nares vestras, et vertatur in nauseam, eo quod replueritis Dominum, qui in medio vestri est, et fleveritis coram eo, dicentes: Quare egressi sumus ex AEgypto?
 
 21 Et ait Moyses: Sexcenta millia peditum huius populi sunt. et tu dicis: Dabo eis esum carnium mense integro?
 
-22 Numquid ovium et boum multitudo cædetur, ut possit sufficere ad cibum? vel omnes pisces maris in unum congregabuntur, ut eos satient?
+22 Numquid ovium et boum multitudo caedetur, ut possit sufficere ad cibum? vel omnes pisces maris in unum congregabuntur, ut eos satient?
 
 23 Cui respondit Dominus: Numquid manus Domini invalida est? Iam nunc videbis utrum meus sermo opere compleatur.
 
@@ -61,7 +61,7 @@ draft: false
 
 28 Statim Iosue filius Nun, minister Moysi, et electus e pluribus, ait: Domine mi Moyses prohibe eos.
 
-29 At ille: Quid, inquit, æmularis pro me? quis tribuat ut omnis populus prophetet, et det eis Dominus Spiritum suum?
+29 At ille: Quid, inquit, aemularis pro me? quis tribuat ut omnis populus prophetet, et det eis Dominus Spiritum suum?
 
 30 Reversusque est Moyses, et maiores natu Israel in castra.
 
@@ -71,5 +71,5 @@ draft: false
 
 33 Adhuc carnes erant in dentibus eorum, nec defecerat huiuscemodi cibus: et ecce furor Domini concitatus in populum, percussit eum plaga magna nimis.
 
-34 Vocatusque est ille locus, Sepulchra concupiscentiæ: ibi enim sepelierunt populum qui desideraverat. Egressi autem de Sepulchris concupiscentiæ, venerunt in Haseroth, et manserunt ibi.
+34 Vocatusque est ille locus, Sepulchra concupiscentiae: ibi enim sepelierunt populum qui desideraverat. Egressi autem de Sepulchris concupiscentiae, venerunt in Haseroth, et manserunt ibi.
 

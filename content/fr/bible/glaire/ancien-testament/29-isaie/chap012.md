@@ -17,9 +17,9 @@ summary: |
 ***Note*** :  Is. 12, 2 : Voir Psaumes, 117, 14. ― Voilà que Dieu, etc. ; allusion à Exode, 15, 2. L’Eglise, dans l’usage qu’elle fait de ce cantique, reconnaît ici Jésus même dont le nom signifie Sauveur.
 
 
-3 Vous puiserez avec joie des eaux des fontaines du Sauveur; 4 Et vous direz en ce jour-là : Glorifiez le Seigneur, et invoquez son nom; faites connaître parmi les nations ses œuvres ; souvenez-vous que sublime est son nom.
+3 Vous puiserez avec joie des eaux des fontaines du Sauveur; 4 Et vous direz en ce jour-là : Glorifiez le Seigneur, et invoquez son nom; faites connaître parmi les nations ses oeuvres ; souvenez-vous que sublime est son nom.
 
-***Note*** :  Is. 12, 4 : Ses œuvres ; c’est le vrai sens de l’expression latine adinventiones (sans espace ? ), expliquée par l’hébreu, comme nous l’avons déjà remarqué.
+***Note*** :  Is. 12, 4 : Ses oeuvres ; c’est le vrai sens de l’expression latine adinventiones (sans espace ? ), expliquée par l’hébreu, comme nous l’avons déjà remarqué.
 
 5 Chantez le Seigneur, il a agi avec magnificence ; annoncez cela dans toute la terre. 6 Exulte et loue, habitation de Sion, parce que grand est au milieu de toi le saint d'Israël.
 

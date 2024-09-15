@@ -14,7 +14,7 @@ summary: |
 
 ***Note*** :  Ex. 34, 1 : Voir Deutéronome, 10, 1.
 
-2 Sois prêt dès le matin, pour monter aussitôt sur la montagne de Sinaï, et tu te tiendras avec moi sur le sommet de la montagne. 3 Que nul ne monte avec toi, et que personne ne soit vu sur toute la montagne ; que les bœufs même et les brebis ne paissent point contre. 4 Il tailla donc deux tables de pierre, comme celles qui avaient été auparavant ; et se levant de nuit, il monta sur la montagne de Sinaï, comme lui avait ordonné le Seigneur, portant avec lui les tables.
+2 Sois prêt dès le matin, pour monter aussitôt sur la montagne de Sinaï, et tu te tiendras avec moi sur le sommet de la montagne. 3 Que nul ne monte avec toi, et que personne ne soit vu sur toute la montagne ; que les boeufs même et les brebis ne paissent point contre. 4 Il tailla donc deux tables de pierre, comme celles qui avaient été auparavant ; et se levant de nuit, il monta sur la montagne de Sinaï, comme lui avait ordonné le Seigneur, portant avec lui les tables.
 
 
 5 Et lorsque le Seigneur fut descendu dans la nuée. Moïse se tint avec lui, invoquant le nom du Seigneur. 6 Et le Seigneur passant devant lui, Moïse dit : Dominateur, Seigneur Dieu, miséricordieux et clément, patient et d'une abondante miséricorde, et très véritable, 7 Qui gardez votre miséricorde pour des milliers de créatures; qui effacez l'iniquité, les crimes et les péchés, et nul auprès de vous n'est innocent par lui-même ; qui rendez l'iniquité des pères aux fils et aux petits-fils, jusqu'à la troisième et la quatrième génération.
@@ -24,7 +24,7 @@ summary: |
 8 Et aussitôt Moïse se prosterna incliné vers la terre, et adorant, 9 Dit : Si j'ai trouvé grâce en votre présence. Seigneur, je vous conjure de marcher avec nous (car Ce peuple est d'un cou roide), d'effacer nos iniquités et nos péchés, et de nous prendre en possession.
 
 
-10 Le Seigneur répondit : Moi, je ferai alliance, tous le voyant, je ferai des signes, qui n'ont jamais été vus sur la terre, ni dans aucune nation, afin qu'il voie, ce peuple au milieu duquel tu es, l'œuvre terrible du Seigneur que je dois faire.
+10 Le Seigneur répondit : Moi, je ferai alliance, tous le voyant, je ferai des signes, qui n'ont jamais été vus sur la terre, ni dans aucune nation, afin qu'il voie, ce peuple au milieu duquel tu es, l'oeuvre terrible du Seigneur que je dois faire.
 
 ***Note*** :  Ex. 34, 10 : Voir Deutéronome, 5, 2 ; Jérémie, 32, 40.
 
@@ -50,7 +50,7 @@ summary: |
 ***Note*** :  Ex. 34, 18 : Au mois du printemps ; pour : Au mois où commence le printemps. ― La solennité des azymes, Pâques.
 
 
-19 Tout mâle qui ouvre un sein, sera à moi. Le premier-né d'entre tous les animaux, tant des bœufs que des brebis, sera à moi.
+19 Tout mâle qui ouvre un sein, sera à moi. Le premier-né d'entre tous les animaux, tant des boeufs que des brebis, sera à moi.
 
 ***Note*** :  Ex. 34, 19 : Voir Exode, 13, vv. 2, 12 ; 22, 29.
 

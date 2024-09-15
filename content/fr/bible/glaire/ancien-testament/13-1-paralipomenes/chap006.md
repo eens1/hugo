@@ -55,7 +55,7 @@ summary: |
 40 Fils de Michaël, fils de Basaïas, fils de Melchias, 41 Fils d'Athanaï, fils de Zara, fils d'Adaïa, 42 Fils d'Ethan, fils de Zamma, fils de Séméi, 43 Fils de Jeth, fils de Gerson, fils de Lévi ; 44 Mais les fils de Mérari, leurs frères, qui se tenaient à la gauche, étaient : Ethan, fils de Cusi, fils d'Abdi, fils de Maloch, 45 Fils d'Hasabias, fils d'Amasias, fils d'Helcias, 46 Fils d'Amasaï, fils de Boni, fils de Somer, 47 Fils de Moholi, fils de Musi, fils de Mérari, fils de Lévi. 48 Les Lévites, leurs frères, étaient aussi désignés pour tout le service du tabernacle de la maison du Seigneur.
 
 
-49 Mais Aaron et ses fils offraient ce qui se brûle sur l'autel de l'holocauste et sur l'autel du parfum, pour toute l'œuvre du Saint des Saints, et afin qu'ils priassent pour Israël, selon tout ce qu'avait ordonné Moïse, serviteur de Dieu.
+49 Mais Aaron et ses fils offraient ce qui se brûle sur l'autel de l'holocauste et sur l'autel du parfum, pour toute l'oeuvre du Saint des Saints, et afin qu'ils priassent pour Israël, selon tout ce qu'avait ordonné Moïse, serviteur de Dieu.
 
 ***Note*** :  I Par. 6, 49-53 : Grands-prêtres issus d’Aaron.
 

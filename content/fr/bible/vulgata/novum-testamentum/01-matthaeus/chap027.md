@@ -7,9 +7,9 @@ draft: false
 
 1 Mane autem facto, consilium inierunt omnes principes sacerdotum, et seniores populi adversus Iesum, ut eum morti traderent.
 
-2 Et vinctum adduxerunt eum, et tradiderunt Pontio Pilato præsidi.
+2 Et vinctum adduxerunt eum, et tradiderunt Pontio Pilato praesidi.
 
-3 Tunc videns Iudas, qui eum tradidit, quod damnatus esset; pœnitentia ductus, retulit triginta argenteos principibus sacerdotum, et senioribus,
+3 Tunc videns Iudas, qui eum tradidit, quod damnatus esset; poenitentia ductus, retulit triginta argenteos principibus sacerdotum, et senioribus,
 
 4 dicens: Peccavi, tradens sanguinem iustum. At illi dixerunt: Quid ad nos? tu videris.
 
@@ -25,15 +25,15 @@ draft: false
 
 10 et dederunt eos in agrum figuli, sicut constituit mihi Dominus.
 
-11 Iesus autem stetit ante præsidem, et interrogavit eum præses, dicens: Tu es Rex Iudæorum? Dicit illi Iesus: Tu dicis.
+11 Iesus autem stetit ante praesidem, et interrogavit eum praeses, dicens: Tu es Rex Iudaeorum? Dicit illi Iesus: Tu dicis.
 
 12 Et cum accusaretur a principibus sacerdotum, et senioribus, nihil respondit.
 
 13 Tunc dicit illi Pilatus: Non audis quanta adversum te dicunt testimonia?
 
-14 Et non respondit ei ad ullum verbum, ita ut miraretur præses vehementer.
+14 Et non respondit ei ad ullum verbum, ita ut miraretur praeses vehementer.
 
-15 Per diem autem sollemnem consueverat præses populi dimittere unum vinctum, quem voluissent.
+15 Per diem autem sollemnem consueverat praeses populi dimittere unum vinctum, quem voluissent.
 
 16 habebat autem tunc vinctum insignem, qui dicebatur Barrabas.
 
@@ -45,11 +45,11 @@ draft: false
 
 20 Principes autem sacerdotum, et seniores persuaserunt populis ut peterent Barabbam, Iesum vero perderent.
 
-21 Respondens autem præses, ait illis: Quem vultis vobis de duobus dimitti? At illi dixerunt: Barabbam.
+21 Respondens autem praeses, ait illis: Quem vultis vobis de duobus dimitti? At illi dixerunt: Barabbam.
 
 22 Dicit illis Pilatus: Quid igitur faciam de Iesu, qui dicitur Christus?
 
-23 Dicunt omnes: Crucifigatur. Ait illis præses: Quid enim mali fecit? At illi magis clamabant dicentes: Crucifigatur.
+23 Dicunt omnes: Crucifigatur. Ait illis praeses: Quid enim mali fecit? At illi magis clamabant dicentes: Crucifigatur.
 
 24 Videns autem Pilatus quia nihil proficeret, sed magis tumultus fieret: accepta aqua, lavit manus coram populo, dicens: Innocens ego sum a sanguine iusti huius: vos videritis.
 
@@ -57,19 +57,19 @@ draft: false
 
 26 Tunc dimisit illis Barabbam: Iesum autem flagellatum tradidit eis ut crucifigeretur.
 
-27 Tunc milites præsidis suscipientes Iesum in prætorium, congregaverunt ad eum universam cohortem:
+27 Tunc milites praesidis suscipientes Iesum in praetorium, congregaverunt ad eum universam cohortem:
 
 28 et exuentes eum, chlamydem coccineam circumdederunt ei,
 
-29 et plectentes coronam de spinis, posuerunt super caput eius, et arundinem in dextera eius. Et genu flexo ante eum, illudebant ei, dicentes: Ave rex Iudæorum.
+29 et plectentes coronam de spinis, posuerunt super caput eius, et arundinem in dextera eius. Et genu flexo ante eum, illudebant ei, dicentes: Ave rex Iudaeorum.
 
 30 Et expuentes in eum, acceperunt arundinem, et percutiebant caput eius.
 
 31 Et postquam illuserunt ei, exuerunt eum chlamyde, et induerunt eum vestimentis eius, et duxerunt eum ut crucifigerent.
 
-32 Exeuntes autem invenerunt hominem Cyrenæum, nomine Simonem: hunc angariaverunt ut tolleret crucem eius.
+32 Exeuntes autem invenerunt hominem Cyrenaeum, nomine Simonem: hunc angariaverunt ut tolleret crucem eius.
 
-33 Et venerunt in locum, qui dicitur Golgotha, quod est Calvariæ locus.
+33 Et venerunt in locum, qui dicitur Golgotha, quod est Calvariae locus.
 
 34 Et dederunt ei vinum bibere cum felle mistum. Et cum gustasset, noluit bibere.
 
@@ -77,13 +77,13 @@ draft: false
 
 36 Et sedentes servabant eum.
 
-37 Et imposuerunt super caput eius causam ipsius scriptam: HIC EST IESUS REX IUDÆORUM.
+37 Et imposuerunt super caput eius causam ipsius scriptam: HIC EST IESUS REX IUDAEORUM.
 
 38 Tunc crucifixi sunt cum eo duo latrones: unus a dextris, et unus a sinistris.
 
-39 Prætereuntes autem blasphemabant eum moventes capita sua,
+39 Praetereuntes autem blasphemabant eum moventes capita sua,
 
-40 et dicentes: Vah qui destruis templum Dei, et in triduo illud reædificas: salva temetipsum: si filius Dei es, descende de cruce.
+40 et dicentes: Vah qui destruis templum Dei, et in triduo illud reaedificas: salva temetipsum: si filius Dei es, descende de cruce.
 
 41 Similiter et principes sacerdotum illudentes cum Scribis, et senioribus dicebant:
 
@@ -93,7 +93,7 @@ draft: false
 
 44 Idipsum autem et latrones, qui crucifixi erant cum eo, improperabant ei.
 
-45 A sexta autem hora tenebræ factæ sunt super universam terram usque ad horam nonam.
+45 A sexta autem hora tenebrae factae sunt super universam terram usque ad horam nonam.
 
 46 Et circa horam nonam clamavit Iesus voce magna, dicens: Eli, Eli, lamma sabacthani? hoc est: Deus meus, Deus meus ut quid dereliquisti me?
 
@@ -105,19 +105,19 @@ draft: false
 
 50 Iesus autem iterum clamans voce magna, emisit spiritum.
 
-51 Et ecce velum templi scissum est in duas partes a summo usque deorsum. et terra mota est, et petræ scissæ sunt,
+51 Et ecce velum templi scissum est in duas partes a summo usque deorsum. et terra mota est, et petrae scissae sunt,
 
 52 et monumenta aperta sunt: et multa corpora sanctorum, qui dormierant, surrexerunt.
 
 53 Et exeuntes de monumentis post resurrectionem eius, venerunt in sanctam civitatem, et apparuerunt multis.
 
-54 Centurio autem, et qui cum eo erant, custodientes Iesum, viso terræmotu et his, quæ fiebant, timuerunt valde, dicentes: Vere Filius Dei erat iste.
+54 Centurio autem, et qui cum eo erant, custodientes Iesum, viso terraemotu et his, quae fiebant, timuerunt valde, dicentes: Vere Filius Dei erat iste.
 
-55 Erant autem ibi mulieres multæ a longe, quæ secutæ erant Iesum a Galilæa, ministrantes ei:
+55 Erant autem ibi mulieres multae a longe, quae secutae erant Iesum a Galilaea, ministrantes ei:
 
-56 inter quas erat Maria Magdalene, et Maria Iacobi, et Ioseph mater, et mater filiorum Zebedæi.
+56 inter quas erat Maria Magdalene, et Maria Iacobi, et Ioseph mater, et mater filiorum Zebedaei.
 
-57 Cum autem sero factum esset, venit quidam homo dives ab Arimathæa, nomine Ioseph, qui et ipse discipulus erat Iesu.
+57 Cum autem sero factum esset, venit quidam homo dives ab Arimathaea, nomine Ioseph, qui et ipse discipulus erat Iesu.
 
 58 hic accessit ad Pilatum, et petiit corpus Iesu. Tunc Pilatus iussit reddi corpus.
 
@@ -127,7 +127,7 @@ draft: false
 
 61 Erant autem ibi Maria Magdalene, et altera Maria, sedentes contra sepulchrum.
 
-62 Altera autem die, quæ est post Parasceven, convenerunt principes sacerdotum et Pharisæi ad Pilatum,
+62 Altera autem die, quae est post Parasceven, convenerunt principes sacerdotum et Pharisaei ad Pilatum,
 
 63 dicentes: Domine, recordati sumus, quia seductor ille dixit adhuc vivens: Post tres dies resurgam.
 

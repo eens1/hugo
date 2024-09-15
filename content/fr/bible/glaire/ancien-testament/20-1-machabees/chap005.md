@@ -88,7 +88,7 @@ summary: |
 
 37 Après cela, Timothée assembla une autre armée, et posa son camp vis-à-vis de Raphon, au-delà du torrent.
 
-***Note*** :  I Macc. 5, 37 : Après cela ; littéralement, après ces paroles (post hæc verba). Nous avons déjà remarqué plus d’une fois qu’en hébreu, le mot parole signifie aussi chose, fait, événement. ― Du torrent de Jéboc ou Jaboc sur la frontière des Ammonites (voir Deutéronome, 3, 16 ; Josué, 12, 2). ― Raphon, ville de la Décapole, qui n’était pas éloignée d’Astaroth-Carnaïm. ― Au-delà du torrent, probablement l’Hiéromax ou Mandhour, qui grossit considérablement au moment de la fonte des neiges.
+***Note*** :  I Macc. 5, 37 : Après cela ; littéralement, après ces paroles (post haec verba). Nous avons déjà remarqué plus d’une fois qu’en hébreu, le mot parole signifie aussi chose, fait, événement. ― Du torrent de Jéboc ou Jaboc sur la frontière des Ammonites (voir Deutéronome, 3, 16 ; Josué, 12, 2). ― Raphon, ville de la Décapole, qui n’était pas éloignée d’Astaroth-Carnaïm. ― Au-delà du torrent, probablement l’Hiéromax ou Mandhour, qui grossit considérablement au moment de la fonte des neiges.
 
 38 Et Judas envoya reconnaître cette armée, et l'on revint à lui, disant : Elles se sont réunies à Timothée, toutes les nations qui sont autour de nous; leur armée est très nombreuse.
 

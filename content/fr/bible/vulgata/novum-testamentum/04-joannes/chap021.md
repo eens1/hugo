@@ -7,7 +7,7 @@ draft: false
 
 1 Postea manifestavit se iterum Iesus discipulis ad mare Tiberiadis. Manifestavit autem sic:
 
-2 Erant simul Simon Petrus, et Thomas, qui dicitur Didymus, et Nathanael, qui erat a Cana Galilææ, et filii Zebedæi, et alii ex discipulis eius duo.
+2 Erant simul Simon Petrus, et Thomas, qui dicitur Didymus, et Nathanael, qui erat a Cana Galilaeae, et filii Zebedaei, et alii ex discipulis eius duo.
 
 3 Dicit eis Simon Petrus: Vado piscari. Dicunt ei: Venimus et nos tecum. Et exierunt, et ascenderunt in navim: et illa nocte nihil prendiderunt.
 
@@ -15,7 +15,7 @@ draft: false
 
 5 Dixit ergo eis Iesus: Pueri numquid pulmentarium habetis? Responderunt ei: Non.
 
-6 Dicit eis: Mittite in dexteram navigii rete: et invenietis. Miserunt ergo: et iam non valebant illud trahere præ multitudine piscium.
+6 Dicit eis: Mittite in dexteram navigii rete: et invenietis. Miserunt ergo: et iam non valebant illud trahere prae multitudine piscium.
 
 7 Dixit ergo discipulus ille, quem diligebat Iesus, Petro: Dominus est. Simon Petrus cum audisset quia Dominus est, tunica succinxit se (erat enim nudus) et misit se in mare.
 
@@ -43,7 +43,7 @@ draft: false
 
 19 Hoc autem dixit significans qua morte clarificaturus esset Deum. Et cum hoc dixisset, dicit ei: Sequere me.
 
-20 Conversus Petrus vidit illum discipulum, quem diligebat Iesus, sequentem, qui et recubuit in cœna super pectus eius, et dixit: Domine quis est qui tradet te?
+20 Conversus Petrus vidit illum discipulum, quem diligebat Iesus, sequentem, qui et recubuit in coena super pectus eius, et dixit: Domine quis est qui tradet te?
 
 21 Hunc ergo cum vidisset Petrus, dixit Iesu: Domine hic autem quid?
 
@@ -51,7 +51,7 @@ draft: false
 
 23 Exiit ergo sermo iste inter fratres quia discipulus ille non moritur. Et non dixit ei Iesus: Non moritur. sed: Sic eum volo manere donec veniam, quid ad te?
 
-24 Hic est discipulus ille, qui testimonium perhibet de his, et scripsit hæc: et scimus, quia verum est testimonium eius.
+24 Hic est discipulus ille, qui testimonium perhibet de his, et scripsit haec: et scimus, quia verum est testimonium eius.
 
-25 Sunt autem et alia multa, quæ fecit Iesus: quæ si scribantur per singula, nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros.
+25 Sunt autem et alia multa, quae fecit Iesus: quae si scribantur per singula, nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros.
 

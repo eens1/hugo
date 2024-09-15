@@ -63,7 +63,7 @@ Il y a trois choses insatiables, et une quatrième qui jamais ne dit : C'est ass
 16 L'enfer, l'impudique, la terre qui ne se rassasie pas d'eau, et le feu qui jamais ne dit : C'est assez.
 
 
-17 L'œil qui insulte son père, et qui méprise l'enfantement de sa mère, que les corbeaux des torrents le percent, et que les fils de l'aigle le dévorent.
+17 L'oeil qui insulte son père, et qui méprise l'enfantement de sa mère, que les corbeaux des torrents le percent, et que les fils de l'aigle le dévorent.
 
 
 18 Trois choses sont difficiles pour moi, et la quatrième, je l'ignore entièrement :

@@ -33,9 +33,9 @@ summary: |
 11 Par la bénédiction des justes, sera exaltée une cité; et par la bouche des impies elle sera renversée.
 
 
-12 Celui qui méprise son ami manque de cœur ; mais un homme prudent se taira.
+12 Celui qui méprise son ami manque de coeur ; mais un homme prudent se taira.
 
-***Note*** :  Prov. 11, 12 : Manque de cœur. Voir Proverbes, 7, 7.
+***Note*** :  Prov. 11, 12 : Manque de coeur. Voir Proverbes, 7, 7.
 
 
 13 Celui qui marche frauduleusement révèle les secrets ; mais celui qui est fidèle d'esprit tient cachée la confidence de son ami.
@@ -52,9 +52,9 @@ summary: |
 16 La femme gracieuse trouvera la gloire ; et les forts auront des richesses.
 
 
-17 Il fait du bien à son âme, l'homme miséricordieux ; mais celui qui est cruel rejette même ses proches. 18 L'impie fait une œuvre qui n'est pas stable ; mais pour celui qui sème la justice, il y a une récompense assurée. 19 La clémence prépare la vie, et la recherche du mal, la mort. 20 Abominable est au Seigneur un cœur dépravé, et sa bienveillance est pour ceux qui marchent avec simplicité. 21 Lors même qu'une main serait dans une main, le méchant ne sera pas innocent ; mais la race des justes sera sauvée.
+17 Il fait du bien à son âme, l'homme miséricordieux ; mais celui qui est cruel rejette même ses proches. 18 L'impie fait une oeuvre qui n'est pas stable ; mais pour celui qui sème la justice, il y a une récompense assurée. 19 La clémence prépare la vie, et la recherche du mal, la mort. 20 Abominable est au Seigneur un coeur dépravé, et sa bienveillance est pour ceux qui marchent avec simplicité. 21 Lors même qu'une main serait dans une main, le méchant ne sera pas innocent ; mais la race des justes sera sauvée.
 
-***Note*** :  Prov. 11, 21 : Lors même, etc. ; littéralement une main dans une main ; expression évidemment elliptique, pour : quand même une main serait dans une main (etiam si manus ad manum fuerit), comme on lit au chapitre 21, verset 5 ; ce qui signifie : Quand il aurait une main dans l’autre ; c’est-à-dire quand il ne ferait rien, quand il serait dans un repos complet de ses mains, comme il a toujours le cœur au mal, Dieu ne le traitera pas comme un innocent.
+***Note*** :  Prov. 11, 21 : Lors même, etc. ; littéralement une main dans une main ; expression évidemment elliptique, pour : quand même une main serait dans une main (etiam si manus ad manum fuerit), comme on lit au chapitre 21, verset 5 ; ce qui signifie : Quand il aurait une main dans l’autre ; c’est-à-dire quand il ne ferait rien, quand il serait dans un repos complet de ses mains, comme il a toujours le coeur au mal, Dieu ne le traitera pas comme un innocent.
 
 
 22 C'est un anneau d'or aux naseaux d'une truie, qu'une femme belle et insensée.

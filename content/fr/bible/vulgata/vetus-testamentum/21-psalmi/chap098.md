@@ -17,7 +17,7 @@ draft: false
 
 6 Moyses et Aaron in sacerdotibus eius: et Samuel inter eos, qui invocant nomen eius: Invocabant Dominum, et ipse exaudiebat eos:
 
-7 in columna nubis loquebatur ad eos. Custodiebant testimonia eius, et præceptum quod dedit illis.
+7 in columna nubis loquebatur ad eos. Custodiebant testimonia eius, et praeceptum quod dedit illis.
 
 8 Domine Deus noster tu exaudiebas eos: Deus tu propitius fuisti eis, et ulciscens in omnes adinventiones eorum.
 

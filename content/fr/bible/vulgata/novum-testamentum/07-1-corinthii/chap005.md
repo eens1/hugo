@@ -9,17 +9,17 @@ draft: false
 
 2 Et vos inflati estis: et non magis luctum habuistis ut tollatur de medio vestrum qui hoc opus fecit.
 
-3 Ego quidem absens corpore, præsens autem spiritu, iam iudicavi ut præsens, eum, qui sic operatus est,
+3 Ego quidem absens corpore, praesens autem spiritu, iam iudicavi ut praesens, eum, qui sic operatus est,
 
 4 in nomine Domini nostri Iesu Christi, congregatis vobis et meo spiritu, cum virtute Domini nostri Iesu,
 
-5 tradere huiusmodi satanæ in interitum carnis, ut spiritus salvus sit in die Domini nostri Iesu Christi.
+5 tradere huiusmodi satanae in interitum carnis, ut spiritus salvus sit in die Domini nostri Iesu Christi.
 
 6 Non est bona gloriatio vestra. Nescitis quia modicum fermentum totam massam corrumpit?
 
 7 Expurgate vetus fermentum, ut sitis nova conspersio, sicut estis azymi. Etenim Pascha nostrum immolatus est Christus.
 
-8 Itaque epulemur: non in fermento veteri, neque in fermento malitiæ, et nequitiæ: sed in azymis sinceritatis, et veritatis.
+8 Itaque epulemur: non in fermento veteri, neque in fermento malitiae, et nequitiae: sed in azymis sinceritatis, et veritatis.
 
 9 Scripsi in epistola: Ne commisceamini fornicariis.
 

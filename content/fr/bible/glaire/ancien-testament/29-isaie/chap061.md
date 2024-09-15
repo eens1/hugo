@@ -9,9 +9,9 @@ summary: |
 ---
 
 
-1 L'esprit du Seigneur est sur moi, parce que le Seigneur m'a oint ; pour annoncer sa parole à ceux qui sont doux, il m'a envoyé, pour guérir ceux qui ont le cœur contrit, pour prêcher la grâce aux captifs, et l'ouverture des prisons à ceux qui y sont renfermés;
+1 L'esprit du Seigneur est sur moi, parce que le Seigneur m'a oint ; pour annoncer sa parole à ceux qui sont doux, il m'a envoyé, pour guérir ceux qui ont le coeur contrit, pour prêcher la grâce aux captifs, et l'ouverture des prisons à ceux qui y sont renfermés;
 
-***Note*** :  Is. 61, 1-11 : 4e Discours : La félicité de Jérusalem ou de l’Eglise, œuvre du Messie, chapitre 61. C’est le serviteur de Jéhovah, le Messie, auteur de la félicité de l’Eglise, qui parle dans ce discours. ― Il annonce qu’il vient mettre fin à tous les maux de ceux qui le cherchent, versets 1 à 3. ― Israël recouvre son héritage et les nations le servent, afin qu’il puisse vivre dans le repos, sans souci des besoins temporels, comme les prêtres du Seigneur, versets 4 à 6 ; ― la malédiction s’est changée en bénédiction, versets 7 à 9. ― Le serviteur de Dieu est heureux d’annoncer ces bonnes nouvelles, versets 10 et 11.
+***Note*** :  Is. 61, 1-11 : 4e Discours : La félicité de Jérusalem ou de l’Eglise, oeuvre du Messie, chapitre 61. C’est le serviteur de Jéhovah, le Messie, auteur de la félicité de l’Eglise, qui parle dans ce discours. ― Il annonce qu’il vient mettre fin à tous les maux de ceux qui le cherchent, versets 1 à 3. ― Israël recouvre son héritage et les nations le servent, afin qu’il puisse vivre dans le repos, sans souci des besoins temporels, comme les prêtres du Seigneur, versets 4 à 6 ; ― la malédiction s’est changée en bénédiction, versets 7 à 9. ― Le serviteur de Dieu est heureux d’annoncer ces bonnes nouvelles, versets 10 et 11.
 
 ***Note*** :  Is. 61, 1-2 : Isaïe parle ici de lui-même, mais comme simple représentant de Jésus-Christ, qui s’est appliqué ce qui est dit dans ce passage (voir Luc, 4, 18-21). Comparer à Isaïe, 49, verset 1 et suivants.
 
@@ -42,9 +42,9 @@ summary: |
 ***Note*** :  Is. 61, 7 : Double. Voir Isaïe, 40, 2.
 
 
-8 Parce que moi, le Seigneur, j'aime la justice, et j'ai en haine la rapine dans l'holocauste, j'établirai leur œuvre dans la vérité, je ferai avec eux une alliance perpétuelle.
+8 Parce que moi, le Seigneur, j'aime la justice, et j'ai en haine la rapine dans l'holocauste, j'établirai leur oeuvre dans la vérité, je ferai avec eux une alliance perpétuelle.
 
-***Note*** :  Is. 61, 8 : J’établirai, etc. , ou bien je leur donnerai fidèlement une récompense, en hébreu, œuvre, signifiant aussi récompense, vérité, et se prenant souvent pour fidélité. ― Une alliance éternelle ; cette alliance regarde principalement les chrétiens, Jésus-Christ, auteur de la nouvelle alliance, nous étant garant de sa durée éternelle. Elle regarde aussi Israël après son rétablissement et sa conversion.
+***Note*** :  Is. 61, 8 : J’établirai, etc. , ou bien je leur donnerai fidèlement une récompense, en hébreu, oeuvre, signifiant aussi récompense, vérité, et se prenant souvent pour fidélité. ― Une alliance éternelle ; cette alliance regarde principalement les chrétiens, Jésus-Christ, auteur de la nouvelle alliance, nous étant garant de sa durée éternelle. Elle regarde aussi Israël après son rétablissement et sa conversion.
 
 
 9 Et on connaîtra sa race parmi les nations, et ses rejetons au milieu des peuples; tous ceux qui les verront reconnaîtront qu'ils sont la race qu'a bénie le Seigneur.

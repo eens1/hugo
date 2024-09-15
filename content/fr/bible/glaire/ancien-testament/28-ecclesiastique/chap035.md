@@ -35,11 +35,11 @@ summary: |
 7 Car toutes ces choses se font pour obéir aux commandements de Dieu. 8 L'oblation du juste engraisse l'autel, et c'est une odeur de suavité en présence du Très-Haut. 9 Le sacrifice d'un juste est agréable au Seigneur, et le Seigneur n'en perdra pas le souvenir.
 
 
-10 De bon cœur, rends gloire à Dieu, et ne retranche rien des prémices de tes mains. 11 Dans tout don montre un visage gai, et dans l'exultation sanctifie tes dîmes.
+10 De bon coeur, rends gloire à Dieu, et ne retranche rien des prémices de tes mains. 11 Dans tout don montre un visage gai, et dans l'exultation sanctifie tes dîmes.
 
 ***Note*** :  Sir. 35, 11 : Dans l’exultation, etc. ; avec joie. Comparer à Romains, 12, 8 ; 2 Corinthiens, 9, 7. ― Sanctifie ; c’est-à-dire, selon le style des Hébreux, sépare, prépare, destine pour un usage saint.
 
-12 Donne au Très-Haut selon ses dons, et d'un bon œil fais l'offrande de l'acquisition de tes mains.
+12 Donne au Très-Haut selon ses dons, et d'un bon oeil fais l'offrande de l'acquisition de tes mains.
 
 ***Note*** :  Sir. 35, 12 : Voir Tobie, 4, 9. ― De l’acquisition ; littéralement de l’invention ; de ce que tu as trouvé, acquis par tes mains.
 
@@ -62,5 +62,5 @@ summary: |
 20 Celui qui adore Dieu avec joie sera reçu, et sa prière jusqu'aux nues s'approchera.
 
 
-21 La prière de celui qui s'humilie pénétrera les nues, et jusqu'à ce qu'elle en approche, il ne se consolera point ; et il ne se retirera pas jusqu'à ce que le Très-Haut la regarde. 22 Et le Seigneur ne s'éloignera pas ; mais il jugera les justes, et il fera justice ; et le Très-Fort n'aura pas pour eux de patience, afin de briser leur dos ; 23 Et des nations il tirera vengeance, jusqu'à ce qu'il fasse disparaître toute l'assemblée des superbes, et qu'il brise les sceptres des hommes iniques ; 24 Jusqu'à ce qu'il rende aux hommes selon leurs actions et selon les œuvres d'Adam, et selon sa présomption ; 25 Jusqu'à ce qu'il rende justice à son peuple, et qu'il réjouisse les justes par sa miséricorde. 26 Belle est la miséricorde de Dieu au temps de la tribulation, comme la nuée de la pluie au temps de la sécheresse.
+21 La prière de celui qui s'humilie pénétrera les nues, et jusqu'à ce qu'elle en approche, il ne se consolera point ; et il ne se retirera pas jusqu'à ce que le Très-Haut la regarde. 22 Et le Seigneur ne s'éloignera pas ; mais il jugera les justes, et il fera justice ; et le Très-Fort n'aura pas pour eux de patience, afin de briser leur dos ; 23 Et des nations il tirera vengeance, jusqu'à ce qu'il fasse disparaître toute l'assemblée des superbes, et qu'il brise les sceptres des hommes iniques ; 24 Jusqu'à ce qu'il rende aux hommes selon leurs actions et selon les oeuvres d'Adam, et selon sa présomption ; 25 Jusqu'à ce qu'il rende justice à son peuple, et qu'il réjouisse les justes par sa miséricorde. 26 Belle est la miséricorde de Dieu au temps de la tribulation, comme la nuée de la pluie au temps de la sécheresse.
 

@@ -28,7 +28,7 @@ summary: |
 
 6 Puis, par Jazer ils passèrent en Galaad, et dans la terre inférieure d'Hodsi; et ils vinrent dans les forêts de Dan. Tournant ensuite près de Sidon,
 
-***Note*** :  II Rois 24, 6 : Jazer. Voir Nombres, 21, 32. ― Dans la terre inférieure d’Hodsi. Il faut corriger les noms propres qui ont été défigurés par les copistes et lire : à Cadès (ville) des Héthéens, dans la Cœlésyrie. ― Dan, au nord de la Palestine, à l’une des sources du Jourdain. ― Sidon, sur la Méditerranée, en Phénicie, au nord de Tyr.
+***Note*** :  II Rois 24, 6 : Jazer. Voir Nombres, 21, 32. ― Dans la terre inférieure d’Hodsi. Il faut corriger les noms propres qui ont été défigurés par les copistes et lire : à Cadès (ville) des Héthéens, dans la Coelésyrie. ― Dan, au nord de la Palestine, à l’une des sources du Jourdain. ― Sidon, sur la Méditerranée, en Phénicie, au nord de Tyr.
 
 7 Ils passèrent près des murailles de Tyr, et de toute la terre de l'Hévéen et du Chananéen, et ils vinrent au midi de Juda, à Bersabée.
 
@@ -37,7 +37,7 @@ summary: |
 8 Et, toute la terre examinée, ils se trouvèrent, après neuf mois et vingt jours, à Jérusalem. 9 Joab donc donna le dénombrement du peuple au roi, et il se trouva d'Israël huit cent mille hommes forts, qui pouvaient tirer l'épée; et de Juda, cinq cent mille combattants.
 
 
-10 Mais le cœur de David fut pris de remords, après que le peuple eut été dénombré, et David dit au Seigneur : J'ai beaucoup péché en cette action ; mais je vous prie. Seigneur, écartez l'iniquité de votre serviteur, parce que j'ai agi tout à fait en insensé.
+10 Mais le coeur de David fut pris de remords, après que le peuple eut été dénombré, et David dit au Seigneur : J'ai beaucoup péché en cette action ; mais je vous prie. Seigneur, écartez l'iniquité de votre serviteur, parce que j'ai agi tout à fait en insensé.
 
 
 11 C'est pourquoi David se leva le matin, et la parole du Seigneur fut adressée à Gad, le prophète et le voyant de David, disant:12 Va, et parle à David : Voici ce que dit le Seigneur : L'option de trois choses t'est donnée ; choisis celle que tu voudras, afin que je te la fasse. 13 Lors donc que Gad fut venu vers David, il lui annonça, disant : Ou une famine vous viendra sur la terre durant sept ans; ou vous fuirez vos ennemis durant trois mois, et eux vous poursuivront; ou bien une peste sera pendant trois jours dans votre terre. Maintenant donc délibérez, et voyez quelle parole je dois porter en réponse à celui qui m'a envoyé. 14 Et David répondit à Gad : Je suis dans une très grande angoisse, mais il vaut mieux que je tombe dans les mains du Seigneur (car ses miséricordes sont sans nombre), que dans les mains des hommes.
@@ -52,11 +52,11 @@ summary: |
 17 Et David dit au Seigneur, quand il vit l'ange tuant le peuple : C'est moi qui ai péché et qui ai agi iniquement : ceux-ci, qui sont les brebis, qu'ont-ils fait? Que votre main, je vous conjure, se tourne contre moi et contre la maison de mon père.
 
 
-18 Or, Gad vint vers David en ce jour-là, et lui dit : Montez, et élevez au Seigneur un autel dans l'aire d'Aréuna, le Jébuséen. 19 Et David monta selon la parole de Gad, que lui avait ordonnée le Seigneur. 20 Et regardant, Aréuna aperçut le roi et ses serviteurs venir vers lui; 21 Et il sortit et se prosterna devant le roi, le visage incliné vers la terre, et il dit : Quelle raison y a-t-il pour que mon seigneur le roi vienne vers son serviteur? David lui répondit : C'est pour acheter de toi l'aire et bâtir un autel au Seigneur, afin que cesse la tuerie qui ravage le peuple. 22 Et Aréuna dit à David : Que mon seigneur le roi prenne, et qu'il offre comme il lui plaît : vous avez les bœufs pour l'holocauste, le char, et les jougs de bœufs, pour servir de bois.
+18 Or, Gad vint vers David en ce jour-là, et lui dit : Montez, et élevez au Seigneur un autel dans l'aire d'Aréuna, le Jébuséen. 19 Et David monta selon la parole de Gad, que lui avait ordonnée le Seigneur. 20 Et regardant, Aréuna aperçut le roi et ses serviteurs venir vers lui; 21 Et il sortit et se prosterna devant le roi, le visage incliné vers la terre, et il dit : Quelle raison y a-t-il pour que mon seigneur le roi vienne vers son serviteur? David lui répondit : C'est pour acheter de toi l'aire et bâtir un autel au Seigneur, afin que cesse la tuerie qui ravage le peuple. 22 Et Aréuna dit à David : Que mon seigneur le roi prenne, et qu'il offre comme il lui plaît : vous avez les boeufs pour l'holocauste, le char, et les jougs de boeufs, pour servir de bois.
 
 ***Note*** :  II Rois 24, 22 : Pour servir de bois ; pour faire le bûcher.
 
-23 Le roi Aréuna donna toutes ces choses au roi; et Aréuna dit au roi : Que le Seigneur votre Dieu reçoive votre vœu. 24 Le roi, lui répondant, dit : Pas du tout comme vous voulez; mais j'achèterai de vous, selon le prix, et je n'offrirai point au Seigneur mon Dieu des holocaustes qui ne me coûtent rien. David donc acheta l'aire et les bœufs cinquante sicles d'argent.
+23 Le roi Aréuna donna toutes ces choses au roi; et Aréuna dit au roi : Que le Seigneur votre Dieu reçoive votre voeu. 24 Le roi, lui répondant, dit : Pas du tout comme vous voulez; mais j'achèterai de vous, selon le prix, et je n'offrirai point au Seigneur mon Dieu des holocaustes qui ne me coûtent rien. David donc acheta l'aire et les boeufs cinquante sicles d'argent.
 
 ***Note*** :  II Rois 24, 24 : Pas du tout, etc. Construction elliptique. Voir 2 Rois, 18, 14. ― Cinquante sicles d’argent. Voir 2 Rois, note 18. 11-12.
 

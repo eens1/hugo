@@ -15,7 +15,7 @@ summary: |
 
 ***Note*** :  Sir. 5, 1 ; 5. 10 : L’obscurcissement. Voir Ecclésiastique, 2, 2.
 
-2 Ne suis pas dans ta force les désirs de ton cœur; 3 Et ne dis pas : Comme je suis puissant! ou : Qui me fera rendre compte de mes actions? car Dieu en tirera une grande vengeance.
+2 Ne suis pas dans ta force les désirs de ton coeur; 3 Et ne dis pas : Comme je suis puissant! ou : Qui me fera rendre compte de mes actions? car Dieu en tirera une grande vengeance.
 
 
 4 Et ne dis pas : J'ai péché, et que m'est-il arrivé de triste? car le Très-Haut, quoique patient, rend selon le mérite. 5 Sur un péché pardonné ne sois pas sans crainte, et n'ajoute pas péché sur péché. 6 Et ne dis pas : La miséricorde du Seigneur est grande ; de la multitude de mes péchés il aura pitié. 7 Car la miséricorde et la colère qui viennent de lui s'approchent rapidement, et sa colère regarde attentivement les pécheurs.

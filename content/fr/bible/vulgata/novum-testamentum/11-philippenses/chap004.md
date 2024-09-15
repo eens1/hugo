@@ -9,19 +9,19 @@ draft: false
 
 2 Evodiam rogo, et Syntychen deprecor idipsum sapere in Domino.
 
-3 Etiam rogo et te germane compar, adiuva illas, quæ mecum laboraverunt in Evangelio cum Clemente, et ceteris adiutoribus meis, quorum nomina sunt in libro vitæ.
+3 Etiam rogo et te germane compar, adiuva illas, quae mecum laboraverunt in Evangelio cum Clemente, et ceteris adiutoribus meis, quorum nomina sunt in libro vitae.
 
 4 Gaudete in Domino semper: iterum dico gaudete.
 
 5 Modestia vestra nota sit omnibus hominibus: Dominus prope est.
 
-6 Nihil soliciti sitis: sed in omni oratione, et obsecratione, cum gratiarum actione petitiones vestræ innotescant apud Deum.
+6 Nihil soliciti sitis: sed in omni oratione, et obsecratione, cum gratiarum actione petitiones vestrae innotescant apud Deum.
 
-7 Et pax Dei, quæ exuperat omnem sensum, custodiat corda vestra, et intelligentias vestras in Christo Iesu.
+7 Et pax Dei, quae exuperat omnem sensum, custodiat corda vestra, et intelligentias vestras in Christo Iesu.
 
-8 De cetero fratres, quæcumque sunt vera, quæcumque pudica, quæcumque iusta, quæcumque sancta, quæcumque amabilia, quæcumque bonæ famæ, siqua virtus, siqua laus disciplinæ, hæc cogitate.
+8 De cetero fratres, quaecumque sunt vera, quaecumque pudica, quaecumque iusta, quaecumque sancta, quaecumque amabilia, quaecumque bonae famae, siqua virtus, siqua laus disciplinae, haec cogitate.
 
-9 Quæ et didicistis, et accepistis, et audistis, et vidistis in me, hæc agite: et Deus pacis erit vobiscum.
+9 Quae et didicistis, et accepistis, et audistis, et vidistis in me, haec agite: et Deus pacis erit vobiscum.
 
 10 Gavisus sum autem in Domino vehementer, quoniam tandem aliquando refloruistis pro me sentire, sicut et sentiebatis: occupati autem eratis.
 
@@ -31,23 +31,23 @@ draft: false
 
 13 omnia possum in eo, qui me confortat.
 
-14 Verumtamen bene fecistis, communicantes tribulationi meæ.
+14 Verumtamen bene fecistis, communicantes tribulationi meae.
 
 15 Scitis autem et vos Philippenses, quod in principio Evangelii, quando profectus sum a Macedonia, nulla mihi Ecclesia communicavit in ratione dati et accepti, nisi vos soli:
 
 16 quia et Thessalonicam semel et bis in usum mihi misistis.
 
-17 Non quia quæro datum, sed requiro fructum abundantem in ratione vestra.
+17 Non quia quaero datum, sed requiro fructum abundantem in ratione vestra.
 
-18 Habeo autem omnia, et abundo: repletus sum, acceptis ab Epaphrodito quæ misistis odorem suavitatis, hostiam acceptam, placentem Deo.
+18 Habeo autem omnia, et abundo: repletus sum, acceptis ab Epaphrodito quae misistis odorem suavitatis, hostiam acceptam, placentem Deo.
 
 19 Deus autem meus impleat omne desiderium vestrum secundum divitias suas in gloria in Christo Iesu.
 
-20 Deo autem et Patri nostro gloria in sæcula sæculorum: Amen.
+20 Deo autem et Patri nostro gloria in saecula saeculorum: Amen.
 
 21 Salutate omnem sanctum in Christo Iesu.
 
-22 Salutant vos, qui mecum sunt, fratres. Salutant vos omnes sancti, maxime autem qui de Cæsaris domo sunt.
+22 Salutant vos, qui mecum sunt, fratres. Salutant vos omnes sancti, maxime autem qui de Caesaris domo sunt.
 
 23 Gratia Domini nostri Iesu Christi cum spiritu vestro. Amen.
 

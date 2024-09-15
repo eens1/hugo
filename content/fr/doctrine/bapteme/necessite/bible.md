@@ -21,6 +21,6 @@ draft: false
 
 [^4]: Glaire 1905, p. 2709.
 
-> *Tite 3:5* : "Ce n'est point par les œuvres de sa justice que nous avons faites qu'il nous a sauvés, mais selon sa miséricorde, c'est par le baptême de régénération et de renouvellement de l'Esprit-Saint." [^5]
+> *Tite 3:5* : "Ce n'est point par les oeuvres de sa justice que nous avons faites qu'il nous a sauvés, mais selon sa miséricorde, c'est par le baptême de régénération et de renouvellement de l'Esprit-Saint." [^5]
 
 [^5]: Glaire 1905, p. 2854.

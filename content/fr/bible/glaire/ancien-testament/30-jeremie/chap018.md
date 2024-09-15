@@ -40,7 +40,7 @@ d’enfants, brûlés en l’honneur de Moloch ou de Baal. Il rappelle d’abord
 
 8 Si cette nation se repent du mal que je lui ai reproché, je me repentirai moi aussi du mal que j'ai résolu de lui faire.
 
-***Note*** :  Jr. 18, 8 : Je me repentirai. Dieu parlant aux hommes emprunte ici leur langage. Il ne peut nullement se repentir, mais il peut paraître se repentir, quand il s’abstient d’accomplir le mal dont il avait menacé. Dieu, suivant la remarque de saint Augustin, change ses œuvres, mais ne change pas ses desseins ; or c’est en changeant ses œuvres qu’il paraît changer ses desseins.
+***Note*** :  Jr. 18, 8 : Je me repentirai. Dieu parlant aux hommes emprunte ici leur langage. Il ne peut nullement se repentir, mais il peut paraître se repentir, quand il s’abstient d’accomplir le mal dont il avait menacé. Dieu, suivant la remarque de saint Augustin, change ses oeuvres, mais ne change pas ses desseins ; or c’est en changeant ses oeuvres qu’il paraît changer ses desseins.
 
 9 Soudain aussi je parlerai d'une nation et d'un royaume, afin de l'édifier et de l'affermir.
 
@@ -51,11 +51,11 @@ d’enfants, brûlés en l’honneur de Moloch ou de Baal. Il rappelle d’abord
 ***Note*** :  Jr. 18, 10 : Cette nation ; est évidemment, d’après le texte original, le sujet grammatical, quoique sous-entendu, des verbes fait et écoute ; mais le sujet logique comprend de plus le mot royaume, exprimé au verset précédent. ― Lui ; dans l’hébreu se rapporte à nation ; les Septante portent à eux ; ce qui comprend nation et royaume, et rend exactement le sens.
 
 
-11 Maintenant donc, dis à l'homme de Juda et aux habitants de Jérusalem, en disant : Voici ce que dit le Seigneur : Voilà que moi je prépare contre vous un malheur, et que je forme contre vous une résolution : que chacun revienne de sa voie mauvaise, et dirigez vos voies et vos œuvres.
+11 Maintenant donc, dis à l'homme de Juda et aux habitants de Jérusalem, en disant : Voici ce que dit le Seigneur : Voilà que moi je prépare contre vous un malheur, et que je forme contre vous une résolution : que chacun revienne de sa voie mauvaise, et dirigez vos voies et vos oeuvres.
 
 ***Note*** :  Jr. 18, 11 : Voir 4 Rois, 17, 13 ; Jérémie, 25, 5 ; 35, 15 ; Jean, 3, 9 (a supprimer).
 
-12 Et ils ont dit : Nous avons désespéré; nous suivrons nos pensées, chacun de nous accomplira la dépravation de son cœur mauvais.
+12 Et ils ont dit : Nous avons désespéré; nous suivrons nos pensées, chacun de nous accomplira la dépravation de son coeur mauvais.
 
 
 13 C'est pourquoi, voici ce que dit le Seigneur : Interrogez les nations : Qui a jamais ouï des choses horribles, telles que celles qu'a commises à l'excès la vierge d'Israël? 14 Est-ce que la neige du Liban abandonnera le sentier de la campagne? ou peuvent-elles être détruites, des eaux jaillissantes, fraîches et coulantes?

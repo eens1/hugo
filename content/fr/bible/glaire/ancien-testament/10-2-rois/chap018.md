@@ -32,7 +32,7 @@ summary: |
 
 ***Note*** :  II Rois 18, 11-12 : Le sicle d’argent avait chez les Hébreux le même poids que le sicle d’or, environ 14 grammes 177. Quant à la valeur comme monnaie, le sicle d’argent pur représentait environ 1 francs 60 et le sicle d’or pur, environ 23 francs 20 (en 1 900 ? ).
 
-12 Celui-ci dit à Joab : Quand vous pèseriez en mes mains mille sicles d'argent, je ne porterais nullement ma main sur le fils du roi ; car, comme nous l'avons ouï, le roi vous a ordonné à vous, à Abisaï et à Ethaï, disant : Conservez mon fils Absalom. 13 Mais si j'avais agi ainsi audacieusement contre mon âme, cela n'aurait pu être nullement caché au roi; et vous, seriez-vous contre lui? 14 Et Joab dit : Non pas comme tu veux, mais je l'attaquerai devant toi. Joab donc prit trois dards en sa main, et les enfonça dans le cœur d'Absalom ; et comme il respirait encore, suspendu au chêne,
+12 Celui-ci dit à Joab : Quand vous pèseriez en mes mains mille sicles d'argent, je ne porterais nullement ma main sur le fils du roi ; car, comme nous l'avons ouï, le roi vous a ordonné à vous, à Abisaï et à Ethaï, disant : Conservez mon fils Absalom. 13 Mais si j'avais agi ainsi audacieusement contre mon âme, cela n'aurait pu être nullement caché au roi; et vous, seriez-vous contre lui? 14 Et Joab dit : Non pas comme tu veux, mais je l'attaquerai devant toi. Joab donc prit trois dards en sa main, et les enfonça dans le coeur d'Absalom ; et comme il respirait encore, suspendu au chêne,
 
 ***Note*** :  II Rois 18, 14 : Non pas, etc. Construction elliptique, pour il n’en sera pas comme, etc. Comparer à Matthieu, 26, 39.
 

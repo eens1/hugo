@@ -13,7 +13,7 @@ summary: |
 
 ***Note*** :  II Esdras 6, 2 : Dans la campagne d’Ono, dans la tribu de Benjamin, au nord de Jérusalem.
 
-3 Je leur envoyai donc des messagers, disant : Je fais un grand travail; ainsi je ne puis descendre, de peur qu'il ne soit négligé lorsque j'irai et descendrai vers vous. 4 Or ils renvoyèrent vers moi, d'après cette parole, par quatre fois, et je leur répondis selon la première parole. 5 Alors Sanaballat m'envoya, pour la cinquième fois, son serviteur, qui avait en sa main une lettre écrite en ces termes :6 Parmi les nations, on a appris, et Gossem a dit, que toi et les Juifs vous songez à vous révolter, que pour cela tu bâtis le mur, que tu veux t'élever jusqu'à être roi sur eux, et que pour ce motif, 7 Tu as même aposté des prophètes pour t'annoncer dans Jérusalem, disant : Il y a un roi en Judée. Le roi va apprendre ces choses ; c'est pourquoi viens maintenant, afin que nous tenions conseil ensemble. 8 Et j'envoyai vers eux disant: Il n'a pas été fait selon ces paroles que tu dis ; mais c'est dans ton cœur que tu inventes toi-même ces choses. 9 Car tous ces gens nous épouvantaient, pensant que nos mains
+3 Je leur envoyai donc des messagers, disant : Je fais un grand travail; ainsi je ne puis descendre, de peur qu'il ne soit négligé lorsque j'irai et descendrai vers vous. 4 Or ils renvoyèrent vers moi, d'après cette parole, par quatre fois, et je leur répondis selon la première parole. 5 Alors Sanaballat m'envoya, pour la cinquième fois, son serviteur, qui avait en sa main une lettre écrite en ces termes :6 Parmi les nations, on a appris, et Gossem a dit, que toi et les Juifs vous songez à vous révolter, que pour cela tu bâtis le mur, que tu veux t'élever jusqu'à être roi sur eux, et que pour ce motif, 7 Tu as même aposté des prophètes pour t'annoncer dans Jérusalem, disant : Il y a un roi en Judée. Le roi va apprendre ces choses ; c'est pourquoi viens maintenant, afin que nous tenions conseil ensemble. 8 Et j'envoyai vers eux disant: Il n'a pas été fait selon ces paroles que tu dis ; mais c'est dans ton coeur que tu inventes toi-même ces choses. 9 Car tous ces gens nous épouvantaient, pensant que nos mains
 cesseraient le travail et que nous nous reposerions. Pour ce motif, je fortifiai davantage mes mains.
 
 ***Note*** :  II Esdras 6, 9 : Je fortifiai, etc. , c’est-à-dire, je me suis appliqué au travail avec encore plus de courage et plus d’ardeur.
@@ -30,9 +30,9 @@ cesseraient le travail et que nous nous reposerions. Pour ce motif, je fortifiai
 12 Et je compris que Dieu ne l'avait pas envoyé, mais qu'il m'avait parlé en feignant d'être prophète, et que Tobie et Sanaballat l'avaient gagné ; 13 Car il avait reçu un salaire, afin que j'agisse et, épouvanté, je péchasse, et qu'ils eussent un mal à me reprocher.
 
 
-14 Souvenez-vous de moi, Seigneur, en considérant ces œuvres de Tobie et de Sanaballat ; mais souvenez-vous aussi de Noadie, le prophète, et de tous les autres prophètes qui m'épouvantaient.
+14 Souvenez-vous de moi, Seigneur, en considérant ces oeuvres de Tobie et de Sanaballat ; mais souvenez-vous aussi de Noadie, le prophète, et de tous les autres prophètes qui m'épouvantaient.
 
-***Note*** :  II Esdras 6, 14 : En considérant, etc. ; littéralement : Eu égard à Tobie et à Sanaballat, selon leurs œuvres telles.
+***Note*** :  II Esdras 6, 14 : En considérant, etc. ; littéralement : Eu égard à Tobie et à Sanaballat, selon leurs oeuvres telles.
 
 
 15 Or le mur fut achevé le vingt-cinquième jour du mois d'Elul, en cinquante-deux jours.

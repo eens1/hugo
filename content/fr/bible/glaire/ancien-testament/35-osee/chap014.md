@@ -20,7 +20,7 @@ summary: |
 ***Note*** :  Os. 14, 3 : De pénitence. Cette expression ou toute autre semblable qui ne se lit dans l’hébreu ni dans les Septante, mais que réclame évidemment le contexte, se trouve dans la version chaldaïque sous le nom de confession, louange, et dans le commentaire de saint Jérôme sous celui de prière, confession de fautes. ― Le sacrifice de nos lèvres ; nos louanges, nos actions de grâces ; littéralement, les veaux de nos lèvres ; allusion aux sacrifices dans lesquels on offrait des veaux au Seigneur.
 
 
-4 Assur ne nous sauvera pas, nous ne monterons pas sur des chevaux, et nous ne dirons plus: Vous êtes nos dieux, œuvres de nos mains; parce que vous aurez pitié de l'orphelin qui se repose en vous.
+4 Assur ne nous sauvera pas, nous ne monterons pas sur des chevaux, et nous ne dirons plus: Vous êtes nos dieux, oeuvres de nos mains; parce que vous aurez pitié de l'orphelin qui se repose en vous.
 
 
 5 Je guérirai leurs meurtrissures, je les aimerai de mon propre mouvement, parce que ma fureur s'est détournée d'eux. 6 Je serai comme la rosée, Israël germera comme le lis, et sa racine poussera avec force comme les plantes du Liban.

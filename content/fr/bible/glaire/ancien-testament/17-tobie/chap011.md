@@ -30,7 +30,7 @@ summary: |
 9 Alors courut devant eux le chien qui avait été avec eux pendant le chemin; et, comme un messager qui arrive, il témoignait sa joie en caressant avec sa queue. 10 Et, se levant, le père de Tobie, aveugle, se mit à courir, heurtant de ses pieds ; et, donnant la main à un serviteur, il alla au-devant de son fils; 11 Et, le recevant, il le baisa et sa mère le baisa avec lui; et ils commencèrent tous deux à pleurer de joie.
 
 
-12 Puis, ayant adoré Dieu, et lui ayant rendu grâces, ils s'assirent. 13 Alors Tobie, prenant du fiel du poisson, en frotta les yeux de son père. 14 Et il attendit environ une demi-heure, et la taie commença à sortir de l'œil comme la membrane d'un œuf :15 Tobie, la saisissant, l'arracha de ses yeux, et recouvra aussitôt la vue.
+12 Puis, ayant adoré Dieu, et lui ayant rendu grâces, ils s'assirent. 13 Alors Tobie, prenant du fiel du poisson, en frotta les yeux de son père. 14 Et il attendit environ une demi-heure, et la taie commença à sortir de l'oeil comme la membrane d'un oeuf :15 Tobie, la saisissant, l'arracha de ses yeux, et recouvra aussitôt la vue.
 
 ***Note*** :  Tobie 11, 15 : Tobie : le fils, selon la Vulgate ; le grec ne détermine ni le père, ni le fils.
 

@@ -35,11 +35,11 @@ draft: false
 
 15 Dives non addet ad medium sicli, et pauper nihil minuet.
 
-16 Susceptamque pecuniam, quæ collata est a filiis Israel, trades in usus tabernaculi testimonii, ut sit monimentum eorum coram Domino, et propitietur animabus eorum.
+16 Susceptamque pecuniam, quae collata est a filiis Israel, trades in usus tabernaculi testimonii, ut sit monimentum eorum coram Domino, et propitietur animabus eorum.
 
 17 Locutusque est Dominus ad Moysen, dicens:
 
-18 Facies et labrum æneum cum basi sua ad lavandum: ponesque illud inter tabernaculum testimonii et altare. Et missa aqua,
+18 Facies et labrum aeneum cum basi sua ad lavandum: ponesque illud inter tabernaculum testimonii et altare. Et missa aqua,
 
 19 lavabunt in ea Aaron, et filii eius manus suas ac pedes,
 
@@ -49,9 +49,9 @@ draft: false
 
 22 Locutusque est Dominus ad Moysen,
 
-23 dicens: Sume tibi aromata, primæ myrrhæ et electæ quingentos siclos, et cinnamomi medium, id est, ducentos quinquaginta siclos, calami similiter ducentos quinquaginta,
+23 dicens: Sume tibi aromata, primae myrrhae et electae quingentos siclos, et cinnamomi medium, id est, ducentos quinquaginta siclos, calami similiter ducentos quinquaginta,
 
-24 casiæ autem quingentos siclos in pondere sanctuarii, olei de olivetis mensuram hin:
+24 casiae autem quingentos siclos in pondere sanctuarii, olei de olivetis mensuram hin:
 
 25 faciesque unctionis oleum sanctum, unguentum compositum opere unguentarii,
 
@@ -59,7 +59,7 @@ draft: false
 
 27 mensamque cum vasis suis, et candelabrum, et utensilia eius, altaria thymiamatis,
 
-28 et holocausti, et universam supellectilem quæ ad cultum eorum pertinet.
+28 et holocausti, et universam supellectilem quae ad cultum eorum pertinet.
 
 29 Sanctificabisque omnia, et erunt Sancta sanctorum: qui tetigerit ea, sanctificabitur.
 
@@ -71,7 +71,7 @@ draft: false
 
 33 Homo quicumque tale composuerit, et dederit ex eo, alieno, exterminabitur de populo suo.
 
-34 Dixitque Dominus ad Moysen: Sume tibi aromata, stacten et onycha, galbanum boni odoris, et thus lucidissimum, æqualis ponderis erunt omnia:
+34 Dixitque Dominus ad Moysen: Sume tibi aromata, stacten et onycha, galbanum boni odoris, et thus lucidissimum, aequalis ponderis erunt omnia:
 
 35 faciesque thymiama compositum opere unguentarii, mistum diligenter, et purum, et sanctificatione dignissimum.
 

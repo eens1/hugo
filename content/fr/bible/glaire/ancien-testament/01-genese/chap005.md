@@ -52,7 +52,7 @@ summary: |
 25 Mathusala aussi vécut cent quatre-vingt-sept ans, et il engendra Lamech. 26 Or Mathusala vécut, après qu'il eut engendré Lamech, sept cent quatre-vingt-deux ans, et il engendra des fils et des filles. 27 Ainsi tous les jours de Mathusala furent de neuf cent soixante-neuf ans, et il mourut.
 
 
-28 Lamech vécut cent quatre vingt-deux ans, et il engendra un fils. 29 Il l'appela du nom de Noé, disant : Celui-ci nous consolera des œuvres et des travaux pénibles de nos mains dans cette terre qu'a maudite le Seigneur. 30 Et Lamech vécut, après qu'il eut engendré Noé, cinq cent quatre-vingt-quinze ans, et il engendra des fils et des filles. 31 Ainsi tous les jours de Lamech furent de sept cent soixante dix-sept ans, et il mourut. Mais Noé, lorsqu'il avait cinq cents ans, engendra Sem, Cham et Japheth.
+28 Lamech vécut cent quatre vingt-deux ans, et il engendra un fils. 29 Il l'appela du nom de Noé, disant : Celui-ci nous consolera des oeuvres et des travaux pénibles de nos mains dans cette terre qu'a maudite le Seigneur. 30 Et Lamech vécut, après qu'il eut engendré Noé, cinq cent quatre-vingt-quinze ans, et il engendra des fils et des filles. 31 Ainsi tous les jours de Lamech furent de sept cent soixante dix-sept ans, et il mourut. Mais Noé, lorsqu'il avait cinq cents ans, engendra Sem, Cham et Japheth.
 
 ***Note*** :  Gn. 5, 31 : Voir à la fin du volume la note 5 sur la longévité des patriarches.
 

@@ -27,7 +27,7 @@ summary: |
 
 4 A cause de Jacob mon serviteur, et d'Israël mon élu ; je t'ai appelé par ton nom : je t'ai assimilé à mon Christ, et tu ne m'as pas connu.
 
-***Note*** :  Is. 45, 4 : A cause de Jacob, etc. ; c’est-à-dire pour venger le peuple qui m’adore, que je me suis choisi, et que je protège d’une manière toute particulière. ― Je t’ai assimilé à mon Christ ; vrai roi et pasteur de mon peuple, en te donnant le titre de mon pasteur (voir Isaïe, 44, 28) et de mon Christ (voir Isaïe, 45, 1), en te choisissant pour être sa figure. Le verbe hébreu que la Vulgate a traduit ici et à Isaïe, 44, 5, par assimiler (assimilavi), elle l’a rendu dans Job, 32, 21, par égaler (æquabo), et au verset 22 de ce même chapitre de Job par subsister (subsistam). ― Et tu ne m’as pas connu ; c’est-à-dire tu ne m’as pas honoré comme tu le devais, en abandonnant le culte des idoles. Rien, en effet, ne prouve que Cyrus, tout en avouant que le Seigneur lui avait livré tous les royaumes de la terre (voir 1 Esdras, 1, 2), abandonna la religion des Perses et embrassa celle des Juifs. C’est ainsi que Nabuchodonosor, qui avait reconnu la main du Seigneur (voir Daniel, 2, 47), resta dans l’erreur et dans
+***Note*** :  Is. 45, 4 : A cause de Jacob, etc. ; c’est-à-dire pour venger le peuple qui m’adore, que je me suis choisi, et que je protège d’une manière toute particulière. ― Je t’ai assimilé à mon Christ ; vrai roi et pasteur de mon peuple, en te donnant le titre de mon pasteur (voir Isaïe, 44, 28) et de mon Christ (voir Isaïe, 45, 1), en te choisissant pour être sa figure. Le verbe hébreu que la Vulgate a traduit ici et à Isaïe, 44, 5, par assimiler (assimilavi), elle l’a rendu dans Job, 32, 21, par égaler (aequabo), et au verset 22 de ce même chapitre de Job par subsister (subsistam). ― Et tu ne m’as pas connu ; c’est-à-dire tu ne m’as pas honoré comme tu le devais, en abandonnant le culte des idoles. Rien, en effet, ne prouve que Cyrus, tout en avouant que le Seigneur lui avait livré tous les royaumes de la terre (voir 1 Esdras, 1, 2), abandonna la religion des Perses et embrassa celle des Juifs. C’est ainsi que Nabuchodonosor, qui avait reconnu la main du Seigneur (voir Daniel, 2, 47), resta dans l’erreur et dans
 l’idolâtrie. Cependant tout véritable hébraïsant devra reconnaître que le texte original peut signifier : Et tu ne l’avais pas connu, c’est-à-dire, quoique tu ne le connusses pas auparavant ; ce qui ne préjuge rien sur la conduite postérieure de Cyrus.
 
 
@@ -51,7 +51,7 @@ l’idolâtrie. Cependant tout véritable hébraïsant devra reconnaître que le
 10 Malheur à celui qui dit à un père : Pourquoi engendres-tu? et à une femme : Pourquoi enfantes-tu ?
 
 
-11 Voici ce que dit le Seigneur, le saint d'Israël, celui qui l'a formé : Interrogez-moi sur les choses à venir ; sur mes fils et sur l'œuvre de mes mains, donnez- moi vos ordres. 12 C'est moi qui ai fait la terre, et moi qui ai créé l'homme sur la terre; mes mains ont étendu les cieux, et à toute leur milice j'ai donné mes ordres.
+11 Voici ce que dit le Seigneur, le saint d'Israël, celui qui l'a formé : Interrogez-moi sur les choses à venir ; sur mes fils et sur l'oeuvre de mes mains, donnez- moi vos ordres. 12 C'est moi qui ai fait la terre, et moi qui ai créé l'homme sur la terre; mes mains ont étendu les cieux, et à toute leur milice j'ai donné mes ordres.
 
 ***Note*** :  Is. 45, 12 : Leur milice ; les étoiles.
 

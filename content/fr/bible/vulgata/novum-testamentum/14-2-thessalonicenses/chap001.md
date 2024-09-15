@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Paulus, et Sylvanus, et Timotheus, Ecclesiæ Thessalonicensium in Deo Patre nostro, et Domino Iesu Christo.
+1 Paulus, et Sylvanus, et Timotheus, Ecclesiae Thessalonicensium in Deo Patre nostro, et Domino Iesu Christo.
 
 2 Gratia vobis, et pax a Deo Patre nostro, et Domino Iesu Christo.
 
@@ -17,11 +17,11 @@ draft: false
 
 6 si tamen iustum est apud Deum retribuere tribulationem iis, qui vos tribulant:
 
-7 et vobis, qui tribulamini, requiem nobiscum in revelatione Domini Iesu de cælo cum angelis virtutis eius,
+7 et vobis, qui tribulamini, requiem nobiscum in revelatione Domini Iesu de caelo cum angelis virtutis eius,
 
 8 in flamma ignis dantis vindictam iis, qui non noverunt Deum, et qui non obediunt Evangelio Domini nostri Iesu Christi.
 
-9 qui pœnas dabunt in interitu æternas a facie Domini, et a gloria virtutis eius:
+9 qui poenas dabunt in interitu aeternas a facie Domini, et a gloria virtutis eius:
 
 10 cum venerit glorificari in sanctis suis, et admirabilis fieri in omnibus, qui crediderunt, quia creditum est testimonium nostrum super vos in die illo.
 

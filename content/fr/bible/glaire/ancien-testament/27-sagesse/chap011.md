@@ -11,7 +11,7 @@ summary: |
 ---
 
 
-1 Elle a dirigé leurs œuvres par les mains d'un saint prophète.
+1 Elle a dirigé leurs oeuvres par les mains d'un saint prophète.
 
 ***Note*** :  Sg. 11, 1 : Voir Exode, 16, 1. ― D’un saint prophète ; c’est-à-dire de Moïse, appelé en effet prophète dans plusieurs passages de l’Ecriture. Voir Nombres, 12, 6-7 ; Deutéronome, 18, 15 ; 34, 10.
 
@@ -30,7 +30,7 @@ summary: |
 
 5 Car, lorsque leurs ennemis furent punis par le manque de leurs eaux, tandis que les fils d'Israël se réjouirent d'en avoir en abondance ;
 
-***Note*** :  Sg. 11, 5 : Dans la Vulgate, le sens de ce verset n’est achevé que dans le suivant. Les exigences de notre langue s’opposant à la traduction littérale, nous avons tâché cependant de nous écarter le moins possible de la lettre du texte sacré. L’auteur rappelle ici que les Egyptiens furent tourmentés par la soif, parce que toutes les eaux de leur pays furent changées en sang par Moïse et Aaron (voir Exode, 7, 19-20), tandis que les Israélites se réjouirent d’en avoir en abondance de potable. ― L’expression dans elles (in eis) est le complément ou le régime du verbe ils se réjouirent (lætati sunt) ; et le pronom elles (eis), en particulier, remplace le mot eaux (aquis) représenté dans le verset même par boisson (potus).
+***Note*** :  Sg. 11, 5 : Dans la Vulgate, le sens de ce verset n’est achevé que dans le suivant. Les exigences de notre langue s’opposant à la traduction littérale, nous avons tâché cependant de nous écarter le moins possible de la lettre du texte sacré. L’auteur rappelle ici que les Egyptiens furent tourmentés par la soif, parce que toutes les eaux de leur pays furent changées en sang par Moïse et Aaron (voir Exode, 7, 19-20), tandis que les Israélites se réjouirent d’en avoir en abondance de potable. ― L’expression dans elles (in eis) est le complément ou le régime du verbe ils se réjouirent (laetati sunt) ; et le pronom elles (eis), en particulier, remplace le mot eaux (aquis) représenté dans le verset même par boisson (potus).
 
 6 Eux-mêmes, lorsqu'ils en manquèrent, furent bien traités.
 
@@ -57,7 +57,7 @@ summary: |
 
 16 Et quant aux pensées insensées de leur iniquité, parce que quelques-uns, dans leur égarement, adoraient des serpents muets et des bêtes inutiles, vous avez envoyé contre eux une multitude d'animaux muets en signe de vengeance ;
 
-***Note*** :  Sg. 11, 16 : Voir Sagesse, 12, 24. ― Adoraient des serpents muets et des bêtes inutiles (supervacuas) ; le grec porte de peu de valeur, viles. On sait que les Egyptiens rendaient un culte à toutes sortes d‘animaux qu’ils entretenaient dans leurs temples, bœufs, chats, crocodiles, etc.
+***Note*** :  Sg. 11, 16 : Voir Sagesse, 12, 24. ― Adoraient des serpents muets et des bêtes inutiles (supervacuas) ; le grec porte de peu de valeur, viles. On sait que les Egyptiens rendaient un culte à toutes sortes d‘animaux qu’ils entretenaient dans leurs temples, boeufs, chats, crocodiles, etc.
 
 17 Afin qu'ils sussent que par où quelqu'un a péché, c'est par là qu'il est tourmenté. 18 Car il n'était pas impossible à votre main toute-puissante, qui a créé le globe de la terre d'une matière informe, d'envoyer contre eux une multitude d'ours et des lions pleins d'audace,
 
@@ -66,7 +66,7 @@ summary: |
 19 Ou des bêtes inconnues d'une nouvelle espèce, pleines de colère, respirant une vapeur de feu, ou répandant une odeur de fumée, ou lançant par les yeux d'horribles étincelles ; 20 Bêtes dont non seulement la morsure pouvait les exterminer, mais l'aspect même les tuer.
 
 
-21 Mais même sans elles, ils pouvaient d'un seul souffle être tués, poursuivis par leurs propres œuvres, et dispersés par le souffle de votre puissance ; mais vous avez disposé toutes choses avec mesure et nombre et poids. 22 Car la souveraine puissance est à vous seul à jamais : et qui résistera à la force de votre bras? 23 Parce que le globe de la terre est devant vous comme ce qui fait pencher une balance, et comme une goutte de la rosée d'avant le jour, laquelle descend sur la terre.
+21 Mais même sans elles, ils pouvaient d'un seul souffle être tués, poursuivis par leurs propres oeuvres, et dispersés par le souffle de votre puissance ; mais vous avez disposé toutes choses avec mesure et nombre et poids. 22 Car la souveraine puissance est à vous seul à jamais : et qui résistera à la force de votre bras? 23 Parce que le globe de la terre est devant vous comme ce qui fait pencher une balance, et comme une goutte de la rosée d'avant le jour, laquelle descend sur la terre.
 
 ***Note*** :  Sg. 11, 23 : Ce qui fait pencher une balance ; le moindre poids, un grain léger.
 

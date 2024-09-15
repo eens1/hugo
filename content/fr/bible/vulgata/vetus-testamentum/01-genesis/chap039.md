@@ -5,15 +5,15 @@ draft: false
 ---
 
 
-1 Igitur Ioseph ductus est in Ægyptum, emitque eum Putiphar eunuchus Pharaonis, princeps exercitus, vir Ægyptius, de manu Ismaelitarum, a quibus perductus erat.
+1 Igitur Ioseph ductus est in AEgyptum, emitque eum Putiphar eunuchus Pharaonis, princeps exercitus, vir AEgyptius, de manu Ismaelitarum, a quibus perductus erat.
 
 2 Fuitque Dominus cum eo, et erat vir in cunctis prospere agens: habitavitque in domo domini sui,
 
-3 qui optime noverat Dominum esse cum eo, et omnia, quæ gerebat, ab eo dirigi in manu illius.
+3 qui optime noverat Dominum esse cum eo, et omnia, quae gerebat, ab eo dirigi in manu illius.
 
-4 Invenitque Ioseph gratiam coram domino suo, et ministrabat ei, a quo præpositus omnibus gubernabat creditam sibi domum, et universa quæ ei tradita fuerant:
+4 Invenitque Ioseph gratiam coram domino suo, et ministrabat ei, a quo praepositus omnibus gubernabat creditam sibi domum, et universa quae ei tradita fuerant:
 
-5 benedixitque Dominus domui Ægyptii propter Ioseph, et multiplicavit tam in ædibus quam in agris cunctam eius substantiam:
+5 benedixitque Dominus domui AEgyptii propter Ioseph, et multiplicavit tam in aedibus quam in agris cunctam eius substantiam:
 
 6 nec quidquam aliud noverat, nisi panem quo vescebatur. Erat autem Ioseph pulchra facie, et decorus aspectu.
 
@@ -21,7 +21,7 @@ draft: false
 
 8 Qui nequaquam acquiescens operi nefario, dixit ad eam: Ecce dominus meus, omnibus mihi traditis, ignorat quid habeat in domo sua:
 
-9 nec quidquam est quod non in mea sit potestate, vel non tradiderit mihi, præter te, quæ uxor eius es: quo modo ergo possum hoc malum facere, et peccare in Deum meum?
+9 nec quidquam est quod non in mea sit potestate, vel non tradiderit mihi, praeter te, quae uxor eius es: quo modo ergo possum hoc malum facere, et peccare in Deum meum?
 
 10 Huiuscemodi verbis per singulos dies et mulier molesta erat adolescenti: et ille recusabat stuprum.
 
@@ -31,13 +31,13 @@ draft: false
 
 13 Cumque vidisset mulier vestem in manibus suis, et se esse contemptam,
 
-14 vocavit ad se homines domus suæ, et ait ad eos: En introduxit virum Hebræum, ut illuderet nobis: ingressus est ad me, ut coiret mecum: cumque ego succlamassem,
+14 vocavit ad se homines domus suae, et ait ad eos: En introduxit virum Hebraeum, ut illuderet nobis: ingressus est ad me, ut coiret mecum: cumque ego succlamassem,
 
 15 et audisset vocem meam, reliquit pallium quod tenebam, et fugit foras.
 
 16 In argumentum ergo fidei retentum pallium ostendit marito revertenti domum,
 
-17 et ait: Ingressus est ad me servus Hebræus quem adduxisti ut illuderet mihi:
+17 et ait: Ingressus est ad me servus Hebraeus quem adduxisti ut illuderet mihi:
 
 18 cumque audisset me clamare, reliquit pallium quod tenebam, et fugit foras.
 

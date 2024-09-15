@@ -92,7 +92,7 @@ summary: |
 36 Les fils d'Eliphaz, Théman, Omar, Séphi, Gathan, Cénez, Thamna, Amalec. 37 Les fils de Rahuel, Nahath, Zara, Samma, Méza.
 
 
-38 Les fils de Séir : Lotan, Sobal, Sébéon, Ana, Dison, Eser, Disan. 39 Les fils de Lotan : Hori, Homam. Or la sœur de Lothan était Thamna. 40 Les fils de Sobal : Alian, Manahath, Ebal, Séphi et Onam. Les fils de Cébéon : Aïa, et Ana. Les fils d'Ana : Dison.
+38 Les fils de Séir : Lotan, Sobal, Sébéon, Ana, Dison, Eser, Disan. 39 Les fils de Lotan : Hori, Homam. Or la soeur de Lothan était Thamna. 40 Les fils de Sobal : Alian, Manahath, Ebal, Séphi et Onam. Les fils de Cébéon : Aïa, et Ana. Les fils d'Ana : Dison.
 
 ***Note*** :  I Par. 1, 40 : Les fils d’Ana : Dison. Dans les récits généalogiques, ce pluriel s’emploie quelquefois pour le singulier ; mais comme le mot fils signifie aussi enfant des deux sexes, il pourrait se prendre ici dans ce derniers sens et comprendre Oolibama, qui figure comme fille d’Ana dans Genèse, 36, 25.
 

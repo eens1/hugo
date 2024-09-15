@@ -43,12 +43,12 @@ summary: |
 ***Note*** :  Ps. 7, 8 : Et l’assemblée des peuples qui désirent ardemment que vous me rendiez justice, vous environnera pour entendre le jugement que vous porterez en ma faveur, et vous en rendre gloire. ― Retournez en haut sur votre tribunal, d’où il semble que vous êtes descendu pour me laisser en proie à mes ennemis.
 
 
-9 Le Seigneur juge les peuples. Jugez-moi, Seigneur, selon ma justice, et selon l'innocence qui est en moi. 10 La méchanceté des pécheurs sera anéantie, et vous dirigerez le juste, ô Dieu qui sondez les cœurs et les reins.
+9 Le Seigneur juge les peuples. Jugez-moi, Seigneur, selon ma justice, et selon l'innocence qui est en moi. 10 La méchanceté des pécheurs sera anéantie, et vous dirigerez le juste, ô Dieu qui sondez les coeurs et les reins.
 
 ***Note*** :  Ps. 7, 10 : Voir 1 Paralipomènes, 28, 9 ; Jérémie, 11, 20 ; 17, 10 ; 20, 12.
 
 
-11 Un juste secours me viendra du Seigneur, qui sauve les hommes droits de cœur. 12 Dieu est un juge équitable, fort et patient ; est-ce qu'il s'irrite tous les jours?
+11 Un juste secours me viendra du Seigneur, qui sauve les hommes droits de coeur. 12 Dieu est un juge équitable, fort et patient ; est-ce qu'il s'irrite tous les jours?
 
 ***Note*** :  Ps. 7, 12-14 : Dieu est juste et il punit le pécheur ; il est impossible d’échapper à ses flèches, c’est-à-dire à ses jugements.
 

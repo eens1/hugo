@@ -28,11 +28,11 @@ summary: |
 
 ***Note*** :  I Macc. 6, 7 : Bethsura. Voir 1 Machabées, 4, 61.
 
-8 Or il arriva que, dès que le roi apprit ces choses, il fut épouvanté et très agité ; et il se mit au lit et tomba dans la langueur à cause de sa tristesse, parce que rien n'était arrivé comme il l'avait pensé. 9 Et il fut là pendant bien des jours, parce qu'une grande tristesse se renouvela en lui ; et il crut qu'il allait mourir. 10 Et il appela tous ses amis, et leur dit: Le sommeil s'est éloigné de mes yeux, et je suis abattu, et j'ai défailli par le cœur, à cause de mon chagrin.
+8 Or il arriva que, dès que le roi apprit ces choses, il fut épouvanté et très agité ; et il se mit au lit et tomba dans la langueur à cause de sa tristesse, parce que rien n'était arrivé comme il l'avait pensé. 9 Et il fut là pendant bien des jours, parce qu'une grande tristesse se renouvela en lui ; et il crut qu'il allait mourir. 10 Et il appela tous ses amis, et leur dit: Le sommeil s'est éloigné de mes yeux, et je suis abattu, et j'ai défailli par le coeur, à cause de mon chagrin.
 
 ***Note*** :  I Macc. 6, 10 : Ses amis. Voir plus haut, 1 Machabées, 2, 18.
 
-11 Et j'ai dit en mon cœur : A quelle tribulation suis-je arrivé, et à quels îlots de la tristesse maintenant je me trouve, moi qui étais joyeux et chéri dans ma puissance !12 Mais maintenant je me souviens des maux que j'ai faits dans Jérusalem, d'où j'ai emporté toutes les dépouilles d'or et d'argent qui y étaient, et j'ai envoyé détruire sans motif ceux qui habitaient la Judée. 13 Je reconnais donc que c'est à cause de cela que ces maux sont tombés sur moi; et voici que, par une grande tristesse, je péris dans une terre étrangère. 14 Alors il appela Philippe, l'un de ses amis, et le préposa sur tout son royaume;
+11 Et j'ai dit en mon coeur : A quelle tribulation suis-je arrivé, et à quels îlots de la tristesse maintenant je me trouve, moi qui étais joyeux et chéri dans ma puissance !12 Mais maintenant je me souviens des maux que j'ai faits dans Jérusalem, d'où j'ai emporté toutes les dépouilles d'or et d'argent qui y étaient, et j'ai envoyé détruire sans motif ceux qui habitaient la Judée. 13 Je reconnais donc que c'est à cause de cela que ces maux sont tombés sur moi; et voici que, par une grande tristesse, je péris dans une terre étrangère. 14 Alors il appela Philippe, l'un de ses amis, et le préposa sur tout son royaume;
 
 ***Note*** :  I Macc. 6, 14 : Philippe, frère de lait d’Antiochus Epiphane, voir 2 Machabées, 9, 29, est vraisemblablement le Phrygien, dont les Juifs avaient eu beaucoup à se plaindre, voir 2 Machabées, 5, 22. Antiochus Epiphane le chargea de gouverner le royaume après sa mort, pendant la minorité d’Antiochus V, mais il fut chassé d’Antioche par Lysias qui gouvernait au nom d’Antiochus V Eupator. Voir plus haut, 1 Machabées, 3, 32. Philippe fut obligé de se réfugier en Egypte, voir 2 Machabées, 9, 29.
 
@@ -99,7 +99,7 @@ venus aujourd'hui assiéger la citadelle de Jérusalem pour s'en rendre maîtres
 
 50 Ainsi le roi prit Bethsura, et y mit une garnison pour la garder. 51 Et il fit marcher ses troupes vers le lieu saint, où il demeura bien des jours ; et il y établit bien des balistes et des béliers, et des falariques, et des machines pour jeter des pierres, et des dards, et des scorpions pour lancer des flèches, et des frondes.
 
-***Note*** :  I Macc. 6, 51 : Saint ; littéralement, de sanctifications. Voir 1 Machabées, 1, 23. ― Des balistes, machines de guerre pour lancer des pierres. ― Béliers, autres machines de guerre avec lesquelles on battait les murs d’une ville. ― Des falariques, flèches incendiaires. ― Des scorpions, petites machines pour lancer des flèches, qui pouvaient être manœuvrées par un seul soldat.
+***Note*** :  I Macc. 6, 51 : Saint ; littéralement, de sanctifications. Voir 1 Machabées, 1, 23. ― Des balistes, machines de guerre pour lancer des pierres. ― Béliers, autres machines de guerre avec lesquelles on battait les murs d’une ville. ― Des falariques, flèches incendiaires. ― Des scorpions, petites machines pour lancer des flèches, qui pouvaient être manoeuvrées par un seul soldat.
 
 52 Or les assiégés firent aussi eux-mêmes des machines contre leurs machines, et ils combattirent pendant bien des jours. 53 Mais il n'y avait pas de vivres dans la cité, parce que c'était la septième année, et que ceux d'entre les nations qui étaient restés dans la Judée avaient consommé les restes de ce qui avait été mis en réserve.
 

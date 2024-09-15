@@ -26,7 +26,7 @@ summary: |
 6 Baasa dormit donc avec ses pères, et il fut enseveli à Thersa ; et Ela son fils régna en sa place.
 
 
-7 Mais lorsque par l'entremise de Jéhu le prophète, fils d'Hanani, la parole du Seigneur eut été adressée contre Baasa, contre sa maison, et contre tout le mal qu'il avait fait devant le Seigneur, pour l'irriter par les œuvres de ses mains, afin que sa maison devînt comme la maison de Jéroboam, Baasa pour ce motif même le tua, c'est-à-dire, Jéhu, fils d'Hanani le prophète,
+7 Mais lorsque par l'entremise de Jéhu le prophète, fils d'Hanani, la parole du Seigneur eut été adressée contre Baasa, contre sa maison, et contre tout le mal qu'il avait fait devant le Seigneur, pour l'irriter par les oeuvres de ses mains, afin que sa maison devînt comme la maison de Jéroboam, Baasa pour ce motif même le tua, c'est-à-dire, Jéhu, fils d'Hanani le prophète,
 
 
 8 La vingt-sixième année d'Asa, roi de Juda, Ela, fils de Baasa, régna sur Israël à Thersa pendant deux ans; 9 Car son serviteur Zambri, chef de la moitié de sa cavalerie, se révolta contre lui ; or Ela était à Thersa buvant et ivre, dans la maison d'Arsa, gouverneur de Thersa. 10 Zambri donc se jetant sur lui, le frappa et le tua la vingt-septième année d'Asa, roi de Juda, et il régna en sa place.
@@ -67,7 +67,7 @@ summary: |
 
 ***Note*** :  III Rois 16, 31 : Baal. Voir Juges, note 6. 25.
 
-32 Et il éleva un autel à Baal dans le temple de Baal qu'il avait bâti à Samarie, 33 Et il planta le bois sacré ; et Achab ajouta à son œuvre en irritant le Seigneur Dieu d'Israël plus que tous les rois d'Israël qui furent avant lui.
+32 Et il éleva un autel à Baal dans le temple de Baal qu'il avait bâti à Samarie, 33 Et il planta le bois sacré ; et Achab ajouta à son oeuvre en irritant le Seigneur Dieu d'Israël plus que tous les rois d'Israël qui furent avant lui.
 
 ***Note*** :  III Rois 16, 33 : Et il planta le bois sacré. Voir Exode, note 34. 13.
 

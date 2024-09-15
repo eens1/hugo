@@ -5,25 +5,25 @@ draft: false
 ---
 
 
-1 Tunc Tobias ingemuit, et cœpit orare cum lacrymis,
+1 Tunc Tobias ingemuit, et coepit orare cum lacrymis,
 
-2 dicens: Iustus es Domine, et omnia iudicia tua iusta sunt, et omnes viæ tuæ, misericordia, et veritas, et iudicium.
+2 dicens: Iustus es Domine, et omnia iudicia tua iusta sunt, et omnes viae tuae, misericordia, et veritas, et iudicium.
 
 3 Et nunc Domine memor esto mei, et ne vindictam sumas de peccatis meis, neque reminiscaris delicta mea, vel parentum meorum.
 
-4 Quoniam non obedivimus præceptis tuis, ideo traditi sumus in direptionem, et captivitatem, et mortem, et in fabulam, et in improperium omnibus nationibus, in quibus dispersisti nos.
+4 Quoniam non obedivimus praeceptis tuis, ideo traditi sumus in direptionem, et captivitatem, et mortem, et in fabulam, et in improperium omnibus nationibus, in quibus dispersisti nos.
 
-5 Et nunc Domine magna iudicia tua, quia non egimus secundum præcepta tua, et non ambulavimus synceriter coram te.
+5 Et nunc Domine magna iudicia tua, quia non egimus secundum praecepta tua, et non ambulavimus synceriter coram te.
 
-6 Et nunc Domine secundum voluntatem tuam fac mecum, et præcipe in pace recipi spiritum meum: expedit enim mihi mori magis quam vivere.
+6 Et nunc Domine secundum voluntatem tuam fac mecum, et praecipe in pace recipi spiritum meum: expedit enim mihi mori magis quam vivere.
 
 7 Eadem itaque die contigit ut Sara filia Raguelis in Rages civitate Medorum, et ipsa audiret improperium ab una ex ancillis patris sui,
 
-8 quoniam tradita fuerat septem viris, et dæmonium nomine Asmodæus occiderat eos, mox ut ingressi fuissent ad eam.
+8 quoniam tradita fuerat septem viris, et daemonium nomine Asmodaeus occiderat eos, mox ut ingressi fuissent ad eam.
 
 9 Ergo cum pro culpa sua increparet puellam, respondit ei, dicens: Amplius ex te non videamus filium, aut filiam super terram, interfectrix virorum tuorum.
 
-10 Numquid et occidere me vis, sicut iam occidisti septem viros? Ad hanc vocem perrexit in superius cubiculum domus suæ: et tribus diebus, et tribus noctibus non manducavit, neque bibit:
+10 Numquid et occidere me vis, sicut iam occidisti septem viros? Ad hanc vocem perrexit in superius cubiculum domus suae: et tribus diebus, et tribus noctibus non manducavit, neque bibit:
 
 11 sed in oratione persistens cum lacrymis deprecabatur Deum, ut ab isto improperio liberaret eam.
 
@@ -37,7 +37,7 @@ draft: false
 
 16 Tu scis Domine, quia numquam concupivi virum, et mundam servavi animam meam ab omni concupiscentia.
 
-17 Numquam cum ludentibus miscui me: neque cum his, qui in levitate ambulant, participem me præbui.
+17 Numquam cum ludentibus miscui me: neque cum his, qui in levitate ambulant, participem me praebui.
 
 18 Virum autem cum timore tuo, non cum libidine mea consensi suscipere.
 
@@ -49,9 +49,9 @@ draft: false
 
 22 Non enim delectaris in perditionibus nostris: quia post tempestatem, tranquillum facis: et post lacrymationem et fletum, exultationem infundis.
 
-23 Sit nomen tuum Deus Israel benedictum in sæcula.
+23 Sit nomen tuum Deus Israel benedictum in saecula.
 
-24 In illo tempore exauditæ sunt preces amborum in conspectu gloriæ summi Dei:
+24 In illo tempore exauditae sunt preces amborum in conspectu gloriae summi Dei:
 
-25 et missus est Angelus Domini sanctus Raphael, ut curaret eos ambos, quorum uno tempore sunt orationes in conspectu Domini recitatæ.
+25 et missus est Angelus Domini sanctus Raphael, ut curaret eos ambos, quorum uno tempore sunt orationes in conspectu Domini recitatae.
 

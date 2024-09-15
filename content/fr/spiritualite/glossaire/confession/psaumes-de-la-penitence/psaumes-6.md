@@ -18,7 +18,7 @@ summary: |
 
 6 Parce que nul dans la mort ne se souvient de vous : et dans l'enfer qui vous glorifiera?
 
-7 Je me suis fatigué dans mon gémissement; je laverai chaque nuit mon lit de mes pleurs; j'arroserai ma couche de mes larmes. 8 Mon œil a été troublé par l'indignation; j'ai vieilli au milieu de tous mes ennemis.
+7 Je me suis fatigué dans mon gémissement; je laverai chaque nuit mon lit de mes pleurs; j'arroserai ma couche de mes larmes. 8 Mon oeil a été troublé par l'indignation; j'ai vieilli au milieu de tous mes ennemis.
 
 9 Retirez-vous de moi, vous tous qui opérez l'iniquité; parce que le Seigneur a exaucé la voix de mon pleur.
 

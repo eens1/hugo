@@ -25,7 +25,7 @@ souffre des exceptions, versets 13 à 23. ― 3° Les voies de Dieu sont cachée
 
 ***Note*** :  Job 27, 3 : Un souffle de Dieu ; c’est-à-dire un souffle accordé par Dieu.
 
-4 Mes lèvres ne prononceront pas d'iniquité, et ma langue ne murmurera pas de mensonge. 5 Loin de moi que je juge que vous êtes justes; jusqu'à ce que je défaille, je ne me désisterai pas de mon innocence. 6 Je n'abandonnerai pas ma justification que j'ai commencé à faire ; car mon cœur ne me reproche rien dans toute ma vie.
+4 Mes lèvres ne prononceront pas d'iniquité, et ma langue ne murmurera pas de mensonge. 5 Loin de moi que je juge que vous êtes justes; jusqu'à ce que je défaille, je ne me désisterai pas de mon innocence. 6 Je n'abandonnerai pas ma justification que j'ai commencé à faire ; car mon coeur ne me reproche rien dans toute ma vie.
 
 
 7 Que mon ennemi soit comme un impie, et mon adversaire comme un injuste.

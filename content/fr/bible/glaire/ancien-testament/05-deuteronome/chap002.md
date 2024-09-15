@@ -14,7 +14,7 @@ summary: |
 
 ***Note*** :  Dr. 2, 4 : A Séir, l’Idumée.
 
-5 Voyez avec soin à ne pas vous mettre en mouvement contre eux; car je ne vous donnerai pas de leur terre, et autant que la plante d'un seul pied peut en fouler, parce que j'ai donné en possession à Esaü la montagne de Séir. 6 Vous achèterez d'eux des vivres avec de l'argent, et vous mangerez ; vous puiserez de l'eau achetée, et vous boirez. 7 Le Seigneur ton Dieu t'a béni en toute œuvre de tes mains ; il connaît ton chemin : comment tu as passé ce grand désert; le Seigneur ton Dieu a habité avec toi pendant quarante ans, et rien ne t'a manqué. 8 Lorsque nous eûmes passé à travers nos frères, les enfants d'Esaü, qui habitaient à Séir, nous sommes venus par la voie de la plaine, d'Elath et d'Asiongaber au chemin qui conduit au désert de Moab.
+5 Voyez avec soin à ne pas vous mettre en mouvement contre eux; car je ne vous donnerai pas de leur terre, et autant que la plante d'un seul pied peut en fouler, parce que j'ai donné en possession à Esaü la montagne de Séir. 6 Vous achèterez d'eux des vivres avec de l'argent, et vous mangerez ; vous puiserez de l'eau achetée, et vous boirez. 7 Le Seigneur ton Dieu t'a béni en toute oeuvre de tes mains ; il connaît ton chemin : comment tu as passé ce grand désert; le Seigneur ton Dieu a habité avec toi pendant quarante ans, et rien ne t'a manqué. 8 Lorsque nous eûmes passé à travers nos frères, les enfants d'Esaü, qui habitaient à Séir, nous sommes venus par la voie de la plaine, d'Elath et d'Asiongaber au chemin qui conduit au désert de Moab.
 
 ***Note*** :  Dr. 2, 8 : Elath et Asiongaber, villes situées à l’extrémité septentrionale du golfe Elanitique.
 
@@ -66,7 +66,7 @@ summary: |
 
 ***Note*** :  Dr. 2, 26 : Voir Nombres, 21, 21.
 
-27 Nous passerons à travers ta terre; nous marcherons par la voie publique ; nous ne nous détournerons ni à droite ni à gauche. 28 Vends-nous des vivres selon le prix, afin que nous mangions : donne-nous de l'eau pour de l'argent, et ainsi nous boirons. Le tout est que tu nous accordes le passage, 29 Comme ont fait les enfants d'Esaü qui habitent à Séir, et les Moabites qui demeurent à Ar, jusqu'à ce que nous arrivions au Jourdain, et que nous passions dans la terre que le Seigneur notre Dieu doit nous accorder. 30 Mais Séhon, roi d'Hésébon, ne voulut point nous donner le passage, parce que le Seigneur ton Dieu avait endurci son esprit et fermé son cœur, afin qu'il fût livré en tes mains, comme tu vois maintenant.
+27 Nous passerons à travers ta terre; nous marcherons par la voie publique ; nous ne nous détournerons ni à droite ni à gauche. 28 Vends-nous des vivres selon le prix, afin que nous mangions : donne-nous de l'eau pour de l'argent, et ainsi nous boirons. Le tout est que tu nous accordes le passage, 29 Comme ont fait les enfants d'Esaü qui habitent à Séir, et les Moabites qui demeurent à Ar, jusqu'à ce que nous arrivions au Jourdain, et que nous passions dans la terre que le Seigneur notre Dieu doit nous accorder. 30 Mais Séhon, roi d'Hésébon, ne voulut point nous donner le passage, parce que le Seigneur ton Dieu avait endurci son esprit et fermé son coeur, afin qu'il fût livré en tes mains, comme tu vois maintenant.
 
 ***Note*** :  Dr. 2, 30 : Le Seigneur, ton Dieu, etc. Voir Exode, 4, 21.
 

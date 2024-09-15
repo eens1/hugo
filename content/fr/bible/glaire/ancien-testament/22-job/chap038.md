@@ -18,7 +18,7 @@ trois amis leur dureté et leur opiniâtreté. Il semble que Dieu ne saurait int
 
 ***Note*** :  Job 38, 2 : Discours de Dieu, du chapitre 38 au chapitre 41. ― Il se divise en trois parties. La première renferme la description des phénomènes de l’ordre physique, la seconde la description du règne animal, la troisième celle de deux animaux particulièrement remarquables, l’hippopotame et le crocodile. La première et la seconde partie sont à peu près d’égale longueur, chapitre 38, versets 1 à 38 ; du chapitre 38, verset 39, au chapitre 39, verset 30 ; la troisième a près du double de longueur, chapitres 40 et 41. ― Ire partie, chapitre 38, versets 1 à 38. ― 1° Dieu interroge Job. Lui qui veut disputer avec le Tout-Puissant, a-t-il assisté à la création, à l’emprisonnement de l’océan et à l’asservissement de la lumière ? Versets 2 à 15. ― 2° A-t-il découvert le secret des mystères de la nature, versets 16 à 30, et ― 3°, en particulier des lois qui régissent les astres ? Versets 31 à 38.
 
-3 Ceins tes reins comme un homme de cœur ; je t'interrogerai, et réponds-moi.
+3 Ceins tes reins comme un homme de coeur ; je t'interrogerai, et réponds-moi.
 
 ***Note*** :  Job 38, 3 : Ceins, etc. Ceindre ses reins se disait chez les anciens Hébreux d’un homme qui entreprend un voyage, ou qui va au combat. ― Et tu me répondras ; littéralement et par hébraïsme : Et réponds-moi.
 
@@ -75,7 +75,7 @@ trois amis leur dureté et leur opiniâtreté. Il semble que Dieu ne saurait int
 
 39 Est-ce que tu prendras la proie pour la lionne, et empliras-tu l'âme de ses petits,
 
-***Note*** :  Job 38, 39 : Empliras-tu l’âme ; c’est-à-dire rassasieras-tu la faim. ― IIe partie du discours de Dieu, du chapitre 38, verset 39 au chapitre 39, verset 35. Description du règne animal. ― 1° Nourriture du lion et du corbeau, enfantement de la biche, du chapitre 38, verset 39 au chapitre 39, verset 4. ― 2° Comparaison des animaux domestiques avec les animaux sauvages, du buffle avec le bœuf, de l’onagre avec l’âne, chapitre 39, versets 5 à 12. ― 3° Description de l’autruche, versets 13 à 18. ; ― 4° du cheval, versets 19 à 25 ; ― 5° de l’aigle, versets 26 à 30. ― Après ce tableau de sa puissance, Dieu demande à Job s’il va lui répondre. Job confesse qu’il a parlé avec légèreté et qu’il aurait dû se taire, versets 31 à 35.
+***Note*** :  Job 38, 39 : Empliras-tu l’âme ; c’est-à-dire rassasieras-tu la faim. ― IIe partie du discours de Dieu, du chapitre 38, verset 39 au chapitre 39, verset 35. Description du règne animal. ― 1° Nourriture du lion et du corbeau, enfantement de la biche, du chapitre 38, verset 39 au chapitre 39, verset 4. ― 2° Comparaison des animaux domestiques avec les animaux sauvages, du buffle avec le boeuf, de l’onagre avec l’âne, chapitre 39, versets 5 à 12. ― 3° Description de l’autruche, versets 13 à 18. ; ― 4° du cheval, versets 19 à 25 ; ― 5° de l’aigle, versets 26 à 30. ― Après ce tableau de sa puissance, Dieu demande à Job s’il va lui répondre. Job confesse qu’il a parlé avec légèreté et qu’il aurait dû se taire, versets 31 à 35.
 
 40 Quand ils sont couchés dans leurs antres, et qu'ils épient dans leurs cavernes? 41 Qui prépare au corbeau sa nourriture, quand ses petits crient à Dieu, errant ça et là, parce qu'ils n'ont rien à manger?
 

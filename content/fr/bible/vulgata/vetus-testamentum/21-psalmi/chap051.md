@@ -7,23 +7,23 @@ draft: false
 
 1 In finem, Intellectus David,
 
-2 Cum venit Doeg Idumæus, et nunciavit Sauli: Venit David in domum Achimelech.
+2 Cum venit Doeg Idumaeus, et nunciavit Sauli: Venit David in domum Achimelech.
 
 3 Quid gloriaris in malitia, qui potens es in iniquitate?
 
 4 Tota die iniustitiam cogitavit lingua tua: sicut novacula acuta fecisti dolum.
 
-5 Dilexisti malitiam super benignitatem: iniquitatem magis quam loqui æquitatem.
+5 Dilexisti malitiam super benignitatem: iniquitatem magis quam loqui aequitatem.
 
-6 Dilexisti omnia verba præcipitationis, lingua dolosa.
+6 Dilexisti omnia verba praecipitationis, lingua dolosa.
 
 7 Propterea Deus destruet te in finem, evellet te, et emigrabit te de tabernaculo tuo: et radicem tuam de terra viventium.
 
 8 Videbunt iusti, et timebunt, et super eum ridebunt, et dicent:
 
-9 ecce homo, qui non posuit Deum adiutorem suum: Sed speravit in multitudine divitiarum suarum: et prævaluit in vanitate sua.
+9 ecce homo, qui non posuit Deum adiutorem suum: Sed speravit in multitudine divitiarum suarum: et praevaluit in vanitate sua.
 
-10 Ego autem, sicut oliva fructifera in domo Dei, speravi in misericordia Dei in æternum: et in sæculum sæculi.
+10 Ego autem, sicut oliva fructifera in domo Dei, speravi in misericordia Dei in aeternum: et in saeculum saeculi.
 
-11 Confitebor tibi in sæculum quia fecisti: et expectabo nomen tuum, quoniam bonum est in conspectu sanctorum tuorum.
+11 Confitebor tibi in saeculum quia fecisti: et expectabo nomen tuum, quoniam bonum est in conspectu sanctorum tuorum.
 

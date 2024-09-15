@@ -7,15 +7,15 @@ draft: false
 
 1 Ipsi David. Benedic anima mea Domino: Domine Deus meus magnificatus es vehementer. Confessionem, et decorem induisti:
 
-2 amictus lumine sicut vestimento: Extendens cælum sicut pellem:
+2 amictus lumine sicut vestimento: Extendens caelum sicut pellem:
 
 3 qui tegis aquis superiora eius. Qui ponis nubem ascensum tuum: qui ambulas super pennas ventorum.
 
 4 Qui facis angelos tuos, spiritus: et ministros tuos ignem urentem.
 
-5 Qui fundasti terram super stabilitatem suam: non inclinabitur in sæculum sæculi.
+5 Qui fundasti terram super stabilitatem suam: non inclinabitur in saeculum saeculi.
 
-6 Abyssus, sicut vestimentum, amictus eius: super montes stabunt aquæ.
+6 Abyssus, sicut vestimentum, amictus eius: super montes stabunt aquae.
 
 7 Ab increpatione tua fugient: a voce tonitrui tui formidabunt.
 
@@ -23,17 +23,17 @@ draft: false
 
 9 Terminum posuisti, quem non transgredientur: neque convertentur operire terram.
 
-10 Qui emittis fontes in convallibus: inter medium montium pertransibunt aquæ.
+10 Qui emittis fontes in convallibus: inter medium montium pertransibunt aquae.
 
-11 Potabunt omnes bestiæ agri: expectabunt onagri in siti sua.
+11 Potabunt omnes bestiae agri: expectabunt onagri in siti sua.
 
-12 Super ea volucres cæli habitabunt: de medio petrarum dabunt voces.
+12 Super ea volucres caeli habitabunt: de medio petrarum dabunt voces.
 
 13 Rigans montes de superioribus suis: de fructu operum tuorum satiabitur terra:
 
-14 Producens fœnum iumentis, et herbam servituti hominum: Ut educas panem de terra:
+14 Producens foenum iumentis, et herbam servituti hominum: Ut educas panem de terra:
 
-15 et vinum lætificet cor hominis: Ut exhilaret faciem in oleo: et panis cor hominis confirmet.
+15 et vinum laetificet cor hominis: Ut exhilaret faciem in oleo: et panis cor hominis confirmet.
 
 16 Saturabuntur ligna campi, et cedri Libani, quas plantavit:
 
@@ -43,9 +43,9 @@ draft: false
 
 19 Fecit lunam in tempora: sol cognovit occasum suum.
 
-20 Posuisti tenebras, et facta est nox: in ipsa pertransibunt omnes bestiæ silvæ.
+20 Posuisti tenebras, et facta est nox: in ipsa pertransibunt omnes bestiae silvae.
 
-21 Catuli leonum rugientes, ut rapiant, et quærant a Deo escam sibi.
+21 Catuli leonum rugientes, ut rapiant, et quaerant a Deo escam sibi.
 
 22 Ortus est sol, et congregati sunt: et in cubilibus suis collocabuntur.
 
@@ -63,9 +63,9 @@ draft: false
 
 29 Avertente autem te faciem, turbabuntur: auferes spiritum eorum, et deficient, et in pulverem suum revertentur.
 
-30 Emittes spiritum tuum, et creabuntur: et renovabis faciem terræ.
+30 Emittes spiritum tuum, et creabuntur: et renovabis faciem terrae.
 
-31 Sit gloria Domini in sæculum: lætabitur Dominus in operibus suis:
+31 Sit gloria Domini in saeculum: laetabitur Dominus in operibus suis:
 
 32 Qui respicit terram, et facit eam tremere: qui tangit montes, et fumigant.
 

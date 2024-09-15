@@ -15,11 +15,11 @@ draft: false
 
 5 Qui transtulit montes, et nescierunt hi quos subvertit in furore suo.
 
-6 Qui commovet terram de loco suo, et columnæ eius concutiuntur.
+6 Qui commovet terram de loco suo, et columnae eius concutiuntur.
 
-7 Qui præcipit Soli, et non oritur: et stellas claudit quasi sub signaculo:
+7 Qui praecipit Soli, et non oritur: et stellas claudit quasi sub signaculo:
 
-8 Qui extendit cælos solus, et graditur super fluctus maris.
+8 Qui extendit caelos solus, et graditur super fluctus maris.
 
 9 Qui facit Arcturum, et Oriona, et Hyadas, et interiora austri.
 
@@ -29,7 +29,7 @@ draft: false
 
 12 Si repente interroget, quis respondebit ei? vel quis dicere potest: Cur ita facis?
 
-13 Deus, cuius iræ nemo resistere potest, et sub quo curvantur qui portant orbem.
+13 Deus, cuius irae nemo resistere potest, et sub quo curvantur qui portant orbem.
 
 14 Quantus ergo sum ego, ut respondeam ei, et loquar verbis meis cum eo?
 
@@ -41,15 +41,15 @@ draft: false
 
 18 Non concedit requiescere spiritum meum, et implet me amaritudinibus.
 
-19 Si fortitudo quæritur, robustissimus est: si æquitas iudicii, nemo audet pro me testimonium dicere.
+19 Si fortitudo quaeritur, robustissimus est: si aequitas iudicii, nemo audet pro me testimonium dicere.
 
 20 Si iustificare me voluero, os meum condemnabit me: si innocentem ostendero, pravum me comprobabit.
 
-21 Etiam si simplex fuero, hoc ipsum ignorabit anima mea, et tædebit me vitæ meæ.
+21 Etiam si simplex fuero, hoc ipsum ignorabit anima mea, et taedebit me vitae meae.
 
 22 Unum est quod locutus sum, et innocentem et impium ipse consumit.
 
-23 Si flagellat, occidat semel, et non de pœnis innocentum rideat.
+23 Si flagellat, occidat semel, et non de poenis innocentum rideat.
 
 24 Terra data est in manus impii, vultum iudicum eius operit: quod si non ille est, quis ergo est?
 
@@ -63,11 +63,11 @@ draft: false
 
 29 Si autem et sic impius sum, quare frustra laboravi?
 
-30 Si lotus fuero quasi aquis nivis, et fulserit velut mundissimæ manus meæ:
+30 Si lotus fuero quasi aquis nivis, et fulserit velut mundissimae manus meae:
 
 31 Tamen sordibus intinges me, et abominabuntur me vestimenta mea.
 
-32 Neque enim viro qui similis mei est, respondebo: nec qui mecum in iudicio ex æquo possit audiri.
+32 Neque enim viro qui similis mei est, respondebo: nec qui mecum in iudicio ex aequo possit audiri.
 
 33 Non est qui utrumque valeat arguere, et ponere manum suam in ambobus.
 

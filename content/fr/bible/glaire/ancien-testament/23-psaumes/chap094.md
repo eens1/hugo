@@ -20,15 +20,15 @@ summary: |
 6 Venez, adorons, et prosternons-nous, et pleurons devant le Seigneur qui nous a faits. 7 Parce que lui-même est le Seigneur notre Dieu, et que nous sommes le peuple de son pâturage, et les brebis de sa main.
 
 
-8 Aujourd'hui si vous entendez sa voix, n'endurcissez pas vos cœurs,
+8 Aujourd'hui si vous entendez sa voix, n'endurcissez pas vos coeurs,
 
 ***Note*** :  Ps. 94, 8 : Voir Hébreux, 3, 7 ; 4, 7.
 
-9 Comme dans l'irritation, au jour de la tentation dans le désert, où vos pères me tentèrent, m'éprouvèrent, et virent mes œuvres.
+9 Comme dans l'irritation, au jour de la tentation dans le désert, où vos pères me tentèrent, m'éprouvèrent, et virent mes oeuvres.
 
 ***Note*** :  Ps. 94, 9 : Dans l’irritation ; c’est-à-dire dans le lieu de l’irritation, Raphidim, où les Israélites murmurèrent, du temps de Moïse, parce qu’ils manquaient d’eau (voir Exode, 17, verset 1 et suivants) ; ou bien, selon d’autres, l’endroit du désert de Pharan, où ils se révoltèrent, quand on leur annonça ce qu’étaient les Chananéens et le pays de Chanaan (voir Nombres, 14, verset 2 et suivants) ; ou bien encore Cadès, où le manque d’eau excita une nouvelle sédition parmi eux (voir Nombres, 21, verset 1 et suivants). Voir sur ce verset et les suivants Hébreux, 3, 7-19 ; 4, 1-11.
 
-10 Pendant quarante ans, j'ai été courroucé contre cette génération, et j'ai dit : Toujours ils errent de cœur.
+10 Pendant quarante ans, j'ai été courroucé contre cette génération, et j'ai dit : Toujours ils errent de coeur.
 
 ***Note*** :  Ps. 94, 10 : Voir Nombres, 14, 34.
 

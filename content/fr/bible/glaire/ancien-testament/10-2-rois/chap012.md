@@ -13,7 +13,7 @@ summary: |
 ---
 
 
-1 Le Seigneur donc envoya Nathan vers David; et lorsque Nathan fut venu vers lui, il lui dit : Deux hommes étaient dans une ville, l'un riche et l'autre pauvre. 2 Le riche avait des brebis et des bœufs en très grand nombre ; 3 Mais le pauvre n'avait absolument rien, hors une brebis très petite, qu'il avait achetée et nourrie, et qui avait grandi chez lui en même temps que ses enfants, mangeant de son pain, buvant de sa coupe, et dormant sur son sein, et elle était pour lui comme une fille. 4 Mais un étranger étant venu chez le riche, et s'abstenant de prendre de ses brebis et de ses bœufs, pour faire un festin à cet étranger, qui était venu chez lui, il enleva la brebis de l'homme pauvre, et apprêta un mets à l'homme qui était venu chez lui.
+1 Le Seigneur donc envoya Nathan vers David; et lorsque Nathan fut venu vers lui, il lui dit : Deux hommes étaient dans une ville, l'un riche et l'autre pauvre. 2 Le riche avait des brebis et des boeufs en très grand nombre ; 3 Mais le pauvre n'avait absolument rien, hors une brebis très petite, qu'il avait achetée et nourrie, et qui avait grandi chez lui en même temps que ses enfants, mangeant de son pain, buvant de sa coupe, et dormant sur son sein, et elle était pour lui comme une fille. 4 Mais un étranger étant venu chez le riche, et s'abstenant de prendre de ses brebis et de ses boeufs, pour faire un festin à cet étranger, qui était venu chez lui, il enleva la brebis de l'homme pauvre, et apprêta un mets à l'homme qui était venu chez lui.
 
 
 5 Or, fortement irrité d'indignation contre cet homme, David dit: Le Seigneur vit! c'est un fils de mort, l'homme qui a fait cela.

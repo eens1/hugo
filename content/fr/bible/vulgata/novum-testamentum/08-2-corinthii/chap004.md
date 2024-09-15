@@ -11,11 +11,11 @@ draft: false
 
 3 Quod si etiam opertum est Evangelium nostrum: in iis, qui pereunt, est opertum:
 
-4 in quibus Deus huius sæculi excæcavit mentes infidelium, ut non fulgeat illis illuminatio Evangelii gloriæ Christi, qui est imago Dei.
+4 in quibus Deus huius saeculi excaecavit mentes infidelium, ut non fulgeat illis illuminatio Evangelii gloriae Christi, qui est imago Dei.
 
-5 Non enim nosmetipsos prædicamus, sed Iesum Christum Dominum nostrum: nos autem servos vestros per Iesum:
+5 Non enim nosmetipsos praedicamus, sed Iesum Christum Dominum nostrum: nos autem servos vestros per Iesum:
 
-6 quoniam Deus, qui dixit de tenebris lucem splendescere, ipse illuxit in cordibus nostris ad illuminationem scientiæ claritatis Dei, in facie Christi Iesu.
+6 quoniam Deus, qui dixit de tenebris lucem splendescere, ipse illuxit in cordibus nostris ad illuminationem scientiae claritatis Dei, in facie Christi Iesu.
 
 7 Habemus autem thesaurum istum in vasis fictilibus: ut sublimitas sit virtutis Dei, et non ex nobis.
 
@@ -37,7 +37,7 @@ draft: false
 
 16 Propter quod non deficimus: sed licet is, qui foris est, noster homo corrumpatur: tamen is, qui intus est, renovatur de die in diem.
 
-17 Id enim, quod in præsenti est momentaneum et leve tribulationis nostræ, supra modum in sublimitate æternum gloriæ pondus operatur in nobis,
+17 Id enim, quod in praesenti est momentaneum et leve tribulationis nostrae, supra modum in sublimitate aeternum gloriae pondus operatur in nobis,
 
-18 non contemplantibus nobis quæ videntur, sed quæ non videntur. Quæ enim videntur, temporalia sunt: quæ autem non videntur, æterna sunt.
+18 non contemplantibus nobis quae videntur, sed quae non videntur. Quae enim videntur, temporalia sunt: quae autem non videntur, aeterna sunt.
 

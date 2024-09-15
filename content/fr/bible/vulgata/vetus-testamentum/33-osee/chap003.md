@@ -13,5 +13,5 @@ draft: false
 
 4 quia dies multos sedebunt filii Israel sine rege, et sine principe, et sine sacrificio, et sine altari, et sine ephod, et sine theraphim.
 
-5 et post hæc revertentur filii Israel, et quærent Dominum Deum suum, et David regem suum: et pavebunt ad Dominum, et ad bonum eius in novissimo dierum.
+5 et post haec revertentur filii Israel, et quaerent Dominum Deum suum, et David regem suum: et pavebunt ad Dominum, et ad bonum eius in novissimo dierum.
 

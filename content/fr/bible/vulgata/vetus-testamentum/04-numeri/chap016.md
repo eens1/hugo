@@ -7,7 +7,7 @@ draft: false
 
 1 Ecce autem Core filius Isaar, filii Caath, filii Levi, et Dathan atque Abiron filii Eliab, Hon quoque filius Pheleth de filiis Ruben,
 
-2 surrexerunt contra Moysen, aliique filiorum Israel ducenti quinquaginta viri proceres synagogæ, et qui tempore concilii per nomina vocabantur.
+2 surrexerunt contra Moysen, aliique filiorum Israel ducenti quinquaginta viri proceres synagogae, et qui tempore concilii per nomina vocabantur.
 
 3 Cumque stetissent adversum Moysen et Aaron, dixerunt: Sufficiat vobis, quia omnis multitudo sanctorum est, et in ipsis est Dominus: Cur elevamini super populum Domini?
 
@@ -29,9 +29,9 @@ draft: false
 
 12 Misit ergo Moyses ut vocaret Dathan et Abiron filios Eliab. Qui responderunt: Non venimus.
 
-13 numquid parum est tibi quod eduxisti nos de terra, quæ lacte et melle manabat, ut occideres in deserto, nisi et dominatus fueris nostri?
+13 numquid parum est tibi quod eduxisti nos de terra, quae lacte et melle manabat, ut occideres in deserto, nisi et dominatus fueris nostri?
 
-14 Revera induxisti nos in terram, quæ fluit rivis lactis et mellis, et dedisti nobis possessiones agrorum et vinearum. an et oculos nostros vis eruere? non venimus.
+14 Revera induxisti nos in terram, quae fluit rivis lactis et mellis, et dedisti nobis possessiones agrorum et vinearum. an et oculos nostros vis eruere? non venimus.
 
 15 Iratusque Moyses valde, ait ad Dominum: Ne respicias sacrificia eorum: tu scis quod ne asellum quidem umquam acceperim ab eis, nec afflixerim quempiam eorum.
 
@@ -47,23 +47,23 @@ draft: false
 
 21 Separamini de medio congregationis huius, ut eos repente disperdam.
 
-22 Qui ceciderunt proni in faciem, atque dixerunt: Fortissime Deus spirituum universæ carnis, num uno peccante, contra omnes ira tua desæviet?
+22 Qui ceciderunt proni in faciem, atque dixerunt: Fortissime Deus spirituum universae carnis, num uno peccante, contra omnes ira tua desaeviet?
 
 23 Et ait Dominus ad Moysen:
 
-24 Præcipe universo populo ut separetur a tabernaculis Core, et Dathan et Abiron.
+24 Praecipe universo populo ut separetur a tabernaculis Core, et Dathan et Abiron.
 
 25 Surrexitque Moyses, et abiit ad Dathan et Abiron: et sequentibus eum senioribus Israel,
 
-26 dixit ad turbam: Recedite a tabernaculis hominum impiorum, et nolite tangere quæ ad eos pertinent, ne involvamini in peccatis eorum.
+26 dixit ad turbam: Recedite a tabernaculis hominum impiorum, et nolite tangere quae ad eos pertinent, ne involvamini in peccatis eorum.
 
 27 Cumque recessissent a tentoriis eorum per circuitum, Dathan et Abiron egressi stabant in introitu papilionum suorum cum uxoribus et liberis, omnique frequentia.
 
-28 Et ait Moyses: In hoc scietis, quod Dominus miserit me ut facerem universa quæ cernitis, et non ex proprio ea corde protulerim:
+28 Et ait Moyses: In hoc scietis, quod Dominus miserit me ut facerem universa quae cernitis, et non ex proprio ea corde protulerim:
 
 29 Si consueta hominum morte interierint, et visitaverit eos plaga, qua et ceteri visitari solent, non misit me Dominus:
 
-30 sin autem novam rem fecerit Dominus, ut aperiens terra os suum deglutiat eos et omnia quæ ad illos pertinent, descenderintque viventes in infernum, scietis quod blasphemaverint Dominum.
+30 sin autem novam rem fecerit Dominus, ut aperiens terra os suum deglutiat eos et omnia quae ad illos pertinent, descenderintque viventes in infernum, scietis quod blasphemaverint Dominum.
 
 31 Confestim igitur ut cessavit loqui, dirupta est terra sub pedibus eorum:
 
@@ -77,11 +77,11 @@ draft: false
 
 36 Locutusque est Dominus ad Moysen, dicens:
 
-37 Præcipe Eleazaro filio Aaron sacerdoti ut tollat thuribula quæ iacent in incendio, et ignem huc illucque dispergat: quoniam sanctificata sunt
+37 Praecipe Eleazaro filio Aaron sacerdoti ut tollat thuribula quae iacent in incendio, et ignem huc illucque dispergat: quoniam sanctificata sunt
 
 38 in mortibus peccatorum: producatque ea in laminas, et affigat altari, eo quod oblatum sit in eis incensum Domino, et sanctificata sint, ut cernant ea pro signo et monimento filii Israel.
 
-39 Tulit ergo Eleazar sacerdos thuribula ænea, in quibus obtulerant hi quos incendium devoravit, et produxit ea in laminas, affigens altari:
+39 Tulit ergo Eleazar sacerdos thuribula aenea, in quibus obtulerant hi quos incendium devoravit, et produxit ea in laminas, affigens altari:
 
 40 ut haberent postea filii Israel, quibus commonerentur ne quis accedat alienigena, et qui non est de semine Aaron ad offerendum incensum Domino, ne patiatur sicut passus est Core, et omnis congregatio eius, loquente Domino ad Moysen.
 
@@ -89,13 +89,13 @@ draft: false
 
 42 Cumque oriretur seditio, et tumultus incresceret,
 
-43 Moyses et Aaron fugerunt ad tabernaculum fœderis. Quod, postquam ingressi sunt, operuit nubes, et apparuit gloria Domini.
+43 Moyses et Aaron fugerunt ad tabernaculum foederis. Quod, postquam ingressi sunt, operuit nubes, et apparuit gloria Domini.
 
 44 Dixitque Dominus ad Moysen:
 
 45 Recedite de medio huius multitudinis, etiam nunc delebo eos. Cumque iacerent in terra,
 
-46 dixit Moyses ad Aaron: Tolle thuribulum, et hausto igne de altari, mitte incensum desuper, pergens cito ad populum ut roges pro eis: iam enim egressa est ira a Domino, et plaga desævit.
+46 dixit Moyses ad Aaron: Tolle thuribulum, et hausto igne de altari, mitte incensum desuper, pergens cito ad populum ut roges pro eis: iam enim egressa est ira a Domino, et plaga desaevit.
 
 47 Quod cum fecisset Aaron, et cucurrisset ad mediam multitudinem, quam iam vastabat incendium, obtulit thymiama:
 
@@ -103,5 +103,5 @@ draft: false
 
 49 Fuerunt autem qui percussi sunt, quattuordecim millia hominum, et septingenti, absque his qui perierant in seditione Core.
 
-50 Reversusque est Aaron ad Moysen ad ostium tabernaculi fœderis postquam quievit interitus.
+50 Reversusque est Aaron ad Moysen ad ostium tabernaculi foederis postquam quievit interitus.
 

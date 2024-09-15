@@ -10,7 +10,7 @@ summary: |
 ---
 
 
-1 Or Samuel dit à tout Israël : Voilà que j'ai entendu votre voix, selon tout ce que vous m'avez dit, et j'ai établi sur vous un roi. 2 Et maintenant ce roi marche devant vous; pour moi, j'ai vieilli, et j'ai blanchi; mais mes fils sont avec vous. C'est pourquoi, ayant vécu devant vous depuis ma jeunesse jusqu'à ce jour, me voici en votre présence. 3 Dites de moi devant le Seigneur et devant son christ, si j'ai pris le bœuf ou l'âne de personne, si j'ai calomnié qui que ce soit, si j'ai opprimé quelqu'un, si j'ai reçu un présent de la main de personne, je le dédaignerai aujourd'hui et je vous le rendrai.
+1 Or Samuel dit à tout Israël : Voilà que j'ai entendu votre voix, selon tout ce que vous m'avez dit, et j'ai établi sur vous un roi. 2 Et maintenant ce roi marche devant vous; pour moi, j'ai vieilli, et j'ai blanchi; mais mes fils sont avec vous. C'est pourquoi, ayant vécu devant vous depuis ma jeunesse jusqu'à ce jour, me voici en votre présence. 3 Dites de moi devant le Seigneur et devant son christ, si j'ai pris le boeuf ou l'âne de personne, si j'ai calomnié qui que ce soit, si j'ai opprimé quelqu'un, si j'ai reçu un présent de la main de personne, je le dédaignerai aujourd'hui et je vous le rendrai.
 
 ***Note*** :  I Rois 12, 3 : Voir Ecclésiastique, 46, 22. ― Devant son christ, devant le roi.
 
@@ -56,9 +56,9 @@ summary: |
 18 Et Samuel cria vers le Seigneur, et le Seigneur lança des tonnerres et des pluies en ce jour-là.
 
 
-19 Et tout le peuple craignit le Seigneur et Samuel, et le peuple entier dit à Samuel : Priez pour vos serviteurs le Seigneur votre Dieu, afin que nous ne mourions pas ; car nous avons ajouté à tous nos autres péchés ce mal, que nous avons demandé pour nous un roi. 20 Mais Samuel répondit au peuple : Ne craignez point; c'est vous qui avez fait tout ce mal; mais cependant ne vous retirez pas en arrière du Seigneur, mais servez le Seigneur en tout votre cœur. 21 Et ne vous tournez point vers les choses vaines qui ne vous serviront pas, et qui ne vous délivreront pas, parce quelles sont vaines.
+19 Et tout le peuple craignit le Seigneur et Samuel, et le peuple entier dit à Samuel : Priez pour vos serviteurs le Seigneur votre Dieu, afin que nous ne mourions pas ; car nous avons ajouté à tous nos autres péchés ce mal, que nous avons demandé pour nous un roi. 20 Mais Samuel répondit au peuple : Ne craignez point; c'est vous qui avez fait tout ce mal; mais cependant ne vous retirez pas en arrière du Seigneur, mais servez le Seigneur en tout votre coeur. 21 Et ne vous tournez point vers les choses vaines qui ne vous serviront pas, et qui ne vous délivreront pas, parce quelles sont vaines.
 
 ***Note*** :  I Rois 12, 21 : Les choses vaines ; c’est-à-dire les faux dieux, qui n’ont point d’existence réelle, et qui par là même ne peuvent rien pour les hommes.
 
-22 Et le Seigneur n'abandonnera pas son peuple, à cause de son grand nom, parce que le Seigneur a juré de vous faire son peuple. 23 Mais loin de moi ce péché contre le Seigneur, que je cesse de prier pour vous ; mais je vous enseignerai la voie bonne et droite. 24 Ainsi, craignez le Seigneur, et servez-le en vérité et de tout votre cœur ; car vous avez vu les grandes choses qu'il a faites parmi vous. 25 Que si vous persévérez dans votre malice, et vous et votre roi vous périrez ensemble.
+22 Et le Seigneur n'abandonnera pas son peuple, à cause de son grand nom, parce que le Seigneur a juré de vous faire son peuple. 23 Mais loin de moi ce péché contre le Seigneur, que je cesse de prier pour vous ; mais je vous enseignerai la voie bonne et droite. 24 Ainsi, craignez le Seigneur, et servez-le en vérité et de tout votre coeur ; car vous avez vu les grandes choses qu'il a faites parmi vous. 25 Que si vous persévérez dans votre malice, et vous et votre roi vous périrez ensemble.
 

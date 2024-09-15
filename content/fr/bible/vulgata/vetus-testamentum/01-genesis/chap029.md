@@ -27,9 +27,9 @@ draft: false
 
 11 Et adaquato grege, osculatus est eam: et elevata voce flevit,
 
-12 et indicavit ei quod frater esset patris sui, et filius Rebeccæ: at illa festinans nunciavit patri suo.
+12 et indicavit ei quod frater esset patris sui, et filius Rebeccae: at illa festinans nunciavit patri suo.
 
-13 Qui cum audisset venisse Iacob filium sororis suæ, cucurrit obviam ei: complexusque eum, et in oscula ruens, duxit in domum suam. Auditis autem causis itineris,
+13 Qui cum audisset venisse Iacob filium sororis suae, cucurrit obviam ei: complexusque eum, et in oscula ruens, duxit in domum suam. Auditis autem causis itineris,
 
 14 respondit: Os meum es, et caro mea. Et postquam impleti sunt dies mensis unius,
 
@@ -43,7 +43,7 @@ draft: false
 
 19 Respondit Laban: Melius est ut tibi eam dem quam alteri viro, mane apud me.
 
-20 Servivit ergo Iacob pro Rachel septem annis: et videbantur illi pauci dies præ amoris magnitudine.
+20 Servivit ergo Iacob pro Rachel septem annis: et videbantur illi pauci dies prae amoris magnitudine.
 
 21 Dixitque ad Laban: Da mihi uxorem meam: quia iam tempus impletum est, ut ingrediar ad illam.
 
@@ -51,23 +51,23 @@ draft: false
 
 23 Et vespere Liam filiam suam introduxit ad eum,
 
-24 dans ancillam filiæ, Zelpham nomine. Ad quam cum ex more Iacob fuisset ingressus, facto mane vidit Liam:
+24 dans ancillam filiae, Zelpham nomine. Ad quam cum ex more Iacob fuisset ingressus, facto mane vidit Liam:
 
 25 et dixit ad socerum suum: Quid est quod facere voluisti? nonne pro Rachel servivi tibi? quare imposuisti mihi?
 
 26 Respondit Laban: Non est in loco nostro consuetudinis, ut minores ante tradamus ad nuptias.
 
-27 Imple hebdomadam dierum huius copulæ: et hanc quoque dabo tibi pro opere quo serviturus es mihi septem annis aliis.
+27 Imple hebdomadam dierum huius copulae: et hanc quoque dabo tibi pro opere quo serviturus es mihi septem annis aliis.
 
 28 Acquievit placito: et hebdomada transacta, Rachel duxit uxorem:
 
 29 cui pater servam Balam tradiderat.
 
-30 Tandemque potitus optatis nuptiis, amorem sequentis priori prætulit, serviens apud eum septem annis aliis.
+30 Tandemque potitus optatis nuptiis, amorem sequentis priori praetulit, serviens apud eum septem annis aliis.
 
 31 Videns autem Dominus quod despiceret Liam, aperuit vulvam eius, sorore sterili permanente.
 
-32 Quæ conceptum genuit filium, vocavitque nomen eius Ruben, dicens: Vidit Dominus humilitatem meam, nunc amabit me vir meus.
+32 Quae conceptum genuit filium, vocavitque nomen eius Ruben, dicens: Vidit Dominus humilitatem meam, nunc amabit me vir meus.
 
 33 Rursumque concepit et peperit filium, et ait: Quoniam audivit me Dominus haberi contemptui, dedit etiam istum mihi. vocavitque nomen eius Simeon.
 

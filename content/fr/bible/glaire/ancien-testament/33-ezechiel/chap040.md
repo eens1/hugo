@@ -30,7 +30,7 @@ le Saint et le sanctuaire, décrits exactement dans les livres des Rois. Il s’
 
 ***Note*** :  Éz. 40, 3 : Un homme ; c’est-à-dire un ange sous la forme d’un homme. ― Canne (calamus) ; mesure de 6 coudées (voir verset 5). Or la coudée avait 24 doigts ou 20 pouces et demi environ.
 
-4 Et ce même homme me dit : Fils d'un homme, vois de tes yeux, et écoute de tes oreilles, et applique ton cœur à toutes les choses que moi je te montrerai, parce que c'est pour qu'elles te soient montrées que tu as été amené ici ; et annonce tout ce que tu vois à la maison d'Israël.
+4 Et ce même homme me dit : Fils d'un homme, vois de tes yeux, et écoute de tes oreilles, et applique ton coeur à toutes les choses que moi je te montrerai, parce que c'est pour qu'elles te soient montrées que tu as été amené ici ; et annonce tout ce que tu vois à la maison d'Israël.
 
 
 5 Et voici au dehors un mur tout autour de la maison, et dans la main de l'homme une canne à mesurer de six coudées et d'un palme ; et il mesura la largeur de l'édifice, qui était d'une canne; et la hauteur, qui était aussi d'une canne.

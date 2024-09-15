@@ -7,15 +7,15 @@ draft: false
 
 1 Et surgens omnis multitudo eorum, duxerunt illum ad Pilatum.
 
-2 Cœperunt autem illum accusare, dicentes: Hunc invenimus subvertentem gentem nostram, et prohibentem tributa dare Cæsari, et dicentem se Christum regem esse.
+2 Coeperunt autem illum accusare, dicentes: Hunc invenimus subvertentem gentem nostram, et prohibentem tributa dare Caesari, et dicentem se Christum regem esse.
 
-3 Pilatus autem interrogavit eum, dicens: Tu es rex Iudæorum? At ille respondens ait: Tu dicis.
+3 Pilatus autem interrogavit eum, dicens: Tu es rex Iudaeorum? At ille respondens ait: Tu dicis.
 
-4 Ait autem Pilatus ad principes sacerdotum, et turbas: Nihil invenio causæ in hoc homine.
+4 Ait autem Pilatus ad principes sacerdotum, et turbas: Nihil invenio causae in hoc homine.
 
-5 At illi invalescebant, dicentes: Commovet populum docens per universam Iudæam, incipiens a Galilæa usque huc.
+5 At illi invalescebant, dicentes: Commovet populum docens per universam Iudaeam, incipiens a Galilaea usque huc.
 
-6 Pilatus autem audiens Galilæam, interrogavit si homo Galilæus esset.
+6 Pilatus autem audiens Galilaeam, interrogavit si homo Galilaeus esset.
 
 7 Et ut cognovit quod de Herodis potestate esset, remisit eum ad Herodem, qui et ipse Ierosolymis erat illis diebus.
 
@@ -23,7 +23,7 @@ draft: false
 
 9 Interrogabat autem eum multis sermonibus. At ipse nihil illi respondebat.
 
-10 Stabant autem principes sacerdotum, et Scribæ constanter accusantes eum.
+10 Stabant autem principes sacerdotum, et Scribae constanter accusantes eum.
 
 11 Sprevit autem illum Herodes cum exercitu suo: et illusit indutum veste alba, et remisit ad Pilatum.
 
@@ -57,19 +57,19 @@ draft: false
 
 26 Et cum ducerent eum, apprehenderunt Simonem quendam Cyrenensem venientem de villa: et imposuerunt illi crucem portare post Iesum.
 
-27 Sequebatur autem illum multa turba populi, et mulierum: quæ plangebant, et lamentabantur eum.
+27 Sequebatur autem illum multa turba populi, et mulierum: quae plangebant, et lamentabantur eum.
 
-28 Conversus autem ad illas Iesus, dixit: Filiæ Ierusalem, nolite flere super me, sed super vos ipsas flete, et super filios vestros.
+28 Conversus autem ad illas Iesus, dixit: Filiae Ierusalem, nolite flere super me, sed super vos ipsas flete, et super filios vestros.
 
-29 Quoniam ecce venient dies, in quibus dicent: Beatæ steriles, et ventres, qui non genuerunt, et ubera, quæ non lactaverunt.
+29 Quoniam ecce venient dies, in quibus dicent: Beatae steriles, et ventres, qui non genuerunt, et ubera, quae non lactaverunt.
 
 30 Tunc incipient dicere montibus: Cadite super nos. et collibus: Operite nos.
 
-31 Quia si in viridi ligno hæc faciunt, in arido quid fiet?
+31 Quia si in viridi ligno haec faciunt, in arido quid fiet?
 
 32 Ducebantur autem et alii duo nequam cum eo, ut interficerentur.
 
-33 Et postquam venerunt in locum, qui vocatur Calvariæ, ibi crucifixerunt eum: et latrones, unum a dextris, et alterum a sinistris.
+33 Et postquam venerunt in locum, qui vocatur Calvariae, ibi crucifixerunt eum: et latrones, unum a dextris, et alterum a sinistris.
 
 34 Iesus autem dicebat: Pater, dimitte illis: non enim sciunt quid faciunt. Dividentes vero vestimenta eius, miserunt sortes.
 
@@ -77,9 +77,9 @@ draft: false
 
 36 Illudebant autem ei et milites accedentes, et acetum offerentes ei,
 
-37 et dicentes: Si tu es rex Iudæorum, salvum te fac.
+37 et dicentes: Si tu es rex Iudaeorum, salvum te fac.
 
-38 Erat autem et superscriptio scripta super eum litteris Græcis, et Latinis, et Hebraicis: Hic est rex Iudæorum.
+38 Erat autem et superscriptio scripta super eum litteris Graecis, et Latinis, et Hebraicis: Hic est rex Iudaeorum.
 
 39 Unus autem de his, qui pendebant, latronibus, blasphemabat eum, dicens: Si tu es Christus, salvum fac temetipsum, et nos.
 
@@ -91,21 +91,21 @@ draft: false
 
 43 Et dixit illi Iesus: Amen dico tibi: Hodie mecum eris in paradiso.
 
-44 Erat autem fere hora sexta, et tenebræ factæ sunt in universam terram usque ad horam nonam.
+44 Erat autem fere hora sexta, et tenebrae factae sunt in universam terram usque ad horam nonam.
 
 45 Et obscuratus est sol: et velum templi scissum est medium.
 
-46 Et clamans voce magna Iesus ait: Pater in manus tuas commendo spiritum meum. Et hæc dicens, expiravit.
+46 Et clamans voce magna Iesus ait: Pater in manus tuas commendo spiritum meum. Et haec dicens, expiravit.
 
 47 Videns autem Centurio quod factum fuerat, glorificavit Deum, dicens: Vere hic homo iustus erat.
 
-48 Et omnis turba eorum, qui simul aderant ad spectaculum istud, et videbant quæ fiebant, percutientes pectora sua revertebantur.
+48 Et omnis turba eorum, qui simul aderant ad spectaculum istud, et videbant quae fiebant, percutientes pectora sua revertebantur.
 
-49 Stabant autem omnes noti eius a longe: et mulieres, quæ secutæ eum erant a Galilæa, hæc videntes.
+49 Stabant autem omnes noti eius a longe: et mulieres, quae secutae eum erant a Galilaea, haec videntes.
 
 50 Et ecce vir nomine Ioseph, qui erat decurio, vir bonus, et iustus:
 
-51 hic non consenserat consilio, et actibus eorum, ab Arimathæa civitate Iudææ, qui expectabat et ipse regnum Dei.
+51 hic non consenserat consilio, et actibus eorum, ab Arimathaea civitate Iudaeae, qui expectabat et ipse regnum Dei.
 
 52 hic accessit ad Pilatum, et petiit corpus Iesu:
 
@@ -113,7 +113,7 @@ draft: false
 
 54 Et dies erat parasceves, et sabbatum illucescebat.
 
-55 Subsecutæ autem mulieres, quæ cum eo venerant de Galilæa, viderunt monumentum, et quemadmodum positum erat corpus eius.
+55 Subsecutae autem mulieres, quae cum eo venerant de Galilaea, viderunt monumentum, et quemadmodum positum erat corpus eius.
 
 56 Et revertentes paraverunt aromata, et unguenta: et sabbato quidem siluerunt secundum mandatum.
 

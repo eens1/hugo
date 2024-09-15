@@ -32,14 +32,14 @@ summary: |
 
 ***Note*** :  Jr. 20, 7 : Et j’ai été séduit ; c’est-à-dire, vous m’avez engagé dans le ministère prophétique par des promesses dont je n’avais pas compris le sens, vous m’avez réduit à une humiliation à laquelle je ne m’attendais pas.
 
-8 Parce que déjà depuis longtemps je parle, criant contre l'iniquité, et annonçant à grand bruit une désolation, et la parole du Seigneur est devenue pour moi un sujet d'opprobre et de dérision durant tout le jour. 9 Et j'ai dit : Je ne ferai pas mention de lui, et je ne parlerai plus en son nom ; et alors il s'est allumé dans mon cœur comme un feu ardent, et renfermé dans mes os; et j'ai défailli, ne pouvant le soutenir. 10 Car j'ai entendu les outrages d'un grand nombre et la terreur tout autour de moi. Poursuivez-le, et nous le poursuivrons; j'ai entendu aussi de tous les hommes qui vivaient en paix avec moi, et qui se tenaient à mes côtés : Si en quelque manière il était trompé, et que nous prévalions contre lui, et que nous tirions vengeance de lui.
+8 Parce que déjà depuis longtemps je parle, criant contre l'iniquité, et annonçant à grand bruit une désolation, et la parole du Seigneur est devenue pour moi un sujet d'opprobre et de dérision durant tout le jour. 9 Et j'ai dit : Je ne ferai pas mention de lui, et je ne parlerai plus en son nom ; et alors il s'est allumé dans mon coeur comme un feu ardent, et renfermé dans mes os; et j'ai défailli, ne pouvant le soutenir. 10 Car j'ai entendu les outrages d'un grand nombre et la terreur tout autour de moi. Poursuivez-le, et nous le poursuivrons; j'ai entendu aussi de tous les hommes qui vivaient en paix avec moi, et qui se tenaient à mes côtés : Si en quelque manière il était trompé, et que nous prévalions contre lui, et que nous tirions vengeance de lui.
 
 
 11 Mais le Seigneur est avec moi comme un guerrier vaillant; c'est pour cela que ceux qui me persécutent tomberont et seront sans force ; ils seront confondus grandement, parce qu'ils n'ont pas compris un opprobre éternel qui ne s'effacera jamais.
 
 ***Note*** :  Jr. 20, 11 : Voir Jérémie, 23, 40. ― Ils n’ont pas compris qu’en me persécutant injustement, ils s’exposent à un opprobre, etc.
 
-12 Et vous. Seigneur des armées, vous qui éprouvez le juste, et qui voyez les reins et les cœurs ; que je voie, je vous prie, la vengeance que vous tirerez d'eux, car à vous j'ai révélé ma cause.
+12 Et vous. Seigneur des armées, vous qui éprouvez le juste, et qui voyez les reins et les coeurs ; que je voie, je vous prie, la vengeance que vous tirerez d'eux, car à vous j'ai révélé ma cause.
 
 ***Note*** :  Jr. 20, 12 : Voir Jérémie, 11, 20 ; 17, 10. ― Et vous, Seigneur, etc. Voir sur le véritable sens de ces imprécations les Observations préliminaires des Psaumes.
 

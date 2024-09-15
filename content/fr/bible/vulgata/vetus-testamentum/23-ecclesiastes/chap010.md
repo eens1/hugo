@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Muscæ morientes perdunt suavitatem unguenti. Pretiosior est sapientia et gloria, parva et ad tempus stultitia.
+1 Muscae morientes perdunt suavitatem unguenti. Pretiosior est sapientia et gloria, parva et ad tempus stultitia.
 
 2 Cor sapientis in dextera eius, et cor stulti in sinistra illius.
 
-3 Sed et in via stultus ambulans, cum ipse insipiens sit, omnes stultos æstimat.
+3 Sed et in via stultus ambulans, cum ipse insipiens sit, omnes stultos aestimat.
 
 4 Si spiritus potestatem habentis ascenderit super te, locum tuum ne demiseris: quia curatio faciet cessare peccata maxima.
 
@@ -27,7 +27,7 @@ draft: false
 
 11 Si mordeat serpens in silentio, nihil eo minus habet qui occulte detrahit.
 
-12 Verba oris sapientis gratia: et labia insipientis præcipitabunt eum:
+12 Verba oris sapientis gratia: et labia insipientis praecipitabunt eum:
 
 13 Initium verborum eius stultitia, et novissimum oris illius error pessimus.
 
@@ -35,13 +35,13 @@ draft: false
 
 15 Labor stultorum affliget eos, qui nesciunt in urbem pergere.
 
-16 Væ tibi terra, cuius rex puer est, et cuius principes mane comedunt.
+16 Vae tibi terra, cuius rex puer est, et cuius principes mane comedunt.
 
 17 Beata terra, cuius rex nobilis est, et cuius principes vescuntur in tempore suo ad reficiendum, et non ad luxuriam.
 
 18 In pigritiis humiliabitur contignatio, et in infirmitate manuum perstillabit domus.
 
-19 In risum faciunt panem, et vinum ut epulentur viventes: et pecuniæ obediunt omnia.
+19 In risum faciunt panem, et vinum ut epulentur viventes: et pecuniae obediunt omnia.
 
-20 In cogitatione tua regi ne detrahas, et in secreto cubiculi tui ne maledixeris diviti: quia et aves cæli portabunt vocem tuam, et qui habet pennas annunciabit sententiam.
+20 In cogitatione tua regi ne detrahas, et in secreto cubiculi tui ne maledixeris diviti: quia et aves caeli portabunt vocem tuam, et qui habet pennas annunciabit sententiam.
 

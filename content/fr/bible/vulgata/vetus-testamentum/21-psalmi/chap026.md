@@ -5,13 +5,13 @@ draft: false
 ---
 
 
-1 Psalmus David priusquam liniretur. Dominus illuminatio mea, et salus mea, quem timebo? Dominus protector vitæ meæ, a quo trepidabo?
+1 Psalmus David priusquam liniretur. Dominus illuminatio mea, et salus mea, quem timebo? Dominus protector vitae meae, a quo trepidabo?
 
 2 Dum appropiant super me nocentes, ut edant carnes meas: Qui tribulant me inimici mei, ipsi infirmati sunt et ceciderunt.
 
-3 Si consistant adversum me castra, non timebit cor meum. Si exurgat adversum me prælium, in hoc ego sperabo.
+3 Si consistant adversum me castra, non timebit cor meum. Si exurgat adversum me praelium, in hoc ego sperabo.
 
-4 Unam petii a Domino, hanc requiram, ut inhabitem in domo Domini omnibus diebus vitæ meæ: Ut videam voluptatem Domini, et visitem templum eius.
+4 Unam petii a Domino, hanc requiram, ut inhabitem in domo Domini omnibus diebus vitae meae: Ut videam voluptatem Domini, et visitem templum eius.
 
 5 Quoniam abscondit me in tabernaculo suo: in die malorum protexit me in abscondito tabernaculi sui.
 

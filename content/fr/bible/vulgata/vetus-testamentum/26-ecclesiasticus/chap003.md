@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Filii sapientiæ, ecclesia iustorum: et natio illorum, obedientia et dilectio.
+1 Filii sapientiae, ecclesia iustorum: et natio illorum, obedientia et dilectio.
 
 2 Iudicium patris audite filii, et sic facite ut salvi sitis.
 
@@ -15,7 +15,7 @@ draft: false
 
 5 Et sicut qui thesaurizat, ita et qui honorificat matrem suam.
 
-6 Qui honorat patrem suum, iucundabitur in filiis, et in die orationis suæ exaudietur.
+6 Qui honorat patrem suum, iucundabitur in filiis, et in die orationis suae exaudietur.
 
 7 Qui honorat patrem suum, vita vivet longiore: et qui obedit patri, refrigerabit matrem.
 
@@ -37,9 +37,9 @@ draft: false
 
 16 Nam pro peccato matris restituetur tibi bonum,
 
-17 et in iustitia ædificabitur tibi, et in die tribulationis commemorabitur tui: et sicut in sereno glacies solventur peccata tua.
+17 et in iustitia aedificabitur tibi, et in die tribulationis commemorabitur tui: et sicut in sereno glacies solventur peccata tua.
 
-18 Quam malæ famæ est, qui derelinquit patrem: et est maledictus a Deo, qui exasperat matrem.
+18 Quam malae famae est, qui derelinquit patrem: et est maledictus a Deo, qui exasperat matrem.
 
 19 Fili in mansuetudine opera tua perfice, et super hominum gloriam diligeris.
 
@@ -47,9 +47,9 @@ draft: false
 
 21 quoniam magna potentia Dei solius, et ab humilibus honoratur.
 
-22 Altiora te ne quæsieris, et fortiora te ne scrutatus fueris: sed quæ præcepit tibi Deus, illa cogita semper, et in pluribus operibus eius ne fueris curiosus.
+22 Altiora te ne quaesieris, et fortiora te ne scrutatus fueris: sed quae praecepit tibi Deus, illa cogita semper, et in pluribus operibus eius ne fueris curiosus.
 
-23 Non est enim tibi necessarium ea, quæ abscondita sunt, videre oculis tuis.
+23 Non est enim tibi necessarium ea, quae abscondita sunt, videre oculis tuis.
 
 24 In supervacuis rebus noli scrutari multipliciter, et in pluribus operibus eius non eris curiosus.
 
@@ -63,11 +63,11 @@ draft: false
 
 29 Cor nequam gravabitur in doloribus, et peccator adiiciet ad peccandum.
 
-30 Synagogæ superborum non erit sanitas: frutex enim peccati radicabitur in illis, et non intelligetur.
+30 Synagogae superborum non erit sanitas: frutex enim peccati radicabitur in illis, et non intelligetur.
 
 31 Cor sapientis intelligitur in sapientia, et auris bona audiet cum omni concupiscentia sapientiam.
 
-32 Sapiens cor, et intelligibile abstinebit se a peccatis, et in operibus iustitiæ successus habebit.
+32 Sapiens cor, et intelligibile abstinebit se a peccatis, et in operibus iustitiae successus habebit.
 
 33 Ignem ardentem extinguit aqua, et eleemosyna resistit peccatis:
 

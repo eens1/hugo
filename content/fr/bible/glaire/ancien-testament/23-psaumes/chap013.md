@@ -9,7 +9,7 @@ summary: |
 ---
 
 
-1 Pour la fin, psaume de David. L'insensé a dit dans son cœur : Il n'y a point de Dieu. Ils se sont corrompus, et ils sont devenus abominables dans leurs affections ; il n'y en a point qui fasse le bien, il n'y en a pas même un seul.
+1 Pour la fin, psaume de David. L'insensé a dit dans son coeur : Il n'y a point de Dieu. Ils se sont corrompus, et ils sont devenus abominables dans leurs affections ; il n'y en a point qui fasse le bien, il n'y en a pas même un seul.
 
 ***Note*** :  Ps. 13, 1 : L’impie nie Dieu et ses actes sont abominables.
 

@@ -26,7 +26,7 @@ summary: |
 7 Et toute la terre déserte d'Israël sera repeuplée, et la maison de Dieu, qui y a été brûlée, sera rebâtie de nouveau ; et là reviendront tous ceux qui craignent Dieu , 8 Et les nations abandonneront leurs idoles, elles viendront à Jérusalem, et elles y habiteront. 9 Et tous les rois de la terre se réjouiront en elle, adorant le roi d'Israël.
 
 
-10 Ecoutez donc, mes enfants, votre père : Servez le Seigneur dans la vérité, et cherchez à faire ce qui lui est agréable. 11 Quant à vos enfants, recommandez-leur de faire des œuvres de justice et des aumônes, de se souvenir de Dieu, et de le bénir en tout temps dans la vérité et de toutes leurs forces.
+10 Ecoutez donc, mes enfants, votre père : Servez le Seigneur dans la vérité, et cherchez à faire ce qui lui est agréable. 11 Quant à vos enfants, recommandez-leur de faire des oeuvres de justice et des aumônes, de se souvenir de Dieu, et de le bénir en tout temps dans la vérité et de toutes leurs forces.
 
 
 12 Maintenant donc, mes enfants, écoutez-moi, et ne demeurez point ici; mais au jour quelconque où vous aurez enseveli votre mère auprès de moi dans un seul sépulcre, dès ce moment, dirigez vos pas en sorte que vous sortiez d'ici; 13 Car je vois que l'iniquité de cette ville lui amènera sa fin.

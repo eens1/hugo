@@ -20,7 +20,7 @@ summary: |
 3 Tu n'auras point non plus compassion du pauvre en jugement.
 
 
-4 Si tu rencontres le bœuf de ton ennemi, ou son âne égaré, ramène-le-lui.
+4 Si tu rencontres le boeuf de ton ennemi, ou son âne égaré, ramène-le-lui.
 
 ***Note*** :  Ex. 23, 4 : Voir Deutéronome, 22, 1.
 
@@ -46,7 +46,7 @@ summary: |
 ***Note*** :  Ex. 23, 11 : Voir Lévitique, 25, 4.
 
 
-12 Pendant six jours tu travailleras , mais au septième jour tu cesseras, afin que ton bœuf et ton âne se reposent, et que le fils de ta servante, et l'étranger reprennent des forces.
+12 Pendant six jours tu travailleras , mais au septième jour tu cesseras, afin que ton boeuf et ton âne se reposent, et que le fils de ta servante, et l'étranger reprennent des forces.
 
 
 13 Gardez toutes les choses que je vous ai dites, et vous ne jurerez point par le nom des dieux étrangers, et on ne l'entendra pas de votre bouche.
@@ -86,7 +86,7 @@ summary: |
 
 ***Note*** :  Ex. 23, 23 : Voir Exode, 33, 2 ; Deutéronome, 7, 22 ; Josué, 24, 11.
 
-24 Tu n'adoreras point leurs dieux et tu ne les serviras pas ; tu ne feras point leurs œuvres, mais tu les détruiras et tu briseras leurs statues. 25 Vous servirez le Seigneur votre Dieu, afin que je bénisse tes pains et tes eaux, et que j'enlève la maladie du milieu de toi. 26 Il n'y aura ni femme inféconde, ni stérile dans ta terre : je remplirai le nombre de tes jours.
+24 Tu n'adoreras point leurs dieux et tu ne les serviras pas ; tu ne feras point leurs oeuvres, mais tu les détruiras et tu briseras leurs statues. 25 Vous servirez le Seigneur votre Dieu, afin que je bénisse tes pains et tes eaux, et que j'enlève la maladie du milieu de toi. 26 Il n'y aura ni femme inféconde, ni stérile dans ta terre : je remplirai le nombre de tes jours.
 
 
 27 J'enverrai ma terreur en avant de toi, et je ferai mourir tout peuple chez lequel tu entreras, et je ferai tourner le dos à tous tes ennemis devant toi ; 28 Envoyant d'abord les frelons, qui mettront en fuite l'Hévéen, le Chananéen et l'Héthéen, avant que tu entres.

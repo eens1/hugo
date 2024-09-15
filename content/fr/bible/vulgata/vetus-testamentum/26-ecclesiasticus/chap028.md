@@ -9,7 +9,7 @@ draft: false
 
 2 Relinque proximo tuo nocenti te: et tunc deprecanti tibi peccata solventur.
 
-3 Homo homini reservat iram, et a Deo quærit medelam?
+3 Homo homini reservat iram, et a Deo quaerit medelam?
 
 4 In hominem similem sibi non habet misericordiam, et de peccatis suis deprecatur?
 
@@ -27,7 +27,7 @@ draft: false
 
 11 homo enim iracundus incendit litem, et vir peccator turbabit amicos, et in medio pacem habentium immittet inimicitiam.
 
-12 Secundum enim ligna silvæ sic ignis exardescit: et secundum virtutem hominis, sic iracundia illius erit, et secundum substantiam suam exaltabit iram suam.
+12 Secundum enim ligna silvae sic ignis exardescit: et secundum virtutem hominis, sic iracundia illius erit, et secundum substantiam suam exaltabit iram suam.
 
 13 Certamen festinatum incendit ignem: et lis festinans effundit sanguinem: et lingua testificans adducit mortem.
 
@@ -45,19 +45,19 @@ draft: false
 
 20 qui respicit illam, non habebit requiem, nec habebit amicum, in quo requiescat.
 
-21 Flagelli plaga livorem facit: plaga autem linguæ comminuet ossa.
+21 Flagelli plaga livorem facit: plaga autem linguae comminuet ossa.
 
 22 Multi ceciderunt in ore gladii, sed non sic quasi qui interierunt per linguam suam.
 
 23 Beatus qui tectus est a lingua nequam, qui in iracundiam illius non transivit, et qui non attraxit iugum illius, et in vinculis eius non est ligatus:
 
-24 iugum enim illius, iugum ferreum est: et vinculum illius, vinculum æreum est.
+24 iugum enim illius, iugum ferreum est: et vinculum illius, vinculum aereum est.
 
 25 Mors illius, mors nequissima: et utilis potius infernus quam illa.
 
 26 Perseverantia illius non permanebit, sed obtinebit vias iniustorum: et in flamma sua non comburet iustos.
 
-27 Qui relinquunt Deum, incident in illam, et exardebit in illis, et non extinguetur, et immittetur in illos quasi leo, et quasi pardus lædet illos.
+27 Qui relinquunt Deum, incident in illam, et exardebit in illis, et non extinguetur, et immittetur in illos quasi leo, et quasi pardus laedet illos.
 
 28 Sepi aures tuas spinis, linguam nequam noli audire, et ori tuo facito ostia, et seras.
 

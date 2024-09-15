@@ -46,15 +46,15 @@ summary: |
 
 ***Note*** :  I Par. 7, 14-19 : Descendants de Manassé, établis à l’ouest du Jourdain.
 
-15 Et Machir prit des femmes pour ses fils Happhim et Saphan; et il eut une sœur du nom de Maacha ; mais le nom du second fut Salphaad ; et il naquit à Salphaad des filles.
+15 Et Machir prit des femmes pour ses fils Happhim et Saphan; et il eut une soeur du nom de Maacha ; mais le nom du second fut Salphaad ; et il naquit à Salphaad des filles.
 
 ***Note*** :  I Par. 7, 15 : Le mot second, qui se trouve également dans l’hébreu, semble ne pouvoir se rapporter qu’à Saphan, qui précède ; et, par conséquent, Salphaad était un de ses noms.
 
 16 Et Maacha, femme de Machir, enfanta un fils qu'elle appela du nom de Pharès : or le nom du frère de Pharès fut Sarès, et les fils de Sarès : Ulam et Récen.
 
-***Note*** :  I Par. 7, 16 : Maacha. La sœur et la femme de Maacha portaient le même nom.
+***Note*** :  I Par. 7, 16 : Maacha. La soeur et la femme de Maacha portaient le même nom.
 
-17 Mais le fils d'Ulam fut Badan ; ceux-là sont les fils de Galaad, fils de Machir, fils de Manassé. 18 Sa sœur. Reine, enfanta Homme-beau, et Abiézer et Mohola.
+17 Mais le fils d'Ulam fut Badan ; ceux-là sont les fils de Galaad, fils de Machir, fils de Manassé. 18 Sa soeur. Reine, enfanta Homme-beau, et Abiézer et Mohola.
 
 ***Note*** :  I Par. 7, 18 : Reine et Homme-beau sont la traduction de deux noms propres qui se lisent dans le texte hébreu. ― Reine est en hébreu Hammoléketh et Homme-beau est Ischhod.
 
@@ -80,11 +80,11 @@ summary: |
 ***Note*** :  I Par. 7, 29 : Bethsan et les noms suivants sont à l’accusatif dans la Vulgate, comme les compléments de possession et d’habitation du verset précédent, parce qu’en hébreu, comme quelquefois en latin, les noms d’action gouvernent dans ce cas.
 
 
-30 Les fils d'Aser furent Jemna, Jésua, Jessui et Baria, et Sara était leur sœur;
+30 Les fils d'Aser furent Jemna, Jésua, Jessui et Baria, et Sara était leur soeur;
 
 ***Note*** :  I Par. 7, 30 : Voir Genèse, 46, 17.
 
 ***Note*** :  I Par. 7, 30-40 : Descendants d’Aser.
 
-31 Mais les fils de Bari : Heber et Melchiel : c'est lui qui est père de Barsaïth. 32 Or Héber engendra Jephlat, Somer et Hotham, et Suaa, leur sœur. 33 Les fils de Jéphlat furent Phosech, Chamaal et Asoth; ce sont là les fils de Jéphlat. 34 Mais les fils de Somer : Ahi, Roaga, Haba et Aram. 35 Et les fils d'Hélem, son frère : Supha, Jemna, Sellès et Amal. 36 Les fils de Supha : Sué, Harnapher, Sual, Béri et Jamra, 37 Bosor, Hod, Samma, Salusa, Jéthran et Béra. 38 Les fils de Jéther : Jéphoné, Phaspha et Ara. 39 Et les fils d'Olla : Arée, Haniel et Résia. 40 Tous ceux-là sont les fils d'Aser, et les princes des familles, chefs distingués et les plus braves des chefs : le nombre de ceux d'un âge propre à la guerre était de vingt-six mille.
+31 Mais les fils de Bari : Heber et Melchiel : c'est lui qui est père de Barsaïth. 32 Or Héber engendra Jephlat, Somer et Hotham, et Suaa, leur soeur. 33 Les fils de Jéphlat furent Phosech, Chamaal et Asoth; ce sont là les fils de Jéphlat. 34 Mais les fils de Somer : Ahi, Roaga, Haba et Aram. 35 Et les fils d'Hélem, son frère : Supha, Jemna, Sellès et Amal. 36 Les fils de Supha : Sué, Harnapher, Sual, Béri et Jamra, 37 Bosor, Hod, Samma, Salusa, Jéthran et Béra. 38 Les fils de Jéther : Jéphoné, Phaspha et Ara. 39 Et les fils d'Olla : Arée, Haniel et Résia. 40 Tous ceux-là sont les fils d'Aser, et les princes des familles, chefs distingués et les plus braves des chefs : le nombre de ceux d'un âge propre à la guerre était de vingt-six mille.
 

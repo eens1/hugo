@@ -10,7 +10,7 @@ summary: |
 ---
 
 
-1 Et maintenant, à vous ce commandement, ô prêtres. 2 Si vous ne voulez pas écouter et si vous ne voulez pas prendre à cœur de rendre gloire à mon nom, dit le Seigneur des armées, j'enverrai sur vous l'indigence, et je maudirai vos bénédictions; et je les maudirai, parce que vous n'avez pas pris à cœur mes paroles.
+1 Et maintenant, à vous ce commandement, ô prêtres. 2 Si vous ne voulez pas écouter et si vous ne voulez pas prendre à coeur de rendre gloire à mon nom, dit le Seigneur des armées, j'enverrai sur vous l'indigence, et je maudirai vos bénédictions; et je les maudirai, parce que vous n'avez pas pris à coeur mes paroles.
 
 ***Note*** :  Ml. 2, 2 : Voir Lévitique, 26, 14-16; Deutéronome, 28, 15.
 

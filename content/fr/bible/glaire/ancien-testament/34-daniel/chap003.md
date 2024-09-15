@@ -55,7 +55,7 @@ summary: |
 ***Note*** :  Dn. 3, 23 : Ce qui suit ; c’est-à-dire, depuis le verset 24 jusqu’au 90e inclusivement. Saint Jérôme, l’auteur de cette remarque, n’ayant pas trouvé ce fragment dans le texte original, qui est le chaldéen, l’a traduit sur la version grecque de Théodotion, comme il le dit lui-même plus bas (voir verset 90). Or ce fragment inséré dans notre Vulgate a été reconnu par l’Eglise comme faisant partie des divines Ecritures.
 
 
-24 Et ils marchaient au milieu de la flamme, louant et bénissant le Seigneur. 25 Or, se tenant debout, Azarias pria ainsi, et, ouvrant sa bouche au milieu du feu, dit :26 Vous êtes béni, Seigneur Dieu de nos pères, et louable et glorieux est votre nom dans les siècles ; 27 Parce que vous êtes juste dans tout ce que vous nous avez fait; et que toutes vos œuvres sont vraies, et vos voies droites, et tous vos jugements vrais.
+24 Et ils marchaient au milieu de la flamme, louant et bénissant le Seigneur. 25 Or, se tenant debout, Azarias pria ainsi, et, ouvrant sa bouche au milieu du feu, dit :26 Vous êtes béni, Seigneur Dieu de nos pères, et louable et glorieux est votre nom dans les siècles ; 27 Parce que vous êtes juste dans tout ce que vous nous avez fait; et que toutes vos oeuvres sont vraies, et vos voies droites, et tous vos jugements vrais.
 
 
 28 Car vous avez exercé des jugements vrais dans tous les maux que vous avez fait venir sur nous et sur la sainte cité de nos pères, Jérusalem; parce que c'est dans la vérité et dans la justice que vous avez fait venir tous ces maux, à cause de nos péchés. 29 Car nous avons péché, et nous avons commis l'iniquité en nous retirant de vous; et nous avons manqué en toutes choses; 30 Et nous n'avons pas écouté vos préceptes et nous ne les avons pas gardés, et nous n'avons pas agi comme vous nous aviez ordonné, afin que bien nous fût.
@@ -72,7 +72,7 @@ summary: |
 ***Note*** :  Dn. 3, 38 : Il n’est pas parmi nous, etc. ; c’est-à-dire dans notre nation, dans la Judée, comme autrefois, des rois et des princes absolus, des prophètes avec autorité, un état réglé et indépendant. Dans la captivité, il y avait des chefs des tribus qui conservaient quelque autorité sur les autres captifs. Comparer à 4 Rois, 25, 27 ; 1 Paralipomènes, 5, 6 ; Daniel, chapitre 13.
 
 
-39 Afin que nous puissions obtenir votre miséricorde, mais que nous soyons reçus dans notre cœur contrit et notice esprit humilié. 40 Que comme dans un holocauste de béliers et de taureaux, et comme dans l'immolation de milliers d'agneaux gras, ainsi soit offert aujourd'hui notre sacrifice en votre présence, et qu'il vous plaise, parce qu'il n'est point de confusion pour ceux qui se confient en vous. 41 Et maintenant nous vous suivons de tout notre cœur, et nous vous craignons, et nous cherchons votre face.
+39 Afin que nous puissions obtenir votre miséricorde, mais que nous soyons reçus dans notre coeur contrit et notice esprit humilié. 40 Que comme dans un holocauste de béliers et de taureaux, et comme dans l'immolation de milliers d'agneaux gras, ainsi soit offert aujourd'hui notre sacrifice en votre présence, et qu'il vous plaise, parce qu'il n'est point de confusion pour ceux qui se confient en vous. 41 Et maintenant nous vous suivons de tout notre coeur, et nous vous craignons, et nous cherchons votre face.
 
 
 42 Ne nous confondez pas, mais faites-nous selon votre mansuétude et la grandeur de votre miséricorde ; 43 Et délivrez-nous par vos merveilles, et donnez gloire à votre nom, Seigneur; 44 Et qu'ils soient confondus, tous ceux qui font souffrir des maux à vos serviteurs; qu'ils soient confondus par votre toute puissance, et que leur force soit brisée ;
@@ -150,7 +150,7 @@ summary: |
 
 ***Note*** :  Dn. 3, 86 : Esprits, etc. ; les âmes des saints séparées de leurs corps.
 
-87 Bénissez le Seigneur, vous, saints et humbles de cœur; louez, et exaltez-le souverainement dans les siècles. 88 Bénissez le Seigneur, Ananias, Azarias, Misaël; louez, et exaltez-le souverainement dans les siècles.
+87 Bénissez le Seigneur, vous, saints et humbles de coeur; louez, et exaltez-le souverainement dans les siècles. 88 Bénissez le Seigneur, Ananias, Azarias, Misaël; louez, et exaltez-le souverainement dans les siècles.
 Parce qu'il nous a arrachés à l'enfer, et qu'il nous a sauves de la main de la mort; et qu'il nous a délivrés du milieu de la flamme ardente, et qu'il nous a retirés du milieu du feu.
 
 

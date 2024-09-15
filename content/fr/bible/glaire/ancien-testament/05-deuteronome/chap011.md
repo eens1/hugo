@@ -10,14 +10,14 @@ summary: |
 ---
 
 
-1 C'est pourquoi aime le Seigneur ton Dieu, observe ses préceptes et ses cérémonies, ses ordonnances et ses commandements en tout temps. 2 Reconnaissez aujourd'hui ce que vos fils ignorent, eux qui n'ont pas vu les châtiments du Seigneur votre Dieu, ses merveilles, sa main puissante et son bras étendu ; 3 Les signes et les œuvres qu'il a faits au milieu de l'Egypte au roi Pharaon et à toute sa terre ; 4 A toute l'armée des Egyptiens, à ses chevaux et à ses chariots : de quelle manière les eaux de la mer Rouge les ont couverts, lorsqu'ils vous poursuivaient, et comment le Seigneur les a détruits jusqu'au présent jour ; 5 Ce qu'il vous a fait à vous-mêmes dans le désert, jusqu'à ce que vous soyez venus en ce lieu ; 6 Et à Dathan et à Abiron, fils d'Eliab, qui fut fils de Ruben, que la terre, ayant ouvert sa bouche, engloutit avec leurs maisons, leurs tentes et tout leur bien qu'ils avaient au milieu d'Israël.
+1 C'est pourquoi aime le Seigneur ton Dieu, observe ses préceptes et ses cérémonies, ses ordonnances et ses commandements en tout temps. 2 Reconnaissez aujourd'hui ce que vos fils ignorent, eux qui n'ont pas vu les châtiments du Seigneur votre Dieu, ses merveilles, sa main puissante et son bras étendu ; 3 Les signes et les oeuvres qu'il a faits au milieu de l'Egypte au roi Pharaon et à toute sa terre ; 4 A toute l'armée des Egyptiens, à ses chevaux et à ses chariots : de quelle manière les eaux de la mer Rouge les ont couverts, lorsqu'ils vous poursuivaient, et comment le Seigneur les a détruits jusqu'au présent jour ; 5 Ce qu'il vous a fait à vous-mêmes dans le désert, jusqu'à ce que vous soyez venus en ce lieu ; 6 Et à Dathan et à Abiron, fils d'Eliab, qui fut fils de Ruben, que la terre, ayant ouvert sa bouche, engloutit avec leurs maisons, leurs tentes et tout leur bien qu'ils avaient au milieu d'Israël.
 
 ***Note*** :  Dr. 11, 6 : Voir Nombres, 16, 1 ; 16, 32.
 
-7 Vos yeux ont vu toutes les œuvres grandes que le Seigneur a faites, 8 Afin que vous gardiez tous ses commandements, que moi. je vous prescris aujourd'hui, que vous puissiez entrer et posséder la terre vers laquelle vous marchez, 9 Et que vous viviez longtemps en cette terre, que le Seigneur a promise avec serment à vos pères, et à leur postérité, et où coulent du lait et du miel10 Car la terre dans laquelle tu entreras pour la posséder, n'est pas comme la terre d'Egypte dont tu es sorti, où, la semence jetée, on conduit comme dans les jardins, des eaux qui servent à arroser; 11 Mais c'est une terre de montagnes et de plaines, qui attend du ciel de la pluie ; 12 Que le Seigneur ton Dieu regarde toujours; et ses yeux sont sur elle depuis le commencement de l'année jusqu'à sa fin.
+7 Vos yeux ont vu toutes les oeuvres grandes que le Seigneur a faites, 8 Afin que vous gardiez tous ses commandements, que moi. je vous prescris aujourd'hui, que vous puissiez entrer et posséder la terre vers laquelle vous marchez, 9 Et que vous viviez longtemps en cette terre, que le Seigneur a promise avec serment à vos pères, et à leur postérité, et où coulent du lait et du miel10 Car la terre dans laquelle tu entreras pour la posséder, n'est pas comme la terre d'Egypte dont tu es sorti, où, la semence jetée, on conduit comme dans les jardins, des eaux qui servent à arroser; 11 Mais c'est une terre de montagnes et de plaines, qui attend du ciel de la pluie ; 12 Que le Seigneur ton Dieu regarde toujours; et ses yeux sont sur elle depuis le commencement de l'année jusqu'à sa fin.
 
 
-13 Si donc vous obéissez à mes commandements, que moi, je vous prescris aujourd'hui, d'aimer le Seigneur votre Dieu, et de le servir en tout votre cœur et en toute votre âme,
+13 Si donc vous obéissez à mes commandements, que moi, je vous prescris aujourd'hui, d'aimer le Seigneur votre Dieu, et de le servir en tout votre coeur et en toute votre âme,
 
 ***Note*** :  Dr. 11, 13 : Voir Deutéronome, 10, 12.
 
@@ -25,10 +25,10 @@ summary: |
 
 ***Note*** :  Dr. 11, 14 : Dans la Palestine, il ne pleut ordinairement que dans deux saisons : au printemps, avant la moisson, et en automne, après les semailles. ― Les premières pluies désignent les pluies d’automne, qui tombent en octobre et novembre, à l’époque des semailles, et les dernières pluies, les pluies du printemps, qui tombent en mars et avril. Le reste de l’année, la pluie est tout à fait exceptionnelle en Palestine.
 
-15 Et du foin des champs pour nourrir vos bestiaux, et pour que vous-mêmes, vous mangiez et soyez rassasiés. 16 Prenez garde que votre cœur ne soit séduit, que vous ne vous éloigniez du Seigneur, que vous ne serviez des dieux étrangers, et que vous ne les adoriez:17 Et, qu'irrité, le Seigneur ne ferme le ciel, que les pluies ne descendent pas, que la terre ne donne pas sa végétation, que vous ne soyez exterminés en peu de temps de la terre excellente que le Seigneur va vous donner.
+15 Et du foin des champs pour nourrir vos bestiaux, et pour que vous-mêmes, vous mangiez et soyez rassasiés. 16 Prenez garde que votre coeur ne soit séduit, que vous ne vous éloigniez du Seigneur, que vous ne serviez des dieux étrangers, et que vous ne les adoriez:17 Et, qu'irrité, le Seigneur ne ferme le ciel, que les pluies ne descendent pas, que la terre ne donne pas sa végétation, que vous ne soyez exterminés en peu de temps de la terre excellente que le Seigneur va vous donner.
 
 
-18 Déposez ces paroles que je dis dans vos cœurs et dans vos esprits, et suspendez-les comme un signe à vos mains, et placez-les entre vos yeux,
+18 Déposez ces paroles que je dis dans vos coeurs et dans vos esprits, et suspendez-les comme un signe à vos mains, et placez-les entre vos yeux,
 
 ***Note*** :  Dr. 11, 18 : Voir Deutéronome, 6, 6.
 

@@ -9,5 +9,5 @@ draft: false
 
 2 Si non humiliter sentiebam: sed exaltavi animam meam: Sicut ablactatus est super matre sua, ita retributio in anima mea.
 
-3 Speret Israel in Domino, ex hoc nunc et usque in sæculum.
+3 Speret Israel in Domino, ex hoc nunc et usque in saeculum.
 

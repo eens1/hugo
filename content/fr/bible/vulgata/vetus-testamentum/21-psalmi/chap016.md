@@ -7,7 +7,7 @@ draft: false
 
 1 Oratio David. Exaudi Domine iustitiam meam: intende deprecationem meam. Auribus percipe orationem meam, non in labiis dolosis.
 
-2 De vultu tuo iudicium meum prodeat: oculi tui videant æquitates.
+2 De vultu tuo iudicium meum prodeat: oculi tui videant aequitates.
 
 3 Probasti cor meum, et visitasti nocte: igne me examinasti, et non est inventa in me iniquitas.
 
@@ -19,7 +19,7 @@ draft: false
 
 7 Mirifica misericordias tuas, qui salvos facis sperantes in te.
 
-8 A resistentibus dexteræ tuæ custodi me, ut pupillam oculi. Sub umbra alarum tuarum protege me:
+8 A resistentibus dexterae tuae custodi me, ut pupillam oculi. Sub umbra alarum tuarum protege me:
 
 9 a facie impiorum qui me afflixerunt. Inimici mei animam meam circumdederunt,
 
@@ -27,11 +27,11 @@ draft: false
 
 11 Proiicientes me nunc circumdederunt me: oculos suos statuerunt declinare in terram.
 
-12 Susceperunt me sicut leo paratus ad prædam: et sicut catulus leonis habitans in abditis.
+12 Susceperunt me sicut leo paratus ad praedam: et sicut catulus leonis habitans in abditis.
 
-13 Exurge Domine, præveni eum, et supplanta eum: eripe animam meam ab impio, frameam tuam
+13 Exurge Domine, praeveni eum, et supplanta eum: eripe animam meam ab impio, frameam tuam
 
-14 ab inimicis manus tuæ. Domine a paucis de terra divide eos in vita eorum: de absconditis tuis adimpletus est venter eorum. Saturati sunt filiis: et dimiserunt reliquias suas parvulis suis.
+14 ab inimicis manus tuae. Domine a paucis de terra divide eos in vita eorum: de absconditis tuis adimpletus est venter eorum. Saturati sunt filiis: et dimiserunt reliquias suas parvulis suis.
 
 15 Ego autem in iustitia apparebo conspectui tuo: satiabor cum apparuerit gloria tua.
 

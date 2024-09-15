@@ -25,7 +25,7 @@ summary: |
 6 De plus Jébaar et Elisama, 7 Eliphaleth, Nogé, Népheg et Japhia, 8 Comme aussi Elisama, Eliada et Eliphéleth : en tout, neuf.
 
 
-9 Ce sont là tous les fils de David, outre les fils de ses femmes du second rang; et ils eurent une sœur, Thamar.
+9 Ce sont là tous les fils de David, outre les fils de ses femmes du second rang; et ils eurent une soeur, Thamar.
 
 
 10 Or le fils de Salomon fut Roboam, dont le fils Abia engendra Asa; de celui-ci aussi est né Josaphat,
@@ -43,7 +43,7 @@ summary: |
 
 ***Note*** :  I Par. 3, 17-24 : Descendants du roi Jéchonias.
 
-18 Melchiram, Phadaïa, Sennéser et Jécémia, Sama et Nadabia. 19 De Phadaïa sont nés Zorobabel et Séméi. Zorobabel engendra Mosollam, et Hananias et Salomith leur sœur; 20 Et encore, Hasabas, Ohol, Barachias, Hasadias et Josabhesed : en tout, cinq. 21 Or le fils d'Hananias fut Phaltias, père de Jéséias, dont le fils fut Raphaïa, et le fils de celui-ci, Arnan, duquel naquit Obdia, dont le fils fut Séchénias; 22 Le fils de Séchénias, Séméia, dont les fils furent Hattus, Jégaal, Baria, Naaria et Saphat; au nombre de six.
+18 Melchiram, Phadaïa, Sennéser et Jécémia, Sama et Nadabia. 19 De Phadaïa sont nés Zorobabel et Séméi. Zorobabel engendra Mosollam, et Hananias et Salomith leur soeur; 20 Et encore, Hasabas, Ohol, Barachias, Hasadias et Josabhesed : en tout, cinq. 21 Or le fils d'Hananias fut Phaltias, père de Jéséias, dont le fils fut Raphaïa, et le fils de celui-ci, Arnan, duquel naquit Obdia, dont le fils fut Séchénias; 22 Le fils de Séchénias, Séméia, dont les fils furent Hattus, Jégaal, Baria, Naaria et Saphat; au nombre de six.
 
 ***Note*** :  I Par. 3, 22 : Six descendants de Séchénias, et non six fils de Séméias. Cependant le syriaque et l’arabe portent Hazarias pour sixième fils.
 

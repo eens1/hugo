@@ -19,7 +19,7 @@ draft: false
 
 7 Verumtamen in imagine pertransit homo: sed et frustra conturbatur. Thesaurizat: et ignorat cui congregabit ea.
 
-8 Et nunc quæ est expectatio mea? nonne Dominus? et substantia mea apud te est.
+8 Et nunc quae est expectatio mea? nonne Dominus? et substantia mea apud te est.
 
 9 Ab omnibus iniquitatibus meis erue me: opprobrium insipienti dedisti me.
 
@@ -27,7 +27,7 @@ draft: false
 
 11 amove a me plagas tuas.
 
-12 A fortitudine manus tuæ ego defeci in increpationibus: propter iniquitatem corripuisti hominem. Et tabescere fecisti sicut araneam animam eius: verumtamen vane conturbatur omnis homo.
+12 A fortitudine manus tuae ego defeci in increpationibus: propter iniquitatem corripuisti hominem. Et tabescere fecisti sicut araneam animam eius: verumtamen vane conturbatur omnis homo.
 
 13 Exaudi orationem meam Domine, et deprecationem meam: auribus percipe lacrimas meas. Ne sileas: quoniam advena ego sum apud te, et peregrinus, sicut omnes patres mei.
 

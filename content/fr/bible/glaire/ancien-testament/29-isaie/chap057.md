@@ -11,7 +11,7 @@ summary: |
 ---
 
 
-1 Le juste périt, et il n'est personne qui y pense en son cœur; les hommes de miséricorde sont enlevés du monde, parce qu'il n'est personne qui ait de l'intelligence ; car c'est à cause de la malice qu'a été enlevé le juste.
+1 Le juste périt, et il n'est personne qui y pense en son coeur; les hommes de miséricorde sont enlevés du monde, parce qu'il n'est personne qui ait de l'intelligence ; car c'est à cause de la malice qu'a été enlevé le juste.
 
 ***Note*** :  Is. 57, 1 : Le juste ; est mis ici pour les justes en général, selon plusieurs : mais c’est plutôt de Jésus-Christ qu’il faut l’entendre. ― L’intelligence ; ce mot dans le style de la Bible, signifie très souvent prudence, sagesse, vertu, comme l’expression de la face, à la face (facie) se prend fréquemment dans le sens à cause de.
 
@@ -47,12 +47,12 @@ summary: |
 ***Note*** :  Is. 57, 10 : La vie de ta main ; c’est-à-dire de quoi vivre par le travail de tes mains.
 
 
-11 Qui t'a rendue inquiète, qui as-tu craint, après que tu as menti, que tu ne t'es pas souvenue de moi, tu n'as pas pensé en ton cœur? C'est parce que je me tais, et que je suis comme ne voyant pas, que tu m'as oublié.
+11 Qui t'a rendue inquiète, qui as-tu craint, après que tu as menti, que tu ne t'es pas souvenue de moi, tu n'as pas pensé en ton coeur? C'est parce que je me tais, et que je suis comme ne voyant pas, que tu m'as oublié.
 
 ***Note*** :  Is. 57, 11 : Que tu m’as oublié ; littéralement et tu, etc. Ici, comme en bien d’autres passages, la particule et ne sert qu’à marquer l’apodose.
 
 
-12 Pour moi j'annoncerai ta justice, et tes œuvres ne te serviront pas. 13 Lorsque tu crieras, qu'ils te délivrent ceux que tu as rassemblés, et un vent les emportera, une brise les enlèvera. Mais celui qui a confiance en moi héritera de la terre, et il possédera ma montagne sainte.
+12 Pour moi j'annoncerai ta justice, et tes oeuvres ne te serviront pas. 13 Lorsque tu crieras, qu'ils te délivrent ceux que tu as rassemblés, et un vent les emportera, une brise les enlèvera. Mais celui qui a confiance en moi héritera de la terre, et il possédera ma montagne sainte.
 
 
 14 Et je dirai : Faites une voie, préparez un chemin, détournez-vous du sentier, ôtez les pierres d'achoppement de la voie de mon peuple.
@@ -60,15 +60,15 @@ summary: |
 ***Note*** :  Is. 57, 14 : Voir Isaïe, 62, 10.
 
 
-15 Parce que voici ce que dit le Très-Haut, le sublime, qui habite l'éternité, et dont le nom est saint, et qui habite dans un lieu très élevé, et dans un lieu saint, et avec un coeur contrit et un esprit humble, afin de vivifier l'esprit des humbles et le cœur des contrits.
+15 Parce que voici ce que dit le Très-Haut, le sublime, qui habite l'éternité, et dont le nom est saint, et qui habite dans un lieu très élevé, et dans un lieu saint, et avec un coeur contrit et un esprit humble, afin de vivifier l'esprit des humbles et le coeur des contrits.
 
-***Note*** :  Is. 57, 15 : Dit ; le complément de ce verbe ne se trouve qu’au verset 17 ; tout ce qui le suit est une longue parenthèse. ― Un lieu très élevé ; le ciel. ― Lieu saint ; le sanctuaire ou le tabernacle, ou le temple. ― Un cœur contrit, un esprit humble ; singulier pour le pluriel.
+***Note*** :  Is. 57, 15 : Dit ; le complément de ce verbe ne se trouve qu’au verset 17 ; tout ce qui le suit est une longue parenthèse. ― Un lieu très élevé ; le ciel. ― Lieu saint ; le sanctuaire ou le tabernacle, ou le temple. ― Un coeur contrit, un esprit humble ; singulier pour le pluriel.
 
 
 16 Car je ne disputerai pas éternellement, et je ne me mettrai pas en colère pour toujours : parce qu'un esprit sortira de ma face, et que je créerai des souffles de vie.
 
 
-17 A cause de l'iniquité de son avarice, j'ai été irrité, et je l'ai frappé; je t'ai caché ma face, et j'ai été indigné; et il est allé, vagabond, dans la voie de son cœur.
+17 A cause de l'iniquité de son avarice, j'ai été irrité, et je l'ai frappé; je t'ai caché ma face, et j'ai été indigné; et il est allé, vagabond, dans la voie de son coeur.
 
 ***Note*** :  Is. 57, 17 : A cause, etc. ; ici commence le complément du verbe dit du verset 15. ― Son, le, te, il ; ces pronoms, ainsi que ses, les, lui, etc. , du verset 18, se rapportent à peuple d’Israël ou à mon peuple, sous-entendu.
 

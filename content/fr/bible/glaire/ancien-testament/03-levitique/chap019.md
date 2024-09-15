@@ -60,7 +60,7 @@ summary: |
 ***Note*** :  Lv. 19, 16 : Contre le sang, etc. Tu ne conspireras point contre sa vie.
 
 
-17 Ne hais point ton frère en ton cœur, mais reprends-le publiquement, afin que tu n'aies pas de péché à son sujet.
+17 Ne hais point ton frère en ton coeur, mais reprends-le publiquement, afin que tu n'aies pas de péché à son sujet.
 
 ***Note*** :  Lv. 19, 17 : Voir Ecclésiastique, 19, 13 ; Matthieu, 18, 15 ; Luc, 17, 3 ; 1 Jean, 2, 11 ; 3, 14.
 

@@ -38,7 +38,7 @@ de sa bouche et de son nez une vapeur qui produit comme un nuage de fumée. »
 
 ***Note*** :  Job 41, 14 : Et elles ne se porteront, etc. Les foudres que Dieu lancera sur lui ne manqueront pas de l’atteindre. Tout fort, tout robuste, tout terrible qu’il est, le crocodile ne saurait résister à la main toute-puissante de Dieu.
 
-15 Son cœur se durcira comme une pierre, et il se resserrera comme une enclume de marteleur. 16 Lorsqu'il s'élèvera, des anges craindront, et, épouvantés, ils se purifieront.
+15 Son coeur se durcira comme une pierre, et il se resserrera comme une enclume de marteleur. 16 Lorsqu'il s'élèvera, des anges craindront, et, épouvantés, ils se purifieront.
 
 ***Note*** :  Job 41, 16 : Des anges ; ou plutôt des forts, comme le porte le texte hébreu ; c’est-à-dire des grands, des hommes puissants. Ainsi, lorsque le crocodile paraîtra hors de l’eau, les hommes les plus puissants, les plus considérables du pays, seront saisis de frayeur et d’épouvante. ― Ils se purifieront de leurs péchés, en faisant pénitence.
 

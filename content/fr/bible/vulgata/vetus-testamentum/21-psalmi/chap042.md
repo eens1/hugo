@@ -11,7 +11,7 @@ draft: false
 
 3 Emitte lucem tuam et veritatem tuam: ipsa me deduxerunt, et adduxerunt in montem sanctum tuum, et in tabernacula tua.
 
-4 Et introibo ad altare Dei: ad Deum, qui lætificat iuventutem meam. Confitebor tibi in cithara Deus Deus meus:
+4 Et introibo ad altare Dei: ad Deum, qui laetificat iuventutem meam. Confitebor tibi in cithara Deus Deus meus:
 
 5 quare tristis es anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei, et Deus meus.
 

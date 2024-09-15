@@ -9,7 +9,7 @@ draft: false
 
 2 Omnis via viri recta sibi videtur: appendit autem corda Dominus.
 
-3 Facere misericordiam et iudicium, magis placet Domino quam victimæ.
+3 Facere misericordiam et iudicium, magis placet Domino quam victimae.
 
 4 Exaltatio oculorum est dilatatio cordis: lucerna impiorum peccatum.
 
@@ -17,7 +17,7 @@ draft: false
 
 6 Qui congregat thesauros lingua mendacii, vanus et excors est, et impingetur ad laqueos mortis.
 
-7 Rapinæ impiorum detrahent eos, quia noluerunt facere iudicium.
+7 Rapinae impiorum detrahent eos, quia noluerunt facere iudicium.
 
 8 Perversa via viri, aliena est: qui autem mundus est, rectum opus eius.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 Gaudium iusto est facere iudicium: et pavor operantibus iniquitatem.
 
-16 Vir, qui erraverit a via doctrinæ, in cœtu gigantum commorabitur.
+16 Vir, qui erraverit a via doctrinae, in coetu gigantum commorabitur.
 
 17 Qui diligit epulas, in egestate erit: qui amat vinum, et pinguia, non ditabitur.
 
@@ -47,7 +47,7 @@ draft: false
 
 21 Qui sequitur iustitiam et misericordiam, inveniet vitam, iustitiam, et gloriam.
 
-22 Civitatem fortium ascendit sapiens, et destruxit robur fiduciæ eius.
+22 Civitatem fortium ascendit sapiens, et destruxit robur fiduciae eius.
 
 23 Qui custodit os suum, et linguam suam, custodit ab angustiis animam suam.
 
@@ -57,7 +57,7 @@ draft: false
 
 26 tota die concupiscit et desiderat: qui autem iustus est, tribuet, et non cessabit.
 
-27 Hostiæ impiorum abominabiles, quia offeruntur ex scelere.
+27 Hostiae impiorum abominabiles, quia offeruntur ex scelere.
 
 28 Testis mendax peribit: vir obediens loquetur victoriam.
 

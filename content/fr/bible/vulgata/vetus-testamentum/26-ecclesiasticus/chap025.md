@@ -5,15 +5,15 @@ draft: false
 ---
 
 
-1 In tribus placitum est spiritui meo, quæ sunt probata coram Deo, et hominibus:
+1 In tribus placitum est spiritui meo, quae sunt probata coram Deo, et hominibus:
 
 2 Concordia fratrum, et amor proximorum, et vir et mulier bene sibi consentientes.
 
-3 Tres species odivit anima mea, et aggravor valde animæ illorum:
+3 Tres species odivit anima mea, et aggravor valde animae illorum:
 
 4 Pauperem superbum: divitem mendacem: senem fatuum et insensatum.
 
-5 Quæ in iuventute tua non congregasti, quomodo in senectute tua invenies?
+5 Quae in iuventute tua non congregasti, quomodo in senectute tua invenies?
 
 6 Quam speciosum canitiei iudicium, et presbyteris cognoscere consilium!
 
@@ -51,7 +51,7 @@ draft: false
 
 23 et non est ira super iram mulieris. Commorari leoni et draconi placebit, quam habitare cum muliere nequam.
 
-24 Nequitia mulieris immutat faciem eius: et obcæcat vultum suum tamquam ursus: et quasi saccum ostendit. In medio proximorum eius
+24 Nequitia mulieris immutat faciem eius: et obcaecat vultum suum tamquam ursus: et quasi saccum ostendit. In medio proximorum eius
 
 25 ingemuit vir eius, et audiens suspiravit modicum.
 
@@ -67,11 +67,11 @@ draft: false
 
 31 Cor humile, et facies tristis, et plaga cordis, mulier nequam.
 
-32 Manus debiles, et genua dissoluta, mulier quæ non beatificat virum suum.
+32 Manus debiles, et genua dissoluta, mulier quae non beatificat virum suum.
 
 33 A muliere initium factum est peccati, et per illam omnes morimur.
 
-34 Non des aquæ tuæ exitum, nec modicum: nec mulieri nequam veniam prodeundi.
+34 Non des aquae tuae exitum, nec modicum: nec mulieri nequam veniam prodeundi.
 
 35 Si non ambulaverit ad manum tuam, confundet te in conspectu inimicorum.
 

@@ -38,7 +38,7 @@ summary: |
 
 ***Note*** :  Tobie 1, 12 : Des aliments des Gentils ; c’est-à-dire des viandes défendues par la Loi aux Juifs (voir Lévitique, chapitre 11).
 
-13 Et parce qu'il se souvint de Dieu en tout son cœur, Dieu lui fit trouver grâce en la présence du roi Salmanasar, 14 Et le roi lui donna pouvoir d'aller partout où il voudrait, ayant la liberté de faire tout ce qu'il voudrait. 15 Il se rendait donc vers tous ceux qui étaient en captivité, et leur donnait des avis salutaires.
+13 Et parce qu'il se souvint de Dieu en tout son coeur, Dieu lui fit trouver grâce en la présence du roi Salmanasar, 14 Et le roi lui donna pouvoir d'aller partout où il voudrait, ayant la liberté de faire tout ce qu'il voudrait. 15 Il se rendait donc vers tous ceux qui étaient en captivité, et leur donnait des avis salutaires.
 
 
 16 Mais, étant revenu à Ragès, ville des Mèdes, comme il avait de ce dont il avait été honoré par le roi, dix talents d'argent,

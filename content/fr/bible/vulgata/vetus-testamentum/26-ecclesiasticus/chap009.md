@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 Non zeles mulierem sinus tui, ne ostendat super te malitiam doctrinæ nequam.
+1 Non zeles mulierem sinus tui, ne ostendat super te malitiam doctrinae nequam.
 
-2 Non des mulieri potestatem animæ tuæ, ne ingrediatur in virtutem tuam, et confundaris.
+2 Non des mulieri potestatem animae tuae, ne ingrediatur in virtutem tuam, et confundaris.
 
 3 Ne respicias mulierem multivolam: ne forte incidas in laqueos illius.
 
@@ -23,9 +23,9 @@ draft: false
 
 9 propter speciem mulieris multi perierunt: et ex hoc concupiscentia quasi ignis exardescit.
 
-10 Omnis mulier, quæ est fornicaria, quasi stercus in via conculcabitur.
+10 Omnis mulier, quae est fornicaria, quasi stercus in via conculcabitur.
 
-11 Speciem mulieris alienæ multi admirati, reprobi facti sunt. colloquium enim illius quasi ignis exardescit.
+11 Speciem mulieris alienae multi admirati, reprobi facti sunt. colloquium enim illius quasi ignis exardescit.
 
 12 Cum aliena muliere ne sedeas omnino, nec accumbas cum ea super cubitum:
 
@@ -35,7 +35,7 @@ draft: false
 
 15 Vinum novum, amicus novus: veterascet, et cum suavitate bibes illud.
 
-16 Non zeles gloriam, et opes peccatoris: non enim scis quæ futura sit illius subversio.
+16 Non zeles gloriam, et opes peccatoris: non enim scis quae futura sit illius subversio.
 
 17 Non placeat tibi iniuria iniustorum, sciens quoniam usque ad inferos non placebit impius.
 
@@ -47,9 +47,9 @@ draft: false
 
 21 Secundum virtutem tuam cave te a proximo tuo, et cum sapientibus et prudentibus tracta.
 
-22 Viri iusti sint tibi convivæ, et in timore Dei sit tibi gloriatio,
+22 Viri iusti sint tibi convivae, et in timore Dei sit tibi gloriatio,
 
-23 et in sensu sit tibi cogitatus Dei, et omnis enarratio tua in præceptis Altissimi.
+23 et in sensu sit tibi cogitatus Dei, et omnis enarratio tua in praeceptis Altissimi.
 
 24 In manu artificum opera laudabuntur, et princeps populi in sapientia sermonis sui, in sensu vero seniorum verbum.
 

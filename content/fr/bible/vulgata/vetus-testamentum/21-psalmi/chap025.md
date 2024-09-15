@@ -19,7 +19,7 @@ draft: false
 
 7 Ut audiam vocem laudis, et enarrem universa mirabilia tua.
 
-8 Domine dilexi decorem domus tuæ, et locum habitationis gloriæ tuæ.
+8 Domine dilexi decorem domus tuae, et locum habitationis gloriae tuae.
 
 9 Ne perdas cum impiis Deus animam meam, et cum viris sanguinum vitam meam:
 

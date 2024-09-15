@@ -4,7 +4,7 @@ date: 2024-09-06T20:00:40+02:00
 draft: false
 summary: |
   
-  Eloge de la sagesse, par l’éminence et la justice de ses maximes, par ses œuvres admirables et par les récompenses qu’elle accorde à ceux qui la cherchent.
+  Eloge de la sagesse, par l’éminence et la justice de ses maximes, par ses oeuvres admirables et par les récompenses qu’elle accorde à ceux qui la cherchent.
 ---
 
 

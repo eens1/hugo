@@ -9,13 +9,13 @@ draft: false
 
 2 Audite auditionem in terrore vocis eius, et sonum de ore illius procedentem.
 
-3 Subter omnes cælos ipse considerat, et lumen illius super terminos terræ.
+3 Subter omnes caelos ipse considerat, et lumen illius super terminos terrae.
 
-4 Post eum rugiet sonitus, tonabit voce magnitudinis suæ, et non investigabitur, cum audita fuerit vox eius.
+4 Post eum rugiet sonitus, tonabit voce magnitudinis suae, et non investigabitur, cum audita fuerit vox eius.
 
 5 Tonabit Deus in voce sua mirabiliter, qui facit magna et inscrutabilia.
 
-6 Qui præcipit nivi ut descendat in terram, et hiemis pluviis, et imbri fortitudinis suæ.
+6 Qui praecipit nivi ut descendat in terram, et hiemis pluviis, et imbri fortitudinis suae.
 
 7 Qui in manu omnium hominum signat, ut noverint singuli opera sua.
 
@@ -23,27 +23,27 @@ draft: false
 
 9 Ab interioribus egredietur tempestas, et ab Arcturo frigus.
 
-10 Flante Deo concrescit gelu, et rursum latissimæ funduntur aquæ.
+10 Flante Deo concrescit gelu, et rursum latissimae funduntur aquae.
 
 11 Frumentum desiderat nubes, et nubes spargunt lumen suum.
 
-12 Quæ lustrant per circuitum, quocumque eas voluntas gubernantis duxerit, ad omne quod præceperit illis super faciem orbis terrarum:
+12 Quae lustrant per circuitum, quocumque eas voluntas gubernantis duxerit, ad omne quod praeceperit illis super faciem orbis terrarum:
 
-13 Sive in una tribu, sive in terra sua, sive in quocumque loco misericordiæ suæ eas iusserit inveniri.
+13 Sive in una tribu, sive in terra sua, sive in quocumque loco misericordiae suae eas iusserit inveniri.
 
-14 Ausculta hæc Iob: sta, et considera mirabilia Dei.
+14 Ausculta haec Iob: sta, et considera mirabilia Dei.
 
-15 Numquid scis quando præceperit Deus pluviis, ut ostenderent lucem nubium eius?
+15 Numquid scis quando praeceperit Deus pluviis, ut ostenderent lucem nubium eius?
 
 16 Numquid nosti semitas nubium magnas, et perfectas scientias?
 
 17 Nonne vestimenta tua calida sunt, cum perflata fuerit terra Austro?
 
-18 Tu forsitan cum eo fabricatus es cælos, qui solidissimi quasi ære fusi sunt.
+18 Tu forsitan cum eo fabricatus es caelos, qui solidissimi quasi aere fusi sunt.
 
 19 Ostende nobis quid dicamus illi: nos quippe involvimur tenebris.
 
-20 Quis narrabit ei quæ loquor? etiam si locutus fuerit homo, devorabitur.
+20 Quis narrabit ei quae loquor? etiam si locutus fuerit homo, devorabitur.
 
 21 At nunc non vident lucem: subito aer cogetur in nubes, et ventus transiens fugabit eas.
 

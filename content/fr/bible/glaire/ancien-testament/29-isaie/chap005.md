@@ -65,9 +65,9 @@ soit en trois compartiments. » (V. GUERIN. )
 17 Et les agneaux paîtront à leur ordinaire, et dans les déserts devenus fertiles, des étrangers trouveront leur nourriture.
 
 
-18 Malheur à vous qui tirez l'iniquité avec les cordes de la vanité, et le péché comme les traits d'un chariot; 19 Qui dites : Qu'il se hâte, et que son œuvre vienne bientôt, afin que nous la voyions; et qu'il s'approche et qu'il vienne, le décret du saint d'Israël, et nous le connaîtrons !
+18 Malheur à vous qui tirez l'iniquité avec les cordes de la vanité, et le péché comme les traits d'un chariot; 19 Qui dites : Qu'il se hâte, et que son oeuvre vienne bientôt, afin que nous la voyions; et qu'il s'approche et qu'il vienne, le décret du saint d'Israël, et nous le connaîtrons !
 
-***Note*** :  Is. 5, 19 : Qu’il ; c’est-à-dire Dieu, dont il s’agit dans tout ce verset. ― Son œuvre ; ce qu’il prétend faire, ce dont il nous menace depuis longtemps. On trouve dans plusieurs autres prophètes de pareilles insolences dites par les Juifs.
+***Note*** :  Is. 5, 19 : Qu’il ; c’est-à-dire Dieu, dont il s’agit dans tout ce verset. ― Son oeuvre ; ce qu’il prétend faire, ce dont il nous menace depuis longtemps. On trouve dans plusieurs autres prophètes de pareilles insolences dites par les Juifs.
 
 
 20 Malheur à vous qui appelez le mal bien, et le bien mal ; qui donnez les ténèbres pour la lumière, et la lumière pour les ténèbres; qui donnez l'amer pour le doux et le doux pour l'amer!

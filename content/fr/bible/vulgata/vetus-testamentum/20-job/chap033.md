@@ -37,23 +37,23 @@ draft: false
 
 16 Tunc aperit aures virorum, et erudiens eos instruit disciplina,
 
-17 Ut avertat hominem ab his, quæ facit, et liberet eum de superbia:
+17 Ut avertat hominem ab his, quae facit, et liberet eum de superbia:
 
 18 Eruens animam eius a corruptione: et vitam illius, ut non transeat in gladium.
 
 19 Increpat quoque per dolorem in lectulo, et omnia ossa eius marcescere facit.
 
-20 Abominabilis ei fit in vita sua panis, et animæ illius cibus ante desiderabilis.
+20 Abominabilis ei fit in vita sua panis, et animae illius cibus ante desiderabilis.
 
-21 Tabescet caro eius, et ossa, quæ tecta fuerant, nudabuntur.
+21 Tabescet caro eius, et ossa, quae tecta fuerant, nudabuntur.
 
 22 Appropinquavit corruptioni anima eius, et vita illius mortiferis.
 
-23 Si fuerit pro eo Angelus loquens, unus de millibus, ut annunciet hominis æquitatem:
+23 Si fuerit pro eo Angelus loquens, unus de millibus, ut annunciet hominis aequitatem:
 
 24 Miserebitur eius, et dicet: Libera eum, ut non descendat in corruptionem: inveni in quo ei propitier.
 
-25 Consumpta est caro eius a suppliciis, revertatur ad dies adolescentiæ suæ.
+25 Consumpta est caro eius a suppliciis, revertatur ad dies adolescentiae suae.
 
 26 Deprecabitur Deum, et placabilis ei erit: et videbit faciem eius in iubilo, et reddet homini iustitiam suam.
 
@@ -61,7 +61,7 @@ draft: false
 
 28 Liberavit animam suam ne pergeret in interitum, sed vivens lucem videret.
 
-29 Ecce, hæc omnia operatur Deus tribus vicibus per singulos.
+29 Ecce, haec omnia operatur Deus tribus vicibus per singulos.
 
 30 Ut revocet animas eorum a corruptione, et illuminet luce viventium.
 

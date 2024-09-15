@@ -5,19 +5,19 @@ draft: false
 ---
 
 
-1 Et iterum cœpit docere ad mare: et congregata est ad eum turba multa, ita ut navim ascendens sederet in mari, et omnis turba circa mare super terram erat:
+1 Et iterum coepit docere ad mare: et congregata est ad eum turba multa, ita ut navim ascendens sederet in mari, et omnis turba circa mare super terram erat:
 
 2 et docebat eos in parabolis multa, et dicebat illis in doctrina sua:
 
 3 Audite: ecce exiit seminans ad seminandum.
 
-4 Et dum seminat, aliud cecidit circa viam, et venerunt volucres cæli, et comederunt illud.
+4 Et dum seminat, aliud cecidit circa viam, et venerunt volucres caeli, et comederunt illud.
 
-5 Aliud vero cecidit super petrosa, ubi non habuit terram multam: et statim exortum est, quoniam non habebat altitudinem terræ:
+5 Aliud vero cecidit super petrosa, ubi non habuit terram multam: et statim exortum est, quoniam non habebat altitudinem terrae:
 
-6 et quando exortus est sol, exæstuavit: et eo quod non habebat radicem, exaruit.
+6 et quando exortus est sol, exaestuavit: et eo quod non habebat radicem, exaruit.
 
-7 Et aliud cecidit in spinas: et ascenderunt spinæ, et suffocaverunt illud, et fructum non dedit.
+7 Et aliud cecidit in spinas: et ascenderunt spinae, et suffocaverunt illud, et fructum non dedit.
 
 8 Et aliud cecidit in terram bonam: et dabat fructum ascendentem, et crescentem, et afferebat unum triginta, unum sexaginta, et unum centum.
 
@@ -41,7 +41,7 @@ draft: false
 
 18 Et alii sunt, qui in spinas seminantur: hi sunt, qui verbum audiunt,
 
-19 et ærumnæ sæculi, et deceptio divitiarum, et circa reliqua concupiscentiæ introeuntes suffocant verbum, et sine fructu efficitur.
+19 et aerumnae saeculi, et deceptio divitiarum, et circa reliqua concupiscentiae introeuntes suffocant verbum, et sine fructu efficitur.
 
 20 Et hi sunt, qui super terram bonam seminati sunt, qui audiunt verbum, et suscipiunt, et fructificant, unum triginta, unum sexaginta, et unum centum.
 
@@ -63,11 +63,11 @@ draft: false
 
 29 Et cum producerit fructus, statim mittit falcem, quoniam adest messis.
 
-30 Et dicebat: Cui assimilabimus regnum Dei? aut cui parabolæ comparabimus illud?
+30 Et dicebat: Cui assimilabimus regnum Dei? aut cui parabolae comparabimus illud?
 
-31 Sicut granum sinapis, quod cum seminatum fuerit in terra, minus est omnibus seminibus, quæ sunt in terra:
+31 Sicut granum sinapis, quod cum seminatum fuerit in terra, minus est omnibus seminibus, quae sunt in terra:
 
-32 et cum seminatum fuerit, ascendit, et fit maius omnibus oleribus, et facit ramos magnos, ita ut possint sub umbra eius aves cæli habitare.
+32 et cum seminatum fuerit, ascendit, et fit maius omnibus oleribus, et facit ramos magnos, ita ut possint sub umbra eius aves caeli habitare.
 
 33 Et talibus multis parabolis loquebatur eis verbum, prout poterant audire:
 
@@ -75,7 +75,7 @@ draft: false
 
 35 Et ait illis in illa die, cum sero esset factum: Transeamus contra.
 
-36 Et dimittentes turbam, assumunt eum ita ut erat in navi: et aliæ naves erant cum illo.
+36 Et dimittentes turbam, assumunt eum ita ut erat in navi: et aliae naves erant cum illo.
 
 37 Et facta est procella magna venti, et fluctus mittebat in navim, ita ut impleretur navis.
 

@@ -11,11 +11,11 @@ draft: false
 
 3 Et dixit: Domine, si inveni gratiam in oculis tuis, ne transeas servum tuum:
 
-4 sed afferam pauxillum aquæ, et lavate pedes vestros, et requiescite sub arbore.
+4 sed afferam pauxillum aquae, et lavate pedes vestros, et requiescite sub arbore.
 
 5 Ponamque buccellam panis, et confortate cor vestrum, postea transibitis: idcirco enim declinastis ad servum vestrum. Qui dixerunt: Fac ut locutus es.
 
-6 Festinavit Abraham in tabernaculum ad Saram, dixitque ei: Accelera, tria sata similæ commisce, et fac subcinericios panes.
+6 Festinavit Abraham in tabernaculum ad Saram, dixitque ei: Accelera, tria sata similae commisce, et fac subcinericios panes.
 
 7 Ipse vero ad armentum cucurrit, et tulit inde vitulum tenerrimum et optimum, deditque puero: qui festinavit, et coxit illum.
 
@@ -25,9 +25,9 @@ draft: false
 
 10 Cui dixit: Revertens veniam ad te tempore isto, vita comite, et habebit filium Sara uxor tua. Quo audito, Sara risit post ostium tabernaculi.
 
-11 Erant autem ambo senes, provectæque ætatis, et desierant Saræ fieri muliebria.
+11 Erant autem ambo senes, provectaeque aetatis, et desierant Sarae fieri muliebria.
 
-12 Quæ risit occulte dicens: Postquam consenui, et dominus meus vetulus est, voluptati operam dabo?
+12 Quae risit occulte dicens: Postquam consenui, et dominus meus vetulus est, voluptati operam dabo?
 
 13 Dixit autem Dominus ad Abraham: Quare risit Sara, dicens: Num vere paritura sum anus?
 
@@ -37,13 +37,13 @@ draft: false
 
 16 Cum ergo surrexissent inde viri, direxerunt oculos contra Sodomam: et Abraham simul gradiebatur, deducens eos.
 
-17 Dixitque Dominus: Num celare potero Abraham quæ gesturus sum:
+17 Dixitque Dominus: Num celare potero Abraham quae gesturus sum:
 
-18 cum futurus sit in gentem magnam, ac robustissimam, et BENEDICENDÆ sint in illo omnes nationes terræ?
+18 cum futurus sit in gentem magnam, ac robustissimam, et BENEDICENDAE sint in illo omnes nationes terrae?
 
-19 Scio enim quod præcepturus sit filiis suis, et domui suæ post se ut custodiant viam Domini, et faciant iudicium et iustitiam: ut adducat Dominus propter Abraham omnia quæ locutus est ad eum.
+19 Scio enim quod praecepturus sit filiis suis, et domui suae post se ut custodiant viam Domini, et faciant iudicium et iustitiam: ut adducat Dominus propter Abraham omnia quae locutus est ad eum.
 
-20 Dixit itaque Dominus: Clamor Sodomorum et Gomorrhæ multiplicatus est, et peccatum eorum aggravatum est nimis.
+20 Dixit itaque Dominus: Clamor Sodomorum et Gomorrhae multiplicatus est, et peccatum eorum aggravatum est nimis.
 
 21 Descendam, et videbo utrum clamorem qui venit ad me, opere compleverint: an non est ita, ut sciam.
 
@@ -57,15 +57,15 @@ draft: false
 
 26 Dixitque Dominus ad eum: Si invenero Sodomis quinquaginta iustos in medio civitatis, dimittam omni loco propter eos.
 
-27 Respondensque Abraham, ait: Quia semel cœpi, loquar ad Dominum meum, cum sim pulvis et cinis.
+27 Respondensque Abraham, ait: Quia semel coepi, loquar ad Dominum meum, cum sim pulvis et cinis.
 
 28 Quid si minus quinquaginta iustis quinque fuerint? delebis, propter quadraginta quinque, universam urbem? Et ait: Non delebo, si invenero ibi quadraginta quinque.
 
 29 Rursumque locutus est ad eum: Sin autem quadraginta ibi inventi fuerint, quid facies? Ait: Non percutiam propter quadraginta.
 
-30 Ne quæso, inquit, indigneris Domine, si loquar: Quid si ibi inventi fuerint triginta? Respondit: Non faciam, si invenero ibi triginta.
+30 Ne quaeso, inquit, indigneris Domine, si loquar: Quid si ibi inventi fuerint triginta? Respondit: Non faciam, si invenero ibi triginta.
 
-31 Quia semel, ait, cœpi loquar ad Dominum meum: Quid si ibi inventi fuerint viginti? Ait: Non interficiam propter viginti.
+31 Quia semel, ait, coepi loquar ad Dominum meum: Quid si ibi inventi fuerint viginti? Ait: Non interficiam propter viginti.
 
 32 Obsecro, inquit, ne irascaris Domine, si loquar adhuc semel: Quid si inventi fuerint ibi decem? Et dixit: Non delebo propter decem.
 

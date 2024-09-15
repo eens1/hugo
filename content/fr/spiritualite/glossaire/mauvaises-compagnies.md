@@ -25,7 +25,7 @@ draft: false
 
 [^5]: Glaire 1905, p. 2735.
 
-> *1 Corinthiens 15:33* : "Ne vous laissez point séduire, les mauvais entretiens corrompent les bonnes mœurs." [^6]
+> *1 Corinthiens 15:33* : "Ne vous laissez point séduire, les mauvais entretiens corrompent les bonnes moeurs." [^6]
 
 [^6]: Glaire 1905, p. 2754.
 

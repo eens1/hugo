@@ -29,7 +29,7 @@ summary: |
 
 ***Note*** :  Cant. 3, 10 : Le milieu, etc. Le media de la Vulgate est un pluriel neutre, qui signifie littéralement les choses du milieu. ― De ce qu’il y a de plus précieux ; littéralement de cherté (charitate) ; hébraïsme, pour de cher dans la langue sacrée, en effet, les substantifs se mettent souvent pour les adjectifs. ― A cause ; en faveur, pour être agréable.
 
-11 Sortez et voyez, filles de Sion, le roi Salomon avec le diadème dont le couronna sa mère au jour de ses noces, et au jour de la joie de son cœur.
+11 Sortez et voyez, filles de Sion, le roi Salomon avec le diadème dont le couronna sa mère au jour de ses noces, et au jour de la joie de son coeur.
 
 ***Note*** :  Cant. 3, 11 : Sortez, etc. Les filles de la noce invitent les autres filles de Jérusalem à venir voir Salomon orné du diadème.
 

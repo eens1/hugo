@@ -17,16 +17,16 @@ summary: |
 
 ***Note*** :  Job 1, 1 : Dans la terre de Hus. Voir l’Introduction.
 
-2 Il lui naquit sept fils et trois filles. 3 Et sa possession fut sept mille brebis, trois mille chameaux, et aussi cinq cent paires de bœufs, cinq cents ânesses et un très grand nombre de domestiques; et cet homme était grand parmi les Orientaux.
+2 Il lui naquit sept fils et trois filles. 3 Et sa possession fut sept mille brebis, trois mille chameaux, et aussi cinq cent paires de boeufs, cinq cents ânesses et un très grand nombre de domestiques; et cet homme était grand parmi les Orientaux.
 
 ***Note*** :  Job 1, 3 : Parmi les Orientaux, les Arabes.
 
 
-4 Et ses fils allaient et faisaient un festin dans leurs maisons, chacun à son jour. De plus ils envoyaient appeler leurs trois sœurs, pour qu'elles mangeassent et bussent avec eux,
+4 Et ses fils allaient et faisaient un festin dans leurs maisons, chacun à son jour. De plus ils envoyaient appeler leurs trois soeurs, pour qu'elles mangeassent et bussent avec eux,
 
 ***Note*** :  Job 1, 4 : A son jour ; au jour qui lui était marqué ; suivant quelques-uns, au jour de leur naissance. Comparer à Genèse, 40, 20 ; Matthieu, 14, 6.
 
-5 Et lorsque les jours du festin étaient successivement passés, Job envoyait chez ses enfants, et il les sanctifiait; puis, se levant au point du jour, il offrait des holocaustes pour chacun d'eux; car il disait : Peut-être que mes enfants ont péché et maudit Dieu en leur cœur. Ainsi faisait Job tous les jours.
+5 Et lorsque les jours du festin étaient successivement passés, Job envoyait chez ses enfants, et il les sanctifiait; puis, se levant au point du jour, il offrait des holocaustes pour chacun d'eux; car il disait : Peut-être que mes enfants ont péché et maudit Dieu en leur coeur. Ainsi faisait Job tous les jours.
 
 ***Note*** :  Job 1, 5 : Il les sanctifiait ; c’est-à-dire les préparait au sacrifice par les moyens de purifications qui étaient en usage. ― Maudit ; littéralement et par antiphrase, béni. Le grec porte : Mes fils ont pensé de mauvaises choses. Comparer à 3 Rois, 21, 10.
 
@@ -41,7 +41,7 @@ summary: |
 
 ***Note*** :  Job 1, 7 : J’ai fait le tour, etc. Comparer à 1 Pierre, 5, 8.
 
-8 Le Seigneur lui demanda encore : Est-ce que tu n'as point considéré mon serviteur Job? Il n'y en a pas de semblable à lui sur la terre; homme simple, droit, craignant Dieu, et s'éloignant du mal. 9 Satan, répondant, dit : Est-ce en vain que Job craint le Seigneur? 10 N'avez-vous pas mis un rempart autour de lui, de sa maison et de tous ses biens? N'avez-vous pas béni les œuvres de ses mains, et ses possessions ne se sont-elles pas augmentées sur la terre? 11 Mais étendez un peu votre main, et touchez tout ce qu'il possède, et vous verrez s'il ne vous maudira pas en face.
+8 Le Seigneur lui demanda encore : Est-ce que tu n'as point considéré mon serviteur Job? Il n'y en a pas de semblable à lui sur la terre; homme simple, droit, craignant Dieu, et s'éloignant du mal. 9 Satan, répondant, dit : Est-ce en vain que Job craint le Seigneur? 10 N'avez-vous pas mis un rempart autour de lui, de sa maison et de tous ses biens? N'avez-vous pas béni les oeuvres de ses mains, et ses possessions ne se sont-elles pas augmentées sur la terre? 11 Mais étendez un peu votre main, et touchez tout ce qu'il possède, et vous verrez s'il ne vous maudira pas en face.
 
 ***Note*** :  Job 1, 11 : S’il ne vous maudira pas. Voir le verset 5.
 
@@ -50,10 +50,10 @@ summary: |
 
 13 Or, comme un certain jour, les fils et les filles de Job mangeaient et buvaient du vin dans la maison de leur frère, le premier-né,
 
-***Note*** :  Job 1, 13 : 3° Job subit sept épreuves consécutives : les quatre premières l’atteignent dans ses biens et dans ses enfants, la cinquième dans son corps ; la sixième et la septième sont des épreuves morales. Les quatre premières ne se passent pas sous ses yeux, il en reçoit la nouvelle par quatre messagers de malheur : 1° Les Sabéens, dans un razzia, lui enlèvent tous ses troupeaux de bœuf et d’ânes, chapitre 1, versets 13 à 15 ; ― 2° la foudre fait périr ses brebis, chapitre 1, verset 16 ; ― 3° les Chaldéens, dans une razzia, lui enlèvent ses chameaux, sa plus grande richesse, chapitre 1, verset 17 ; ― 4° un vent violent renverse la maison où tous ses enfants étaient réunis pour prendre part au festin que leur offrait leur frère aîné, et les écrase tous, chapitre 1, versets 18 et 19. ― Job a écouté en silence le récit des trois premiers malheurs, mais, au quatrième, lorsqu’il apprend la mort de ses fils, il ne peut plus contenir sa douleur ; toutefois elle ne sert qu’à faire ressortir davantage la
+***Note*** :  Job 1, 13 : 3° Job subit sept épreuves consécutives : les quatre premières l’atteignent dans ses biens et dans ses enfants, la cinquième dans son corps ; la sixième et la septième sont des épreuves morales. Les quatre premières ne se passent pas sous ses yeux, il en reçoit la nouvelle par quatre messagers de malheur : 1° Les Sabéens, dans un razzia, lui enlèvent tous ses troupeaux de boeuf et d’ânes, chapitre 1, versets 13 à 15 ; ― 2° la foudre fait périr ses brebis, chapitre 1, verset 16 ; ― 3° les Chaldéens, dans une razzia, lui enlèvent ses chameaux, sa plus grande richesse, chapitre 1, verset 17 ; ― 4° un vent violent renverse la maison où tous ses enfants étaient réunis pour prendre part au festin que leur offrait leur frère aîné, et les écrase tous, chapitre 1, versets 18 et 19. ― Job a écouté en silence le récit des trois premiers malheurs, mais, au quatrième, lorsqu’il apprend la mort de ses fils, il ne peut plus contenir sa douleur ; toutefois elle ne sert qu’à faire ressortir davantage la
 solidité de sa vertu, car elle ne lui arrache que ces paroles admirables, qui sont l’expression même de sa résignation et qui feront à jamais l’admiration des hommes : « Nu, je suis sorti du sein de ma mère, nu j’y retournerai ; Dieu m’a donné, Dieu m’a ôté ; que le nom du Seigneur soit béni ! »
 
-14 Un messager vint vers Job, pour dire : Les bœufs labouraient et les ânesses paissaient auprès d'eux, 15 Et les Sabéens ont fait une incursion, et ont tout enlevé : et ils ont frappé du glaive les serviteurs; et je me suis échappé, moi seul, pour vous l'annoncer.
+14 Un messager vint vers Job, pour dire : Les boeufs labouraient et les ânesses paissaient auprès d'eux, 15 Et les Sabéens ont fait une incursion, et ont tout enlevé : et ils ont frappé du glaive les serviteurs; et je me suis échappé, moi seul, pour vous l'annoncer.
 
 ***Note*** :  Job 1, 15 : Les serviteurs ; c’est-à-dire les gardiens.
 

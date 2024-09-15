@@ -11,7 +11,7 @@ draft: false
 
 3 Et venerunt ad eum ferentes paralyticum, qui a quattuor portabatur.
 
-4 Et cum non possent offerre eum illi præ turba, nudaverunt tectum ubi erat: et patefacientes submiserunt grabatum, in quo paralyticus iacebat.
+4 Et cum non possent offerre eum illi prae turba, nudaverunt tectum ubi erat: et patefacientes submiserunt grabatum, in quo paralyticus iacebat.
 
 5 Cum autem vidisset Iesus fidem illorum, ait paralytico: Fili, dimittuntur tibi peccata tua.
 
@@ -31,15 +31,15 @@ draft: false
 
 13 Et egressus est rursus ad mare: omnisque turba veniebat ad eum, et docebat eos.
 
-14 Et cum præteriret, vidit Levi Alphæi sedentem ad telonium, et ait illi: Sequere me. Et surgens secutus est eum.
+14 Et cum praeteriret, vidit Levi Alphaei sedentem ad telonium, et ait illi: Sequere me. Et surgens secutus est eum.
 
 15 Et factum est, cum accumberet in domo illius, multi publicani, et peccatores simul discumbebant cum Iesu, et discipulis eius: erant enim multi, qui et sequebantur eum.
 
-16 Et Scribæ, et Pharisæi videntes quia manducaret cum publicanis, et peccatoribus, dicebant discipulis eius: Quare cum publicanis, et peccatoribus manducat et bibit Magister vester?
+16 Et Scribae, et Pharisaei videntes quia manducaret cum publicanis, et peccatoribus, dicebant discipulis eius: Quare cum publicanis, et peccatoribus manducat et bibit Magister vester?
 
 17 Hoc audito Iesus ait illis: Non necesse habent sani medico, sed qui male habent: non enim veni vocare iustos, sed peccatores.
 
-18 Et erant discipuli Ioannis, et Pharisæi ieiunantes: et veniunt, et dicunt illi: Quare discipuli Ioannis, et Pharisæorum ieiunant, tui autem discipuli non ieiunant?
+18 Et erant discipuli Ioannis, et Pharisaei ieiunantes: et veniunt, et dicunt illi: Quare discipuli Ioannis, et Pharisaeorum ieiunant, tui autem discipuli non ieiunant?
 
 19 Et ait illis Iesus: Numquid possunt filii nuptiarum, quamdiu sponsus cum illis est, ieiunare? Quanto tempore habent secum sponsum, non possunt ieiunare.
 
@@ -49,9 +49,9 @@ draft: false
 
 22 Et nemo mittit vinum novum in utres veteres: alioquin dirumpet vinum utres, et vinum effundetur, et utres peribunt: sed vinum novum in utres novos mitti debet.
 
-23 Et factum est iterum Dominus sabbatis ambularet per sata, et discipuli eius cœperunt progredi, et vellere spicas.
+23 Et factum est iterum Dominus sabbatis ambularet per sata, et discipuli eius coeperunt progredi, et vellere spicas.
 
-24 Pharisæi autem dicebant ei: Ecce, quid faciunt sabbatis quod non licet?
+24 Pharisaei autem dicebant ei: Ecce, quid faciunt sabbatis quod non licet?
 
 25 Et ait illis: Numquam legistis quid fecerit David, quando necessitatem habuit, et esuriit ipse, et qui cum eo erant?
 

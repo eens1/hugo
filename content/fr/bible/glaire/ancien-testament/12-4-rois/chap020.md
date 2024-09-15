@@ -17,7 +17,7 @@ summary: |
 
 ***Note*** :  IV Rois 20, 1 : Voir 2 Paralipomènes, 32, 24 ; Isaïe, 38, 1.
 
-2 Ezéchias tourna sa face vers la muraille, et pria le Seigneur disant :3 Je vous conjure, Seigneur, souvenez-vous, je vous prie, comment j'ai marché devant vous dans la vérité et avec un cœur parfait, et comment j'ai fait ce qui vous est agréable. Et Ezéchias pleura d'un grand pleur.
+2 Ezéchias tourna sa face vers la muraille, et pria le Seigneur disant :3 Je vous conjure, Seigneur, souvenez-vous, je vous prie, comment j'ai marché devant vous dans la vérité et avec un coeur parfait, et comment j'ai fait ce qui vous est agréable. Et Ezéchias pleura d'un grand pleur.
 
 
 4 Et avant qu'Isaïe eût franchi la moitié du vestibule, la parole du Seigneur lui fut adressée, disant :5 Retourne, et dis à Ezéchias, chef de mon peuple : Voici ce que dit le Seigneur Dieu de David, votre père : J'ai entendu ta prière et j'ai vu tes larmes ; et voilà que je t'ai guéri, dans trois jours tu monteras au temple du Seigneur. 6 Et j'ajouterai quinze années à tes jours; et même je te délivrerai de la main du roi des Assyriens, toi et cette ville, et je protégerai cette ville, à cause de moi, et à cause de David, mon serviteur. 7 Alors Isaïe dit aux serviteurs du roi : Apportez-moi une panerée de figues. Lorsqu'ils la lui eurent apportée et qu'ils l'eurent mise sur l'ulcère du roi, il fut guéri. 8 Or Ezéchias avait dit à Isaïe : Quel sera le signe que le Seigneur me guérira, et que je monterai dans trois jours au temple du Seigneur? 9 Isaïe lui répondit : Voici de la part du Seigneur le signe que le Seigneur accomplira la parole qu'il a dite : Voulez-vous que l'ombre du soleil monte de dix lignes, ou

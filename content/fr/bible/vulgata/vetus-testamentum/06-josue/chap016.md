@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Cecidit quoque sors filiorum Ioseph ab Iordane contra Iericho et aquas eius ab Oriente: solitudo quæ ascendit de Iericho ad montem Bethel:
+1 Cecidit quoque sors filiorum Ioseph ab Iordane contra Iericho et aquas eius ab Oriente: solitudo quae ascendit de Iericho ad montem Bethel:
 
 2 et egreditur de Bethel Luza: transitque terminum Archi, Ataroth.
 
@@ -19,9 +19,9 @@ draft: false
 
 7 descenditque de Ianoe in Ataroth et Naaratha: et pervenit in Iericho, egrediturque ad Iordanem.
 
-8 De Taphua pertransit contra mare in Vallem arundineti, suntque egressus eius in mare salsissimum. hæc est possessio tribus filiorum Ephraim per familias suas.
+8 De Taphua pertransit contra mare in Vallem arundineti, suntque egressus eius in mare salsissimum. haec est possessio tribus filiorum Ephraim per familias suas.
 
-9 Urbesque separatæ sunt filiis Ephraim in medio possessionis filiorum Manasse, et villæ earum.
+9 Urbesque separatae sunt filiis Ephraim in medio possessionis filiorum Manasse, et villae earum.
 
-10 Et non interfecerunt filii Ephraim Chananæum, qui habitabat in Gazer: habitavitque Chananæus in medio Ephraim usque in diem hanc tributarius.
+10 Et non interfecerunt filii Ephraim Chananaeum, qui habitabat in Gazer: habitavitque Chananaeus in medio Ephraim usque in diem hanc tributarius.
 

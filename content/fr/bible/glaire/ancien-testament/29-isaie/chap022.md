@@ -46,7 +46,7 @@ summary: |
 
 10 Et vous avez fait le dénombrement des maisons de Jérusalem, et vous avez détruit les maisons pour fortifier le mur. 11 Et vous avez fait un réservoir entre les deux murs, près de l'eau de la piscine ancienne, et vous n'avez pas levé les yeux vers celui qui l'avait faite, et vous n'avez pas vu même de loin celui qui l'a construite.
 
-***Note*** :  Is. 22, 11 : Et vous avez fait, etc. Voir 4 Rois, 20, 20 ; 2 Paralipomènes, 32, 30. ― Entre les deux murs ; celui d’Ophel à l’est, et celui de la haute tour à l’ouest, où la vallée du Tyropæon est très étroite. ― La piscine ancienne. Près de la piscine inférieure, voir verset 9, où furent amenées les eaux de Siloé ; il y avait sans doute là un ancien réservoir.
+***Note*** :  Is. 22, 11 : Et vous avez fait, etc. Voir 4 Rois, 20, 20 ; 2 Paralipomènes, 32, 30. ― Entre les deux murs ; celui d’Ophel à l’est, et celui de la haute tour à l’ouest, où la vallée du Tyropaeon est très étroite. ― La piscine ancienne. Près de la piscine inférieure, voir verset 9, où furent amenées les eaux de Siloé ; il y avait sans doute là un ancien réservoir.
 
 
 12 Et le Seigneur Dieu des armées vous appellera en ce jour-là au pleur, au gémissement, à raser vos cheveux, et à vous ceindre d'un sac ; 13 Et voici la joie et l'allégresse; tuer des veaux, égorger des béliers, manger des viandes, et boire du vin. Mangeons et buvons; car demain nous mourrons.

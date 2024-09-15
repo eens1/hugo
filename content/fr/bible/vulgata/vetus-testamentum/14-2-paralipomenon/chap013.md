@@ -17,21 +17,21 @@ draft: false
 
 6 Et surrexit Ieroboam filius Nabat, servus Salomonis filii David: et rebellavit contra dominum suum.
 
-7 Congregatique sunt ad eum viri vanissimi, et filii Belial: et prævaluerunt contra Roboam filium Salomonis: porro Roboam erat rudis, et corde pavido, nec potuit resistere eis.
+7 Congregatique sunt ad eum viri vanissimi, et filii Belial: et praevaluerunt contra Roboam filium Salomonis: porro Roboam erat rudis, et corde pavido, nec potuit resistere eis.
 
 8 Nunc ergo vos dicitis quod resistere possitis regno Domini, quod possidet per filios David, habetisque grandem populi multitudinem, atque vitulos aureos, quos fecit vobis Ieroboam in deos.
 
 9 Et eiecistis Sacerdotes Domini, filios Aaron, atque Levitas: et fecistis vobis Sacerdotes sicut omnes populi terrarum: quicumque venerit, et initiaverit manum suam in tauro de bobus, et in arietibus septem, fit sacerdos eorum, qui non sunt dii.
 
-10 Noster autem Dominus, Deus est, quem non relinquimus, Sacerdotesque ministrant Domino de filiis Aaron, et Levitæ sunt in ordine suo:
+10 Noster autem Dominus, Deus est, quem non relinquimus, Sacerdotesque ministrant Domino de filiis Aaron, et Levitae sunt in ordine suo:
 
-11 Holocausta quoque offerunt Domino per singulos dies mane et vespere, et thymiama iuxta legis præcepta confectum, et proponuntur panes in mensa mundissima, estque apud nos candelabrum aureum, et lucernæ eius, ut accendantur semper ad vesperam: nos quippe custodimus præcepta Domini Dei nostri, quem vos reliquistis.
+11 Holocausta quoque offerunt Domino per singulos dies mane et vespere, et thymiama iuxta legis praecepta confectum, et proponuntur panes in mensa mundissima, estque apud nos candelabrum aureum, et lucernae eius, ut accendantur semper ad vesperam: nos quippe custodimus praecepta Domini Dei nostri, quem vos reliquistis.
 
 12 Ergo in exercitu nostro dux Deus est, et Sacerdotes eius, qui clangunt tubis, et resonant contra vos: filii Israel nolite pugnare contra Dominum Deum patrum vestrorum, quia non vobis expedit.
 
-13 Hæc illo loquente, Ieroboam retro moliebatur insidias. Cumque ex adverso hostium staret, ignorantem Iudam suo ambiebat exercitu.
+13 Haec illo loquente, Ieroboam retro moliebatur insidias. Cumque ex adverso hostium staret, ignorantem Iudam suo ambiebat exercitu.
 
-14 Respiciensque Iudas vidit instare bellum ex adverso et post tergum, et clamavit ad Dominum: ac Sacerdotes tubis canere cœperunt.
+14 Respiciensque Iudas vidit instare bellum ex adverso et post tergum, et clamavit ad Dominum: ac Sacerdotes tubis canere coeperunt.
 
 15 Omnesque viri Iuda vociferati sunt: et ecce illis clamantibus, perterruit Deus Ieroboam, et omnem Israel qui stabat ex adverso Abia et Iuda.
 
@@ -47,5 +47,5 @@ draft: false
 
 21 Igitur Abia, confortato imperio suo, accepit uxores quattuordecim: procreavitque viginti duos filios, et sedecim filias.
 
-22 Reliqua autem sermonum Abia, viarumque et operum eius, scripta sunt diligentissime in Libro Addo Prophetæ.
+22 Reliqua autem sermonum Abia, viarumque et operum eius, scripta sunt diligentissime in Libro Addo Prophetae.
 

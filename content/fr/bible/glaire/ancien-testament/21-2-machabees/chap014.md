@@ -67,7 +67,7 @@ summary: |
 22 Cependant Judas ordonna qu'il y eût des gens armés dans les lieux avantageux, de peur que de la part des ennemis quelque chose de fâcheux n'arrivât; et ils eurent un entretien convenable.
 
 
-23 Or Nicanor demeurait à Jérusalem, et il ne faisait rien iniquement; et la masse des troupes qui avaient été assemblées, il les renvoya. 24 Et il aimait Judas de cœur, et il avait une inclination pour cet homme. 25 Il le pria même de se marier et d'avoir des enfants. Judas se maria, jouit du repos, et ils vivaient en commun.
+23 Or Nicanor demeurait à Jérusalem, et il ne faisait rien iniquement; et la masse des troupes qui avaient été assemblées, il les renvoya. 24 Et il aimait Judas de coeur, et il avait une inclination pour cet homme. 25 Il le pria même de se marier et d'avoir des enfants. Judas se maria, jouit du repos, et ils vivaient en commun.
 
 
 26 Mais Alcime, voyant leur amitié l'un pour l'autre, et leurs traités, vint vers Démétrius, et disait que Nicanor favorisait les intérêts des étrangers, et qu'il avait destiné pour son successeur Judas qui trahissait son royaume. 27 C'est pourquoi le roi, exaspéré, et irrité par les accusations criminelles de cet homme, écrivit à Nicanor, disant qu'il supportait avec peine le traité d'amitié, qu'il commandait donc que Machabée fût au plus tôt envoyé chargé de chaînes à Antioche. 28 Ce qu'ayant connu, Nicanor était consterné, et il supportait avec peine de rendre vaines les choses qui avaient été convenues, n'ayant été blessé en rien par cet homme.

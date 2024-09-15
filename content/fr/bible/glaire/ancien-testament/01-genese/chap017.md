@@ -44,7 +44,7 @@ summary: |
 
 ***Note*** :  Gn. 17, 15 : Saraï signifie noble, princesse, et Sara, féconde.
 
-16 Je la bénirai, et d'elle je te donnerai un fils que je dois bénir aussi; et il sera chef de nations ; et des rois de peuples sortiront de lui. 17 Abraham tomba sur sa face, et rit, disant en son cœur : Pensez-vous qu'à un centenaire naîtra un fils, et que Sara nonagénaire enfantera? 18 Et il dit à Dieu : Plaise à Dieu qu'Ismaël vive devant vous!19 Et Dieu répondit à Abraham : Sara ta femme t'enfantera un fils, et tu l'appelleras du nom d'Isaac, et je ferai de mon pacte avec lui et avec sa postérité après lui une alliance éternelle.
+16 Je la bénirai, et d'elle je te donnerai un fils que je dois bénir aussi; et il sera chef de nations ; et des rois de peuples sortiront de lui. 17 Abraham tomba sur sa face, et rit, disant en son coeur : Pensez-vous qu'à un centenaire naîtra un fils, et que Sara nonagénaire enfantera? 18 Et il dit à Dieu : Plaise à Dieu qu'Ismaël vive devant vous!19 Et Dieu répondit à Abraham : Sara ta femme t'enfantera un fils, et tu l'appelleras du nom d'Isaac, et je ferai de mon pacte avec lui et avec sa postérité après lui une alliance éternelle.
 
 ***Note*** :  Gn. 17, 19 : Voir Genèse, 18, 10 ; 21, 2.
 

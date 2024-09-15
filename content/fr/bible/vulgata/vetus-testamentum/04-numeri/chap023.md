@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Dixitque Balaam ad Balac: Ædifica mihi hic septem aras, et para totidem vitulos, eiusdemque numeri arietes.
+1 Dixitque Balaam ad Balac: AEdifica mihi hic septem aras, et para totidem vitulos, eiusdemque numeri arietes.
 
 2 Cumque fecisset iuxta sermonem Balaam, imposuerunt simul vitulum et arietem super aram.
 
@@ -13,7 +13,7 @@ draft: false
 
 4 Cumque abiisset velociter, occurrit illi Deus. Locutusque ad eum Balaam: Septem, inquit, aras erexi, et imposui vitulum et arietem desuper.
 
-5 Dominus autem posuit verbum in ore eius, et ait: Revertere ad Balac, et hæc loqueris.
+5 Dominus autem posuit verbum in ore eius, et ait: Revertere ad Balac, et haec loqueris.
 
 6 Reversus invenit stantem Balac iuxta holocaustum suum, et omnes principes Moabitarum:
 
@@ -31,11 +31,11 @@ draft: false
 
 13 Dixit ergo Balac: Veni mecum in alterum locum unde partem Israel videas, et totum videre non possis, inde maledicito ei.
 
-14 Cumque duxisset eum in locum sublimem, super verticem montis Phasga, ædificavit Balaam septem aras, et impositis supra vitulo atque ariete,
+14 Cumque duxisset eum in locum sublimem, super verticem montis Phasga, aedificavit Balaam septem aras, et impositis supra vitulo atque ariete,
 
 15 dixit ad Balac: Sta hic iuxta holocaustum tuum, donec ego obvius pergam.
 
-16 Cui cum Dominus occurrisset, posuissetque verbum in ore eius, ait: Revertere ad Balac, et hæc loqueris ei.
+16 Cui cum Dominus occurrisset, posuissetque verbum in ore eius, ait: Revertere ad Balac, et haec loqueris ei.
 
 17 Reversus invenit eum stantem iuxta holocaustum suum, et principes Moabitarum cum eo. Ad quem Balac: Quid, inquit, locutus est Dominus?
 
@@ -45,13 +45,13 @@ draft: false
 
 20 Ad benedicendum adductus sum, benedictionem prohibere non valeo.
 
-21 Non est idolum in Iacob, nec videtur simulacrum in Israel. Dominus Deus eius cum eo est, et clangor victoriæ regis in illo.
+21 Non est idolum in Iacob, nec videtur simulacrum in Israel. Dominus Deus eius cum eo est, et clangor victoriae regis in illo.
 
-22 Deus eduxit illum de Ægypto, cuius fortitudo similis est rhinocerotis.
+22 Deus eduxit illum de AEgypto, cuius fortitudo similis est rhinocerotis.
 
 23 Non est augurium in Iacob, nec divinatio in Israel. Temporibus suis dicetur Iacob et Israeli quid operatus sit Deus.
 
-24 Ecce populus ut leæna consurget, et quasi leo erigetur: non accubabit donec devoret prædam, et occisorum sanguinem bibat.
+24 Ecce populus ut leaena consurget, et quasi leo erigetur: non accubabit donec devoret praedam, et occisorum sanguinem bibat.
 
 25 Dixitque Balac ad Balaam: Nec maledicas ei, nec benedicas.
 
@@ -61,7 +61,7 @@ draft: false
 
 28 Cumque duxisset eum super verticem montis Phogor, qui respicit solitudinem,
 
-29 dixit ei Balaam: Ædifica mihi hic septem aras, et para totidem vitulos, eiusdemque numeri arietes.
+29 dixit ei Balaam: AEdifica mihi hic septem aras, et para totidem vitulos, eiusdemque numeri arietes.
 
 30 Fecit Balac ut Balaam dixerat: imposuitque vitulos et arietes per singulas aras.
 

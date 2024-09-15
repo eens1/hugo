@@ -7,7 +7,7 @@ draft: false
 
 1 Et factus est sermo Domini ad me, dicens:
 
-2 Fili hominis, quid fiet de ligno vitis ex omnibus lignis nemorum, quæ sunt inter ligna silvarum?
+2 Fili hominis, quid fiet de ligno vitis ex omnibus lignis nemorum, quae sunt inter ligna silvarum?
 
 3 Numquid tolletur de ea lignum, ut fiat opus, aut fabricabitur de ea paxillus, ut dependeat in eo quodcumque vas?
 
@@ -15,9 +15,9 @@ draft: false
 
 5 Etiam cum esset integrum, non erat aptum ad opus: quanto magis cum illud ignis devoraverit, et combusserit, nihil ex eo fiet operis?
 
-6 Propterea hæc dicit Dominus Deus: Quomodo lignum vitis inter ligna silvarum, quod dedi igni ad devorandum, sic tradam habitatores Ierusalem.
+6 Propterea haec dicit Dominus Deus: Quomodo lignum vitis inter ligna silvarum, quod dedi igni ad devorandum, sic tradam habitatores Ierusalem.
 
 7 Et ponam faciem meam in eos: de igne egredientur, et ignis consumet eos: et scietis quia ego Dominus, cum posuero faciem meam in eos,
 
-8 et dedero terram inviam, et desolatam: eo quod prævaricatores extiterint, dicit Dominus Deus.
+8 et dedero terram inviam, et desolatam: eo quod praevaricatores extiterint, dicit Dominus Deus.
 

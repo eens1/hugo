@@ -7,11 +7,11 @@ draft: false
 
 1 Locutusque est Dominus ad Moysen post mortem duorum filiorum Aaron, quando offerentes ignem alienum interfecti sunt:
 
-2 et præcepit ei, dicens: Loquere ad Aaron fratrem tuum, ne omni tempore ingrediatur Sanctuarium, quod est intra velum coram propitiatorio quo tegitur arca, ut non moriatur (quia in nube apparebo super oraculum)
+2 et praecepit ei, dicens: Loquere ad Aaron fratrem tuum, ne omni tempore ingrediatur Sanctuarium, quod est intra velum coram propitiatorio quo tegitur arca, ut non moriatur (quia in nube apparebo super oraculum)
 
-3 nisi hæc ante fecerit: Vitulum pro peccato offeret, et arietem in holocaustum.
+3 nisi haec ante fecerit: Vitulum pro peccato offeret, et arietem in holocaustum.
 
-4 Tunica linea vestietur, feminalibus lineis verenda celabit: accingetur zona linea, cidarim lineam imponet capiti: hæc enim vestimenta sunt sancta: quibus cunctis, cum lotus fuerit, induetur.
+4 Tunica linea vestietur, feminalibus lineis verenda celabit: accingetur zona linea, cidarim lineam imponet capiti: haec enim vestimenta sunt sancta: quibus cunctis, cum lotus fuerit, induetur.
 
 5 Suscipietque ab universa multitudine filiorum Israel duos hircos pro peccato, et unum arietem in holocaustum.
 
@@ -33,11 +33,11 @@ draft: false
 
 14 Tollet quoque de sanguine vituli, et asperget digito septies contra propitiatorium ad orientem.
 
-15 Cumque mactaverit hircum pro peccato populi, inferet sanguinem eius intra velum, sicut præceptum est de sanguine vituli, ut aspergat e regione oraculi,
+15 Cumque mactaverit hircum pro peccato populi, inferet sanguinem eius intra velum, sicut praeceptum est de sanguine vituli, ut aspergat e regione oraculi,
 
-16 et expiet Sanctuarium ab immunditiis filiorum Israel, et a prævaricationibus eorum, cunctisque peccatis. Iuxta hunc ritum faciet tabernaculo testimonii, quod fixum est inter eos in medio sordium habitationis eorum.
+16 et expiet Sanctuarium ab immunditiis filiorum Israel, et a praevaricationibus eorum, cunctisque peccatis. Iuxta hunc ritum faciet tabernaculo testimonii, quod fixum est inter eos in medio sordium habitationis eorum.
 
-17 Nullus hominum sit in tabernaculo quando pontifex Sanctuarium ingreditur, ut roget pro se et pro domo sua, et pro universo cœtu Israel donec egrediatur.
+17 Nullus hominum sit in tabernaculo quando pontifex Sanctuarium ingreditur, ut roget pro se et pro domo sua, et pro universo coetu Israel donec egrediatur.
 
 18 Cum autem exierit ad altare quod coram Domino est, oret pro se, et sumptum sanguinem vituli atque hirci fundat super cornua eius per gyrum:
 
@@ -45,7 +45,7 @@ draft: false
 
 20 Postquam emundaverit Sanctuarium, et tabernaculum, et altare, tunc offerat hircum viventem:
 
-21 et posita utraque manu super caput eius, confiteatur omnes iniquitates filiorum Israel, et universa delicta atque peccata eorum: quæ imprecans capiti eius, emittet illum per hominem paratum, in desertum.
+21 et posita utraque manu super caput eius, confiteatur omnes iniquitates filiorum Israel, et universa delicta atque peccata eorum: quae imprecans capiti eius, emittet illum per hominem paratum, in desertum.
 
 22 Cumque portaverit hircus omnes iniquitates eorum in terram solitariam, et dimissus fuerit in deserto,
 
@@ -67,9 +67,9 @@ draft: false
 
 31 sabbatum enim requietionis est, et affligetis animas vestras religione perpetua.
 
-32 Expiabit autem sacerdos, qui unctus fuerit, et cuius manus initiatæ sunt ut sacerdotio fungatur pro patre suo: indueturque stola linea et vestibus sanctis,
+32 Expiabit autem sacerdos, qui unctus fuerit, et cuius manus initiatae sunt ut sacerdotio fungatur pro patre suo: indueturque stola linea et vestibus sanctis,
 
 33 et expiabit Sanctuarium et tabernaculum testimonii atque altare, sacerdotes quoque et universum populum.
 
-34 Eritque vobis hoc legitimum sempiternum, ut oretis pro filiis Israel, et pro cunctis peccatis eorum semel in anno. Fecit igitur sicut præceperat Dominus Moysi.
+34 Eritque vobis hoc legitimum sempiternum, ut oretis pro filiis Israel, et pro cunctis peccatis eorum semel in anno. Fecit igitur sicut praeceperat Dominus Moysi.
 

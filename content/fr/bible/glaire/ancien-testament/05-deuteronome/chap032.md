@@ -17,7 +17,7 @@ tous (les auteurs Grecs et Romains) infiniment en naïveté, en vivacité, en gr
 2 Que ma doctrine croisse comme la pluie, que ma parole se répande comme la rosée, comme la pluie sur l'herbe, et comme les gouttes d'eau sur le gazon. 3 Parce que j'invoquerai le nom du Seigneur; rendez gloire à notre Dieu.
 
 
-4 Les œuvres de Dieu sont parfaites, et toutes ses voies sont justes : Dieu est fidèle, et sans aucune iniquité ; il est juste et droit.
+4 Les oeuvres de Dieu sont parfaites, et toutes ses voies sont justes : Dieu est fidèle, et sans aucune iniquité ; il est juste et droit.
 
 ***Note*** :  Dr. 32, 4 : Justes ; littéralement jugements. Le mot hébreu traduit par judicia dans la Vulgate, signifie ce qui est juste, équitable.
 
@@ -33,7 +33,7 @@ tous (les auteurs Grecs et Romains) infiniment en naïveté, en vivacité, en gr
 ***Note*** :  Dr. 32, 9 : En Egypte, on se servait de cordes pour mesurer les longueurs considérables.
 
 
-10 Le Seigneur le trouva dans une terre déserte, dans un lieu d'horreur et d'une vaste solitude, il le conduisit par divers chemins, et il l'instruisit, et il le garda comme la prunelle de son œil. 11 Comme un aigle qui provoque ses petits à voler, et voltige sur eux, il a étendu ses ailes, l'a pris et l'a porté sur ses épaules. 12 Le Seigneur seul fut son guide ; et il n'y avait point avec lui de dieu étranger.
+10 Le Seigneur le trouva dans une terre déserte, dans un lieu d'horreur et d'une vaste solitude, il le conduisit par divers chemins, et il l'instruisit, et il le garda comme la prunelle de son oeil. 11 Comme un aigle qui provoque ses petits à voler, et voltige sur eux, il a étendu ses ailes, l'a pris et l'a porté sur ses épaules. 12 Le Seigneur seul fut son guide ; et il n'y avait point avec lui de dieu étranger.
 
 
 13 Il l'a établi sur une terre élevée, afin qu'il mangeât les fruits des champs, afin qu'il savourât le miel de la pierre, et l'huile du rocher le plus dur ; 14 Le beurre du troupeau de gros bétail, le lait des brebis avec la graisse des agneaux et des béliers fils de Bazan; les boucs avec la moelle du froment ; et afin qu'il but le sang du raisin le plus pur.
@@ -109,7 +109,7 @@ tous (les auteurs Grecs et Romains) infiniment en naïveté, en vivacité, en gr
 ***Note*** :  Dr. 32, 43 : Voir 2 Machabées, 7, 6.
 
 
-44 Moïse vint donc, et il récita toutes les paroles de ce cantique aux oreilles du peuple, lui et Josué, fils de Nun. 45 Et il acheva tous ses discours, parlant à tout Israël; 46 Et il leur dit : Appliquez vos cœurs à toutes les paroles que moi je vous certifie aujourd'hui, afin que vous enjoigniez à vos fils de les garder et de les pratiquer, et d'accomplir toutes les choses qui sont écrites dans cette loi, 47 Parce que ce n'est pas en vain qu'elles vous ont été prescrites, mais afin que chacun de vous vive par elles, et que les pratiquant, vous demeuriez longtemps dans la terre dans laquelle, le Jourdain passé, vous allez entrer pour la posséder. 48 Or, le Seigneur parla à Moïse, le même jour, disant :49 Monte sur cette montagne d'Abarim, c'est-à-dire des passages, sur la montagne de Nébo qui est dans la terre de Moab contre Jéricho ; et vois la terre de Chanaan que je livrerai moi-même aux enfants d'Israël pour l'occuper, et meurs sur la montagne.
+44 Moïse vint donc, et il récita toutes les paroles de ce cantique aux oreilles du peuple, lui et Josué, fils de Nun. 45 Et il acheva tous ses discours, parlant à tout Israël; 46 Et il leur dit : Appliquez vos coeurs à toutes les paroles que moi je vous certifie aujourd'hui, afin que vous enjoigniez à vos fils de les garder et de les pratiquer, et d'accomplir toutes les choses qui sont écrites dans cette loi, 47 Parce que ce n'est pas en vain qu'elles vous ont été prescrites, mais afin que chacun de vous vive par elles, et que les pratiquant, vous demeuriez longtemps dans la terre dans laquelle, le Jourdain passé, vous allez entrer pour la posséder. 48 Or, le Seigneur parla à Moïse, le même jour, disant :49 Monte sur cette montagne d'Abarim, c'est-à-dire des passages, sur la montagne de Nébo qui est dans la terre de Moab contre Jéricho ; et vois la terre de Chanaan que je livrerai moi-même aux enfants d'Israël pour l'occuper, et meurs sur la montagne.
 
 ***Note*** :  Dr. 32, 49 : Le mot hébreu Abarim est un pluriel ; c’est pourquoi la Vulgate elle-même dit, voir Nombres, 33, 47-48, les montagnes d’Abarim. Nébo était une des montagnes qui formaient la chaîne des monts d’Abarim. « On ne distingue pas un sommet, pas la moindre cime » dans cette chaîne, dit Chateaubriand. Cependant d’après la description générale, le mont Nébo devait être situé près de l’embouchure du Jourdain. ― Contre Jéricho. Voir Josué, note 6. 1.
 

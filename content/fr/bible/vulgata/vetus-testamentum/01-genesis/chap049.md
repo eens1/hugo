@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Vocavit autem Iacob filios suos, et ait eis: Congregamini, ut annunciem quæ ventura sunt vobis in diebus novissimis.
+1 Vocavit autem Iacob filios suos, et ait eis: Congregamini, ut annunciem quae ventura sunt vobis in diebus novissimis.
 
 2 Congregamini, et audite filii Iacob, audite Israel patrem vestrum:
 
@@ -15,17 +15,17 @@ draft: false
 
 5 Simeon et Levi fratres: vasa iniquitatis bellantia.
 
-6 In consilium eorum non veniat anima mea, et in cœtu illorum non sit gloria mea: quia in furore suo occiderunt virum, et in voluntate sua suffoderunt murum.
+6 In consilium eorum non veniat anima mea, et in coetu illorum non sit gloria mea: quia in furore suo occiderunt virum, et in voluntate sua suffoderunt murum.
 
 7 Maledictus furor eorum, quia pertinax: et indignatio eorum, quia dura: dividam eos in Iacob, et dispergam eos in Israel.
 
 8 Iuda, te laudabunt fratres tui: manus tua in cervicibus inimicorum tuorum, adorabunt te filii patris tui.
 
-9 Catulus leonis Iuda: ad prædam fili mi ascendisti: requiescens accubuisti ut leo, et quasi leæna, quis suscitabit eum?
+9 Catulus leonis Iuda: ad praedam fili mi ascendisti: requiescens accubuisti ut leo, et quasi leaena, quis suscitabit eum?
 
 10 NON AUFERETUR sceptrum de Iuda, et dux de femore eius, donec veniat qui mittendus est, et ipse erit expectatio gentium.
 
-11 Ligans ad vineam pullum suum, et ad vitem, o fili mi, asinam suam. Lavabit in vino stolam suam, et in sanguine uvæ pallium suum.
+11 Ligans ad vineam pullum suum, et ad vitem, o fili mi, asinam suam. Lavabit in vino stolam suam, et in sanguine uvae pallium suum.
 
 12 Pulchriores sunt oculi eius vino, et dentes eius lacte candidiores.
 
@@ -41,29 +41,29 @@ draft: false
 
 18 SALUTARE tuum expectabo Domine.
 
-19 Gad, accinctus præliabatur ante eum: et ipse accingetur retrorsum.
+19 Gad, accinctus praeliabatur ante eum: et ipse accingetur retrorsum.
 
-20 Aser, pinguis panis eius, et præbebit delicias regibus.
+20 Aser, pinguis panis eius, et praebebit delicias regibus.
 
 21 Nephthali, cervus emissus, et dans eloquia pulchritudinis.
 
-22 Filius accrescens Ioseph, filius accrescens et decorus aspectu: filiæ discurrerunt super murum.
+22 Filius accrescens Ioseph, filius accrescens et decorus aspectu: filiae discurrerunt super murum.
 
 23 Sed exasperaverunt eum, et iurgati sunt, invideruntque illi habentes iacula.
 
 24 Sedit in forti arcus eius, et dissoluta sunt vincula brachiorum et manuum illius per manus potentis Iacob: inde pastor egressus est lapis Israel.
 
-25 Deus patris tui erit adiutor tuus, et omnipotens benedicet tibi benedictionibus cæli desuper, benedictionibus abyssi iacentis deorsum, benedictionibus uberum et vulvæ.
+25 Deus patris tui erit adiutor tuus, et omnipotens benedicet tibi benedictionibus caeli desuper, benedictionibus abyssi iacentis deorsum, benedictionibus uberum et vulvae.
 
-26 Benedictiones patris tui confortatæ sunt benedictionibus patrum eius: donec veniret desiderium collium æternorum: fiant in capite Ioseph, et in vertice Nazaræi inter fratres suos.
+26 Benedictiones patris tui confortatae sunt benedictionibus patrum eius: donec veniret desiderium collium aeternorum: fiant in capite Ioseph, et in vertice Nazaraei inter fratres suos.
 
-27 Beniamin lupus rapax, mane comedat prædam, et vespere dividet spolia.
+27 Beniamin lupus rapax, mane comedat praedam, et vespere dividet spolia.
 
-28 Omnes hi in tribubus Israel duodecim: hæc locutus est eis pater suus, benedixitque singulis benedictionibus propriis.
+28 Omnes hi in tribubus Israel duodecim: haec locutus est eis pater suus, benedixitque singulis benedictionibus propriis.
 
-29 Et præcepit eis, dicens: Ego congregor ad populum meum: sepelite me cum patribus meis in spelunca duplici quæ est in agro Ephron Hethæi,
+29 Et praecepit eis, dicens: Ego congregor ad populum meum: sepelite me cum patribus meis in spelunca duplici quae est in agro Ephron Hethaei,
 
-30 contra Mambre in Terra Chanaan, quam emit Abraham cum agro ab Ephron Hethæo in possessionem sepulchri.
+30 contra Mambre in Terra Chanaan, quam emit Abraham cum agro ab Ephron Hethaeo in possessionem sepulchri.
 
 31 Ibi sepelierunt eum, et Saram uxorem eius: ibi sepultus est Isaac cum Rebecca coniuge sua: ibi et Lia condita iacet.
 

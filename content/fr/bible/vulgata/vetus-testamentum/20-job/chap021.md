@@ -7,7 +7,7 @@ draft: false
 
 1 Respondens autem Iob, dixit:
 
-2 Audite quæso sermones meos, et agite pœnitentiam.
+2 Audite quaeso sermones meos, et agite poenitentiam.
 
 3 Sustinete me, et ego loquar, et post mea, si videbitur, verba ridete.
 
@@ -21,9 +21,9 @@ draft: false
 
 8 Semen eorum permanet coram eis, propinquorum turba, et nepotum in conspectu eorum.
 
-9 Domus eorum securæ sunt et pacatæ, et non est virga Dei super illos.
+9 Domus eorum securae sunt et pacatae, et non est virga Dei super illos.
 
-10 Bos eorum concepit, et non abortivit: vacca peperit, et non est privata fœtu suo.
+10 Bos eorum concepit, et non abortivit: vacca peperit, et non est privata foetu suo.
 
 11 Egrediuntur quasi greges parvuli eorum, et infantes eorum exultant lusibus.
 
@@ -39,7 +39,7 @@ draft: false
 
 17 Quoties lucerna impiorum extinguetur, et superveniet eis inundatio, et dolores dividet furoris sui?
 
-18 Erunt sicut paleæ ante faciem venti, et sicut favilla quam turbo dispergit.
+18 Erunt sicut paleae ante faciem venti, et sicut favilla quam turbo dispergit.
 
 19 Deus servabit filiis illius dolorem patris: et cum reddiderit, tunc sciet.
 
@@ -53,7 +53,7 @@ draft: false
 
 24 Viscera eius plena sunt adipe, et medullis ossa illius irrigantur:
 
-25 Alius vero moritur in amaritudine animæ absque ullis opibus:
+25 Alius vero moritur in amaritudine animae absque ullis opibus:
 
 26 Et tamen simul in pulvere dormient, et vermes operient eos.
 
@@ -61,11 +61,11 @@ draft: false
 
 28 Dicitis enim: Ubi est domus principis? et ubi tabernacula impiorum?
 
-29 Interrogate quemlibet de viatoribus, et hæc eadem illum intelligere cognoscetis:
+29 Interrogate quemlibet de viatoribus, et haec eadem illum intelligere cognoscetis:
 
 30 Quia in diem perditionis servatur malus, et ad diem furoris ducetur.
 
-31 Quis arguet coram eo viam eius? et quæ fecit, quis reddet illi?
+31 Quis arguet coram eo viam eius? et quae fecit, quis reddet illi?
 
 32 Ipse ad sepulchra ducetur, et in congerie mortuorum vigilabit.
 

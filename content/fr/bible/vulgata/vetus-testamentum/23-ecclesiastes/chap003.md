@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Omnia tempus habent, et suis spatiis transeunt universa sub cælo.
+1 Omnia tempus habent, et suis spatiis transeunt universa sub caelo.
 
 2 Tempus nascendi, et tempus moriendi. Tempus plantandi, et tempus evellendi quod plantatum est.
 
-3 Tempus occidendi, et tempus sanandi: Tempus destruendi, et tempus ædificandi.
+3 Tempus occidendi, et tempus sanandi: Tempus destruendi, et tempus aedificandi.
 
 4 Tempus flendi, et tempus ridendi. Tempus plangendi, et tempus saltandi.
 
@@ -27,25 +27,25 @@ draft: false
 
 11 Cuncta fecit bona in tempore suo, et mundum tradidit disputationi eorum, ut non inveniat homo opus, quod operatus est Deus ab initio usque ad finem.
 
-12 Et cognovi quod non esset melius nisi lætari, et facere bene in vita sua.
+12 Et cognovi quod non esset melius nisi laetari, et facere bene in vita sua.
 
 13 Omnis enim homo, qui comedit et bibit, et videt bonum de labore suo, hoc donum Dei est.
 
-14 Didici quod omnia opera, quæ fecit Deus, perseverent in perpetuum: non possumus eis quidquam addere, nec auferre, quæ fecit Deus ut timeatur.
+14 Didici quod omnia opera, quae fecit Deus, perseverent in perpetuum: non possumus eis quidquam addere, nec auferre, quae fecit Deus ut timeatur.
 
-15 Quod factum est, ipsum permanet: quæ futura sunt, iam fuerunt: et Deus instaurat quod abiit.
+15 Quod factum est, ipsum permanet: quae futura sunt, iam fuerunt: et Deus instaurat quod abiit.
 
-16 Vidi sub sole in loco iudicii impietatem, et in loco iustitiæ iniquitatem.
+16 Vidi sub sole in loco iudicii impietatem, et in loco iustitiae iniquitatem.
 
 17 Et dixi in corde meo: Iustum, et impium iudicabit Deus, et tempus omnis rei tunc erit.
 
 18 Dixi in corde meo de filiis hominum, ut probaret eos Deus, et ostenderet similes esse bestiis.
 
-19 Idcirco unus interitus est hominis, et iumentorum, et æqua utriusque conditio: sicut moritur homo, sic et illa moriuntur: similiter spirant omnia, et nihil habet homo iumento amplius: cuncta subiacent vanitati,
+19 Idcirco unus interitus est hominis, et iumentorum, et aequa utriusque conditio: sicut moritur homo, sic et illa moriuntur: similiter spirant omnia, et nihil habet homo iumento amplius: cuncta subiacent vanitati,
 
 20 et omnia pergunt ad unum locum: de terra facta sunt, et in terram pariter revertuntur.
 
 21 Quis novit si spiritus filiorum Adam ascendat sursum, et si spiritus iumentorum descendat deorsum?
 
-22 Et deprehendi nihil esse melius quam lætari hominem in opere suo, et hanc esse partem illius. Quis enim eum adducet, ut post se futura cognoscat?
+22 Et deprehendi nihil esse melius quam laetari hominem in opere suo, et hanc esse partem illius. Quis enim eum adducet, ut post se futura cognoscat?
 

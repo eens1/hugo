@@ -24,7 +24,7 @@ summary: |
 
 4 Tu ne te feras point d'image taillée au ciseau, ni aucune représentation de ce qui est en haut dans le ciel, et de ce qui est en bas sur la terre, ni de ce qui est dans les eaux sous la terre.
 
-***Note*** :  Ex. 20, 4 : Voir Lévitique, 26, 1 ; Deutéronome, 4, 15 ; Josué, 24, 14 ; Psaumes, 96, 7. ― L’histoire du veau d’or (chapitre 32) montre la sagesse de cette défense, qui a évidemment pour but d’empêcher l’idolâtrie (verset 5) ; mais on ne saurait légitimement en inférer que toutes sortes de représentations et d’images soient défendues ; car Moïse lui-même fit faire des Chérubins qu’il posa sur l’arche (voir Exode, 20, 18-19) ; Salomon en plaça aussi dans le sanctuaire du temple de Jérusalem ; il mit même des figures de bœuf, sous le vaisseau appelé la mer de fonte, et sur les socles des figures de lions (voir 3 Rois, 6, 23 ; 7, vv. 29, 44). Ajoutons que les représentations de Dieu sont naturellement très propres à réveiller et à entretenir en nous les sentiments d’amour, d’adoration, de reconnaissance que nous lui devons, et que les images des saints nous excitent puissamment à l’admiration et à l’imitation de leurs vertus.
+***Note*** :  Ex. 20, 4 : Voir Lévitique, 26, 1 ; Deutéronome, 4, 15 ; Josué, 24, 14 ; Psaumes, 96, 7. ― L’histoire du veau d’or (chapitre 32) montre la sagesse de cette défense, qui a évidemment pour but d’empêcher l’idolâtrie (verset 5) ; mais on ne saurait légitimement en inférer que toutes sortes de représentations et d’images soient défendues ; car Moïse lui-même fit faire des Chérubins qu’il posa sur l’arche (voir Exode, 20, 18-19) ; Salomon en plaça aussi dans le sanctuaire du temple de Jérusalem ; il mit même des figures de boeuf, sous le vaisseau appelé la mer de fonte, et sur les socles des figures de lions (voir 3 Rois, 6, 23 ; 7, vv. 29, 44). Ajoutons que les représentations de Dieu sont naturellement très propres à réveiller et à entretenir en nous les sentiments d’amour, d’adoration, de reconnaissance que nous lui devons, et que les images des saints nous excitent puissamment à l’admiration et à l’imitation de leurs vertus.
 
 5 Tu ne les adoreras point, ni ne les honoreras : car c'est moi qui suis le Seigneur ton Dieu fort, jaloux, visitant l'iniquité des pères dans les enfants jusqu'à la troisième et la quatrième génération de ceux qui me haïssent,
 
@@ -70,7 +70,7 @@ summary: |
 16 Tu ne porteras point de faux témoignage contre ton prochain.
 
 
-17 Tu ne convoiteras point la maison de ton prochain, et tu ne désireras point sa femme, ni son serviteur, ni sa servante, ni son bœuf, ni son âne, ni aucune des choses qui sont à lui.
+17 Tu ne convoiteras point la maison de ton prochain, et tu ne désireras point sa femme, ni son serviteur, ni sa servante, ni son boeuf, ni son âne, ni aucune des choses qui sont à lui.
 
 ***Note*** :  Ex. 20, 17 : Voir Romains, 7, 7 ; 13, 9.
 
@@ -80,7 +80,7 @@ summary: |
 ***Note*** :  Ex. 20, 21 : Voir Deutéronome, 18, 16 ; Hébreux, 12, 18.
 
 
-22 Outre cela le Seigneur dit à Moïse : Voici ce que tu diras aux enfants d'Israël : Vous avez vu vous-mêmes que du haut du ciel je vous ai parlé. 23 Vous ne vous ferez point de dieux d'argent, et vous ne vous ferez point de dieux d'or. 24 Vous me ferez un autel de terre, et vous m'offrirez dessus vos holocaustes et vos hosties pacifiques, vos brebis et vos bœufs, dans tout lieu dans lequel sera la mémoire de mon nom; je viendrai à toi et je te bénirai.
+22 Outre cela le Seigneur dit à Moïse : Voici ce que tu diras aux enfants d'Israël : Vous avez vu vous-mêmes que du haut du ciel je vous ai parlé. 23 Vous ne vous ferez point de dieux d'argent, et vous ne vous ferez point de dieux d'or. 24 Vous me ferez un autel de terre, et vous m'offrirez dessus vos holocaustes et vos hosties pacifiques, vos brebis et vos boeufs, dans tout lieu dans lequel sera la mémoire de mon nom; je viendrai à toi et je te bénirai.
 
 ***Note*** :  Ex. 20, 24 : Voir Exode, 27, 28 ; 38, 7.
 

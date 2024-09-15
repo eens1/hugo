@@ -33,7 +33,7 @@ Remarquez que Psaumes 89:2 parle de Dieu en ces termes : "Avant que les montagne
 
 [^6]: Glaire 1905, p. 2584.
 
-> *Jean 14:8-9* : "Philippe lui dit : Seigneur, montrez-nous votre Père, et il nous suffit. Jésus lui répondit : Il y a si longtemps que je suis avec vous, et vous ne me connaissez pas ? Philippe, **qui me voit, voit aussi mon Père**. Comment dis-tu, toi : Montrez-nous votre Père ? Ne croyez-vous point que je suis en mon Père, et que mon Père est en moi ? Les paroles que je vous dis, je ne les dis pas de moi-même. Mais mon Père, qui demeure en moi, fait lui-même les œuvres." [^7]
+> *Jean 14:8-9* : "Philippe lui dit : Seigneur, montrez-nous votre Père, et il nous suffit. Jésus lui répondit : Il y a si longtemps que je suis avec vous, et vous ne me connaissez pas ? Philippe, **qui me voit, voit aussi mon Père**. Comment dis-tu, toi : Montrez-nous votre Père ? Ne croyez-vous point que je suis en mon Père, et que mon Père est en moi ? Les paroles que je vous dis, je ne les dis pas de moi-même. Mais mon Père, qui demeure en moi, fait lui-même les oeuvres." [^7]
 
 [^7]: Glaire 1905, pp. 2584-2585.
 

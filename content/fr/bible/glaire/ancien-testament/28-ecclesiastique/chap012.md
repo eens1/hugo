@@ -39,7 +39,7 @@ summary: |
 
 ***Note*** :  Sir. 12, 13 : Le sens de ce verset paraît être : Après l’avertissement que tu as reçu de te garder d’un faux ami, si tu t’approches néanmoins volontairement de lui qui est un vrai serpent, et si tu t’exposes à ses morsures, tu ne seras plaint de personne. ― Il y a toujours eu des charmeurs de serpents en Orient.
 
-14 Une heure avec toi il demeurera; mais si tu te détournes, il ne persévérera pas. 15 C'est sur ses lèvres que ton ennemi a la douceur, et dans son cœur il dresse des embûches pour te renverser dans la fosse.
+14 Une heure avec toi il demeurera; mais si tu te détournes, il ne persévérera pas. 15 C'est sur ses lèvres que ton ennemi a la douceur, et dans son coeur il dresse des embûches pour te renverser dans la fosse.
 
 ***Note*** :  Sir. 12, 15 : Voir Jérémie, 41, 6. ― Dans la fosse. Image tirée de la fosse qu’on creuse pour y prendre les animaux sauvages.
 

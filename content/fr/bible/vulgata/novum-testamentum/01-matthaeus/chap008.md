@@ -5,13 +5,13 @@ draft: false
 ---
 
 
-1 Cum autem descendisset de monte, secutæ sunt eum turbæ multæ:
+1 Cum autem descendisset de monte, secutae sunt eum turbae multae:
 
 2 et ecce leprosus veniens, adorabat eum, dicens: Domine, si vis, potes me mundare.
 
 3 Et extendens Iesus manum, tetigit eum, dicens: Volo. Mundare. Et confestim mundata est lepra eius.
 
-4 Et ait illi Iesus: Vide, nemini dixeris: sed vade, ostende te sacerdoti, et offer munus, quod præcepit Moyses, in testimonium illis.
+4 Et ait illi Iesus: Vide, nemini dixeris: sed vade, ostende te sacerdoti, et offer munus, quod praecepit Moyses, in testimonium illis.
 
 5 Cum autem introisset Capharnaum, accessit ad eum Centurio, rogans eum,
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Audiens autem Iesus miratus est, et sequentibus se dixit: Amen dico vobis, non inveni tantam fidem in Israel.
 
-11 Dico autem vobis, quod multi ab Oriente, et Occidente venient, et recumbent cum Abraham, et Isaac, et Iacob in regno cælorum:
+11 Dico autem vobis, quod multi ab Oriente, et Occidente venient, et recumbent cum Abraham, et Isaac, et Iacob in regno caelorum:
 
 12 filii autem regni eiicientur in tenebras exteriores: ibi erit fletus, et stridor dentium.
 
@@ -35,15 +35,15 @@ draft: false
 
 15 et tetigit manum eius, et dimisit eam febris, et surrexit, et ministrabat eis.
 
-16 Vespere autem facto, obtulerunt ei multos dæmonia habentes: et eiiciebat spiritus verbo: et omnes male habentes curavit:
+16 Vespere autem facto, obtulerunt ei multos daemonia habentes: et eiiciebat spiritus verbo: et omnes male habentes curavit:
 
-17 ut adimpleretur quod dictum est per Isaiam prophetam, dicentem: Ipse infirmitates nostras accepit: et ægrotationes nostras portavit.
+17 ut adimpleretur quod dictum est per Isaiam prophetam, dicentem: Ipse infirmitates nostras accepit: et aegrotationes nostras portavit.
 
 18 Videns autem Iesus turbas multas circum se, iussit ire trans fretum.
 
 19 Et accedens unus scriba, ait illi: Magister, sequar te, quocumque ieris.
 
-20 Et dicit ei Iesus: Vulpes foveas habent, et volucres cæli nidos: filius autem hominis non habet ubi caput reclinet.
+20 Et dicit ei Iesus: Vulpes foveas habent, et volucres caeli nidos: filius autem hominis non habet ubi caput reclinet.
 
 21 Alius autem de discipulis eius ait illi: Domine, permitte me primum ire, et sepelire patream meum.
 
@@ -55,21 +55,21 @@ draft: false
 
 25 Et accesserunt ad eum Discipuli eius, et suscitaverunt eum, dicentes: Domine, salva nos, perimus.
 
-26 Et dicit eis Iesus: Quid timidi estis, modicæ fidei? Tunc surgens, imperavit ventis, et mari, et facta est tranquillitas magna.
+26 Et dicit eis Iesus: Quid timidi estis, modicae fidei? Tunc surgens, imperavit ventis, et mari, et facta est tranquillitas magna.
 
 27 Porro homines mirati sunt, dicentes: Qualis est hic, quia venti et mare obediunt ei?
 
-28 Et cum venisset trans fretum in regionem Gerasenorum, occurrerunt ei duo habentes dæmonia, de monumentis exeuntes, sævi nimis, ita ut nemo posset transire per viam illam.
+28 Et cum venisset trans fretum in regionem Gerasenorum, occurrerunt ei duo habentes daemonia, de monumentis exeuntes, saevi nimis, ita ut nemo posset transire per viam illam.
 
 29 Et ecce clamaverunt, dicentes: Quid nobis, et tibi, Iesu fili Dei? Venisti huc ante tempus torquere nos?
 
 30 Erat autem non longe ab illis grex multorum porcorum pascens.
 
-31 Dæmones autem rogabant eum, dicentes: Si eiicis nos hinc, mitte nos in gregem porcorum.
+31 Daemones autem rogabant eum, dicentes: Si eiicis nos hinc, mitte nos in gregem porcorum.
 
-32 Et ait illis: Ite. At illi exeuntes abierunt in porcos, et ecce impetu abiit totus grex per præceps in mare: et mortui sunt in aquis.
+32 Et ait illis: Ite. At illi exeuntes abierunt in porcos, et ecce impetu abiit totus grex per praeceps in mare: et mortui sunt in aquis.
 
-33 Pastores autem fugerunt: et venientes in civitatem, nunciaverunt omnia, et de eis, qui dæmonia habuerant.
+33 Pastores autem fugerunt: et venientes in civitatem, nunciaverunt omnia, et de eis, qui daemonia habuerant.
 
 34 Et ecce tota civitas exiit obviam Iesu: et viso eo rogabant, ut transiret a finibus eorum.
 

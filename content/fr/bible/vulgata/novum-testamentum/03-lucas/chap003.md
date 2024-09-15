@@ -5,25 +5,25 @@ draft: false
 ---
 
 
-1 Anno autem quintodecimo imperii Tiberii Cæsaris, procurante Pontio Pilato Iudæam, tetrarcha autem Galiææ Herode, Philippo autem fratre eius tetrarcha Iturææ, et Trachonitidis regionis, et Lysania Abilinæ tetrarcha,
+1 Anno autem quintodecimo imperii Tiberii Caesaris, procurante Pontio Pilato Iudaeam, tetrarcha autem Galiaeae Herode, Philippo autem fratre eius tetrarcha Ituraeae, et Trachonitidis regionis, et Lysania Abilinae tetrarcha,
 
-2 sub principibus sacerdotum Anna, et Caipha: factum est verbum Domini super Ioannem, Zachariæ filium, in deserto.
+2 sub principibus sacerdotum Anna, et Caipha: factum est verbum Domini super Ioannem, Zachariae filium, in deserto.
 
-3 Et venit in omnem regionem Iordanis, prædicans baptismum pœnitentiæ in remissionem peccatorum,
+3 Et venit in omnem regionem Iordanis, praedicans baptismum poenitentiae in remissionem peccatorum,
 
-4 sicut scriptum est in Libro sermonum Isaiæ prophetæ: Vox clamantis in deserto: Parate viam Domini: rectas facite semitas eius:
+4 sicut scriptum est in Libro sermonum Isaiae prophetae: Vox clamantis in deserto: Parate viam Domini: rectas facite semitas eius:
 
 5 omnis vallis implebitur: et omnis mons, et collis humiliabitur: et erunt prava in directa: et aspera in vias planas:
 
 6 et videbit omnis caro salutare Dei.
 
-7 Dicebat ergo ad turbas quæ exibant ut baptizarentur ab ipso: Genimina viperarum quis ostendit vobis fugere a ventura ira?
+7 Dicebat ergo ad turbas quae exibant ut baptizarentur ab ipso: Genimina viperarum quis ostendit vobis fugere a ventura ira?
 
-8 Facite ergo fructus dignos pœnitentiæ, et ne cœperitis dicere: Patrem habemus Abraham. Dico enim vobis quia potens est Deus de lapidibus istis suscitare filios Abrahæ.
+8 Facite ergo fructus dignos poenitentiae, et ne coeperitis dicere: Patrem habemus Abraham. Dico enim vobis quia potens est Deus de lapidibus istis suscitare filios Abrahae.
 
 9 Iam enim securis ad radicem arborum posita est. Omnis ergo arbor non faciens fructum bonum, excidetur, et in ignem mittetur.
 
-10 Et interrogabant eum turbæ, dicentes: Quid ergo faciemus?
+10 Et interrogabant eum turbae, dicentes: Quid ergo faciemus?
 
 11 Respondens autem dicebat illis: Qui habet duas tunicas, det non habenti: et qui habet escas, similiter faciat.
 
@@ -41,21 +41,21 @@ draft: false
 
 18 Multa quidem, et alia exhortans evangelizabat populo.
 
-19 Herodes autem tetrarcha cum corriperetur ab illo de Herodiade uxore fratris sui, et de omnibus malis, quæ fecit Herodes,
+19 Herodes autem tetrarcha cum corriperetur ab illo de Herodiade uxore fratris sui, et de omnibus malis, quae fecit Herodes,
 
 20 adiecit et hoc super omnia, et inclusit Ioannem in carcere.
 
-21 Factum est autem cum baptizaretur omnis populus, et Iesu baptizato, et orante, apertum est cælum:
+21 Factum est autem cum baptizaretur omnis populus, et Iesu baptizato, et orante, apertum est caelum:
 
-22 et descendit Spiritus sanctus corporali specie sicut columba in ipsum: et vox de cælo facta est: Tu es filius meus dilectus, in te complacui mihi.
+22 et descendit Spiritus sanctus corporali specie sicut columba in ipsum: et vox de caelo facta est: Tu es filius meus dilectus, in te complacui mihi.
 
 23 Et ipse Iesus erat incipiens quasi annorum triginta, ut putabatur, filius Ioseph, qui fuit Heli, qui fuit Mathat,
 
 24 qui fuit Levi, qui fuit Melchi, qui fuit Ianne, qui fuit Ioseph,
 
-25 qui fuit Mathathiæ, qui fuit Amos, qui fuit Nahum, qui fuit Hesli, qui fuit Nagge,
+25 qui fuit Mathathiae, qui fuit Amos, qui fuit Nahum, qui fuit Hesli, qui fuit Nagge,
 
-26 qui fuit Mahath, qui fuit Mathathiæ, qui fuit Semei, qui fuit Ioseph, qui fuit Iuda,
+26 qui fuit Mahath, qui fuit Mathathiae, qui fuit Semei, qui fuit Ioseph, qui fuit Iuda,
 
 27 qui fuit Ioanna, qui fuit Resa, qui fuit Zorobabel, qui fuit Salatheil, qui fuit Neri,
 
@@ -69,9 +69,9 @@ draft: false
 
 32 qui fuit Iesse, qui fuit Obed, qui fuit Booz, qui fuit Salmon, qui fuit Naasson,
 
-33 qui fuit Aminadab, qui fuit Aram, qui fuit Esron, qui fuit Phares, qui fuit Iudæ,
+33 qui fuit Aminadab, qui fuit Aram, qui fuit Esron, qui fuit Phares, qui fuit Iudae,
 
-34 qui fuit Iacob, qui fuit Isaac, qui fuit Abrahæ, qui fuit Thare, qui fuit Nachor,
+34 qui fuit Iacob, qui fuit Isaac, qui fuit Abrahae, qui fuit Thare, qui fuit Nachor,
 
 35 qui fuit Sarug, qui fuit Ragau, qui fuit Phaleg, qui fuit Heber, qui fuit Sale,
 

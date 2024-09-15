@@ -13,23 +13,23 @@ draft: false
 
 4 Quoniam Iacob elegit sibi Dominus Israel in possessionem sibi.
 
-5 Quia ego cognovi quod magnus est Dominus, et Deus noster præ omnibus diis.
+5 Quia ego cognovi quod magnus est Dominus, et Deus noster prae omnibus diis.
 
-6 Omnia quæcumque voluit, Dominus fecit in cælo, in terra, in mari, et in omnibus abyssis.
+6 Omnia quaecumque voluit, Dominus fecit in caelo, in terra, in mari, et in omnibus abyssis.
 
-7 Educens nubes ab extremo terræ: fulgura in pluviam fecit. Qui producit ventos de thesauris suis:
+7 Educens nubes ab extremo terrae: fulgura in pluviam fecit. Qui producit ventos de thesauris suis:
 
-8 qui percussit primogenita Ægypti ab homine usque ad pecus.
+8 qui percussit primogenita AEgypti ab homine usque ad pecus.
 
-9 Et misit signa, et prodigia in medio tui Ægypte: in Pharaonem, et in omnes servos eius.
+9 Et misit signa, et prodigia in medio tui AEgypte: in Pharaonem, et in omnes servos eius.
 
 10 Qui percussit gentes multas: et occidit reges fortes:
 
-11 Sehon regem Amorrhæorum, et Og regem Basan, et omnia regna Chanaan.
+11 Sehon regem Amorrhaeorum, et Og regem Basan, et omnia regna Chanaan.
 
 12 Et dedit terram eorum hereditatem, hereditatem Israel populo suo.
 
-13 Domine nomen tuum in æternum: Domine memoriale tuum in generationem et generationem.
+13 Domine nomen tuum in aeternum: Domine memoriale tuum in generationem et generationem.
 
 14 Quia iudicabit Dominus populum suum: et in servis suis deprecabitur.
 

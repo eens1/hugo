@@ -33,7 +33,7 @@ summary: |
 18 Noé sortit donc, et ses fils, et sa femme, et les femmes de ses fils avec lui. 19 Et tous les animaux aussi, les quadrupèdes et les reptiles qui rampent sur la terre, chacun selon son espèce, sortirent de l'arche.
 
 
-20 Or Noé bâtit un autel au Seigneur; et prenant de tous les quadrupèdes et de tous les oiseaux purs, il les offrit en holocauste sur l'autel. 21 Et le Seigneur en sentit l'odeur suave, et dit : Je ne maudirai plus la terre à cause des hommes ; car les sentiments et les pensées du cœur de l'homme sont inclinés au mal dès sa jeunesse ; je ne frapperai donc plus toute âme vivante, comme j'ai fait.
+20 Or Noé bâtit un autel au Seigneur; et prenant de tous les quadrupèdes et de tous les oiseaux purs, il les offrit en holocauste sur l'autel. 21 Et le Seigneur en sentit l'odeur suave, et dit : Je ne maudirai plus la terre à cause des hommes ; car les sentiments et les pensées du coeur de l'homme sont inclinés au mal dès sa jeunesse ; je ne frapperai donc plus toute âme vivante, comme j'ai fait.
 
 ***Note*** :  Gn. 8, 21 : Voir Genèse, 6, 5 ; Matthieu, 15, 19.
 

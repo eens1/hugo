@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Alleluia. Confitemini Domino quoniam bonus: quoniam in sæculum misericordia eius.
+1 Alleluia. Confitemini Domino quoniam bonus: quoniam in saeculum misericordia eius.
 
 2 Quis loquetur potentias Domini, auditas faciet omnes laudes eius?
 
@@ -13,11 +13,11 @@ draft: false
 
 4 Memento nostri Domine in beneplacito populi tui: visita nos in salutari tuo:
 
-5 Ad videndum in bonitate electorum tuorum, ad lætandum in lætitia gentis tuæ: ut lauderis cum hereditate tua.
+5 Ad videndum in bonitate electorum tuorum, ad laetandum in laetitia gentis tuae: ut lauderis cum hereditate tua.
 
 6 Peccavimus cum patribus nostris: iniuste egimus, iniquitatem fecimus.
 
-7 Patres nostri in Ægypto non intellexerunt mirabilia tua: non fuerunt memores multitudinis misericordiæ tuæ. Et irritaverunt ascendentes in mare, Mare rubrum.
+7 Patres nostri in AEgypto non intellexerunt mirabilia tua: non fuerunt memores multitudinis misericordiae tuae. Et irritaverunt ascendentes in mare, Mare rubrum.
 
 8 Et salvavit eos propter nomen suum: ut notam faceret potentiam suam.
 
@@ -43,9 +43,9 @@ draft: false
 
 19 Et fecerunt vitulum in Horeb: et adoraverunt sculptile.
 
-20 Et mutaverunt gloriam suam in similitudinem vituli comedentis fœnum.
+20 Et mutaverunt gloriam suam in similitudinem vituli comedentis foenum.
 
-21 Obliti sunt Deum, qui salvavit eos, qui fecit magnalia in Ægypto,
+21 Obliti sunt Deum, qui salvavit eos, qui fecit magnalia in AEgypto,
 
 22 mirabilia in Terra Cham: terribilia in mari rubro.
 
@@ -77,7 +77,7 @@ draft: false
 
 36 et servierunt sculptilibus eorum: et factum est illis in scandalum.
 
-37 Et immolaverunt filios suos, et filias suas dæmoniis.
+37 Et immolaverunt filios suos, et filias suas daemoniis.
 
 38 Et effuderunt sanguinem innocentem: sanguinem filiorum suorum et filiarum suarum, quas sacrificaverunt sculptilibus Chanaan. Et infecta est terra in sanguinibus,
 
@@ -89,15 +89,15 @@ draft: false
 
 42 Et tribulaverunt eos inimici eorum, et humiliati sunt sub manibus eorum:
 
-43 sæpe liberavit eos. Ipsi autem exacerbaverunt eum in consilio suo: et humiliati sunt in iniquitatibus suis.
+43 saepe liberavit eos. Ipsi autem exacerbaverunt eum in consilio suo: et humiliati sunt in iniquitatibus suis.
 
 44 Et vidit cum tribularentur: et audivit orationem eorum.
 
-45 Et memor fuit testamenti sui: et pœnituit eum secundum multitudinem misericordiæ suæ.
+45 Et memor fuit testamenti sui: et poenituit eum secundum multitudinem misericordiae suae.
 
 46 Et dedit eos in misericordias in conspectu omnium qui ceperant eos.
 
 47 Salvos nos fac Domine Deus noster: et congrega nos de Nationibus: Ut confiteamur nomini sancto tuo: et gloriemur in laude tua.
 
-48 Benedictus Dominus Deus Israel a sæculo et usque in sæculum: et dicet omnis populus: Fiat, fiat.
+48 Benedictus Dominus Deus Israel a saeculo et usque in saeculum: et dicet omnis populus: Fiat, fiat.
 

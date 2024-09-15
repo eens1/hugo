@@ -10,7 +10,7 @@ summary: |
 ---
 
 
-1 Tu n'immoleras pas au Seigneur ton Dieu une brebis, ni un bœuf dans lequel est une tache, ou quelque défaut, parce que c'est une abomination pour le Seigneur ton Dieu.
+1 Tu n'immoleras pas au Seigneur ton Dieu une brebis, ni un boeuf dans lequel est une tache, ou quelque défaut, parce que c'est une abomination pour le Seigneur ton Dieu.
 
 
 2 Lorsqu'on aura trouvé chez toi, au dedans d'une de tes portes que le Seigneur ton Dieu te donnera, un homme ou une femme, qui font le mal en la présence du Seigneur ton Dieu, et qui transgressent son alliance, 3 De manière à ce qu'ils aillent, et servent des dieux étrangers et les adorent : le soleil, la lune et toute la milice du ciel, choses que je n'ai point ordonnées•4 Et lorsque cela t'aura été annoncé, et que l'ayant appris tu t'en seras informé exactement, et que tu auras trouvé que la chose est vraie, et que cette abomination a été faite en Israël, 5 Tu amèneras l'homme et la femme qui ont fait cette chose très criminelle, aux portes de ta ville, et ils seront lapidés. 6 C'est sur la parole de deux ou trois témoins que périra celui qui sera mis à mort. Que nul ne soit tué, un seul homme rendant témoignage contre lui.
@@ -33,5 +33,5 @@ summary: |
 
 ***Note*** :  Dr. 17, 18 : Le Deutéronome ; c’est-à-dire le double, une copie, un exemplaire.
 
-19 Et il l'aura avec lui, et il le lira tous les jours de sa vie, afin d'apprendre à craindre le Seigneur son Dieu et à garder ses paroles et ses cérémonies, qui sont prescrites dans la loi. 20 Que son cœur ne s'élève point par l'orgueil au-dessus de ses frères, et qu'il ne se détourne point vers le côté droit ou le gauche, afin qu'il règne longtemps, lui-même et ses fils, sur Israël.
+19 Et il l'aura avec lui, et il le lira tous les jours de sa vie, afin d'apprendre à craindre le Seigneur son Dieu et à garder ses paroles et ses cérémonies, qui sont prescrites dans la loi. 20 Que son coeur ne s'élève point par l'orgueil au-dessus de ses frères, et qu'il ne se détourne point vers le côté droit ou le gauche, afin qu'il règne longtemps, lui-même et ses fils, sur Israël.
 

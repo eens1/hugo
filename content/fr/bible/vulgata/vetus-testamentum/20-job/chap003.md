@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Post hæc aperuit Iob os suum, et maledixit diei suo,
+1 Post haec aperuit Iob os suum, et maledixit diei suo,
 
 2 et locutus est.
 
@@ -13,7 +13,7 @@ draft: false
 
 4 Dies ille vertatur in tenebras, non requirat eum Deus desuper, et non illustretur lumine.
 
-5 Obscurent eum tenebræ et umbra mortis, occupet eum caligo, et involvatur amaritudine.
+5 Obscurent eum tenebrae et umbra mortis, occupet eum caligo, et involvatur amaritudine.
 
 6 Noctem illam tenebrosus turbo possideat, non computetur in diebus anni, nec numeretur in mensibus:
 
@@ -21,7 +21,7 @@ draft: false
 
 8 Maledicant ei qui maledicunt diei, qui parati sunt suscitare Leviathan:
 
-9 Obtenebrentur stellæ caligine eius: expectet lucem et non videat, nec ortum surgentis auroræ:
+9 Obtenebrentur stellae caligine eius: expectet lucem et non videat, nec ortum surgentis aurorae:
 
 10 Quia non conclusit ostia ventris, qui portavit me, nec abstulit mala ab oculis meis.
 
@@ -31,7 +31,7 @@ draft: false
 
 13 Nunc enim dormiens silerem, et somno meo requiescerem:
 
-14 Cum regibus et consulibus terræ, qui ædificant sibi solitudines:
+14 Cum regibus et consulibus terrae, qui aedificant sibi solitudines:
 
 15 Aut cum principibus, qui possident aurum, et replent domos suas argento:
 
@@ -43,7 +43,7 @@ draft: false
 
 19 Parvus et magnus ibi sunt, et servus liber a domino suo.
 
-20 Quare misero data est lux, et vita his, qui in amaritudine animæ sunt?
+20 Quare misero data est lux, et vita his, qui in amaritudine animae sunt?
 
 21 qui expectant mortem, et non venit, quasi effodientes thesaurum:
 
@@ -51,7 +51,7 @@ draft: false
 
 23 Viro cuius abscondita est via, et circumdedit eum Deus tenebris?
 
-24 Antequam comedam suspiro: et tamquam inundantes aquæ, sic rugitus meus:
+24 Antequam comedam suspiro: et tamquam inundantes aquae, sic rugitus meus:
 
 25 Quia timor, quem timebam, evenit mihi: et quod verebar accidit.
 

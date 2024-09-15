@@ -57,7 +57,7 @@ summary: |
 
 ***Note*** :  Dn. 11, 11 : Le roi du midi, Ptolémée Philopator, successeur de Ptolémée Evergète.
 
-12 Et il prendra la multitude, et son cœur s'élèvera; et il abattra beaucoup de milliers; mais il ne prévaudra pas. 13 Car le roi de l'aquilon reviendra, et préparera une multitude beaucoup plus grande qu'auparavant; et à la fin des temps et des années, il viendra se hâtant avec une grande armée et des forces immenses.
+12 Et il prendra la multitude, et son coeur s'élèvera; et il abattra beaucoup de milliers; mais il ne prévaudra pas. 13 Car le roi de l'aquilon reviendra, et préparera une multitude beaucoup plus grande qu'auparavant; et à la fin des temps et des années, il viendra se hâtant avec une grande armée et des forces immenses.
 
 ***Note*** :  Dn. 11, 13 : Le roi de l’aquilon ; Antiochus. ― A la fin, etc. ; c’est-à-dire après un certain nombre d’années.
 
@@ -95,11 +95,11 @@ summary: |
 ***Note*** :  Dn. 11, 24 : Leurs rapines, leur butin ; les rapines, le butin des ennemis.
 
 
-25 Et sa force et son cœur s'animeront contre le roi du midi, avec une grande armée; et le roi du midi sera excité au combat par des secours nombreux et très puissants; et ils ne résisteront pas, parce qu'il se formera contre lui des complots, 26 Ceux qui mangent le pain avec lui le briseront; et son armée sera accablée, et il tombera une très grande quantité de tués, 27 Et le cœur des deux rois sera porté à mal faire; et à une même table ils parleront le mensonge; et ils ne réussiront pas, parce que la fin est pour un autre temps encore.
+25 Et sa force et son coeur s'animeront contre le roi du midi, avec une grande armée; et le roi du midi sera excité au combat par des secours nombreux et très puissants; et ils ne résisteront pas, parce qu'il se formera contre lui des complots, 26 Ceux qui mangent le pain avec lui le briseront; et son armée sera accablée, et il tombera une très grande quantité de tués, 27 Et le coeur des deux rois sera porté à mal faire; et à une même table ils parleront le mensonge; et ils ne réussiront pas, parce que la fin est pour un autre temps encore.
 
 ***Note*** :  Dn. 11, 27 : La fin, etc. ; le temps de leur ruine n’est pas encore venu.
 
-28 Et il retournera dans son pays avec de grandes richesses ; et son cœur sera contre l'alliance sainte ; et il agira, et il retournera dans son pays.
+28 Et il retournera dans son pays avec de grandes richesses ; et son coeur sera contre l'alliance sainte ; et il agira, et il retournera dans son pays.
 
 ***Note*** :  Dn. 11, 28 : Il retournera ; c’est-à-dire, Antiochus Epiphane. ― L’alliance sainte (testamentum sanctum) ; la loi divine des Juifs, appelée au verset 30 l’alliance du sanctuaire, parce qu’elle était conservée dans le temple. On pourrait encore entendre par cette expression tout ce qui appartenait à la religion des Juifs. Comparer sur l’ensemble de ce verset 28, 1 Machabées, 1, 20-24 ; 2 Machabées, 5, 21.
 

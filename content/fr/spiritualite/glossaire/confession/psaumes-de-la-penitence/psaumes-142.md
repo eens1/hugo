@@ -14,7 +14,7 @@ summary: |
 
 3 Parce que l'ennemi a poursuivi mon âme ; il a humilié jusqu'à terre ma vie ; Il m'a plongé dans des lieux obscurs, comme les morts d'un siècle ;
 
-4 Et mon esprit a été dans l'anxiété sur mon sort ; au dedans de moi mon cœur s'est troublé. 5 Je me suis souvenu des jours anciens, j'ai médité sur toutes vos œuvres, sur les ouvrages de vos mains je méditais.
+4 Et mon esprit a été dans l'anxiété sur mon sort ; au dedans de moi mon coeur s'est troublé. 5 Je me suis souvenu des jours anciens, j'ai médité sur toutes vos oeuvres, sur les ouvrages de vos mains je méditais.
 
 6 J'ai étendu mes mains vers vous : mon âme est pour vous comme une terre sans eau;
 

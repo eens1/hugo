@@ -33,7 +33,7 @@ summary: |
 ***Note*** :  Zach. 10, 6 : La maison de Joseph ; les dix tribus qui avaient pour chef celle d’Ephraïm, fils de Joseph.
 
 
-7 Et ils seront comme les braves d'Ephraïm, et leur cœur sera réjoui comme par le vin; et leurs fils verront, et ils se réjouiront, et leur cœur exultera dans le Seigneur.
+7 Et ils seront comme les braves d'Ephraïm, et leur coeur sera réjoui comme par le vin; et leurs fils verront, et ils se réjouiront, et leur coeur exultera dans le Seigneur.
 
 ***Note*** :  Zach. 10, 7 : Les braves d’Ephraïm. La tribu d’Ephraïm fut toujours célèbre par sa valeur (voir Deutéronome, 33, 17). La suite de la prophétie se rapporte particulièrement aux dix tribus.
 

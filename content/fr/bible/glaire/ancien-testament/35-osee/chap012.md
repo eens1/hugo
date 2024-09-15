@@ -15,7 +15,7 @@ summary: |
 
 1 Ephraïm se repaît de vent et poursuit un air brûlant; tout le jour il multiplie le mensonge et la dévastation ; il a fait alliance avec les Assyriens et il portait de l'huile en Egypte. 2 Voici donc venir le jugement du Seigneur avec Juda, et sa visite sur Jacob; il lui rendra selon ses voies et ses inventions.
 
-***Note*** :  Os. 12, 2 : Sa visite ; sa vengeance, son châtiment. ― Inventions ; en hébreu, œuvres, actions.
+***Note*** :  Os. 12, 2 : Sa visite ; sa vengeance, son châtiment. ― Inventions ; en hébreu, oeuvres, actions.
 
 3 Dans le sein maternel il supplanta son frère; par sa force il lutta avec l'ange.
 
@@ -48,7 +48,7 @@ summary: |
 
 ***Note*** :  Os. 12, 10 : Saint Jérôme explique lui-même ainsi ce verset dans son commentaire : « Car c’est moi qui, par tous les prophètes et les différents genres de visions, ait été assimilé aux hommes (assimilatus sum hominibus), et t’ai provoqué à la pénitence. » Puis, pour justifier son explication, le savant Père cite plusieurs passages tirés des prophètes, entre autres, celui où Jonas est représenté passant trois jours et trois nuits au fond de la mer, afin de signifier le Seigneur ressuscitant des enfers le troisième jour (ut Dominum significet die tertia ab inferis resurgentem). Dans le texte hébreu, le verbe rendu dans la Vulgate par le passif (assimilatus sum), est à l’actif et paraît signifier : Je proposerai, ou je propose des paraboles.
 
-11 Si Galaad était une idole, c'est donc en vain qu'ils sacrifiaient aux bœufs de Galgal; car leurs autels sont comme des monceaux de pierre sur les sillons des champs.
+11 Si Galaad était une idole, c'est donc en vain qu'ils sacrifiaient aux boeufs de Galgal; car leurs autels sont comme des monceaux de pierre sur les sillons des champs.
 
 ***Note*** :  Os. 12, 11 : Galaad, qu’on a déjà vu plus haut (voir Osée, 6, 8), est mis ici pour son contenu. ― Bethaven. Comparer à Osée, 10, 5-6. ― Galgal. Voir Osée, 9, 15.
 

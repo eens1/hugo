@@ -24,7 +24,7 @@ summary: |
 6 Mes jours ont passé plus promptement que la trame n'est coupée par un tisserand; et ils ont été consumés sans aucune espérance.
 
 
-7 Souvenez-vous que ma vie est un souffle, et que mon œil ne reviendra pas pour voir le bonheur. 8 Le regard de l'homme ne m'apercevra pas; vos yeux se porteront sur moi, mais je ne serai plus. 9 Comme un nuage se dissipe et passe, ainsi celui qui descend dans les enfers ne montera pas.
+7 Souvenez-vous que ma vie est un souffle, et que mon oeil ne reviendra pas pour voir le bonheur. 8 Le regard de l'homme ne m'apercevra pas; vos yeux se porteront sur moi, mais je ne serai plus. 9 Comme un nuage se dissipe et passe, ainsi celui qui descend dans les enfers ne montera pas.
 
 ***Note*** :  Job 7, 9 : Les enfers. Voir, pour la vraie signification de ce mot, Genèse, 37, 35.
 
@@ -37,7 +37,7 @@ summary: |
 
 ***Note*** :  Job 7, 15 : Mon âme a choisi ; c’est-à-dire je préférerais (Comparer à Job, 6, 7). ― Une destruction violente ; littéralement l’action de se pendre ; hébreu l’étranglement. Le sens du verset est donc : Tout mon être préférerait une mort violente et cruelle aux maux que je souffre.
 
-16 J'ai perdu toute espérance; je ne saurais vivre davantage : épargnez-moi; car mes jours ne sont rien. 17 Qu'est-ce qu'un homme, pour que vous fassiez un si grand cas de lui? ou pourquoi mettez-vous sur lui votre cœur?
+16 J'ai perdu toute espérance; je ne saurais vivre davantage : épargnez-moi; car mes jours ne sont rien. 17 Qu'est-ce qu'un homme, pour que vous fassiez un si grand cas de lui? ou pourquoi mettez-vous sur lui votre coeur?
 
 ***Note*** :  Job 7, 17 : Pour que vous fassiez un si grand cas de lui ; en l’examinant, l’éprouvant et l’affligeant. ― Mettez-vous, etc. , c’est-à-dire songez-vous à lui, vous occupez-vous de lui ?
 

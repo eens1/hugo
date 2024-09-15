@@ -28,7 +28,7 @@ summary: |
 
 ***Note*** :  Is. 15, 4 : Hésébon, Eléalé ; deux villes, dont la première était située au pied du mont Phasga, et la seconde au nord, et à trois lieues environ de Hésébon. ― Jasa ; autre ville à l’extrémité méridionale de Moab. ― Son âme ; l’âme de chacun ; ou chacun gémira non seulement sur le malheur public, mais sur sa propre infortune.
 
-5 Mon cœur pour Moab criera ; ses verrous se feront entendre jusqu'à Ségor, génisse de trois ans ; car par la montée de Luith ils monteront en pleurant, et dans la voix d'Oronaïm ils élèveront le cri d'une douleur déchirante.
+5 Mon coeur pour Moab criera ; ses verrous se feront entendre jusqu'à Ségor, génisse de trois ans ; car par la montée de Luith ils monteront en pleurant, et dans la voix d'Oronaïm ils élèveront le cri d'une douleur déchirante.
 
 ***Note*** :  Is. 15, 5 : Ses verrous ; ses appuis, ses soutiens. ― Ségor ; à l’extrémité méridionale de la mer Morte. ― Génisse de trois ans ; c’est-à-dire forte, vigoureuse, ou indocile, indomptée. ― Luith ; ville située entre Ar et Ségor. ― Oronaïm ; ville de Moab, dans le voisinage de Ségor, ou à l’extrémité opposée de cette dernière, selon que l’on entend ces paroles de Jérémie, 48, 34 : « Ils ont fait entendre leur voix de Ségor à Oronaïm. »
 
@@ -37,9 +37,9 @@ summary: |
 ***Note*** :  Is. 15, 6 : Nemrim ; ville au septentrion de Ségor et sur la mer Morte.
 
 
-7 Selon la grandeur de leurs œuvres, tel sera leur châtiment ; au torrent des saules on les conduira.
+7 Selon la grandeur de leurs oeuvres, tel sera leur châtiment ; au torrent des saules on les conduira.
 
-***Note*** :  Is. 15, 7 : Leurs œuvres ; leurs crimes. ― Au torrent, etc. Babylone était située sur l’Euphrate dont les bords étaient couverts de saules. Comparer à Psaumes, 136, 2.
+***Note*** :  Is. 15, 7 : Leurs oeuvres ; leurs crimes. ― Au torrent, etc. Babylone était située sur l’Euphrate dont les bords étaient couverts de saules. Comparer à Psaumes, 136, 2.
 
 8 Parce que le cri parcourra la frontière de Moab ; jusqu'à Gallim ira son hurlement, jusqu'au Puits d'Elim son cri.
 

@@ -17,7 +17,7 @@ summary: |
 
 ***Note*** :  Eccl. 10, 1 : Les mouches qui meurent dans un parfum en font perdre la bonne odeur. ― Une folie, etc. Il y a une certaine folie qui l’emporte sur la sagesse et la gloire. Pour être véritablement sage, il faut devenir insensé aux yeux du monde. Or, cette folie, suivant saint Paul, vaut mieux que toute la prétendue sagesse humaine, qui, en effet, selon le même apôtre, n’est que folie devant Dieu. Voir 1 Corinthiens, 1, 25 ; 3, 18.
 
-2 Le cœur du sage est dans sa droite, et le cœur de l'insensé dans sa gauche.
+2 Le coeur du sage est dans sa droite, et le coeur de l'insensé dans sa gauche.
 
 
 3 Mais même l'insensé qui marche dans sa voie, comme il est lui-même dépourvu de sagesse, il estime tous les hommes insensés.

@@ -26,7 +26,7 @@ summary: |
 
 4 Le Seigneur m'a donné une langue savante, afin que je sache soutenir par la parole celui qui est abattu ; il prépare dès le matin, dès le matin il prépare mon oreille, afin que je l'écoute comme un maître. 5 Le Seigneur Dieu m'a ouvert l'oreille, et moi je ne le contredis pas ; je ne me suis pas retiré en arrière.
 
-***Note*** :  Is. 50, 5 : M’a ouvert l’oreille ; m’a fait entendre, m’a révélé ses volontés. Comparer à Isaïe, 48, 8 et Psaumes, 39, 6. ― Je ne me suis pas, etc. ; cette expression est empruntée d’un attelage de bœufs, qui ne veulent pas se laisser conduire.
+***Note*** :  Is. 50, 5 : M’a ouvert l’oreille ; m’a fait entendre, m’a révélé ses volontés. Comparer à Isaïe, 48, 8 et Psaumes, 39, 6. ― Je ne me suis pas, etc. ; cette expression est empruntée d’un attelage de boeufs, qui ne veulent pas se laisser conduire.
 
 6 J'ai abandonné mon corps à ceux qui me frappaient, mes joues à ceux qui arrachaient ma barbe; je n'ai pas détourné ma face à ceux qui me réprimandaient et qui crachaient sur moi.
 

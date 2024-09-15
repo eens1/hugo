@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 Factum est autem post hæc, ut Absalom filii David sororem speciosissimam, vocabulo Thamar, adamaret Amnon filius David,
+1 Factum est autem post haec, ut Absalom filii David sororem speciosissimam, vocabulo Thamar, adamaret Amnon filius David,
 
-2 et deperiret eam valde, ita ut propter amorem eius ægrotaret: quia cum esset virgo, difficile ei videbatur ut quippiam inhoneste ageret cum ea.
+2 et deperiret eam valde, ita ut propter amorem eius aegrotaret: quia cum esset virgo, difficile ei videbatur ut quippiam inhoneste ageret cum ea.
 
 3 Erat autem Amnon amicus, nomine Ionadab filius Semmaa fratris David, vir prudens valde.
 
@@ -15,11 +15,11 @@ draft: false
 
 5 Cui respondit Ionadab: Cuba super lectum tuum, et languorem simula: cumque venerit pater tuus ut visitet te, dic ei: Veniat, oro, Thamar soror mea, ut det mihi cibum, et faciat pulmentum, ut comedam de manu eius.
 
-6 Accubuit itaque Amnon, et quasi ægrotare cœpit: cumque venisset rex ad visitandum eum, ait Amnon ad regem: Veniat, obsecro, Thamar soror mea, ut faciat in oculis meis duas sorbitiunculas, et cibum capiam de manu eius.
+6 Accubuit itaque Amnon, et quasi aegrotare coepit: cumque venisset rex ad visitandum eum, ait Amnon ad regem: Veniat, obsecro, Thamar soror mea, ut faciat in oculis meis duas sorbitiunculas, et cibum capiam de manu eius.
 
 7 Misit ergo David ad Thamar domum, dicens: Veni in domum Amnon fratris tui, et fac ei pulmentum.
 
-8 Venitque Thamar in domum Amnon fratris sui: ille autem iacebat: quæ tollens farinam commiscuit: et liquefaciens, in oculis eius coxit sorbitiunculas.
+8 Venitque Thamar in domum Amnon fratris sui: ille autem iacebat: quae tollens farinam commiscuit: et liquefaciens, in oculis eius coxit sorbitiunculas.
 
 9 Tollensque quod coxerat, effudit, et posuit coram eo, et noluit comedere: dixitque Amnon: Eiicite universos a me. Cumque eiecissent omnes,
 
@@ -27,29 +27,29 @@ draft: false
 
 11 Cumque obtulisset ei cibum, apprehendit eam, et ait: Veni, cuba mecum soror mea.
 
-12 Quæ respondit ei: Noli frater mi, noli opprimere me, neque enim hoc fas est in Israel: noli facere stultitiam hanc.
+12 Quae respondit ei: Noli frater mi, noli opprimere me, neque enim hoc fas est in Israel: noli facere stultitiam hanc.
 
 13 Ego enim ferre non potero opprobrium meum, et tu eris quasi unus de insipientibus in Israel: quin potius loquere ad regem, et non negabit me tibi.
 
-14 Noluit autem acquiescere precibus eius, sed prævalens viribus oppressit eam, et cubavit cum ea.
+14 Noluit autem acquiescere precibus eius, sed praevalens viribus oppressit eam, et cubavit cum ea.
 
 15 Et exosam eam habuit Amnon odio magno nimis: ita ut maius esset odium, quo oderat eam, amore quo ante dilexerat. Dixitque ei Amnon: Surge, et vade.
 
-16 Quæ respondit ei: Maius est hoc malum, quod nunc agis adversum me, quam quod ante fecisti, expellens me. Et noluit audire eam:
+16 Quae respondit ei: Maius est hoc malum, quod nunc agis adversum me, quam quod ante fecisti, expellens me. Et noluit audire eam:
 
 17 sed vocato puero, qui ministrabat ei, dixit: Eiice hanc a me foras, et claude ostium post eam.
 
-18 Quæ induta erat talari tunica: huiuscemodi enim filiæ regis virgines vestibus utebantur. Eiecit itaque eam minister illius foras: clausitque fores post eam.
+18 Quae induta erat talari tunica: huiuscemodi enim filiae regis virgines vestibus utebantur. Eiecit itaque eam minister illius foras: clausitque fores post eam.
 
-19 Quæ aspergens cinerem capiti suo, scissa talari tunica, impositisque manibus super caput suum, ibat ingrediens, et clamans.
+19 Quae aspergens cinerem capiti suo, scissa talari tunica, impositisque manibus super caput suum, ibat ingrediens, et clamans.
 
 20 Dixit autem ei Absalom frater suus: Numquid Amnon frater tuus concubuit tecum? sed nunc soror tace, frater tuus est: neque affligas cor tuum pro hac re. Mansit itaque Thamar contabescens in domo Absalom fratris sui.
 
-21 Cum autem audisset rex David verba hæc, contristatus est valde, et noluit constristare spiritum Amnon filii sui, quoniam diligebat eum, quia primogenitus erat ei.
+21 Cum autem audisset rex David verba haec, contristatus est valde, et noluit constristare spiritum Amnon filii sui, quoniam diligebat eum, quia primogenitus erat ei.
 
 22 Porro non est locutus Absalom ad Amnon nec malum, nec bonum: oderat enim Absalom Amnon, eo quod violasset Thamar sororem suam.
 
-23 Factum est autem post tempus biennii, ut tonderentur oves Absalom in Baalhasor, quæ est iuxta Ephraim: et vocavit Absalom omnes filios regis,
+23 Factum est autem post tempus biennii, ut tonderentur oves Absalom in Baalhasor, quae est iuxta Ephraim: et vocavit Absalom omnes filios regis,
 
 24 venitque ad regem, et ait ad eum: Ecce tondentur oves servi tui: veniat, oro, rex cum servis suis ad servum suum.
 
@@ -59,15 +59,15 @@ draft: false
 
 27 Coegit itaque Absalom eum, et dimisit cum eo Amnon et universos filios regis. Feceratque Absalom convivium quasi convivium regis.
 
-28 Præceperat autem Absalom pueris suis, dicens: Observate cum temulentus fuerit Amnon vino, et dixero vobis: Percutite eum, et interficite, nolite timere: ego enim sum qui præcipio vobis: roboramini, et estote viri fortes.
+28 Praeceperat autem Absalom pueris suis, dicens: Observate cum temulentus fuerit Amnon vino, et dixero vobis: Percutite eum, et interficite, nolite timere: ego enim sum qui praecipio vobis: roboramini, et estote viri fortes.
 
-29 Fecerunt ergo pueri Absalom adversum Amnon, sicut præceperat eis Absalom. Surgentesque omnes filii regis ascenderunt singuli mulas suas, et fugerunt.
+29 Fecerunt ergo pueri Absalom adversum Amnon, sicut praeceperat eis Absalom. Surgentesque omnes filii regis ascenderunt singuli mulas suas, et fugerunt.
 
 30 Cumque adhuc pergerent in itinere, fama pervenit ad David, dicens: Percussit Absalom omnes filios regis, et non remansit ex eis saltem unus.
 
 31 Surrexit itaque rex, et scidit vestimenta sua: et cecidit super terram, et omnes servi illius, qui assistebant ei, sciderunt vestimenta sua.
 
-32 Respondens autem Ionadab filius Semmaa fratris David, dixit: Ne æstimet dominus meus rex, quod omnes pueri filii regis occisi sint: Amnon solus mortuus est, quoniam in ore Absalom erat positus ex die qua oppressit Thamar sororem eius.
+32 Respondens autem Ionadab filius Semmaa fratris David, dixit: Ne aestimet dominus meus rex, quod omnes pueri filii regis occisi sint: Amnon solus mortuus est, quoniam in ore Absalom erat positus ex die qua oppressit Thamar sororem eius.
 
 33 Nunc ergo ne ponat dominus meus rex super cor suum verbum istud, dicens: Omnes filii regis occisi sunt: quoniam Amnon solus mortuus est.
 

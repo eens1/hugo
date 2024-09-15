@@ -9,7 +9,7 @@ draft: false
 
 2 Domine quid multiplicati sunt qui tribulant me? multi insurgunt adversum me.
 
-3 Multi dicunt animæ meæ: Non est salus ipsi in Deo eius.
+3 Multi dicunt animae meae: Non est salus ipsi in Deo eius.
 
 4 Tu autem Domine susceptor meus es, gloria mea, et exaltans caput meum.
 

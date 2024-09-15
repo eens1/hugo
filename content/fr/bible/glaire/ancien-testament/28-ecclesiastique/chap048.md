@@ -36,9 +36,9 @@ summary: |
 
 ***Note*** :  Sir. 48, 9 : Qui avez été reçu, etc. Voir 4 Rois, 2, 11.
 
-10 Qui avez été inscrit dans les décrets des temps pour adoucir le courroux du Seigneur, unir le cœur du père au fils et rétablir les tribus de Jacob.
+10 Qui avez été inscrit dans les décrets des temps pour adoucir le courroux du Seigneur, unir le coeur du père au fils et rétablir les tribus de Jacob.
 
-***Note*** :  Sir. 48, 10 : Inscrit ; désigné, marque, destiné. ― Les décrets des temps ; ce sont probablement les décrets de Dieu relatifs aux temps ou aux choses qui doivent arriver dans les temps, et surtout dans les derniers temps, lorsque, selon la prophétie de Malachie (voir Malachie, 4, 6), Elie convertira le cœur des pères aux fils et le cœur des fils aux pères, pour que le Seigneur ne frappe pas la terre d’anathème. C’est d’ailleurs la tradition constante de la synagogue et de l’Eglise chrétienne que ce prophète viendra avant la fin du monde, pour combattre l’Antechrist, et pour ramener les Juifs dans l’Eglise de Jésus-Christ.
+***Note*** :  Sir. 48, 10 : Inscrit ; désigné, marque, destiné. ― Les décrets des temps ; ce sont probablement les décrets de Dieu relatifs aux temps ou aux choses qui doivent arriver dans les temps, et surtout dans les derniers temps, lorsque, selon la prophétie de Malachie (voir Malachie, 4, 6), Elie convertira le coeur des pères aux fils et le coeur des fils aux pères, pour que le Seigneur ne frappe pas la terre d’anathème. C’est d’ailleurs la tradition constante de la synagogue et de l’Eglise chrétienne que ce prophète viendra avant la fin du monde, pour combattre l’Antechrist, et pour ramener les Juifs dans l’Eglise de Jésus-Christ.
 
 11 Bienheureux sont ceux qui vous ont vu et qui ont été honorés de votre amitié;
 
@@ -70,7 +70,7 @@ summary: |
 
 ***Note*** :  Sir. 48, 20 : Dans ses jours, etc. Cette histoire est racontée au long dans 4 Rois, chapitres 18 et 19 ; 2 Paralipomènes, chapitre 32 ; Isaïe, chapitre 36. ― Contre eux ; contre les Juifs dont il est parlé au verset 18.
 
-21 Alors leurs cœurs et leurs mains défaillirent, et furent en proie à la douleur, comme des femmes en travail.
+21 Alors leurs coeurs et leurs mains défaillirent, et furent en proie à la douleur, comme des femmes en travail.
 
 
 22 Et ils invoquèrent le Seigneur miséricordieux, et, étendant leurs mains, ils les élevèrent vers le ciel, et le saint Seigneur Dieu écouta aussitôt leurs voix. 23 Il ne se souvint point de leurs péchés, et il ne les livra pas à leurs ennemis; mais il les purifia par la main d'Isaïe, le saint prophète. 24 Il renversa le camp des Assyriens, et l'ange du Seigneur les écrasa ;

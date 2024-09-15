@@ -40,10 +40,10 @@ summary: |
 10 Pour moi, je me tins sur la montagne comme auparavant, quarante jours et quarante nuits; et le Seigneur m'exauça encore cette fois, et il ne voulut pas te perdre. 11 Il me dit ensuite : Va, et précède le peuple, afin qu'il entre, et qu'il possède la terre que j'ai juré à ses pères de leur donner.
 
 
-12 Et maintenant, Israël, qu'est-ce que le Seigneur ton Dieu demande de toi, si ce n'est que tu craignes le Seigneur ton Dieu, que tu marches dans ses voies, que tu l'aimes, que tu serves le Seigneur ton Dieu en tout ton cœur et en toute ton âme ; 13 Et que tu gardes les commandements du Seigneur et ses cérémonies, que moi, je te prescris aujourd'hui, afin que bien t'arrive ? 14 Voici, au Seigneur ton Dieu est le ciel, et le ciel du ciel, et la terre et tout ce qui est sur elle. 15 Et cependant le Seigneur s'est uni étroitement à tes pères, il les a aimés, et il a choisi leur postérité après eux, c'est-à-dire, vous, d'entre toutes les nations, comme il est entièrement prouvé aujourd'hui.
+12 Et maintenant, Israël, qu'est-ce que le Seigneur ton Dieu demande de toi, si ce n'est que tu craignes le Seigneur ton Dieu, que tu marches dans ses voies, que tu l'aimes, que tu serves le Seigneur ton Dieu en tout ton coeur et en toute ton âme ; 13 Et que tu gardes les commandements du Seigneur et ses cérémonies, que moi, je te prescris aujourd'hui, afin que bien t'arrive ? 14 Voici, au Seigneur ton Dieu est le ciel, et le ciel du ciel, et la terre et tout ce qui est sur elle. 15 Et cependant le Seigneur s'est uni étroitement à tes pères, il les a aimés, et il a choisi leur postérité après eux, c'est-à-dire, vous, d'entre toutes les nations, comme il est entièrement prouvé aujourd'hui.
 
 
-16 Opérez donc la circoncision de votre cœur, et ne rendez plus votre cou inflexible, 17 Parce que le Seigneur votre Dieu est lui-même le Dieu des dieux et le Seigneur des seigneurs, le Dieu grand, puissant et terrible, qui n'a point égard à la personne, ni aux présents.
+16 Opérez donc la circoncision de votre coeur, et ne rendez plus votre cou inflexible, 17 Parce que le Seigneur votre Dieu est lui-même le Dieu des dieux et le Seigneur des seigneurs, le Dieu grand, puissant et terrible, qui n'a point égard à la personne, ni aux présents.
 
 ***Note*** :  Dr. 10, 17 : Voir 2 Paralipomènes, 19, 7 ; Job, 34, 19 ; Sagesse, 6, 8 ; Ecclésiastique, 35, 15 ; Actes des Apôtres, 10, 34 ; Romains, 2, 11 ; Galates, 2, 6.
 

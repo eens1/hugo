@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Quid ergo amplius Iudæo est? aut quæ utilitas circumcisionis?
+1 Quid ergo amplius Iudaeo est? aut quae utilitas circumcisionis?
 
 2 Multum per omnem modum. Primum quidem quia credita sunt illis eloquia Dei.
 
@@ -21,7 +21,7 @@ draft: false
 
 8 et non (sicut blasphemamur, et sicut aiunt quidam nos dicere) faciamus mala ut veniant bona: quorum damnatio iusta est.
 
-9 Quid ergo? præcellimus eos? Nequaquam. Causati enim sumus Iudæos, et Græcos omnes sub peccato esse,
+9 Quid ergo? praecellimus eos? Nequaquam. Causati enim sumus Iudaeos, et Graecos omnes sub peccato esse,
 
 10 sicut scriptum est: Quia non est iustus quisquam:
 
@@ -41,7 +41,7 @@ draft: false
 
 18 Non est timor Dei ante oculos eorum.
 
-19 Scimus autem quoniam quæcumque lex loquitur, iis, qui in lege sunt, loquitur: ut omne os obstruatur, et subditus fiat omnis mundus Deo:
+19 Scimus autem quoniam quaecumque lex loquitur, iis, qui in lege sunt, loquitur: ut omne os obstruatur, et subditus fiat omnis mundus Deo:
 
 20 quia ex operibus legis non iustificabitur omnis caro coram illo. Per legem enim cognitio peccati.
 
@@ -51,19 +51,19 @@ draft: false
 
 23 Omnes enim peccaverunt, et egent gloria Dei.
 
-24 Iustificati gratis per gratiam ipsius, per redemptionem, quæ est in Christo Iesu,
+24 Iustificati gratis per gratiam ipsius, per redemptionem, quae est in Christo Iesu,
 
-25 quem proposuit Deus propitiationem per fidem in sanguine ipsius, ad ostensionem iustitiæ suæ propter remissionem præcedentium delictorum
+25 quem proposuit Deus propitiationem per fidem in sanguine ipsius, ad ostensionem iustitiae suae propter remissionem praecedentium delictorum
 
-26 in sustentatione Dei, ad ostensionem iustitiæ eius in hoc tempore: ut sit ipse iustus, et iustificans eum, qui est ex fide Iesu Christi.
+26 in sustentatione Dei, ad ostensionem iustitiae eius in hoc tempore: ut sit ipse iustus, et iustificans eum, qui est ex fide Iesu Christi.
 
 27 Ubi est ergo gloriatio tua? Exclusa est. Per quam legem? Factorum? Non: sed per legem fidei.
 
 28 Arbitramur enim iustificari hominem per fidem sine operibus legis.
 
-29 An Iudæorum Deus tantum? Nonne et Gentium? Immo et Gentium.
+29 An Iudaeorum Deus tantum? Nonne et Gentium? Immo et Gentium.
 
-30 Quoniam quidem unus est Deus, qui iustificat circumcisionem ex fide, et præputium per fidem.
+30 Quoniam quidem unus est Deus, qui iustificat circumcisionem ex fide, et praeputium per fidem.
 
 31 Legem ergo destruimus per fidem? Absit: sed legem statuimus.
 

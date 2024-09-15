@@ -24,7 +24,7 @@ summary: |
 
 ***Note*** :  IV Rois 8, 3 : Sa maison et ses champs, confisqués pendant son absence.
 
-4 Le roi alors parlait avec Giézi, serviteur de l'homme de Dieu, disant : Raconte-moi toutes les grandes œuvres qu'a faites Elisée. 5 Et comme Giézi racontait au roi de quelle manière il avait ressuscité le mort, parut la femme dont il avait ressuscité le fils, réclamant auprès du roi sa maison et ses champs. Et Giézi dit : Mon seigneurie roi, c'est cette femme, et c'est son fils qu'a ressuscité Elisée. 6 Et le roi interrogea la femme, qui lui raconta tout; et le roi lui donna un eunuque, disant : Fais-lui rendre tout ce qui est à elle, et tous les revenus des champs, depuis le jour qu'elle a quitté le pays jusqu'à présent.
+4 Le roi alors parlait avec Giézi, serviteur de l'homme de Dieu, disant : Raconte-moi toutes les grandes oeuvres qu'a faites Elisée. 5 Et comme Giézi racontait au roi de quelle manière il avait ressuscité le mort, parut la femme dont il avait ressuscité le fils, réclamant auprès du roi sa maison et ses champs. Et Giézi dit : Mon seigneurie roi, c'est cette femme, et c'est son fils qu'a ressuscité Elisée. 6 Et le roi interrogea la femme, qui lui raconta tout; et le roi lui donna un eunuque, disant : Fais-lui rendre tout ce qui est à elle, et tous les revenus des champs, depuis le jour qu'elle a quitté le pays jusqu'à présent.
 
 
 7 Elisée vint aussi à Damas ; et Bénadad, roi de Syrie, était malade, et ses serviteurs lui annoncèrent l'arrivée du prophète, disant : L'homme de Dieu est venu ici.

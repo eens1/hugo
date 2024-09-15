@@ -84,5 +84,5 @@ sacrifices devront être offerts aux jours de sabbat, aux néoménies, aux fête
 
 27 Et les sept jours accomplis, les prêtres offriront, le huitième jour et dans la suite, vos holocaustes sur l'autel, et les hosties qu'ils offrent pour la paix, et je m'attendrirai sur vous, dit le Seigneur Dieu.
 
-***Note*** :  Éz. 43, 27 : Les hosties, etc. ; c’est-à-dire les hosties pacifiques qu’on offrait à Dieu pour le louer, pour le reconnaître comme souverain Seigneur ; en actions de grâces, par pure dévotion, pour satisfaire à un vœu. Voir Lévitique, 3, 12 ; 7, 12 ; 19, 5.
+***Note*** :  Éz. 43, 27 : Les hosties, etc. ; c’est-à-dire les hosties pacifiques qu’on offrait à Dieu pour le louer, pour le reconnaître comme souverain Seigneur ; en actions de grâces, par pure dévotion, pour satisfaire à un voeu. Voir Lévitique, 3, 12 ; 7, 12 ; 19, 5.
 

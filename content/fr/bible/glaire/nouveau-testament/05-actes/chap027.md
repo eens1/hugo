@@ -44,7 +44,7 @@ summary: |
 
 8 Et suivant la côte avec difficulté , nous vînmes en un lieu appelé Bonsports, près duquel était la ville de Thalasse.
 
-***Note*** :  Act. 27, 8-9 : Bonsports, au sud de la Crète, à l'ouest de Salmone, où il y a un port à l'abri des vents du nord-ouest. ― Thalasse, dans le texte grec Lasæ. Les ruines de cette ville ont été découvertes en 1 856, près du cap Léonda, non loin de Bonsports, à l'est.
+***Note*** :  Act. 27, 8-9 : Bonsports, au sud de la Crète, à l'ouest de Salmone, où il y a un port à l'abri des vents du nord-ouest. ― Thalasse, dans le texte grec Lasae. Les ruines de cette ville ont été découvertes en 1 856, près du cap Léonda, non loin de Bonsports, à l'est.
 
 
 9 Beaucoup de temps s'étant ainsi écoulé, et comme la navigation n'était déjà plus sûre, le temps du jeûne se trouvant déjà passé, Paul les consolait,

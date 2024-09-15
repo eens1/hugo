@@ -20,7 +20,7 @@ summary: |
 2 Et ils invoquaient le Seigneur, afin qu'il regardât favorablement son peuple, qui était foulé aux pieds par tout le monde, et qu'il fût touché de compassion pour son temple, qui était souillé par les impies; 3 Qu'il eût pitié aussi d'une cité qui allait être rasée sur-le-champ, et qu'il écoutât la voix du sang qui criait jusqu'à lui; 4 Et qu'il se souvînt aussi des meurtres très iniques des petits enfants innocents, et des blasphèmes proférés contre son nom, et qu'il s'indignât contre ces crimes. 5 Machabée donc, ayant rassemblé une grande multitude, devenait formidable aux nations ; car la colère du Seigneur se changea en miséricorde. 6 Et fondant à l'improviste sur les villages et les cités, il les brûlait; et occupant les lieux avantageux, il faisait un grand carnage des ennemis; 7 Mais c'était surtout pendant les nuits qu'il se livrait de cette sorte à des excursions, et le bruit de sa valeur se répandait de toutes parts.
 
 
-8 Or Philippe, voyant le progrès que cet homme faisait insensiblement, et que le plus souvent les choses tournaient à son avantage, écrivit à Ptolémée, gouverneur de la Cœlésyrie et de la Phénicie, d'apporter du secours aux affaires du roi.
+8 Or Philippe, voyant le progrès que cet homme faisait insensiblement, et que le plus souvent les choses tournaient à son avantage, écrivit à Ptolémée, gouverneur de la Coelésyrie et de la Phénicie, d'apporter du secours aux affaires du roi.
 
 ***Note*** :  II Macc. 8, 8 : Philippe. Voir 1 Machabées, 6, 14. Ptolémée. Voir 1 Machabées, 3, 38.
 

@@ -25,7 +25,7 @@ draft: false
 
 10 In hoc manifesti sunt filii Dei, et filii diaboli. Omnis qui non est iustus, non est ex Deo, et qui non diligit fratrem suum:
 
-11 quoniam hæc est annunciatio, quam audistis ab initio, ut diligatis alterutrum.
+11 quoniam haec est annunciatio, quam audistis ab initio, ut diligatis alterutrum.
 
 12 Non sicut Cain, qui ex maligno erat, et occidit fratrem suum. Et propter quid occidit eum? Quoniam opera eius maligna erant: fratris autem eius, iusta.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 Nos scimus quoniam translati sumus de morte ad vitam, quoniam diligimus fratres. Qui non diligit, manet in morte:
 
-15 omnis, qui odit fratrem suum, homicida est. Et scitis quoniam omnis homicida non habet vitam æternam in semetipso manentem.
+15 omnis, qui odit fratrem suum, homicida est. Et scitis quoniam omnis homicida non habet vitam aeternam in semetipso manentem.
 
 16 In hoc cognovimus charitatem Dei, quoniam ille animam suam pro nobis posuit: et nos debemus pro fratribus animas ponere.
 
@@ -47,7 +47,7 @@ draft: false
 
 21 Charissimi, si cor nostrum non reprehenderit nos, fiduciam habemus ad Deum:
 
-22 et quidquid petierimus, accipiemus ab eo: quoniam mandata eius custodimus, et ea, quæ sunt placita coram eo, facimus.
+22 et quidquid petierimus, accipiemus ab eo: quoniam mandata eius custodimus, et ea, quae sunt placita coram eo, facimus.
 
 23 Et hoc est mandatum eius: Ut credamus in nomine Filii eius Iesu Christi: et diligamus alterutrum, sicut dedit mandatum nobis.
 

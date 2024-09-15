@@ -39,7 +39,7 @@ summary: |
 
 ***Note*** :  Ex. 18, 18 : Voir Deutéronome, 1, 12.
 
-19 Mais écoute mes paroles et mes conseils, et Dieu sera avec toi. Sois toi-même au peuple dans les choses qui regardent Dieu, pour rapporter les paroles qui lui sont adressées ; 20 Et pour montrer au peuple les cérémonies et la manière de l'honorer, et la voie dans laquelle ils doivent entrer et l'œuvre qu'ils doivent accomplir. 21 Mais choisis d'entre tout le peuple des hommes valeureux, et craignant Dieu, en qui soit la vérité, et qui haïssent l'avarice, et fais-en des tribuns, des chefs de cent, de cinquante et de dix hommes ;
+19 Mais écoute mes paroles et mes conseils, et Dieu sera avec toi. Sois toi-même au peuple dans les choses qui regardent Dieu, pour rapporter les paroles qui lui sont adressées ; 20 Et pour montrer au peuple les cérémonies et la manière de l'honorer, et la voie dans laquelle ils doivent entrer et l'oeuvre qu'ils doivent accomplir. 21 Mais choisis d'entre tout le peuple des hommes valeureux, et craignant Dieu, en qui soit la vérité, et qui haïssent l'avarice, et fais-en des tribuns, des chefs de cent, de cinquante et de dix hommes ;
 
 ***Note*** :  Ex. 18, 21 ; 18. 25 : Des tribuns, hébr. chefs de milliers. Il est probable que, comme il y avait dans l’ordre militaire des officiers qui commandaient à mille, à cent, à cinquante et à dix soldats (voir Nombres, 31, 14), Jéthro conseille ici à Moïse d’établir pour le civil une hiérarchie de pouvoir sur le plan de la division militaire.
 

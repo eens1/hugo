@@ -56,5 +56,5 @@ summary: |
 ***Note*** :  Bar. 1, 20 : Les malédictions, etc. Voir Lévitique, chapitre 26 ; Deutéronome, chapitres 28 et 29.
 
 
-21 Et nous n'avons pas écouté la voix du Seigneur notre Dieu, selon toutes les paroles des prophètes, qu'il nous a envoyés ; 22 Et nous nous sommes laissés aller chacun au sens de notre méchant cœur, pour servir des dieux étrangers, faisant le mal devant les yeux du Seigneur notre Dieu.
+21 Et nous n'avons pas écouté la voix du Seigneur notre Dieu, selon toutes les paroles des prophètes, qu'il nous a envoyés ; 22 Et nous nous sommes laissés aller chacun au sens de notre méchant coeur, pour servir des dieux étrangers, faisant le mal devant les yeux du Seigneur notre Dieu.
 

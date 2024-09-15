@@ -60,7 +60,7 @@ refleurira un jour, versets 1 à 9. Le pays dévasté sera de nouveau béni et r
 
 19 Vous êtes grand dans vos conseils, et incompréhensible dans vos pensées; vous dont les yeux sont ouverts sur toutes les voies des fils d'Adam, afin de rendre à chacun selon ses voies et selon le fruit de ses inventions.
 
-***Note*** :  Jr. 32, 19 : Inventions ; selon l’hébreu, actions, œuvres. Voir Isaïe, 3, 8.
+***Note*** :  Jr. 32, 19 : Inventions ; selon l’hébreu, actions, oeuvres. Voir Isaïe, 3, 8.
 
 
 20 C'est vous qui avez fait jusqu'à ce jour des signes et des prodiges dans la terre d'Egypte, en Israël et parmi les hommes, et vous avez rendu votre nom célèbre comme il est en ce jour. 21 Et vous avez tiré Israël votre peuple de la terre d'Egypte, par des signes, et par des prodiges, et par une main forte, et par un bras étendu, et par une grande terreur. 22 Et vous leur avez donné cette terre que vous aviez juré à leurs pères de leur donner, une terre où couleraient du lait et du miel.
@@ -79,7 +79,7 @@ refleurira un jour, versets 1 à 9. Le pays dévasté sera de nouveau béni et r
 ***Note*** :  Jr. 32, 29 : Nombreuses. Voir, sur ce mot, Jérémie, 19, 13.
 
 
-30 Car les fils d'Israël et les fils de Juda faisaient continuellement le mal sous mes yeux dès leur jeunesse; les fils d'Israël qui jusqu'à ce jour me révoltaient par les œuvres de leurs mains, dit le Seigneur. 31 Parce que cette cité est devenue pour moi un objet de fureur et d'indignation, depuis le jour qu'on l'a bâtie, jusqu'au jour où elle disparaîtra de ma présence, 32 A cause du mal que les enfants d'Israël et les enfants de Juda ont fait, en me provoquant au courroux, eux et leurs rois, leurs princes, et leurs prêtres, et leurs prophètes, les hommes de Juda et les habitants de Jérusalem.
+30 Car les fils d'Israël et les fils de Juda faisaient continuellement le mal sous mes yeux dès leur jeunesse; les fils d'Israël qui jusqu'à ce jour me révoltaient par les oeuvres de leurs mains, dit le Seigneur. 31 Parce que cette cité est devenue pour moi un objet de fureur et d'indignation, depuis le jour qu'on l'a bâtie, jusqu'au jour où elle disparaîtra de ma présence, 32 A cause du mal que les enfants d'Israël et les enfants de Juda ont fait, en me provoquant au courroux, eux et leurs rois, leurs princes, et leurs prêtres, et leurs prophètes, les hommes de Juda et les habitants de Jérusalem.
 
 ***Note*** :  Jr. 32, 32 : Les hommes de Juda ; est synonyme d’habitants de Juda.
 
@@ -92,15 +92,15 @@ refleurira un jour, versets 1 à 9. Le pays dévasté sera de nouveau béni et r
 
 ***Note*** :  Jr. 32, 34 : Voir 4 Rois, 21, 4. ― Dans laquelle, etc. ; ou laquelle a été appelée de mon nom. Voir Jérémie, 7, 10.
 
-35 Et ils ont bâti les hauts lieux de Baal qui sont dans la vallée du fils d'Ennom, afin de consacrer leurs fils et leurs filles à Moloch; ce que je ne leur ai pas commandé ; et il n'est pas monté jusqu'à mon cœur qu'ils feraient cette abomination, et qu'ils entraîneraient Juda dans le péché.
+35 Et ils ont bâti les hauts lieux de Baal qui sont dans la vallée du fils d'Ennom, afin de consacrer leurs fils et leurs filles à Moloch; ce que je ne leur ai pas commandé ; et il n'est pas monté jusqu'à mon coeur qu'ils feraient cette abomination, et qu'ils entraîneraient Juda dans le péché.
 
 ***Note*** :  Jr. 32, 35 : Il n’est pas monté, etc. Voir Jérémie, 3, 16 ; Isaïe, 30, 33.
 
 
-36 Et maintenant, à cause de cela, voici ce que dit le Seigneur, Dieu d'Israël, à cette cité dont vous dites, vous, qu'elle sera livrée aux mains du roi de Babylone, par le glaive, par la famine et par la peste :37 Voilà que moi, je les rassemblerai de toutes les terres dans lesquelles je les ai jetés dans ma fureur, et dans ma colère et dans ma grande indignation, et je les ramènerai en ce lieu, et je les y ferai habiter en assurance. 38 Et ils seront mon peuple, et moi je serai leur Dieu. 39 Et je leur donnerai un seul cœur et une seule voie, afin qu'ils me craignent tous les jours de leur vie, et que bien leur soit à eux et à leurs fils après eux.
+36 Et maintenant, à cause de cela, voici ce que dit le Seigneur, Dieu d'Israël, à cette cité dont vous dites, vous, qu'elle sera livrée aux mains du roi de Babylone, par le glaive, par la famine et par la peste :37 Voilà que moi, je les rassemblerai de toutes les terres dans lesquelles je les ai jetés dans ma fureur, et dans ma colère et dans ma grande indignation, et je les ramènerai en ce lieu, et je les y ferai habiter en assurance. 38 Et ils seront mon peuple, et moi je serai leur Dieu. 39 Et je leur donnerai un seul coeur et une seule voie, afin qu'ils me craignent tous les jours de leur vie, et que bien leur soit à eux et à leurs fils après eux.
 
 
-40 Et je ferai avec eux une alliance éternelle, et je ne cesserai point de leur faire du bien; et je mettrai ma crainte dans leur cœur, afin qu'ils ne se retirent pas de moi. 41 Et je me réjouirai en eux, lorsque je leur aurai fait du bien ; et je les rétablirai en cette terre dans la vérité, de tout mon cœur, et de toute mon âme.
+40 Et je ferai avec eux une alliance éternelle, et je ne cesserai point de leur faire du bien; et je mettrai ma crainte dans leur coeur, afin qu'ils ne se retirent pas de moi. 41 Et je me réjouirai en eux, lorsque je leur aurai fait du bien ; et je les rétablirai en cette terre dans la vérité, de tout mon coeur, et de toute mon âme.
 
 ***Note*** :  Jr. 32, 41 : Dans la vérité ; selon l’hébreu, d’une manière ferme, stable.
 

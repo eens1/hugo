@@ -23,21 +23,21 @@ draft: false
 
 9 Et ego confitebor quod salvare te possit dextera tua.
 
-10 Ecce, Behemoth, quem feci tecum, fœnum quasi bos comedet:
+10 Ecce, Behemoth, quem feci tecum, foenum quasi bos comedet:
 
 11 Fortitudo eius in lumbis eius, et virtus illius in umbilico ventris eius.
 
 12 Stringit caudam suam quasi cedrum, nervi testiculorum eius perplexi sunt.
 
-13 Ossa eius velut fistulæ æris, cartilago illius quasi laminæ ferreæ.
+13 Ossa eius velut fistulae aeris, cartilago illius quasi laminae ferreae.
 
 14 Ipse est principium viarum Dei, qui fecit eum, applicabit gladium eius.
 
-15 Huic montes herbas ferunt: omnes bestiæ agri ludent ibi.
+15 Huic montes herbas ferunt: omnes bestiae agri ludent ibi.
 
 16 Sub umbra dormit in secreto calami, et in locis humentibus.
 
-17 Protegunt umbræ umbram eius, circumdabunt eum salices torrentis.
+17 Protegunt umbrae umbram eius, circumdabunt eum salices torrentis.
 
 18 Ecce, absorbebit fluvium, et non mirabitur: et habet fiduciam quod influat Iordanis in os eius.
 
@@ -59,5 +59,5 @@ draft: false
 
 27 Pone super eum manum tuam: memento belli, nec ultra addas loqui.
 
-28 Ecce, spes eius frustrabitur eum, et videntibus cunctis præcipitabitur.
+28 Ecce, spes eius frustrabitur eum, et videntibus cunctis praecipitabitur.
 

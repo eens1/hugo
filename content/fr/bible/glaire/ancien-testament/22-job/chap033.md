@@ -12,7 +12,7 @@ summary: |
 
 ***Note*** :  Job 33, 2 : Que ma langue parle dans ma gorge. Les Hébreux, dans les récits, exprimaient souvent l’action matérielle et physique. C’est ainsi qu’on lit dans 1 Rois, 10, 9 : Lorsqu’il eut détourné son épaule, pour s’en aller. Ces sortes d’expressions sont de vrais archaïsmes, qui n’ont pas été compris par tous les hébraïsants, mais que nous avons dû conserver dans notre Traduction, sans nous inquiéter des sarcasmes de quelques Voltairiens ignorants.
 
-3 C'est d'un cœur simple que sortiront mes discours, et c'est un sentiment pur que mes lèvres exprimeront. 4 L'Esprit de Dieu m'a fait, le souffle du Tout-Puissant m'a donné la vie. 5 Si tu peux, réponds-moi, et tiens ferme en ma présence, 6 Vois, Dieu m'a fait comme il t'a fait, et c est de la même boue que j'ai été formé. 7 Cependant, que ce qu'il y a de merveilleux en moi ne t'épouvante point, et que mon éloquence ne soit pas accablante pour toi.
+3 C'est d'un coeur simple que sortiront mes discours, et c'est un sentiment pur que mes lèvres exprimeront. 4 L'Esprit de Dieu m'a fait, le souffle du Tout-Puissant m'a donné la vie. 5 Si tu peux, réponds-moi, et tiens ferme en ma présence, 6 Vois, Dieu m'a fait comme il t'a fait, et c est de la même boue que j'ai été formé. 7 Cependant, que ce qu'il y a de merveilleux en moi ne t'épouvante point, et que mon éloquence ne soit pas accablante pour toi.
 
 
 8 Tu as donc dit à mes oreilles, et j'ai entendu la voix de tes paroles :9 Je suis pur et sans péché ; sans tache, et il n'y a point d'iniquité en moi.

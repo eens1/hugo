@@ -10,12 +10,12 @@ summary: |
 
 1 Pour la fin, psaume de David.
 
-***Note*** :  Ps. 18, 1 : Gloire de Dieu, qui se manifeste 1° par l’éclat de ses œuvres dans la nature et 2° par la beauté de sa loi dans l’ordre moral. « Kant se souvenait-il de ce psaume lorsqu’il disait : Il y a deux choses qui excitent en moi une continuelle admiration : le ciel étoilé au-dessus de ma tête et la loi morale dans mon cœur ? » (DE LA JUGIE. ) Plusieurs traits de ce psaume s’appliquent à la prédication des Apôtres, dans le sens spirituel, voir Psaumes, 18, 5 et Romains, 10, 18.
+***Note*** :  Ps. 18, 1 : Gloire de Dieu, qui se manifeste 1° par l’éclat de ses oeuvres dans la nature et 2° par la beauté de sa loi dans l’ordre moral. « Kant se souvenait-il de ce psaume lorsqu’il disait : Il y a deux choses qui excitent en moi une continuelle admiration : le ciel étoilé au-dessus de ma tête et la loi morale dans mon coeur ? » (DE LA JUGIE. ) Plusieurs traits de ce psaume s’appliquent à la prédication des Apôtres, dans le sens spirituel, voir Psaumes, 18, 5 et Romains, 10, 18.
 
 
-2 Les cieux racontent la gloire de Dieu, et le firmament annonce les œuvres de ses mains.
+2 Les cieux racontent la gloire de Dieu, et le firmament annonce les oeuvres de ses mains.
 
-***Note*** :  Ps. 18, 2 : Les cieux. Fondés sur le témoignage de saint Paul (voir Romains, 10, 18), les Pères de l’Eglise entendent ici sous le nom de cieux, les Apôtres et les ministres de l’Evangile. Depuis le lever du soleil, les cieux publient la gloire de celui dont le firmament avait annoncé les œuvres avant que le soleil parût. Depuis que Jésus-Christ est venu, les Apôtres et les ministres de l’Evangile publient la gloire de celui dont les patriarches et les prophètes avaient annoncé les œuvres avant que Jésus-Christ parût.
+***Note*** :  Ps. 18, 2 : Les cieux. Fondés sur le témoignage de saint Paul (voir Romains, 10, 18), les Pères de l’Eglise entendent ici sous le nom de cieux, les Apôtres et les ministres de l’Evangile. Depuis le lever du soleil, les cieux publient la gloire de celui dont le firmament avait annoncé les oeuvres avant que le soleil parût. Depuis que Jésus-Christ est venu, les Apôtres et les ministres de l’Evangile publient la gloire de celui dont les patriarches et les prophètes avaient annoncé les oeuvres avant que Jésus-Christ parût.
 
 ***Note*** :  Ps. 18, 2-3 : Les cieux racontent la gloire de Dieu.
 
@@ -39,10 +39,10 @@ summary: |
 
 8 La loi du Seigneur est sans tache, elle convertit les âmes; le témoignage du Seigneur est fidèle ; il donne la sagesse aux plus petits.
 
-***Note*** :  Ps. 18, 8-11 : Quant à la loi de Dieu, elle est parfaite, réjouissant le cœur, lumineuse, durable, vraie, précieuse.
+***Note*** :  Ps. 18, 8-11 : Quant à la loi de Dieu, elle est parfaite, réjouissant le coeur, lumineuse, durable, vraie, précieuse.
 
 
-9 Les justices du Seigneur sont droites, elles réjouissent les cœurs ; le précepte du Seigneur est plein de lumière, il éclaire les yeux.
+9 Les justices du Seigneur sont droites, elles réjouissent les coeurs ; le précepte du Seigneur est plein de lumière, il éclaire les yeux.
 
 ***Note*** :  Ps. 18, 9 : Les justices ; selon l’hébreu, les commandements, les préceptes. Ces divers mots désignent la loi mosaïque.
 
@@ -69,5 +69,5 @@ summary: |
 ***Note*** :  Ps. 18, 14 : Des étrangers, au peuple hébreu, des Gentils. Selon d’autres : Des fautes d’autrui ; c’est-à-dire des fautes auxquelles on coopère, soit en les commandant, soit en les conseillant, soit en y consentant, etc. A la vérité les Septante et la Vulgate, qui sont amphibologiques, peuvent se prêter à ce sens, mais il n’en est pas de même du texte hébreu.
 
 
-15 Alors les paroles de ma bouche pourront vous plaire aussi bien que la méditation de mon cœur que je ferai toujours en votre présence. Seigneur, mon aide et mon rédempteur.
+15 Alors les paroles de ma bouche pourront vous plaire aussi bien que la méditation de mon coeur que je ferai toujours en votre présence. Seigneur, mon aide et mon rédempteur.
 

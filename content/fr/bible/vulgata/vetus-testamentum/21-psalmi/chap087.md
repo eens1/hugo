@@ -5,15 +5,15 @@ draft: false
 ---
 
 
-1 Canticum Psalmi, Filiis Core, in finem, pro Maheleth ad respondendum, intellectus Eman Ezrahitæ.
+1 Canticum Psalmi, Filiis Core, in finem, pro Maheleth ad respondendum, intellectus Eman Ezrahitae.
 
-2 Domine Deus salutis meæ: in die clamavi, et nocte coram te.
+2 Domine Deus salutis meae: in die clamavi, et nocte coram te.
 
 3 Intret in conspectu tuo oratio mea: inclina aurem tuam ad precem meam:
 
 4 Quia repleta est malis anima mea: et vita mea inferno appropinquavit.
 
-5 Æstimatus sum cum descendentibus in lacum: factus sum sicut homo sine adiutorio,
+5 AEstimatus sum cum descendentibus in lacum: factus sum sicut homo sine adiutorio,
 
 6 inter mortuos liber, Sicut vulnerati dormientes in sepulchris, quorum non es memor amplius: et ipsi de manu tua repulsi sunt.
 
@@ -23,7 +23,7 @@ draft: false
 
 9 Longe fecisti notos meos a me: posuerunt me abominationem sibi. Traditus sum, et non egrediebar:
 
-10 oculi mei languerunt præ inopia. Clamavi ad te Domine tota die: expandi ad te manus meas.
+10 oculi mei languerunt prae inopia. Clamavi ad te Domine tota die: expandi ad te manus meas.
 
 11 Numquid mortuis facies mirabilia: aut medici suscitabunt, et confitebuntur tibi?
 
@@ -31,13 +31,13 @@ draft: false
 
 13 Numquid cognoscentur in tenebris mirabilia tua: et iustitia tua in terra oblivionis?
 
-14 Et ego ad te, Domine, clamavi, et mane oratio mea præveniet te.
+14 Et ego ad te, Domine, clamavi, et mane oratio mea praeveniet te.
 
 15 Ut quid Domine repellis orationem meam: avertis faciem tuam a me?
 
 16 Pauper sum ego, et in laboribus a iuventute mea: exaltatus autem, humiliatus sum et conturbatus.
 
-17 In me transierunt iræ tuæ: et terrores tui conturbaverunt me.
+17 In me transierunt irae tuae: et terrores tui conturbaverunt me.
 
 18 Circumdederunt me sicut aqua tota die: circumdederunt me simul.
 

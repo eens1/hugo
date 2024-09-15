@@ -52,11 +52,11 @@ grande qu’autrefois, versets 21 à 30.
 20 Est-ce que leur élévation n'a pas été entièrement détruite? et leurs restes, un feu ne les a-t-il pas dévorés?
 
 
-21 Soumets-toi donc à Dieu, et tu auras la paix ; et par là tu auras des fruits excellents. 22 Reçois de sa bouche sa loi, et mets ses discours dans ton cœur. 23 Si tu reviens au Tout-Puissant, tu seras rétabli, et tu éloigneras l'iniquité de ton tabernacle. 24 Il te donnera au lieu de terre, un rocher, et au lieu d'un rocher, des torrents d'or.
+21 Soumets-toi donc à Dieu, et tu auras la paix ; et par là tu auras des fruits excellents. 22 Reçois de sa bouche sa loi, et mets ses discours dans ton coeur. 23 Si tu reviens au Tout-Puissant, tu seras rétabli, et tu éloigneras l'iniquité de ton tabernacle. 24 Il te donnera au lieu de terre, un rocher, et au lieu d'un rocher, des torrents d'or.
 
 ***Note*** :  Job 22, 24 : Un rocher. Dans le texte original betser, tranches ou morceaux de métal, soit or ou argent, qu’on coupait pour s’en servir dans les achats et les transactions, avant qu’on eût inventé la monnaie proprement dite.
 
-25 Et le Tout-Puissant sera contre tes ennemis, et l'argent sera mis en monceaux pour toi. 26 Alors tu abonderas en délices dans le Tout-Puissant, et tu élèveras ta face vers Dieu. 27 Tu le prieras, et il t'exaucera, et tu acquitteras tes vœux. 28 Tu décideras une chose, et elle se réalisera pour toi, et sur tes voies brillera la lumière. 29 Car celui qui aura été humilié sera dans la gloire ; et celui qui aura baissé les yeux, celui-là même sera sauvé,
+25 Et le Tout-Puissant sera contre tes ennemis, et l'argent sera mis en monceaux pour toi. 26 Alors tu abonderas en délices dans le Tout-Puissant, et tu élèveras ta face vers Dieu. 27 Tu le prieras, et il t'exaucera, et tu acquitteras tes voeux. 28 Tu décideras une chose, et elle se réalisera pour toi, et sur tes voies brillera la lumière. 29 Car celui qui aura été humilié sera dans la gloire ; et celui qui aura baissé les yeux, celui-là même sera sauvé,
 
 ***Note*** :  Job 22, 29 : Voir Proverbes, 29, 23.
 

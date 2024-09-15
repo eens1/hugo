@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 Hæc sunt iudicia quæ propones eis.
+1 Haec sunt iudicia quae propones eis.
 
-2 Si emeris servum Hebræum, sex annis serviet tibi: in septimo egredietur liber gratis.
+2 Si emeris servum Hebraeum, sex annis serviet tibi: in septimo egredietur liber gratis.
 
 3 Cum quali veste intraverit, cum tali exeat: si habens uxorem, et uxor egredietur simul.
 
@@ -15,15 +15,15 @@ draft: false
 
 5 Quod si dixerit servus: Diligo dominum meum et uxorem ac liberos, non egrediar liber:
 
-6 offeret eum dominus diis, et applicabitur ad ostium et postes, perforabitque aurem eius subula: et erit ei servus in sæculum.
+6 offeret eum dominus diis, et applicabitur ad ostium et postes, perforabitque aurem eius subula: et erit ei servus in saeculum.
 
-7 Si quis vendiderit filiam suam in famulam, non egredietur sicut ancillæ exire consueverunt.
+7 Si quis vendiderit filiam suam in famulam, non egredietur sicut ancillae exire consueverunt.
 
 8 Si displicuerit oculis domini sui cui tradita fuerat, dimittet eam: populo autem alieno vendendi non habebit potestatem, si spreverit eam.
 
 9 Sin autem filio suo desponderit eam, iuxta morem filiarum faciet illi.
 
-10 Quod si alteram ei acceperit, providebit puellæ nuptias, et vestimenta, et pretium pudicitiæ non negabit.
+10 Quod si alteram ei acceperit, providebit puellae nuptias, et vestimenta, et pretium pudicitiae non negabit.
 
 11 Si tria ista non fecerit, egredietur gratis absque pecunia.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 Qui percusserit patrem suum aut matrem, morte moriatur.
 
-16 Qui furatus fuerit hominem, et vendiderit eum, convictus noxæ, morte moriatur.
+16 Qui furatus fuerit hominem, et vendiderit eum, convictus noxae, morte moriatur.
 
 17 Qui maledixerit patri suo, vel matri, morte moriatur.
 
@@ -45,9 +45,9 @@ draft: false
 
 20 Qui percusserit servum suum, vel ancillam virga, et mortui fuerint in manibus eius, criminis reus erit.
 
-21 Sin autem uno die vel duobus supervixerit, non subiacebit pœnæ, quia pecunia illius est.
+21 Sin autem uno die vel duobus supervixerit, non subiacebit poenae, quia pecunia illius est.
 
-22 Si rixati fuerint viri, et percusserit quis mulierem prægnantem, et abortivum quidem fecerit, sed ipsa vixerit: subiacebit damno quantum maritus mulieris expetierit, et arbitri iudicaverint.
+22 Si rixati fuerint viri, et percusserit quis mulierem praegnantem, et abortivum quidem fecerit, sed ipsa vixerit: subiacebit damno quantum maritus mulieris expetierit, et arbitri iudicaverint.
 
 23 Sin autem mors eius fuerit subsecuta, reddet animam pro anima,
 
@@ -55,9 +55,9 @@ draft: false
 
 25 adustionem pro adustione, vulnus pro vulnere, livorem pro livore.
 
-26 Si percusserit quispiam oculum servi sui aut ancillæ, et luscos eos fecerit, dimittet eos liberos pro oculo quem eruit.
+26 Si percusserit quispiam oculum servi sui aut ancillae, et luscos eos fecerit, dimittet eos liberos pro oculo quem eruit.
 
-27 Dentem quoque si excusserit servo vel ancillæ suæ, similiter dimittet eos liberos.
+27 Dentem quoque si excusserit servo vel ancillae suae, similiter dimittet eos liberos.
 
 28 Si bos cornu percusserit virum aut mulierem, et mortui fuerint, lapidibus obruetur: et non comedentur carnes eius, dominus quoque bovis innocens erit.
 
@@ -65,13 +65,13 @@ draft: false
 
 30 Quod si pretium fuerit ei impositum, dabit pro anima sua quidquid fuerit postulatus.
 
-31 Filium quoque et filiam si cornu percusserit, simili sententiæ subiacebit.
+31 Filium quoque et filiam si cornu percusserit, simili sententiae subiacebit.
 
 32 Si servum, ancillamque invaserit, triginta siclos argenti domino dabit, bos vero lapidibus opprimetur.
 
 33 Si quis aperuerit cisternam, et foderit, et non operuerit eam, cecideritque bos aut asinus in eam,
 
-34 reddet dominus cisternæ pretium iumentorum: quod autem mortuum est, ipsius erit.
+34 reddet dominus cisternae pretium iumentorum: quod autem mortuum est, ipsius erit.
 
 35 Si bos alienus bovem alterius vulneraverit, et ille mortuus fuerit: vendent bovem vivum, et divident pretium, cadaver autem mortui inter se dispertient.
 

@@ -9,7 +9,7 @@ draft: false
 
 2 Et irruens super eum (quippe qui lassus est, et solutis manibus) percutiam eum: cumque fugerit omnis populus, qui cum eo est, percutiam regem desolatum.
 
-3 Et reducam universum populum, quomodo unus homo reverti solet: unum enim virum tu quæris: et omnis populus erit in pace.
+3 Et reducam universum populum, quomodo unus homo reverti solet: unum enim virum tu quaeris: et omnis populus erit in pace.
 
 4 Placuitque sermo eius Absalom, et cunctis maioribus natu Israel.
 
@@ -19,7 +19,7 @@ draft: false
 
 7 Et dixit Chusai ad Absalom: Non est bonum consilium, quod dedit Achitophel hac vice.
 
-8 Et rursum intulit Chusai: Tu nosti patrem tuum, et viros, qui cum eo sunt, esse fortissimos et amaro animo, veluti si ursa raptis catulis in saltu sæviat: sed et pater tuus vir bellator est, nec morabitur cum populo.
+8 Et rursum intulit Chusai: Tu nosti patrem tuum, et viros, qui cum eo sunt, esse fortissimos et amaro animo, veluti si ursa raptis catulis in saltu saeviat: sed et pater tuus vir bellator est, nec morabitur cum populo.
 
 9 Forsitan nunc latitat in foveis, aut in uno, quo voluerit, loco: et cum ceciderit unus quilibet in principio, audiet quicumque audierit, et dicet: Facta est plaga in populo qui sequebatur Absalom.
 
@@ -31,7 +31,7 @@ draft: false
 
 13 Quod si urbem aliquam fuerit ingressus, circumdavit omnis Israel civitati illi funes, et trahemus eam in torrentem, ut non reperiatur ne calculus quidem ex ea.
 
-14 Dixitque Absalom, et omnes viri Israel: Melius est consilium Chusai Arachitæ, consilio Achitophel: Domini autem nutu dissipatum est consilium Achitophel utile, ut induceret Dominus super Absalom malum.
+14 Dixitque Absalom, et omnes viri Israel: Melius est consilium Chusai Arachitae, consilio Achitophel: Domini autem nutu dissipatum est consilium Achitophel utile, ut induceret Dominus super Absalom malum.
 
 15 Et ait Chusai Sadoc, et Abiathar sacerdotibus: Hoc et hoc modo consilium dedit Achitophel Absalom, et senioribus Israel: et ego tale et tale dedi consilium.
 
@@ -43,7 +43,7 @@ draft: false
 
 19 Tulit autem mulier, et expandit velamen super os putei, quasi siccans ptisanas: et sic latuit res.
 
-20 Cumque venissent servi Absalom in domum, ad mulierem dixerunt: Ubi est Achimaas et Ionathas? Et respondit eis mulier: Transierunt festinanter, gustata paululum aqua. At hi qui quærebant, cum non reperissent, reversi sunt in Ierusalem.
+20 Cumque venissent servi Absalom in domum, ad mulierem dixerunt: Ubi est Achimaas et Ionathas? Et respondit eis mulier: Transierunt festinanter, gustata paululum aqua. At hi qui quaerebant, cum non reperissent, reversi sunt in Ierusalem.
 
 21 Cumque abiissent, ascenderunt illi de puteo, et pergentes nunciaverunt regi David, et dixerunt: Surgite, et transite cito fluvium: quoniam huiuscemodi dedit consilium contra vos Achitophel.
 
@@ -53,7 +53,7 @@ draft: false
 
 24 David autem venit in Castra, et Absalom transivit Iordanem, ipse et omnes viri Israel cum eo.
 
-25 Amasam vero constituit Absalom pro Ioab super exercitum: Amasa autem erat filius viri, qui vocabatur Ietra de Iesraeli, qui ingressus est ad Abigail filiam Naas, sororem Sarviæ, quæ fuit mater Ioab.
+25 Amasam vero constituit Absalom pro Ioab super exercitum: Amasa autem erat filius viri, qui vocabatur Ietra de Iesraeli, qui ingressus est ad Abigail filiam Naas, sororem Sarviae, quae fuit mater Ioab.
 
 26 Et castrametatus est Israel cum Absalom in Terra Galaad.
 

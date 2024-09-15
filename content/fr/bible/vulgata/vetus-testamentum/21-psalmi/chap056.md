@@ -11,11 +11,11 @@ draft: false
 
 3 Clamabo ad Deum altissimum: Deum qui benefecit mihi.
 
-4 Misit de cælo, et liberavit me: dedit in opprobrium conculcantes me. Misit Deus misericordiam suam, et veritatem suam,
+4 Misit de caelo, et liberavit me: dedit in opprobrium conculcantes me. Misit Deus misericordiam suam, et veritatem suam,
 
-5 et eripuit animam meam de medio catulorum leonum: dormivi conturbatus. Filii hominum dentes eorum arma et sagittæ: et lingua eorum gladius acutus.
+5 et eripuit animam meam de medio catulorum leonum: dormivi conturbatus. Filii hominum dentes eorum arma et sagittae: et lingua eorum gladius acutus.
 
-6 Exaltare super cælos Deus: et in omnem terram gloria tua.
+6 Exaltare super caelos Deus: et in omnem terram gloria tua.
 
 7 Laqueum paraverunt pedibus meis: et incurvaverunt animam meam. Foderunt ante faciem meam foveam: et inciderunt in eam.
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Confitebor tibi in populis Domine: et psalmum dicam tibi in gentibus:
 
-11 Quoniam magnificata est usque ad cælos misericordia tua, et usque ad nubes veritas tua.
+11 Quoniam magnificata est usque ad caelos misericordia tua, et usque ad nubes veritas tua.
 
-12 Exaltare super cælos Deus: et super omnem terram gloria tua.
+12 Exaltare super caelos Deus: et super omnem terram gloria tua.
 

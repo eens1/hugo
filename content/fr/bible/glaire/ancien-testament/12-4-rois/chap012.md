@@ -20,7 +20,7 @@ summary: |
 
 ***Note*** :  IV Rois 12, 3 : Les hauts lieux. Voir Nombres, note 22. 41.
 
-4 Et Joas dit aux prêtres : Quant à tout l'argent des choses saintes qui sera apporté dans le temple du Seigneur, par les passants, qui est offert pour prix d'une âme, et qu'ils portent spontanément, et au gré de leur cœur dans le temple du Seigneur,
+4 Et Joas dit aux prêtres : Quant à tout l'argent des choses saintes qui sera apporté dans le temple du Seigneur, par les passants, qui est offert pour prix d'une âme, et qu'ils portent spontanément, et au gré de leur coeur dans le temple du Seigneur,
 
 
 5 Que les prêtres le prennent, chacun selon son rang, et qu'ils réparent la maison du Seigneur, s'ils voient quelque chose qui ait besoin de réparation. 6 Mais jusqu'à la vingt-troisième année du roi Joas, les prêtres n'avaient point fait les réparations du temple. 7 Le roi Joas appela donc Joïada le pontife, et les prêtres, leur disant : Pourquoi ne faites-vous point les réparations du temple? Ne recevez donc plus d'argent selon votre rang; mais rendez-le pour les réparations de la maison du Seigneur.

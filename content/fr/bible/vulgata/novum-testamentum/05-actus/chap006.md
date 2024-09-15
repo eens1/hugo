@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 In diebus illis, crescente numero discipulorum, factum est murmur Græcorum adversus Hebræos, eo quod despicerentur in ministerio quotidiano viduæ eorum.
+1 In diebus illis, crescente numero discipulorum, factum est murmur Graecorum adversus Hebraeos, eo quod despicerentur in ministerio quotidiano viduae eorum.
 
-2 Convocantes autem duodecim multitudinem discipulorum dixerunt: Non est æquum nos derelinquere verbum Dei, et ministrare mensis.
+2 Convocantes autem duodecim multitudinem discipulorum dixerunt: Non est aequum nos derelinquere verbum Dei, et ministrare mensis.
 
 3 Considerate ergo fratres, viros ex vobis boni testimonii septem, plenos Spiritu sancto, et sapientia, quos constituamus super hoc opus.
 
@@ -21,11 +21,11 @@ draft: false
 
 8 Stephanus autem plenus gratia, et fortitudine faciebat prodigia, et signa magna in populo.
 
-9 Surrexerunt autem quidam de synagoga, quæ appellatur Libertinorum, et Cyrenensium, et Alexandrinorum, et eorum qui erant a Cilicia, et Asia, disputantes cum Stephano:
+9 Surrexerunt autem quidam de synagoga, quae appellatur Libertinorum, et Cyrenensium, et Alexandrinorum, et eorum qui erant a Cilicia, et Asia, disputantes cum Stephano:
 
-10 et non poterant resistere sapientiæ, et Spiritui, qui loquebatur.
+10 et non poterant resistere sapientiae, et Spiritui, qui loquebatur.
 
-11 Tunc summiserunt viros, qui dicerent se audivisse eum dicentem verba blasphemiæ in Moysen, et in Deum.
+11 Tunc summiserunt viros, qui dicerent se audivisse eum dicentem verba blasphemiae in Moysen, et in Deum.
 
 12 Commoverunt itaque plebem, et seniores, et Scribas: et concurrentes rapuerunt eum, et adduxerunt in concilium,
 

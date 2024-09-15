@@ -17,35 +17,35 @@ draft: false
 
 6 Et ait: Ego sum Deus patris tui, Deus Abraham, Deus Isaac, et Deus Iacob. Abscondit Moyses faciem suam: non enim audebat aspicere contra Deum.
 
-7 Cui ait Dominus: Vidi afflictionem populi mei in Ægypto, et clamorem eius audivi propter duritiam eorum qui præsunt operibus:
+7 Cui ait Dominus: Vidi afflictionem populi mei in AEgypto, et clamorem eius audivi propter duritiam eorum qui praesunt operibus:
 
-8 et sciens dolorem eius, descendi ut liberem eum de manibus Ægyptiorum, et educam de terra illa in terram bonam, et spatiosam, in terram quæ fluit lacte et melle, ad loca Chananæi, et Hethæi, et Amorrhæi, et Pherezæi, et Hevæi, et Iebusæi.
+8 et sciens dolorem eius, descendi ut liberem eum de manibus AEgyptiorum, et educam de terra illa in terram bonam, et spatiosam, in terram quae fluit lacte et melle, ad loca Chananaei, et Hethaei, et Amorrhaei, et Pherezaei, et Hevaei, et Iebusaei.
 
-9 Clamor ergo filiorum Israel venit ad me: vidique afflictionem eorum, qua ab Ægyptiis opprimuntur.
+9 Clamor ergo filiorum Israel venit ad me: vidique afflictionem eorum, qua ab AEgyptiis opprimuntur.
 
-10 Sed veni, et mittam te ad Pharaonem, ut educas populum meum, filios Israel de Ægypto.
+10 Sed veni, et mittam te ad Pharaonem, ut educas populum meum, filios Israel de AEgypto.
 
-11 Dixitque Moyses ad Deum: Quis sum ego ut vadam ad Pharaonem, et educam filios Israel de Ægypto?
+11 Dixitque Moyses ad Deum: Quis sum ego ut vadam ad Pharaonem, et educam filios Israel de AEgypto?
 
-12 Qui dixit ei: Ego ero tecum: et hoc habebis signum, quod miserim te: Cum eduxeris populum meum de Ægypto, immolabis Deo super montem istum.
+12 Qui dixit ei: Ego ero tecum: et hoc habebis signum, quod miserim te: Cum eduxeris populum meum de AEgypto, immolabis Deo super montem istum.
 
 13 Ait Moyses ad Deum: Ecce ego vadam ad filios Israel, et dicam eis: Deus patrum vestrorum misit me ad vos. Si dixerint mihi: Quod est nomen eius? quid dicam eis?
 
 14 Dixit Deus ad Moysen: EGO SUM QUI SUM. Ait: Sic dices filiis Israel: QUI EST, misit me ad vos.
 
-15 Dixitque iterum Deus ad Moysen: Hæc dices filiis Israel: Dominus Deus patrum vestrorum, Deus Abraham, Deus Isaac, et Deus Iacob misit me ad vos: hoc nomen mihi est in æternum, et hoc memoriale meum in generationem et generationem.
+15 Dixitque iterum Deus ad Moysen: Haec dices filiis Israel: Dominus Deus patrum vestrorum, Deus Abraham, Deus Isaac, et Deus Iacob misit me ad vos: hoc nomen mihi est in aeternum, et hoc memoriale meum in generationem et generationem.
 
-16 Vade, et congrega seniores Israel, et dices ad eos: Dominus Deus patrum vestrorum apparuit mihi, Deus Abraham, Deus Isaac, et Deus Iacob, dicens: Visitans visitavi vos, et vidi omnia quæ acciderunt vobis in Ægypto:
+16 Vade, et congrega seniores Israel, et dices ad eos: Dominus Deus patrum vestrorum apparuit mihi, Deus Abraham, Deus Isaac, et Deus Iacob, dicens: Visitans visitavi vos, et vidi omnia quae acciderunt vobis in AEgypto:
 
-17 Et dixi ut educam vos de afflictione Ægypti in terram Chananæi et Hethæi et Amorrhæi et Pherezæi et Hevæi et Iebusæi, ad terram fluentem lacte et melle.
+17 Et dixi ut educam vos de afflictione AEgypti in terram Chananaei et Hethaei et Amorrhaei et Pherezaei et Hevaei et Iebusaei, ad terram fluentem lacte et melle.
 
-18 Et audient vocem tuam: ingredierisque tu, et seniores Israel ad regem Ægypti, et dices ad eum: Dominus Deus Hebræorum vocavit nos: ibimus viam trium dierum in solitudinem, ut immolemus Domino Deo nostro.
+18 Et audient vocem tuam: ingredierisque tu, et seniores Israel ad regem AEgypti, et dices ad eum: Dominus Deus Hebraeorum vocavit nos: ibimus viam trium dierum in solitudinem, ut immolemus Domino Deo nostro.
 
-19 Sed ego scio quod non dimittet vos rex Ægypti ut eatis nisi per manum validam.
+19 Sed ego scio quod non dimittet vos rex AEgypti ut eatis nisi per manum validam.
 
-20 Extendam enim manum meam, et percutiam Ægyptum in cunctis mirabilibus meis, quæ facturus sum in medio eorum: post hæc dimittet vos.
+20 Extendam enim manum meam, et percutiam AEgyptum in cunctis mirabilibus meis, quae facturus sum in medio eorum: post haec dimittet vos.
 
-21 Daboque gratiam populo huic coram Ægyptiis: et cum egrediemini, non exibitis vacui:
+21 Daboque gratiam populo huic coram AEgyptiis: et cum egrediemini, non exibitis vacui:
 
-22 sed postulabit mulier a vicina sua, et ab hospita sua, vasa argentea et aurea, ac vestes: ponetisque eas super filios et filias vestras, et spoliabitis Ægyptum.
+22 sed postulabit mulier a vicina sua, et ab hospita sua, vasa argentea et aurea, ac vestes: ponetisque eas super filios et filias vestras, et spoliabitis AEgyptum.
 

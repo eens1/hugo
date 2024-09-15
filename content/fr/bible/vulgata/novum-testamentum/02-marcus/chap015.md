@@ -7,7 +7,7 @@ draft: false
 
 1 Et confestim, mane consilium facientes summi sacerdotes cum senioribus, et Scribis, et universo concilio, vincientes Iesum, duxerunt, et tradiderunt Pilato.
 
-2 Et interrogavit eum Pilatus: Tu es rex Iudæorum? At ille respondens, ait illi: Tu dicis.
+2 Et interrogavit eum Pilatus: Tu es rex Iudaeorum? At ille respondens, ait illi: Tu dicis.
 
 3 Et accusabant eum summi sacerdotes in multis.
 
@@ -19,35 +19,35 @@ draft: false
 
 7 Erat autem qui dicebatur Barrabas, qui cum seditiosis erat vinctus, qui in seditione fecerat homicidium.
 
-8 Et cum ascendisset turba, cœpit rogare, sicut semper faciebat illis.
+8 Et cum ascendisset turba, coepit rogare, sicut semper faciebat illis.
 
-9 Pilatus autem respondit eis, et dixit: Vultis dimittam vobis regem Iudæorum?
+9 Pilatus autem respondit eis, et dixit: Vultis dimittam vobis regem Iudaeorum?
 
 10 Sciebat enim quod per invidiam tradidissent eum summi sacerdotes.
 
 11 Pontifices autem concitaverunt turbam, ut magis Barabbam dimitteret eis.
 
-12 Pilatus autem iterum respondens, ait illis: Quid ergo vultis faciam regi Iudæorum?
+12 Pilatus autem iterum respondens, ait illis: Quid ergo vultis faciam regi Iudaeorum?
 
 13 At illi iterum clamaverunt: Crucifige eum.
 
 14 Pilatus vero dicebat illis: Quid enim mali fecit? At illi magis clamabant: Crucifige eum.
 
-15 Pilatus autem volens populo satisfacere, dimisit illis Barabbam, et tradidit Iesum flagellis cæsum, ut crucifigeretur.
+15 Pilatus autem volens populo satisfacere, dimisit illis Barabbam, et tradidit Iesum flagellis caesum, ut crucifigeretur.
 
-16 Milites autem duxerunt eum in atrium prætorii, et convocant totam cohortem,
+16 Milites autem duxerunt eum in atrium praetorii, et convocant totam cohortem,
 
 17 et induunt eum purpura, et imponunt ei plectentes spineam coronam.
 
-18 Et cœperunt salutare eum: Ave rex Iudæorum.
+18 Et coeperunt salutare eum: Ave rex Iudaeorum.
 
 19 Et percutiebant caput eius arundine: et conspuebant eum, et ponentes genua, adorabant eum.
 
 20 Et postquam illuserunt ei, exuerunt illum purpura, et induerunt eum vestimentis suis: et educunt illum ut crucifigerent eum.
 
-21 Et angariaverunt prætereuntem quempiam, Simonem Cyrenæum venientem de villa, patrem Alexandri, et Rufi, ut tolleret crucem eius.
+21 Et angariaverunt praetereuntem quempiam, Simonem Cyrenaeum venientem de villa, patrem Alexandri, et Rufi, ut tolleret crucem eius.
 
-22 Et perducunt illum in Golgotha locum: quod est interpretatum Calvariæ locus.
+22 Et perducunt illum in Golgotha locum: quod est interpretatum Calvariae locus.
 
 23 Et dabant ei bibere myrrhatum vinum: et non accepit.
 
@@ -55,13 +55,13 @@ draft: false
 
 25 Erat autem hora tertia: et crucifixerunt eum.
 
-26 Et erat titulus causæ eius inscriptus: REX IUDÆORUM.
+26 Et erat titulus causae eius inscriptus: REX IUDAEORUM.
 
 27 Et cum eo crucifigunt duos latrones: unum a dextris, et alium a sinistris eius.
 
-28 Et impleta est scriptura, quæ dicit: Et cum iniquis reputatus est.
+28 Et impleta est scriptura, quae dicit: Et cum iniquis reputatus est.
 
-29 Et prætereuntes blasphemabant eum, moventes capita sua, et dicentes: Vah qui destruis templum Dei, et in tribus diebus reædificas:
+29 Et praetereuntes blasphemabant eum, moventes capita sua, et dicentes: Vah qui destruis templum Dei, et in tribus diebus reaedificas:
 
 30 salvum fac temetipsum descendens de cruce.
 
@@ -69,7 +69,7 @@ draft: false
 
 32 Christus rex Israel descendat nunc de cruce, ut videamus, et credamus. Et qui cum eo crucifixi erant, convitiabantur ei.
 
-33 Et facta hora sexta, tenebræ factæ sunt per totam terram usque in horam nonam.
+33 Et facta hora sexta, tenebrae factae sunt per totam terram usque in horam nonam.
 
 34 Et hora nona exclamavit Iesus voce magna, dicens: Eloi, eloi, lamma sabacthani? quod est interpretatum: Deus meus, Deus meus, ut quid dereliquisti me?
 
@@ -85,11 +85,11 @@ draft: false
 
 40 Erant autem et mulieres de longe aspicientes: inter quas erat Maria Magdalene, et Maria Iacobi minoris, et Ioseph mater, et Salome:
 
-41 et cum esset in Galilæa, sequebantur eum, et ministrabant ei, et aliæ multæ, quæ simul cum eo ascenderant Ierosolymam.
+41 et cum esset in Galilaea, sequebantur eum, et ministrabant ei, et aliae multae, quae simul cum eo ascenderant Ierosolymam.
 
 42 Et cum iam sero esset factum (quia erat parasceve, quod est ante sabbatum)
 
-43 venit Ioseph ab Arimathæa nobilis decurio, qui et ipse erat expectans regnum Dei, et audacter introivit ad Pilatum, et petiit corpus Iesu.
+43 venit Ioseph ab Arimathaea nobilis decurio, qui et ipse erat expectans regnum Dei, et audacter introivit ad Pilatum, et petiit corpus Iesu.
 
 44 Pilatus autem mirabatur si iam obiisset. Et accersito centurione, interrogavit eum si iam mortuus esset.
 

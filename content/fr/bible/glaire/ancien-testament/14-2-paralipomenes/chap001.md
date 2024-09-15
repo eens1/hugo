@@ -36,7 +36,7 @@ summary: |
 ***Note*** :  II Par. 1, 10 : Voir Sagesse, 9, 10. ― Afin que j’entre, etc. Voir Nombres, 27, 17 ; Deutéronome, 28, 6.
 
 
-11 Alors Dieu répondit à Salomon : Parce que cela a plu de préférence à ton cœur, et que tu ne m'as point demandé des richesses, ni des biens, ni de la gloire, ni les âmes de ceux qui te haïssent, ni des jours de vie très nombreux ; mais que tu as demandé de la sagesse et de la science, afin que tu puisses juger mon peuple sur lequel je t'ai établi roi :
+11 Alors Dieu répondit à Salomon : Parce que cela a plu de préférence à ton coeur, et que tu ne m'as point demandé des richesses, ni des biens, ni de la gloire, ni les âmes de ceux qui te haïssent, ni des jours de vie très nombreux ; mais que tu as demandé de la sagesse et de la science, afin que tu puisses juger mon peuple sur lequel je t'ai établi roi :
 
 ***Note*** :  II Par. 1, 11 : Demander, chercher l’âme de quelqu’un est un hébraïsme qui signifie désirer lui ôter, chercher à lui ôter la vie.
 

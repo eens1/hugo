@@ -11,7 +11,7 @@ summary: |
 
 1 Or il arriva que, lorsque Jérémie eut achevé toutes ces prophéties, disant au peuple toutes les paroles du Seigneur leur Dieu, paroles pour lesquelles le Seigneur leur Dieu l'avait envoyé vers eux,
 
-***Note*** :  Jr. 43, 1 : Toutes ces prophéties ; rapportées au chapitre précédent ; littéralement toutes ces paroles (omnia verba hæc).
+***Note*** :  Jr. 43, 1 : Toutes ces prophéties ; rapportées au chapitre précédent ; littéralement toutes ces paroles (omnia verba haec).
 
 2 Azarias, fils d'Osaïas, et Johanan, fils de Carée, et tous les hommes superbes, dirent à Jérémie : Tu parles mensonge, toi; le Seigneur notre Dieu ne t'a pas envoyé, disant : N'entrez point en Egypte afin d'y habiter. 3 Mais Baruch, fils de Nérias, t'excite contre nous, afin de nous livrer aux mains des Chaldéens, afin de nous tuer et de nous faire conduire à Babylone. 4 Et Johanan, fils de Carée, et tous les princes des hommes de guerre et tout le peuple n'écoutèrent pas la voix du Seigneur, afin de demeurer dans la terre de Juda.
 

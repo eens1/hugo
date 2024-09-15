@@ -12,7 +12,7 @@ summary: |
   Démon rentrant.
   Bonheur de la mère de Jésus.
   Signe de Jonas.
-  Œil simple.
+  OEil simple.
   Dehors de la coupe.
   Reproches de Jésus-Christ contre les scribes et les pharisiens.
 ---

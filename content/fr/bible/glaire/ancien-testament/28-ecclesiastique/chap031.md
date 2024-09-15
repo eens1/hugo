@@ -43,13 +43,13 @@ sacrifient, rend la troisième explication assez probable.
 ***Note*** :  Sir. 31, 11 : L’assemblée des saints, des Israélites fidèles.
 
 
-12 Es-tu assis à une grande table? n'ouvre pas le premier ta bouche. 13 Ne dis pas ainsi : Il y a bien des choses qui sont sur cette table ; 14 Souviens-toi qu'un œil mauvais est funeste.
+12 Es-tu assis à une grande table? n'ouvre pas le premier ta bouche. 13 Ne dis pas ainsi : Il y a bien des choses qui sont sur cette table ; 14 Souviens-toi qu'un oeil mauvais est funeste.
 
-***Note*** :  Sir. 31, 14-15 : L’œil mauvais ; c’est l’œil d’un homme avare et avide, qui pleure, lorsqu’il voit manger les autres plus qu’il ne voudrait, regardant cela comme une dépense superflue. C’est dans ce même esprit d’avarice que Judas se plaignit si amèrement de ce que Marie, sœur de Lazare, oignait les pieds de Jésus avec un parfum de grand prix. ― Lorsqu’il verra ; selon le grec : Là où il regardera ; et suivant la version Sixtine : Partout où il regardera. Dans l’un et dans l’autre textes, ces mots font partie du verset suivant ; dans l’édition latine de Turin, que nous suivons et qui a été approuvée par le Saint-Siège, ils sont rangés dans le 15e , mais la ponctuation les rattache au 16; de manière que le sens paraît être : Sur les mets sur lesquels il fixera ses yeux, ne porte pas la main le premier, de peur que par des manières ou des paroles insinuantes, inspirées par l’envie, il ne te fasse passer pour un indiscret et un gourmand, ce qui te flétrirait aux yeux des convives, et te couvrirait de
+***Note*** :  Sir. 31, 14-15 : L’oeil mauvais ; c’est l’oeil d’un homme avare et avide, qui pleure, lorsqu’il voit manger les autres plus qu’il ne voudrait, regardant cela comme une dépense superflue. C’est dans ce même esprit d’avarice que Judas se plaignit si amèrement de ce que Marie, soeur de Lazare, oignait les pieds de Jésus avec un parfum de grand prix. ― Lorsqu’il verra ; selon le grec : Là où il regardera ; et suivant la version Sixtine : Partout où il regardera. Dans l’un et dans l’autre textes, ces mots font partie du verset suivant ; dans l’édition latine de Turin, que nous suivons et qui a été approuvée par le Saint-Siège, ils sont rangés dans le 15e , mais la ponctuation les rattache au 16; de manière que le sens paraît être : Sur les mets sur lesquels il fixera ses yeux, ne porte pas la main le premier, de peur que par des manières ou des paroles insinuantes, inspirées par l’envie, il ne te fasse passer pour un indiscret et un gourmand, ce qui te flétrirait aux yeux des convives, et te couvrirait de
 confusion.
 
 
-15 Qu'a-t-il été créé de plus mauvais que l'œil? c'est pour cela qu'il pleurera de toute sa force : lorsqu'il verra, 16 N'étends pas ta main le premier, de peur que flétri par l'envie, tu n'aies à rougir. 17 Ne t'empresse pas dans un festin. 18 Juge les choses qui regardent ton prochain d'après toi-même;
+15 Qu'a-t-il été créé de plus mauvais que l'oeil? c'est pour cela qu'il pleurera de toute sa force : lorsqu'il verra, 16 N'étends pas ta main le premier, de peur que flétri par l'envie, tu n'aies à rougir. 17 Ne t'empresse pas dans un festin. 18 Juge les choses qui regardent ton prochain d'après toi-même;
 
 
 19 Use comme un homme tempérant de ce qui t'est servi, de peur que mangeant beaucoup tu ne te rendes odieux. 20 Cesse le premier par bienséance ; et évite l'excès, pour ne pas choquer.
@@ -66,7 +66,7 @@ confusion.
 
 ***Note*** :  Sir. 31, 25 : Conseil médical, qui n’a d’ailleurs rien de commun avec la pratique des Romains dégénérés, interrompant de cette manière leurs festins par intempérance.
 
-26 Ecoute-moi, mon fils, et ne me méprise point, et à la fin tu trouveras mes paroles vraies. 27 Dans toutes tes œuvres sois diligent, et aucune infirmité ne tombera sur toi. 28 Les lèvres de la multitude béniront celui qui est splendide dans les repas qu'il donne; et le témoignage en faveur de sa vérité sera fidèle.
+26 Ecoute-moi, mon fils, et ne me méprise point, et à la fin tu trouveras mes paroles vraies. 27 Dans toutes tes oeuvres sois diligent, et aucune infirmité ne tombera sur toi. 28 Les lèvres de la multitude béniront celui qui est splendide dans les repas qu'il donne; et le témoignage en faveur de sa vérité sera fidèle.
 
 ***Note*** :  Sir. 31, 28 : De sa vérité ou de sa justice, de son équité (veritatis illius), ou mieux, selon le grec et la version Sixtine, selon sa bonté ; ce qui est en effet plus conforme au contexte.
 
@@ -75,7 +75,7 @@ confusion.
 ***Note*** :  Sir. 31, 30 : Voir Judith, 13, 4-11.
 
 
-31 Le feu éprouve le fer le plus dur, de même le vin bu jusqu'à l'ivresse fera connaître les cœurs des superbes. 32 C'est une vie favorable aux hommes que le vin bu avec sobriété ; si tu en bois modérément, tu seras sobre. 33 Quelle est la vie pour celui qui manque de vin?
+31 Le feu éprouve le fer le plus dur, de même le vin bu jusqu'à l'ivresse fera connaître les coeurs des superbes. 32 C'est une vie favorable aux hommes que le vin bu avec sobriété ; si tu en bois modérément, tu seras sobre. 33 Quelle est la vie pour celui qui manque de vin?
 
 ***Note*** :  Sir. 31, 33 : Qui manque de vin ; c’est le sens de qui minuitur vino, expliqué par le texte grec, et par les versets 35 à 37 de la Vulgate elle-même. Comparer aussi, en faveur de ce sens, à Psaumes, 103, 15 ; Proverbes, 31, 6-7 ; 1 Timothée, 5, 23.
 
@@ -83,7 +83,7 @@ confusion.
 
 ***Note*** :  Sir. 31, 35 : Voir Psaumes, 103, 15.
 
-36 C'est l'exultation de l'âme et du cœur, que le vin bu modérément. 37 C'est la santé pour l'âme et pour le corps, que de boire sobrement. 38 Le vin bu en grande quantité produit l'irritation, et la colère, et beaucoup de ruines.
+36 C'est l'exultation de l'âme et du coeur, que le vin bu modérément. 37 C'est la santé pour l'âme et pour le corps, que de boire sobrement. 38 Le vin bu en grande quantité produit l'irritation, et la colère, et beaucoup de ruines.
 
 ***Note*** :  Sir. 31, 38 : Voir Proverbes, 31, 4.
 

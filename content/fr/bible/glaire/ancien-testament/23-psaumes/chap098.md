@@ -38,7 +38,7 @@ summary: |
 
 8 Seigneur notre Dieu, vous les exauciez : ô Dieu, vous leur avez été propice, mais en vous vengeant de toutes leurs inventions.
 
-***Note*** :  Ps. 98, 8 : Mais en vous vengeant ; lors même que vous les punissiez. ― Inventions ; c’est-à-dire, comme porte le texte hébreu, actions ; mot qui se prend toujours en mauvaise part, dans l’Ecriture, quand il s’agit des actions, des œuvres des hommes.
+***Note*** :  Ps. 98, 8 : Mais en vous vengeant ; lors même que vous les punissiez. ― Inventions ; c’est-à-dire, comme porte le texte hébreu, actions ; mot qui se prend toujours en mauvaise part, dans l’Ecriture, quand il s’agit des actions, des oeuvres des hommes.
 
 9 Exaltez le Seigneur notre Dieu, adorez-le sur sa montagne sainte; parce qu'il est sainte le Seigneur notre Dieu.
 

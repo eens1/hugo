@@ -21,7 +21,7 @@ summary: |
 3 Rendez gloire au Seigneur, enfants d'Israël, et, en la présence des nations, louez-le, 4 Parce qu'il vous a dispersés parmi les nations qui l'ignorent, uniquement afin que vous-mêmes leur racontiez ses merveilles, et que vous leur fassiez savoir qu'il n'y a aucun autre Dieu tout-puissant, hors lui.
 
 
-5 C'est lui qui nous a châtiés à cause de nos iniquités, et c'est lui qui nous sauvera à cause de sa miséricorde. 6 Considérez donc ce qu'il nous a fait, et avec crainte et tremblement rendez-lui gloire; et exaltez le roi des siècles dans vos œuvres.
+5 C'est lui qui nous a châtiés à cause de nos iniquités, et c'est lui qui nous sauvera à cause de sa miséricorde. 6 Considérez donc ce qu'il nous a fait, et avec crainte et tremblement rendez-lui gloire; et exaltez le roi des siècles dans vos oeuvres.
 
 
 7 Et moi, dans la terre de ma captivité, je lui rendrai gloire, parce qu'il a manifesté sa majesté sur une nation pécheresse. 8 Convertissez-vous donc à lui, pécheurs; pratiquez la justice devant Dieu, croyant qu'il exercera envers vous sa miséricorde. 9 Pour moi, et mon âme, c'est en lui que nous nous livrerons à l'allégresse.
@@ -32,7 +32,7 @@ summary: |
 10 Bénissez le Seigneur, vous tous ses élus; célébrez des jours de réjouissance, et rendez-lui gloire.
 
 
-11 Jérusalem, cité de Dieu, le Seigneur t'a châtiée à cause des œuvres de tes mains.
+11 Jérusalem, cité de Dieu, le Seigneur t'a châtiée à cause des oeuvres de tes mains.
 
 ***Note*** :  Tobie 13, 11 : Jérusalem ne fut détruite que plus de 70 ans après la mort de Tobie, qui, comme prophète, emploie le prétérit pour le futur.
 

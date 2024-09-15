@@ -23,7 +23,7 @@ summary: |
 
 6 Ordonnez donc que vos serviteurs coupent pour moi des cèdres du Liban, et que mes serviteurs soient avec les vôtres ; quant à la récompense de vos serviteurs, je vous la donnerai telle que vous la demanderez ; car vous savez que parmi mon peuple, il n'est pas d'homme qui sache couper le bois comme les Sidoniens.
 
-***Note*** :  III Rois 5, 6 : Des cèdres. Le bois de cèdre était particulièrement estimé dans l’antiquité et méritait de l’être. On peut l’employer avec grand avantage dans les œuvres d’architecture. On le regardait comme incorruptible ; il est du moins d’une grande durée. Il peut servir à toute sorte d’usages et c’est comme l’arbre par excellence pour les constructions. Le tronc d’un des cèdres séculaires qui subsistent encore sur le Liban a treize mètres quatre-vingts centimètres de circonférence.
+***Note*** :  III Rois 5, 6 : Des cèdres. Le bois de cèdre était particulièrement estimé dans l’antiquité et méritait de l’être. On peut l’employer avec grand avantage dans les oeuvres d’architecture. On le regardait comme incorruptible ; il est du moins d’une grande durée. Il peut servir à toute sorte d’usages et c’est comme l’arbre par excellence pour les constructions. Le tronc d’un des cèdres séculaires qui subsistent encore sur le Liban a treize mètres quatre-vingts centimètres de circonférence.
 
 7 Lors donc qu'Hiram eut entendu les paroles de Salomon, il se réjouit beaucoup, et dit : Béni aujourd'hui le Seigneur Dieu, qui a donné à David un fils très sage pour gouverner ce très grand peuple !8 Et Hiram envoya vers Salomon, disant : J'ai entendu tout ce que vous m'avez mandé ; je ferai tout ce que vous désirez pour les bois de cèdre et de sapin.
 

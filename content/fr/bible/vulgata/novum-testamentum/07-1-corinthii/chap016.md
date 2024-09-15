@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 De collectis autem, quæ fiunt in sanctos, sicut ordinavi Ecclesiis Galatiæ, ita et vos facite.
+1 De collectis autem, quae fiunt in sanctos, sicut ordinavi Ecclesiis Galatiae, ita et vos facite.
 
-2 Per unam sabbati unusquisque vestrum apud se seponat, recondens quod ei bene placuerit: ut non, cum venero, tunc collectæ fiant.
+2 Per unam sabbati unusquisque vestrum apud se seponat, recondens quod ei bene placuerit: ut non, cum venero, tunc collectae fiant.
 
-3 Cum autem præsens fuero: quos probaveritis per epistolas, hos mittam perferre gratiam vestram in Ierusalem.
+3 Cum autem praesens fuero: quos probaveritis per epistolas, hos mittam perferre gratiam vestram in Ierusalem.
 
 4 Quod si dignum fuerit ut et ego eam, mecum ibunt.
 
@@ -33,15 +33,15 @@ draft: false
 
 14 omnia vestra in charitate fiant.
 
-15 Obsecro autem vos fratres, nostis domum Stephanæ, et Fortunati, et Achaici: quoniam sunt primitiæ Achaiæ, et in ministerium sanctorum ordinaverunt seipsos:
+15 Obsecro autem vos fratres, nostis domum Stephanae, et Fortunati, et Achaici: quoniam sunt primitiae Achaiae, et in ministerium sanctorum ordinaverunt seipsos:
 
 16 ut et vos subditi sitis eiusmodi, et omni cooperanti, et laboranti.
 
-17 Gaudeo autem in præsentia Stephanæ, et Fortunati, et Achaici: quoniam id, quod vobis deerat, ipsi suppleverunt:
+17 Gaudeo autem in praesentia Stephanae, et Fortunati, et Achaici: quoniam id, quod vobis deerat, ipsi suppleverunt:
 
 18 refecerunt enim et meum spiritum, et vestrum. Cognoscite ergo qui huiusmodi sunt.
 
-19 Salutant vos Ecclesiæ Asiæ. Salutant vos in Domino multum, Aquila, et Priscilla cum domestica sua ecclesia: apud quos et hospitor.
+19 Salutant vos Ecclesiae Asiae. Salutant vos in Domino multum, Aquila, et Priscilla cum domestica sua ecclesia: apud quos et hospitor.
 
 20 Salutant vos omnes fratres. Salutate invicem in osculo sancto.
 

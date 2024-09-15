@@ -4,13 +4,13 @@ date: 2024-09-06T20:00:36+02:00
 draft: false
 summary: |
   
-  Amnon, fils de David, commet un inceste avec Thamar, sœur d’Absalom.
+  Amnon, fils de David, commet un inceste avec Thamar, soeur d’Absalom.
   Son amour se change en haine contre elle.
   Absalom fait tuer Amnon, et se sauve chez Tholomaï, roi de Gessur.
 ---
 
 
-1 Or, il arriva après cela, qu'Amnon, fils de David, s'éprit d'amour pour la sœur d'Absalom, fils de David, femme très belle, du nom de Thamar ; 2 Et il l'aimait éperdument, à un tel point, qu'à cause de son amour il était malade, parce que comme elle était vierge, il lui paraissait difficile de rien faire déshonnêtement avec elle. 3 Or, Amnon avait un ami, du nom de Jonadab, fils de Semmaa, frère de David, homme très prudent, 4 Lequel lui demanda : Pourquoi, fils du roi, maigris-tu ainsi chaque jour? pourquoi ne me le dis-tu point? Et Amnon lui répondit : J'aime Thamar, la sœur de mon frère Absalom. 5 Jonadab lui dit : Couche-toi sur ton lit et feins une maladie ; et lorsque ton père viendra pour te visiter, dis-lui : Que Thamar, ma sœur, vienne, je vous prie, afin qu'elle me donne de la nourriture , et qu'elle me fasse un mets, pour que je mange de sa main. 6 C'est pourquoi Amnon se coucha, et commença à feindre d'être malade ; et lorsque le roi fut venu pour le visiter, Amnon dit au roi : Que Thamar, ma sœur,
+1 Or, il arriva après cela, qu'Amnon, fils de David, s'éprit d'amour pour la soeur d'Absalom, fils de David, femme très belle, du nom de Thamar ; 2 Et il l'aimait éperdument, à un tel point, qu'à cause de son amour il était malade, parce que comme elle était vierge, il lui paraissait difficile de rien faire déshonnêtement avec elle. 3 Or, Amnon avait un ami, du nom de Jonadab, fils de Semmaa, frère de David, homme très prudent, 4 Lequel lui demanda : Pourquoi, fils du roi, maigris-tu ainsi chaque jour? pourquoi ne me le dis-tu point? Et Amnon lui répondit : J'aime Thamar, la soeur de mon frère Absalom. 5 Jonadab lui dit : Couche-toi sur ton lit et feins une maladie ; et lorsque ton père viendra pour te visiter, dis-lui : Que Thamar, ma soeur, vienne, je vous prie, afin qu'elle me donne de la nourriture , et qu'elle me fasse un mets, pour que je mange de sa main. 6 C'est pourquoi Amnon se coucha, et commença à feindre d'être malade ; et lorsque le roi fut venu pour le visiter, Amnon dit au roi : Que Thamar, ma soeur,
 vienne, je vous conjure, afin qu'elle fasse sous mes yeux deux petits bouillons, et que je prenne de la nourriture de sa main.
 
 
@@ -18,7 +18,7 @@ vienne, je vous conjure, afin qu'elle fasse sous mes yeux deux petits bouillons,
 
 ***Note*** :  II Rois 13, 9 : Elle le versa dans un vase, ou un plat.
 
-10 Amnon dit à Thamar : Porte le mets dans la chambre, afin que je le mange de ta main. Thamar donc prit les deux petits bouillons qu'elle avait faits, et les porta à Amnon son frère dans la chambre. 11 Et lorsqu'elle lui eut présenté le mets, il la saisit, et dit : Viens, repose avec moi, ma sœur. 12 Thamar lui répondit : Non, mon frère, ne me fais pas violence ; car cela n'est pas permis en Israël ; ne fais pas cette folie. 13 Car moi, je ne pourrai supporter mon opprobre, et toi, tu seras comme un des insensés en Israël ; mais plutôt parle au roi, et il ne me refusera pas à toi.
+10 Amnon dit à Thamar : Porte le mets dans la chambre, afin que je le mange de ta main. Thamar donc prit les deux petits bouillons qu'elle avait faits, et les porta à Amnon son frère dans la chambre. 11 Et lorsqu'elle lui eut présenté le mets, il la saisit, et dit : Viens, repose avec moi, ma soeur. 12 Thamar lui répondit : Non, mon frère, ne me fais pas violence ; car cela n'est pas permis en Israël ; ne fais pas cette folie. 13 Car moi, je ne pourrai supporter mon opprobre, et toi, tu seras comme un des insensés en Israël ; mais plutôt parle au roi, et il ne me refusera pas à toi.
 
 ***Note*** :  II Rois 13, 13 : Il ne me refusera pas à toi ; construction elliptique, pour : Il ne me refusera pas de me donner à toi en mariage.
 
@@ -26,7 +26,7 @@ vienne, je vous conjure, afin qu'elle fasse sous mes yeux deux petits bouillons,
 
 ***Note*** :  II Rois 13, 19 : Comme nous l’avons déjà fait observer, on déchirait ses vêtements en signe de deuil et de douleur.
 
-20 Or, Absalom, son frère, lui demanda : Est-ce qu'Amnon, ton frère, a dormi avec toi ? Mais maintenant, ma sœur, garde le silence, c'est ton frère ; n'afflige pas ton cœur pour cela. C'est pourquoi Thamar demeura, se desséchant, dans la maison d'Absalom, son frère. 21 Mais lorsque le roi David eut appris ces choses, il fut très centriste, et il ne voulut point contrister l'esprit d'Amnon, son fils, car il le chérissait, parce qu'il était son premier-né. 22 Or, Absalom ne dit rien à Amnon, ni mal, ni bien ; car Absalom haïssait Amnon, parce qu'il avait violé Thamar, sa sœur.
+20 Or, Absalom, son frère, lui demanda : Est-ce qu'Amnon, ton frère, a dormi avec toi ? Mais maintenant, ma soeur, garde le silence, c'est ton frère ; n'afflige pas ton coeur pour cela. C'est pourquoi Thamar demeura, se desséchant, dans la maison d'Absalom, son frère. 21 Mais lorsque le roi David eut appris ces choses, il fut très centriste, et il ne voulut point contrister l'esprit d'Amnon, son fils, car il le chérissait, parce qu'il était son premier-né. 22 Or, Absalom ne dit rien à Amnon, ni mal, ni bien ; car Absalom haïssait Amnon, parce qu'il avait violé Thamar, sa soeur.
 
 
 23 Mais il arriva, après un intervalle de deux ans, qu'on tondait les brebis d'Absalom, à Baalhasor près d'Ephraïm; et Absalom appela tous les fils du roi.
@@ -39,9 +39,9 @@ vienne, je vous conjure, afin qu'elle fasse sous mes yeux deux petits bouillons,
 28 Et Absalom avait ordonné à ses serviteurs, disant : Faites attention, lorsqu'Amnon sera troublé par le vin, et que je vous dirai : Frappez-le , et le tuez ; ne craignez point; car c'est moi qui vous l'ordonne. Fortifiez-vous, et soyez des hommes courageux. 29 Les serviteurs d'Absalom firent donc contre Amnon, comme leur avait ordonné Absalom. Et tous les fils du roi se levant montèrent chacun sur leur mule, et s'enfuirent.
 
 
-30 Et comme ils poursuivaient encore leur chemin, le bruit en vint jusqu'à David ; on dit : Absalom a tué tous les fils du roi ; il n'en est pas resté même un seul. 31 C'est pourquoi le roi se leva, et déchira ses vêtements, et tomba sur la terre ; et tous ses serviteurs qui étaient près de lui déchirèrent leurs vêtements. 32 Or, Jonadab, fils de Semmaa, frère de David , prenant la parole, dit : Que mon seigneur le roi ne croie pas que tous les jeunes hommes fils du roi aient été tués : Amnon seul est mort, parce qu'il avait été mis dans la bouche d'Absalom, depuis le jour qu'il fit violence à Thamar, sa sœur.
+30 Et comme ils poursuivaient encore leur chemin, le bruit en vint jusqu'à David ; on dit : Absalom a tué tous les fils du roi ; il n'en est pas resté même un seul. 31 C'est pourquoi le roi se leva, et déchira ses vêtements, et tomba sur la terre ; et tous ses serviteurs qui étaient près de lui déchirèrent leurs vêtements. 32 Or, Jonadab, fils de Semmaa, frère de David , prenant la parole, dit : Que mon seigneur le roi ne croie pas que tous les jeunes hommes fils du roi aient été tués : Amnon seul est mort, parce qu'il avait été mis dans la bouche d'Absalom, depuis le jour qu'il fit violence à Thamar, sa soeur.
 
-***Note*** :  II Rois 13, 32 : Il avait été mis dans la bouche Absalom ; c’est-à-dire probablement, qu’Absalom avait proféré le serment, ou avait donné l’ordre de détruire Amnon. L’hébreu est susceptible de ces deux sens ; le chaldéen porte dans le cœur d’Absalom.
+***Note*** :  II Rois 13, 32 : Il avait été mis dans la bouche Absalom ; c’est-à-dire probablement, qu’Absalom avait proféré le serment, ou avait donné l’ordre de détruire Amnon. L’hébreu est susceptible de ces deux sens ; le chaldéen porte dans le coeur d’Absalom.
 
 33 Maintenant donc, que mon seigneur le roi ne mette point cela en son esprit, disant : Tous les fils du roi ont été tués, puisqu'Amnon seul est mort. 34 Mais Absalom s'enfuit, et la jeune sentinelle leva ses yeux, et regarda; et voilà qu'un peuple nombreux venait par un chemin détourné du côté de la montagne.
 

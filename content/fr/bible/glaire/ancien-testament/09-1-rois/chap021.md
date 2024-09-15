@@ -39,9 +39,9 @@ summary: |
 ***Note*** :  I Rois 21, 10 : Geth, l’une des cinq villes principales des Philistins.
 
 
-11 Et les serviteurs d'Achis lui dirent, lorsqu'ils eurent vu David ; N'est-ce pas ce David, le roi de la terre? N'est-ce pas pour lui qu'on chantait dans les chœurs, en disant : Saül en a tué mille, et David dix mille?
+11 Et les serviteurs d'Achis lui dirent, lorsqu'ils eurent vu David ; N'est-ce pas ce David, le roi de la terre? N'est-ce pas pour lui qu'on chantait dans les choeurs, en disant : Saül en a tué mille, et David dix mille?
 
 ***Note*** :  I Rois 21, 11 : Voir 1 Rois, 18, 7 ; Ecclésiastique, 47, 7. ― Le roi de la terre ; c’est-à-dire comme le roi de son pays ; ou plutôt le roi de ce pays-ci, selon les conditions du combat dans lequel il a terrassé Goliath. Voir 1 Rois, 17, 9.
 
-12 Mais David recueillit ces paroles en son cœur, et il craignit beaucoup de la part d'Achis, roi de Geth; 13 Aussi il changea de visage devant eux; et il tombait entre leurs mains, et il se heurtait contre les battants de la porte, et sa salive découlait sur sa barbe. 14 Et Achis dit à ses serviteurs: Vous avez vu un homme insensé ; pourquoi l'avez-vous amené vers moi? 15 Est-ce que les furieux nous manquent, que vous avez introduit celui-ci, pour qu'il délire, moi présent? Est-ce que cet homme entrera dans ma maison?
+12 Mais David recueillit ces paroles en son coeur, et il craignit beaucoup de la part d'Achis, roi de Geth; 13 Aussi il changea de visage devant eux; et il tombait entre leurs mains, et il se heurtait contre les battants de la porte, et sa salive découlait sur sa barbe. 14 Et Achis dit à ses serviteurs: Vous avez vu un homme insensé ; pourquoi l'avez-vous amené vers moi? 15 Est-ce que les furieux nous manquent, que vous avez introduit celui-ci, pour qu'il délire, moi présent? Est-ce que cet homme entrera dans ma maison?
 

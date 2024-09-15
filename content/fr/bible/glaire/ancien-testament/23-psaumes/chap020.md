@@ -20,9 +20,9 @@ summary: |
 
 ***Note*** :  Ps. 20, 2-3 : Le roi se réjouit de sa victoire.
 
-3 Vous lui avez accordé le désir de son cœur; et vous n'avez pas trompé le vœu de ses lèvres ;
+3 Vous lui avez accordé le désir de son coeur; et vous n'avez pas trompé le voeu de ses lèvres ;
 
-***Note*** :  Ps. 20, 3 : Le vœu de ses lèvres ; le désir ardent exprimé par ses lèvres.
+***Note*** :  Ps. 20, 3 : Le voeu de ses lèvres ; le désir ardent exprimé par ses lèvres.
 
 
 4 Puisque vous l'avez prévenu des bénédictions les plus douces ; vous avez mis sur sa tête une couronne de pierres précieuses.

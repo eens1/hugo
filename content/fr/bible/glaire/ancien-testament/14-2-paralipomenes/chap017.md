@@ -15,7 +15,7 @@ summary: |
 
 ***Note*** :  II Par. 17, 3 : Les premières voies, etc. ; c’est-à-dire la conduite irréprochable que David avait tenue avant de commettre les péchés dont il se rendit ensuite coupable ; car, quoiqu’il les ait expiés par une sincère pénitence, c’est néanmoins ce qui donne lieu de distinguer particulièrement ses premières voies. ― Dans les Baalim. Voir Juges, 2, 11.
 
-4 Mais dans le Dieu de son père; et il marcha dans ses préceptes, et non selon les péchés d'Israël. 5 Et le Seigneur affermit le royaume en sa main, et tout Juda donna des présents à Josaphat ; et il lui vint d'immenses richesses et beaucoup de gloire. 6 Et, son cœur ayant pris de la hardiesse à cause des voies du Seigneur, il enleva de Juda même les hauts lieux et les bois sacrés.
+4 Mais dans le Dieu de son père; et il marcha dans ses préceptes, et non selon les péchés d'Israël. 5 Et le Seigneur affermit le royaume en sa main, et tout Juda donna des présents à Josaphat ; et il lui vint d'immenses richesses et beaucoup de gloire. 6 Et, son coeur ayant pris de la hardiesse à cause des voies du Seigneur, il enleva de Juda même les hauts lieux et les bois sacrés.
 
 
 7 Or, la troisième année de son règne, il envoya d'entre ses princes, Benhaïl, Obdias, Zacharie, Nathanaël et Michée, pour instruire dans les villes de Juda. 8 Et avec eux les Lévites Séméias , Nathanias et Zabadias, Asaël, Sémiramoth et Jonathan, Adonias, Tobias et Thobadonias, et avec eux Elisama et Joran, prêtres. 9 Et ils instruisaient le peuple en Juda, ayant le livre de la loi du Seigneur; ainsi ils parcouraient toutes les villes de Juda, et ils enseignaient le peuple.

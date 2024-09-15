@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Qui facit misericordiam, fœneratur proximo suo: et qui prævalet manu, mandata servat.
+1 Qui facit misericordiam, foeneratur proximo suo: et qui praevalet manu, mandata servat.
 
-2 Fœnerare proximo tuo in tempore necessitatis illius, et iterum redde proximo in tempore suo.
+2 Foenerare proximo tuo in tempore necessitatis illius, et iterum redde proximo in tempore suo.
 
 3 Confirma verbum, et fideliter age cum illo: et in omni tempore invenies quod tibi necessarium est.
 
-4 Multi quasi inventionem æstimaverunt fœnus, et præstiterunt molestiam his, qui se adiuverunt.
+4 Multi quasi inventionem aestimaverunt foenus, et praestiterunt molestiam his, qui se adiuverunt.
 
 5 Donec accipiant, osculantur manus dantis, et in promissionibus humiliant vocem suam:
 
-6 et in tempore redditionis postulabit tempus, et loquetur verba tædii et murmurationum, et tempus causabitur:
+6 et in tempore redditionis postulabit tempus, et loquetur verba taedii et murmurationum, et tempus causabitur:
 
 7 si autem potuerit reddere, adversabitur, solidi vix reddet dimidium, et computabit illud quasi inventionem:
 
@@ -23,7 +23,7 @@ draft: false
 
 9 et convitia et maledicta reddet illi, et pro honore et beneficio reddet illi contumeliam.
 
-10 Multi non causa nequitiæ non fœnerati sunt, sed fraudari gratis timuerunt.
+10 Multi non causa nequitiae non foenerati sunt, sed fraudari gratis timuerunt.
 
 11 Verumtamen super humilem animo fortior esto, et pro eleemosyna non trahas illum.
 
@@ -31,9 +31,9 @@ draft: false
 
 13 Perde pecuniam propter fratrem et amicum tuum: et non abscondas illam sub lapide in perditionem.
 
-14 Pone thesaurum tuum in præceptis Altissimi, et proderit tibi magis quam aurum.
+14 Pone thesaurum tuum in praeceptis Altissimi, et proderit tibi magis quam aurum.
 
-15 Conclude eleemosynam in corde pauperis, et hæc pro te exorabit ab omni malo.
+15 Conclude eleemosynam in corde pauperis, et haec pro te exorabit ab omni malo.
 
 16 Super scutum potentis, et super lanceam
 
@@ -57,19 +57,19 @@ draft: false
 
 26 Recupera proximum secundum virtutem tuam, et attende tibi ne incidas.
 
-27 Initium vitæ hominis aqua et panis, et vestimentum, et domus protegens turpitudinem.
+27 Initium vitae hominis aqua et panis, et vestimentum, et domus protegens turpitudinem.
 
-28 Melior est victus pauperis sub tegmine asserum, quam epulæ splendidæ in peregre sine domicilio.
+28 Melior est victus pauperis sub tegmine asserum, quam epulae splendidae in peregre sine domicilio.
 
 29 Minimum pro magno placeat tibi, et improperium peregrinationis non audies.
 
 30 Vita nequam hospitandi de domo in domum: et ubi hospitabitur, non fiducialiter aget, nec aperiet os.
 
-31 Hospitabitur, et pascet, et potabit ingratos, et ad hæc amara audiet.
+31 Hospitabitur, et pascet, et potabit ingratos, et ad haec amara audiet.
 
-32 Transi hospes, et orna mensam: et quæ in manu habes, ciba ceteros.
+32 Transi hospes, et orna mensam: et quae in manu habes, ciba ceteros.
 
-33 Exi a facie honoris amicorum meorum: necessitudine domus meæ hospitio mihi factus est frater.
+33 Exi a facie honoris amicorum meorum: necessitudine domus meae hospitio mihi factus est frater.
 
-34 Gravia hæc homini habenti sensum: Correptio domus, et improperium fœneratoris.
+34 Gravia haec homini habenti sensum: Correptio domus, et improperium foeneratoris.
 

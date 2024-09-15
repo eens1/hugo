@@ -5,33 +5,33 @@ draft: false
 ---
 
 
-1 Et regnavit rex Sedecias filius Iosiæ pro Iechonia filio Ioakim: quem constituit regem Nabuchodonosor rex Babylonis in Terra Iuda:
+1 Et regnavit rex Sedecias filius Iosiae pro Iechonia filio Ioakim: quem constituit regem Nabuchodonosor rex Babylonis in Terra Iuda:
 
-2 Et non obedivit ipse, et servi eius, et populus terræ verbis Domini, quæ locutus est in manu Ieremiæ prophetæ.
+2 Et non obedivit ipse, et servi eius, et populus terrae verbis Domini, quae locutus est in manu Ieremiae prophetae.
 
-3 Et misit rex Sedecias Iuchal filium Selemiæ, et Sophoniam filium Maasiæ sacerdotem ad Ieremiam prophetam, dicens: Ora pro nobis Dominum Deum nostrum.
+3 Et misit rex Sedecias Iuchal filium Selemiae, et Sophoniam filium Maasiae sacerdotem ad Ieremiam prophetam, dicens: Ora pro nobis Dominum Deum nostrum.
 
-4 Ieremias autem libere ambulabat in medio populi: non enim miserant eum in custodiam carceris. Igitur exercitus Pharaonis egressus est de Ægypto: et audientes Chaldæi, qui obsidebant Ierusalem, huiuscemodi nuntium, recesserunt ab Ierusalem.
+4 Ieremias autem libere ambulabat in medio populi: non enim miserant eum in custodiam carceris. Igitur exercitus Pharaonis egressus est de AEgypto: et audientes Chaldaei, qui obsidebant Ierusalem, huiuscemodi nuntium, recesserunt ab Ierusalem.
 
 5 Et factum est verbum Domini ad Ieremiam prophetam, dicens:
 
-6 Hæc dicit Dominus Deus Israel: Sic dicetis regi Iuda, qui misit vos ad me interrogandum: Ecce exercitus Pharaonis, qui egressus est vobis in auxilium, revertetur in terram suam in Ægyptum.
+6 Haec dicit Dominus Deus Israel: Sic dicetis regi Iuda, qui misit vos ad me interrogandum: Ecce exercitus Pharaonis, qui egressus est vobis in auxilium, revertetur in terram suam in AEgyptum.
 
-7 et redient Chaldæi, et bellabunt contra civitatem hanc: et capient eam, et succendent eam igni.
+7 et redient Chaldaei, et bellabunt contra civitatem hanc: et capient eam, et succendent eam igni.
 
-8 Hæc dicit Dominus: Nolite decipere animas vestras, dicentes: Euntes abibunt, et recedent a nobis Chaldæi, quia non abibunt.
+8 Haec dicit Dominus: Nolite decipere animas vestras, dicentes: Euntes abibunt, et recedent a nobis Chaldaei, quia non abibunt.
 
-9 Sed et si percusseritis omnem exercitum Chaldæorum, qui præliantur adversum vos, et derelicti fuerint ex eis aliqui vulnerati: singuli de tentorio suo consurgent, et incendent civitatem hanc igni.
+9 Sed et si percusseritis omnem exercitum Chaldaeorum, qui praeliantur adversum vos, et derelicti fuerint ex eis aliqui vulnerati: singuli de tentorio suo consurgent, et incendent civitatem hanc igni.
 
-10 Ergo cum recessisset exercitus Chaldæorum ab Ierusalem propter exercitum Pharaonis,
+10 Ergo cum recessisset exercitus Chaldaeorum ab Ierusalem propter exercitum Pharaonis,
 
 11 egressus est Ieremias de Ierusalem ut iret in Terram Beniamin, et divideret ibi possessionem in conspectu civium.
 
-12 Cumque pervenisset ad portam Beniamin, erat ibi custos portæ per vices, nomine Ierias, filius Selemiæ filii Hananiæ, et apprehendit Ieremiam prophetam, dicens: Ad Chaldæos profugis.
+12 Cumque pervenisset ad portam Beniamin, erat ibi custos portae per vices, nomine Ierias, filius Selemiae filii Hananiae, et apprehendit Ieremiam prophetam, dicens: Ad Chaldaeos profugis.
 
-13 Et respondit Ieremias: Falsum est, non fugio ad Chaldæos. Et non audivit eum: sed comprehendit Ierias Ieremiam, et adduxit eum ad principes.
+13 Et respondit Ieremias: Falsum est, non fugio ad Chaldaeos. Et non audivit eum: sed comprehendit Ierias Ieremiam, et adduxit eum ad principes.
 
-14 Quam ob rem irati principes contra Ieremiam, cæsum eum miserunt in carcerem, qui erat in domo Ionathan scribæ: ipse enim præpositus erat super carcerem.
+14 Quam ob rem irati principes contra Ieremiam, caesum eum miserunt in carcerem, qui erat in domo Ionathan scribae: ipse enim praepositus erat super carcerem.
 
 15 Itaque ingressus est Ieremias in domum laci et in ergastulum: et sedit ibi Ieremias diebus multis.
 
@@ -39,9 +39,9 @@ draft: false
 
 17 Et dixit Ieremias ad regem Sedeciam: Quid peccavi tibi, et servis tuis, et populo tuo, quia misisti me in domum carceris?
 
-18 Ubi sunt prophetæ vestri, qui prophetabant vobis, et dicebant: Non veniet rex Babylonis super vos, et super terram hanc?
+18 Ubi sunt prophetae vestri, qui prophetabant vobis, et dicebant: Non veniet rex Babylonis super vos, et super terram hanc?
 
-19 Nunc ergo audi obsecro domine mi rex: Valeat deprecatio mea in conspectu tuo: et ne me remittas in domum Ionathan scribæ, ne moriar ibi.
+19 Nunc ergo audi obsecro domine mi rex: Valeat deprecatio mea in conspectu tuo: et ne me remittas in domum Ionathan scribae, ne moriar ibi.
 
-20 Præcepit ergo rex Sedecias ut traderetur Ieremias in vestibulo carceris: et daretur ei torta panis quotidie, excepto pulmento, donec consumerentur omnes panes de civitate: et mansit Ieremias in vestibulo carceris.
+20 Praecepit ergo rex Sedecias ut traderetur Ieremias in vestibulo carceris: et daretur ei torta panis quotidie, excepto pulmento, donec consumerentur omnes panes de civitate: et mansit Ieremias in vestibulo carceris.
 

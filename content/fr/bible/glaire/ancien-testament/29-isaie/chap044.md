@@ -35,7 +35,7 @@ summary: |
 
 6 Voici ce que dit le Seigneur, le roi d'Israël, et son rédempteur, le Seigneur des armées : Je suis le premier et je suis le dernier; et hors moi il n'y a point de Dieu.
 
-***Note*** :  Is. 44, 6 : Voir Isaïe, 41, 4 ; 48, 12 ; Apocalypse, 1, vv. 8, 17 ; 22, 13. ― 5e Discours : Contraste entre Dieu et les idoles, chapitre 44, versets 6 à 23. Le prophète nous montre la grandeur du vrai Dieu qu’il met en opposition avec la vanité des dieux ridicules des gentils. ― Israël doit se confier en Dieu, parce qu’il lui annonce à l’avance ce qu’il se propose de faire, versets 6 à 8 ; tandis que les dieux des gentils trompent leurs adorateurs, parce qu’ils ne sont que de vaines images, œuvres des hommes, versets 9 à 17 ; l’aveuglement des païens peut seul fermer les yeux sur le néant de leurs divinités, versets 18 à 20. Puisse Israël, lui du moins, comprendre que l’idolâtrie n’est qu’un mensonge, et servir le Seigneur qui l’aime et lui pardonne ses péchés, versets 21 à 23 ! ― Le tableau de la vanité des idoles est un morceau littéraire achevé.
+***Note*** :  Is. 44, 6 : Voir Isaïe, 41, 4 ; 48, 12 ; Apocalypse, 1, vv. 8, 17 ; 22, 13. ― 5e Discours : Contraste entre Dieu et les idoles, chapitre 44, versets 6 à 23. Le prophète nous montre la grandeur du vrai Dieu qu’il met en opposition avec la vanité des dieux ridicules des gentils. ― Israël doit se confier en Dieu, parce qu’il lui annonce à l’avance ce qu’il se propose de faire, versets 6 à 8 ; tandis que les dieux des gentils trompent leurs adorateurs, parce qu’ils ne sont que de vaines images, oeuvres des hommes, versets 9 à 17 ; l’aveuglement des païens peut seul fermer les yeux sur le néant de leurs divinités, versets 18 à 20. Puisse Israël, lui du moins, comprendre que l’idolâtrie n’est qu’un mensonge, et servir le Seigneur qui l’aime et lui pardonne ses péchés, versets 21 à 23 ! ― Le tableau de la vanité des idoles est un morceau littéraire achevé.
 
 
 7 Qui est semblable à moi? qu'il appelle et qu'il annonce; et qu'il m'expose la série des choses, depuis que j'ai fondé un peuple antique ; qu'ils leur annoncent les choses à venir et celles qui doivent être.
@@ -46,7 +46,7 @@ summary: |
 8 Ne craignez pas, ne soyez pas troublés ; dès lors je t'ai fait entendre, et je t'ai annoncé : C'est vous qui êtes mes témoins. Est-ce qu'il y a un Dieu hors moi, et un créateur que moi je n'ai pas connu?
 
 
-9 Tous les fabricateurs d'idoles ne sont rien, et leurs œuvres qu'ils estiment le plus ne leur seront pas utiles; eux-mêmes sont témoins qu'elles ne voient pas, et qu'elles ne comprennent pas ; en sorte qu'ils sont confondus. 10 Qui a formé un dieu, et a jeté en fonte une image qui n'est utile à rien?
+9 Tous les fabricateurs d'idoles ne sont rien, et leurs oeuvres qu'ils estiment le plus ne leur seront pas utiles; eux-mêmes sont témoins qu'elles ne voient pas, et qu'elles ne comprennent pas ; en sorte qu'ils sont confondus. 10 Qui a formé un dieu, et a jeté en fonte une image qui n'est utile à rien?
 
 
 11 Voici que tous ceux qui y ont pris part seront confondus; car ces artisans sont des hommes; ils se réuniront tous, ils se présenteront, et ils auront peur, et seront confondus tous ensemble.
@@ -68,13 +68,13 @@ summary: |
 16 Il a brûlé au feu une moitié de bois, et de son autre moitié il a préparé des viandes pour manger; il en a préparé un mets, et il s'en est rassasié; il s'est chauffé et a dit : Ah! je me suis chauffé, j'ai vu le feu.
 
 
-17 Mais de son reste il fait un dieu et une idole; il se courbe devant elle, l'adore et la prie et la supplie, disant : Délivrez-moi, parce que mon Dieu, c'est vous. 18 Ils n'ont pas su, ils n'ont pas compris; car leurs yeux sont couverts d'un enduit, en sorte que leurs yeux ne voient pas et que leur cœur ne comprend pas.
+17 Mais de son reste il fait un dieu et une idole; il se courbe devant elle, l'adore et la prie et la supplie, disant : Délivrez-moi, parce que mon Dieu, c'est vous. 18 Ils n'ont pas su, ils n'ont pas compris; car leurs yeux sont couverts d'un enduit, en sorte que leurs yeux ne voient pas et que leur coeur ne comprend pas.
 
 
 19 Ils ne réfléchissent pas en leur esprit, et ils n'ont pas assez de sens pour dire : J'ai brûlé la moitié de ce bois au feu, et j'ai cuit sur ses charbons des pains; j'ai cuit des viandes et j'ai mangé, et du reste ferai-je une idole? devant un tronc d'arbre me prosternerai-je?
 
 
-20 Une partie de ce bois est de la cendre; un cœur insensé a adoré l'idole, et il ne délivrera pas son âme, et il ne dira pas : Peut-être qu'il y a un mensonge dans ma main droite.
+20 Une partie de ce bois est de la cendre; un coeur insensé a adoré l'idole, et il ne délivrera pas son âme, et il ne dira pas : Peut-être qu'il y a un mensonge dans ma main droite.
 
 
 21 Souviens-toi de ces choses, Jacob, et toi, Israël, parce que mon serviteur, c'est toi; je t'ai formé, mon serviteur ; c'est toi, Israël, ne m'oublie pas. 22 J'ai effacé comme un nuage tes iniquités, et comme une vapeur tes péchés; reviens à moi, parce que je t'ai racheté.

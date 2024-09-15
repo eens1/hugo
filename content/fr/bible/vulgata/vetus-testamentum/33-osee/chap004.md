@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Audite verbum Domini filii Israel, quia iudicium Domino cum habitatoribus terræ: non est enim veritas, et non est misericordia, et non est scientia Dei in terra.
+1 Audite verbum Domini filii Israel, quia iudicium Domino cum habitatoribus terrae: non est enim veritas, et non est misericordia, et non est scientia Dei in terra.
 
 2 Maledictum, et mendacium, et homicidium, et furtum, et adulterium inundaverunt, et sanguis sanguinem tetigit.
 
-3 Propter hoc lugebit terra, et infirmabitur omnis, qui habitat in ea, in bestia agri, et in volucre cæli: sed et pisces maris congregabuntur.
+3 Propter hoc lugebit terra, et infirmabitur omnis, qui habitat in ea, in bestia agri, et in volucre caeli: sed et pisces maris congregabuntur.
 
 4 Verumtamen unusquisque non iudicet: et non arguatur vir: populus enim tuus sicut hi, qui contradicunt sacerdoti.
 
@@ -29,9 +29,9 @@ draft: false
 
 12 Populus meus in ligno suo interrogavit, et baculus eius annunciavit ei: spiritus enim fornicationum decepit eos, et fornicati sunt a Deo suo.
 
-13 Super capita montium sacrificabant, et super colles ascendebant thymiama: subtus quercum, et populum, et terebinthum, quia bona erat umbra eius: ideo fornicabuntur filiæ vestræ, et sponsæ vestræ adulteræ erunt.
+13 Super capita montium sacrificabant, et super colles ascendebant thymiama: subtus quercum, et populum, et terebinthum, quia bona erat umbra eius: ideo fornicabuntur filiae vestrae, et sponsae vestrae adulterae erunt.
 
-14 Non visitabo super filias vestras cum fuerint fornicatæ, et super sponsas vestras cum adulteraverint: quoniam ipsi cum meretricibus conversabantur, et cum effeminatis sacrificabant, et populus non intelligens vapulabit.
+14 Non visitabo super filias vestras cum fuerint fornicatae, et super sponsas vestras cum adulteraverint: quoniam ipsi cum meretricibus conversabantur, et cum effeminatis sacrificabant, et populus non intelligens vapulabit.
 
 15 Si fornicaris tu Israel, non delinquat saltem Iuda: et nolite ingredi in Galgala, et ne ascenderitis in Bethaven, neque iuraveritis: Vivit Dominus.
 

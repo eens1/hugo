@@ -10,7 +10,7 @@ summary: |
 ---
 
 
-1 Dites à vos frères : Mon peuple; et à votre sœur : Tu as reçu miséricorde. 2 Jugez votre mère, jugez-la; elle n'est pas mon épouse, et moi je ne suis pas son époux; qu'elle ôte ses fornications de sa face, et ses adultères du milieu de son sein.
+1 Dites à vos frères : Mon peuple; et à votre soeur : Tu as reçu miséricorde. 2 Jugez votre mère, jugez-la; elle n'est pas mon épouse, et moi je ne suis pas son époux; qu'elle ôte ses fornications de sa face, et ses adultères du milieu de son sein.
 
 ***Note*** :  Os. 2, 2-24 : 2° Chapitre 2, versets 2 à 24. Le Prophète s’adresse au peuple ; il le menace, le presse de se convertir et lui promet enfin la félicité, s’il est fidèle.
 
@@ -30,7 +30,7 @@ summary: |
 
 8 Elle n'a pas su que moi, je lui ai donné le blé, le vin et l'huile ; j'ai multiplié pour elle l'argent et l'or qui ont fait Baal.
 
-***Note*** :  Os. 2, 8 : Qui ont fait Baal (quæ fecerunt Baal) ; c’est-à-dire, avec lesquels elle a fait des idoles de Baal ; c’est aussi le vrai sens de l’hébreu et du chaldéen, et celui que confirme un passage parallèle, voir Osée, 8, 4.
+***Note*** :  Os. 2, 8 : Qui ont fait Baal (quae fecerunt Baal) ; c’est-à-dire, avec lesquels elle a fait des idoles de Baal ; c’est aussi le vrai sens de l’hébreu et du chaldéen, et celui que confirme un passage parallèle, voir Osée, 8, 4.
 
 9 C'est pour cela que je changerai, et que je reprendrai mon blé en son temps et mon vin en son temps; et que j'enlèverai mon lin et ma laine qui couvraient son ignominie.
 
@@ -42,7 +42,7 @@ summary: |
 
 ***Note*** :  Os. 2, 13 : Je visiterai, etc. ; c’est-à-dire je vengerai, etc. Voir Osée, 1, 4. ― Les jours des Baalim ; les jours consacrés au culte des idoles. ― Baalim. Voir Jérémie, 2, 23. ― Brûlait de l’encens en son honneur.
 
-14 A cause de cela, voici que moi, je l'attirerai doucement et l'amènerai dans la solitude, et je parlerai à son cœur. 15 Et je lui donnerai des vignerons du même lieu, et la vallée d'Achor pour lui ouvrir une espérance ; et elle chantera là comme aux jours de sa jeunesse, et comme au jour où elle remonta de la terre d'Egypte.
+14 A cause de cela, voici que moi, je l'attirerai doucement et l'amènerai dans la solitude, et je parlerai à son coeur. 15 Et je lui donnerai des vignerons du même lieu, et la vallée d'Achor pour lui ouvrir une espérance ; et elle chantera là comme aux jours de sa jeunesse, et comme au jour où elle remonta de la terre d'Egypte.
 
 ***Note*** :  Os. 2, 15 : La vallée d’Achor, près de Jéricho, une des premières possessions du peuple hébreu dans la terre promise (voir Josué, 7, 24-26).
 

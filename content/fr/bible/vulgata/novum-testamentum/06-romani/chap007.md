@@ -7,15 +7,15 @@ draft: false
 
 1 An ignoratis fratres (scientibus enim legem loquor) quia lex in homine dominatur quanto tempore vivit?
 
-2 Nam quæ sub viro est mulier, vivente viro, alligata est legi: si autem mortuus fuerit vir eius, soluta est a lege viri.
+2 Nam quae sub viro est mulier, vivente viro, alligata est legi: si autem mortuus fuerit vir eius, soluta est a lege viri.
 
 3 Igitur, vivente viro, vocabitur adultera si fuerit cum alio viro: si autem mortuus fuerit vir eius, liberata est a lege viri: ut non sit adultera si fuerit cum alio viro.
 
 4 Itaque fratres mei et vos mortificati estis legi per corpus Christi: ut sitis alterius, qui ex mortuis resurrexit, ut fructificemus Deo.
 
-5 Cum enim essemus in carne, passiones peccatorum, quæ per legem erant, operabantur in membris nostris, ut fructificarent morti.
+5 Cum enim essemus in carne, passiones peccatorum, quae per legem erant, operabantur in membris nostris, ut fructificarent morti.
 
-6 nunc autem soluti sumus a lege mortis, in qua detinebamur, ita ut serviamus in novitate spiritus, et non in vetustate litteræ.
+6 nunc autem soluti sumus a lege mortis, in qua detinebamur, ita ut serviamus in novitate spiritus, et non in vetustate litterae.
 
 7 Quid ergo dicemus? lex peccatum est? Absit. Sed peccatum non cognovi, nisi per legem: nam concupiscentiam nesciebam, nisi lex diceret: Non concupisces.
 
@@ -49,7 +49,7 @@ draft: false
 
 22 condelector enim legi Dei secundum interiorem hominem:
 
-23 video autem aliam legem in membris meis, repugnantem legi mentis meæ, et captivantem me in lege peccati, quæ est in membris meis.
+23 video autem aliam legem in membris meis, repugnantem legi mentis meae, et captivantem me in lege peccati, quae est in membris meis.
 
 24 Infelix ego homo, quis me liberabit de corpore mortis huius?
 

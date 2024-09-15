@@ -64,7 +64,7 @@ summary: |
 
 ***Note*** :  Dr. 1, 24 : La vallée de la Grappe de raisin. Voir Nombres, 13, 24.
 
-25 Prenant de ses fruits, pour montrer sa fertilité, ils nous les apportèrent, et dirent : Elle est bonne, la terre que le Seigneur notre Dieu doit nous donner. 26 Et vous ne voulûtes point monter, mais incrédules à la parole du Seigneur notre Dieu, 27 Vous murmurâtes dans vos tentes, et vous dites : Le Seigneur nous hait, et c'est pour cela qu'il nous a retirés de l'Egypte, afin de nous livrer à la main de l'Amorrhéen, et de nous détruire. 28 Où monterons-nous? les envoyés ont épouvanté nos cœurs, disant : C'est une très grande multitude, et leur stature est plus haute que la nôtre : les villes sont grandes et fortifiées jusqu'au ciel; nous avons vu là les enfants d'Enac.
+25 Prenant de ses fruits, pour montrer sa fertilité, ils nous les apportèrent, et dirent : Elle est bonne, la terre que le Seigneur notre Dieu doit nous donner. 26 Et vous ne voulûtes point monter, mais incrédules à la parole du Seigneur notre Dieu, 27 Vous murmurâtes dans vos tentes, et vous dites : Le Seigneur nous hait, et c'est pour cela qu'il nous a retirés de l'Egypte, afin de nous livrer à la main de l'Amorrhéen, et de nous détruire. 28 Où monterons-nous? les envoyés ont épouvanté nos coeurs, disant : C'est une très grande multitude, et leur stature est plus haute que la nôtre : les villes sont grandes et fortifiées jusqu'au ciel; nous avons vu là les enfants d'Enac.
 
 ***Note*** :  Dr. 1, 28 : Enacim est en hébreu le pluriel d’Enac et signifie les descendants d’Enac, géant redoutable. Comparer à Nombres, 13, 34.
 

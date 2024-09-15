@@ -19,20 +19,20 @@ summary: |
 
 ***Note*** :  Ps. 83, 2-5 : Sentiments du psalmiste à l’égard de la maison de Dieu.
 
-3 Mon âme désire avec ardeur, et languit après les parvis du Seigneur. Mon cœur et ma chair ont exulté pour le Dieu vivant. 4 Car un passereau trouve pour lui une maison ; une tourterelle, un nid où elle dépose ses petits. Vos autels, Seigneur des armées, mon roi et mon Dieu.
+3 Mon âme désire avec ardeur, et languit après les parvis du Seigneur. Mon coeur et ma chair ont exulté pour le Dieu vivant. 4 Car un passereau trouve pour lui une maison ; une tourterelle, un nid où elle dépose ses petits. Vos autels, Seigneur des armées, mon roi et mon Dieu.
 
-***Note*** :  Ps. 83, 4 : Vos autels. Après ces mots, qui forment un sujet sans attribut, il faut probablement sous-entendre, sont le lieu où je désirerais faire ma demeure. ― « Quelquefois, dit le comte de Maistre dans les Soirées de Saint-Pétersbourg, le sentiment l’oppresse [le Psalmiste]. Un verbe qui s’avançait pour exprimer la pensée du prophète s’arrête sur ses lèvres et retombe sur son cœur ; mais la piété le comprend lorsqu’il s’écrie : Tes autels, ô Dieu des esprits !… »
+***Note*** :  Ps. 83, 4 : Vos autels. Après ces mots, qui forment un sujet sans attribut, il faut probablement sous-entendre, sont le lieu où je désirerais faire ma demeure. ― « Quelquefois, dit le comte de Maistre dans les Soirées de Saint-Pétersbourg, le sentiment l’oppresse [le Psalmiste]. Un verbe qui s’avançait pour exprimer la pensée du prophète s’arrête sur ses lèvres et retombe sur son coeur ; mais la piété le comprend lorsqu’il s’écrie : Tes autels, ô Dieu des esprits !… »
 
 5 Bienheureux ceux qui habitent dans votre maison. Seigneur; dans les siècles des siècles ils vous loueront.
 
 ***Note*** :  Ps. 83, 5 : Dans les siècles des siècles ; hébraïsme, pour dans tous les siècles.
 
 
-6 Bienheureux l'homme dont le secours vient de vous; il a disposé dans son cœur des degrés pour s'élever,
+6 Bienheureux l'homme dont le secours vient de vous; il a disposé dans son coeur des degrés pour s'élever,
 
 ***Note*** :  Ps. 83, 6-9 : Heureux l’homme droit. Il peut visiter Dieu dans Sion. Prière pour le roi (pour David qui a été obligé de s’enfuir devant Absalom).
 
-***Note*** :  Ps. 83, 6-7 : Ces deux versets, que la Vulgate a traduits très fidèlement sur les Septante, sont aussi obscurs dans le texte hébreu que dans ces deux versions. Voici l’explication qui nous a paru la plus simple et la plus naturelle : Bienheureux l’homme qui attend son secours de vous, ô mon Dieu, et qui, dans cette vallée de larmes, lieu, où il s’était placé lui-même par son péché, a résolu en son cœur les moyens de s’élever jusqu’à vous (ascensiones in corde suo disposuit).
+***Note*** :  Ps. 83, 6-7 : Ces deux versets, que la Vulgate a traduits très fidèlement sur les Septante, sont aussi obscurs dans le texte hébreu que dans ces deux versions. Voici l’explication qui nous a paru la plus simple et la plus naturelle : Bienheureux l’homme qui attend son secours de vous, ô mon Dieu, et qui, dans cette vallée de larmes, lieu, où il s’était placé lui-même par son péché, a résolu en son coeur les moyens de s’élever jusqu’à vous (ascensiones in corde suo disposuit).
 
 7 Dans la vallée de larmes, dans le lieu qu'il a fixé.
 

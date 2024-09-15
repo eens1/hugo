@@ -13,7 +13,7 @@ draft: false
 
 [^2]: Benedicti 1918, p. 358.
 
-> *G. Bareille, commentaire du can. 1250* : "1 - La loi de l'abstinence défend l'usage de la viande et du jus de viande, mais nullement celui des œufs, du laitage et des condiments préparés à la graisse. c. 1250." [^3]
+> *G. Bareille, commentaire du can. 1250* : "1 - La loi de l'abstinence défend l'usage de la viande et du jus de viande, mais nullement celui des oeufs, du laitage et des condiments préparés à la graisse. c. 1250." [^3]
 
 [^3]: Bareille 1922, p. 338.
 
@@ -57,7 +57,7 @@ draft: false
 
 [^8]: Benedicti 1918, p. 359.
 
-> *G. Bareille, commentaire du can. 1253* : "7. Ces règles sur le jeûne et l'abstinence ne changent rien aux indults particuliers, aux vœux de toute personne physique ou morale, aux constitutions et aux règles de n'importe quelle religion, de n'importe quel institut approuvé d'hommes ou de femmes vivant en commun même sans vœux. c. 1253." [^9]
+> *G. Bareille, commentaire du can. 1253* : "7. Ces règles sur le jeûne et l'abstinence ne changent rien aux indults particuliers, aux voeux de toute personne physique ou morale, aux constitutions et aux règles de n'importe quelle religion, de n'importe quel institut approuvé d'hommes ou de femmes vivant en commun même sans voeux. c. 1253." [^9]
 
 [^9]: Bareille 1922, p. 339.
 

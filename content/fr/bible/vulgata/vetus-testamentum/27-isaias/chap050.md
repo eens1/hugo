@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Hæc dicit Dominus: Quis est hic liber repudii matris vestræ, quo dimisi eam? aut quis est creditor meus, cui vendidi vos? ecce in iniquitatibus vestris venditi estis, et in sceleribus vestris dimisi matrem vestram.
+1 Haec dicit Dominus: Quis est hic liber repudii matris vestrae, quo dimisi eam? aut quis est creditor meus, cui vendidi vos? ecce in iniquitatibus vestris venditi estis, et in sceleribus vestris dimisi matrem vestram.
 
 2 Quia veni, et non erat vir: vocavi, et non erat qui audiret. numquid abbreviata et parvula facta est manus mea, ut non possim redimere? aut non est in me virtus ad liberandum? Ecce in increpatione mea desertum faciam mare, ponam flumina in siccum: computrescent pisces sine aqua, et morientur in siti.
 
-3 Induam cælos tenebris, et saccum ponam operimentum eorum.
+3 Induam caelos tenebris, et saccum ponam operimentum eorum.
 
 4 Dominus dedit mihi linguam eruditam, ut sciam sustentare eum, qui lassus est verbo: erigit mane, mane erigit mihi aurem, ut audiam quasi magistrum.
 

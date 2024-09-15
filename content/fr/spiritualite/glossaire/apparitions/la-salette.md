@@ -31,7 +31,7 @@ draft: false
 
 > Que le Vicaire de mon Fils, le souverain Pontife Pie IX, ne sorte plus de Rome après l'année 1859. Mais qu'il soit ferme et généreux. Qu'il combatte avec les armes de la foi et de l'amour. Je serai avec lui.
 
-> Qu'il se méfie de Napoléon. Son cœur est double. Et quand il voudra être à la fois pape et empereur, bientôt Dieu se retirera de lui. Il est cet aigle qui, voulant toujours s'élever, tombera sur l'épée dont il voulait se servir pour obliger les peuples à se faire élever.
+> Qu'il se méfie de Napoléon. Son coeur est double. Et quand il voudra être à la fois pape et empereur, bientôt Dieu se retirera de lui. Il est cet aigle qui, voulant toujours s'élever, tombera sur l'épée dont il voulait se servir pour obliger les peuples à se faire élever.
 
 > L'Italie sera punie de son ambition, en voulant secouer le joug du Seigneur des Seigneurs. Aussi elle sera livrée à la guerre. Le sang coulera de tous côtés. Les églises seront fermées et profanées. Les prêtres, les religieux seront chassés; on les fera mourir, et mourir d'une mort cruelle.
 
@@ -51,7 +51,7 @@ draft: false
 
 > Les gouvernants civils auront tous un même dessein, qui sera d'abolir et de faire disparaître tout principe religieux, pour faire place au matérialisme, à l'athéisme, au spiritisme, et à toutes sortes de vices.
 
-> Dans l'année 1865, on verra l'abomination dans les lieux saints. Dans les couvents, les fleurs de l'Eglise seront putréfiées; et le démon se rendra comme le roi des cœurs. Que ceux qui sont à la tête des communautés religieuses, se tiennent en garde pour les personnes qu'ils doivent recevoir, parce que le démon usera de toute sa malice pour introduire dans les ordres religieux des personnes adonnées au péché; car les désordres et l'amour des plaisirs charnels seront répandus par toute la terre.
+> Dans l'année 1865, on verra l'abomination dans les lieux saints. Dans les couvents, les fleurs de l'Eglise seront putréfiées; et le démon se rendra comme le roi des coeurs. Que ceux qui sont à la tête des communautés religieuses, se tiennent en garde pour les personnes qu'ils doivent recevoir, parce que le démon usera de toute sa malice pour introduire dans les ordres religieux des personnes adonnées au péché; car les désordres et l'amour des plaisirs charnels seront répandus par toute la terre.
 
 > La France, l'Italie, l'Espagne et l'Angleterre seront en guerre. Le sang coulera dans les rues. Le Français se battra avec le Français, l'Italien avec l'ltalien ; ensuite il y aura une guerre générale qui sera épouvantable. Pour un temps Dieu ne se souviendra plus de la France ni de l'Italie, parce que l'Evangile de Jésus-Christ n'est plus connu. Les méchants déploieront toute leur malice. On se tuera, on se massacrera mutuellement jusque dans les maisons.
 
@@ -81,7 +81,7 @@ draft: false
 
 > Malheur aux habitants de la terre ! Il y aura des guerres sanglantes et des famines; des pestes et des maladies contagieuses. Il y aura des pluies d'une grêle effroyable d'animaux, des tonnerres qui ébranleront des villes, des tremblements de terre qui engloutiront des pays. On entendra des voix dans les airs. Les hommes se battront la tête contre les murailles. Ils appelleront la mort, et d'un autre côté la mort fera leur supplice, le sang coulera de tous côtés. Qui pourra vaincre, si Dieu ne diminue le temps de l'épreuve ? Par le sang, les larmes et les prières des justes, Dieu se laissera fléchir. Henoch et Elie seront mis à mort. Rome payenne disparaîtra, et le feu du ciel tombera et consumera trois villes. Tout l'univers sera frappé de terreur, et beaucoup se laisseront séduire parce qu'ils n'ont pas adoré le vrai Christ vivant parmi eux. Il est temps; le soleil s'obscurcit; la foi seule vivra !
 
-> Voici le temps, l'abîme s'ouvre. Voici le roi des rois des ténèbres. Voici la bête avec ses sujets, se disant le sauveur du monde. Il s'élèvera avec orgueil dans les airs pour aller jusqu'au Ciel. Il sera étouffé par le souffle de saint Michel Archange. Il tombera et la terre qui, depuis trois jours, sera en de continuelles évolutions, ouvrira son sein plein de feu. Il sera plongé pour jamais, avec tous les siens, dans les gouffres éternels de l'enfer. Alors l'eau et le feu purifieront la terre, et consumeront toutes les œuvres de l'orgueil des hommes, et tout sera renouvelé. Dieu sera servi et glorifié..." [^2]
+> Voici le temps, l'abîme s'ouvre. Voici le roi des rois des ténèbres. Voici la bête avec ses sujets, se disant le sauveur du monde. Il s'élèvera avec orgueil dans les airs pour aller jusqu'au Ciel. Il sera étouffé par le souffle de saint Michel Archange. Il tombera et la terre qui, depuis trois jours, sera en de continuelles évolutions, ouvrira son sein plein de feu. Il sera plongé pour jamais, avec tous les siens, dans les gouffres éternels de l'enfer. Alors l'eau et le feu purifieront la terre, et consumeront toutes les oeuvres de l'orgueil des hommes, et tout sera renouvelé. Dieu sera servi et glorifié..." [^2]
 
 [^2]: Ibid., pp. 9-14 
 

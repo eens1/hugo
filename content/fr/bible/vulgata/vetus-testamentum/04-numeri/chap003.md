@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Hæ sunt generationes Aaron et Moysi in die qua locutus est Dominus ad Moysen in monte Sinai.
+1 Hae sunt generationes Aaron et Moysi in die qua locutus est Dominus ad Moysen in monte Sinai.
 
-2 Et hæc nomina filiorum Aaron: primogenitus eius Nadab, deinde Abiu, et Eleazar, et Ithamar.
+2 Et haec nomina filiorum Aaron: primogenitus eius Nadab, deinde Abiu, et Eleazar, et Ithamar.
 
-3 Hæc nomina filiorum Aaron sacerdotum qui uncti sunt, et quorum repletæ et consecratæ manus ut sacerdotio fungerentur.
+3 Haec nomina filiorum Aaron sacerdotum qui uncti sunt, et quorum repletae et consecratae manus ut sacerdotio fungerentur.
 
 4 Mortui sunt enim Nadab et Abiu cum offerrent ignem alienum in conspectu Domini in deserto Sinai, absque liberis: functique sunt sacerdotio Eleazar et Ithamar coram Aaron patre suo.
 
@@ -27,15 +27,15 @@ draft: false
 
 11 Locutusque est Dominus ad Moysen, dicens:
 
-12 Ego tuli Levitas a filiis Israel pro omni primogenito, qui aperit vulvam in filiis Israel, eruntque Levitæ mei.
+12 Ego tuli Levitas a filiis Israel pro omni primogenito, qui aperit vulvam in filiis Israel, eruntque Levitae mei.
 
-13 Meum est enim omne primogenitum: ex quo percussi primogenitos in Terra Ægypti: sanctificavi mihi quidquid primum nascitur in Israel ab homine usque ad pecus, mei sunt: ego Dominus.
+13 Meum est enim omne primogenitum: ex quo percussi primogenitos in Terra AEgypti: sanctificavi mihi quidquid primum nascitur in Israel ab homine usque ad pecus, mei sunt: ego Dominus.
 
 14 Locutusque est Dominus ad Moysen in deserto Sinai, dicens:
 
 15 Numera filios Levi per domos patrum suorum et familias, omnem masculum ab uno mense, et supra.
 
-16 Numeravit Moyses, ut præceperat Dominus,
+16 Numeravit Moyses, ut praeceperat Dominus,
 
 17 et inventi sunt filii Levi per nomina sua, Gerson et Caath et Merari.
 
@@ -45,7 +45,7 @@ draft: false
 
 20 Filii Merari: Moholi et Musi.
 
-21 De Gerson fuere familiæ duæ, Lebnitica, et Semeitica:
+21 De Gerson fuere familiae duae, Lebnitica, et Semeitica:
 
 22 quarum numeratus est populus sexus masculini ab uno mense et supra, septem millia quingenti.
 
@@ -53,11 +53,11 @@ draft: false
 
 24 sub principe Eliasaph filio Lael.
 
-25 Et habebunt excubias in tabernaculo fœderis,
+25 Et habebunt excubias in tabernaculo foederis,
 
-26 ipsum tabernaculum et operimentum eius, tentorium quod trahitur ante fores tecti fœderis, et cortinas atrii: tentorium quoque quod appenditur in introitu atrii tabernaculi, et quidquid ad ritum altaris pertinet, funes tabernaculi et omnia utensilia eius.
+26 ipsum tabernaculum et operimentum eius, tentorium quod trahitur ante fores tecti foederis, et cortinas atrii: tentorium quoque quod appenditur in introitu atrii tabernaculi, et quidquid ad ritum altaris pertinet, funes tabernaculi et omnia utensilia eius.
 
-27 Cognatio Caath habebit populos Amramitas et Iesaaritas et Hebronitas et Ozielitas. Hæ sunt familiæ Caathitarum recensitæ per nomina sua:
+27 Cognatio Caath habebit populos Amramitas et Iesaaritas et Hebronitas et Ozielitas. Hae sunt familiae Caathitarum recensitae per nomina sua:
 
 28 omnes generis masculini ab uno mense et supra, octo millia sexcenti habebunt excubias Sanctuarii,
 
@@ -67,33 +67,33 @@ draft: false
 
 31 et custodient arcam, mensamque et candelabrum, altaria et vasa Sanctuarii, in quibus ministratur, et velum, cunctamque huiuscemodi supellectilem.
 
-32 Princeps autem principum Levitarum Eleazar filius Aaron sacerdotis, erit super excubitores custodiæ Sanctuarii.
+32 Princeps autem principum Levitarum Eleazar filius Aaron sacerdotis, erit super excubitores custodiae Sanctuarii.
 
-33 At vero de Merari erunt populi Moholitæ et Musitæ recensiti per nomina sua:
+33 At vero de Merari erunt populi Moholitae et Musitae recensiti per nomina sua:
 
 34 omnes generis masculini ab uno mense et supra, sex millia ducenti.
 
 35 Princeps eorum Suriel filius Abihaiel: in plaga septentrionali castrametabuntur.
 
-36 Erunt sub custodia eorum tabulæ tabernaculi et vectes, et columnæ ac bases earum, et omnia quæ ad cultum huiuscemodi pertinent:
+36 Erunt sub custodia eorum tabulae tabernaculi et vectes, et columnae ac bases earum, et omnia quae ad cultum huiuscemodi pertinent:
 
-37 columnæque atrii per circuitum cum basibus suis, et paxilli cum funibus.
+37 columnaeque atrii per circuitum cum basibus suis, et paxilli cum funibus.
 
-38 Castrametabuntur ante tabernaculum fœderis, idest ad orientalem plagam, Moyses et Aaron cum filiis suis, habentes custodiam Sanctuarii in medio filiorum Israel. quisquis alienus accesserit, morietur.
+38 Castrametabuntur ante tabernaculum foederis, idest ad orientalem plagam, Moyses et Aaron cum filiis suis, habentes custodiam Sanctuarii in medio filiorum Israel. quisquis alienus accesserit, morietur.
 
-39 Omnes Levitæ, quos numeraverunt Moyses et Aaron iuxta præceptum Domini per familias suas in genere masculino a mense uno et supra, fuerunt viginti duo millia.
+39 Omnes Levitae, quos numeraverunt Moyses et Aaron iuxta praeceptum Domini per familias suas in genere masculino a mense uno et supra, fuerunt viginti duo millia.
 
 40 Et ait Dominus ad Moysen: Numera primogenitos sexus masculini de filiis Israel ab uno mense et supra, et habebis summam eorum.
 
 41 Tollesque Levitas mihi pro omni primogenito filiorum Israel, ego sum Dominus: et pecora eorum pro universis primogenitis pecorum filiorum Israel.
 
-42 Recensuit Moyses, sicut præceperat Dominus, primogenitos filiorum Israel.
+42 Recensuit Moyses, sicut praeceperat Dominus, primogenitos filiorum Israel.
 
 43 et fuerunt masculi per nomina sua, a mense uno et supra, viginti duo millia ducenti septuaginta tres.
 
 44 Locutusque est Dominus ad Moysen, dicens:
 
-45 Tolle Levitas pro primogenitis filiorum Israel, et pecora Levitarum pro pecoribus eorum, eruntque Levitæ mei. ego sum Dominus.
+45 Tolle Levitas pro primogenitis filiorum Israel, et pecora Levitarum pro pecoribus eorum, eruntque Levitae mei. ego sum Dominus.
 
 46 In pretio autem ducentorum septuaginta trium, qui excedunt numerum Levitarum de primogenitis filiorum Israel,
 
@@ -105,5 +105,5 @@ draft: false
 
 50 pro primogenitis filiorum Israel, mille trecentorum sexagintaquinque siclorum iuxta pondus Sanctuarii,
 
-51 et dedit eam Aaron et filiis eius iuxta verbum quod præceperat sibi Dominus.
+51 et dedit eam Aaron et filiis eius iuxta verbum quod praeceperat sibi Dominus.
 

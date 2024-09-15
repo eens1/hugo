@@ -33,7 +33,7 @@ summary: |
 ***Note*** :  Ps. 93, 8-11 : Discours aux méchants. Dieu connaît leurs desseins et les fera échouer.
 
 
-9 Celui qui a fait l'oreille n'entendra-t-il pas ? Celui qui a formé l'œil ne voit-il pas?
+9 Celui qui a fait l'oreille n'entendra-t-il pas ? Celui qui a formé l'oeil ne voit-il pas?
 
 ***Note*** :  Ps. 93, 9 : Qui a fait ou établi ; littéralement dans l’hébreu, le grec et la Vulgate, qui a planté.
 
@@ -47,9 +47,9 @@ summary: |
 13 Afin que vous lui accordiez quelque douceur dans des jours mauvais, jusqu'à ce qu'au pécheur soit creusée une fosse.
 
 
-14 Parce que le Seigneur ne rejettera pas son peuple; et son héritage, il ne l'abandonnera pas. 15 Jusqu'à ce que la justice se convertisse en jugement, et qu'auprès d'elle soient tous ceux qui ont le cœur droit.
+14 Parce que le Seigneur ne rejettera pas son peuple; et son héritage, il ne l'abandonnera pas. 15 Jusqu'à ce que la justice se convertisse en jugement, et qu'auprès d'elle soient tous ceux qui ont le coeur droit.
 
-***Note*** :  Ps. 93, 15 : Se convertisse en jugement ; c’est-à-dire rende ses arrêts. ― Et qu’auprès d’elle, etc. Le premier qui de la Vulgate, qui ne se trouve d’ailleurs ni dans le grec, ni dans l’hébreu, échappe à toute analyse grammaticale. Les Septante portent à la terre : Et soient attachés à elle, tous les droits par le cœur, etc. ; ce qui revient parfaitement à notre traduction.
+***Note*** :  Ps. 93, 15 : Se convertisse en jugement ; c’est-à-dire rende ses arrêts. ― Et qu’auprès d’elle, etc. Le premier qui de la Vulgate, qui ne se trouve d’ailleurs ni dans le grec, ni dans l’hébreu, échappe à toute analyse grammaticale. Les Septante portent à la terre : Et soient attachés à elle, tous les droits par le coeur, etc. ; ce qui revient parfaitement à notre traduction.
 
 
 16 Qui se lèvera pour moi contre des méchants? ou qui se tiendra près de moi contre des ouvriers d'iniquité ?
@@ -59,7 +59,7 @@ summary: |
 17 Si ce n'était que le Seigneur m'a secouru, peu s'en serait fallu que dans l'enfer n'eût habité mon âme.
 
 
-18 Si je disais : Mon pied a chancelé, votre miséricorde, Seigneur, me venait en aide. 19 Selon la multitude de mes douleurs qui étaient dans mon cœur, vos consolations ont réjoui mon âme.
+18 Si je disais : Mon pied a chancelé, votre miséricorde, Seigneur, me venait en aide. 19 Selon la multitude de mes douleurs qui étaient dans mon coeur, vos consolations ont réjoui mon âme.
 
 ***Note*** :  Ps. 93, 19 : Selon la multitude, etc. Saint Paul exprime la même pensée dans 1 Corinthiens, 10, 13 ; 2 Corinthiens, 1, 5 ; 4, 17 ; 7, 4.
 

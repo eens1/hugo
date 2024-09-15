@@ -21,7 +21,7 @@ summary: |
 
 5 Il a été assez puissant pour agrandir la cité ; il a acquis de la gloire en vivant au milieu de la nation, et il a agrandi l'entrée de la maison du Seigneur et du parvis. 6 Comme luit l'étoile du matin au milieu d'un nuage et comme la lune dans les jours de son plein; 7 Et comme le soleil resplendissant, ainsi lui a resplendi dans le temple de Dieu. 8 Comme l'arc resplendissant dans des nuées de gloire, comme la fleur des roses aux jours du printemps, comme les lis qui sont près d'un courant d'eau, et comme l'encens qui répand son odeur aux jours de l'été ;
 
-***Note*** :  Sir. 50, 8 : De gloire (gloriæ) ; d’éclat, lumineuses.
+***Note*** :  Sir. 50, 8 : De gloire (gloriae) ; d’éclat, lumineuses.
 
 9 Comme le feu qui étincelle, et comme l'encens qui s'évapore au feu ; 10 Comme un vase d'or massif orné de toute sorte de pierres précieuses ;
 
@@ -52,14 +52,14 @@ summary: |
 ***Note*** :  Sir. 50, 24-31 : Les versets 24 à 31 forment la conclusion de tout le livre : l’auteur fait des souhaits en faveur de son peuple, versets 24 et 25 ; l’exhorte à la confiance en Dieu, verset 26 ; proteste qu’il n’a rien de commun avec les Iduméens, les Philistins et les Samaritains, ces trois grands ennemis d’Israël, versets 27 et 28 ; appose comme sa signature à son livre, verset 29 ; et termine par une dernière recommandation à mettre en pratique les conseils de sagesse qu’il a donnés, versets 30 et 31.
 
 
-25 Qu'il nous donne la joie du cœur et que la paix se fasse dans nos jours en Israël et pendant des jours éternels ; 26 Pour qu'Israël croie qu'avec nous est la miséricorde de Dieu, afin qu'il nous délivre en ses jours.
+25 Qu'il nous donne la joie du coeur et que la paix se fasse dans nos jours en Israël et pendant des jours éternels ; 26 Pour qu'Israël croie qu'avec nous est la miséricorde de Dieu, afin qu'il nous délivre en ses jours.
 
 
 27 Mon âme hait deux peuples ; mais le troisième que je hais n'est pas un peuple. 28 Ceux qui demeurent sur le mont Séir, et les Philistins, et le peuple insensé qui habite dans Sichem.
 
 ***Note*** :  Sir. 50, 28 : Ceux qui demeurent, etc. ; ce sont les Iduméens (voir Genèse, 14, 6 ; 36, vv. 3, 20). ― Le peuple insensé ; qui ne mérite pas le nom de peuple (voir le verset précédent) ; c’est-à-dire les Samaritains, qui étaient un assemblage de plusieurs nations (voir 4 Rois, 17, 24). Sichem fut réputée leur capitale depuis la ruine de Samarie ; le canton conserva le nom de Samarie.
 
-29 Jésus, fils de Sirach, de Jérusalem, a écrit la doctrine de sagesse et de science dans ce livre, et il a renouvelé la sagesse de son cœur. 30 Bienheureux celui qui s'applique à ces bonnes choses; celui qui les met dans son cœur sera toujours sage ; 31 Car s'il les accomplit, il sera capable de toutes choses, parce que la lumière de Dieu est sa trace.
+29 Jésus, fils de Sirach, de Jérusalem, a écrit la doctrine de sagesse et de science dans ce livre, et il a renouvelé la sagesse de son coeur. 30 Bienheureux celui qui s'applique à ces bonnes choses; celui qui les met dans son coeur sera toujours sage ; 31 Car s'il les accomplit, il sera capable de toutes choses, parce que la lumière de Dieu est sa trace.
 
 ***Note*** :  Sir. 50, 31 : Sa trace ; la trace qu’il doit suivre ; c’est-à-dire que la lumière de Dieu éclairera sa marche, dirigera ses pas.
 

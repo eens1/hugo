@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Domine pater, et dominator vitæ meæ ne derelinquas me in consilio eorum: nec sinas me cadere in illis.
+1 Domine pater, et dominator vitae meae ne derelinquas me in consilio eorum: nec sinas me cadere in illis.
 
-2 Quis superponet in cogitatu meo flagella, et in corde meo doctrinam sapientiæ, ut ignorationibus eorum non parcant mihi, et non appareant delicta eorum,
+2 Quis superponet in cogitatu meo flagella, et in corde meo doctrinam sapientiae, ut ignorationibus eorum non parcant mihi, et non appareant delicta eorum,
 
-3 et ne adincrescant ignorantiæ meæ, et multiplicentur delicta mea, et peccata mea abundent, et incidam in conspectu adversariorum meorum, et gaudeat super me inimicus meus?
+3 et ne adincrescant ignorantiae meae, et multiplicentur delicta mea, et peccata mea abundent, et incidam in conspectu adversariorum meorum, et gaudeat super me inimicus meus?
 
-4 Domine pater, et Deus vitæ meæ, ne derelinquas me in cogitatu illorum.
+4 Domine pater, et Deus vitae meae, ne derelinquas me in cogitatu illorum.
 
 5 Extollentiam oculorum meorum ne dederis mihi, et omne desiderium averte a me.
 
-6 Aufer a me ventris concupiscentias, et concubitus concupiscentiæ ne apprehendant me, et animæ irreverenti et infrunitæ ne tradas me.
+6 Aufer a me ventris concupiscentias, et concubitus concupiscentiae ne apprehendant me, et animae irreverenti et infrunitae ne tradas me.
 
 7 Doctrinam oris audite filii: et qui custodierit illam, non periet labiis, nec scandalizabitur in operibus nequissimis.
 
@@ -35,13 +35,13 @@ draft: false
 
 15 Est et alia loquela contraria morti, non inveniatur in hereditate Iacob.
 
-16 Etenim a misericordibus omnia hæc auferentur, et in delictis non volutabuntur.
+16 Etenim a misericordibus omnia haec auferentur, et in delictis non volutabuntur.
 
-17 Indisciplinatæ loquelæ non assuescat os tuum: est enim in illa verbum peccati.
+17 Indisciplinatae loquelae non assuescat os tuum: est enim in illa verbum peccati.
 
-18 Memento patris et matris tuæ, in medio enim magnatorum consistis:
+18 Memento patris et matris tuae, in medio enim magnatorum consistis:
 
-19 ne forte obliviscatur te Deus in conspectu illorum, et assiduitate tua infatuatus, improperium patiaris, et maluisses non nasci, et diem nativitatis tuæ maledicas.
+19 ne forte obliviscatur te Deus in conspectu illorum, et assiduitate tua infatuatus, improperium patiaris, et maluisses non nasci, et diem nativitatis tuae maledicas.
 
 20 Homo assuetus in verbis improperii, in omnibus diebus suis non erudietur.
 
@@ -49,13 +49,13 @@ draft: false
 
 22 Anima calida quasi ignis ardens non extinguetur donec aliquid glutiat:
 
-23 et homo nequam in ore carnis suæ non desinet donec incendat ignem.
+23 et homo nequam in ore carnis suae non desinet donec incendat ignem.
 
 24 Homini fornicario omnis panis dulcis, non fatigabitur transgrediens usque ad finem.
 
 25 Omnis homo qui transgreditur lectum suum, contemnens in animam suam, et dicens: Quis me videt?
 
-26 tenebræ circumdant me, et parietes cooperiunt me, et nemo circumspicit me: quem vereor? delictorum meorum non memorabitur Altissimus.
+26 tenebrae circumdant me, et parietes cooperiunt me, et nemo circumspicit me: quem vereor? delictorum meorum non memorabitur Altissimus.
 
 27 Et non intelligit quoniam omnia videt oculus illius, quoniam expellit a se timorem Dei huiusmodi hominis timor, et oculi hominum timentes illum:
 
@@ -71,7 +71,7 @@ draft: false
 
 33 primo enim in lege Altissimi incredibilis fuit: secundo in virum suum deliquit: tertio in adulterio fornicata est, et ex alio viro filios statuit sibi.
 
-34 Hæc in ecclesiam adducetur, et in filios eius respicietur.
+34 Haec in ecclesiam adducetur, et in filios eius respicietur.
 
 35 Non tradent filii eius radices, et rami eius non dabunt fructum.
 

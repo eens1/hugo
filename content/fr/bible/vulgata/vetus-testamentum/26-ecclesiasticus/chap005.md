@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Noli attendere ad possessiones iniquas, et ne dixeris: Est mihi sufficiens vita: nihil enim proderit in tempore vindictæ et obductionis.
+1 Noli attendere ad possessiones iniquas, et ne dixeris: Est mihi sufficiens vita: nihil enim proderit in tempore vindictae et obductionis.
 
 2 Ne sequaris in fortitudine tua concupiscentiam cordis tui:
 
@@ -21,13 +21,13 @@ draft: false
 
 8 Non tardes converti ad Dominum, et ne differas de die in diem.
 
-9 subito enim veniet ira illius, et in tempore vindictæ disperdet te.
+9 subito enim veniet ira illius, et in tempore vindictae disperdet te.
 
-10 Noli anxius esse in divitiis iniustis: non enim proderunt tibi in die obductionis et vindictæ.
+10 Noli anxius esse in divitiis iniustis: non enim proderunt tibi in die obductionis et vindictae.
 
 11 Non ventiles te in omnem ventum, et non eas in omnem viam. sic enim omnis peccator probatur in duplici lingua.
 
-12 Esto firmus in via Domini, et in veritate sensus tui et scientia, et prosequatur te verbum pacis et iustitiæ.
+12 Esto firmus in via Domini, et in veritate sensus tui et scientia, et prosequatur te verbum pacis et iustitiae.
 
 13 Esto mansuetus ad audiendum verbum, ut intelligas: et cum sapientia proferas responsum verum.
 
@@ -37,7 +37,7 @@ draft: false
 
 16 Non appelleris susurro, et lingua tua ne capiaris, et confundaris.
 
-17 Super furem enim est confusio et pœnitentia, et denotatio pessima super bilinguem: susurratori autem odium, et inimicitia, et contumelia.
+17 Super furem enim est confusio et poenitentia, et denotatio pessima super bilinguem: susurratori autem odium, et inimicitia, et contumelia.
 
 18 Iustifica pusillum, et magnum similiter.
 

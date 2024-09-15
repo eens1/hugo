@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 Igitur post hæc fecit sibi Absalom currus, et equites, et quinquaginta viros, qui præcederent eum.
+1 Igitur post haec fecit sibi Absalom currus, et equites, et quinquaginta viros, qui praecederent eum.
 
-2 Et mane consurgens Absalom, stabat iuxta introitum portæ, et omnem virum, qui habebat negotium ut veniret ad regis iudicium, vocabat Absalom ad se, et dicebat: De qua civitate es tu? Qui respondens aiebat: Ex una tribu Israel ego sum servus tuus.
+2 Et mane consurgens Absalom, stabat iuxta introitum portae, et omnem virum, qui habebat negotium ut veniret ad regis iudicium, vocabat Absalom ad se, et dicebat: De qua civitate es tu? Qui respondens aiebat: Ex una tribu Israel ego sum servus tuus.
 
 3 Respondebatque ei Absalom: Videntur mihi sermones tui boni et iusti. Sed non est qui te audiat constitutus a rege. dicebatque Absalom:
 
@@ -17,13 +17,13 @@ draft: false
 
 6 Faciebatque hoc omni Israel venienti ad iudicium, ut audiretur a rege, et solicitabat corda virorum Israel.
 
-7 Post quadraginta autem annos, dixit Absalom ad regem David: Vadam, et reddam vota mea quæ vovi Domino in Hebron.
+7 Post quadraginta autem annos, dixit Absalom ad regem David: Vadam, et reddam vota mea quae vovi Domino in Hebron.
 
-8 Vovens enim vovit servus tuus, cum esset in Gessur Syriæ, dicens: Si reduxerit me Dominus in Ierusalem, sacrificabo Domino.
+8 Vovens enim vovit servus tuus, cum esset in Gessur Syriae, dicens: Si reduxerit me Dominus in Ierusalem, sacrificabo Domino.
 
 9 Dixitque ei rex David: Vade in pace. Et surrexit, et abiit in Hebron.
 
-10 Misit autem Absalom exploratores in universas tribus Israel, dicens: Statim ut audieritis clangorem buccinæ, dicite: Regnavit Absalom in Hebron.
+10 Misit autem Absalom exploratores in universas tribus Israel, dicens: Statim ut audieritis clangorem buccinae, dicite: Regnavit Absalom in Hebron.
 
 11 Porro cum Absalom ierunt ducenti viri de Ierusalem vocati, euntes simplici corde, et causam penitus ignorantes.
 
@@ -33,29 +33,29 @@ draft: false
 
 14 Et ait David servis suis, qui erant cum eo in Ierusalem: Surgite, fugiamus: neque enim erit nobis effugium a facie Absalom: festinate egredi, ne forte veniens occupet nos, et impellat super nos ruinam, et percutiat civitatem in ore gladii.
 
-15 Dixeruntque servi regis ad eum: omnia quæcumque præceperit dominus noster rex, libenter exequemur servi tui.
+15 Dixeruntque servi regis ad eum: omnia quaecumque praeceperit dominus noster rex, libenter exequemur servi tui.
 
 16 Egressus est ergo rex, et universa domus eius pedibus suis: et dereliquit rex decem mulieres concubinas ad custodiendam domum.
 
 17 Egressusque rex et omnis Israel pedibus suis, stetit procul a domo:
 
-18 et universi servi eius ambulabant iuxta eum, et legiones Cerethi, et Phelethi, et omnes Gethæi, pugnatores validi, sexcenti viri qui secuti eum fuerant de Geth pedites, præcedebant regem.
+18 et universi servi eius ambulabant iuxta eum, et legiones Cerethi, et Phelethi, et omnes Gethaei, pugnatores validi, sexcenti viri qui secuti eum fuerant de Geth pedites, praecedebant regem.
 
-19 Dixit autem rex ad Ethai Gethæum: Cur venis nobiscum? revertere, et habita cum rege, quia peregrinus es, et egressus es de loco tuo.
+19 Dixit autem rex ad Ethai Gethaeum: Cur venis nobiscum? revertere, et habita cum rege, quia peregrinus es, et egressus es de loco tuo.
 
 20 Heri venisti, et hodie compelleris nobiscum egredi? ego autem vadam quo iturus sum: revertere, et reduc tecum fratres tuos, et Dominus faciet tecum misericordiam, et veritatem, quia ostendisti gratiam et fidem.
 
 21 Et respondit Ethai regi, dicens: Vivit Dominus, et vivit dominus meus rex: quoniam in quocumque loco fueris domine mi rex, sive in morte, sive in vita, ibi erit servus tuus.
 
-22 Et ait David Ethai: Veni, et transi. Et transivit Ethai Gethæus, et omnes viri, qui cum eo erant, et reliqua multitudo.
+22 Et ait David Ethai: Veni, et transi. Et transivit Ethai Gethaeus, et omnes viri, qui cum eo erant, et reliqua multitudo.
 
-23 Omnesque flebant voce magna, et universus populus transibat: rex quoque transgrediebatur Torrentem Cedron, et cunctus populus incedebat contra viam, quæ respicit ad desertum.
+23 Omnesque flebant voce magna, et universus populus transibat: rex quoque transgrediebatur Torrentem Cedron, et cunctus populus incedebat contra viam, quae respicit ad desertum.
 
-24 Venit autem et Sadoc sacerdos, et universi Levitæ cum eo, portantes arcam fœderis Dei, et deposuerunt arcam Dei: et ascendit Abiathar, donec expletus esset omnis populus, qui egressus fuerat de civitate.
+24 Venit autem et Sadoc sacerdos, et universi Levitae cum eo, portantes arcam foederis Dei, et deposuerunt arcam Dei: et ascendit Abiathar, donec expletus esset omnis populus, qui egressus fuerat de civitate.
 
 25 Et dixit rex ad Sadoc: Reporta arcam Dei in urbem: si invenero gratiam in oculis Domini, reducet me, et ostendet mihi eam, et tabernaculum suum.
 
-26 Si autem dixerit mihi: Non places: præsto sum, faciat quod bonum est coram se.
+26 Si autem dixerit mihi: Non places: praesto sum, faciat quod bonum est coram se.
 
 27 Et dixit rex ad Sadoc sacerdotem: O videns revertere in civitatem in pace: et Achimaas filius tuus, et Ionathas filius Abiathar duo filii vestri, sint vobiscum.
 
@@ -65,7 +65,7 @@ draft: false
 
 30 Porro David ascendebat Clivum olivarum, scandens et flens, nudis pedibus incedens, et operto capite, sed et omnis populus, qui erat cum eo, operto capite ascendebat plorans.
 
-31 Nunciatum est autem David quod et Achitophel esset in coniuratione cum Absalom, dixitque David: Infatua, quæso, Domine consilium Achitophel.
+31 Nunciatum est autem David quod et Achitophel esset in coniuratione cum Absalom, dixitque David: Infatua, quaeso, Domine consilium Achitophel.
 
 32 Cumque ascenderet David summitatem montis, in quo adoraturus erat Dominum, ecce occurrit ei Chusai Arachites, scissa veste, et terra pleno capite.
 

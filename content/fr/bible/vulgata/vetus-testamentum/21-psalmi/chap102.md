@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Ipsi David. Benedic anima mea Domino et omnia, quæ intra me sunt, nomini sancto eius.
+1 Ipsi David. Benedic anima mea Domino et omnia, quae intra me sunt, nomini sancto eius.
 
 2 Benedic anima mea Domino: et noli oblivisci omnes retributiones eius:
 
@@ -13,7 +13,7 @@ draft: false
 
 4 Qui redimit de interitu vitam tuam: qui coronat te in misericordia et miserationibus.
 
-5 Qui replet in bonis desiderium tuum: renovabitur ut aquilæ iuventus tua:
+5 Qui replet in bonis desiderium tuum: renovabitur ut aquilae iuventus tua:
 
 6 Faciens misericordias Dominus: et iudicium omnibus iniuriam patientibus.
 
@@ -21,11 +21,11 @@ draft: false
 
 8 Miserator, et misericors Dominus: longanimis, et multum misericors.
 
-9 Non in perpetuum irascetur: neque in æternum comminabitur.
+9 Non in perpetuum irascetur: neque in aeternum comminabitur.
 
 10 Non secundum peccata nostra fecit nobis: neque secundum iniquitates nostras retribuit nobis.
 
-11 Quoniam secundum altitudinem cæli a terra: corroboravit misericordiam suam super timentes se.
+11 Quoniam secundum altitudinem caeli a terra: corroboravit misericordiam suam super timentes se.
 
 12 Quantum distat Ortus ab occidente: longe fecit a nobis iniquitates nostras.
 
@@ -33,15 +33,15 @@ draft: false
 
 14 quoniam ipse cognovit figmentum nostrum. Recordatus est quoniam pulvis sumus:
 
-15 homo, sicut fœnum dies eius, tamquam flos agri sic efflorebit.
+15 homo, sicut foenum dies eius, tamquam flos agri sic efflorebit.
 
 16 Quoniam spiritus pertransibit in illo, et non subsistet: et non cognoscet amplius locum suum.
 
-17 Misericordia autem Domini ab æterno, et usque in æternum super timentes eum. Et iustitia illius in filios filiorum,
+17 Misericordia autem Domini ab aeterno, et usque in aeternum super timentes eum. Et iustitia illius in filios filiorum,
 
 18 his qui servant testamentum eius: Et memores sunt mandatorum ipsius, ad faciendum ea.
 
-19 Dominus in cælo paravit sedem suam: et regnum ipsius omnibus dominabitur.
+19 Dominus in caelo paravit sedem suam: et regnum ipsius omnibus dominabitur.
 
 20 Benedicite Domino omnes angeli eius: potentes virtute, facientes verbum illius, ad audiendam vocem sermonum eius.
 

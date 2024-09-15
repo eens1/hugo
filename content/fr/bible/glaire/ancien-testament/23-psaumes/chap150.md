@@ -15,10 +15,10 @@ summary: |
 ***Note*** :  Ps. 150, 1-6 : Le dernier des psaumes n’est qu’une magnifique doxologie dans laquelle le Psalmiste invite triez fois, en comprenant dans ce nombre l’alleluia initial et final, à louer Dieu dans le temple, ― Verset 1 : à cause de sa grandeur, ― Verset 2 : avec toute sorte d’instruments de musique, versets 3 à 5 (? ). La synagogue compte, d’après Exode, 34, 6-7, treize attributs de Dieu. Kimchi dit que les treize louanges du Psaume 150 correspondent à ces treize attributs.
 
 
-2 Louez-le dans les œuvres de sa puissance ; louez-le selon la multitude de ses grandeurs.
+2 Louez-le dans les oeuvres de sa puissance ; louez-le selon la multitude de ses grandeurs.
 
 
-3 Louez-le au son de la trompette; louez-le sur le psaltérion et sur la harpe. 4 Louez-le sur le tambour et en chœur; louez-le sur les instruments à corde et sur l'orgue.
+3 Louez-le au son de la trompette; louez-le sur le psaltérion et sur la harpe. 4 Louez-le sur le tambour et en choeur; louez-le sur les instruments à corde et sur l'orgue.
 
 
 5 Louez-le sur les cymbales sonores; louez-le sur les cymbales de jubilation; 6 Que tout esprit loue le Seigneur. Alléluia.

@@ -23,7 +23,7 @@ summary: |
 
 ***Note*** :  Tobie 8, 8 : Voir Genèse, 2, 7.
 
-9 Et maintenant, Seigneur, vous savez, vous, que ce n'est point pour cause de passion que je prends ma sœur pour épouse, mais par le seul désir d'une postérité dans laquelle soit béni votre nom dans les siècles des siècles. 10 Sara dit aussi : Ayez pitié de nous, Seigneur, ayez pitié de nous, et que nous vieillissions tous deux ensemble en bonne santé.
+9 Et maintenant, Seigneur, vous savez, vous, que ce n'est point pour cause de passion que je prends ma soeur pour épouse, mais par le seul désir d'une postérité dans laquelle soit béni votre nom dans les siècles des siècles. 10 Sara dit aussi : Ayez pitié de nous, Seigneur, ayez pitié de nous, et que nous vieillissions tous deux ensemble en bonne santé.
 
 
 11 Et il arriva, vers le chant des coqs, que Raguel commanda qu'on fît venir ses serviteurs ; et ils s'en allèrent avec lui en même temps pour creuser un sépulcre.

@@ -19,7 +19,7 @@ summary: |
 ***Note*** :  Abd. 1, 1 : Dit. Le complément de ce verbe ne se trouvant qu’au verset 2, nous avons mis, comme Martini entre des crochets, les mots nous avons entendu, etc. ; mots qui se lisent d’ailleurs dans Jérémie, 49, 14. ― A Edom ou touchant Edom ; c’est-à-dire l’Idumée. ― Nous, prophètes. Outre Abdias, Isaïe (voir Isaïe, chapitre 34), Jérémie, (voir Jérémie, 49, 7-22), Ezéchiel (voir Ezéchiel, 25, 12-14), et l’auteur du Psaumes, 136, 7, ont prophétisé contre Edom.
 
 
-2 Voici que je t'ai placé très petit parmi les nations, tu es fort méprisable. 3 L'orgueil de ton cœur t'a élevé, toi habitant dans les fentes des rochers, exaltant ton trône; toi qui dis dans ton cœur : Qui me fera descendre à terre?
+2 Voici que je t'ai placé très petit parmi les nations, tu es fort méprisable. 3 L'orgueil de ton coeur t'a élevé, toi habitant dans les fentes des rochers, exaltant ton trône; toi qui dis dans ton coeur : Qui me fera descendre à terre?
 
 ***Note*** :  Abd. 1, 3 : Habitant dans les fentes des rochers. Les habitants de Pétra, capitale de l’Idumée, avaient des demeures taillées dans le roc.
 

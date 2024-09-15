@@ -15,9 +15,9 @@ draft: false
 
 5 Nonne lux impii extinguetur, nec splendebit flamma ignis eius?
 
-6 Lux obtenebrescet in tabernaculo illius, et lucerna, quæ super eum est, extinguetur.
+6 Lux obtenebrescet in tabernaculo illius, et lucerna, quae super eum est, extinguetur.
 
-7 Arctabuntur gressus virtutis eius, et præcipitabit eum consilium suum.
+7 Arctabuntur gressus virtutis eius, et praecipitabit eum consilium suum.
 
 8 Immisit enim in rete pedes suos, et in maculis eius ambulat.
 
@@ -41,9 +41,9 @@ draft: false
 
 18 Expellet eum de luce in tenebras, et de orbe transferet eum.
 
-19 Non erit semen eius, neque progenies in populo suo, nec ullæ reliquiæ in regionibus eius.
+19 Non erit semen eius, neque progenies in populo suo, nec ullae reliquiae in regionibus eius.
 
 20 In die eius stupebunt novissimi, et primos invadet horror.
 
-21 Hæc sunt ergo tabernacula iniqui, et iste locus eius, qui ignorat Deum.
+21 Haec sunt ergo tabernacula iniqui, et iste locus eius, qui ignorat Deum.
 

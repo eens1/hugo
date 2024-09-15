@@ -15,11 +15,11 @@ summary: |
 1 A la septième année, tu feras la rémission, 2 Qui sera célébrée de cette manière : Celui à qui il est dû quelque chose par son ami ou son prochain et son frère, ne pourra le redemander, parce que c'est l'année de la rémission du Seigneur. 3 Tu l'exigeras du voyageur et de l'étranger : tu n'auras pas le pouvoir de le redemander à ton concitoyen et à un de tes proches. 4 Et il n'y aura aucun indigent et aucun mendiant parmi vous, afin que le Seigneur ton Dieu te bénisse dans la terre qu'il va te livrer en possession. 5 Si cependant tu écoutes la voix du Seigneur ton Dieu, et que tu observes tout ce qu'il a commandé, et que moi aujourd'hui, je te prescris, il te bénira comme il a promis. 6 Tu prêteras à beaucoup de nations, mais toi-même, tu ne recevras de prêt de personne. Tu domineras sur plusieurs nations, et personne ne te dominera.
 
 
-7 Si un de tes frères qui demeurera au dedans des portes de ta ville, dans la terre que le Seigneur ton Dieu va te donner, tombe dans la pauvreté, tu n'endurciras point ton cœur, et tu ne resserreras point ta main, 8 Mais tu l'ouvriras au pauvre, et tu lui prêteras ce dont tu verras qu'il aura besoin.
+7 Si un de tes frères qui demeurera au dedans des portes de ta ville, dans la terre que le Seigneur ton Dieu va te donner, tombe dans la pauvreté, tu n'endurciras point ton coeur, et tu ne resserreras point ta main, 8 Mais tu l'ouvriras au pauvre, et tu lui prêteras ce dont tu verras qu'il aura besoin.
 
 ***Note*** :  Dr. 15, 8 : Voir Matthieu, 5, 42, Luc, 6, 34.
 
-9 Prends garde qu'une pensée impie ne s'insinue en toi, et que tu ne dises en ton cœur : La septième année de la rémission approche ; et que tu ne détournes ainsi les yeux de ton frère pauvre, ne voulant pas lui faire le prêt qu'il demande, de peur qu'il ne crie contre toi au Seigneur, et que cela ne devienne pour toi un péché. 10 Mais tu lui donneras, et tu ne feras rien avec ruse en soulageant ses besoins pressants, afin que le Seigneur ton Dieu te bénisse en tout temps et en toutes les choses auxquelles tu auras mis la main. 11 Les pauvres ne manqueront pas dans la terre de ton habitation ; c'est pour cela que moi, je t'ordonne d'ouvrir ta main à ton frère indigent et pauvre, qui demeure avec toi dans ta terre.
+9 Prends garde qu'une pensée impie ne s'insinue en toi, et que tu ne dises en ton coeur : La septième année de la rémission approche ; et que tu ne détournes ainsi les yeux de ton frère pauvre, ne voulant pas lui faire le prêt qu'il demande, de peur qu'il ne crie contre toi au Seigneur, et que cela ne devienne pour toi un péché. 10 Mais tu lui donneras, et tu ne feras rien avec ruse en soulageant ses besoins pressants, afin que le Seigneur ton Dieu te bénisse en tout temps et en toutes les choses auxquelles tu auras mis la main. 11 Les pauvres ne manqueront pas dans la terre de ton habitation ; c'est pour cela que moi, je t'ordonne d'ouvrir ta main à ton frère indigent et pauvre, qui demeure avec toi dans ta terre.
 
 ***Note*** :  Dr. 15, 11 : Voir Matthieu, 26, 11.
 
@@ -39,7 +39,7 @@ summary: |
 18 Ne détourne point tes yeux d'eux, quand tu les auras renvoyés libres, parce qu'il t'a servi pendant six ans, avec le salaire d'un mercenaire, afin que le Seigneur ton Dieu te bénisse dans tous les ouvrages que tu feras.
 
 
-19 Quant aux premiers-nés, qui naissent dans ton gros bétail et parmi tes brebis, tu consacreras au Seigneur ton Dieu tout ce qui est mâle. Tu n'emploieras point au travail le premier-né du bœuf, et tu ne tondras point les premiers-nés des brebis. 20 Tu les mangeras chaque année, toi et ta maison, en la présence du Seigneur ton Dieu, au lieu qu'aura choisi le Seigneur. 21 Mais si le premier-né a une tache, s'il est boiteux, ou aveugle, ou difforme en quelque endroit, ou mutilé, il ne sera point immolé au Seigneur ton Dieu ;
+19 Quant aux premiers-nés, qui naissent dans ton gros bétail et parmi tes brebis, tu consacreras au Seigneur ton Dieu tout ce qui est mâle. Tu n'emploieras point au travail le premier-né du boeuf, et tu ne tondras point les premiers-nés des brebis. 20 Tu les mangeras chaque année, toi et ta maison, en la présence du Seigneur ton Dieu, au lieu qu'aura choisi le Seigneur. 21 Mais si le premier-né a une tache, s'il est boiteux, ou aveugle, ou difforme en quelque endroit, ou mutilé, il ne sera point immolé au Seigneur ton Dieu ;
 
 ***Note*** :  Dr. 15, 21 : Voir lévitique, 22, 20-21 ; Ecclésiastique, 35, 14.
 

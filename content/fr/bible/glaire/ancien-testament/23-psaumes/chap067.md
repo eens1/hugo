@@ -78,7 +78,7 @@ La neige blanchit le Selmon. Le sens des quatre premiers vers est suffisamment c
 
 15 Tandis que le roi du ciel disperse des rois sur elle, ils deviendront blancs par la neige qui est sur Selmon.
 
-***Note*** :  Ps. 67, 15 : Sur elle (super eam) ; sur la terre exprimée au verset 9, ou mieux, peut-être, sur l’héritage, (hæreditas) du verset 10, lequel est féminin en latin. ― Ils deviendront blancs par la neige abondante du mont Selmon, sous laquelle ils seront ensevelis ; selon d’autres : Les lieux deviendront blancs comme la neige, par les ossements des cadavres qui les couvriront. C’est ainsi qu’on lit dans Virgile (Enéid. , V, 865) : Des rochers blancs d’ossements ; et (XII, 36) : Les champs sont blancs par les ossements ; et dans Ovide (Fast. , l. I) : La terre est blanche d’ossements humains. La première interprétation nous semble plus simple et plus naturelle.
+***Note*** :  Ps. 67, 15 : Sur elle (super eam) ; sur la terre exprimée au verset 9, ou mieux, peut-être, sur l’héritage, (haereditas) du verset 10, lequel est féminin en latin. ― Ils deviendront blancs par la neige abondante du mont Selmon, sous laquelle ils seront ensevelis ; selon d’autres : Les lieux deviendront blancs comme la neige, par les ossements des cadavres qui les couvriront. C’est ainsi qu’on lit dans Virgile (Enéid. , V, 865) : Des rochers blancs d’ossements ; et (XII, 36) : Les champs sont blancs par les ossements ; et dans Ovide (Fast. , l. I) : La terre est blanche d’ossements humains. La première interprétation nous semble plus simple et plus naturelle.
 
 
 16 La montagne de Dieu est une montagne grasse : Montagne fertile, montagne grasse.

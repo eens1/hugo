@@ -61,7 +61,7 @@ summary: |
 13 Tes richesses et tes trésors, je les abandonnerai au pillage sans aucun profit, à cause de tous tes péchés, et cela dans tous les confins. 14 Et j'amènerai tes ennemis d'une terre que tu ne connais pas, parce qu'un feu s'est allumé dans ma fureur et qu'il vous embrasera.
 
 
-15 Vous savez mon affliction. Seigneur, souvenez-vous de moi, venez vers moi et protégez-moi contre ceux qui me persécutent; et ne soyez pas lent à me défendre; sachez que c'est pour vous que je supporte l'opprobre. 16 Vos discours me sont parvenus, et je les ai dévorés, et votre parole est devenue la joie et le ravissement de mon cœur; parce que votre nom a été invoqué sur moi, Seigneur Dieu des armées.
+15 Vous savez mon affliction. Seigneur, souvenez-vous de moi, venez vers moi et protégez-moi contre ceux qui me persécutent; et ne soyez pas lent à me défendre; sachez que c'est pour vous que je supporte l'opprobre. 16 Vos discours me sont parvenus, et je les ai dévorés, et votre parole est devenue la joie et le ravissement de mon coeur; parce que votre nom a été invoqué sur moi, Seigneur Dieu des armées.
 
 ***Note*** :  Jr. 15, 16 : Votre nom, etc. ; ou bien, je porte votre nom, puisque je suis appelé le prophète du Seigneur. Comparer à Jérémie, 14, 9.
 

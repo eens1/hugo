@@ -25,7 +25,7 @@ summary: |
 
 ***Note*** :  II Par. 32, 5 : Il bâtit, pour il rebâtit. Voir 3 Rois, 12, 25. ― Mello, voir 2 Rois, 5, 9.
 
-6 Et il établit ensuite des chefs de combattants dans l'armée; puis il les convoqua sur la place de la porte de la cité, et il parla à leur cœur, disant :7 Agissez courageusement, et fortifiez-vous : ne craignez point, et ne redoutez point le roi des Assyriens, ni toute cette multitude qui est avec lui; car il y a un plus grand nombre avec nous qu'avec lui. 8 Car avec lui est un bras de chair; avec nous le Seigneur notre Dieu, qui est notre aide et combat pour nous. Et le peuple fut fortifié par ces paroles d'Ezéchias, roi de Juda.
+6 Et il établit ensuite des chefs de combattants dans l'armée; puis il les convoqua sur la place de la porte de la cité, et il parla à leur coeur, disant :7 Agissez courageusement, et fortifiez-vous : ne craignez point, et ne redoutez point le roi des Assyriens, ni toute cette multitude qui est avec lui; car il y a un plus grand nombre avec nous qu'avec lui. 8 Car avec lui est un bras de chair; avec nous le Seigneur notre Dieu, qui est notre aide et combat pour nous. Et le peuple fut fortifié par ces paroles d'Ezéchias, roi de Juda.
 
 
 9 Après que ces choses se furent passées, Sennachérib, roi des Assyriens, envoya ses serviteurs à Jérusalem (car lui-même assiégeait Lachis avec toute son armée) vers Ezéchias, roi de Juda, et vers tout le peuple qui était dans la ville, disant :
@@ -52,14 +52,14 @@ Car si aucun dieu de toutes les nations et de tous les royaumes n'a pu délivrer
 
 ***Note*** :  II Par. 32, 24 : Voir 4 Rois, 20, 1 ; Isaïe, 38, 1. ― Voir, sur la maladie et la guérison miraculeuse d’Ezéchias, 4 Rois, chapitre 20.
 
-25 Mais Ezéchias ne rendit pas à Dieu selon les biens qu'il avait reçus, parce que son cœur s'éleva, et la colère du Seigneur s'alluma contre lui, contre Juda et contre Jérusalem. 26 Mais ensuite il s'humilia autant lui-même que les habitants de Jérusalem, de ce que son cœur s'était exalté : et c'est pourquoi la colère du Seigneur ne vint point sur eux dans les jours d'Ezéchias.
+25 Mais Ezéchias ne rendit pas à Dieu selon les biens qu'il avait reçus, parce que son coeur s'éleva, et la colère du Seigneur s'alluma contre lui, contre Juda et contre Jérusalem. 26 Mais ensuite il s'humilia autant lui-même que les habitants de Jérusalem, de ce que son coeur s'était exalté : et c'est pourquoi la colère du Seigneur ne vint point sur eux dans les jours d'Ezéchias.
 
 
-27 Or Ezéchias fut riche et très illustre; il s'amassa beaucoup de trésors d'argent, d'or, de pierres précieuses, d'aromates, d'armes de tout genre, et de vases de grand prix. 28 Il avait aussi des magasins de blé, devin et d'huile, des écuries pour toute sorte de gros bétail, et des parcs pour des troupeaux. 29 Et il bâtit des villes pour lui ; car il avait des troupeaux de brebis et de gros bétail innombrables, parce que le Seigneur lui avait donné des biens en très grande abondance. 30 C'est ce même Ezéchias qui boucha la fontaine supérieure des eaux de Gihon, et les détourna sous terre vers l'occident de la ville de David; en toutes ses œuvres il fit heureusement ce qu'il voulut.
+27 Or Ezéchias fut riche et très illustre; il s'amassa beaucoup de trésors d'argent, d'or, de pierres précieuses, d'aromates, d'armes de tout genre, et de vases de grand prix. 28 Il avait aussi des magasins de blé, devin et d'huile, des écuries pour toute sorte de gros bétail, et des parcs pour des troupeaux. 29 Et il bâtit des villes pour lui ; car il avait des troupeaux de brebis et de gros bétail innombrables, parce que le Seigneur lui avait donné des biens en très grande abondance. 30 C'est ce même Ezéchias qui boucha la fontaine supérieure des eaux de Gihon, et les détourna sous terre vers l'occident de la ville de David; en toutes ses oeuvres il fit heureusement ce qu'il voulut.
 
 ***Note*** :  II Par. 32, 30 : Qui boucha la fontaine, etc. Ces mots semblent mentionner le percement du canal souterrain taillé dans le roc qu’on a découvert ces dernières années et qui conduit les eaux de la Fontaine appelée aujourd’hui de la Vierge, au sud-est de Jérusalem, dans la piscine de Siloé. Voir Jean, note 9. 7
 
-31 Cependant dans le message des princes de Babylone qui avaient été envoyés vers lui pour s'informer du prodige qui était arrivé sur la terre. Dieu l'abandonna pour le tenter et pour faire connaître tout ce qui était en son cœur.
+31 Cependant dans le message des princes de Babylone qui avaient été envoyés vers lui pour s'informer du prodige qui était arrivé sur la terre. Dieu l'abandonna pour le tenter et pour faire connaître tout ce qui était en son coeur.
 
 ***Note*** :  II Par. 32, 31 : Du prodige, etc. Voir 4 Rois, 20, 8-11.
 

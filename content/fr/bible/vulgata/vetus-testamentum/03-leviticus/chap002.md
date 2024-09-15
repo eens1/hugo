@@ -7,17 +7,17 @@ draft: false
 
 1 Anima cum obtulerit oblationem sacrificii Domino, simila erit eius oblatio. fundetque super eam oleum, et ponet thus,
 
-2 ac deferet ad filios Aaron sacerdotes: quorum unus tollet pugillum plenum similæ et olei, ac totum thus, et ponet memoriale super altare in odorem suavissimum Domino.
+2 ac deferet ad filios Aaron sacerdotes: quorum unus tollet pugillum plenum similae et olei, ac totum thus, et ponet memoriale super altare in odorem suavissimum Domino.
 
 3 quod autem reliquum fuerit de sacrificio, erit Aaron et filiorum eius, Sanctum sanctorum de oblationibus Domini.
 
 4 Cum autem obtuleris sacrificium coctum in clibano: de simila, panes scilicet absque fermento, conspersos oleo, et lagana azyma oleo lita.
 
-5 Si oblatio tua fuerit de sartagine, similæ conspersæ oleo et absque fermento,
+5 Si oblatio tua fuerit de sartagine, similae conspersae oleo et absque fermento,
 
 6 divides eam minutatim, et fundes super eam oleum.
 
-7 Sin autem de craticula fuerit sacrificium, æque simila oleo conspergetur:
+7 Sin autem de craticula fuerit sacrificium, aeque simila oleo conspergetur:
 
 8 quam offerens Domino, trades manibus sacerdotis.
 
@@ -25,11 +25,11 @@ draft: false
 
 10 quidquid autem reliquum est, erit Aaron, et filiorum eius, Sanctum sanctorum de oblationibus Domini.
 
-11 Omnis oblatio, quæ offeretur Domino, absque fermento fiet, nec quidquam fermenti ac mellis adolebitur in sacrificio Domino.
+11 Omnis oblatio, quae offeretur Domino, absque fermento fiet, nec quidquam fermenti ac mellis adolebitur in sacrificio Domino.
 
 12 Primitias tantum eorum offeretis ac munera: super altare vero non imponentur in odorem suavitatis.
 
-13 Quidquid obtuleris sacrificii, sale condies, nec auferes sal fœderis Dei tui de sacrificio tuo. In omni oblatione tua offeres sal.
+13 Quidquid obtuleris sacrificii, sale condies, nec auferes sal foederis Dei tui de sacrificio tuo. In omni oblatione tua offeres sal.
 
 14 Si autem obtuleris munus primarum frugum tuarum Domino de spicis adhuc virentibus, torrebis igni, et confringes in morem farris, et sic offeres primitias tuas Domino,
 

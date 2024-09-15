@@ -10,7 +10,7 @@ summary: |
 
 1 Cantique des degrés. Des profondeurs de l'abîme j'ai crié vers vous, Seigneur ;
 
-***Note*** :  Ps. 129, 1 : Des profondeurs de l’abîme ; c’est-à-dire de mon malheur, de ma misère, de mon infortune ; ou selon saint Chrysostome, Théodoret et quelques auteurs grecs, au fond de mon cœur.
+***Note*** :  Ps. 129, 1 : Des profondeurs de l’abîme ; c’est-à-dire de mon malheur, de ma misère, de mon infortune ; ou selon saint Chrysostome, Théodoret et quelques auteurs grecs, au fond de mon coeur.
 
 ***Note*** :  Ps. 129, 1-8 : Ce psaume, le 6e des pénitentiaux, est, dans les prières de l’Eglise, le gémissement des âmes du purgatoire. C’est une invocation touchante du pécheur qui demande à Dieu de le traiter avec miséricorde. « Ce chant extraordinaire, que chacun de nous a répété sur sa propre douleur, [fut] d’abord l’explosion d’un déchirement individuel, explosion d’un pathétique tellement expressif que, n’ayant ni auparavant ni depuis rien entendu de comparable, l’Eglise en a fait la lamentation liturgique des adieux suprêmes. » (E. OLLIVIER. ) ― Quatre strophes : Versets 1 et 2 : Appel à la miséricorde de Dieu ; ― Versets 3 à 4a : parce que, s’il traite tout le monde avec une justice rigoureuse, personne ne pourra le soutenir. ― Versets 4b à 6 : Motif de confiance : Le Psalmiste espère, ― Versets 7 et 8 : parce que Dieu est plein de miséricorde.
 

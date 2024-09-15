@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Philisthiim autem pugnabant contra Israel, fugeruntque viri Israel Palæsthinos, et ceciderunt vulnerati in monte Gelboe.
+1 Philisthiim autem pugnabant contra Israel, fugeruntque viri Israel Palaesthinos, et ceciderunt vulnerati in monte Gelboe.
 
-2 Cumque appropinquassent Philisthæi persequentes Saul, et filios eius, percusserunt Ionathan, et Abinadab, et Melchisua filios Saul.
+2 Cumque appropinquassent Philisthaei persequentes Saul, et filios eius, percusserunt Ionathan, et Abinadab, et Melchisua filios Saul.
 
-3 Et aggravatum est prælium contra Saul, inveneruntque eum sagittarii, et vulneraverunt iaculis.
+3 Et aggravatum est praelium contra Saul, inveneruntque eum sagittarii, et vulneraverunt iaculis.
 
 4 Et dixit Saul ad armigerum suum: Evagina gladium tuum, et interfice me: ne forte veniant incircumcisi isti, et illudant mihi. Noluit autem armiger eius hoc facere, timore perterritus: arripuit ergo Saul ensem, et irruit in eum.
 
@@ -19,17 +19,17 @@ draft: false
 
 7 Quod cum vidissent viri Israel, qui habitabant in campestribus, fugerunt: et Saul ac filiis eius mortuis, dereliquerunt urbes suas, et huc illucque dispersi sunt: veneruntque Philisthiim, et habitaverunt in eis.
 
-8 Die igitur altero detrahentes Philisthiim spolia cæsorum, invenerunt Saul, et filios eius iacentes in monte Gelboe.
+8 Die igitur altero detrahentes Philisthiim spolia caesorum, invenerunt Saul, et filios eius iacentes in monte Gelboe.
 
 9 Cumque spoliassent eum, et amputassent caput, armisque nudassent, miserunt in terram suam, ut circumferretur, et ostenderetur idolorum templis, et populis:
 
 10 arma autem eius consecraverunt in fano dei sui, et caput affixerunt in templo Dagon.
 
-11 Hoc cum audissent viri Iabes Galaad, omnia scilicet quæ Philisthiim fecerant super Saul,
+11 Hoc cum audissent viri Iabes Galaad, omnia scilicet quae Philisthiim fecerant super Saul,
 
-12 consurrexerunt singuli virorum fortium, et tulerunt cadavera Saul et filiorum eius: attuleruntque ea in Iabes, et sepelierunt ossa eorum subter quercum, quæ erat in Iabes, et ieiunaverunt septem diebus.
+12 consurrexerunt singuli virorum fortium, et tulerunt cadavera Saul et filiorum eius: attuleruntque ea in Iabes, et sepelierunt ossa eorum subter quercum, quae erat in Iabes, et ieiunaverunt septem diebus.
 
-13 Mortuus est ergo Saul propter iniquitates suas, eo quod prævaricatus sit mandatum Domini quod præceperat, et non custodierit illud: sed insuper etiam pythonissam consuluerit,
+13 Mortuus est ergo Saul propter iniquitates suas, eo quod praevaricatus sit mandatum Domini quod praeceperat, et non custodierit illud: sed insuper etiam pythonissam consuluerit,
 
 14 nec speraverit in Domino: propter quod interfecit eum, et transtulit regnum eius ad David filium Isai.
 

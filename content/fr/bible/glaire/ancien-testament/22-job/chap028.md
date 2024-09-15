@@ -31,15 +31,15 @@ avec un lingot de plomb, d’un poids proportionné à la quantité de paillette
 
 ***Note*** :  Job 28, 6 : Hébreu : « Ses pierres recèlent le lapis-lazuli, [elles contiennent] des paillettes d’or. »
 
-7 L'oiseau en a ignoré le sentier, et l'œil d'un vautour ne l'a pas regardé.
+7 L'oiseau en a ignoré le sentier, et l'oeil d'un vautour ne l'a pas regardé.
 
-***Note*** :  Job 28, 7-8 : Hébreu : « Le sentier [qui y conduit], l’oiseau de proie ne le connaît pas, l’œil du vautour ne l’a pas vu ; les animaux féroces ne l’ont pas foulé, le lion rugissant n’y a pas marché. »
+***Note*** :  Job 28, 7-8 : Hébreu : « Le sentier [qui y conduit], l’oiseau de proie ne le connaît pas, l’oeil du vautour ne l’a pas vu ; les animaux féroces ne l’ont pas foulé, le lion rugissant n’y a pas marché. »
 
 8 Les fils des marchands ne l'ont pas foulé, et la lionne ne l'a pas traversé. 9 Il a étendu sa main contre des rochers, il a renversé des montagnes jusqu'à leurs racines.
 
-***Note*** :  Job 28, 9-11 : Hébreu : « [L’homme] a porté sa main sur le granit, il ébranle les montagnes [jusque dans leur racine] ; il creuse des canaux dans le roc, alors son œil voit tout ce qui est précieux : il ferme [les fissures des rochers pour empêcher] les eaux de filtrer, et il produit à la lumière [du jour] ce qui était caché. »
+***Note*** :  Job 28, 9-11 : Hébreu : « [L’homme] a porté sa main sur le granit, il ébranle les montagnes [jusque dans leur racine] ; il creuse des canaux dans le roc, alors son oeil voit tout ce qui est précieux : il ferme [les fissures des rochers pour empêcher] les eaux de filtrer, et il produit à la lumière [du jour] ce qui était caché. »
 
-10 Il a creusé des ruisseaux dans les pierres, et son œil a vu tout ce qu'il y a de précieux. 11 Il a scruté aussi les profondeurs des fleuves, et il a produit à la lumière des choses cachées.
+10 Il a creusé des ruisseaux dans les pierres, et son oeil a vu tout ce qu'il y a de précieux. 11 Il a scruté aussi les profondeurs des fleuves, et il a produit à la lumière des choses cachées.
 
 
 12 Mais la sagesse, où se trouve-t-elle? Et quel est le lieu de l'intelligence? 13 L'homme n'en connaît pas le prix, et elle ne se trouve pas dans la terre de ceux qui vivent dans les délices. 14 L'abîme dit : Elle n'est pas en moi ; la mer dit aussi ; Elle n'est pas avec moi. 15 On ne la donnera pas pour l'or le plus affiné, et on ne l'échangera pas contre de l'argent au poids.

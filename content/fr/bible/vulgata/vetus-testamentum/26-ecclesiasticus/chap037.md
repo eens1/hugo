@@ -9,7 +9,7 @@ draft: false
 
 2 Sodalis autem et amicus ad inimicitiam convertentur.
 
-3 O præsumptio nequissima, unde create es cooperire aridam malitia, et dolositate illius?
+3 O praesumptio nequissima, unde create es cooperire aridam malitia, et dolositate illius?
 
 4 Sodalis amico coniucundatur in oblectationibus, et in tempore tribulationis adversarius erit.
 
@@ -21,13 +21,13 @@ draft: false
 
 8 Omnis consiliarius prodit consilium, sed est consiliarius in semetipso.
 
-9 A consiliario serva animam tuam. prius scito quæ sit illius necessitas: et ipse enim animo suo cogitabit:
+9 A consiliario serva animam tuam. prius scito quae sit illius necessitas: et ipse enim animo suo cogitabit:
 
 10 ne forte mittat sudem in terram, et dicat tibi:
 
 11 Bona est via tua; et stet e contrario videre quid tibi eveniat.
 
-12 Cum viro irreligioso tracta de sanctitate, et cum iniusto de iustitia, et cum muliere de ea, quæ æmulatur: cum timido de bello: cum negotiatore de traiectione, cum emptore de venditione, cum viro livido de gratiis agendis,
+12 Cum viro irreligioso tracta de sanctitate, et cum iniusto de iustitia, et cum muliere de ea, quae aemulatur: cum timido de bello: cum negotiatore de traiectione, cum emptore de venditione, cum viro livido de gratiis agendis,
 
 13 cum impio de pietate, cum inhonesto de honestate, cum operario agrario de omni opere,
 
@@ -43,17 +43,17 @@ draft: false
 
 19 Et in his omnibus deprecare Altissimum ut dirigat in veritate viam tuam.
 
-20 Ante omnia opera verbum verax præcedat te, et ante omnem actum consilium stabile.
+20 Ante omnia opera verbum verax praecedat te, et ante omnem actum consilium stabile.
 
-21 Verbum nequam immutabit cor: ex quo partes quattuor oriuntur, bonum et malum, vita et mors: et dominatrix illorum est assidua lingua. Est vir astutus multorum eruditor, et animæ suæ inutilis est.
+21 Verbum nequam immutabit cor: ex quo partes quattuor oriuntur, bonum et malum, vita et mors: et dominatrix illorum est assidua lingua. Est vir astutus multorum eruditor, et animae suae inutilis est.
 
-22 Vir peritus multos erudivit, et animæ suæ suavis est.
+22 Vir peritus multos erudivit, et animae suae suavis est.
 
 23 Qui sophistice loquitur, odibilis est: in omni re defraudabitur.
 
 24 non est illi data a Domino gratia: omni enim sapientia defraudatus est.
 
-25 Est sapiens animæ suæ sapiens: et fructus sensus illius laudabilis.
+25 Est sapiens animae suae sapiens: et fructus sensus illius laudabilis.
 
 26 Vir sapiens plebem suam erudit, et fructus sensus illius fideles sunt.
 
@@ -61,11 +61,11 @@ draft: false
 
 28 Vita viri in numero dierum: dies autem Israel innumerabiles sunt.
 
-29 Sapiens in populo hereditabit honorem, et nomen illius erit vivens in æternum.
+29 Sapiens in populo hereditabit honorem, et nomen illius erit vivens in aeternum.
 
 30 Fili in vita tua tenta animam tuam: et si fuerit nequam, non des illi potestatem:
 
-31 non enim omnia omnibus expediunt, et non omni animæ omne genus placet.
+31 non enim omnia omnibus expediunt, et non omni animae omne genus placet.
 
 32 Noli avidus esse in omni epulatione, et non te effundas super omnem escam:
 

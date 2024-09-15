@@ -13,7 +13,7 @@ summary: |
 
 ***Note*** :  Juges 15, 1 : Il lui apporta un chevreau. Voir 1 Rois, note 16. 20.
 
-2 J'ai pensé que tu la haïssais, et c'est pour cela que je l'ai donnée à ton ami. Mais elle a une sœur qui est plus jeune et plus belle; qu'elle soit ta femme au lieu d'elle. 3 Samson lui répondit : Dès ce jour, il n'y aura pas de faute en moi contre les Philistins, si je vous fais du mal.
+2 J'ai pensé que tu la haïssais, et c'est pour cela que je l'ai donnée à ton ami. Mais elle a une soeur qui est plus jeune et plus belle; qu'elle soit ta femme au lieu d'elle. 3 Samson lui répondit : Dès ce jour, il n'y aura pas de faute en moi contre les Philistins, si je vous fais du mal.
 
 ***Note*** :  Juges 15, 3 : Il n’y aura plus, etc. ; c’est-à-dire je ne serai point coupable envers les Philistins.
 

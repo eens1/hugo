@@ -34,7 +34,7 @@ disant : Si vous êtes à moi, et que vous vouliez m'obéir, coupez les têtes d
 12 Et il se leva et il vint à Samarie ; et lorsqu'il fut venu près de la Cabane des pasteurs, en son chemin, 13 Il trouva les frères d'Ochozias, roi de Juda, et il leur demanda : Qui êtes-vous ? Ceux-ci répondirent : Nous sommes les frères d'Ochozias, et nous sommes descendus pour saluer les fils du roi et les fils de la reine. 14 Et Jéhu dit : Prenez-les vivants. Et, lorsqu'ils les eurent pris vivants, ils les égorgèrent sur une citerne près de la Cabane, au nombre de quarante-deux hommes, et il n'en resta pas un seul.
 
 
-15 Et lorsqu'il fut parti de là, il trouva Jonadab, fils de Réchab, à sa rencontre ; et il lui souhaita toute sorte de prospérités. Il lui demanda ensuite : Est-ce que ton cœur est droit, comme mon cœur avec ton cœur? Et Jonadab répondit : m'est. S'il l'est, reprit-il, donne la main. Celui-ci lui donna sa main. Alors Jéhu le fit monter auprès de lui dans son char.
+15 Et lorsqu'il fut parti de là, il trouva Jonadab, fils de Réchab, à sa rencontre ; et il lui souhaita toute sorte de prospérités. Il lui demanda ensuite : Est-ce que ton coeur est droit, comme mon coeur avec ton coeur? Et Jonadab répondit : m'est. S'il l'est, reprit-il, donne la main. Celui-ci lui donna sa main. Alors Jéhu le fit monter auprès de lui dans son char.
 
 ***Note*** :  IV Rois 10, 15 : Réchab. Sur les Réchabites, voir Jérémie, chapitre 35.
 
@@ -67,11 +67,11 @@ disant : Si vous êtes à moi, et que vous vouliez m'obéir, coupez les têtes d
 
 ***Note*** :  IV Rois 10, 29 : A Béthel et à Dan. Voir 3 Rois, 12, 29.
 
-30 Le Seigneur dit donc à Jéhu : Parce que tu as fait avec zèle ce qui était droit et plaisait à mes yeux, et que tout ce qui était en mon cœur, tu l'as fait contre la maison d'Achab, tes enfants, jusqu'à la quatrième génération, seront assis sur le trône d'Israël.
+30 Le Seigneur dit donc à Jéhu : Parce que tu as fait avec zèle ce qui était droit et plaisait à mes yeux, et que tout ce qui était en mon coeur, tu l'as fait contre la maison d'Achab, tes enfants, jusqu'à la quatrième génération, seront assis sur le trône d'Israël.
 
 ***Note*** :  IV Rois 10, 30 : Voir 4 Rois, 15, 12.
 
-31 Cependant Jéhu n'eut pas soin de marcher dans la loi du Seigneur Dieu d'Israël en tout son cœur, et il ne s'écarta par des péchés de Jéroboam, qui avait fait pécher Israël.
+31 Cependant Jéhu n'eut pas soin de marcher dans la loi du Seigneur Dieu d'Israël en tout son coeur, et il ne s'écarta par des péchés de Jéroboam, qui avait fait pécher Israël.
 
 
 32 En ces jours-là, le Seigneur commença à se lasser d'Israël, et Hazaël les battit sur toutes les frontières d'Israël, 33 Depuis le Jourdain, vers le côté oriental, ruinant toute la terre de Galaad, Gad, Ruben et Manassé, depuis Aroër, qui est sur le torrent d'Arnon, et Galaad, et Basan.

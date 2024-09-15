@@ -41,10 +41,10 @@ summary: |
 9 Vous ne m'avez pas renfermé dans les mains d'un ennemi; vous avez mis mes pieds dans un lieu spacieux.
 
 
-10 Ayez pitié de moi. Seigneur, parce que je suis dans la tribulation : mon œil, mon âme et mes entrailles ont été troublés par la colère. 11 Parce que ma vie a défailli dans la douleur, et mes années dans les gémissements. Ma force s'est affaiblie par la pauvreté, et mes os ont été ébranlés :
+10 Ayez pitié de moi. Seigneur, parce que je suis dans la tribulation : mon oeil, mon âme et mes entrailles ont été troublés par la colère. 11 Parce que ma vie a défailli dans la douleur, et mes années dans les gémissements. Ma force s'est affaiblie par la pauvreté, et mes os ont été ébranlés :
 
 
-12 A cause de tous mes ennemis je suis devenu le sujet d'un très grand opprobre pour mes voisins, et la frayeur de ceux qui me connaissent. Ceux qui m'ont vu ont fui loin de moi :13 J'ai été mis en oubli comme un mort effacé du cœur. Je suis devenu comme une chose perdue :
+12 A cause de tous mes ennemis je suis devenu le sujet d'un très grand opprobre pour mes voisins, et la frayeur de ceux qui me connaissent. Ceux qui m'ont vu ont fui loin de moi :13 J'ai été mis en oubli comme un mort effacé du coeur. Je suis devenu comme une chose perdue :
 
 ***Note*** :  Ps. 30, 13 : Comme une chose perdue ; abandonnée, oubliée. Le mot hébreu keli, que la Vulgate a rendu d’après les Septante par vase (vas), se prend pour toute sorte de choses. La traduction vase brisé est absolument fausse, au moins quant au mot brisé, puisqu’il n’est autorisé ni par le texte, ni par les versions grecque et latine, qui portent expressément perdu.
 
@@ -79,5 +79,5 @@ summary: |
 ***Note*** :  Ps. 30, 23 : Dans le transport de mon esprit, dans mon effroi, dans mon angoisse.
 
 
-24 Aimez le Seigneur, vous tous ses saints, parce que le Seigneur recherchera la vérité, et qu'il rendra largement aux superbes, selon leur mérite. 25 Agissez avec courage, et que votre cœur se fortifie, vous tous qui espérez dans le Seigneur.
+24 Aimez le Seigneur, vous tous ses saints, parce que le Seigneur recherchera la vérité, et qu'il rendra largement aux superbes, selon leur mérite. 25 Agissez avec courage, et que votre coeur se fortifie, vous tous qui espérez dans le Seigneur.
 

@@ -18,7 +18,7 @@ summary: |
 3 Il pénétrera les secrets des proverbes, et il vivra avec ce qu'il y a de caché dans les paraboles. 4 Au milieu des grands, il exercera son ministère, et en présence du gouverneur, il paraîtra. 5 Il sera dans les terres des nations étrangères ; car il fera l'épreuve des biens et des maux parmi les hommes.
 
 
-6 Il appliquera son cœur à veiller dès le point du jour pour le Seigneur qui l'a fait, et il priera en présence du Très-Haut avec instance. 7 Il ouvrira sa bouche pour le prier, et pour ses péchés il priera avec instance. 8 Car, si le Seigneur souverain le veut, de l'esprit d'intelligence il le remplira ; 9 Et lui, comme la pluie, répandra les paroles de sa sagesse, et dans la prière il louera le Seigneur; 10 Et le Seigneur dirigera ses conseils et ses instructions ; et lui méditera sur les secrets du Seigneur. 11 Il publiera lui-même la discipline de sa doctrine, et dans la loi de l'alliance du Seigneur il mettra sa gloire.
+6 Il appliquera son coeur à veiller dès le point du jour pour le Seigneur qui l'a fait, et il priera en présence du Très-Haut avec instance. 7 Il ouvrira sa bouche pour le prier, et pour ses péchés il priera avec instance. 8 Car, si le Seigneur souverain le veut, de l'esprit d'intelligence il le remplira ; 9 Et lui, comme la pluie, répandra les paroles de sa sagesse, et dans la prière il louera le Seigneur; 10 Et le Seigneur dirigera ses conseils et ses instructions ; et lui méditera sur les secrets du Seigneur. 11 Il publiera lui-même la discipline de sa doctrine, et dans la loi de l'alliance du Seigneur il mettra sa gloire.
 
 ***Note*** :  Sir. 39, 11 : La discipline de sa doctrine ; les instructions qu’il a apprises.
 
@@ -41,26 +41,26 @@ summary: |
 ***Note*** :  Sir. 39, 18 : Comme le Liban, etc. Les voyageurs louent encore aujourd’hui l’odeur agréable et fortifiante qu’on respire sur le Liban. ― D’après le grec, le Liban signifie ici l’encens.
 
 
-19 Portez des fleurs comme le lis; donnez de l'odeur et couvrez-vous d'un feuillage gracieux ; louez de concert en chantant un cantique, et bénissez le Seigneur dans ses œuvres.
+19 Portez des fleurs comme le lis; donnez de l'odeur et couvrez-vous d'un feuillage gracieux ; louez de concert en chantant un cantique, et bénissez le Seigneur dans ses oeuvres.
 
 ***Note*** :  Sir. 39, 19 : Feuillage gracieux ; agréable ; littéralement et par hébraïsme, pour la grâce, l’agrément. ― En chantant ; expression évidemment sous-entendue ; car le mot cantique (canticum) ne saurait être grammaticalement le régime de louez de concert (collaudate) qui précède. Voir sur ce genre de construction le 2° à la fin des Observations préliminaires des Psaumes.
 
-20 Rendez gloire à son nom, et glorifiez-le par la voix de vos lèvres, par les cantiques de vos lèvres et par vos harpes ; et ainsi vous direz en le glorifiant :21 Les œuvres du Seigneur sont toutes excellentes.
+20 Rendez gloire à son nom, et glorifiez-le par la voix de vos lèvres, par les cantiques de vos lèvres et par vos harpes ; et ainsi vous direz en le glorifiant :21 Les oeuvres du Seigneur sont toutes excellentes.
 
-***Note*** :  Sir. 39, 21 : Les œuvres, etc. Comparer à Genèse, 1, 31 ; Marc, 7, 37.
+***Note*** :  Sir. 39, 21 : Les oeuvres, etc. Comparer à Genèse, 1, 31 ; Marc, 7, 37.
 
 22 A sa parole, l'eau s'est arrêtée comme un monceau, et au discours de sa bouche, comme un réservoir d'eaux ;
 
 ***Note*** :  Sir. 39, 22 : Voir Genèse, 8, 3. ― A sa parole, etc. Comparer à Genèse, 7, 18 ; Exode, 14, 21 ; Josué, 3, 16.
 
-23 Car à son commandement se fait le calme, et il n'est pas d'amoindrissement dans le salut qu'il accorde. 24 Les œuvres de toute chair sont devant lui, et rien n'est caché à ses yeux.
+23 Car à son commandement se fait le calme, et il n'est pas d'amoindrissement dans le salut qu'il accorde. 24 Les oeuvres de toute chair sont devant lui, et rien n'est caché à ses yeux.
 
 ***Note*** :  Sir. 39, 24 : Toute chair ; hébraïsme, pour tous les hommes.
 
 
 25 D'un siècle jusqu'à un autre siècle, il porte ses regards ; et rien n'est merveilleux en sa présence. 26 Il ne faut pas dire : Qu'est ceci ou qu'est cela? car toutes choses en leur temps seront examinées.
 
-***Note*** :  Sir. 39, 26 : Seront examinées ; littéralement cherchées, interrogées, questionnées, (quærentur) ; et c’est alors qu’on verra pourquoi est ceci, pourquoi est cela. Ce sens revient à celui du texte grec et de la version Sixtine, qui portent : Toutes choses ont été crées pour leurs usages.
+***Note*** :  Sir. 39, 26 : Seront examinées ; littéralement cherchées, interrogées, questionnées, (quaerentur) ; et c’est alors qu’on verra pourquoi est ceci, pourquoi est cela. Ce sens revient à celui du texte grec et de la version Sixtine, qui portent : Toutes choses ont été crées pour leurs usages.
 
 27 Sa bénédiction comme un fleuve a débordé ;
 
@@ -98,9 +98,9 @@ summary: |
 
 ***Note*** :  Sir. 39, 37 : Ses et sa ; pronoms, qui remplacent l’expression du Seigneur.
 
-38 A cause de cela, dès le commencement je me suis affermi, et j'ai tenu conseil, et j'ai réfléchi, et j'ai laissé des écrits, 39 Toutes les œuvres du Seigneur sont bonnes, et il mettra chaque œuvre en son temps en usage,
+38 A cause de cela, dès le commencement je me suis affermi, et j'ai tenu conseil, et j'ai réfléchi, et j'ai laissé des écrits, 39 Toutes les oeuvres du Seigneur sont bonnes, et il mettra chaque oeuvre en son temps en usage,
 
 ***Note*** :  Sir. 39, 39 : Voir Genèse, 1, 31 ; Marc, 7, 37.
 
-40 Il ne faut pas dire : Ceci est plus mal que cela ; car toutes choses en leur temps seront trouvées bonnes. 41 Et maintenant, de tout cœur et de bouche, louez de concert et bénissez le nom du Seigneur.
+40 Il ne faut pas dire : Ceci est plus mal que cela ; car toutes choses en leur temps seront trouvées bonnes. 41 Et maintenant, de tout coeur et de bouche, louez de concert et bénissez le nom du Seigneur.
 

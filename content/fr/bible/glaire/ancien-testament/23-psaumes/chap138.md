@@ -45,7 +45,7 @@ summary: |
 
 ***Note*** :  Ps. 138, 13 : C’est vous, etc. (Tu possedisti) ; Septante, vous avez acquis ; ce qui est un des sens de l’hébreu, qui signifie aussi faire, former ; signification que nous croyons être la véritable dans ce passage-ci. Reins, mot par lequel les Hébreux désignaient aussi ce qu’il y a de plus intime dans l’homme, le fond de l’âme. ― Vous m’avez reçu, etc. Voir Psaumes, 21, 11.
 
-14 Je vous glorifierai, parce que vous avez montré d'une manière terrible votre magnificence : admirables sont vos œuvres, mon âme le reconnaît parfaitement.
+14 Je vous glorifierai, parce que vous avez montré d'une manière terrible votre magnificence : admirables sont vos oeuvres, mon âme le reconnaît parfaitement.
 
 
 15 Mes os n'ont pas été cachés pour vous qui les avez faits dans le secret ; ni ma substance formée dans les parties inférieures de la terre.
@@ -75,5 +75,5 @@ summary: |
 21 Est-ce que je n'ai pas haï, Seigneur, ceux qui vous haïssaient ; et au sujet de vos ennemis, ne séchais-je pas? 22 Je les haïssais d'une haine parfaite ; et ils sont devenus des ennemis pour moi.
 
 
-23 Eprouvez-moi, ô Dieu, et comprenez mon cœur: interrogez-moi et connaissez mes sentiers. 24 Et voyez si une voie d'iniquité est en moi, et conduisez-moi dans la voie éternelle.
+23 Eprouvez-moi, ô Dieu, et comprenez mon coeur: interrogez-moi et connaissez mes sentiers. 24 Et voyez si une voie d'iniquité est en moi, et conduisez-moi dans la voie éternelle.
 

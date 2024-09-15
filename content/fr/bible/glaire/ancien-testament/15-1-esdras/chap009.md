@@ -35,7 +35,7 @@ summary: |
 
 ***Note*** :  I Esdras 9, 12 : Voir Deutéronome, 7, 3.
 
-13 Et après tout ce qui est venu sur nous, à cause de nos œuvres très mauvaises et de notre grand péché, vous, Seigneur notre Dieu, vous nous avez délivrés de notre iniquité, et vous nous avez donné le salut comme on le voit aujourd'hui, 14 Afin que nous ne revinssions pas à rendre vains vos commandements, et que nous ne nous unissions point par les mariages avec les peuples livrés à ces abominations. Etes-vous irrité entièrement contre nous, en sorte que vous ne laissiez point des restes de nous pour notre conservation?
+13 Et après tout ce qui est venu sur nous, à cause de nos oeuvres très mauvaises et de notre grand péché, vous, Seigneur notre Dieu, vous nous avez délivrés de notre iniquité, et vous nous avez donné le salut comme on le voit aujourd'hui, 14 Afin que nous ne revinssions pas à rendre vains vos commandements, et que nous ne nous unissions point par les mariages avec les peuples livrés à ces abominations. Etes-vous irrité entièrement contre nous, en sorte que vous ne laissiez point des restes de nous pour notre conservation?
 
 ***Note*** :  I Esdras 9, 14 : Afin que nous, etc. ; littéralement afin que nous ne revinssions pas et que nous ne rendissions pas ; hébraïsme pour, afin que nous ne rendissions pas de nouveau.
 

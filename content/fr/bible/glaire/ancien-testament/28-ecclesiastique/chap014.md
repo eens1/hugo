@@ -24,9 +24,9 @@ summary: |
 
 ***Note*** :  Sir. 14, 6 : Qui s’envie lui-même ; qui se porte envie à lui-même, en se refusant le nécessaire. ― C’est là la peine, etc. ; c’est-à-dire cette disposition même est la peine, etc.
 
-7 Et s'il fait du bien, c'est par l'ignorance et ne le voulant pas, qu'il le fait ; et à la fin il manifeste sa malice. 8 L'envieux a l'œil méchant; il détourne sa face et méprise son âme. 9 Insatiable est l'œil du cupide en fait d'iniquité; et il ne sera pas satisfait, tant qu'il n'aura pas desséché et consumé son âme. 10 L'œil mauvais tend aux choses mauvaises; et il ne se rassasiera pas de pain; mais il sera affamé et dans la tristesse à sa propre table.
+7 Et s'il fait du bien, c'est par l'ignorance et ne le voulant pas, qu'il le fait ; et à la fin il manifeste sa malice. 8 L'envieux a l'oeil méchant; il détourne sa face et méprise son âme. 9 Insatiable est l'oeil du cupide en fait d'iniquité; et il ne sera pas satisfait, tant qu'il n'aura pas desséché et consumé son âme. 10 L'oeil mauvais tend aux choses mauvaises; et il ne se rassasiera pas de pain; mais il sera affamé et dans la tristesse à sa propre table.
 
-***Note*** :  Sir. 14, 10 : L’œil mauvais ; l’œil de l’avare. ― Aux mauvaises choses ; telles que les usures et les autres acquisitions injustes.
+***Note*** :  Sir. 14, 10 : L’oeil mauvais ; l’oeil de l’avare. ― Aux mauvaises choses ; telles que les usures et les autres acquisitions injustes.
 
 
 11 Mon fils, si tu as quelque chose, fais-t'en du bien à toi-même, et à Dieu offre de dignes oblations. 12 Souviens-toi que la mort ne tarde point, et que le testament des enfers t'a été montré ; car le testament de ce monde est qu'il mourra de mort.
@@ -55,9 +55,9 @@ summary: |
 19 Les unes naissent et les autres sont renversées ; ainsi sont les générations de chair et de sang; l'une finit et l'autre naît.
 
 
-20 Toute œuvre corruptible à la fin disparaîtra ; et celui qui l'a faite ira avec elle. 21 Et toute œuvre excellente sera justifiée ; et celui qui l'a faite sera honoré par elle. 22 Bienheureux l'homme qui demeurera dans la sagesse, et qui méditera sur sa justice, et en son esprit pensera au regard examinateur de Dieu;
+20 Toute oeuvre corruptible à la fin disparaîtra ; et celui qui l'a faite ira avec elle. 21 Et toute oeuvre excellente sera justifiée ; et celui qui l'a faite sera honoré par elle. 22 Bienheureux l'homme qui demeurera dans la sagesse, et qui méditera sur sa justice, et en son esprit pensera au regard examinateur de Dieu;
 
 ***Note*** :  Sir. 14, 22 : Voir Psaumes, 1, 2. ― Méditera ; ou s’exercera à pratiquer. Comparer à Psaumes, 34, 28.
 
-23 Qui recherche ses voies en son propre cœur, et qui pénètre dans ses secrets, allant après elle comme un investigateur, et s'arrêtant dans ses voies; 24 Qui regarde par ses fenêtres, et à sa porte écoute; 25 Qui se repose auprès de sa maison, et qui dans ses murailles enfonçant un pieu établira sa cabane à ses côtés ; et ses biens se conserveront dans sa cabane à jamais; 26 Il établira ses fils sous son couvert, et demeurera sous ses branches; 27 Il sera protégé sous son couvert contre la chaleur, et il se reposera dans sa gloire.
+23 Qui recherche ses voies en son propre coeur, et qui pénètre dans ses secrets, allant après elle comme un investigateur, et s'arrêtant dans ses voies; 24 Qui regarde par ses fenêtres, et à sa porte écoute; 25 Qui se repose auprès de sa maison, et qui dans ses murailles enfonçant un pieu établira sa cabane à ses côtés ; et ses biens se conserveront dans sa cabane à jamais; 26 Il établira ses fils sous son couvert, et demeurera sous ses branches; 27 Il sera protégé sous son couvert contre la chaleur, et il se reposera dans sa gloire.
 

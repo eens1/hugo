@@ -51,7 +51,7 @@ summary: |
 
 ***Note*** :  Ps. 33, 16 : Voir Ecclésiastique, 15, 20 ; Hébreux, 4, 13.
 
-17 Mais le visage du Seigneur est sur ceux qui font le mal, afin d'effacer de la terre leur mémoire. 18 Les justes ont crié, et le Seigneur les a exaucés : et il les a délivrés de toutes leurs tribulations. 19 Le Seigneur est près de ceux qui ont le cœur affligé ; et il sauvera les humbles d'esprit.
+17 Mais le visage du Seigneur est sur ceux qui font le mal, afin d'effacer de la terre leur mémoire. 18 Les justes ont crié, et le Seigneur les a exaucés : et il les a délivrés de toutes leurs tribulations. 19 Le Seigneur est près de ceux qui ont le coeur affligé ; et il sauvera les humbles d'esprit.
 
 
 20 Nombreuses sont les tribulations des Justes; mais Dieu les délivrera de toutes ces peines. 21 Le Seigneur garde tous leurs os : et pas un seul ne sera brisé.

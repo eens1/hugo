@@ -45,7 +45,7 @@ summary: |
 
 ***Note*** :  Ps. 117, 14 ; 117. 21 : ; 117. 28 Il est devenu mon salut ; littéralement et par hébraïsme, il est devenu pour moi en salut.
 
-15 Une voix d'exultation et de salut a retenti dans les tabernacles des justes. 16 La droite du Seigneur a exercé sa puissance, la droite du Seigneur m'a exalté, la droite du Seigneur a exercé sa puissance. 17 Je ne mourrai pas, mais je vivrai, et je raconterai les œuvres du Seigneur. 18 Me châtiant, il m'a châtié, le Seigneur, mais il ne m'a pas livré à la mort.
+15 Une voix d'exultation et de salut a retenti dans les tabernacles des justes. 16 La droite du Seigneur a exercé sa puissance, la droite du Seigneur m'a exalté, la droite du Seigneur a exercé sa puissance. 17 Je ne mourrai pas, mais je vivrai, et je raconterai les oeuvres du Seigneur. 18 Me châtiant, il m'a châtié, le Seigneur, mais il ne m'a pas livré à la mort.
 
 ***Note*** :  Ps. 117, 18 : Me châtiant, il m’a châtié ; pour il m’a châtié sévèrement. Comparer à Psaumes, 39, 1.
 

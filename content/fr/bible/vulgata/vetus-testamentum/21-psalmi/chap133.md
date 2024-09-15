@@ -9,5 +9,5 @@ draft: false
 
 2 In noctibus extollite manus vestras in sancta, et benedicite Dominum.
 
-3 Benedicat te Dominus ex Sion, qui fecit cælum et terram.
+3 Benedicat te Dominus ex Sion, qui fecit caelum et terram.
 

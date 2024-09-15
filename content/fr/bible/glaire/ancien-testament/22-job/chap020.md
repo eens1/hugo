@@ -22,7 +22,7 @@ summary: |
 3 J'écouterai la doctrine en vertu de laquelle tu m'accuses, et l'esprit de mon intelligence répondra pour moi.
 
 
-4 Ce que je sais être dès le principe, depuis que l'homme a été placé sur la terre, 5 C'est que la gloire des impies a été courte et la joie de l'hypocrite comme un moment. 6 Si son orgueil s'élève jusqu'au ciel, et que sa tête touche les nues, 7 Il périra à la fin comme un fumier, et ceux qui l'avaient vu diront : Où est-il? 8 Comme un songe qui s'envole , on ne le verra plus ; il passera comme une vision de nuit. 9 L'œil qui l'avait vu ne le verra pas; et son lieu ne le regardera plus.
+4 Ce que je sais être dès le principe, depuis que l'homme a été placé sur la terre, 5 C'est que la gloire des impies a été courte et la joie de l'hypocrite comme un moment. 6 Si son orgueil s'élève jusqu'au ciel, et que sa tête touche les nues, 7 Il périra à la fin comme un fumier, et ceux qui l'avaient vu diront : Où est-il? 8 Comme un songe qui s'envole , on ne le verra plus ; il passera comme une vision de nuit. 9 L'oeil qui l'avait vu ne le verra pas; et son lieu ne le regardera plus.
 
 ***Note*** :  Job 20, 9 : Son lieu. Voir Job, 7, 10.
 

@@ -26,7 +26,7 @@ summary: |
 6 Et toi, fils d'un homme, gémis jusqu'au brisement de tes reins, et avec amertume gémis devant eux.
 
 
-7 Et lorsqu'ils te diront : Pourquoi gémis-tu? tu diras : A cause de ce que j'ai entendu et qui vient; et tout cœur se fondra, et toutes les mains deviendront défaillantes, et tout esprit sera sans force, et l'eau coulera de tous les genoux; voici que cela vient, et que cela s'accomplira, dit le Seigneur Dieu.
+7 Et lorsqu'ils te diront : Pourquoi gémis-tu? tu diras : A cause de ce que j'ai entendu et qui vient; et tout coeur se fondra, et toutes les mains deviendront défaillantes, et tout esprit sera sans force, et l'eau coulera de tous les genoux; voici que cela vient, et que cela s'accomplira, dit le Seigneur Dieu.
 
 ***Note*** :  Éz. 21, 7 : Qui vient ; littéralement, parce qu’il vient ; mais c’est un pur hébraïsme dont le vrai sens est celui que nous avons rendu dans notre traduction. ― L’eau coulera, etc. Voir Ezéchiel, 7, 17.
 
@@ -47,7 +47,7 @@ summary: |
 
 ***Note*** :  Éz. 21, 14 : Frappe des mains ; littéralement, de main à main ; soit en signe d’applaudissement aux vengeances du Seigneur (voir verset 17), soit en signe de douleur et d’indignation contre les infidélités du peuple (voir Ezéchiel, 22, 13). ― Qu’il soit triplé, etc. Saint Jérôme voit dans ces mots les trois invasions de Nabuchodonosor : l’une, qui eut lieu lorsque ce prince se rendit Joakim tributaire (voir 4 Rois, 24, 1) ; la seconde, lorsqu’il fit Joachin captif (voir 4 Rois, 24, 15), et la troisième, lorsqu’il transporta Sédécias à Babylone (voir 4 Rois, 25, 27).
 
-15 Et fait fondre les cœurs et multiplie les ruines. A toutes leurs portes j'ai jeté l'épouvante du glaive aiguisé et poli pour briller, engaîné pour le carnage. 16 Aiguise-toi, va à droite ou à gauche, partout où tu désires porter ta face.
+15 Et fait fondre les coeurs et multiplie les ruines. A toutes leurs portes j'ai jeté l'épouvante du glaive aiguisé et poli pour briller, engaîné pour le carnage. 16 Aiguise-toi, va à droite ou à gauche, partout où tu désires porter ta face.
 
 
 17 Bien plus, moi-même je frapperai des mains et j'assouvirai mon indignation; c'est moi le Seigneur qui ai parlé.

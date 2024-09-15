@@ -63,5 +63,5 @@ adoré, parce que là coulait le fleuve Adonis qui portait son nom. On y voit en
 
 ***Note*** :  Éz. 8, 17 : Ils approchent, etc. On voit bien qu’il s’agit d’un culte idolâtrique ; mais le Prophète ne le détermine pas avec précision ; il fait peut-être allusion à l’usage des Perses qui, en adorant le soleil levant, tenaient à la main gauche un petit faisceau de verges.
 
-18 Ainsi donc moi aussi j'agirai dans ma fureur; mon œil n'épargnera pas, je n'aurai pas de pitié; et lorsqu'ils crieront à mes oreilles à haute voix, je ne les écouterai point.
+18 Ainsi donc moi aussi j'agirai dans ma fureur; mon oeil n'épargnera pas, je n'aurai pas de pitié; et lorsqu'ils crieront à mes oreilles à haute voix, je ne les écouterai point.
 

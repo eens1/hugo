@@ -25,19 +25,19 @@ draft: false
 
 10 Fortitudinem meam ad te custodiam, quia Deus susceptor meus es:
 
-11 Deus meus misericordia eius præveniet me.
+11 Deus meus misericordia eius praeveniet me.
 
 12 Deus ostendet mihi super inimicos meos, ne occidas eos: nequando obliviscantur populi mei. Disperge illos in virtute tua: et depone eos protector meus Domine:
 
 13 Delictum oris eorum, sermonem labiorum ipsorum: et comprehendantur in superbia sua. Et de execratione et mendacio annuntiabuntur
 
-14 in consummatione: in ira consummationis, et non erunt. Et scient quia Deus dominabitur Iacob: et finium terræ.
+14 in consummatione: in ira consummationis, et non erunt. Et scient quia Deus dominabitur Iacob: et finium terrae.
 
 15 Convertentur ad vesperam, et famem patientur ut canes: et circuibunt civitatem.
 
 16 Ipsi dispergentur ad manducandum: si vero non fuerint saturati, et murmurabunt.
 
-17 Ego autem cantabo fortitudinem tuam: et exultabo mane misericordiam tuam. Quia factus es susceptor meus, et refugium meum, in die tribulationis meæ.
+17 Ego autem cantabo fortitudinem tuam: et exultabo mane misericordiam tuam. Quia factus es susceptor meus, et refugium meum, in die tribulationis meae.
 
 18 Adiutor meus tibi psallam, quia Deus susceptor meus es: Deus meus misericordia mea.
 

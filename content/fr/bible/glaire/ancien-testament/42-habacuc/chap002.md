@@ -19,7 +19,7 @@ summary: |
 
 3 Parce que l'accomplissement de la vision est encore éloigné, mais il paraîtra à la fin, et il ne trompera pas, s'il met un certain délai, attends-le; car il va venir, et il ne tardera pas. 4 Voici que celui qui est incrédule n'aura pas en lui une âme droite; mais le juste vivra de sa foi.
 
-***Note*** :  Hab. 2, 4 : Voir Jean, 3, 36 ; Galates, 3, 11. ― Mais le juste, etc. ; paroles que saint Paul (voir Romains, 1, 17 ; Hébreux, 10, 38) applique à la foi en Jésus-Christ, en l’œuvre de la rédemption.
+***Note*** :  Hab. 2, 4 : Voir Jean, 3, 36 ; Galates, 3, 11. ― Mais le juste, etc. ; paroles que saint Paul (voir Romains, 1, 17 ; Hébreux, 10, 38) applique à la foi en Jésus-Christ, en l’oeuvre de la rédemption.
 
 
 5 Et comme le vin trompe celui qui en boit, ainsi en sera-t-il de l'homme superbe, et il ne sera pas honoré ; lui qui a dilaté son âme comme l'enfer; et comme la mort il ne se rassasie pas; et il rassemblera vers lui toutes les nations, il réunira en foule auprès de lui tous les peuples.
@@ -64,7 +64,7 @@ summary: |
 ***Note*** :  Hab. 2, 17 : Le Liban ; nom que les prophètes donnaient à Jérusalem. ― Te couvrira ; retombera sur toi. Comparer à Isaïe, 37, 24.
 
 
-18 A quoi sert une image taillée au ciseau, que son auteur a faite ainsi qu'une statue jetée en fonte et une image fausse? Car l'auteur a espéré assez dans son œuvre pour faire des simulacres muets.
+18 A quoi sert une image taillée au ciseau, que son auteur a faite ainsi qu'une statue jetée en fonte et une image fausse? Car l'auteur a espéré assez dans son oeuvre pour faire des simulacres muets.
 
 ***Note*** :  Hab. 2, 18 : L’analyse grammaticale de ce verset est très difficile, pour ne pas dire impossible à faire, tant dans l’hébreu que dans la Vulgate. Les mots statue jetée en fonte (conflatile) et image fausse (imaginem falsam) étant à l’accusatif, sont nécessairement des compléments directs du verbe a fait ou sculpté (sculpsit). Une traduction rigoureuse étant impossible dans notre langue, nous croyons cependant avoir rendu le fond de la pensée de l’écrivain sacré en combinant les deux textes grec et latin.
 

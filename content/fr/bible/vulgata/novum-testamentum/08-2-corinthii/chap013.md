@@ -7,9 +7,9 @@ draft: false
 
 1 Ecce tertio hoc venio ad vos: In ore duorum, vel trium testium stabit omne verbum.
 
-2 Prædixi, et prædico, ut præsens, et nunc absens iis, qui ante peccaverunt, et ceteris omnibus, quoniam si venero iterum, non parcam.
+2 Praedixi, et praedico, ut praesens, et nunc absens iis, qui ante peccaverunt, et ceteris omnibus, quoniam si venero iterum, non parcam.
 
-3 An experimentum quæritis eius, qui in me loquitur Christus, qui in vobis non infirmatur, sed potens est in vobis?
+3 An experimentum quaeritis eius, qui in me loquitur Christus, qui in vobis non infirmatur, sed potens est in vobis?
 
 4 Nam etsi crucifixus est ex infirmitate: sed vivit ex virtute Dei. Nam et nos infirmi sumus in illo: sed vivemus cum eo ex virtute Dei in vobis.
 
@@ -23,7 +23,7 @@ draft: false
 
 9 Gaudemus enim, quoniam nos infirmi sumus, vos autem potentes estis. Hoc et oramus vestram consummationem.
 
-10 Ideo hæc absens scribo, ut non præsens durius agam secundum potestatem, quam Dominus dedit mihi in ædificationem, et non in destructionem.
+10 Ideo haec absens scribo, ut non praesens durius agam secundum potestatem, quam Dominus dedit mihi in aedificationem, et non in destructionem.
 
 11 De cetero, fratres, gaudete, perfecti estote, exhortamini, idem sapite, pacem habete, et Deus pacis, et dilectionis erit vobiscum.
 

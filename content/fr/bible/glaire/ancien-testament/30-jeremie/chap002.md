@@ -50,7 +50,7 @@ réclamer hypocritement le pardon, il ne l’obtiendra pas, chapitre 3, versets 
 
 12 Cieux, soyez frappés de stupeur sur cela ; et vous, portes du ciel, soyez dans la plus grande désolation, dit le Seigneur.
 
-***Note*** :  Jr. 2, 12 : Portes du ciel ; c’est ainsi qu’on traduit généralement les mots de la Vulgate portæ ejus, en supposant que ejus est mis pour eorum. Il est certain que cet énallage de nombre n’est pas rare dans la Bible.
+***Note*** :  Jr. 2, 12 : Portes du ciel ; c’est ainsi qu’on traduit généralement les mots de la Vulgate portae ejus, en supposant que ejus est mis pour eorum. Il est certain que cet énallage de nombre n’est pas rare dans la Bible.
 
 13 Car mon peuple a fait deux maux : ils m'ont abandonné, moi, source d'eau vive, et ils se sont creusé des citernes, des citernes entr'ouvertes qui ne peuvent retenir les eaux.
 

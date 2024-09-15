@@ -5,7 +5,7 @@ draft: false
 summary: |
   
   Faire l’aumône.
-  Œuvres de Dieu inconnues.
+  OEuvres de Dieu inconnues.
   Avoir sans cesse devant les yeux le jugement de Dieu.
   Vanité de la jeunesse.
 ---
@@ -22,17 +22,17 @@ summary: |
 
 ***Note*** :  Eccl. 11, 3 : Il y sera ; c’est-à-dire il y restera.
 
-4 Celui qui observe le vent ne sème pas; et celui qui considère les nuées jamais ne moissonnera. 5 Comme tu ignores quelle est la voie de l'âme, et de quelle manière sont liés les os dans le sein d'une femme enceinte; ainsi tu ne sais pas les œuvres de Dieu, qui est le créateur de toutes choses. 6 Dès le matin, sème ton grain, et que, le soir, ta main ne cesse pas ; parce que tu ne sais pas lequel lèvera plutôt, celui-ci ou celui-là : et si l'un et l'autre lèvent ensemble, ce sera mieux.
+4 Celui qui observe le vent ne sème pas; et celui qui considère les nuées jamais ne moissonnera. 5 Comme tu ignores quelle est la voie de l'âme, et de quelle manière sont liés les os dans le sein d'une femme enceinte; ainsi tu ne sais pas les oeuvres de Dieu, qui est le créateur de toutes choses. 6 Dès le matin, sème ton grain, et que, le soir, ta main ne cesse pas ; parce que tu ne sais pas lequel lèvera plutôt, celui-ci ou celui-là : et si l'un et l'autre lèvent ensemble, ce sera mieux.
 
 
 7 Douce est la lumière ; et il est délectable aux yeux de voir le soleil. 8 Si un homme a vécu un grand nombre d'années, et qu'en tout il se soit réjoui, il doit se souvenir des temps de ténèbres et de ces jours nombreux, qui, lorsqu'ils seront venus, convaincront de vanité tout le passé.
 
 
-9 Réjouis-toi donc jeune homme, en ton adolescence ; et qu'heureux soit ton cœur dans les jours de ta jeunesse ; marche dans les voies de ton cœur et dans les regards de tes yeux ; mais sache que pour toutes ces choses Dieu t'appellera en jugement.
+9 Réjouis-toi donc jeune homme, en ton adolescence ; et qu'heureux soit ton coeur dans les jours de ta jeunesse ; marche dans les voies de ton coeur et dans les regards de tes yeux ; mais sache que pour toutes ces choses Dieu t'appellera en jugement.
 
 ***Note*** :  Eccl. 11, 9 : Qu’heureux soit ; littéralement et par hébraïsme, dans le bien, le bonheur soit.
 
-10 Bannis la colère de ton cœur, et écarte la malice de ta chair. Car l'adolescence et la volupté sont choses vaines.
+10 Bannis la colère de ton coeur, et écarte la malice de ta chair. Car l'adolescence et la volupté sont choses vaines.
 
 ***Note*** :  Eccl. 11, 10 : Ta chair ; hébraïsme, pour ton corps, ta personne, toi.
 

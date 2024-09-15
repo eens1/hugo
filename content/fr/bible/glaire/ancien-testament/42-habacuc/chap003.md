@@ -16,7 +16,7 @@ summary: |
 ***Note*** :  Hab. 3, 1 : Pour les ignorances ; c’est-à-dire pour les péchés commis par ignorance. C’est ainsi que l’ont compris le chaldéen, saint Jérôme, Aquila, Symmaque, l’auteur de la cinquième édition grecque, et il faut avouer que le texte hébreu lui-même est susceptible de ce sens, quoique la plupart des hébraïsants modernes l’entendent d’un instrument de musique ou d’un cantique, sur l’air duquel la prière du Prophète devait être chantée. Quant aux Septante, ils ont traduit avec un cantique. Le Prophète, selon plusieurs, a voulu, dans la prière qui suit, demander pardon à Dieu d’avoir par ignorance osé disputer avec lui sur sa providence, et, selon d’autres, il demande que les ignorances, c’est-à-dire les péchés du peuple soient effacés et pardonnés, afin que sa délivrance ne soit pas différée.
 
 
-2 Seigneur, j'ai entendu votre parole, et j'ai craint, Seigneur, votre œuvre ; au milieu des années, vivifiez-la. Au milieu des années vous la ferez connaître; lorsque vous serez en colère, vous vous souviendrez de la miséricorde.
+2 Seigneur, j'ai entendu votre parole, et j'ai craint, Seigneur, votre oeuvre ; au milieu des années, vivifiez-la. Au milieu des années vous la ferez connaître; lorsque vous serez en colère, vous vous souviendrez de la miséricorde.
 
 ***Note*** :  Hab. 3, 2 : Au milieu des années, bientôt, sans attendre trop longtemps.
 
@@ -76,7 +76,7 @@ Vous qui monterez sur vos chevaux; et vos quadriges seront le salut.
 
 17 Car le figuier ne fleurira pas, et il n'y aura pas de germe dans les vignes. Le produit de l'olivier trompera l'attente, et les champs ne porteront pas de grains. Le troupeau de menu bétail sera arraché de la bergerie, et il n'y aura pas de troupeau de gros bétail dans les étables.
 
-***Note*** :  Hab. 3, 17 : Ne fleurira pas. Quelques incrédules ont prétendu que cette menace était ridicule, puisque le figuier ne fleurit jamais en quelque contrée que ce soit ; mais il faut interpréter la Vulgate d’après l’hébreu qui signifie proprement sortir avec violence, s’élancer, faire irruption ; de là pousser, germer et fleurir. C’est ainsi que ce même verbe hébreu s’emploie pour marquer l’éruption de la lèpre (voir Lévitique, 13, 39), et s’applique aux plantes qui poussent leur germe. ― Le produit ou le fruit, littéralement, le travail, l’œuvre (opus). ― De grain ; littéralement, de nourriture.
+***Note*** :  Hab. 3, 17 : Ne fleurira pas. Quelques incrédules ont prétendu que cette menace était ridicule, puisque le figuier ne fleurit jamais en quelque contrée que ce soit ; mais il faut interpréter la Vulgate d’après l’hébreu qui signifie proprement sortir avec violence, s’élancer, faire irruption ; de là pousser, germer et fleurir. C’est ainsi que ce même verbe hébreu s’emploie pour marquer l’éruption de la lèpre (voir Lévitique, 13, 39), et s’applique aux plantes qui poussent leur germe. ― Le produit ou le fruit, littéralement, le travail, l’oeuvre (opus). ― De grain ; littéralement, de nourriture.
 
 
 18 Mais moi, je me réjouirai dans le Seigneur, et j'exulterai en Dieu mon Jésus.

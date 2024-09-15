@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Omnis anima potestatibus sublimioribus subdita sit: Non est enim potestas nisi a Deo: quæ autem sunt, a Deo ordinatæ sunt.
+1 Omnis anima potestatibus sublimioribus subdita sit: Non est enim potestas nisi a Deo: quae autem sunt, a Deo ordinatae sunt.
 
 2 Itaque qui resistit potestati, Dei ordinationi resistit. Qui autem resistunt, ipsi sibi damnationem acquirunt:
 
@@ -15,7 +15,7 @@ draft: false
 
 5 Ideo necessitate subditi estote non solum propter iram, sed etiam propter conscientiam.
 
-6 Ideo enim et tributa præstatis: ministri enim Dei sunt, in hoc ipsum servientes.
+6 Ideo enim et tributa praestatis: ministri enim Dei sunt, in hoc ipsum servientes.
 
 7 Reddite ergo omnibus debita: cui tribulatum, tributum: cui vectigal, vectigal: cui timorem, timorem: cui honorem, honorem.
 
@@ -27,9 +27,9 @@ draft: false
 
 11 Et hoc scientes tempus: quia hora est iam nos de somno surgere. Nunc enim propior est nostra salus, quam cum credidimus.
 
-12 Nox præcessit, dies autem appropinquavit. Abiiciamus ergo opera tenebrarum, et induamur arma lucis.
+12 Nox praecessit, dies autem appropinquavit. Abiiciamus ergo opera tenebrarum, et induamur arma lucis.
 
-13 Sicut in die honeste ambulemus: non in comessationibus, et ebrietatibus, non in cubilibus, et impudicitiis, non in contentione, et æmulatione:
+13 Sicut in die honeste ambulemus: non in comessationibus, et ebrietatibus, non in cubilibus, et impudicitiis, non in contentione, et aemulatione:
 
 14 sed induamini Dominum Iesum Christum, et carnis curam ne feceritis in desideriis.
 

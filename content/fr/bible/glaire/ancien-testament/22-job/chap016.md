@@ -30,7 +30,7 @@ summary: |
 12 Dieu m'a tenu captif sous la puissance d'un méchant; et il m'a livré aux mains d'hommes impies. 13 Moi, autrefois puissant, j'ai été soudain réduit en poudre; il m'a saisi par le cou, m'a brisé, et m'a posé devant lui comme un but. 14 Il m'a environné de ses lances, il a couvert mes reins de blessures, il ne m'a pas épargné, et il a répandu sur la terre mes entrailles. 15 Il m'a déchiré, en me faisant blessure sur blessure ; il s'est élancé sur moi comme un géant. 16 J'ai cousu un sac sur ma peau, et j'ai couvert ma chair de cendre. 17 Mon visage s'est enflé par mes pleurs, et mes paupières se sont obscurcies
 
 
-18 J'ai souffert ces choses, sans qu'il y eût d'iniquité dans ma main, lorsque j'offrais à Dieu des prières pures. 19 Terre, ne couvre pas mon sang, et que mon cri ne trouve pas en toi un lieu où il soit étouffé. 20 Car voilà que dans le ciel est mon témoin, et que celui qui a une connaissance intime de moi habite au plus haut des cieux. 21 Mes amis sont verbeux; c'est devant Dieu que mon œil fond en larmes.
+18 J'ai souffert ces choses, sans qu'il y eût d'iniquité dans ma main, lorsque j'offrais à Dieu des prières pures. 19 Terre, ne couvre pas mon sang, et que mon cri ne trouve pas en toi un lieu où il soit étouffé. 20 Car voilà que dans le ciel est mon témoin, et que celui qui a une connaissance intime de moi habite au plus haut des cieux. 21 Mes amis sont verbeux; c'est devant Dieu que mon oeil fond en larmes.
 
 ***Note*** :  Job 16, 21 : Mes amis, etc. ; c’est-à-dire tandis que mes amis m’attaquent par des discours diffus et importuns, je n’ai recours qu’à Dieu seul, et je ne trouve de consolation que dans les larmes que je répands devant lui.
 

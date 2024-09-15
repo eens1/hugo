@@ -5,13 +5,13 @@ draft: false
 ---
 
 
-1 Narravitque Moyses filiis Israel omnia quæ ei Dominus imperarat:
+1 Narravitque Moyses filiis Israel omnia quae ei Dominus imperarat:
 
-2 et locutus est ad principes tribuum filiorum Israel: Iste est sermo quem præcepit Dominus:
+2 et locutus est ad principes tribuum filiorum Israel: Iste est sermo quem praecepit Dominus:
 
 3 Si quis virorum votum Domino voverit, aut se constrinxerit iuramento: non faciet irritum verbum suum, sed omne quod promisit, implebit.
 
-4 Mulier si quippiam voverit, et se constrinxerit iuramento, quæ est in domo patris sui, et in ætate adhuc puellari: si cognoverit pater votum quod pollicita est, et iuramentum quo obligavit animam suam, et tacuerit, voti rea erit:
+4 Mulier si quippiam voverit, et se constrinxerit iuramento, quae est in domo patris sui, et in aetate adhuc puellari: si cognoverit pater votum quod pollicita est, et iuramentum quo obligavit animam suam, et tacuerit, voti rea erit:
 
 5 quidquid pollicita est et iuravit, opere complebit.
 
@@ -37,5 +37,5 @@ draft: false
 
 16 sin autem contradixerit postquam rescivit, portabit ipse iniquitatem eius.
 
-17 Istæ sunt leges, quas constituit Dominus Moysi inter virum et uxorem, inter patrem et filiam, quæ in puellari adhuc ætate est, vel quæ manet in parentis domo.
+17 Istae sunt leges, quas constituit Dominus Moysi inter virum et uxorem, inter patrem et filiam, quae in puellari adhuc aetate est, vel quae manet in parentis domo.
 

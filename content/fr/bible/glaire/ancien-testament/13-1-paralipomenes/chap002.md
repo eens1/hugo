@@ -54,7 +54,7 @@ summary: |
 
 ***Note*** :  I Par. 2, 13 : Voir 1 Rois, 16, 6 ; 8, 9 ; 17, 12.
 
-14 Le quatrième, Nathanaël; le cinquième, Raddaï; 15 Le sixième, Asom; le septième, David; 16 Dont les sœurs furent Sarvia et Abigaïl; les fils de Sarvia, trois: Abisaï, Joab et Asaël. 17 Or Abigaïl enfanta Amasa, dont le père fut Jéther, l'Ismahélite.
+14 Le quatrième, Nathanaël; le cinquième, Raddaï; 15 Le sixième, Asom; le septième, David; 16 Dont les soeurs furent Sarvia et Abigaïl; les fils de Sarvia, trois: Abisaï, Joab et Asaël. 17 Or Abigaïl enfanta Amasa, dont le père fut Jéther, l'Ismahélite.
 
 
 18 Or Caleb, fils d'Hesron, prit une femme du nom d'Azuba, dont il engendra Jérioth ; et ses fils furent Jaser, Sobab et Ardon.

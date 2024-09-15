@@ -44,7 +44,7 @@ O Dieu, ne gardez point le silence !
 
 11 Ils périrent entièrement à Endor : ils devinrent comme un fumier pour la terre.
 
-***Note*** :  Ps. 82, 11 : Pour la terre ou à la terre, comme portent l’hébreu et les Septante, ce qui ôte l’amphibologie du mot terræ de la Vulgate. Ainsi, selon nous, le vrai sens est que leurs cadavres, dont la terre fut couverte, devinrent pour elle comme un fumier, qui l’engraissa. Cependant on traduit généralement par : Ils furent abandonnés sans sépulture comme du fumier sur la terre, ou bien par : Ils furent foulés comme du fumier sous les pieds des vainqueurs.
+***Note*** :  Ps. 82, 11 : Pour la terre ou à la terre, comme portent l’hébreu et les Septante, ce qui ôte l’amphibologie du mot terrae de la Vulgate. Ainsi, selon nous, le vrai sens est que leurs cadavres, dont la terre fut couverte, devinrent pour elle comme un fumier, qui l’engraissa. Cependant on traduit généralement par : Ils furent abandonnés sans sépulture comme du fumier sur la terre, ou bien par : Ils furent foulés comme du fumier sous les pieds des vainqueurs.
 
 12 Traitez leurs princes comme Oreb, et Zeb, et Zébée, et Salmana : Tous leurs princes,
 

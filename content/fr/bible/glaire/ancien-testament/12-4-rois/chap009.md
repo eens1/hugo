@@ -48,7 +48,7 @@ summary: |
 
 ***Note*** :  IV Rois 9, 23 : Tourna sa main ; c’est-à-dire tourna bride.
 
-24 Mais Jéhu tendit son arc de sa main et frappa Joram entre les épaules ; et la flèche sortit par son cœur, et aussitôt il tomba sur son char. 25 Alors Jéhu dit à Badacer, chef de l'armée : Prends-le et jette-le dans le champ de Naboth, le Jezrahélite; car je me souviens, quand moi et toi, assis sur un char, nous suivions Achab, son père, que le Seigneur leva sur lui ce fardeau, disant :
+24 Mais Jéhu tendit son arc de sa main et frappa Joram entre les épaules ; et la flèche sortit par son coeur, et aussitôt il tomba sur son char. 25 Alors Jéhu dit à Badacer, chef de l'armée : Prends-le et jette-le dans le champ de Naboth, le Jezrahélite; car je me souviens, quand moi et toi, assis sur un char, nous suivions Achab, son père, que le Seigneur leva sur lui ce fardeau, disant :
 
 ***Note*** :  IV Rois 9, 25 : Chef de l’armée. Voir 4 Rois, 7, 2. ― Fardeau. Dans le langage prophétique de la Bible, ce mot signifie la prédiction d’un malheur terrible et accablant.
 

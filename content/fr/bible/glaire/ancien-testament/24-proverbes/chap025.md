@@ -4,11 +4,11 @@ date: 2024-09-06T20:00:40+02:00
 draft: false
 summary: |
   
-  Cœur des rois impénétrable.
+  Coeur des rois impénétrable.
   Ne pas s’élever soi-même.
   Parole dite à propos.
   Promesse sans effet.
-  Tristesse du cœur.
+  Tristesse du coeur.
   Faire du bien à ses ennemis.
   Mettre des bornes à sa curiosité.
 ---
@@ -26,7 +26,7 @@ Proverbes, 26, vv. 1-2, 18-19 ; 27, 8, etc. Nous ne rencontrons plus ici au mêm
 
 ***Note*** :  Prov. 25, 2 : La parole ; c’est-à-dire sa parole, qu’il est de sa gloire de nous cacher sous de voiles mystérieux, tandis qu’il est de la gloire des rois d’étudier cette même parole divine (investigare sermonem), et de rechercher à la bien connaître, pour en faire la règle de leur conduite.
 
-3 Le ciel en haut et la terre en bas, et le cœur des rois est impénétrable.
+3 Le ciel en haut et la terre en bas, et le coeur des rois est impénétrable.
 
 
 4 Ôte la rouille de l'argent, et il en sortira un vase très pur. 5 Ôte l'impiété de devant le roi, et par la justice s'affermira son trône.
@@ -76,10 +76,10 @@ La faveur et l'amitié délivrent; conserve-les, afin que tu ne deviennes pas r�
 
 
 20 Et qui perd son manteau au jour du froid.
-Il met du vinaigre dans du nitre, celui qui chante des cantiques à un cœur très mauvais.
-Comme la teigne au vêtement et le ver au bois, ainsi la tristesse de l'homme nuit à son cœur.
+Il met du vinaigre dans du nitre, celui qui chante des cantiques à un coeur très mauvais.
+Comme la teigne au vêtement et le ver au bois, ainsi la tristesse de l'homme nuit à son coeur.
 
-***Note*** :  Prov. 25, 20 : Il met du vinaigre dans, etc. ; littéralement : Du vinaigre dans, etc. ― A un cœur très mauvais (cordi pessimo) ; le terme hébreu signifie aussi malade, affligé ; et c’est dans ce sens que les Septante l’ont rendu. Quant à l’ensemble du verset, les uns l’expliquent ainsi : De même que le vinaigre mêlé avec le nitre dissout le sel et augmente sa force détersive, en ôtant davantage les taches du visage, etc. , de même aussi le chant des cantiques dissipe le chagrin et la mélancolie d’un cœur triste ; les autres, au contraire, l’interprètent de cette manière : De même que le vinaigre, quand on le mêle avec le nitre, altère sa vertu d’enlever les taches, de même aussi le chant des cantiques, loin de calmer les douleurs d’un cœur affligé, ne fait que l’aigrir et l’augmenter. Les comparaisons précédentes, dont celle-ci paraît être une suite, donnent beaucoup de poids à cette dernière interprétation. ― Comme la teigne… cœur. Ce passage est dans les Septante, mais non pas dans l’hébreu. ― Dans le
+***Note*** :  Prov. 25, 20 : Il met du vinaigre dans, etc. ; littéralement : Du vinaigre dans, etc. ― A un coeur très mauvais (cordi pessimo) ; le terme hébreu signifie aussi malade, affligé ; et c’est dans ce sens que les Septante l’ont rendu. Quant à l’ensemble du verset, les uns l’expliquent ainsi : De même que le vinaigre mêlé avec le nitre dissout le sel et augmente sa force détersive, en ôtant davantage les taches du visage, etc. , de même aussi le chant des cantiques dissipe le chagrin et la mélancolie d’un coeur triste ; les autres, au contraire, l’interprètent de cette manière : De même que le vinaigre, quand on le mêle avec le nitre, altère sa vertu d’enlever les taches, de même aussi le chant des cantiques, loin de calmer les douleurs d’un coeur affligé, ne fait que l’aigrir et l’augmenter. Les comparaisons précédentes, dont celle-ci paraît être une suite, donnent beaucoup de poids à cette dernière interprétation. ― Comme la teigne… coeur. Ce passage est dans les Septante, mais non pas dans l’hébreu. ― Dans le
 nitre. Le nitre servait de savon aux anciens. « On lave les vêtements, dit Aristote, avec de l’eau et du nitre. Mais si l’on verse du vinaigre sur le nitre, il se fond et est perdu. » Il exhale de plus une mauvaise odeur.
 
 

@@ -11,7 +11,7 @@ draft: false
 
 3 Honor est homini, qui separat se a contentionibus: omnes autem stulti miscentur contumeliis.
 
-4 Propter frigus piger arare noluit: mendicabit ergo æstate, et non dabitur illi.
+4 Propter frigus piger arare noluit: mendicabit ergo aestate, et non dabitur illi.
 
 5 Sicut aqua profunda, sic consilium in corde viri: sed homo sapiens exhauriet illud.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 Malum est, malum est, dicit omnis emptor: et cum recesserit, tunc gloriabitur.
 
-15 Est aurum, et multitudo gemmarum: et vas pretiosum labia scientiæ.
+15 Est aurum, et multitudo gemmarum: et vas pretiosum labia scientiae.
 
 16 Tolle vestimentum eius, qui fideiussor extitit alieni, et pro extraneis aufer pignus ab eo.
 
@@ -57,11 +57,11 @@ draft: false
 
 26 Dissipat impios rex sapiens, et incurvat super eos fornicem.
 
-27 Lucerna Domini spiraculum hominis, quæ investigat omnia secreta ventris.
+27 Lucerna Domini spiraculum hominis, quae investigat omnia secreta ventris.
 
 28 Misericordia, et veritas custodiunt regem, et roboratur clementia thronus eius.
 
 29 Exultatio iuvenum, fortitudo eorum: et dignitas senum canities.
 
-30 Livor vulneris absterget mala: et plagæ in secretioribus ventris.
+30 Livor vulneris absterget mala: et plagae in secretioribus ventris.
 

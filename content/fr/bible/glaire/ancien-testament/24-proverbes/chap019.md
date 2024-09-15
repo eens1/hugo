@@ -24,7 +24,7 @@ summary: |
 2 Où n'est point la science de l'âme, il n'y a pas de bien : et celui qui hâte ses pieds tombera.
 
 
-3 La folie de l'homme renverse ses pas ; et contre Dieu il brûle de colère en son cœur.
+3 La folie de l'homme renverse ses pas ; et contre Dieu il brûle de colère en son coeur.
 
 
 4 Les richesses donnent beaucoup de nouveaux amis; mais ceux mêmes qu'avait le pauvre se séparent de lui.
@@ -90,7 +90,7 @@ summary: |
 20 Ecoute le conseil et reçois la discipline, afin que tu sois sage dans tes derniers moments.
 
 
-21 Il y a beaucoup de pensées dans le cœur de l'homme ; mais la volonté du Seigneur demeurera à jamais.
+21 Il y a beaucoup de pensées dans le coeur de l'homme ; mais la volonté du Seigneur demeurera à jamais.
 
 
 22 L'homme indigent est miséricordieux; et mieux vaut le pauvre que l'homme menteur.

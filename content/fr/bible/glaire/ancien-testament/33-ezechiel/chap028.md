@@ -16,11 +16,11 @@ summary: |
 ***Note*** :  Éz. 28, 1 : Disant (dicens). Voir sur ce mot, Ezéchiel, 3, 16.
 
 
-2 Fils d'un homme, dis au prince de Tyr : Voici ce que dit le Seigneur Dieu : A cause que ton cœur s'est élevé, et que tu as dit : Moi je suis un Dieu, je suis assis sur le trône d'un Dieu au milieu de la mer, lorsque tu n'es qu'un homme et non un Dieu; parce que tu as posé ton cœur comme le cœur d'un Dieu ; 3 Voilà que tu es plus sage que Daniel; aucun secret n'est caché pour toi.
+2 Fils d'un homme, dis au prince de Tyr : Voici ce que dit le Seigneur Dieu : A cause que ton coeur s'est élevé, et que tu as dit : Moi je suis un Dieu, je suis assis sur le trône d'un Dieu au milieu de la mer, lorsque tu n'es qu'un homme et non un Dieu; parce que tu as posé ton coeur comme le coeur d'un Dieu ; 3 Voilà que tu es plus sage que Daniel; aucun secret n'est caché pour toi.
 
 ***Note*** :  Éz. 28, 3 : Tu es plus sage que Daniel ; paroles dites par ironie. Daniel vivait alors à la cour du roi de Babylone, avec la réputation de l’homme le plus éclairé de cet empire. Il y avait quatorze ou quinze ans qu’il avait expliqué à Nabuchodonosor le songe de la statue composée de divers métaux (voir Daniel, 2, 27-28), ce qui avait été le commencement de sa grande réputation.
 
-4 Par la sagesse et ta prudence tu t'es créé de la puissance, et tu as amassé de l'or et de l'argent dans tes trésors. 5 Par la grandeur de ta sagesse, et par ton commerce tu as multiplié ta puissance, et ton cœur s'est élevé dans ta force. 6 A cause de cela, voici ce que dit le Seigneur Dieu : Parce que ton cœur s'est élevé comme le cœur d'un Dieu,
+4 Par la sagesse et ta prudence tu t'es créé de la puissance, et tu as amassé de l'or et de l'argent dans tes trésors. 5 Par la grandeur de ta sagesse, et par ton commerce tu as multiplié ta puissance, et ton coeur s'est élevé dans ta force. 6 A cause de cela, voici ce que dit le Seigneur Dieu : Parce que ton coeur s'est élevé comme le coeur d'un Dieu,
 
 
 7 A cause de cela, voici que moi j'amènerai sur toi des étrangers, les plus forts d'entre les nations, et ils tireront leurs glaives sur la beauté de ta sagesse, et ils souilleront ta splendeur. 8 Ils te tueront et te précipiteront dans la fosse, et tu mourras dans la destruction des tués au milieu de la mer.
@@ -48,7 +48,7 @@ summary: |
 ***Note*** :  Éz. 28, 14 : Tu étais un chérubin, etc. , allusion aux chérubins qui couvraient et protégeaient ainsi l’arche dans le temple du Seigneur, sur sa montagne sainte. ― Tu as marché, etc. ; c’était la coutume chez les anciens d’orner les murs et le pavé des appartements, non seulement de marbre, mais encore de pierres précieuses. D. Calmet a cité plusieurs exemples de ces sortes de somptuosités dans son Comment. littér. sur le livre d’Esther, I, 6.
 
 
-15 Tu as été parfait dans tes voies depuis le jour de ta création jusqu'à ce que l'iniquité a été trouvée en toi. 16 Dans la multiplication de ton commerce ton intérieur a été rempli d'iniquité, et tu as péché ; et je t'ai chassé de la montagne de Dieu, et je t'ai exterminé, ô chérubin, couvrant le propitiatoire du milieu des pierres étincelantes comme le feu. 17 Et ton cœur s'est élevé dans ta beauté : tu as perdu ta sagesse dans ta beauté; je t'ai jeté sur la terre, et je t'ai exposé devant la face des rois, afin qu'ils t'aperçussent.
+15 Tu as été parfait dans tes voies depuis le jour de ta création jusqu'à ce que l'iniquité a été trouvée en toi. 16 Dans la multiplication de ton commerce ton intérieur a été rempli d'iniquité, et tu as péché ; et je t'ai chassé de la montagne de Dieu, et je t'ai exterminé, ô chérubin, couvrant le propitiatoire du milieu des pierres étincelantes comme le feu. 17 Et ton coeur s'est élevé dans ta beauté : tu as perdu ta sagesse dans ta beauté; je t'ai jeté sur la terre, et je t'ai exposé devant la face des rois, afin qu'ils t'aperçussent.
 
 
 18 Dans la multitude de tes iniquités, et dans l'iniquité de ton commerce tu as souillé ton sanctuaire : je ferai donc sortir du milieu de toi un feu qui te dévorera, et je te réduirai en cendre sur la terre en présence de tous ceux qui te verront.

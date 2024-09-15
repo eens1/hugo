@@ -28,7 +28,7 @@ violer les prescriptions de leur père Jonadab. A cause de cette fidélité, Die
 
 8 Parole qui fut adressée à Jérémie par le Seigneur, après que le roi Sédécias eut fait un pacte avec tout le peuple dans Jérusalem, en publiant
 
-***Note*** :  Jr. 34, 8 : En publiant (prædicans) ; se rapporte grammaticalement à parole (verbum) qui précède, mais logiquement à Seigneur.
+***Note*** :  Jr. 34, 8 : En publiant (praedicans) ; se rapporte grammaticalement à parole (verbum) qui précède, mais logiquement à Seigneur.
 
 9 Que chacun renvoyât libre son serviteur et chacun sa servante, Hébreu et Hébreue, et qu'ils n'exerçassent nullement leur domination sur eux, c'est-à-dire sur un Juif et leur frère.
 

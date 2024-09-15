@@ -13,15 +13,15 @@ draft: false
 
 4 Erubesce Sidon: ait enim mare: fortitudo maris dicens: Non parturivi, et non peperi, et non enutrivi iuvenes, nec ad incrementum perduxi virgines.
 
-5 Cum auditum fuerit in Ægypto, dolebunt cum audierint de Tiro:
+5 Cum auditum fuerit in AEgypto, dolebunt cum audierint de Tiro:
 
 6 Transite maria, ululate qui habitatis in insula:
 
-7 Numquid non vestra hæc est, quæ gloriabatur a diebus pristinis in antiquitate sua? ducent eam pedes sui longe ad peregrinandum.
+7 Numquid non vestra haec est, quae gloriabatur a diebus pristinis in antiquitate sua? ducent eam pedes sui longe ad peregrinandum.
 
-8 Quis cogitavit hoc super Tyrum quondam coronatam, cuius negotiatores principes, institores eius inclyti terræ?
+8 Quis cogitavit hoc super Tyrum quondam coronatam, cuius negotiatores principes, institores eius inclyti terrae?
 
-9 Dominus exercituum cogitavit hoc, ut detraheret superbiam omnis gloriæ, et ad ignominiam deduceret universos inclytos terræ.
+9 Dominus exercituum cogitavit hoc, ut detraheret superbiam omnis gloriae, et ad ignominiam deduceret universos inclytos terrae.
 
 10 Transi terram tuam quasi flumen filia maris, non est cingulum ultra tibi.
 
@@ -29,7 +29,7 @@ draft: false
 
 12 et dixit: Non adiicies ultra ut glorieris, calumniam sustinens virgo filia Sidonis: in Cethim consurgens transfreta, ibi quoque non erit requies tibi.
 
-13 Ecce terra Chaldæorum talis populus non fuit, Assur fundavit eam: in captivitatem traduxerunt robustos eius, suffoderunt domos eius, posuerunt eam in ruinam.
+13 Ecce terra Chaldaeorum talis populus non fuit, Assur fundavit eam: in captivitatem traduxerunt robustos eius, suffoderunt domos eius, posuerunt eam in ruinam.
 
 14 Ululate naves maris, quia devastata est fortitudo vestra.
 
@@ -37,7 +37,7 @@ draft: false
 
 16 Sume citharam, circui civitatem meretrix oblivioni tradita: bene cane, frequenta canticum ut memoria tui sit.
 
-17 Et erit post septuaginta annos: Visitabit Dominus Tyrum, et reducet eam ad mercedes suas: et rursum fornicabitur cum universis regnis terræ super faciem terræ.
+17 Et erit post septuaginta annos: Visitabit Dominus Tyrum, et reducet eam ad mercedes suas: et rursum fornicabitur cum universis regnis terrae super faciem terrae.
 
-18 Et erunt negotiationes eius, et mercedes eius sanctificatæ Domino: non condentur, neque reponentur: quia his, qui habitaverint coram Domino, erit negotiatio eius, ut manducent in saturitatem, et vestiantur usque ad vetustatem.
+18 Et erunt negotiationes eius, et mercedes eius sanctificatae Domino: non condentur, neque reponentur: quia his, qui habitaverint coram Domino, erit negotiatio eius, ut manducent in saturitatem, et vestiantur usque ad vetustatem.
 

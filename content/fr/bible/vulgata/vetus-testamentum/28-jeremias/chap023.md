@@ -5,19 +5,19 @@ draft: false
 ---
 
 
-1 Væ pastoribus, qui disperdunt et dilacerant gregem pascuæ meæ, dicit Dominus.
+1 Vae pastoribus, qui disperdunt et dilacerant gregem pascuae meae, dicit Dominus.
 
-2 Ideo hæc dicit Dominus Deus Israel ad pastores, qui pascunt populum meum: Vos dispersistis gregem meum, et eiecistis eos, et non visitastis eos: ecce ego visitabo super vos malitiam studiorum vestrorum, ait Dominus.
+2 Ideo haec dicit Dominus Deus Israel ad pastores, qui pascunt populum meum: Vos dispersistis gregem meum, et eiecistis eos, et non visitastis eos: ecce ego visitabo super vos malitiam studiorum vestrorum, ait Dominus.
 
 3 Et ego congregabo reliquias gregis mei de omnibus terris, ad quas eiecero eos illuc: et convertam eos ad rura sua: et crescent et multiplicabuntur.
 
-4 Et suscitabo super eos pastores, et pascent eos: non formidabunt ultra, et non pavebunt: et nullus quæretur ex numero, dicit Dominus.
+4 Et suscitabo super eos pastores, et pascent eos: non formidabunt ultra, et non pavebunt: et nullus quaeretur ex numero, dicit Dominus.
 
 5 Ecce dies veniunt, dicit Dominus: et suscitabo David germen iustum: et regnabit rex, et sapiens erit: et faciet iudicium et iustitiam in terra.
 
 6 In diebus illis salvabitur Iuda, et Israel habitabit confidenter: et hoc est nomen, quod vocabunt eum, Dominus iustus noster.
 
-7 Propter hoc ecce dies veniunt, dicit Dominus, et non dicent ultra: Vivit Domnus, qui eduxit filios Israel de Terra Ægypti:
+7 Propter hoc ecce dies veniunt, dicit Dominus, et non dicent ultra: Vivit Domnus, qui eduxit filios Israel de Terra AEgypti:
 
 8 Sed: Vivit Dominus, qui eduxit et adduxit semen domus Israel de Terra Aquilonis, et de cunctis terris, ad quas eieceram eos illuc: et habitabunt in terra sua.
 
@@ -29,19 +29,19 @@ draft: false
 
 12 Idcirco via eorum erit quasi lubricum in tenebris: impellentur enim, et corruent in ea: afferam enim super eos mala, annum visitationis eorum, ait Dominus.
 
-13 Et in prophetis Samariæ vidi fatuitatem: prophetabunt in Baal, et decipiebant populum meum Israel.
+13 Et in prophetis Samariae vidi fatuitatem: prophetabunt in Baal, et decipiebant populum meum Israel.
 
 14 Et in prophetis Ierusalem vidi similitudinem adulterantium, et iter mendacii: et confortaverunt manus pessimorum ut non converteretur unusquisque a malitia sua: facti sunt mihi omnes ut Sodoma, et habitatores eius quasi Gomorrha.
 
-15 Propterea hæc dicit Dominus exercituum ad prophetas: Ecce ego cibabo eos absinthio, et potabo eos felle: a prophetis enim Ierusalem egressa est pollutio super omnem terram.
+15 Propterea haec dicit Dominus exercituum ad prophetas: Ecce ego cibabo eos absinthio, et potabo eos felle: a prophetis enim Ierusalem egressa est pollutio super omnem terram.
 
-16 Hæc dicit Dominus exercituum: Nolite audire verba prophetarum, qui prophetant vobis, et decipiunt vos: visionem cordis sui loquuntur, non de ore Domini.
+16 Haec dicit Dominus exercituum: Nolite audire verba prophetarum, qui prophetant vobis, et decipiunt vos: visionem cordis sui loquuntur, non de ore Domini.
 
 17 Dicunt his, qui blasphemant me: Locutus est Dominus: Pax erit vobis, et omni, qui ambulat in pravitate cordis sui, dixerunt: Non veniet super vos malum.
 
 18 Quis enim affuit in consilio Domini, et vidit et audivit sermonem eius? quis consideravit verbum illius et audivit?
 
-19 Ecce turbo Dominicæ indignationis egredietur, et tempestas erumpens: super caput impiorum veniet.
+19 Ecce turbo Dominicae indignationis egredietur, et tempestas erumpens: super caput impiorum veniet.
 
 20 Non revertetur furor Domini usque dum faciat, et usque dum compleat cogitationem cordis sui: in novissimis diebus intelligetis consilium eius.
 
@@ -51,13 +51,13 @@ draft: false
 
 23 Putasne Deus e vicino ego sum, dicit Dominus? et non Deus de longe?
 
-24 Si occultabitur vir in absconditis: et ego non videbo eum, dicit Dominus? numquid non cælum et terram ego impleo, dicit Dominus?
+24 Si occultabitur vir in absconditis: et ego non videbo eum, dicit Dominus? numquid non caelum et terram ego impleo, dicit Dominus?
 
-25 Audivi quæ dixerunt prophetæ, prophetantes in nomine meo mendacium, atque dicentes: Somniavi, somniavi.
+25 Audivi quae dixerunt prophetae, prophetantes in nomine meo mendacium, atque dicentes: Somniavi, somniavi.
 
 26 Usquequo istud est in corde prophetarum vaticinantium mendacium, et prophetantium seductiones cordis sui?
 
-27 Qui volunt facere ut obliviscatur populus meus nominis mei propter somnia eorum, quæ narrat unusquisque ad proximum suum: sicut obliti sunt patres eorum nominis mei propter Baal.
+27 Qui volunt facere ut obliviscatur populus meus nominis mei propter somnia eorum, quae narrat unusquisque ad proximum suum: sicut obliti sunt patres eorum nominis mei propter Baal.
 
 28 Propheta, qui habet somnium, narret somnium: et qui habet sermonem meum, loquatur sermonem meum vere: quid paleis ad triticum, dicit Dominus?
 
@@ -73,15 +73,15 @@ draft: false
 
 34 Et propheta, et sacerdos, et populus qui dicit: Onus Domini: visitabo super virum illum, et super domum eius.
 
-35 Hæc dicetis unusquisque ad proximum, et ad fratrem suum: Quid respondit Dominus? et quid locutus est Dominus?
+35 Haec dicetis unusquisque ad proximum, et ad fratrem suum: Quid respondit Dominus? et quid locutus est Dominus?
 
 36 Et onus Domini ultra non memorabitur: quia onus erit unicuique sermo suus: et pervertistis verba Dei viventis, Domini exercituum Dei nostri.
 
-37 Hæc dices ad prophetam: Quid respondit tibi Dominus? et quid locutus est Dominus?
+37 Haec dices ad prophetam: Quid respondit tibi Dominus? et quid locutus est Dominus?
 
-38 Si autem onus Domini dixeritis: propter hoc hæc dicit Dominus: Quia dixistis sermonem istum: Onus Domini: et misi ad vos, dicens: Nolite dicere: Onus Domini:
+38 Si autem onus Domini dixeritis: propter hoc haec dicit Dominus: Quia dixistis sermonem istum: Onus Domini: et misi ad vos, dicens: Nolite dicere: Onus Domini:
 
 39 Propterea ecce ego tollam vos portans, et derelinquam vos, et civitatem, quam dedi vobis, et patribus vestris a facie mea.
 
-40 Et dabo vos in opprobrium sempiternum, et in ignominiam æternam, quæ numquam oblivione delebitur.
+40 Et dabo vos in opprobrium sempiternum, et in ignominiam aeternam, quae numquam oblivione delebitur.
 

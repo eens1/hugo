@@ -43,7 +43,7 @@ summary: |
 
 ***Note*** :  Sg. 3, 10 : Ce qui est juste ; la justice, ou bien le juste, l’homme juste ; car le texte grec est aussi amphibologique que le latin.
 
-11 Car celui qui rejette la sagesse et l'instruction est malheureux, et vaine est leur espérance, leurs travaux sont sans fruit et leurs œuvres inutiles. 12 Leurs femmes sont insensées et très mauvais leurs fils.
+11 Car celui qui rejette la sagesse et l'instruction est malheureux, et vaine est leur espérance, leurs travaux sont sans fruit et leurs oeuvres inutiles. 12 Leurs femmes sont insensées et très mauvais leurs fils.
 
 ***Note*** :  Sg. 3, 12 : Insensées ; c’est-à-dire débauchées, déréglées. Dans l’Ecriture, les insensés sont souvent mis pour les méchants. ― Une récompense ; littéralement du fruit. ― A la visité, etc. ; lorsque Dieu visitera les âmes saintes, au jour de la mort et du jugement.
 
@@ -54,7 +54,7 @@ summary: |
 
 15 Car le fruit des bons travaux est glorieux, et la racine de la sagesse ne sèche point.
 
-***Note*** :  Sg. 3, 15 : Le mot quæ de la Vulgate, échappant à toute analyse et ne se lisant pas dans le grec, nous l’avons supprimé dans notre traduction.
+***Note*** :  Sg. 3, 15 : Le mot quae de la Vulgate, échappant à toute analyse et ne se lisant pas dans le grec, nous l’avons supprimé dans notre traduction.
 
 
 16 Mais les fils des adultères seront consumés, et la race provenant d'un lit nuptial inique sera exterminée. 17 Et s'ils viennent à être d'une longue vie, ils seront comptés pour rien, et sans honneur sera leur vieillesse la plus avancée. 18 Et s'ils meurent prématurément, ils seront sans espérance; et au jour du jugement, sans parole de consolation.

@@ -7,11 +7,11 @@ draft: false
 
 Traditonnelement, le baptisé reçoit du prêtre un cierge blanc allumé.  
 
-> *Matthieu 5:16* : "Qu'ainsi donc luise votre lumière devant les hommes, afin qu'ils voient vos bonnes œuvres et qu'ils glorifient votre Père qui est dans les cieux." [^1]
+> *Matthieu 5:16* : "Qu'ainsi donc luise votre lumière devant les hommes, afin qu'ils voient vos bonnes oeuvres et qu'ils glorifient votre Père qui est dans les cieux." [^1]
 
 [^1]: Glaire 1905, p. 2337.
 
-> *Matthieu 6:22-23* : "La lampe de ton corps est ton œil. Si ton œil est simple, tout ton corps sera lumineux. Mais si ton œil est mauvais, tout ton corps sera ténébreux. Si donc la lumière qui est en toi est ténèbres, les ténèbres elles-mêmes que seront-elles?" [^2]
+> *Matthieu 6:22-23* : "La lampe de ton corps est ton oeil. Si ton oeil est simple, tout ton corps sera lumineux. Mais si ton oeil est mauvais, tout ton corps sera ténébreux. Si donc la lumière qui est en toi est ténèbres, les ténèbres elles-mêmes que seront-elles?" [^2]
 
 [^2]: Ibid., 2342.
 

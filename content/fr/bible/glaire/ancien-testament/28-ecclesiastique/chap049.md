@@ -8,7 +8,7 @@ summary: |
 ---
 
 
-1 La mémoire de Josias est devenue une composition d'odeur, une œuvre de parfumeur.
+1 La mémoire de Josias est devenue une composition d'odeur, une oeuvre de parfumeur.
 
 ***Note*** :  Sir. 49, 1 : La mémoire, etc. Voir, sur l’histoire de Josias, 4 Rois, chapitres 22 et 23.
 
@@ -21,7 +21,7 @@ summary: |
 ***Note*** :  Sir. 49, 3 : Pour la pénitence de la nation. Comparer à Ecclésiastique, 48, 8.
 
 
-4 Et il a tourné son cœur vers le Seigneur, et dans les jours des péchés, il a affermi la piété. 5 Excepté David, Ezéchias et Josias, tous ont commis le péché ;
+4 Et il a tourné son coeur vers le Seigneur, et dans les jours des péchés, il a affermi la piété. 5 Excepté David, Ezéchias et Josias, tous ont commis le péché ;
 
 ***Note*** :  Sir. 49, 5 : Ont commis le péché d’idolâtrie, ou en y tombant, ou du moins en le tolérant.
 

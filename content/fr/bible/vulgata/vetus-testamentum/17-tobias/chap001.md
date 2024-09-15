@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Tobias ex tribu, et civitate Nephthali (quæ est in superioribus Galilææ supra Naasson, post viam, quæ ducit ad Occidentem, in sinistro habens civitatem Sephet)
+1 Tobias ex tribu, et civitate Nephthali (quae est in superioribus Galilaeae supra Naasson, post viam, quae ducit ad Occidentem, in sinistro habens civitatem Sephet)
 
 2 cum captus esset in diebus Salmanasar regis Assyriorum, in captivitate tamen positus, viam veritatis non deseruit,
 
-3 ita ut omnia, quæ habere poterat, quotidie concaptivis fratribus, qui erant ex eius genere, impertiret.
+3 ita ut omnia, quae habere poterat, quotidie concaptivis fratribus, qui erant ex eius genere, impertiret.
 
 4 Cumque esset iunior omnibus in tribu Nephthali, nihil tamen puerile gessit in opere.
 
@@ -19,7 +19,7 @@ draft: false
 
 7 ita ut in tertio anno proselytis et advenis ministraret omnem decimationem.
 
-8 Hæc et his similia secundum legem Dei puerulus observabat.
+8 Haec et his similia secundum legem Dei puerulus observabat.
 
 9 Cum vero factus esset vir, accepit uxorem Annam de tribu sua, genuitque ex ea filium, nomen suum imponens ei,
 
@@ -31,7 +31,7 @@ draft: false
 
 13 Et quoniam memor fuit Domini in toto corde suo, dedit illi Deus gratiam in conspectu Salmanasar regis,
 
-14 et dedit illi potestatem quocumque vellet ire, habens libertatem quæcumque facere voluisset.
+14 et dedit illi potestatem quocumque vellet ire, habens libertatem quaecumque facere voluisset.
 
 15 Pergebat ergo ad omnes, qui erant in captivitate, et monita salutis dabat eis.
 
@@ -43,9 +43,9 @@ draft: false
 
 19 Tobias quotidie pergebat per omnem cognationem suam, et consolabatur eos, dividebatque unicuique, prout poterat, de facultatibus suis:
 
-20 esurientes alebat, nudisque vestimenta præbebat, et mortuis atque occisis sepulturam solicitus exhibebat.
+20 esurientes alebat, nudisque vestimenta praebebat, et mortuis atque occisis sepulturam solicitus exhibebat.
 
-21 Denique cum reversus esset rex Sennacherib fugiens a Iudæa plagam, quam circa eum fecerat Deus propter blasphemiam suam, et iratus multos occideret ex filiis Israel, Tobias sepeliebat corpora eorum.
+21 Denique cum reversus esset rex Sennacherib fugiens a Iudaea plagam, quam circa eum fecerat Deus propter blasphemiam suam, et iratus multos occideret ex filiis Israel, Tobias sepeliebat corpora eorum.
 
 22 At ubi nunciatum est regi, iussit eum occidi, et tulit omnem substantiam eius.
 

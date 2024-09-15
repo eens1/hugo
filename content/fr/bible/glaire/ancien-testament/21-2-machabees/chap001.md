@@ -14,7 +14,7 @@ summary: |
 
 ***Note*** :  II Macc. 1, 2 : De ses serviteurs fidèles étant au génitif (servorum suorum fidelium), représente nécessairement le complément du verbe qu’il se souvienne (meminerit) ; voilà pourquoi dans notre traduction nous avons répété ce verbe.
 
-3 Qu'il vous donne à tous un cœur, afin que vous l'adoriez, et que vous fassiez sa volonté avec un cœur grand, et un esprit docile. 4 Qu'il ouvre votre cœur à sa loi et à ses préceptes, et qu'il vous donne la paix. 5 Qu'il exauce vos prières, et qu'il se réconcilie avec vous et qu'il ne vous abandonne point au temps mauvais. 6 Et maintenant nous sommes ici priant pour vous.
+3 Qu'il vous donne à tous un coeur, afin que vous l'adoriez, et que vous fassiez sa volonté avec un coeur grand, et un esprit docile. 4 Qu'il ouvre votre coeur à sa loi et à ses préceptes, et qu'il vous donne la paix. 5 Qu'il exauce vos prières, et qu'il se réconcilie avec vous et qu'il ne vous abandonne point au temps mauvais. 6 Et maintenant nous sommes ici priant pour vous.
 
 
 7 Démétrius régnant, en l'année cent soixante-neuvième, nous, Juifs, nous vous avons écrit, dans la tribulation et l'agitation qui nous survint durant ces années, depuis que Jason se fut retiré de la terre sainte et du royaume.

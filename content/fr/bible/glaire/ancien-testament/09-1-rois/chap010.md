@@ -29,7 +29,7 @@ summary: |
 8 Et tu descendras avant moi à Galgala (car moi-même je descendrai vers toi), afin que tu offres une oblation, et que tu immoles des victimes pacifiques. Tu attendras pendant sept jours, jusqu'à ce que j'arrive près de toi, et je te montrerai ce que tu dois faire.
 
 
-9 C'est pourquoi, lorsqu'il eut détourné son épaule, pour s'en aller d'auprès de Samuel, Dieu changea son cœur en un autre ; et tous ces signes arrivèrent en ce jour-là. 10 Et ils arrivèrent à la susdite colline, et voilà une bande de prophètes à sa rencontre ; alors l'esprit du Seigneur se saisit de lui, et il prophétisa au milieu d'eux. 11 Or tous ceux qui l'avaient connu hier et avant-hier, voyant qu'il était avec des prophètes, et qu'il prophétisait, s'entredirent: Qu'est-ce qui est arrivé au fils de Cis? est-ce que Saül est aussi du nombre des prophètes?
+9 C'est pourquoi, lorsqu'il eut détourné son épaule, pour s'en aller d'auprès de Samuel, Dieu changea son coeur en un autre ; et tous ces signes arrivèrent en ce jour-là. 10 Et ils arrivèrent à la susdite colline, et voilà une bande de prophètes à sa rencontre ; alors l'esprit du Seigneur se saisit de lui, et il prophétisa au milieu d'eux. 11 Or tous ceux qui l'avaient connu hier et avant-hier, voyant qu'il était avec des prophètes, et qu'il prophétisait, s'entredirent: Qu'est-ce qui est arrivé au fils de Cis? est-ce que Saül est aussi du nombre des prophètes?
 
 ***Note*** :  I Rois 10, 11 : Hier et avant-hier ; hébraïsme pour : auparavant.
 
@@ -66,7 +66,7 @@ summary: |
 ***Note*** :  I Rois 10, 25 : Le livre. L’article déterminatif qui est dans l’hébreu marque un livre particulier ; ce livre s’est perdu, comme beaucoup d’autres. ― Par la loi du royaume, on peut entendre les ordonnances de Moïse touchant les rois (voir Deutéronome, 17, 15-20), ou, d’après l’historien Josèphe, ce que Samuel a dit un peu plus haut (voir 1 Rois, 8, 11-18), ou de nouveaux règlements dressés par Samuel pour le bon gouvernement du royaume, ou simplement l’acte même de l’élection solennelle du roi Saül, que Samuel écrivit. ― Devant le Seigneur ; c’est-à-dire dans le tabernacle ou près de l’arche.
 
 
-26 Mais Saül aussi s'en alla dans sa maison à Gabaa; et s'en alla avec lui la partie de l'armée dont Dieu avait touché le cœur.
+26 Mais Saül aussi s'en alla dans sa maison à Gabaa; et s'en alla avec lui la partie de l'armée dont Dieu avait touché le coeur.
 
 ***Note*** :  I Rois 10, 26 : Gabaa, de la tribu de Benjamin, n’était pas loin de Ramathaïm-Sophim.
 

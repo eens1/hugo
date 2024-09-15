@@ -11,13 +11,13 @@ draft: false
 
 3 de verbo sociorum et viatorum, et de datione hereditatis amicorum,
 
-4 de æqualitate stateræ et ponderum, de acquisitione multorum et paucorum,
+4 de aequalitate staterae et ponderum, de acquisitione multorum et paucorum,
 
 5 de corruptione emptionis, et negotiatorum, et de multa disciplina filiorum, et servo pessimo latus sanguinare.
 
 6 Super mulierem nequam bonum est signum.
 
-7 Ubi manus multæ sunt, claude, et quodcumque trades, numera, et appende: datum vero, et acceptum omne describe.
+7 Ubi manus multae sunt, claude, et quodcumque trades, numera, et appende: datum vero, et acceptum omne describe.
 
 8 De disciplina insensati et fatui, et de senioribus, qui iudicantur ab adolescentibus: et eris eruditus in omnibus, et probabilis in conspectu omnium vivorum.
 
@@ -33,25 +33,25 @@ draft: false
 
 14 Melior est enim iniquitas viri, quam mulier benefaciens, et mulier confundens in opprobrium.
 
-15 Memor ero igitur operum Domini, et quæ vidi annunciabo. In sermonibus Domini opera eius.
+15 Memor ero igitur operum Domini, et quae vidi annunciabo. In sermonibus Domini opera eius.
 
 16 Sol illuminans per omnia respexit, et gloria Domini plenum est opus eius.
 
-17 Nonne Dominus fecit sanctos enarrare omnia mirabilia sua, quæ confirmavit Dominus omnipotens stabiliri in gloria sua?
+17 Nonne Dominus fecit sanctos enarrare omnia mirabilia sua, quae confirmavit Dominus omnipotens stabiliri in gloria sua?
 
 18 Abyssum, et cor hominum investigavit: et in astutia eorum excogitavit.
 
-19 Cognovit enim Dominus omnem scientiam, et inspexit in signum ævi, annuncians quæ præterierunt, et quæ superventura sunt, revelans vestigia occultorum.
+19 Cognovit enim Dominus omnem scientiam, et inspexit in signum aevi, annuncians quae praeterierunt, et quae superventura sunt, revelans vestigia occultorum.
 
-20 Non præterit illum omnis cogitatus, et non abscondit se ab eo ullus sermo.
+20 Non praeterit illum omnis cogitatus, et non abscondit se ab eo ullus sermo.
 
-21 Magnalia sapientiæ suæ decoravit: qui est ante sæculum et usque in sæculum, neque adiectum est,
+21 Magnalia sapientiae suae decoravit: qui est ante saeculum et usque in saeculum, neque adiectum est,
 
 22 neque minuitur, et non eget alicuius consilio.
 
-23 Quam desiderabilia omnia opera eius, et tamquam scintilla, quæ est considerare!
+23 Quam desiderabilia omnia opera eius, et tamquam scintilla, quae est considerare!
 
-24 Omnia hæc vivunt, et manent in sæculum, et in omni necessitate omnia obaudiunt ei.
+24 Omnia haec vivunt, et manent in saeculum, et in omni necessitate omnia obaudiunt ei.
 
 25 Omnia duplicia, unum contra unum, et non fecit quidquam deesse.
 

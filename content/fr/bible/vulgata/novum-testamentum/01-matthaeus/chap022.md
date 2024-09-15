@@ -7,7 +7,7 @@ draft: false
 
 1 Et respondens Iesus, dixit iterum in parabolis eis, dicens:
 
-2 Simile factum est regnum cælorum homini regi, qui fecit nuptias filio suo.
+2 Simile factum est regnum caelorum homini regi, qui fecit nuptias filio suo.
 
 3 Et misit servos suos vocare invitatos ad nuptias, et nolebant venire.
 
@@ -19,11 +19,11 @@ draft: false
 
 7 Rex autem cum audisset, iratus est: et missis exercitibus suis, perdidit homicidas illos, et civitatem illorum succendit.
 
-8 Tunc ait servis suis: Nuptiæ quidem paratæ sunt, sed qui invitati erant, non fuerunt digni.
+8 Tunc ait servis suis: Nuptiae quidem paratae sunt, sed qui invitati erant, non fuerunt digni.
 
 9 ite ergo ad exitus viarum, et quoscumque inveneritis, vocate ad nuptias.
 
-10 Et egressi servi eius in vias, congregaverunt omnes, quos invenerunt, malos et bonos: et impletæ sunt nuptiæ discumbentium.
+10 Et egressi servi eius in vias, congregaverunt omnes, quos invenerunt, malos et bonos: et impletae sunt nuptiae discumbentium.
 
 11 Intravit autem rex ut viderent discumbentes, et vidit ibi hominem non vestitum veste nuptiali.
 
@@ -33,23 +33,23 @@ draft: false
 
 14 Multi enim sunt vocati, pauci vero electi.
 
-15 Tunc abeuntes Pharisæi, consilium inierunt ut caperent eum in sermone.
+15 Tunc abeuntes Pharisaei, consilium inierunt ut caperent eum in sermone.
 
 16 Et mittunt ei discipulos suos cum Herodianis dicentes: Magister, scimus quia verax es, et viam Dei in veritate doces, et non est tibi cura de aliquo: non enim respicis personam hominum:
 
-17 dic ergo nobis quid tibi videtur, licet censum dare Cæsari, an non?
+17 dic ergo nobis quid tibi videtur, licet censum dare Caesari, an non?
 
-18 Cognita autem Iesus nequitia eorum, ait: Quid me tentatis hypocritæ?
+18 Cognita autem Iesus nequitia eorum, ait: Quid me tentatis hypocritae?
 
 19 ostendite mihi numisma census. At illi obtulerunt ei denarium.
 
-20 Et ait illis Iesus: Cuius est imago hæc, et superscriptio?
+20 Et ait illis Iesus: Cuius est imago haec, et superscriptio?
 
-21 Dicunt ei: Cæsaris. Tunc ait illis: Reddite ergo quæ sunt Cæsaris, Cæsari: et quæ sunt Dei, Deo.
+21 Dicunt ei: Caesaris. Tunc ait illis: Reddite ergo quae sunt Caesaris, Caesari: et quae sunt Dei, Deo.
 
 22 Et audientes mirati sunt, et relicto eo abierunt.
 
-23 In illo die accesserunt ad eum Sadducæi, qui dicunt non esse resurrectionem: et interrogaverunt eum,
+23 In illo die accesserunt ad eum Sadducaei, qui dicunt non esse resurrectionem: et interrogaverunt eum,
 
 24 dicentes: Magister, Moyses dixit: Si quis mortuus fuerit non habens filium, ut ducat frater eius uxorem illius, et suscitet semen fratri suo.
 
@@ -63,15 +63,15 @@ draft: false
 
 29 Respondens autem Iesus, ait illis: Erratis nescientes Scripturas, neque virtutem Dei.
 
-30 In resurrectione enim neque nubent, neque nubentur: sed erunt sicut angeli Dei in cælo.
+30 In resurrectione enim neque nubent, neque nubentur: sed erunt sicut angeli Dei in caelo.
 
 31 De resurrectione autem mortuorum non legistis quod dictum est a Deo dicente vobis:
 
 32 Ego sum Deus Abraham, et Deus Isaac, et Deus Iacob? Non est Deus mortuorum, sed viventium.
 
-33 Et audientes turbæ, mirabantur in doctrina eius.
+33 Et audientes turbae, mirabantur in doctrina eius.
 
-34 Pharisæi autem audientes quod silentium imposuisset Sadducæis, convenerunt in unum:
+34 Pharisaei autem audientes quod silentium imposuisset Sadducaeis, convenerunt in unum:
 
 35 et interrogavit eum unus ex eis legis doctor, tentans eum:
 
@@ -83,9 +83,9 @@ draft: false
 
 39 Secundum autem simile est huic: Diliges proximum tuum, sicut teipsum.
 
-40 In his duobus mandatis universa lex pendet, et prophetæ.
+40 In his duobus mandatis universa lex pendet, et prophetae.
 
-41 Congregatis autem Pharisæis, interrogavit eos Iesus,
+41 Congregatis autem Pharisaeis, interrogavit eos Iesus,
 
 42 dicens: Quid vobis videtur de Christo? cuius filius est? Dicunt ei: David.
 

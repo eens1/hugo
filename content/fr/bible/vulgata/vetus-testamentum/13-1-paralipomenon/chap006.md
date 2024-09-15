@@ -23,7 +23,7 @@ draft: false
 
 9 Achimaas genuit Azariam, Azarias genuit Iohanan,
 
-10 Iohanan genuit Azariam. ipse est qui sacerdotio functus est in domo, quam ædificavit Salomon in Ierusalem.
+10 Iohanan genuit Azariam. ipse est qui sacerdotio functus est in domo, quam aedificavit Salomon in Ierusalem.
 
 11 Genuit autem Azarias Amariam, et Amarias genuit Achitob,
 
@@ -37,11 +37,11 @@ draft: false
 
 16 Filii ergo Levi: Gersom, Caath, et Merari.
 
-17 Et hæc nomina filiorum Gersom: Lobni, et Semei.
+17 Et haec nomina filiorum Gersom: Lobni, et Semei.
 
 18 Filii Caath: Amram, et Isaar, et Hebron, et Oziel.
 
-19 Filii Merari: Moholi et Musi. Hæ autem cognationes Levi secundum familias eorum.
+19 Filii Merari: Moholi et Musi. Hae autem cognationes Levi secundum familias eorum.
 
 20 Gersom, Lobni filius eius, Iahath filius eius, Zamma filius eius,
 
@@ -67,7 +67,7 @@ draft: false
 
 31 Isti sunt, quos constituit David super cantores domus Domini, ex quo collocata est arca:
 
-32 et ministrabant coram tabernaculo testimonii, canentes donec ædificaret Salomon domum Domini in Ierusalem: stabant autem iuxta ordinem suum in ministerio.
+32 et ministrabant coram tabernaculo testimonii, canentes donec aedificaret Salomon domum Domini in Ierusalem: stabant autem iuxta ordinem suum in ministerio.
 
 33 Hi vero sunt, qui assistebant cum filiis suis, de filiis Caath, Hemam cantor filius Ioel, filii Samuel,
 
@@ -75,15 +75,15 @@ draft: false
 
 35 filii Suph, filii Elcana, filii Mahath, filii Amasai,
 
-36 filii Elcana, filii Iohel, filii Azariæ, filii Sophoniæ,
+36 filii Elcana, filii Iohel, filii Azariae, filii Sophoniae,
 
 37 filii Thahath, filii Asir, filii Abiasaph, filii Core,
 
 38 filii Isaar, filii Caath, filii Levi, filii Israel.
 
-39 Et frater eius Asaph, qui stabat a dextris eius, Asaph filius Barachiæ, filii Samaa,
+39 Et frater eius Asaph, qui stabat a dextris eius, Asaph filius Barachiae, filii Samaa,
 
-40 filii Michael, filii Basaiæ, filii Melchiæ,
+40 filii Michael, filii Basaiae, filii Melchiae,
 
 41 filii Athanai, filii Zara, filii Adaia,
 
@@ -93,15 +93,15 @@ draft: false
 
 44 Filii autem Merari fratres eorum, ad sinistram, Ethan filius Cusi, filii Abdi, filii Maloch,
 
-45 filii Hasabiæ, filii Amasiæ, filii Helciæ,
+45 filii Hasabiae, filii Amasiae, filii Helciae,
 
 46 filii Amasai, filii Boni, filii Somer,
 
 47 filii Moholi, filii Musi, filii Merari, filii Levi.
 
-48 Fratres quoque eorum Levitæ, qui ordinati sunt in cunctum ministerium tabernaculi domus Domini.
+48 Fratres quoque eorum Levitae, qui ordinati sunt in cunctum ministerium tabernaculi domus Domini.
 
-49 Aaron vero, et filii eius adolebant incensum super altare holocausti, et super altare thymiamatis, in omne opus Sancti sanctorum: et ut precarentur pro Israel iuxta omnia, quæ præceperat Moyses servus Dei.
+49 Aaron vero, et filii eius adolebant incensum super altare holocausti, et super altare thymiamatis, in omne opus Sancti sanctorum: et ut precarentur pro Israel iuxta omnia, quae praeceperat Moyses servus Dei.
 
 50 Hi sunt autem filii Aaron: Eleazar filius eius, Phinees filius eius, Abisue filius eius,
 
@@ -111,7 +111,7 @@ draft: false
 
 53 Sadoc filius eius, Achimaas filius eius.
 
-54 Et hæc habitacula eorum per vicos atque confinia, filiorum scilicet Aaron, iuxta cognationes Caathitarum: ipsis enim sorte contigerant.
+54 Et haec habitacula eorum per vicos atque confinia, filiorum scilicet Aaron, iuxta cognationes Caathitarum: ipsis enim sorte contigerant.
 
 55 Dederunt igitur eis Hebron in terra Iuda, et suburbana eius per circuitum:
 
@@ -145,7 +145,7 @@ draft: false
 
 70 Porro ex dimidia tribu Manasse, Aner et suburbana eius, Balaam et suburbana eius: his videlicet, qui de cognatione filiorum Caath reliqui erant.
 
-71 Filiis autem Gersom de cognatione dimidiæ tribus Manasse Gaulon in Basan, et suburbana eius, et Astaroth cum suburbanis suis.
+71 Filiis autem Gersom de cognatione dimidiae tribus Manasse Gaulon in Basan, et suburbana eius, et Astaroth cum suburbanis suis.
 
 72 De tribu Issachar, Cedes et suburbanis suis, et Dabereth cum suburbanis suis,
 
@@ -155,7 +155,7 @@ draft: false
 
 75 Husac quoque et suburbana eius, et Rohob cum suburbanis suis.
 
-76 Porro de tribu Nephthali, Cedes in Galilæa et suburbana eius, Hamon cum suburbanis suis, et Cariathaim, et suburbana eius.
+76 Porro de tribu Nephthali, Cedes in Galilaea et suburbana eius, Hamon cum suburbanis suis, et Cariathaim, et suburbana eius.
 
 77 Filiis autem Merari residuis: de tribu Zabulon, Remmono et suburbana eius, et Thabor cum suburbanis sus:
 

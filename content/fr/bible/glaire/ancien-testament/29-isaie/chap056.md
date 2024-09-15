@@ -12,7 +12,7 @@ summary: |
 
 1 Voici ce que dit le Seigneur: Gardez le jugement et pratiquez la justice; parce que mon salut est près de venir, et ma justice, d'être révélée.
 
-***Note*** :  Is. 56, 1-8 : 8e Discours : Conséquences morales et sociales de l’œuvre de la Rédemption, chapitre 56, versets 1 à 8. Personne n’est exclu désormais du royaume de Dieu : y entrera non celui qui descend d’Abraham, mais celui qui pratique la vertu, versets 1 à 8.
+***Note*** :  Is. 56, 1-8 : 8e Discours : Conséquences morales et sociales de l’oeuvre de la Rédemption, chapitre 56, versets 1 à 8. Personne n’est exclu désormais du royaume de Dieu : y entrera non celui qui descend d’Abraham, mais celui qui pratique la vertu, versets 1 à 8.
 
 ***Note*** :  Is. 56, 1 : Voir Sagesse, 1, 1. ― Mon salut ; le salut que je dois envoyer.
 
@@ -49,7 +49,7 @@ summary: |
 
 9 Vous toutes, bêtes des champs, vous toutes, bêtes des forêts, venez pour dévorer.
 
-***Note*** :  Is. 56, 9-57. 21 : 9e Discours : Conclusion. Coup d’œil sur la situation présente ; malgré ses tristesses, elle n’empêchera pas la félicité future, du chapitre 56, verset 9 au chapitre 57. Si l’avenir doit être brillant, le présent est triste. ― 1° Les pasteurs d’Israël oublient leurs devoirs. Les bêtes sauvages, c’est-à-dire les peuples étrangers, peuvent dévorer le troupeau du Seigneur sans en être empêchées par les bergers qui ne songent qu’à eux, chapitre 56, versets 9 à 12, de sorte que c’est un bonheur pour le juste, quand il peut échapper par la mort aux calamités qui allaient fondre sur lui, chapitre 57, versets 1 et 2. ― 2° Le peuple n’est pas moins coupable que ses chefs ; il se livre au culte infâme et cruel des faux dieux, versets 3 à 10 ; ce qui lui attirera de nouveaux châtiments, versets 11 à 13. ― 3° Quant aux justes ou aux pénitents, Dieu les sauvera ; après avoir fait expier aux siens leurs péchés, il les récompensera, versets 14 à 18, car il donne la paix aux justes et ne la refuse
+***Note*** :  Is. 56, 9-57. 21 : 9e Discours : Conclusion. Coup d’oeil sur la situation présente ; malgré ses tristesses, elle n’empêchera pas la félicité future, du chapitre 56, verset 9 au chapitre 57. Si l’avenir doit être brillant, le présent est triste. ― 1° Les pasteurs d’Israël oublient leurs devoirs. Les bêtes sauvages, c’est-à-dire les peuples étrangers, peuvent dévorer le troupeau du Seigneur sans en être empêchées par les bergers qui ne songent qu’à eux, chapitre 56, versets 9 à 12, de sorte que c’est un bonheur pour le juste, quand il peut échapper par la mort aux calamités qui allaient fondre sur lui, chapitre 57, versets 1 et 2. ― 2° Le peuple n’est pas moins coupable que ses chefs ; il se livre au culte infâme et cruel des faux dieux, versets 3 à 10 ; ce qui lui attirera de nouveaux châtiments, versets 11 à 13. ― 3° Quant aux justes ou aux pénitents, Dieu les sauvera ; après avoir fait expier aux siens leurs péchés, il les récompensera, versets 14 à 18, car il donne la paix aux justes et ne la refuse
 qu’aux endurcis, versets 19 à 21.
 
 10 Ses sentinelles sont toutes aveugles ; elles sont toutes dans l'ignorance ; des chiens muets, qui ne peuvent aboyer, qui voient des fantômes, qui dorment et qui aiment les songes.

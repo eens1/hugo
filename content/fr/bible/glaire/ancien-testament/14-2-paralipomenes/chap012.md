@@ -30,14 +30,14 @@ summary: |
 
 ***Note*** :  II Par. 12, 9 : Les boucliers d’or qu’avaient faits Salomon avec l’or que sa flotte lui avait rapporté d’Ophir. Voir 3 Rois, note 10. 16-17.
 
-10 A la place desquels le roi en fit d'airain, et les remit aux chefs des scutaires qui gardaient le vestibule du palais. 11 Et lorsque le roi entrait dans la maison du Seigneur, les scutaires venaient et les prenaient, puis ils les reportaient de nouveau dans leur arsenal. 12 Ainsi donc, parce qu'ils s'étaient humiliés, la colère du Seigneur fut détournée d'eux, et ils ne furent pas entièrement détruits, attendu qu'il se trouva encore dans Juda de bonnes œuvres.
+10 A la place desquels le roi en fit d'airain, et les remit aux chefs des scutaires qui gardaient le vestibule du palais. 11 Et lorsque le roi entrait dans la maison du Seigneur, les scutaires venaient et les prenaient, puis ils les reportaient de nouveau dans leur arsenal. 12 Ainsi donc, parce qu'ils s'étaient humiliés, la colère du Seigneur fut détournée d'eux, et ils ne furent pas entièrement détruits, attendu qu'il se trouva encore dans Juda de bonnes oeuvres.
 
 
 13 Le roi Roboam se fortifia donc dans Jérusalem, et y régna; or il avait quarante et un ans quand il commença à régner, et il régna dix-sept ans à Jérusalem, ville que le Seigneur avait choisie d'entre toutes les tribus d'Israël pour y établir son nom : or le nom de sa mère était Naama, l'Ammanite.
 
 ***Note*** :  II Par. 12, 13 : Voir 3 Rois, 14, 21. ― L’Ammanite ; l’hébreu porte l’Ammonite, du pays des Ammonites.
 
-14 Mais il fit le mal, et ne prépara point son cœur pour chercher le Seigneur.
+14 Mais il fit le mal, et ne prépara point son coeur pour chercher le Seigneur.
 
 
 15 Or les actions de Roboam, les premières et les dernières, sont écrites dans les livres de Séméias, le prophète, et d'Addo, le Voyant, et rapportées exactement : et Roboam et Jéroboam se firent la guerre durant tous leurs jours. 16 Et Roboam dormit avec ses pères, et il fut enseveli dans la cité de David; et Abia, son fils, régna en sa place.

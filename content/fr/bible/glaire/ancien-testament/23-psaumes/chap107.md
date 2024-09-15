@@ -14,7 +14,7 @@ summary: |
 ***Note*** :  Ps. 107, 1 : A quelques différences près, les six premiers versets de ce psaume se trouvent dans le 56e, et les autres dans le 59e. ― Il se compose de deux parties. La première moitié, versets 2 à 6, est la reproduction de Psaumes, 56, 8-12, et la seconde, versets 7 à 14, la reproduction de Psaumes, 59, 7-14. Voir ces deux psaumes.
 
 
-2 Mon cœur est prêt, ô Dieu, mon cœur est prêt, je chanterai, je jouerai du psaltérion au milieu de ma gloire. 3 Lève-toi, ô ma gloire, lève-toi, psaltérion, et toi, harpe : je me lèverai au point du jour.
+2 Mon coeur est prêt, ô Dieu, mon coeur est prêt, je chanterai, je jouerai du psaltérion au milieu de ma gloire. 3 Lève-toi, ô ma gloire, lève-toi, psaltérion, et toi, harpe : je me lèverai au point du jour.
 
 ***Note*** :  Ps. 107, 3 : Ma gloire. Voir Psaumes, 56, 9.
 

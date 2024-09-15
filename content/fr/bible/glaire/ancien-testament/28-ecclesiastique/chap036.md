@@ -5,7 +5,7 @@ draft: false
 summary: |
   
   Prière de l’auteur de ce livre pour attirer la miséricorde de Dieu sur Israël.
-  Du cœur éclairé et du cœur corrompu.
+  Du coeur éclairé et du coeur corrompu.
   Avantage de celui qui a une femme vertueuse.
 ---
 
@@ -42,11 +42,11 @@ summary: |
 ***Note*** :  Sir. 36, 19 : Les bénédictions d’Aaron. Voir Nombres, 6, verset 23 et suivants.
 
 
-20 Le ventre dévorera toute nourriture ; mais il est un aliment meilleur qu'un autre aliment. 21 Le palais discerne la venaison, et le cœur sensé les paroles mensongères.
+20 Le ventre dévorera toute nourriture ; mais il est un aliment meilleur qu'un autre aliment. 21 Le palais discerne la venaison, et le coeur sensé les paroles mensongères.
 
 ***Note*** :  Sir. 36, 21 : Le palais discerne ; littéralement touche. Dans une phrase semblable, de Job (voir Job, 12, 11), la Vulgate, conformément au texte hébreu, porte juge en discernant (dijudicat).
 
-22 Un cœur pervers causera de la tristesse, et l'homme habile lui résistera. 23 Une femme peut épouser tout homme ; mais il est une fille meilleure qu'une autre fille. 24 La beauté d'une femme égaie la face de son mari, et elle lui inspire un désir qui surpasse toute convoitise de l'homme. 25 Si sa langue guérit les maux, elle a aussi de la douceur et de la honte ; son mari n'est pas comme les fils des hommes.
+22 Un coeur pervers causera de la tristesse, et l'homme habile lui résistera. 23 Une femme peut épouser tout homme ; mais il est une fille meilleure qu'une autre fille. 24 La beauté d'une femme égaie la face de son mari, et elle lui inspire un désir qui surpasse toute convoitise de l'homme. 25 Si sa langue guérit les maux, elle a aussi de la douceur et de la honte ; son mari n'est pas comme les fils des hommes.
 
 ***Note*** :  Sir. 36, 25 : Son mari n’est pas, etc. ; son mari n’est pas semblable au commun des hommes ; il a en cela un avantage qui n’est pas commun parmi eux. ― Les fils des hommes ; hébraïsme, pour les hommes mêmes, les humains.
 

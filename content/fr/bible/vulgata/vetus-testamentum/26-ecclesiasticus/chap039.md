@@ -11,7 +11,7 @@ draft: false
 
 3 Occulta proverbiorum exquiret, et in absconditis parabolarum conversabitur.
 
-4 In medio magnatorum ministrabit, et in conspectu præsidis apparebit.
+4 In medio magnatorum ministrabit, et in conspectu praesidis apparebit.
 
 5 In terram alienigenarum gentium pertransiet: bona enim et mala in hominibus tentabit.
 
@@ -19,15 +19,15 @@ draft: false
 
 7 Aperiet os suum in oratione, et pro delictis suis deprecabitur.
 
-8 Si enim Dominus magnus voluerit, spiritu intelligentiæ replebit illum:
+8 Si enim Dominus magnus voluerit, spiritu intelligentiae replebit illum:
 
-9 et ipse tamquam imbres mittet eloquia sapientiæ suæ, et in oratione confitebitur Domino:
+9 et ipse tamquam imbres mittet eloquia sapientiae suae, et in oratione confitebitur Domino:
 
 10 et ipse diriget consilium eius, et disciplinam, et in absconditis suis consiliabitur.
 
-11 Ipse palam faciet disciplinam doctrinæ suæ, et in lege testamenti Domini gloriabitur.
+11 Ipse palam faciet disciplinam doctrinae suae, et in lege testamenti Domini gloriabitur.
 
-12 Collaudabunt multi sapientiam eius, et usque in sæculum non delebitur.
+12 Collaudabunt multi sapientiam eius, et usque in saeculum non delebitur.
 
 13 Non recedet memoria eius, et nomen eius requiretur a generatione in generationem.
 
@@ -49,35 +49,35 @@ draft: false
 
 22 In verbo eius stetit aqua sicut congeries: et in sermone oris illius sicut exceptoria aquarum:
 
-23 quoniam in præcepto ipsius placor fit, et non est minoratio in salute ipsius.
+23 quoniam in praecepto ipsius placor fit, et non est minoratio in salute ipsius.
 
 24 Opera omnis carnis coram illo, et non est quidquam absconditum ab oculis eius.
 
-25 A sæculo usque in sæculum respicit, et nihil est mirabile in conspectu eius.
+25 A saeculo usque in saeculum respicit, et nihil est mirabile in conspectu eius.
 
-26 Non est dicere: Quid est hoc, aut quid est istud? omnia enim in tempore suo quærentur.
+26 Non est dicere: Quid est hoc, aut quid est istud? omnia enim in tempore suo quaerentur.
 
 27 Benedictio illius quasi fluvius inundavit.
 
-28 quomodo cataclysmus aridam inebriavit, sic ira ipsius gentes, quæ non exquisierunt eum, hereditabit.
+28 quomodo cataclysmus aridam inebriavit, sic ira ipsius gentes, quae non exquisierunt eum, hereditabit.
 
-29 Quomodo convertit aquas in siccitatem, et siccata est terra: et viæ illius viis illorum directæ sunt: sic peccatoribus offensiones in ira eius.
+29 Quomodo convertit aquas in siccitatem, et siccata est terra: et viae illius viis illorum directae sunt: sic peccatoribus offensiones in ira eius.
 
 30 Bona bonis creata sunt ab initio, sic nequissimis bona et mala.
 
-31 Initium necessariæ rei vitæ hominum, aqua, ignis, et ferrum, sal, lac, et panis similagineus, et mel et botrus uvæ, et oleum, et vestimentum.
+31 Initium necessariae rei vitae hominum, aqua, ignis, et ferrum, sal, lac, et panis similagineus, et mel et botrus uvae, et oleum, et vestimentum.
 
-32 Hæc omnia sanctis in bona, sic et impiis et peccatoribus in mala convertentur.
+32 Haec omnia sanctis in bona, sic et impiis et peccatoribus in mala convertentur.
 
 33 Sunt spiritus, qui ad vindictam creati sunt, et in furore suo confirmaverunt tormenta sua:
 
 34 in tempore consummationis effundent virtutem: et furorem eius, qui fecit illos, placabunt.
 
-35 Ignis, grando, fames, et mors, omnia hæc ad vindictam creata sunt:
+35 Ignis, grando, fames, et mors, omnia haec ad vindictam creata sunt:
 
-36 bestiarum dentes, et scorpii, et serpentes, et romphæa vindicans in exterminium impios.
+36 bestiarum dentes, et scorpii, et serpentes, et romphaea vindicans in exterminium impios.
 
-37 In mandatis eius epulabuntur, et super terram in necessitatem præparabuntur, et in temporibus suis non præterient verbum.
+37 In mandatis eius epulabuntur, et super terram in necessitatem praeparabuntur, et in temporibus suis non praeterient verbum.
 
 38 Propterea ab initio confirmatus sum, et consiliatus sum, et cogitavi, et scripta dimisi.
 

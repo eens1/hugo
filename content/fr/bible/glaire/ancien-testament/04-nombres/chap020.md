@@ -4,7 +4,7 @@ date: 2024-09-06T20:00:35+02:00
 draft: false
 summary: |
   
-  Mort de Marie, sœur de Moïse.
+  Mort de Marie, soeur de Moïse.
   Eaux de contradiction.
   Moïse repris de sa défiance.
   Le roi d’Edom refuse le passage aux Israélites.

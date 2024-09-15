@@ -56,7 +56,7 @@ summary: |
 
 13 Est-ce que des chevaux peuvent courir au milieu des rochers, ou peut-on labourer avec les buffles? C'est pourtant ce que vous avez fait vous-mêmes, puisque vous avez changé le jugement en amertume, et le fruit de la justice en absinthe.
 
-***Note*** :  Am. 6, 13 : C’est pourtant ce que vous avez fait vous-mêmes. Cette phrase ou toute autre semblable est absolument nécessaire pour l’enchaînement et la liaison des idées du texte sacré. ― Vous avez changé, etc. ; c’est-à-dire par des jugements injustes et oppressifs vous avez rempli d’amertume et d’aigreur ceux que vous deviez au contraire consoler et réjouir par les doux fruits d’une bonne justice. ― Est-ce que des chevaux peuvent courir au milieu des rochers ? Les chevaux des anciens le pouvaient d’autant moins qu’on ne les ferrait pas. ― Avec les buffles, avec des bœufs sauvages, non accoutumés au joug.
+***Note*** :  Am. 6, 13 : C’est pourtant ce que vous avez fait vous-mêmes. Cette phrase ou toute autre semblable est absolument nécessaire pour l’enchaînement et la liaison des idées du texte sacré. ― Vous avez changé, etc. ; c’est-à-dire par des jugements injustes et oppressifs vous avez rempli d’amertume et d’aigreur ceux que vous deviez au contraire consoler et réjouir par les doux fruits d’une bonne justice. ― Est-ce que des chevaux peuvent courir au milieu des rochers ? Les chevaux des anciens le pouvaient d’autant moins qu’on ne les ferrait pas. ― Avec les buffles, avec des boeufs sauvages, non accoutumés au joug.
 
 
 14 Vous qui vous réjouissez dans le néant, qui dites : N'est-ce point par notre propre force que nous avons établi notre puissance ?

@@ -17,11 +17,11 @@ summary: |
 
 ***Note*** :  III Rois 11, 1 : Voir Deutéronome, 17, 17 ; Ecclésiastique, 47, 21.
 
-2 De nations dont le Seigneur avait dit aux enfants d'Israël : Vous ne vous approcherez point d'elles, et les hommes d'entre elles ne s'approcheront point de vos filles; car très certainement elles pervertiront vos cœurs, pour que vous suiviez leurs dieux. C'est pourquoi Salomon s'attacha à ces femmes par un très ardent amour.
+2 De nations dont le Seigneur avait dit aux enfants d'Israël : Vous ne vous approcherez point d'elles, et les hommes d'entre elles ne s'approcheront point de vos filles; car très certainement elles pervertiront vos coeurs, pour que vous suiviez leurs dieux. C'est pourquoi Salomon s'attacha à ces femmes par un très ardent amour.
 
 ***Note*** :  III Rois 11, 2 : Vous ne vous approcherez pas, etc. Voir Exode, 34, 16, d’où cette citation est prise.
 
-3 Et il eut sept cents femmes qui étaient comme reines, et trois cents du second rang; et ses femmes pervertirent son cœur. 4 Et lorsqu'il était déjà vieux, son cœur fut dépravé par les femmes, en sorte qu'il suivait des dieux étrangers ; et son cœur ne fut point parfait devant le Seigneur son Dieu, comme le cœur de David son père. 5 Mais Salomon servait Astarthé, déesse des Sidoniens, et Moloch, idole des Ammonites.
+3 Et il eut sept cents femmes qui étaient comme reines, et trois cents du second rang; et ses femmes pervertirent son coeur. 4 Et lorsqu'il était déjà vieux, son coeur fut dépravé par les femmes, en sorte qu'il suivait des dieux étrangers ; et son coeur ne fut point parfait devant le Seigneur son Dieu, comme le coeur de David son père. 5 Mais Salomon servait Astarthé, déesse des Sidoniens, et Moloch, idole des Ammonites.
 
 ***Note*** :  III Rois 11, 5 : Astarthé. Voir Juges, note 3. 7. ― Moloch. Voir Lévitique, note 18. 21.
 
@@ -55,11 +55,11 @@ summary: |
 
 ***Note*** :  III Rois 11, 18 : De Madian. Le pays à l’est du golfe élanitique. ― Pharan, le désert de Feiran, dans le Sinaï.
 
-19 Et Adad trouva tout à fait grâce devant Pharaon, tellement qu'il lui donna pour femme la sœur germaine de sa propre femme, de Taphnès, la reine.
+19 Et Adad trouva tout à fait grâce devant Pharaon, tellement qu'il lui donna pour femme la soeur germaine de sa propre femme, de Taphnès, la reine.
 
 ***Note*** :  III Rois 11, 19 : Devint Pharaon. Ce pharaon est inconnu.
 
-20 Et cette sœur de la reine lui enfanta un fils, Génubath, et Taphné le nourrit dans la maison de Pharaon; ainsi Génubath habitait auprès de Pharaon avec ses enfants. 21 Lorsqu'Adad eut appris, en Egypte, que David s'était endormi avec ses pères, et que Joab, prince de la milice, était mort, il dit à Pharaon : Laissez-moi aller, afin que je retourne en mon pays. 22 Et Pharaon lui dit : Mais de quoi manques-tu chez moi, pour que tu cherches à aller en ton pays? Et Adad lui répondit : De rien ; mais je vous conjure de me laisser aller.
+20 Et cette soeur de la reine lui enfanta un fils, Génubath, et Taphné le nourrit dans la maison de Pharaon; ainsi Génubath habitait auprès de Pharaon avec ses enfants. 21 Lorsqu'Adad eut appris, en Egypte, que David s'était endormi avec ses pères, et que Joab, prince de la milice, était mort, il dit à Pharaon : Laissez-moi aller, afin que je retourne en mon pays. 22 Et Pharaon lui dit : Mais de quoi manques-tu chez moi, pour que tu cherches à aller en ton pays? Et Adad lui répondit : De rien ; mais je vous conjure de me laisser aller.
 
 
 23 Dieu suscita aussi pour ennemi à Salomon, Razon, fils d'Eliada, qui s'était enfui d'auprès d'Adarézer, roi de Soba, son seigneur, 24 Qui assembla des hommes contre David, et devint chef de voleurs, lorsque David les tuait; et ils allèrent à Damas, ils y habitèrent, et l'établirent roi à Damas.

@@ -13,7 +13,7 @@ summary: |
 
 1 Des fils de Coré, pour la fin, pour Maheleth, pour répondre, intelligence d'Eman l'Ezrahite.
 
-***Note*** :  Ps. 87, 1 : Intelligence à Eman l’Ezrahite, ou, selon d’autres, d’Eman ; c’est-à-dire psaume didactique, composé par Eman. On connaît Eman ou Héman, un des principaux maîtres de la musique du temple, et chef des chantres, de la famille de Coré, du temps de David. ― Le titre porte : « Au maître de musique. Pour une makhaleth. Pour répondre (c’est-à-dire, vraisemblablement pour être chanté alternativement par deux chœurs). Maskîl. D’Héman l’Ezrahite. » Héman l’Ezrahite était probablement de la race de Coré. ― Prière d’une tristesse touchante, adressée à Dieu pour obtenir du soulagement dans l’affliction, peut-être la guérison de la lèpre, verset 9. Elle rappelle les discours de Job. ― Le sens du psaume est clair.
+***Note*** :  Ps. 87, 1 : Intelligence à Eman l’Ezrahite, ou, selon d’autres, d’Eman ; c’est-à-dire psaume didactique, composé par Eman. On connaît Eman ou Héman, un des principaux maîtres de la musique du temple, et chef des chantres, de la famille de Coré, du temps de David. ― Le titre porte : « Au maître de musique. Pour une makhaleth. Pour répondre (c’est-à-dire, vraisemblablement pour être chanté alternativement par deux choeurs). Maskîl. D’Héman l’Ezrahite. » Héman l’Ezrahite était probablement de la race de Coré. ― Prière d’une tristesse touchante, adressée à Dieu pour obtenir du soulagement dans l’affliction, peut-être la guérison de la lèpre, verset 9. Elle rappelle les discours de Job. ― Le sens du psaume est clair.
 
 
 2 Seigneur, Dieu de mon salut, j'ai crié devant vous, le jour et la nuit. 3 Que ma prière pénètre en votre présence; inclinez votre oreille à ma supplication ;

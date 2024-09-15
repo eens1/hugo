@@ -7,7 +7,7 @@ draft: false
 
 1 Militia est vita hominis super terram: et sicut dies mercenarii, dies eius.
 
-2 Sicut servus desiderat umbram, et sicut mercenarius præstolatur finem operis sui:
+2 Sicut servus desiderat umbram, et sicut mercenarius praestolatur finem operis sui:
 
 3 Sic et ego habui menses vacuos, et noctes laboriosas enumeravi mihi.
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Nec revertetur ultra in domum suam, neque cognoscet eum amplius locus eius.
 
-11 Quapropter et ego non parcam ori meo, loquar in tribulatione spiritus mei: confabulabor cum amaritudine animæ meæ.
+11 Quapropter et ego non parcam ori meo, loquar in tribulatione spiritus mei: confabulabor cum amaritudine animae meae.
 
 12 Numquid mare ego sum, aut cetus, quia circumdedisti me carcere?
 
@@ -45,5 +45,5 @@ draft: false
 
 20 Peccavi, quid faciam tibi o custos hominum? quare posuisti me contrarium tibi, et factus sum mihimetipsi gravis?
 
-21 Cur non tollis peccatum meum, et quare non aufers iniquitatem meam? ecce, nunc in pulvere dormiam: et si mane me quæsieris, non subsistam.
+21 Cur non tollis peccatum meum, et quare non aufers iniquitatem meam? ecce, nunc in pulvere dormiam: et si mane me quaesieris, non subsistam.
 

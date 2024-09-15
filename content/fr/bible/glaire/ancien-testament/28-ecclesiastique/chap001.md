@@ -24,7 +24,7 @@ summary: |
 
 4 Avant toutes choses a été créée la sagesse, et l'intelligence de la prudence est dès les siècles,
 
-***Note*** :  Sir. 1, 4 : L’intelligence de la prudence ; par cette expression qui se trouve également dans le grec, et qui équivaut à l’intelligence prudente, si on suppose un de ces hébraïsmes dont ce livre est rempli ; par cette expression, disons-nous, l’auteur a voulu désigner la sagesse, qu’il représente sous des formules variées. ― Dès les siècles (ab ævo). Comparer à Proverbes, 8, 22.
+***Note*** :  Sir. 1, 4 : L’intelligence de la prudence ; par cette expression qui se trouve également dans le grec, et qui équivaut à l’intelligence prudente, si on suppose un de ces hébraïsmes dont ce livre est rempli ; par cette expression, disons-nous, l’auteur a voulu désigner la sagesse, qu’il représente sous des formules variées. ― Dès les siècles (ab aevo). Comparer à Proverbes, 8, 22.
 
 5 La source de la sagesse est le Verbe de Dieu dans les cieux, et ses voies sont les commandements éternels. 6 La racine de la sagesse, à qui a-t-elle été révélée, et son habileté, qui l'a connue?
 
@@ -38,12 +38,12 @@ summary: |
 
 ***Note*** :  Sir. 1, 9 : L’a nombrée et mesurée. Comparer à Sagesse, 11, 21.
 
-10 Et il l'a répandue sur toutes ses œuvres et sur toute chair, selon le don qu'il en a fait ; or, il l'a donnée à ceux qui l'aiment.
+10 Et il l'a répandue sur toutes ses oeuvres et sur toute chair, selon le don qu'il en a fait ; or, il l'a donnée à ceux qui l'aiment.
 
 ***Note*** :  Sir. 1, 10 : Il l’a donnée, etc. Il n’y a en effet que ceux qui aiment Dieu, que ses serviteurs, qui reçoivent de lui le don de la sagesse.
 
 
-11 La crainte du Seigneur est une gloire, un sujet de se glorifier, une joie et une couronne d'exultation. 12 La crainte du Seigneur réjouira le cœur; elle donnera l'allégresse, le contentement et la longueur des jours.
+11 La crainte du Seigneur est une gloire, un sujet de se glorifier, une joie et une couronne d'exultation. 12 La crainte du Seigneur réjouira le coeur; elle donnera l'allégresse, le contentement et la longueur des jours.
 
 ***Note*** :  Sir. 1, 12 : Longueur des jours, hébraïsme, pour longs jours ; c’est-à-dire longue vie.
 
@@ -58,7 +58,7 @@ summary: |
 
 ***Note*** :  Sir. 1, 17 : La religion de la science ; pour la science religieuse. Sans la crainte de Dieu, la science n’a rien que de profane, de froid et de stérile.
 
-18 La religion gardera et justifiera le cœur, elle lui donnera de l'agrément et de la joie. 19 A celui qui craint le Seigneur bien sera, et dans les jours de sa consommation il sera béni. 20 La plénitude de la sagesse et la plénitude de ses fruits, c'est craindre Dieu.
+18 La religion gardera et justifiera le coeur, elle lui donnera de l'agrément et de la joie. 19 A celui qui craint le Seigneur bien sera, et dans les jours de sa consommation il sera béni. 20 La plénitude de la sagesse et la plénitude de ses fruits, c'est craindre Dieu.
 
 ***Note*** :  Sir. 1, 20 : La plénitude de la sagesse ; c’est-à-dire la sagesse parfaite, consommée, et ses fruits parfaits. L’expression a fructibus tient lieu du génitif fructuum.
 
@@ -82,13 +82,13 @@ summary: |
 
 ***Note*** :  Sir. 1, 33 : Te la donnera ; c’est-à-dire la sagesse.
 
-34 Car la sagesse et la science sont la crainte du Seigneur ; et ce qui lui est agréable, 35 C'est la foi et la douceur, et il remplira les trésors de celui qui les possède. 36 Ne sois pas incrédule à la crainte du Seigneur, et ne t'approche pas de lui avec un cœur double.
+34 Car la sagesse et la science sont la crainte du Seigneur ; et ce qui lui est agréable, 35 C'est la foi et la douceur, et il remplira les trésors de celui qui les possède. 36 Ne sois pas incrédule à la crainte du Seigneur, et ne t'approche pas de lui avec un coeur double.
 
-***Note*** :  Sir. 1, 36 : Cœur double ; c’est-à-dire duplicité de cœur.
+***Note*** :  Sir. 1, 36 : Coeur double ; c’est-à-dire duplicité de coeur.
 
 37 Ne sois pas hypocrite devant les hommes, et que tes lèvres ne te soient pas un sujet de scandale.
 
 ***Note*** :  Sir. 1, 37 : Un sujet de scandale ; par des discours indiscrets et inconsidérés.
 
-38 Veille sur elles, de peur que tu ne tombes et que tu n'attires sur ton âme le déshonneur ; 39 Et que Dieu ne révèle les choses cachées en toi, et qu'au milieu de l'assemblée il ne te brise ; 40 Parce que tu t'es approché méchamment du Seigneur, et que ton cœur est plein d'artifice et de tromperie.
+38 Veille sur elles, de peur que tu ne tombes et que tu n'attires sur ton âme le déshonneur ; 39 Et que Dieu ne révèle les choses cachées en toi, et qu'au milieu de l'assemblée il ne te brise ; 40 Parce que tu t'es approché méchamment du Seigneur, et que ton coeur est plein d'artifice et de tromperie.
 

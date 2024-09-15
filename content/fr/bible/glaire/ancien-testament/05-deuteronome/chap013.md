@@ -11,7 +11,7 @@ summary: |
 1 S'il s'élève au milieu de toi un prophète, ou quelqu'un qui dise qu'il a vu un songe, qui prédise un signe ou un prodige,
 
 
-2 Qu'arrive ce qu'il a annoncé, et qu'il te dise : Allons, et suivons des dieux étrangers, que tu ne connais pas, et servons-les :3 Tu n'écouteras point les paroles de ce prophète ou de ce songeur, parce que le Seigneur votre Dieu vous éprouve, afin qu'il soit démontré, si vous l'aimez ou non, en tout votre cœur et en toute votre âme. 4 Ne suivez que le Seigneur votre Dieu, ne craignez que lui, ne gardez que ses commandements, et n'écoutez que sa voix; ne servez que lui, et ne vous attachez qu'à lui.
+2 Qu'arrive ce qu'il a annoncé, et qu'il te dise : Allons, et suivons des dieux étrangers, que tu ne connais pas, et servons-les :3 Tu n'écouteras point les paroles de ce prophète ou de ce songeur, parce que le Seigneur votre Dieu vous éprouve, afin qu'il soit démontré, si vous l'aimez ou non, en tout votre coeur et en toute votre âme. 4 Ne suivez que le Seigneur votre Dieu, ne craignez que lui, ne gardez que ses commandements, et n'écoutez que sa voix; ne servez que lui, et ne vous attachez qu'à lui.
 
 ***Note*** :  Dr. 13, 4 : La construction de tout ce verset, soit dans la Vulgate, soit dans le texte hébreu, construction qu’il est impossible de reproduire en français, ne permet pas de traduction différente de la nôtre.
 
@@ -22,7 +22,7 @@ summary: |
 
 ***Note*** :  Dr. 13, 7 : Les dieux. Ce mot est dans le texte original.
 
-8 N'aie point de déférence pour lui, ne l'écoute pas, et que ton œil ne le ménage point, en sorte que tu aies pitié de lui et que tu le caches ; 9 Mais tue-le aussitôt. Que ta main d'abord soit sur lui, et qu'ensuite tout le peuple y porte la main.
+8 N'aie point de déférence pour lui, ne l'écoute pas, et que ton oeil ne le ménage point, en sorte que tu aies pitié de lui et que tu le caches ; 9 Mais tue-le aussitôt. Que ta main d'abord soit sur lui, et qu'ensuite tout le peuple y porte la main.
 
 ***Note*** :  Dr. 13, 9 : Voir Deutéronome, 17, 7. ― Chez la plupart des anciens peuples, c’était la famille même du coupable qui était chargée de punir le crime, et cet usage subsiste encore parmi plusieurs nations. ― Mais tue-le ; non de ton autorité privée, mais après l’avoir déféré au juge qui, sur la déposition de deux ou trois témoins, le condamnera à être lapidé (voir Deutéronome, 17, 6-7). ― Aussitôt n’est pas dans l’hébreu, qui porte littéralement en le tuant, tu le tueras, genre de répétition, qui n’a pour but que de renforcer la signification du verbe.
 

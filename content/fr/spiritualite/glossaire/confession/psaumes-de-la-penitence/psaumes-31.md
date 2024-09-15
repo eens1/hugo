@@ -15,7 +15,7 @@ summary: |
 
 3 Parce que je me suis tu, mes os ont vieilli, tandis que je criais tout le jour.
 
-4 Parce que jour et nuit votre main s'est appesantie sur moi : je me suis retourné dans mon tourment, pendant qu'une épine était enfoncée dans mon cœur.
+4 Parce que jour et nuit votre main s'est appesantie sur moi : je me suis retourné dans mon tourment, pendant qu'une épine était enfoncée dans mon coeur.
 
 5 Je vous ai fait connaître mon péché, et je ne vous ai point caché mon injustice. J'ai dit : Je confesserai contre moi mon injustice au Seigneur, et vous m'avez remis l'impiété de mon péché.
 

@@ -28,7 +28,7 @@ summary: |
 ***Note*** :  Dr. 34, 4 : Voir Genèse, 12, 7 ; 15, 18.
 
 
-5 Et Moïse, serviteur du Seigneur, mourut là dans la terre de Moab, le Seigneur l'ordonnant; 6 Et il l'ensevelit dans la vallée de la terre de Moab contre Phogor; et aucun homme n'a connu son sépulcre jusqu'au présent jour. 7 Moïse avait cent et vingt ans quand il mourut; son œil ne s'obscurcit pas, et ses dents ne furent pas ébranlées. 8 Les enfants d'Israël le pleurèrent dans les plaines de Moab durant trente jours : ainsi furent accomplis les jours du deuil de ceux qui pleuraient Moïse.
+5 Et Moïse, serviteur du Seigneur, mourut là dans la terre de Moab, le Seigneur l'ordonnant; 6 Et il l'ensevelit dans la vallée de la terre de Moab contre Phogor; et aucun homme n'a connu son sépulcre jusqu'au présent jour. 7 Moïse avait cent et vingt ans quand il mourut; son oeil ne s'obscurcit pas, et ses dents ne furent pas ébranlées. 8 Les enfants d'Israël le pleurèrent dans les plaines de Moab durant trente jours : ainsi furent accomplis les jours du deuil de ceux qui pleuraient Moïse.
 
 
 9 Or, Josué, fils de Nun, fut rempli de l'Esprit de sagesse, parce que Moïse avait posé sur lui ses mains. Et les enfants d'Israël lui obéirent et ils firent comme avait ordonné le Seigneur à Moïse.

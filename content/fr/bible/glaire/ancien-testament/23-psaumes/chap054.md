@@ -13,18 +13,18 @@ summary: |
 
 1 Pour la fin, dans les cantiques, intelligence à David.
 
-***Note*** :  Ps. 54, 1 : On lit dans l’hébreu : « Au chef de chœur. Avec accompagnement d’instruments à cordes (Neginôth). Psaume didactique (Maskîl). » ― Ce psaume est, comme le Psaume 40, du temps de la révolte d’Absalom. L’ami qui l’a trahi est Achitophel, figure de Judas Iscariote.
+***Note*** :  Ps. 54, 1 : On lit dans l’hébreu : « Au chef de choeur. Avec accompagnement d’instruments à cordes (Neginôth). Psaume didactique (Maskîl). » ― Ce psaume est, comme le Psaume 40, du temps de la révolte d’Absalom. L’ami qui l’a trahi est Achitophel, figure de Judas Iscariote.
 
 
 2 Exaucez, ô Dieu, ma prière, et ne méprisez pas ma supplication. 3 Portez votre attention sur moi, et exaucez-moi. J'ai été contristé dans ma méditation : et j'ai été troublé4 A la voix d'un ennemi et à cause de l'oppression du pécheur. Parce qu'ils ont détourné sur moi des iniquités; et par colère ils me tourmentaient.
 
 
-5 Mon cœur a été troublé au dedans de moi; et la frayeur de la mort est tombée sur moi. 6 Une crainte et un tremblement sont venus sur moi; et des ténèbres m'ont couvert.
+5 Mon coeur a été troublé au dedans de moi; et la frayeur de la mort est tombée sur moi. 6 Une crainte et un tremblement sont venus sur moi; et des ténèbres m'ont couvert.
 
 
 7 Et j'ai dit : Qui me donnera des ailes comme les ailes d'une colombe, et je m'envolerai, et je me reposerai?
 
-***Note*** :  Ps. 54, 7 : D’une colombe. Le mot columbæ de la Vulgate est au génitif, comme le prouve le texte des Septante ; et par conséquent la traduction, comme à la colombe, est fondée sur une fausse analyse.
+***Note*** :  Ps. 54, 7 : D’une colombe. Le mot columbae de la Vulgate est au génitif, comme le prouve le texte des Septante ; et par conséquent la traduction, comme à la colombe, est fondée sur une fausse analyse.
 
 8 Voilà que je me suis éloigné en fuyant : et j'ai demeuré dans le désert.
 
@@ -64,9 +64,9 @@ summary: |
 
 ***Note*** :  Ps. 54, 19 : Il rachètera, etc. ; phrase elliptique, ou comme on dit en termes de grammaire hébraïque, construction prégnante dont le sens complet est : En me donnant la paix, il me délivrera de ceux qui s’approchaient dans des vues hostiles. ― Avec moi ; contre moi. Dans le style de l’Ecriture, la particule avec signifie souvent en opposition, contre.
 
-20 Dieu m'exaucera, et les humiliera, lui qui est avant les siècles. Car il n'y a pas de changement en eux, et ils n'ont pas craint Dieu. 21 Il a étendu sa main en leur rendant selon leurs mérites. Ils ont souillé son alliance, 22 Ils ont été dissipés par la colère de son visage ; et son cœur s'est approché contre eux. Ses discours sont plus doux que l'huile; mais ils sont en même temps des javelots.
+20 Dieu m'exaucera, et les humiliera, lui qui est avant les siècles. Car il n'y a pas de changement en eux, et ils n'ont pas craint Dieu. 21 Il a étendu sa main en leur rendant selon leurs mérites. Ils ont souillé son alliance, 22 Ils ont été dissipés par la colère de son visage ; et son coeur s'est approché contre eux. Ses discours sont plus doux que l'huile; mais ils sont en même temps des javelots.
 
-***Note*** :  Ps. 54, 22 : Ses discours. Ce sont, selon les uns, les discours de Dieu, nommé au verset 20, et selon les autres, les paroles flatteuses qu’Absalom adressait tous les matins à la porte du palais, aux Israélites, pour gagner leurs cœurs, et se frayer un chemin à la royauté.
+***Note*** :  Ps. 54, 22 : Ses discours. Ce sont, selon les uns, les discours de Dieu, nommé au verset 20, et selon les autres, les paroles flatteuses qu’Absalom adressait tous les matins à la porte du palais, aux Israélites, pour gagner leurs coeurs, et se frayer un chemin à la royauté.
 
 
 23 Déposez vos soins dans le sein du Seigneur, et lui-même vous nourrira; il ne laissera pas éternellement le juste dans l'agitation.

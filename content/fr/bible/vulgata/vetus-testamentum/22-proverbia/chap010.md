@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Filius sapiens lætificat patrem: filius vero stultus mœstitia est matris suæ.
+1 Filius sapiens laetificat patrem: filius vero stultus moestitia est matris suae.
 
 2 Nil proderunt thesauri impietatis: iustitia vero liberabit a morte.
 
@@ -13,19 +13,19 @@ draft: false
 
 4 Egestatem operata est manus remissa: manus autem fortium divitias parat. Qui nititur mendaciis, hic pascit ventos: idem autem ipse sequitur aves volantes.
 
-5 Qui congregat in messe, filius sapiens est: qui autem stertit æstate, filius confusionis.
+5 Qui congregat in messe, filius sapiens est: qui autem stertit aestate, filius confusionis.
 
 6 Benedictio Domini super caput iusti: os autem impiorum operit iniquitas.
 
 7 Memoria iusti cum laudibus: et nomen impiorum putrescet.
 
-8 Sapiens corde præcepta suscipit: stultus cæditur labiis.
+8 Sapiens corde praecepta suscipit: stultus caeditur labiis.
 
 9 Qui ambulat simpliciter, ambulat confidenter: qui autem depravat vias suas, manifestus erit.
 
 10 Qui annuit oculo, dabit dolorem: et stultus labiis verberabitur.
 
-11 Vena vitæ, os iusti: et os impiorum operit iniquitatem.
+11 Vena vitae, os iusti: et os impiorum operit iniquitatem.
 
 12 Odium suscitat rixas: et universa delicta operit charitas.
 
@@ -37,7 +37,7 @@ draft: false
 
 16 Opus iusti ad vitam: fructus autem impii ad peccatum.
 
-17 Via vitæ, custodienti disciplinam: qui autem increpationes relinquit, errat.
+17 Via vitae, custodienti disciplinam: qui autem increpationes relinquit, errat.
 
 18 Abscondunt odium labia mendacia: qui profert contumeliam, insipiens est.
 
@@ -59,11 +59,11 @@ draft: false
 
 27 Timor Domini apponet dies: et anni impiorum breviabuntur.
 
-28 Expectatio iustorum lætitia: spes autem impiorum peribit.
+28 Expectatio iustorum laetitia: spes autem impiorum peribit.
 
 29 Fortitudo simplicis via Domini: et pavor his, qui operantur malum.
 
-30 Iustus in æternum non commovebitur: impii autem non habitabunt super terram.
+30 Iustus in aeternum non commovebitur: impii autem non habitabunt super terram.
 
 31 Os iusti parturiet sapientiam: lingua pravorum peribit.
 

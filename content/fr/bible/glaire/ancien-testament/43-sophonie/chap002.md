@@ -46,7 +46,7 @@ summary: |
 
 ***Note*** :  Soph. 2, 14 : Voir Isaïe, 34, 11.
 
-15 Voilà la cité glorieuse qui demeurait dans la confiance; qui disait en son cœur : Moi je suis, et hors moi il n'y en a plus d'autre; comment est-elle devenue un désert, un repaire de bête sauvage? Quiconque la traversera, sifflera et agitera sa main.
+15 Voilà la cité glorieuse qui demeurait dans la confiance; qui disait en son coeur : Moi je suis, et hors moi il n'y en a plus d'autre; comment est-elle devenue un désert, un repaire de bête sauvage? Quiconque la traversera, sifflera et agitera sa main.
 
 ***Note*** :  Soph. 2, 15 : Siffler, etc. , en signe de mépris.
 

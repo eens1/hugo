@@ -31,7 +31,7 @@ summary: |
 
 11 A cause de cela, voici ce que dit le Seigneur Dieu : La terre sera pressurée et cernée; et ta force te sera ôtée, et tes édifices seront pillés.
 
-***Note*** :  Am. 3, 11 : Ta, te, tes (tua, te, tuæ), représentant ici Israël, nom collectif, peuvent se mettre aussi bien que votre, vous, vos.
+***Note*** :  Am. 3, 11 : Ta, te, tes (tua, te, tuae), représentant ici Israël, nom collectif, peuvent se mettre aussi bien que votre, vous, vos.
 
 
 12 Voici ce que dit le Seigneur : Comme si le pasteur arrachait de la gueule du lion deux jambes ou un bout d'oreille, ainsi seront arrachés des mains de l'ennemi les fils d'Israël qui habitent dans Samarie sur le coin d'un petit lit et sur un grabat de Damas.

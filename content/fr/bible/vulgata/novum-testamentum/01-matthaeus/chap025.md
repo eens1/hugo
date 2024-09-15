@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Tunc simile erit regnum cælorum decem virginibus: quæ accipientes lampades suas exierunt obviam sponso, et sponsæ.
+1 Tunc simile erit regnum caelorum decem virginibus: quae accipientes lampades suas exierunt obviam sponso, et sponsae.
 
-2 Quinque autem ex eis erant fatuæ, et quinque prudentes:
+2 Quinque autem ex eis erant fatuae, et quinque prudentes:
 
-3 sed quinque fatuæ, acceptis lampadibus, non sumpserunt oleum secum:
+3 sed quinque fatuae, acceptis lampadibus, non sumpserunt oleum secum:
 
 4 prudentes vero acceperunt oleum in vasis suis cum lampadibus.
 
@@ -17,15 +17,15 @@ draft: false
 
 6 Media autem nocte clamor factus est: Ecce sponsus venit, exite obviam ei.
 
-7 Tunc surrexerunt omnes virgines illæ, et ornaverunt lampades suas.
+7 Tunc surrexerunt omnes virgines illae, et ornaverunt lampades suas.
 
-8 Fatuæ autem sapientibus dixerunt: Date nobis de oleo vestro: quia lampades nostræ extinguuntur.
+8 Fatuae autem sapientibus dixerunt: Date nobis de oleo vestro: quia lampades nostrae extinguuntur.
 
 9 Responderunt prudentes, dicentes: Ne forte non sufficiat nobis, et vobis, ite potius ad vendentes, et emite vobis.
 
-10 Dum autem irent emere, venit sponsus: et quæ paratæ erant, intraverunt cum eo ad nuptias, et clausa est ianua.
+10 Dum autem irent emere, venit sponsus: et quae paratae erant, intraverunt cum eo ad nuptias, et clausa est ianua.
 
-11 Novissime vero veniunt et reliquæ virgines, dicentes: Domine, domine, aperi nobis.
+11 Novissime vero veniunt et reliquae virgines, dicentes: Domine, domine, aperi nobis.
 
 12 At ille respondens, ait: Amen dico vobis, nescio vos.
 
@@ -65,11 +65,11 @@ draft: false
 
 30 Et inutilem servum eiicite in tenebras exteriores: illic erit fletus, et stridor dentium.
 
-31 Cum autem venerit Filius hominis in maiestate sua, et omnes angeli cum eo, tunc sedebit super sedem maiestatis suæ:
+31 Cum autem venerit Filius hominis in maiestate sua, et omnes angeli cum eo, tunc sedebit super sedem maiestatis suae:
 
-32 et congregabuntur ante eum omnes gentes, et separabit eos ab invicem, sicut pastor segregat oves ab hœdis:
+32 et congregabuntur ante eum omnes gentes, et separabit eos ab invicem, sicut pastor segregat oves ab hoedis:
 
-33 et statuet oves quidem a dextris suis, hœdos autem a sinistris.
+33 et statuet oves quidem a dextris suis, hoedos autem a sinistris.
 
 34 Tunc dicet rex his, qui a dextris eius erunt: Venite benedicti Patris mei, possidete paratum vobis regnum a constitutione mundi.
 
@@ -85,7 +85,7 @@ draft: false
 
 40 Et respondens rex, dicet illis: Amen dico vobis, quamdiu fecistis uni ex his fratribus meis minimis, mihi fecistis.
 
-41 Tunc dicet et his, qui a sinistris erunt: Discedite a me maledicti in ignem æternum, qui paratus est diabolo, et angelis eius.
+41 Tunc dicet et his, qui a sinistris erunt: Discedite a me maledicti in ignem aeternum, qui paratus est diabolo, et angelis eius.
 
 42 esurivi enim, et non dedistis mihi manducare: sitivi, et non desistis mihi potum:
 
@@ -95,5 +95,5 @@ draft: false
 
 45 Tunc respondebit illis dicens: Amen dico vobis: Quamdiu non fecistis uni de minoribus his, nec mihi fecistis.
 
-46 Et ibunt hi in supplicium æternum: iusti autem in vitam æternam.
+46 Et ibunt hi in supplicium aeternum: iusti autem in vitam aeternam.
 

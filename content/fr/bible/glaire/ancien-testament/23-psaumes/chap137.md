@@ -8,7 +8,7 @@ summary: |
 ---
 
 
-1 A David (ou de David lui-même). Je vous glorifierai, Seigneur, en tout mon cœur, parce que vous avez écouté les paroles de ma bouche. En présence des anges je vous chanterai des hymnes :
+1 A David (ou de David lui-même). Je vous glorifierai, Seigneur, en tout mon coeur, parce que vous avez écouté les paroles de ma bouche. En présence des anges je vous chanterai des hymnes :
 
 ***Note*** :  Ps. 137, 1 : David remercie Dieu de la promesse qu’il lui a faite de faire sortir le Messie de sa race, et de rendre son trône éternel, voir 2 Rois, chapitre 7, 1 Paralipomènes, chapitre 17. ― Versets 1 à 3 : Le Psalmiste remercie Dieu de la promesse qu’il lui a faite. ― Versets 4 à 6 : Tous les rois glorifieront Dieu, quand ils la verront se réaliser. ― Versets 7 à 8 : Pour lui sa confiance envers le Seigneur est sans bornes.
 

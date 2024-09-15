@@ -8,23 +8,23 @@ summary: |
 ---
 
 
-1 Mais le Seigneur dit à Moïse : Va vers Pharaon, et dis-lui : Voici ce que dit le Seigneur Dieu des Hébreux: Laisse aller mon peuple, afin qu'il me sacrifie. 2 Que si tu refuses encore et les retiens, 3 Voilà que ma main sera sur tes champs : et sur tes chevaux, et tes ânes, et tes chameaux, et tes bœufs, et tes brebis, une peste très dangereuse. 4 Et le Seigneur fera une distinction merveilleuse entre les possessions d'Israël et les possessions des Egyptiens ; en sorte que rien absolument ne périra de ce qui appartient aux enfants d'Israël. 5 Et le Seigneur en a marqué le temps, disant : Demain le Seigneur accomplira cette parole en ce pays.
+1 Mais le Seigneur dit à Moïse : Va vers Pharaon, et dis-lui : Voici ce que dit le Seigneur Dieu des Hébreux: Laisse aller mon peuple, afin qu'il me sacrifie. 2 Que si tu refuses encore et les retiens, 3 Voilà que ma main sera sur tes champs : et sur tes chevaux, et tes ânes, et tes chameaux, et tes boeufs, et tes brebis, une peste très dangereuse. 4 Et le Seigneur fera une distinction merveilleuse entre les possessions d'Israël et les possessions des Egyptiens ; en sorte que rien absolument ne périra de ce qui appartient aux enfants d'Israël. 5 Et le Seigneur en a marqué le temps, disant : Demain le Seigneur accomplira cette parole en ce pays.
 
 
 6 Le Seigneur donc accomplit cette parole le jour suivant : et tous les animaux des Egyptiens moururent; mais parmi les animaux des enfants d'Israël rien absolument ne périt.
 
 ***Note*** :  Ex. 9, 6 : Ce verset n’est nullement en contradiction avec le neuvième, où il est dit que les animaux fussent atteints d’ulcères, tandis qu’ici on les suppose tous morts. Car 1° Il ne faut pas entendre le mot tous que des bêtes qui étaient dans les champs, comme on le lit au verset 3, où cette plaie est annoncée. 2° Le texte peut très bien s’entendre de tous les animaux, non pas pris individuellement, mais considérés par rapport à l’espèce elle-même, en sorte que le sens soit, toutes espèces d’animaux.
 
-7 Et Pharaon envoya voir : et rien n'était mort de ce que possédait Israël. Et le cœur de Pharaon s'endurcit et il ne laissa pas aller le peuple.
+7 Et Pharaon envoya voir : et rien n'était mort de ce que possédait Israël. Et le coeur de Pharaon s'endurcit et il ne laissa pas aller le peuple.
 
 
 8 Alors le Seigneur dit à Moïse et à Aaron : Prenez plein vos mains de cendre de foyer, et que Moïse la jette çà et là vers le ciel devant Pharaon ; 9 Et qu'il y ait de la poussière sur toute la terre d'Egypte ; car il y aura sur les hommes et les bêtes des ulcères, et de grosses tumeurs, dans toute la terre d'Egypte.
 
 
-10 Ils prirent donc de la cendre de foyer, et ils se présentèrent devant Pharaon, et Moïse la jeta çà et là vers le ciel, et il se forma des ulcères, de grosses tumeurs sur les hommes et les bêtes. 11 Et les magiciens ne pouvaient se tenir devant Moïse, à cause des plaies qui étaient sur eux et dans toute la terre d'Egypte. 12 Mais le Seigneur endurcit le cœur de Pharaon, et il n'écouta pas Moïse et Aaron, comme l'avait dit le Seigneur à Moïse.
+10 Ils prirent donc de la cendre de foyer, et ils se présentèrent devant Pharaon, et Moïse la jeta çà et là vers le ciel, et il se forma des ulcères, de grosses tumeurs sur les hommes et les bêtes. 11 Et les magiciens ne pouvaient se tenir devant Moïse, à cause des plaies qui étaient sur eux et dans toute la terre d'Egypte. 12 Mais le Seigneur endurcit le coeur de Pharaon, et il n'écouta pas Moïse et Aaron, comme l'avait dit le Seigneur à Moïse.
 
 
-13 Le Seigneur dit encore à Moïse : Lève-toi dès le matin et présente-toi devant Pharaon, et tu lui diras : Voici ce que dit le Seigneur, Dieu des Hébreux : Laisse aller mon peuple, afin qu'il me sacrifie. 14 Parce que, pour cette fois, j'enverrai toutes mes plaies sur ton cœur, et sur tes serviteurs, et sur ton peuple, afin que tu saches que nul n'est semblable à moi dans toute la terre. 15 C'est maintenant, en effet, qu'étendant la main, je frapperai toi et ton peuple de la peste, et tu périras de dessus la terre. 16 Car je t'ai établi pour montrer en toi ma puissance, et pour que mon nom soit publié dans toute la terre.
+13 Le Seigneur dit encore à Moïse : Lève-toi dès le matin et présente-toi devant Pharaon, et tu lui diras : Voici ce que dit le Seigneur, Dieu des Hébreux : Laisse aller mon peuple, afin qu'il me sacrifie. 14 Parce que, pour cette fois, j'enverrai toutes mes plaies sur ton coeur, et sur tes serviteurs, et sur ton peuple, afin que tu saches que nul n'est semblable à moi dans toute la terre. 15 C'est maintenant, en effet, qu'étendant la main, je frapperai toi et ton peuple de la peste, et tu périras de dessus la terre. 16 Car je t'ai établi pour montrer en toi ma puissance, et pour que mon nom soit publié dans toute la terre.
 
 ***Note*** :  Ex. 9, 16 : Voir Romains, 9, 17.
 
@@ -41,7 +41,7 @@ summary: |
 27 Alors Pharaon envoya et appela Moïse et Aaron, leur disant : J'ai encore péché, maintenant : le Seigneur est juste ; moi et mon peuple nous sommes les impies. 28 Priez le Seigneur que ces tonnerres de Dieu et la grêle cessent, afin que je vous laisse aller, et, qu'en aucune manière, vous ne demeuriez ici davantage.
 
 
-29 Moïse répondit : Quand je serai sorti de la ville, j'étendrai mes mains vers le Seigneur, et les tonnerres cesseront, et il n'y aura plus de grêle ; afin que tu saches qu'au Seigneur est la terre. 30 Or je sais que toi-même et tes serviteurs ne craignez pas encore le Seigneur Dieu. 31 Ainsi le lin et l'orge furent gâtés, parce que l'orge était verte, et que le fin poussait déjà ses balles. 32 Mais le froment et l'épeautre ne furent point gâtés, parce qu'ils étaient tardifs. 33 Moïse donc, sorti d'avec Pharaon et de la ville, étendit ses mains vers le Seigneur, et les tonnerres et la grêle cessèrent, et il ne tomba plus une goutte d'eau sur la terre. 34 Or Pharaon, voyant que la pluie, la grêle et les tonnerres avaient cessé, aggrava son péché; 35 Et son cœur et celui de ses serviteurs s'appesantirent et s'endurcirent extrêmement; et il ne laissa point aller les enfants d'Israël, comme avait ordonné le Seigneur par l'entremise de Moïse.
+29 Moïse répondit : Quand je serai sorti de la ville, j'étendrai mes mains vers le Seigneur, et les tonnerres cesseront, et il n'y aura plus de grêle ; afin que tu saches qu'au Seigneur est la terre. 30 Or je sais que toi-même et tes serviteurs ne craignez pas encore le Seigneur Dieu. 31 Ainsi le lin et l'orge furent gâtés, parce que l'orge était verte, et que le fin poussait déjà ses balles. 32 Mais le froment et l'épeautre ne furent point gâtés, parce qu'ils étaient tardifs. 33 Moïse donc, sorti d'avec Pharaon et de la ville, étendit ses mains vers le Seigneur, et les tonnerres et la grêle cessèrent, et il ne tomba plus une goutte d'eau sur la terre. 34 Or Pharaon, voyant que la pluie, la grêle et les tonnerres avaient cessé, aggrava son péché; 35 Et son coeur et celui de ses serviteurs s'appesantirent et s'endurcirent extrêmement; et il ne laissa point aller les enfants d'Israël, comme avait ordonné le Seigneur par l'entremise de Moïse.
 
 ***Note*** :  Ex. 9, 35 : Par l’entremise de Moïse, littéralement par la main de Moïse. Les Hébreux se servaient des mots main, mains, pour exprimer les idées de moyen, d’instrument, d’entremise, etc.
 

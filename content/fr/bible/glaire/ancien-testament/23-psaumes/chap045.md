@@ -11,10 +11,10 @@ summary: |
 
 1 Pour la fin, aux fils de Coré, pour les secrets, psaume.
 
-***Note*** :  Ps. 45, 1 : Le titre hébreu porte : « Au chef de chœur. Des enfants de Coré. ’Al ‘alamôth (avec voix de soprano, d’après un grand nombre). » Ce psaume a été probablement composé à l’occasion de la guerre des Moabites, des Ammonites et des Iduméens, du temps de Josaphat, voir 2 Paralipomènes, 20, 2-4. Dieu est notre secours, au milieu des tempêtes et des dangers.
+***Note*** :  Ps. 45, 1 : Le titre hébreu porte : « Au chef de choeur. Des enfants de Coré. ’Al ‘alamôth (avec voix de soprano, d’après un grand nombre). » Ce psaume a été probablement composé à l’occasion de la guerre des Moabites, des Ammonites et des Iduméens, du temps de Josaphat, voir 2 Paralipomènes, 20, 2-4. Dieu est notre secours, au milieu des tempêtes et des dangers.
 
 
-2 Dieu est notre refuge et notre force, notre aide dans les tribulations qui nous ont assaillis très violemment. 3 C'est pour cela que nous ne craindrons pas, tandis que la terre sera bouleversée, et que des montagnes seront transportées au cœur des mers,
+2 Dieu est notre refuge et notre force, notre aide dans les tribulations qui nous ont assaillis très violemment. 3 C'est pour cela que nous ne craindrons pas, tandis que la terre sera bouleversée, et que des montagnes seront transportées au coeur des mers,
 
 ***Note*** :  Ps. 45, 3 : Mers ; pluriel qui se trouve dans l’hébreu et les Septante, et que la Vulgate elle-même suppose, quoiqu’elle mette le singulier (maris), puisqu’elle porte au verset suivant leurs flots au lieu de ses flots.
 
@@ -37,7 +37,7 @@ summary: |
 ***Note*** :  Ps. 45, 8 : Refrain.
 
 
-9 Venez, et voyez les œuvres du Seigneur, vrais prodiges qu'il a opérés sur la terre,
+9 Venez, et voyez les oeuvres du Seigneur, vrais prodiges qu'il a opérés sur la terre,
 
 ***Note*** :  Ps. 45, 9-11 : Dieu détruit tous les ennemis de Jérusalem.
 

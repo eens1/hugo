@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Hi sunt autem provinciæ filii, qui ascenderunt de captivitate, quam transtulerat Nabuchodonosor rex Babylonis in Babylonem, et reversi sunt in Ierusalem et Iudam, unusquisque in civitatem suam.
+1 Hi sunt autem provinciae filii, qui ascenderunt de captivitate, quam transtulerat Nabuchodonosor rex Babylonis in Babylonem, et reversi sunt in Ierusalem et Iudam, unusquisque in civitatem suam.
 
 2 Qui venerunt cum Zorobabel, Iosue, Nehemia, Saraia, Rahelaia, Mardochai, Belsan, Mesphar, Beguai, Rehum, Baana. Numerus virorum populi Israel:
 
@@ -17,7 +17,7 @@ draft: false
 
 6 Filii Phahath Moab, filiorum Iosue: Ioab duo millia octingenti duodecim.
 
-7 Filii Ælam mille ducenti quinquagintaquattuor.
+7 Filii AElam mille ducenti quinquagintaquattuor.
 
 8 Filii Zethua, nongenti quadragintaquinque.
 
@@ -65,7 +65,7 @@ draft: false
 
 30 Filii Megbis, centum quinquagintasex.
 
-31 Filii Ælam alterius, mille ducenti quinquagintaquattuor.
+31 Filii AElam alterius, mille ducenti quinquagintaquattuor.
 
 32 Filii Harim, trecenti viginti.
 
@@ -83,13 +83,13 @@ draft: false
 
 39 Filii Harim, mille decem et septem.
 
-40 Levitæ: Filii Iosue et Cedmihel filiorum Odoviæ septuagintaquattuor.
+40 Levitae: Filii Iosue et Cedmihel filiorum Odoviae septuagintaquattuor.
 
 41 Cantores: Filii Asaph, centum vigintiocto.
 
 42 Filii Ianitorum: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatita, filii Sobai: universi centum trigintanovem.
 
-43 Nathinæi: filii Siha, filii Hasupha, filii Tabbaoth,
+43 Nathinaei: filii Siha, filii Hasupha, filii Tabbaoth,
 
 44 filii Ceros, filii Siaa, filii Phadon,
 
@@ -119,7 +119,7 @@ draft: false
 
 57 filii Saphatia, filii Hatil, filii Phochereth, qui erant de Asebaim, filii Ami.
 
-58 omnes Nathinæi, et filii servorum Salomonis, trecenti nonagintaduo.
+58 omnes Nathinaei, et filii servorum Salomonis, trecenti nonagintaduo.
 
 59 Et hi qui ascenderunt de Thelmala, Thelharsa, Cherub, et Adon, et Emer: et non potuerunt indicare domum patrum suorum et semen suum, utrum ex Israel essent.
 
@@ -127,7 +127,7 @@ draft: false
 
 61 Et de filiis Sacerdotum: Filii Hobia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis, uxorem, et vocatus est nomine eorum:
 
-62 hi quæsierunt scripturam genealogiæ suæ, et non invenerunt, et eiecti sunt de sacerdotio.
+62 hi quaesierunt scripturam genealogiae suae, et non invenerunt, et eiecti sunt de sacerdotio.
 
 63 Et dixit Athersatha eis ut non comederent de Sancto sanctorum, donec surgeret sacerdos doctus atque perfectus.
 
@@ -143,5 +143,5 @@ draft: false
 
 69 Secundum vires suas dederunt impensas operis, auri solidos sexaginta millia et mille, argenti mnas quinque millia, et vestes sacerdotales centum.
 
-70 Habitaverunt ergo Sacerdotes, et Levitæ, et de populo, et cantores, et ianitores, et Nathinæi in urbibus suis, universusque Israel in civitatibus suis.
+70 Habitaverunt ergo Sacerdotes, et Levitae, et de populo, et cantores, et ianitores, et Nathinaei in urbibus suis, universusque Israel in civitatibus suis.
 

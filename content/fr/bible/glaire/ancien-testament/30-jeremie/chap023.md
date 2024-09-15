@@ -16,7 +16,7 @@ summary: |
 
 ***Note*** :  Jr. 23, 1 : Voir Ezéchiel, 34, 2. ― Malheur, etc. C’est une suite du discours précédent.
 
-2 C'est pourquoi voici ce que dit le Seigneur, Dieu d'Israël, aux pasteurs qui paissent mon peuple : Vous, vous avez dispersé mon troupeau, et vous l'avez chassé, et vous ne l'avez pas visité : voilà que moi je vous visiterai pour la malice de vos œuvres, dit le Seigneur.
+2 C'est pourquoi voici ce que dit le Seigneur, Dieu d'Israël, aux pasteurs qui paissent mon peuple : Vous, vous avez dispersé mon troupeau, et vous l'avez chassé, et vous ne l'avez pas visité : voilà que moi je vous visiterai pour la malice de vos oeuvres, dit le Seigneur.
 
 ***Note*** :  Jr. 23, 2 : L’avez chassé, l’avez visité. La Vulgate, conformément au texte hébreu, porte les (eos), au pluriel, parce que le mot troupeau, que représente le pronom, est un nom collectif, qui, quoique singulier, signifie plusieurs animaux.
 
@@ -45,7 +45,7 @@ summary: |
 ***Note*** :  Jr. 23, 8 : Voir Jérémie, 16, 14.
 
 
-9 Aux prophètes : Mon cœur a été brisé au dedans de moi, tous mes os ont tremblé ; je suis devenu comme un homme ivre, comme un homme rempli de vin, à cause du Seigneur, à cause de ses paroles saintes.
+9 Aux prophètes : Mon coeur a été brisé au dedans de moi, tous mes os ont tremblé ; je suis devenu comme un homme ivre, comme un homme rempli de vin, à cause du Seigneur, à cause de ses paroles saintes.
 
 ***Note*** :  Jr. 23, 9-40 : 3° Oracles contre les faux prophètes, chapitre 23, versets 9 à 40. ― Les mauvais prophètes, par leurs pernicieux exemples, sont la cause principale de la corruption de Juda, versets 9 à 15 ; ils ont trompé le peuple par leurs prédictions mensongères et l’ont ainsi endurci dans ses péchés, mais la colère du Seigneur éclatera sur leurs têtes, versets 16 à 22 ; Dieu voit comment, par leurs rêveries, ils éloignent le peuple de son culte, en donnant leurs imaginations pour une parole divine, versets 23 à 30 ; il viendra à eux, il leur apprendra à ne plus mépriser le fardeau (massa), ou prophétie de menaces, des vrais prophètes, et il les couvrira d’une honte éternelle, versets 31 à 40.
 
@@ -71,11 +71,11 @@ summary: |
 ***Note*** :  Jr. 23, 15 : Voir Jérémie, 9, 15. ― Je les nourrirai d’absinthe. Voir Proverbes, 5, 4.
 
 
-16 Voici ce que dit le Seigneur des armées : N'écoutez pas les paroles de ces prophètes qui vous prophétisent et vous trompent; ils disent les visions de leur cœur, non recueillies de la bouche du Seigneur.
+16 Voici ce que dit le Seigneur des armées : N'écoutez pas les paroles de ces prophètes qui vous prophétisent et vous trompent; ils disent les visions de leur coeur, non recueillies de la bouche du Seigneur.
 
 ***Note*** :  Jr. 23, 16 : Voir Jérémie, 27, 9 ; 29, 8.
 
-17 Ils disent à ceux qui me blasphèment : Le Seigneur a parlé; la paix sera à vous; et à quiconque marche dans la dépravation de son cœur, ils ont dit : Il ne viendra pas sur vous de mal.
+17 Ils disent à ceux qui me blasphèment : Le Seigneur a parlé; la paix sera à vous; et à quiconque marche dans la dépravation de son coeur, ils ont dit : Il ne viendra pas sur vous de mal.
 
 ***Note*** :  Jr. 23, 17 : Voir Jérémie, 5, 12 ; 14, 15.
 
@@ -84,7 +84,7 @@ summary: |
 
 ***Note*** :  Jr. 23, 19 : Voir Jérémie, 30, 23.
 
-20 La fureur du Seigneur ne reviendra pas jusqu'à ce qu'elle exécute, et jusqu'à ce qu'elle accomplisse la pensée de son cœur; dans les derniers jours vous comprendrez son dessein. 21 Je n'envoyais pas ces prophètes, et d'eux-mêmes ils couraient; je ne leur parlais pas, et d'eux-mêmes ils prophétisaient.
+20 La fureur du Seigneur ne reviendra pas jusqu'à ce qu'elle exécute, et jusqu'à ce qu'elle accomplisse la pensée de son coeur; dans les derniers jours vous comprendrez son dessein. 21 Je n'envoyais pas ces prophètes, et d'eux-mêmes ils couraient; je ne leur parlais pas, et d'eux-mêmes ils prophétisaient.
 
 ***Note*** :  Jr. 23, 21 : Voir Jérémie, 27, 15 ; 29, 9. ― Ces ; est dans l’hébreu, représenté par l’article déterminatif.
 
@@ -94,7 +94,7 @@ summary: |
 23 Penses-tu que moi je sois Dieu de près, dit le Seigneur, et non Dieu de loin? 24 Un homme se cachera dans les ténèbres, et moi ne le verrai-je pas, dit le Seigneur? n'est-ce pas moi qui remplis le ciel et la terre, dit le Seigneur?
 
 
-25 J'ai entendu ce qu'ont dit les prophètes, prophétisant en mon nom un mensonge, et disant : J'ai eu un songe, j'ai eu un songe. 26 Jusques à quand cela sera-t-il dans le cœur de ces prophètes qui prédisent le mensonge, et qui prophétisent les séductions de leur cœur? 27 Ceux qui veulent faire que mon peuple oublie mon nom à cause de leurs songes, que chacun d'eux raconte à son prochain comme leurs pères ont oublié mon nom à cause de Baal.
+25 J'ai entendu ce qu'ont dit les prophètes, prophétisant en mon nom un mensonge, et disant : J'ai eu un songe, j'ai eu un songe. 26 Jusques à quand cela sera-t-il dans le coeur de ces prophètes qui prédisent le mensonge, et qui prophétisent les séductions de leur coeur? 27 Ceux qui veulent faire que mon peuple oublie mon nom à cause de leurs songes, que chacun d'eux raconte à son prochain comme leurs pères ont oublié mon nom à cause de Baal.
 
 
 28 Que le prophète qui a un songe le raconte, et que celui qui a ma parole publie ma parole fidèlement ; car quel rapport a la paille avec le froment? dit le Seigneur, 29 Ma parole n'est-elle pas comme le feu, dit le Seigneur, et comme un marteau qui brise une pierre? 30 A cause de cela, voilà que moi, dit le Seigneur, je viens aux prophètes qui dérobent ma parole, chacun à son prochain. 31 Voilà que moi, dit le Seigneur, j'en viens aux prophètes qui font usage de leurs langues et disent : Le Seigneur dit.

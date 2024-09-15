@@ -30,7 +30,7 @@ summary: |
 
 8 A la fin il fut enfermé dans une prison par Arétas, tyran des Arabes, qui voulait sa perte ; et s'étant échappé, et fuyant de cité en cité, odieux à tous, comme un violateur des lois, et exécrable, comme ennemi de la patrie et de ses concitoyens, il fut chassé en Egypte;
 
-***Note*** :  II Macc. 5, 8 : Arétas, tyran ou roi des Arabes Nabatéens, qui s’étaient emparés de l’Idumée et dont la capitale était Pétra. On connait quatre Arétas, roi des Nabatéens. Celui-ci est Arétas Ier (169 avant Jésus-Christ). Celui que nomme saint Paul, voir 2 Corinthiens, 11, 32, est Arétas IV Ænéas Philodème.
+***Note*** :  II Macc. 5, 8 : Arétas, tyran ou roi des Arabes Nabatéens, qui s’étaient emparés de l’Idumée et dont la capitale était Pétra. On connait quatre Arétas, roi des Nabatéens. Celui-ci est Arétas Ier (169 avant Jésus-Christ). Celui que nomme saint Paul, voir 2 Corinthiens, 11, 32, est Arétas IV AEnéas Philodème.
 
 9 Et celui qui avait banni beaucoup de personnes de leur patrie, périt dans une terre étrangère, étant allé à Lacédémone, comme devant y trouver un refuge à cause de la parenté.
 
@@ -39,7 +39,7 @@ summary: |
 10 Et celui qui avait jeté beaucoup de corps sans les ensevelir, est lui-même jeté sans être pleuré et enseveli, et sans recevoir une sépulture même étrangère, et sans avoir part à un sépulcre dans sa patrie.
 
 
-11 Les choses s'étant ainsi passées, le roi soupçonna que les Juifs abandonneraient son alliance; et à cause de cela il partit d'Egypte, la rage dans le cœur, et prit la cité d'assaut. 12 Or il commanda à ses soldats de tuer, et de ne point épargner ceux qu'ils rencontreraient, de monter même dans les maisons pour massacrer. 13 Il se fit donc un carnage de jeunes hommes et de vieillards, et une extermination de femmes et d'enfants, et un massacre de vierges et de tout petits enfants. 14 Or il y eut, dans l'espace entier de trois jours, quatre-vingt mille tués, quarante mille enchaînés, et pas moins de vendus.
+11 Les choses s'étant ainsi passées, le roi soupçonna que les Juifs abandonneraient son alliance; et à cause de cela il partit d'Egypte, la rage dans le coeur, et prit la cité d'assaut. 12 Or il commanda à ses soldats de tuer, et de ne point épargner ceux qu'ils rencontreraient, de monter même dans les maisons pour massacrer. 13 Il se fit donc un carnage de jeunes hommes et de vieillards, et une extermination de femmes et d'enfants, et un massacre de vierges et de tout petits enfants. 14 Or il y eut, dans l'espace entier de trois jours, quatre-vingt mille tués, quarante mille enchaînés, et pas moins de vendus.
 
 ***Note*** :  II Macc. 5, 14 : Enchaînés (vincti) ; c’est-à-dire, faits captifs ou prisonniers. Vendus comme esclaves.
 

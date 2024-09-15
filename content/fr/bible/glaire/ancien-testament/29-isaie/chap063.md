@@ -7,7 +7,7 @@ summary: |
   Vainqueur qui sort de l’Idumée tout couvert de sang.
   Reconnaissance des miséricordes du Seigneur sur Israël.
   Aveu de l’infidélité de ce peuple.
-  Vœu pour son entière délivrance.
+  Voeu pour son entière délivrance.
 ---
 
 
@@ -28,7 +28,7 @@ l’Eglise, ce discours annonce plutôt le triomphe de Jésus-Christ sur tous le
 3 J'ai foulé le pressoir tout seul, et d'entre les nations il n'y a pas un homme avec moi; je les ai foulés aux pieds dans ma fureur, et je les ai foulés aux pieds dans ma colère ; leur sang s'est répandu sur mes vêtements, il a souillé tous mes habits.
 
 
-4 Car le jour de la vengeance est dans mon cœur, l'année de ma rédemption est venue.
+4 Car le jour de la vengeance est dans mon coeur, l'année de ma rédemption est venue.
 
 ***Note*** :  Is. 63, 4 : Voir Isaïe, 34, 8. ― Ma rédemption ; la rédemption que je dois opérer.
 
@@ -73,7 +73,7 @@ de lui, versets 15 à 19, et qu’il le délivre de ses ennemis, chapitre 64, ve
 16 Car vous êtes notre père ; Abraham ne nous a pas connus, et Israël nous a ignorés; vous. Seigneur, êtes notre père; notre rédempteur, dès les temps anciens, est votre nom.
 
 
-17 Seigneur, pourquoi nous avez-vous laissés errer loin de vos voies, et avez-vous laissé endurcir nos cœurs jusqu'à ne plus vous craindre? revenez à cause de vos serviteurs, tribus de votre héritage. 18 Comme un rien ils ont possédé votre peuple saint, nos ennemis ; ils ont foulé aux pieds votre sanctification.
+17 Seigneur, pourquoi nous avez-vous laissés errer loin de vos voies, et avez-vous laissé endurcir nos coeurs jusqu'à ne plus vous craindre? revenez à cause de vos serviteurs, tribus de votre héritage. 18 Comme un rien ils ont possédé votre peuple saint, nos ennemis ; ils ont foulé aux pieds votre sanctification.
 
 ***Note*** :  Is. 63, 18 : Votre sanctification. Voir Isaïe, 60, 13.
 

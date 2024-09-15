@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Igitur, si consurrexistis cum Christo: quæ sursum sunt quærite, ubi Christus est in dextera Dei sedens:
+1 Igitur, si consurrexistis cum Christo: quae sursum sunt quaerite, ubi Christus est in dextera Dei sedens:
 
-2 quæ sursum sunt sapite, non quæ super terram.
+2 quae sursum sunt sapite, non quae super terram.
 
 3 Mortui enim estis, et vita vestra est abscondita cum Christo in Deo.
 
 4 Cum Christus apparuerit, vita vestra: tunc et vos apparebitis cum ipso in gloria.
 
-5 Mortificate ergo membra vestra, quæ sunt super terram: fornicationem, immunditiam, libidinem, concupiscentiam malam, et avaritiam, quæ est simulacrorum servitus:
+5 Mortificate ergo membra vestra, quae sunt super terram: fornicationem, immunditiam, libidinem, concupiscentiam malam, et avaritiam, quae est simulacrorum servitus:
 
-6 propter quæ venit ira Dei super filios incredulitatis:
+6 propter quae venit ira Dei super filios incredulitatis:
 
 7 in quibus et vos ambulastis aliquando, cum viveritis in illis.
 
@@ -25,13 +25,13 @@ draft: false
 
 10 et induentes novum eum, qui renovatur in agnitionem secundum imaginem eius, qui creavit illum.
 
-11 ubi non est Gentilis, et Iudæus, circumcisio, et præputium, Barbarus, et Scytha, servus, et liber: sed omnia, et in omnibus Christus.
+11 ubi non est Gentilis, et Iudaeus, circumcisio, et praeputium, Barbarus, et Scytha, servus, et liber: sed omnia, et in omnibus Christus.
 
-12 Induite vos ergo sicut electi Dei, sancti, et dilecti, viscera misericordiæ, benignitatem, humilitatem, modestiam, patientiam:
+12 Induite vos ergo sicut electi Dei, sancti, et dilecti, viscera misericordiae, benignitatem, humilitatem, modestiam, patientiam:
 
 13 supportantes invicem, et donantes vobismetipsis si quis adversus aliquem habet querelam: sicut et Dominus donavit vobis, ita et vos.
 
-14 Super omnia autem hæc, charitatem habete, quod est vinculum perfectionis:
+14 Super omnia autem haec, charitatem habete, quod est vinculum perfectionis:
 
 15 et pax Christi exultet in cordibus vestris, in qua et vocati estis in uno corpore: et grati estote.
 
@@ -39,7 +39,7 @@ draft: false
 
 17 Omne, quodcumque facitis in verbo aut in opere, omnia in nomine Domini Iesu Christi, gratias agentes Deo et Patri per ipsum.
 
-18 Mulieres subditæ estote viris, sicut oportet, in Domino.
+18 Mulieres subditae estote viris, sicut oportet, in Domino.
 
 19 Viri diligite uxores vestras, et nolite amari esse ad illas.
 

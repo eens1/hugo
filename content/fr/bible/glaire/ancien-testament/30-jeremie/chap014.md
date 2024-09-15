@@ -43,7 +43,7 @@ Juda comme Juda l’a traité lui-même, chapitre 15, versets 1 à 9. ― 5° J�
 
 ***Note*** :  Jr. 14, 13 : Voir Jérémie, 5, 12 ; 23, 17. ― Et je dis : A, a, a ; exclamation, ah ! ah !
 
-14 Et le Seigneur me dit : C'est faussement que ces prophètes prophétisent en mon nom ; je ne les ai point envoyés, et je ne leur ai rien ordonné, et je ne leur ai pas parlé ; c'est une vision mensongère, et de la divination, et de la fraude, et la séduction de leur cœur qu'ils vous prophétisent.
+14 Et le Seigneur me dit : C'est faussement que ces prophètes prophétisent en mon nom ; je ne les ai point envoyés, et je ne leur ai rien ordonné, et je ne leur ai pas parlé ; c'est une vision mensongère, et de la divination, et de la fraude, et la séduction de leur coeur qu'ils vous prophétisent.
 
 ***Note*** :  Jr. 14, 14 : Voir Jérémie, 29, 9.
 

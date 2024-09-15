@@ -14,7 +14,7 @@ summary: |
 
 ***Note*** :  IV Rois 11, 1 : Voir 2 Paralipomènes, 22, 10.
 
-2 Mais Josaba, fille du roi Joram, sœur d'Ochozias, prenant Joas, fils d'Ochozias, le déroba du milieu des enfants du roi, que l'on tuait, ainsi que sa nourrice, l'enleva de sa chambre à coucher, et le cacha aux yeux d'Athalie, afin qu'il ne fût pas tué. 3 Et il fut six ans avec sa nourrice en secret dans la maison du Seigneur; cependant Athalie régnait sur la terre de Juda.
+2 Mais Josaba, fille du roi Joram, soeur d'Ochozias, prenant Joas, fils d'Ochozias, le déroba du milieu des enfants du roi, que l'on tuait, ainsi que sa nourrice, l'enleva de sa chambre à coucher, et le cacha aux yeux d'Athalie, afin qu'il ne fût pas tué. 3 Et il fut six ans avec sa nourrice en secret dans la maison du Seigneur; cependant Athalie régnait sur la terre de Juda.
 
 
 4 Or, en la septième année, Joïada envoya, et, prenant les centurions et les soldats, il les introduisit près de lui dans le temple du Seigneur, et il fit alliance avec eux; et, les adjurant dans la maison du Seigneur, il leur montra le fils du roi;

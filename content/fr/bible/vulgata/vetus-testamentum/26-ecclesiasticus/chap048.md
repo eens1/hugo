@@ -7,9 +7,9 @@ draft: false
 
 1 Et surrexit Elias propheta, quasi ignis, et verbum ipsius quasi facula ardebat.
 
-2 Qui induxit in illos famem, et irritantes illum invidia sua pauci facti sunt. non enim poterant sustinere præcepta Domini.
+2 Qui induxit in illos famem, et irritantes illum invidia sua pauci facti sunt. non enim poterant sustinere praecepta Domini.
 
-3 Verbo Domini continuit cælum, et deiecit de cælo ignem ter.
+3 Verbo Domini continuit caelum, et deiecit de caelo ignem ter.
 
 4 sic amplificatus est Elias in mirabilibus suis. Et quis potest similiter sic gloriari tibi?
 
@@ -19,7 +19,7 @@ draft: false
 
 7 Qui audis in Sina iudicium, et in Horeb iudicia defensionis.
 
-8 Qui ungis reges ad pœnitentiam, et prophetas facis successores post te.
+8 Qui ungis reges ad poenitentiam, et prophetas facis successores post te.
 
 9 Qui receptus es in turbine ignis, in curru equorum igneorum.
 
@@ -35,21 +35,21 @@ draft: false
 
 15 In vita sua fecit monstra, et in morte mirabilia operatus est.
 
-16 In omnibus istis non pœnituit populus, et non recesserunt a peccatis suis usque dum eiecti sunt de terra sua, et dispersi sunt in omnem terram:
+16 In omnibus istis non poenituit populus, et non recesserunt a peccatis suis usque dum eiecti sunt de terra sua, et dispersi sunt in omnem terram:
 
 17 et relicta est gens perpauca, et princeps in domo David.
 
 18 Quidam ipsorum fecerunt quod placeret Deo: alii autem multa commiserunt peccata.
 
-19 Ezechias munivit civitatem suam, et induxit in medium ipsius aquam, et fodit ferro rupem, et ædificavit ad aquam puteum.
+19 Ezechias munivit civitatem suam, et induxit in medium ipsius aquam, et fodit ferro rupem, et aedificavit ad aquam puteum.
 
 20 In diebus ipsius ascendit Sennacherib, et misit Rabsacen, et sustulit manum suam contra illos, et extulit manum suam in Sion, et superbus factus est potentia sua.
 
 21 Tunc mota sunt corda, et manus ipsorum: et doluerunt quasi parturientes mulieres.
 
-22 Et invocaverunt Dominum misericordem, et expandentes manus suas, extulerunt ad cælum: et sanctus Dominus Deus audivit cito vocem ipsorum.
+22 Et invocaverunt Dominum misericordem, et expandentes manus suas, extulerunt ad caelum: et sanctus Dominus Deus audivit cito vocem ipsorum.
 
-23 Non est commemoratus peccatorum illorum, neque dedit illos inimicis suis, sed purgavit eos in manu Isaiæ sancti prophetæ.
+23 Non est commemoratus peccatorum illorum, neque dedit illos inimicis suis, sed purgavit eos in manu Isaiae sancti prophetae.
 
 24 Deiecit castra Assyriorum, et contrivit illos Angelus Domini.
 

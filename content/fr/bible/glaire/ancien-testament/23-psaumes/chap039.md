@@ -44,7 +44,7 @@ summary: |
 
 ***Note*** :  Ps. 39, 8 : En tête d’un livre. C’est ainsi qu’on lit dans la Vulgate et les Septante ; l’hébreu porte dans un rouleau de livre ; sens que quelques-uns donnent aussi à la traduction des Septante. D’autres, se fondant principalement sur ce que Jésus-Christ dit dans Luc, 24, vv. 25-27, 44 et dans Jean, 5, 39 ; 7, 38, expliquent le mot tête de la Vulgate et des Septante par somme, totalité des Ecritures. Le Sauveur dit formellement, en effet, dans Jean, 5, 39 : « Scrutez les Ecritures…, car ce sont elles qui rendent témoignage de moi » et dans Luc, 24, 44 : « Il fallait que fût accompli tout ce qui est écrit de moi dans le livre de Moïse, dans les prophètes et dans les psaumes. »
 
-9 Que j'accomplisse votre volonté (mon Dieu, je l'ai voulu), et votre loi qui est au milieu de mon cœur.
+9 Que j'accomplisse votre volonté (mon Dieu, je l'ai voulu), et votre loi qui est au milieu de mon coeur.
 
 ***Note*** :  Ps. 39, 9 : Votre loi étant à l’accusatif dans le grec et dans le latin, est nécessairement un complément du verbe j’accomplirais (facerem), aussi bien que votre volonté (voluntatem tuam), qui précède. ― Qui est ne présente nullement une addition arbitraire ; c’est une expression qui se sous-entend dans les auteurs sacrés. Ainsi, la traduction ordinaire, qui fait des mots votre volonté le sujet d’une phrase nominale, forme un vrai contresens.
 
@@ -53,12 +53,12 @@ summary: |
 
 ***Note*** :  Ps. 39, 10 : -18 Le Psalmiste a manifesté à tous les bontés du Seigneur (versets 10 et 11), mais il a besoin de nouvelles grâces, (verset 2) et il demande : 1° le pardon de ses péchés (verset 13), 2° le triomphe sur ses ennemis (versets 14 à 16) et 3° la joie et le salut pour lui et pour les justes (versets 17 et 18).
 
-11 Je n'ai pas caché votre justice dans mon cœur; j'ai dit votre vérité et votre salut. Je n'ai pas caché votre miséricorde et votre vérité à un conseil nombreux.
+11 Je n'ai pas caché votre justice dans mon coeur; j'ai dit votre vérité et votre salut. Je n'ai pas caché votre miséricorde et votre vérité à un conseil nombreux.
 
 ***Note*** :  Ps. 39, 11 : Votre vérité ; c’est-à-dire votre fidélité à exécuter vos promesses. ― Votre salut ; le salut que vous accordez, qui vient de vous. ― A un conseil nombreux (a consilio multo) ; les Septante lisent rassemblement, réunion, qui a la même signification que conseil ; et l’hébreu assemblée, comme au verset 10.
 
 
-12 Mais vous. Seigneur, n'éloignez pas de moi vos bontés : votre miséricorde et votre vérité m'ont toujours soutenu. 13 Parce que des maux sans nombre m'ont environné; mes iniquités m'ont investi, et je n'ai pu en soutenir la vue. Elles se sont multipliées plus que les cheveux de ma tête; et mon cœur m'a abandonné.
+12 Mais vous. Seigneur, n'éloignez pas de moi vos bontés : votre miséricorde et votre vérité m'ont toujours soutenu. 13 Parce que des maux sans nombre m'ont environné; mes iniquités m'ont investi, et je n'ai pu en soutenir la vue. Elles se sont multipliées plus que les cheveux de ma tête; et mon coeur m'a abandonné.
 
 
 14 Qu'il vous plaise, Seigneur, de me délivrer : Seigneur, voyez à me secourir.

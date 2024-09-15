@@ -5,13 +5,13 @@ draft: false
 ---
 
 
-1 Ecce enim dies veniet succensa quasi caminus: et erunt omnes superbi, et omnes facientes impietatem stipula: et inflammabit eos dies veniens, dicit Dominus exercituum, quæ non derelinquet eis radicem, et germen.
+1 Ecce enim dies veniet succensa quasi caminus: et erunt omnes superbi, et omnes facientes impietatem stipula: et inflammabit eos dies veniens, dicit Dominus exercituum, quae non derelinquet eis radicem, et germen.
 
-2 Et orietur vobis timentibus nomen meum Sol iustitiæ, et sanitas in pennis eius: et egrediemini, et salietis sicut vituli de armento.
+2 Et orietur vobis timentibus nomen meum Sol iustitiae, et sanitas in pennis eius: et egrediemini, et salietis sicut vituli de armento.
 
 3 Et calcabitis impios, cum fuerint cinis sub planta pedum vestrorum in die, qua ego facio, dicit Dominus exercituum.
 
-4 Mementote legis Moysi servi mei, quam mandavi ei in Horeb ad omnem Israel præcepta, et iudicica.
+4 Mementote legis Moysi servi mei, quam mandavi ei in Horeb ad omnem Israel praecepta, et iudicica.
 
 5 Ecce ego mittam vobis Eliam prophetam, antequam veniat dies Domini magnus, et horribilis.
 

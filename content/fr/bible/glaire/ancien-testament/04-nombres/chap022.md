@@ -14,7 +14,7 @@ summary: |
 ***Note*** :  Nb. 22, 1 : Jéricho. Voir Josué, note 6. 1.
 
 
-2 Or, Balac, fils de Séphor, voyant tout ce qu'avait fait Israël à l'Amorrhéen :3 Que les Moabites le craignaient extrêmement, et qu'ils ne pourraient en soutenir l'attaque, 4 Dit aux enfants de Madian : Ce peuple détruira tous ceux qui demeurent à nos confins, de la même manière que le bœuf broute les herbes jusqu'aux racines. C'est lui qui était en ce temps-là roi de Moab. 5 Il envoya donc des messagers à Balaam, fils de Béor, devin, qui habitait sur le fleuve du pays des enfants d'Ammon, pour l'appeler et lui dire : Voilà qu'un peuple est sorti de l'Egypte; il a couvert la surface de la terre, campé vis-à-vis de moi.
+2 Or, Balac, fils de Séphor, voyant tout ce qu'avait fait Israël à l'Amorrhéen :3 Que les Moabites le craignaient extrêmement, et qu'ils ne pourraient en soutenir l'attaque, 4 Dit aux enfants de Madian : Ce peuple détruira tous ceux qui demeurent à nos confins, de la même manière que le boeuf broute les herbes jusqu'aux racines. C'est lui qui était en ce temps-là roi de Moab. 5 Il envoya donc des messagers à Balaam, fils de Béor, devin, qui habitait sur le fleuve du pays des enfants d'Ammon, pour l'appeler et lui dire : Voilà qu'un peuple est sorti de l'Egypte; il a couvert la surface de la terre, campé vis-à-vis de moi.
 
 ***Note*** :  Nb. 22, 5 : Voir Deutéronome, 23, 5 ; Josué, 24, 9. ― Le fleuve ; c’est-à-dire l’Euphrate, d’après la paraphrase chaldaïque et la version arabe. Ajoutons que les Hébreux appelaient en effet l’Euphrate du nom générique de fleuve, mais en le faisant précéder de l’article déterminatif. ― Balaam était originaire de Pethor, ville située dans le nord de Mésopotamie, sur les bords de l’Euphrate, au confluent de ce fleuve et du Sagur. Au lieu de : qui habitait sur le fleuve du pays des enfants d’Ammon, le texte original porte : à Pethor, qui est sur la rivière des enfants de son peuple, c’est-à-dire du peuple de Balaam. ― Les opinions sont partagées sur le caractère de Balaam : 1° Philon, saint Ambroise, saint Augustin le regardent comme un faux prophète et un païen qui ne connaissait pas la vraie religion et que Dieu força à bénir malgré lui Israël, au lieu de le maudire ; 2° Tertullien et saint Jérôme au contraire le considèrent comme un vrai prophète qui pécha seulement par avarice et par ambition.
 
@@ -54,7 +54,7 @@ animal, sur lequel vous avez toujours accoutumé de monter jusqu'au présent jou
 37 Et il dit à Balaam : J'ai envoyé des messagers, pour t'appeler; pourquoi n'es-tu pas venu aussitôt vers moi? Est-ce parce que je ne puis pas donner une récompense à ton arrivée ? 38 Balaam lui répondit : Me voici : est-ce que je pourrai dire autre chose que ce que Dieu mettra en ma bouche ?
 
 
-39 Ils s'en allèrent donc ensemble, et ils vinrent dans une ville qui était aux derniers confins de son royaume. 40 Or, lorsque Balac eut tué des bœufs et des brebis, il envoya à Balaam et aux princes qui étaient avec lui des présents.
+39 Ils s'en allèrent donc ensemble, et ils vinrent dans une ville qui était aux derniers confins de son royaume. 40 Or, lorsque Balac eut tué des boeufs et des brebis, il envoya à Balaam et aux princes qui étaient avec lui des présents.
 
 
 41 Mais, le matin venu, il le conduisit sur les hauts lieux de Baal, et Balaam vit la partie du peuple qui était aux extrémités.

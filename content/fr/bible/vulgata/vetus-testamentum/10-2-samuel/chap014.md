@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Intelligens autem Ioab filius Sarviæ, quod cor regis versum esset ad Absalom,
+1 Intelligens autem Ioab filius Sarviae, quod cor regis versum esset ad Absalom,
 
 2 misit Thecuam, et tulit inde mulierem sapientem: dixitque ad eam: Lugere te simula, et induere veste lugubri, et ne ungaris oleo, ut sis quasi mulier iam plurimo tempore lugens mortuum:
 
@@ -13,11 +13,11 @@ draft: false
 
 4 Itaque cum ingressa fuisset mulier Thecuitis ad regem, cecidit coram eo super terram, et adoravit, et dixit: Serva me rex.
 
-5 Et ait ad eam rex: Quid causæ habes? Quæ respondit: Heu, mulier vidua ego sum: mortuus est enim vir meus.
+5 Et ait ad eam rex: Quid causae habes? Quae respondit: Heu, mulier vidua ego sum: mortuus est enim vir meus.
 
-6 Et ancillæ tuæ erant duo filii: qui rixati sunt adversum se in agro, nullusque erat, qui eos prohibere posset: et percussit alter alterum, et interfecit eum.
+6 Et ancillae tuae erant duo filii: qui rixati sunt adversum se in agro, nullusque erat, qui eos prohibere posset: et percussit alter alterum, et interfecit eum.
 
-7 Et ecce consurgens universa cognatio adversum ancillam tuam, dicit: Trade eum, qui percussit fratrem suum, ut occidamus eum pro anima fratris sui, quem interfecit, et deleamus heredem: et quærunt extinguere scintillam meam, quæ relicta est, ut non supersit viro meo nomen, et reliquiæ super terram.
+7 Et ecce consurgens universa cognatio adversum ancillam tuam, dicit: Trade eum, qui percussit fratrem suum, ut occidamus eum pro anima fratris sui, quem interfecit, et deleamus heredem: et quaerunt extinguere scintillam meam, quae relicta est, ut non supersit viro meo nomen, et reliquiae super terram.
 
 8 Et ait rex ad mulierem: Vade in domum tuam, et ego iubebo pro te.
 
@@ -25,15 +25,15 @@ draft: false
 
 10 Et ait rex: Qui contradixerit tibi, adduc eum ad me, et ultra non addet ut tangat te.
 
-11 Quæ ait: Recordetur rex Domini Dei sui, ut non multiplicentur proximi sanguinis ad ulciscendum, et nequaquam interficiant filium meum. Qui ait: Vivit Dominus, quia non cadet de capillis filii tui super terram.
+11 Quae ait: Recordetur rex Domini Dei sui, ut non multiplicentur proximi sanguinis ad ulciscendum, et nequaquam interficiant filium meum. Qui ait: Vivit Dominus, quia non cadet de capillis filii tui super terram.
 
 12 Dixit ergo mulier: Loquatur ancilla tua ad dominum meum regem verbum. Et ait: Loquere.
 
 13 Dixitque mulier: Quare cogitasti huiuscemodi rem contra populum Dei, et locutus est rex verbum istud, ut peccet, et non reducat eiectum suum?
 
-14 Omnes morimur, et quasi aquæ dilabimur in terram, quæ non revertuntur: nec vult Deus perire animam, sed retractat cogitans ne penitus pereat qui abiectus est.
+14 Omnes morimur, et quasi aquae dilabimur in terram, quae non revertuntur: nec vult Deus perire animam, sed retractat cogitans ne penitus pereat qui abiectus est.
 
-15 Nunc igitur veni, ut loquar ad dominum meum regem verbum hoc, præsente populo. Et dixit ancilla tua: Loquar ad regem, si quo modo faciat rex verbum ancillæ suæ.
+15 Nunc igitur veni, ut loquar ad dominum meum regem verbum hoc, praesente populo. Et dixit ancilla tua: Loquar ad regem, si quo modo faciat rex verbum ancillae suae.
 
 16 Et audivit rex, ut liberaret ancillam suam de manu omnium, qui volebant de hereditate Dei delere me, et filium meum simul.
 
@@ -41,9 +41,9 @@ draft: false
 
 18 Et respondens rex, dixit ad mulierem: Ne abscondas a me verbum, quod te interrogo. Dixitque ei mulier: Loquere domine mi rex.
 
-19 Et ait rex: Numquid manus Ioab tecum est in omnibus istis? Respondit mulier, et ait: Per salutem animæ tuæ, domine mi rex, nec ad sinistram, nec ad dexteram est ex omnibus his, quæ locutus est dominus meus rex: servus enim tuus Ioab, ipse præcepit mihi, et ipse posuit in os ancillæ tuæ omnia verba hæc.
+19 Et ait rex: Numquid manus Ioab tecum est in omnibus istis? Respondit mulier, et ait: Per salutem animae tuae, domine mi rex, nec ad sinistram, nec ad dexteram est ex omnibus his, quae locutus est dominus meus rex: servus enim tuus Ioab, ipse praecepit mihi, et ipse posuit in os ancillae tuae omnia verba haec.
 
-20 Ut verterem figuram sermonis huius, servus tuus Ioab præcepit istud: tu autem domine mi rex, sapiens es, sicut habet sapientiam Angelus Dei, ut intelligas omnia super terram.
+20 Ut verterem figuram sermonis huius, servus tuus Ioab praecepit istud: tu autem domine mi rex, sapiens es, sicut habet sapientiam Angelus Dei, ut intelligas omnia super terram.
 
 21 Et ait rex ad Ioab: Ecce placatus feci verbum tuum: vade ergo, et revoca puerum Absalom.
 
@@ -55,9 +55,9 @@ draft: false
 
 25 Porro sicut Absalom, vir non erat pulcher in omni Israel, et decorus nimis: a vestigio pedis usque ad verticem non erat in eo ulla macula.
 
-26 Et quando tondebat capillum (semel autem in anno tondebatur, quia gravabat eum cæsaries) ponderabat capillos capitis sui ducentis siclis, pondere publico.
+26 Et quando tondebat capillum (semel autem in anno tondebatur, quia gravabat eum caesaries) ponderabat capillos capitis sui ducentis siclis, pondere publico.
 
-27 Nati sunt autem Absalom filii tres: et filia una nomine Thamar, elegantis formæ.
+27 Nati sunt autem Absalom filii tres: et filia una nomine Thamar, elegantis formae.
 
 28 Mansitque Absalom in Ierusalem duobus annis, et faciem regis non vidit.
 
@@ -67,7 +67,7 @@ draft: false
 
 31 Surrexitque Ioab, et venit ad Absalom in domum eius, et dixit: Quare succenderunt servi tui segetem meam igni?
 
-32 Et respondit Absalom ad Ioab: Misi ad te obsecrans ut venires ad me, et mitterem te ad regem, et diceres ei: Quare veni de Gessur? melius mihi erat ibi esse: obsecro ergo ut videam faciem regis: quod si memor est iniquitatis meæ, interficiat me.
+32 Et respondit Absalom ad Ioab: Misi ad te obsecrans ut venires ad me, et mitterem te ad regem, et diceres ei: Quare veni de Gessur? melius mihi erat ibi esse: obsecro ergo ut videam faciem regis: quod si memor est iniquitatis meae, interficiat me.
 
-33 Ingressus itaque Ioab ad regem, nunciavit ei omnia: vocatusque est Absalom, et intravit ad regem, et adoravit super faciem terræ coram eo: osculatusque est rex Absalom.
+33 Ingressus itaque Ioab ad regem, nunciavit ei omnia: vocatusque est Absalom, et intravit ad regem, et adoravit super faciem terrae coram eo: osculatusque est rex Absalom.
 

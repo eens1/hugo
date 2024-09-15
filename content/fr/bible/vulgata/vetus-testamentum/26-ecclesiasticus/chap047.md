@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Post hæc surrexit Nathan propheta in diebus David.
+1 Post haec surrexit Nathan propheta in diebus David.
 
 2 Et quasi adeps separatus a carne, sic David a filiis Israel.
 
@@ -13,23 +13,23 @@ draft: false
 
 4 Numquid non occidit gigantem, et abstulit opprobrium de gente?
 
-5 In tollendo manum, saxo fundæ deiecit exultationem Goliæ:
+5 In tollendo manum, saxo fundae deiecit exultationem Goliae:
 
-6 nam invocavit Dominum omnipotentem, et dedit in dextera eius tollere hominem fortem in bello, et exaltare cornu gentis suæ.
+6 nam invocavit Dominum omnipotentem, et dedit in dextera eius tollere hominem fortem in bello, et exaltare cornu gentis suae.
 
-7 Sic in decem millibus glorificavit eum, et laudavit eum in benedictionibus Domini in offerendo illi coronam gloriæ:
+7 Sic in decem millibus glorificavit eum, et laudavit eum in benedictionibus Domini in offerendo illi coronam gloriae:
 
-8 contrivit enim inimicos undique, et extirpavit Philisthiim contrarios usque in hodiernum diem: contrivit cornu ipsorum usque in æternum.
+8 contrivit enim inimicos undique, et extirpavit Philisthiim contrarios usque in hodiernum diem: contrivit cornu ipsorum usque in aeternum.
 
-9 In omni opere dedit confessionem Sancto, et Excelso in verbo gloriæ.
+9 In omni opere dedit confessionem Sancto, et Excelso in verbo gloriae.
 
 10 De omni corde suo laudavit Dominum, et dilexit Deum, qui fecit illum: et dedit illi contra inimicos potentiam:
 
 11 Et stare fecit cantores contra altare, et in sono eorum dulces fecit modos.
 
-12 et dedit in celebrationibus decus, et ornavit tempora usque ad consummationem vitæ, ut laudarent nomen sanctum Domini, et amplificarent mane Dei sanctitatem.
+12 et dedit in celebrationibus decus, et ornavit tempora usque ad consummationem vitae, ut laudarent nomen sanctum Domini, et amplificarent mane Dei sanctitatem.
 
-13 Dominus purgavit peccata ipsius, et exaltavit in æternum cornu eius: et dedit illi testamentum regni, et sedem gloriæ in Israel.
+13 Dominus purgavit peccata ipsius, et exaltavit in aeternum cornu eius: et dedit illi testamentum regni, et sedem gloriae in Israel.
 
 14 Post ipsum surrexit filius sensatus, et propter illum deiecit omnem potentiam inimicorum.
 
@@ -37,9 +37,9 @@ draft: false
 
 16 et impletus es, quasi flumen, sapientia, et terram retexit anima tua.
 
-17 Et replesti in comparationibus ænigmata: ad insulas longe divulgatum est nomen tuum, et dilectus es in pace tua.
+17 Et replesti in comparationibus aenigmata: ad insulas longe divulgatum est nomen tuum, et dilectus es in pace tua.
 
-18 In cantilenis, et proverbiis, et comparationibus, et interpretationibus miratæ sunt terræ,
+18 In cantilenis, et proverbiis, et comparationibus, et interpretationibus miratae sunt terrae,
 
 19 et in nomine Domini Dei, cui est cognomen, Deus Israel.
 
@@ -65,5 +65,5 @@ draft: false
 
 30 Valde averterunt illos a terra sua.
 
-31 Et quæsivit omnes nequitias usque dum perveniret ad illos defensio, et ab omnibus peccatis liberavit eos.
+31 Et quaesivit omnes nequitias usque dum perveniret ad illos defensio, et ab omnibus peccatis liberavit eos.
 

@@ -5,19 +5,19 @@ draft: false
 ---
 
 
-1 Sectamini charitatem, æmulamini spiritualia: magis autem ut prophetetis.
+1 Sectamini charitatem, aemulamini spiritualia: magis autem ut prophetetis.
 
 2 Qui enim loquitur lingua, non hominibus loquitur, sed Deo: nemo enim audit. Spiritu autem loquitur mysteria.
 
-3 nam qui prophetat, hominibus loquitur ad ædificationem, et exhortationem, et consolationem.
+3 nam qui prophetat, hominibus loquitur ad aedificationem, et exhortationem, et consolationem.
 
-4 Qui loquitur lingua, semetipsum ædificat: qui autem prophetat, Ecclesiam Dei ædificat.
+4 Qui loquitur lingua, semetipsum aedificat: qui autem prophetat, Ecclesiam Dei aedificat.
 
-5 Volo autem omnes vos loqui linguis: magis autem prophetare. Nam maior est qui prophetat, quam qui loquitur linguis: nisi forte interpretetur ut Ecclesia ædificationem accipiat.
+5 Volo autem omnes vos loqui linguis: magis autem prophetare. Nam maior est qui prophetat, quam qui loquitur linguis: nisi forte interpretetur ut Ecclesia aedificationem accipiat.
 
 6 Nunc autem, fratres, si venero ad vos linguis loquens: quid vobis prodero, nisi vobis loquar aut in revelatione, aut in scientia, aut in prophetia, aut in doctrina?
 
-7 Tamen quæ sine anima sunt vocem dantia, sive tibia, sive cithara: nisi distinctionem sonituum dederint, quomodo scietur id, quod canitur, aut quod citharizatur?
+7 Tamen quae sine anima sunt vocem dantia, sive tibia, sive cithara: nisi distinctionem sonituum dederint, quomodo scietur id, quod canitur, aut quod citharizatur?
 
 8 Etenim si incertam vocem det tuba, quis parabit se ad bellum?
 
@@ -27,7 +27,7 @@ draft: false
 
 11 Si ergo nesciero virtutem vocis, ero ei, cui loquor, barbarus: et qui loquitur, mihi barbarus:
 
-12 Sic et vos, quoniam æmulatores estis spirituum, ad ædificationem Ecclesiæ quærite ut abundetis.
+12 Sic et vos, quoniam aemulatores estis spirituum, ad aedificationem Ecclesiae quaerite ut abundetis.
 
 13 Et ideo qui loquitur lingua: oret ut interpretetur.
 
@@ -35,9 +35,9 @@ draft: false
 
 15 Quid ergo est? Orabo spiritu, orabo et mente: psallam spiritu, psallam et mente.
 
-16 Ceterum si benedixeris spiritu: qui supplet locum idiotæ, quomodo dicet, Amen, super tuam benedictionem? quoniam quid dicas, nescit.
+16 Ceterum si benedixeris spiritu: qui supplet locum idiotae, quomodo dicet, Amen, super tuam benedictionem? quoniam quid dicas, nescit.
 
-17 nam tu quidem bene gratias agis: sed alter non ædificatur.
+17 nam tu quidem bene gratias agis: sed alter non aedificatur.
 
 18 Gratias ago Deo meo, quod omnium vestrum lingua loquor.
 
@@ -47,21 +47,21 @@ draft: false
 
 21 In lege scriptum est: Quoniam in aliis linguis et labiis aliis loquar populo huic: et nec sic exaudient me, dicit Dominus.
 
-22 Itaque linguæ in signum sunt non fidelibus, sed infidelibus: prophetiæ autem non infidelibus, sed fidelibus.
+22 Itaque linguae in signum sunt non fidelibus, sed infidelibus: prophetiae autem non infidelibus, sed fidelibus.
 
-23 Si ergo conveniat universa Ecclesia in unum, et omnes linguis loquantur, intrent autem idiotæ, aut infideles: nonne dicent quod insanitis?
+23 Si ergo conveniat universa Ecclesia in unum, et omnes linguis loquantur, intrent autem idiotae, aut infideles: nonne dicent quod insanitis?
 
 24 Si autem omnes prophetent, intret autem quis infidelis, vel idiota, convincitur ab omnibus, diiudicatur ab omnibus:
 
 25 occulta cordis eius manifesta fiunt: et ita cadens in faciem adorabit Deum, pronuncians quod vere Deus in vobis sit.
 
-26 Quid ergo est, fratres? cum convenitis, unusquisque vestrum psalmum habet, doctrinam habet, apocalypsim habet, linguam habet, interpretationem habet: omnia ad ædificationem fiant.
+26 Quid ergo est, fratres? cum convenitis, unusquisque vestrum psalmum habet, doctrinam habet, apocalypsim habet, linguam habet, interpretationem habet: omnia ad aedificationem fiant.
 
 27 Sive lingua quis loquitur, secundum duos, aut ut multum tres, et per partes, et unus interpretatur.
 
 28 Si autem non fuerit interpres, taceat in Ecclesia, sibi autem loquatur, et Deo.
 
-29 Prophetæ autem duo, aut tres dicant, et ceteri diiudicent.
+29 Prophetae autem duo, aut tres dicant, et ceteri diiudicent.
 
 30 Quod si alii revelatum fuerit sedenti, prior taceat.
 
@@ -77,11 +77,11 @@ draft: false
 
 36 An a vobis verbum Dei processit? aut in vos solos pervenit?
 
-37 Si quis videtur propheta esse, aut spiritualis, cognoscat quæ scribo vobis, quia Domini sunt mandata.
+37 Si quis videtur propheta esse, aut spiritualis, cognoscat quae scribo vobis, quia Domini sunt mandata.
 
 38 Si quis autem ignorat, ignorabitur.
 
-39 Itaque fratres æmulamini prophetare: et loqui linguis nolite prohibere.
+39 Itaque fratres aemulamini prophetare: et loqui linguis nolite prohibere.
 
 40 Omnia autem honeste, et secundum ordinem fiant.
 

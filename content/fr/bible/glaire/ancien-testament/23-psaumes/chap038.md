@@ -10,7 +10,7 @@ summary: |
 
 1 Pour la fin, à Idithun lui-même, cantique de David.
 
-***Note*** :  Ps. 38, 1 : Idithun ; maître de chœur, selon le titre hébreu, est probablement le même qu’Idithun de 1 Paralipomènes, 16, 41 et 2 Paralipomènes, 5, 12, et qui est nommé Ethan dans 1 Paralipomènes, 6, 44. ― Composé probablement après la révolte d’Absalom. Tout ce psaume est empreint d’un sentiment profond du néant de la vie.
+***Note*** :  Ps. 38, 1 : Idithun ; maître de choeur, selon le titre hébreu, est probablement le même qu’Idithun de 1 Paralipomènes, 16, 41 et 2 Paralipomènes, 5, 12, et qui est nommé Ethan dans 1 Paralipomènes, 6, 44. ― Composé probablement après la révolte d’Absalom. Tout ce psaume est empreint d’un sentiment profond du néant de la vie.
 
 
 2 J'ai dit : Je garderai mes voies, afin que je ne pèche point par ma langue. J'ai mis à ma bouche une garde, lorsque le pécheur s'élevait contre moi.
@@ -23,12 +23,12 @@ summary: |
 
 ***Note*** :  Ps. 38, 3 : Des bonnes choses ; des choses favorables, qui auraient pu prouver la justice de ma cause contre les attaques de mes ennemis.
 
-4 Mon cœur s'est échauffé au dedans de moi : et dans ma méditation un feu s'est embrasé.
+4 Mon coeur s'est échauffé au dedans de moi : et dans ma méditation un feu s'est embrasé.
 
 
 5 J'ai dit par ma langue : Seigneur, faites-moi connaître ma fin, Et le nombre de mes jours, quel il est ; afin que je sache ce qui me manque.
 
-***Note*** :  Ps. 38, 5 : J’ai dit par ma langue, etc. Mon cœur, échauffé par le feu qui s’y était embrasé (voir verset 4), m’a fait rompre mon silence ; c’est pourquoi j’ai dit de vive voix, etc. ― Ce qui me manque, pour que j’arrive au dernier de ces jours ; ce qui me reste encore de jours à vivre.
+***Note*** :  Ps. 38, 5 : J’ai dit par ma langue, etc. Mon coeur, échauffé par le feu qui s’y était embrasé (voir verset 4), m’a fait rompre mon silence ; c’est pourquoi j’ai dit de vive voix, etc. ― Ce qui me manque, pour que j’arrive au dernier de ces jours ; ce qui me reste encore de jours à vivre.
 
 6 Voilà que vous avez fait mes jours mesurables : mon être est comme rien devant vous. En vérité, tout homme vivant est une vanité universelle.
 

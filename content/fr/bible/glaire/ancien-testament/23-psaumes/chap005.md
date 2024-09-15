@@ -11,7 +11,7 @@ summary: |
 
 1 Pour la fin, pour celle qui obtient l'héritage, psaume de David.
 
-***Note*** :  Ps. 5, 1 : Le titre hébreu porte : « Au chef de chœur, » el-han-nekhîlôth (probablement indication d’un instrument de musique, la flûte. ) Sujet : Prière du matin, avant d’aller à la maison de Dieu.
+***Note*** :  Ps. 5, 1 : Le titre hébreu porte : « Au chef de choeur, » el-han-nekhîlôth (probablement indication d’un instrument de musique, la flûte. ) Sujet : Prière du matin, avant d’aller à la maison de Dieu.
 
 
 2 Prêtez l'oreille âmes paroles. Seigneur, entendez mon cri. 3 Soyez attentif à la voix de ma prière, mon roi et mon Dieu. 4 Parce que c'est vous que je prierai; Seigneur, dès le matin vous entendrez ma voix.
@@ -37,7 +37,7 @@ summary: |
 ***Note*** :  Ps. 5, 9 : Dans votre justice ; dans la voie de votre justice.
 
 
-10 Parce que la vérité n'est pas dans leur bouche : leur cœur est vain. 11 C'est un sépulcre ouvert que leur gosier; avec leurs langues ils agissaient astucieusement : jugez-les, ô Dieu. Qu'ils soient déçus de leurs pensées; à cause de la multitude de leurs impiétés, chassez-les, parce qu'ils vous ont irrité, Seigneur.
+10 Parce que la vérité n'est pas dans leur bouche : leur coeur est vain. 11 C'est un sépulcre ouvert que leur gosier; avec leurs langues ils agissaient astucieusement : jugez-les, ô Dieu. Qu'ils soient déçus de leurs pensées; à cause de la multitude de leurs impiétés, chassez-les, parce qu'ils vous ont irrité, Seigneur.
 
 ***Note*** :  Ps. 5, 11 : Voir Psaumes, 13, 3 ; Romains, 3, 13. ― C’est un sépulcre ouvert que leur gosier, parce qu’avec les mensonges qu’ils profèrent, ils préparent à tout instant la mort et la ruine.
 

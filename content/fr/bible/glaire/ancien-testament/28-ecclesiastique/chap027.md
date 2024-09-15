@@ -5,7 +5,7 @@ draft: false
 summary: |
   
   Le désir des richesses, source de péché.
-  Les paroles de l’homme découvrent son cœur.
+  Les paroles de l’homme découvrent son coeur.
   Avantage de la justice.
   Entretiens des pécheurs insupportables.
   Révéler les secrets, c’est éteindre entièrement l’amitié.
@@ -13,9 +13,9 @@ summary: |
 ---
 
 
-1 A cause de l'indigence, beaucoup ont péché; et celui qui cherche à s'enrichir détourne son œil.
+1 A cause de l'indigence, beaucoup ont péché; et celui qui cherche à s'enrichir détourne son oeil.
 
-***Note*** :  Sir. 27, 1 : Détourne son œil, son regard de la loi de Dieu, de la vertu, de ses devoirs.
+***Note*** :  Sir. 27, 1 : Détourne son oeil, son regard de la loi de Dieu, de la vertu, de ses devoirs.
 
 2 Comme au milieu d'une jointure de pierres, un pieu est enfoncé, ainsi aussi entre la vente et l'achat, le péché sera resserré.
 
@@ -28,9 +28,9 @@ summary: |
 
 ***Note*** :  Sir. 27, 5 : La poussière ; dans le grec, l’ordure.
 
-6 La fournaise éprouve les vases du potier, et l'atteinte de la tribulation, les hommes justes. 7 Comme la culture de l'arbre en montre le fruit, ainsi en est-il de la parole qui vient de la pensée du cœur de l'homme.
+6 La fournaise éprouve les vases du potier, et l'atteinte de la tribulation, les hommes justes. 7 Comme la culture de l'arbre en montre le fruit, ainsi en est-il de la parole qui vient de la pensée du coeur de l'homme.
 
-***Note*** :  Sir. 27, 7 : La culture, etc. ; c’est-à-dire que le soin qu’on prend d’un arbre paraît dans son fruit ; on connaît si un arbre a été bien ou mal cultivé par le fruit qu’il produit. ― Ainsi en est-il, etc. ; ainsi la parole, fruit de la pensée du cœur de l’homme, fait connaître ce qu’elle est.
+***Note*** :  Sir. 27, 7 : La culture, etc. ; c’est-à-dire que le soin qu’on prend d’un arbre paraît dans son fruit ; on connaît si un arbre a été bien ou mal cultivé par le fruit qu’il produit. ― Ainsi en est-il, etc. ; ainsi la parole, fruit de la pensée du coeur de l’homme, fait connaître ce qu’elle est.
 
 
 8 Avant son discours ne loue pas un homme; car c'est là l'épreuve des humains.
@@ -47,7 +47,7 @@ summary: |
 11 Le lion guette toujours le gibier dans une embuscade; ainsi les péchés guettent ceux qui opèrent des iniquités. 12 L'homme saint demeure dans la sagesse, comme le soleil; mais l'insensé est changeant comme la lune. 13 Au milieu des insensés, garde tes paroles pour un autre temps; mais au milieu des hommes qui pensent sois assidu. 14 Le discours des pécheurs est odieux, et leur contentement est dans les délices du péché. 15 Un langage plein de jurements fera dresser les cheveux sur la tête, et son irrévérence fera boucher les oreilles.
 
 
-16 L'effusion du sang suit la querelle des superbes, et leurs malédictions sont pénibles à entendre. 17 Celui qui dévoile les secrets d'un ami perd sa confiance, et il ne trouvera pas d'ami selon son cœur. 18 Aime ton prochain, et sois uni à lui avec fidélité. 19 Que si tu dévoiles les choses qu'il tient cachées, tu ne courras pas après lui.
+16 L'effusion du sang suit la querelle des superbes, et leurs malédictions sont pénibles à entendre. 17 Celui qui dévoile les secrets d'un ami perd sa confiance, et il ne trouvera pas d'ami selon son coeur. 18 Aime ton prochain, et sois uni à lui avec fidélité. 19 Que si tu dévoiles les choses qu'il tient cachées, tu ne courras pas après lui.
 
 ***Note*** :  Sir. 27, 19 : Tu ne courras pas après lui : c’est en vain que tu chercherais à recouvrer son amitié.
 

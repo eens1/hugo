@@ -47,7 +47,7 @@ loi du parallélisme est observée dans le Psaume 105, mais on n’y voit pas de
 ***Note*** :  Ps. 105, 12 : Alors ils crurent, etc. Voir Exode, 14, 31 ; 15, verset 1 et suivants.
 
 
-13 Bientôt ils oublièrent ses œuvres, et n'attendirent pas l'accomplissement de ses desseins.
+13 Bientôt ils oublièrent ses oeuvres, et n'attendirent pas l'accomplissement de ses desseins.
 
 ***Note*** :  Ps. 105, 13 : Bientôt ils oublièrent ; littéralement et par hébraïsme, bientôt ils firent, et ils oublièrent.
 
@@ -97,7 +97,7 @@ loi du parallélisme est observée dans le Psaume 105, mais on n’y voit pas de
 
 29 Ils irritèrent le Seigneur par leurs inventions, et la ruine se multiplia parmi eux.
 
-***Note*** :  Ps. 105, 29 : Leurs inventions ; selon l’hébreu, leurs œuvres. ― La ruine ; c’est-à-dire la mort.
+***Note*** :  Ps. 105, 29 : Leurs inventions ; selon l’hébreu, leurs oeuvres. ― La ruine ; c’est-à-dire la mort.
 
 30 Mais Phinéès se présenta et apaisa le Seigneur, et le désastre cessa.
 
@@ -110,11 +110,11 @@ loi du parallélisme est observée dans le Psaume 105, mais on n’y voit pas de
 33 Parce qu'ils contristèrent son esprit. Et que la défiance fut sur ses lèvres ;
 
 
-34 Ils ne détruisirent point les nations que Dieu leur avait désignées. 35 Mais ils se mêlèrent parmi les nations, ils apprirent leurs œuvres ; 36 Et ils servirent leurs images taillées au ciseau, et ce devint pour eux une occasion de scandale. 37 Ils immolèrent leurs fils-et leurs filles au démon. 38 Ils répandirent un sang innocent, le sang de leurs fils et de leurs filles qu'ils sacrifièrent aux images taillées au ciseau de Chanaan. Et la terre fut infectée de sang,
+34 Ils ne détruisirent point les nations que Dieu leur avait désignées. 35 Mais ils se mêlèrent parmi les nations, ils apprirent leurs oeuvres ; 36 Et ils servirent leurs images taillées au ciseau, et ce devint pour eux une occasion de scandale. 37 Ils immolèrent leurs fils-et leurs filles au démon. 38 Ils répandirent un sang innocent, le sang de leurs fils et de leurs filles qu'ils sacrifièrent aux images taillées au ciseau de Chanaan. Et la terre fut infectée de sang,
 
 ***Note*** :  Ps. 105, 38 : De sang ; littéralement de sangs. Voir Psaumes, 5, 7. ― Ils forniquèrent avec leurs inventions ; ils adorèrent des idoles qui étaient leur propre ouvrage. L’Ecriture désigne ordinairement l’idolâtrie sous le nom de fornication.
 
-39 Et elle fut souillée par leurs œuvres : et ils forniquèrent avec leurs inventions.
+39 Et elle fut souillée par leurs oeuvres : et ils forniquèrent avec leurs inventions.
 
 
 40 Aussi le Seigneur fut irrité de fureur contre son peuple, et il eut en abomination son héritage. 41 Et il les livra entre les mains des nations, et ceux qui les haïssaient les dominèrent. 42 Et leurs ennemis les tourmentèrent, et ils furent humiliés sous leurs mains; 43 Souvent il les délivra. Mais eux l'aigrirent par leurs sentiments, et ils furent humiliés à cause de leurs iniquités.

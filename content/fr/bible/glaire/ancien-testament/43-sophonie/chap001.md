@@ -47,7 +47,7 @@ summary: |
 ***Note*** :  Soph. 1, 11 : Pila ; nom propre d’une vallée voisine de Jérusalem, suivant les uns, ou d’un quartier de cette même ville, suivant les autres.
 
 
-12 Et il arrivera qu'en ce jour je scruterai Jérusalem avec des lampes ; et je visiterai les hommes enfoncés dans leur lie; qui disent en leurs cœurs : Le Seigneur ne fera pas de bien, et il ne fera pas de mal. 13 Et leurs richesses seront au pillage, et leurs maisons réduites en un désert; et ils bâtiront des maisons, et ils ne les habiteront pas; et ils planteront des vignes, et ils n'en boiront pas le vin.
+12 Et il arrivera qu'en ce jour je scruterai Jérusalem avec des lampes ; et je visiterai les hommes enfoncés dans leur lie; qui disent en leurs coeurs : Le Seigneur ne fera pas de bien, et il ne fera pas de mal. 13 Et leurs richesses seront au pillage, et leurs maisons réduites en un désert; et ils bâtiront des maisons, et ils ne les habiteront pas; et ils planteront des vignes, et ils n'en boiront pas le vin.
 
 ***Note*** :  Soph. 1, 13 : Voir Amos, 5, 11. ― Richesses ; vraie signification du mot fortitudo, expliqué par l’hébreu, et celle que semble exiger d’ailleurs le contexte.
 

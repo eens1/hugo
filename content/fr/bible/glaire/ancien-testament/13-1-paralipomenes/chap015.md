@@ -60,5 +60,5 @@ summary: |
 
 ***Note*** :  I Par. 15, 27 : Le prince de la prophétie, ou qui présidait au chant de la prophétie. Voir le verset 22. ― Un éphod. Voir Exode, note 25. 7.
 
-28 Et tout Israël conduisait l'arche d'alliance du Seigneur, avec des cris de joie, faisant retentir le son d'un clairon, et des trompettes, ainsi que des cymbales, des nables et des harpes. 29 Et, lorsque l'arche de l'alliance du Seigneur fut arrivée jusqu'à la cité de David, Michol, fille de Saül, regardant par la fenêtre, vit le roi David dansant et jouant, et elle le méprisa en son cœur.
+28 Et tout Israël conduisait l'arche d'alliance du Seigneur, avec des cris de joie, faisant retentir le son d'un clairon, et des trompettes, ainsi que des cymbales, des nables et des harpes. 29 Et, lorsque l'arche de l'alliance du Seigneur fut arrivée jusqu'à la cité de David, Michol, fille de Saül, regardant par la fenêtre, vit le roi David dansant et jouant, et elle le méprisa en son coeur.
 

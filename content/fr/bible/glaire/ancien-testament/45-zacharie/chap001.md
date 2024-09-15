@@ -23,7 +23,7 @@ summary: |
 
 4 Ne soyez pas comme vos pères auxquels les prophètes antérieurs criaient en disant : Voici ce que dit le Seigneur des armées : Revenez de vos voies mauvaises et de vos pensées très mauvaises ; et ils ne m'ont pas écouté, et ils n'ont pas fait attention à moi, dit le Seigneur. 5 Vos pères, où sont ils? et les prophètes, est-ce qu'ils vivront éternellement? 6 Mais cependant mes paroles et mes décrets, que j'ai confiés à mes serviteurs les prophètes, est-ce qu'ils n'ont pas atteint vos pères, et est-ce qu'ils se sont convertis, et ont dit : Comme le Seigneur des armées avait résolu de nous faire selon nos voies et selon nos inventions, ainsi il a fait?
 
-***Note*** :  Zach. 1, 6 : Décrets ; c’est le vrai sens de legitima, expliqué par l’hébreu. ― Inventions ; dans l’hébreu, actions, œuvres.
+***Note*** :  Zach. 1, 6 : Décrets ; c’est le vrai sens de legitima, expliqué par l’hébreu. ― Inventions ; dans l’hébreu, actions, oeuvres.
 
 
 7 Le vingt-quatrième jour du onzième mois appelé Sabath, en la deuxième année du roi Darius, la parole du Seigneur fut adressée à Zacharie, le prophète, fils de Barachie, fils d'Addo, disant :

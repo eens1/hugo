@@ -5,19 +5,19 @@ draft: false
 ---
 
 
-1 Intellectus Ethan Ezrahitæ.
+1 Intellectus Ethan Ezrahitae.
 
-2 Misericordias Domini in æternum cantabo. In generationem et generationem annunciabo veritatem tuam in ore meo.
+2 Misericordias Domini in aeternum cantabo. In generationem et generationem annunciabo veritatem tuam in ore meo.
 
-3 Quoniam dixisti: In æternum misericordia ædificabitur in cælis: præparabitur veritas tua in eis.
+3 Quoniam dixisti: In aeternum misericordia aedificabitur in caelis: praeparabitur veritas tua in eis.
 
 4 Disposui testamentum electis meis, iuravi David servo meo:
 
-5 usque in æternum præparabo semen tuum. Et ædificabo in generationem, et generationem sedem tuam.
+5 usque in aeternum praeparabo semen tuum. Et aedificabo in generationem, et generationem sedem tuam.
 
-6 Confitebuntur cæli mirabilia tua Domine: etenim veritatem tuam in ecclesia sanctorum.
+6 Confitebuntur caeli mirabilia tua Domine: etenim veritatem tuam in ecclesia sanctorum.
 
-7 Quoniam quis in nubibus æquabitur Domino: similis erit Deo in filiis Dei?
+7 Quoniam quis in nubibus aequabitur Domino: similis erit Deo in filiis Dei?
 
 8 Deus, qui glorificatur in consilio sanctorum: magnus et terribilis super omnes qui in circuitu eius sunt.
 
@@ -25,15 +25,15 @@ draft: false
 
 10 Tu dominaris potestati maris: motum autem fluctuum eius tu mitigas.
 
-11 Tu humiliasti sicut vulneratum, superbum: in brachio virtutis tuæ dispersisti inimicos tuos.
+11 Tu humiliasti sicut vulneratum, superbum: in brachio virtutis tuae dispersisti inimicos tuos.
 
-12 Tui sunt cæli, et tua est terra, orbem terræ et plenitudinem eius tu fundasti:
+12 Tui sunt caeli, et tua est terra, orbem terrae et plenitudinem eius tu fundasti:
 
 13 aquilonem, et mare tu creasti. Thabor et Hermon in nomine tuo exultabunt:
 
 14 tuum brachium cum potentia. Firmetur manus tua, et exaltetur dextera tua:
 
-15 iustitia et iudicium præparatio sedis tuæ. Misericordia et veritas præcedent faciem tuam:
+15 iustitia et iudicium praeparatio sedis tuae. Misericordia et veritas praecedent faciem tuam:
 
 16 beatus populus, qui scit iubilationem. Domine, in lumine vultus tui ambulabunt,
 
@@ -57,13 +57,13 @@ draft: false
 
 26 Et ponam in mari manum eius: et in fluminibus dexteram eius.
 
-27 Ipse invocabit me: Pater meus es tu: Deus meus, et susceptor salutis meæ:
+27 Ipse invocabit me: Pater meus es tu: Deus meus, et susceptor salutis meae:
 
-28 Et ego primogenitum ponam illum excelsum præ regibus terræ.
+28 Et ego primogenitum ponam illum excelsum prae regibus terrae.
 
-29 In æternum servabo illi misericordiam meam: et testamentum meum fidele ipsi.
+29 In aeternum servabo illi misericordiam meam: et testamentum meum fidele ipsi.
 
-30 Et ponam in sæculum sæculi semen eius: et thronum eius sicut dies cæli.
+30 Et ponam in saeculum saeculi semen eius: et thronum eius sicut dies caeli.
 
 31 Si autem dereliquerint filii eius legem meam: et in iudiciis meis non ambulaverint:
 
@@ -73,13 +73,13 @@ draft: false
 
 34 Misericordiam autem meam non dispergam ab eo: neque nocebo in veritate mea:
 
-35 Neque profanabo testamentum meum: et quæ procedunt de labiis meis non faciam irrita.
+35 Neque profanabo testamentum meum: et quae procedunt de labiis meis non faciam irrita.
 
 36 Semel iuravi in sancto meo, si David mentiar:
 
-37 semen eius in æternum manebit. Et thronus eius sicut Sol in conspectu meo,
+37 semen eius in aeternum manebit. Et thronus eius sicut Sol in conspectu meo,
 
-38 et sicut Luna perfecta in æternum: et testis in cælo fidelis.
+38 et sicut Luna perfecta in aeternum: et testis in caelo fidelis.
 
 39 Tu vero repulisti et despexisti: distulisti Christum tuum.
 
@@ -89,7 +89,7 @@ draft: false
 
 42 Diripuerunt eum omnes transeuntes viam: factus est opprobrium vicinis suis.
 
-43 Exaltasti dexteram deprimentium eum: lætificasti omnes inimicos eius.
+43 Exaltasti dexteram deprimentium eum: laetificasti omnes inimicos eius.
 
 44 Avertisti adiutorium gladii eius: et non es auxiliatus ei in bello.
 
@@ -99,15 +99,15 @@ draft: false
 
 47 Usquequo Domine avertis in finem: exardescet sicut ignis ira tua?
 
-48 Memorare quæ mea substantia: numquid enim vane constituisti omnes filios hominum?
+48 Memorare quae mea substantia: numquid enim vane constituisti omnes filios hominum?
 
 49 Quis est homo, qui vivet, et non videbit mortem: eruet animam suam de manu inferi?
 
-50 Ubi sunt misericordiæ tuæ antiquæ Domine, sicut iurasti David in veritate tua?
+50 Ubi sunt misericordiae tuae antiquae Domine, sicut iurasti David in veritate tua?
 
 51 Memor esto Domine opprobrii servorum tuorum (quod continui in sinu meo) multarum gentium.
 
 52 Quod exprobraverunt inimici tui Domine, quod exprobraverunt commutationem Christi tui.
 
-53 Benedictus Dominus in æternum: fiat, fiat.
+53 Benedictus Dominus in aeternum: fiat, fiat.
 

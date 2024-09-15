@@ -49,7 +49,7 @@ summary: |
 19 Non pas un jour, ni deux, ni cinq, ni dix, ni même vingt. 20 Mais pendant un mois de jours, jusqu'à ce qu'elle sorte par vos narines, qu'elle devienne nauséabonde, parce que vous avez rejeté le Seigneur, qui est au milieu de vous, et que vous avez pleuré devant lui, disant : Pourquoi sommes-nous sortis de l'Egypte?
 
 
-21 Et Moïse dit : Il y a six cent mille hommes de pied dans ce peuple, et vous dites : Je leur donnerai des aliments de chair pendant un mois entier. 22 Est-ce qu'une multitude de brebis et de bœufs sera tuée, pour suffire à leur nourriture? ou bien tous les poissons de la mer seront-ils réunis, afin de les rassasier?
+21 Et Moïse dit : Il y a six cent mille hommes de pied dans ce peuple, et vous dites : Je leur donnerai des aliments de chair pendant un mois entier. 22 Est-ce qu'une multitude de brebis et de boeufs sera tuée, pour suffire à leur nourriture? ou bien tous les poissons de la mer seront-ils réunis, afin de les rassasier?
 
 ***Note*** :  Nb. 11, 22 : Voir Jean, 6, 10.
 

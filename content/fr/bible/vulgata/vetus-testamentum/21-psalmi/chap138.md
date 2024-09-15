@@ -11,7 +11,7 @@ draft: false
 
 3 Intellexisti cogitationes meas de longe: semitam meam, et funiculum meum investigasti.
 
-4 Et omnes vias meas prævidisti: quia non est sermo in lingua mea.
+4 Et omnes vias meas praevidisti: quia non est sermo in lingua mea.
 
 5 Ecce Domine tu cognovisti omnia novissima, et antiqua: tu formasti me, et posuisti super me manum tuam.
 
@@ -19,21 +19,21 @@ draft: false
 
 7 Quo ibo a spiritu tuo? et quo a facie tua fugiam?
 
-8 Si ascendero in cælum, tu illic es: si descendero in infernum, ades.
+8 Si ascendero in caelum, tu illic es: si descendero in infernum, ades.
 
 9 Si sumpsero pennas meas diluculo, et habitavero in extremis maris:
 
 10 Etenim illuc manus tua deducet me: et tenebit me dextera tua.
 
-11 Et dixi: Forsitan tenebræ conculcabunt me: et nox illuminatio mea in deliciis meis.
+11 Et dixi: Forsitan tenebrae conculcabunt me: et nox illuminatio mea in deliciis meis.
 
-12 Quia tenebræ non obscurabuntur a te, et nox sicut dies illuminabitur: sicut tenebræ eius, ita et lumen eius.
+12 Quia tenebrae non obscurabuntur a te, et nox sicut dies illuminabitur: sicut tenebrae eius, ita et lumen eius.
 
-13 Quia tu possedisti renes meos: suscepisti me de utero matris meæ.
+13 Quia tu possedisti renes meos: suscepisti me de utero matris meae.
 
 14 Confitebor tibi quia terribiliter magnificatus es: mirabilia opera tua, et anima mea cognoscit nimis.
 
-15 Non est occultatum os meum a te, quod fecisti in occulto: et substantia mea in inferioribus terræ.
+15 Non est occultatum os meum a te, quod fecisti in occulto: et substantia mea in inferioribus terrae.
 
 16 Imperfectum meum viderunt oculi tui, et in libro tuo omnes scribentur: dies formabuntur, et nemo in eis.
 
@@ -51,5 +51,5 @@ draft: false
 
 23 Proba me Deus, et scito cor meum: interroga me, et cognosce semitas meas.
 
-24 Et vide, si via iniquitatis in me est: et deduc me in via æterna.
+24 Et vide, si via iniquitatis in me est: et deduc me in via aeterna.
 

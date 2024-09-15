@@ -9,11 +9,11 @@ draft: false
 
 2 Cumque intellexisset cogitationes eorum, et curas diligentius pervidisset, didicit quod conarentur in regem Artaxerxem manus mittere, et nunciavit super eo regi.
 
-3 Qui de utroque, habita quæstione, confessos iussit duci ad mortem.
+3 Qui de utroque, habita quaestione, confessos iussit duci ad mortem.
 
-4 Rex autem quod gestum erat, scripsit in commentariis: sed et Mardochæus rei memoriam litteris tradidit.
+4 Rex autem quod gestum erat, scripsit in commentariis: sed et Mardochaeus rei memoriam litteris tradidit.
 
-5 Præcepitque ei rex, ut in aula palatii moraretur, datis ei pro delatione muneribus.
+5 Praecepitque ei rex, ut in aula palatii moraretur, datis ei pro delatione muneribus.
 
-6 Aman vero filius Amadathi bugæus erat gloriosissimus coram rege, et voluit nocere Mardochæo, et populo eius pro duobus eunuchis regis, qui fuerant interfecti.
+6 Aman vero filius Amadathi bugaeus erat gloriosissimus coram rege, et voluit nocere Mardochaeo, et populo eius pro duobus eunuchis regis, qui fuerant interfecti.
 

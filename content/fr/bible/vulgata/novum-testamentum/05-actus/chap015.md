@@ -5,15 +5,15 @@ draft: false
 ---
 
 
-1 Et quidam descendentes de Iudæa, docebant fratres: Quia nisi circumcidamini secundum morem Moysi, non potestis salvari.
+1 Et quidam descendentes de Iudaea, docebant fratres: Quia nisi circumcidamini secundum morem Moysi, non potestis salvari.
 
-2 Facta ergo seditione non minima Paulo, et Barnabæ adversus illos, statuerunt ut ascenderent Paulus, et Barnabas, et quidam alii ex aliis ad Apostolos, et presbyteros in Ierusalem super hac quæstione.
+2 Facta ergo seditione non minima Paulo, et Barnabae adversus illos, statuerunt ut ascenderent Paulus, et Barnabas, et quidam alii ex aliis ad Apostolos, et presbyteros in Ierusalem super hac quaestione.
 
-3 Illi ergo deducti ab Ecclesia pertransibant Phœnicen, et Samariam, narrantes conversionem Gentium: et faciebant gaudium magnum omnibus fratribus.
+3 Illi ergo deducti ab Ecclesia pertransibant Phoenicen, et Samariam, narrantes conversionem Gentium: et faciebant gaudium magnum omnibus fratribus.
 
 4 Cum autem venissent Ierosolymam, suscepti sunt ab Ecclesia, et ab Apostolis, et senioribus annunciantes quanta Deus fecisset cum illis.
 
-5 Surrexerunt autem quidam de hæresi Pharisæorum, qui crediderunt, dicentes: Quia oportet circumcidi eos, præcipere quoque servare legem Moysi.
+5 Surrexerunt autem quidam de haeresi Pharisaeorum, qui crediderunt, dicentes: Quia oportet circumcidi eos, praecipere quoque servare legem Moysi.
 
 6 Conveneruntque Apostoli, et seniores videre de verbo hoc.
 
@@ -35,21 +35,21 @@ draft: false
 
 15 Et huic concordant verba Prophetarum, sicut scriptum est:
 
-16 Post hæc revertar, et reædificabo tabernaculum David, quod decidit: et diruta eius reædificabo, et erigam illud:
+16 Post haec revertar, et reaedificabo tabernaculum David, quod decidit: et diruta eius reaedificabo, et erigam illud:
 
-17 ut requirant ceteri hominum Dominum, et omnes gentes, super quas invocatum est nomen meum, dicit Dominus faciens hæc.
+17 ut requirant ceteri hominum Dominum, et omnes gentes, super quas invocatum est nomen meum, dicit Dominus faciens haec.
 
-18 Notum a sæculo est Domino opus suum.
+18 Notum a saeculo est Domino opus suum.
 
 19 Propter quod ego iudico non inquietari eos, qui ex Gentibus convertuntur ad Deum,
 
 20 sed scribere ad eos ut abstineant se a contaminationibus simulacrorum, et fornicatione, et suffocatis, et sanguine.
 
-21 Moyses enim a temporibus antiquis habet in singulis civitatibus qui eum prædicent in synagogis, ubi per omne sabbatum legitur.
+21 Moyses enim a temporibus antiquis habet in singulis civitatibus qui eum praedicent in synagogis, ubi per omne sabbatum legitur.
 
 22 Tunc placuit Apostolis, et senioribus cum omni Ecclesia, eligere viros ex eis, et mittere Antiochiam cum Paulo, et Barnaba, Iudam, qui cognominabatur Barsabas, et Silam viros primos in fratribus,
 
-23 scribentes per manus eorum. APOSTOLI et seniores fratres, his, qui sunt Antiochiæ, et Syriæ, et Ciliciæ fratribus ex Gentibus, salutem.
+23 scribentes per manus eorum. APOSTOLI et seniores fratres, his, qui sunt Antiochiae, et Syriae, et Ciliciae fratribus ex Gentibus, salutem.
 
 24 Quoniam audivimus quia quidam ex nobis exeuntes turbaverunt vos verbis, evertentes animas vestras, quibus non mandavimus:
 
@@ -59,7 +59,7 @@ draft: false
 
 27 Misimus ergo Iudam, et Silam, qui et ipsi vobis verbis referent eadem.
 
-28 Visum est enim Spiritui sancto, et nobis nihil ultra imponere vobis oneris quam hæc necessaria:
+28 Visum est enim Spiritui sancto, et nobis nihil ultra imponere vobis oneris quam haec necessaria:
 
 29 ut abstineatis vos ab immolatis simulacrorum, et sanguine, et suffocato, et fornicatione, a quibus custodientes vos, bene agetis. Valete.
 
@@ -67,15 +67,15 @@ draft: false
 
 31 Quam cum legissent, gavisi sunt super consolatione.
 
-32 Iudas autem, et Silas, et ipsi cum essent Prophetæ, verbo plurimo consolati sunt fratres, et confirmaverunt.
+32 Iudas autem, et Silas, et ipsi cum essent Prophetae, verbo plurimo consolati sunt fratres, et confirmaverunt.
 
 33 Facto autem ibi aliquanto tempore, dimissi sunt cum pace a fratribus ad eos, qui miserant illos.
 
-34 Visum est autem Silæ ibi remanere: Iudas autem solus abiit Ierusalem.
+34 Visum est autem Silae ibi remanere: Iudas autem solus abiit Ierusalem.
 
-35 Paulus autem, et Barnabas demorabantur Antiochiæ docentes: et evangelizantes cum aliis pluribus verbum Domini.
+35 Paulus autem, et Barnabas demorabantur Antiochiae docentes: et evangelizantes cum aliis pluribus verbum Domini.
 
-36 Post aliquot autem dies, dixit ad Barnabam Paulus: Revertentes visitemus fratres per universas civitates, in quibus prædicavimus verbum Domini, quomodo se habeant.
+36 Post aliquot autem dies, dixit ad Barnabam Paulus: Revertentes visitemus fratres per universas civitates, in quibus praedicavimus verbum Domini, quomodo se habeant.
 
 37 Barnabas autem volebat secum assumere et Ioannem, qui cognominabatur Marcus.
 
@@ -83,7 +83,7 @@ draft: false
 
 39 Facta est autem dissensio, ita ut discederent ab invicem, et Barnabas quidem assumpto Marco navigaret Cyprum.
 
-40 Paulus vero electo Sila profectus est, traditus gratiæ Dei a fratribus.
+40 Paulus vero electo Sila profectus est, traditus gratiae Dei a fratribus.
 
-41 Perambulabat autem Syriam, et Ciliciam, confirmans Ecclesias: præcipiens custodire præcepta Apostolorum, et seniorum.
+41 Perambulabat autem Syriam, et Ciliciam, confirmans Ecclesias: praecipiens custodire praecepta Apostolorum, et seniorum.
 

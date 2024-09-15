@@ -7,7 +7,7 @@ draft: false
 
 1 Universus ergo Israel dinumeratus est: et summa eorum scripta est in Libro regum Israel, et Iuda: translatique sunt in Babylonem propter delictum suum.
 
-2 Qui autem habitaverunt primi in possessionibus, et in urbibus suis: Israel, et Sacerdotes, et Levitæ, et Nathinæi.
+2 Qui autem habitaverunt primi in possessionibus, et in urbibus suis: Israel, et Sacerdotes, et Levitae, et Nathinaei.
 
 3 Commorati sunt in Ierusalem de filiis Iuda, et de filiis Beniamin, de filiis quoque Ephraim, et Manasse.
 
@@ -19,15 +19,15 @@ draft: false
 
 7 Porro de filiis Beniamin: Salo filius Mosollam, filii Oduia, filii Asana:
 
-8 et Iobania filius Ieroham: et Ela filius Ozi, filii Mochori: et Mosollam filius Saphatiæ, filii Rahuel, filii Iebaniæ,
+8 et Iobania filius Ieroham: et Ela filius Ozi, filii Mochori: et Mosollam filius Saphatiae, filii Rahuel, filii Iebaniae,
 
 9 et fratres eorum per familias suas, nongenti quinquaginta sex. Omnes hi, principes cognationum per domos patrum suorum.
 
 10 De sacerdotibus autem: Iedaia, Ioiarib, et Iachin:
 
-11 Azarias quoque filius Helciæ, filii Mosollam, filii Sadoc, filii Maraioth, filii Achitob, pontifex domus Dei.
+11 Azarias quoque filius Helciae, filii Mosollam, filii Sadoc, filii Maraioth, filii Achitob, pontifex domus Dei.
 
-12 Porro Adaias filius Ieroham, filii Phassur, filii Melchiæ: et Maasai filius Adiel, filii Iezra, filii Mosollam, filii Mosollamith, filii Emmer.
+12 Porro Adaias filius Ieroham, filii Phassur, filii Melchiae: et Maasai filius Adiel, filii Iezra, filii Mosollam, filii Mosollamith, filii Emmer.
 
 13 fratres quoque eorum principes per familias suas, mille septingenti sexaginta, fortissimi robore ad faciendum opus ministerii in domo Dei.
 
@@ -35,17 +35,17 @@ draft: false
 
 15 Bacbacar quoque carpentarius, et Galal, et Mathania filius Micha, filii Zechri, filii Asaph:
 
-16 et Obdia filius Semeiæ, filii Galal, filii Idithun: et Barachia filius Asa, filii Elcana, qui habitavit in atriis Netophati.
+16 et Obdia filius Semeiae, filii Galal, filii Idithun: et Barachia filius Asa, filii Elcana, qui habitavit in atriis Netophati.
 
 17 Ianitores autem: Sellum, et Accub, et Telmon, et Ahimam: et frater eorum Sellum princeps,
 
 18 usque ad illud tempus, in porta regis ad orientem, observabant per vices suas de filiis Levi.
 
-19 Sellum vero filius Core filii Abiasaph, filii Core, cum fratribus suis, et domo patris sui, hi sunt Coritæ super opera ministerii, custodes vestibulorum tabernaculi: et familiæ eorum per vices castrorum Domini custodientes introitum.
+19 Sellum vero filius Core filii Abiasaph, filii Core, cum fratribus suis, et domo patris sui, hi sunt Coritae super opera ministerii, custodes vestibulorum tabernaculi: et familiae eorum per vices castrorum Domini custodientes introitum.
 
 20 Phinees autem filius Eleazari, erat dux eorum coram Domino.
 
-21 Porro Zacharias filius Mosollamia, ianitor portæ tabernaculi testimonii.
+21 Porro Zacharias filius Mosollamia, ianitor portae tabernaculi testimonii.
 
 22 Omnes hi electi in ostiarios per portas, ducenti duodecim: et descripti in villis propriis: quos constituerunt David, et Samuel Videns, in fide sua
 
@@ -61,13 +61,13 @@ draft: false
 
 28 De horum genere erant et super vasa ministerii: ad numerum enim et inferebantur vasa, et efferebantur.
 
-29 De ipsis et qui credita habebant utensilia sanctuarii, præerant similæ, et vino, et oleo, et thuri, et aromatibus.
+29 De ipsis et qui credita habebant utensilia sanctuarii, praeerant similae, et vino, et oleo, et thuri, et aromatibus.
 
 30 Filii autem sacerdotum unguenta ex aromatibus conficiebant.
 
-31 Et Mathathias Levites primogenitus Sellum Coritæ, præfectus erat eorum, quæ in sartagine frigebantur.
+31 Et Mathathias Levites primogenitus Sellum Coritae, praefectus erat eorum, quae in sartagine frigebantur.
 
-32 Porro de filiis Caath fratribus eorum, super panes erant propositionis, ut semper novos per singula sabbata præpararent.
+32 Porro de filiis Caath fratribus eorum, super panes erant propositionis, ut semper novos per singula sabbata praepararent.
 
 33 Hi sunt principes cantorum per familias Levitarum, qui in exedris morabantur, ut die ac nocte iugiter suo ministerio deservirent.
 

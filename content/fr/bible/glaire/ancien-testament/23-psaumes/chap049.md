@@ -30,17 +30,17 @@ summary: |
 
 7 Ecoute, mon peuple, et je parlerai; Israël, écoute; car je te prendrai à témoin : Dieu, ton Dieu, c'est moi qui le suis.
 
-***Note*** :  Ps. 49, 7-15 : Discours de Dieu aux Juifs fidèles : ce qu’il désire d’eux, ce ne sont point des boucs et des taureaux, mais un sacrifice de louange, c’est-à-dire l’adoration du cœur.
+***Note*** :  Ps. 49, 7-15 : Discours de Dieu aux Juifs fidèles : ce qu’il désire d’eux, ce ne sont point des boucs et des taureaux, mais un sacrifice de louange, c’est-à-dire l’adoration du coeur.
 
 8 Je ne te reprendrai pas pour tes sacrifices ; car tes holocaustes sont toujours en ma présence. 9 Je ne prendrai pas des veaux de ta maison, ni des boucs de tes troupeaux.
 
 ***Note*** :  Ps. 49, 9 : Je ne prendrai pas ; je n’ai pas besoin de prendre.
 
-10 Parce qu'à moi sont toutes les bêtes des forêts, les animaux qui paissent sur les montagnes et les bœufs. 11 Je connais tous les volatiles du ciel, et la beauté des champs est en mon pouvoir.
+10 Parce qu'à moi sont toutes les bêtes des forêts, les animaux qui paissent sur les montagnes et les boeufs. 11 Je connais tous les volatiles du ciel, et la beauté des champs est en mon pouvoir.
 
 ***Note*** :  Ps. 49, 11 : La beauté des champs ; c’est, suivant Théodoret, les différentes sortes de fruits de la terre.
 
-12 Si j'ai faim, je ne te le dirai pas : car à moi est le globe de la terre, et sa plénitude. 13 Est-ce que je mangerai des chairs de taureaux? ou boirai-je du sang des boucs? 14 Immole à Dieu un sacrifice de louange, et rends au Très-Haut tes vœux. 15 Et invoque-moi, au jour de la tribulation : je te délivrerai, et tu m'honoreras.
+12 Si j'ai faim, je ne te le dirai pas : car à moi est le globe de la terre, et sa plénitude. 13 Est-ce que je mangerai des chairs de taureaux? ou boirai-je du sang des boucs? 14 Immole à Dieu un sacrifice de louange, et rends au Très-Haut tes voeux. 15 Et invoque-moi, au jour de la tribulation : je te délivrerai, et tu m'honoreras.
 
 
 16 Mais au pécheur Dieu a dit : Pourquoi racontes-tu mes justices, et pourquoi ta bouche annonce-t-elle mon alliance?

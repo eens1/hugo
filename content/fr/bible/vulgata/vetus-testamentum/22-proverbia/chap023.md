@@ -5,19 +5,19 @@ draft: false
 ---
 
 
-1 Quando sederis ut comedas cum principe, diligenter attende quæ apposita sunt ante faciem tuam:
+1 Quando sederis ut comedas cum principe, diligenter attende quae apposita sunt ante faciem tuam:
 
 2 et statue cultrum in gutture tuo, si tamen habes in potestate animam tuam,
 
 3 ne desideres de cibis eius, in quo est panis mendacii.
 
-4 Noli laborare ut diteris: sed prudentiæ tuæ ponde modum.
+4 Noli laborare ut diteris: sed prudentiae tuae ponde modum.
 
-5 Ne erigas oculos tuos ad opes, quas non potes habere: quia facient sibi pennas quasi aquilæ, et volabunt in cælum.
+5 Ne erigas oculos tuos ad opes, quas non potes habere: quia facient sibi pennas quasi aquilae, et volabunt in caelum.
 
 6 Ne comedas cum homine invido, et ne desideres cibos eius:
 
-7 quoniam in similitudinem arioli, et coniectoris, æstimat quod ignorat. Comede et bibe, dicet tibi: et mens eius non est tecum.
+7 quoniam in similitudinem arioli, et coniectoris, aestimat quod ignorat. Comede et bibe, dicet tibi: et mens eius non est tecum.
 
 8 Cibos, quos comederas, evomes: et perdes pulchros sermones tuos.
 
@@ -27,7 +27,7 @@ draft: false
 
 11 Propinquus enim illorum fortis est: et ipse iudicabit contra te causam illorum.
 
-12 Ingrediatur ad doctrinam cor tuum: et aures tuæ ad verba scientiæ.
+12 Ingrediatur ad doctrinam cor tuum: et aures tuae ad verba scientiae.
 
 13 Noli subtrahere a puero disciplinam: si enim percusseris eum virga, non morietur.
 
@@ -37,9 +37,9 @@ draft: false
 
 16 et exultabunt renes mei, cum locuta fuerint rectum labia tua.
 
-17 Non æmuletur cor tuum peccatores: sed in timore Domini esto tota die:
+17 Non aemuletur cor tuum peccatores: sed in timore Domini esto tota die:
 
-18 quia habebis spem in novissimo, et præstolatio tua non auferetur.
+18 quia habebis spem in novissimo, et praestolatio tua non auferetur.
 
 19 Audi fili mi, et esto sapiens: et dirige in via animum tuum.
 
@@ -51,17 +51,17 @@ draft: false
 
 23 Veritatem eme, et noli vendere sapientiam, et doctrinam, et intelligentiam.
 
-24 Exultat gaudio pater iusti: qui sapientem genuit, lætabitur in eo.
+24 Exultat gaudio pater iusti: qui sapientem genuit, laetabitur in eo.
 
-25 Gaudeat pater tuus, et mater tua, et exultet quæ genuit te.
+25 Gaudeat pater tuus, et mater tua, et exultet quae genuit te.
 
-26 Præbe fili mi cor tuum mihi: et oculi tui vias meas custodiant.
+26 Praebe fili mi cor tuum mihi: et oculi tui vias meas custodiant.
 
 27 Fovea enim profunda est meretrix: et puteus angustus, aliena.
 
 28 Insidiatur in via quasi latro, et quos incautos viderit, interficiet.
 
-29 Cui væ? cuius patri væ? cui rixæ? cui foveæ? cui sine causa vulnera? cui suffusio oculorum?
+29 Cui vae? cuius patri vae? cui rixae? cui foveae? cui sine causa vulnera? cui suffusio oculorum?
 
 30 Nonne his, qui commorantur in vino, et student calicibus epotandis?
 

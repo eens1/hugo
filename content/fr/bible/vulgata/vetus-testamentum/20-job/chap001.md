@@ -7,9 +7,9 @@ draft: false
 
 1 Vir erat in Terra Hus, nomine Iob, et erat vir ille simplex, et rectus, ac timens Deum, et recedens a malo:
 
-2 Natique sunt ei septem filii, et tres filiæ.
+2 Natique sunt ei septem filii, et tres filiae.
 
-3 Et fuit possessio eius septem millia ovium, et tria millia camelorum, quingenta quoque iuga boum, et quingentæ asinæ, ac familia multa nimis: eratque vir ille magnus inter omnes Orientales.
+3 Et fuit possessio eius septem millia ovium, et tria millia camelorum, quingenta quoque iuga boum, et quingentae asinae, ac familia multa nimis: eratque vir ille magnus inter omnes Orientales.
 
 4 Et ibant filii eius, et faciebant convivium per domos, unusquisque in die suo. Et mittentes vocabant tres sorores suas, ut comederent et biberent cum eis.
 
@@ -25,27 +25,27 @@ draft: false
 
 10 nonne tu vallasti eum, ac domum eius, universamque substantiam per circuitum, operibus manuum eius benedixisti, et possessio eius crevit in terra?
 
-11 Sed extende paululum manum tuam, et tange cuncta quæ possidet nisi in faciem benedixerit tibi.
+11 Sed extende paululum manum tuam, et tange cuncta quae possidet nisi in faciem benedixerit tibi.
 
-12 Dixit ergo Dominus ad Satan: Ecce, universa quæ habet, in manu tua sunt: tantum in eum ne extendas manum tuam. Egressusque est Satan a facie Domini.
+12 Dixit ergo Dominus ad Satan: Ecce, universa quae habet, in manu tua sunt: tantum in eum ne extendas manum tuam. Egressusque est Satan a facie Domini.
 
-13 Cum autem quadam die filii et filiæ eius comederent et biberent vinum in domo fratris sui primogeniti,
+13 Cum autem quadam die filii et filiae eius comederent et biberent vinum in domo fratris sui primogeniti,
 
-14 nuncius venit ad Iob, qui diceret: Boves arabant, et asinæ pascebantur iuxta eos,
+14 nuncius venit ad Iob, qui diceret: Boves arabant, et asinae pascebantur iuxta eos,
 
-15 et irruerunt Sabæi, tuleruntque omnia, et pueros percusserunt gladio, et evasi ego solus ut nunciarem tibi.
+15 et irruerunt Sabaei, tuleruntque omnia, et pueros percusserunt gladio, et evasi ego solus ut nunciarem tibi.
 
-16 Cumque adhuc ille loqueretur, venit alter, et dixit: Ignis Dei cecidit e cælo, et tactas oves puerosque consumpsit, et effugi ego solus ut nunciarem tibi.
+16 Cumque adhuc ille loqueretur, venit alter, et dixit: Ignis Dei cecidit e caelo, et tactas oves puerosque consumpsit, et effugi ego solus ut nunciarem tibi.
 
-17 Sed et illo adhuc loquente, venit alius, et dixit: Chaldæi fecerunt tres turmas, et invaserunt camelos, et tulerunt eos, necnon et pueros percusserunt gladio, et ego fugi solus ut nunciarem tibi.
+17 Sed et illo adhuc loquente, venit alius, et dixit: Chaldaei fecerunt tres turmas, et invaserunt camelos, et tulerunt eos, necnon et pueros percusserunt gladio, et ego fugi solus ut nunciarem tibi.
 
 18 Adhuc loquebatur ille, et ecce alius intravit, et dixit: Filiis tuis et filiabus vescentibus et bibentibus vinum in domo fratris sui primogeniti,
 
-19 repente ventus vehemens irruit a regione deserti, et concussit quattuor angulos domus, quæ corruens oppressit liberos tuos et mortui sunt, et effugi ego solus ut nunciarem tibi.
+19 repente ventus vehemens irruit a regione deserti, et concussit quattuor angulos domus, quae corruens oppressit liberos tuos et mortui sunt, et effugi ego solus ut nunciarem tibi.
 
 20 Tunc surrexit Iob, et scidit vestimenta sua, et tonso capite corruens in terram, adoravit,
 
-21 et dixit: Nudus egressus sum de utero matris meæ, et nudus revertar illuc: Dominus dedit, Dominus abstulit: sicut Domino placuit, ita factum est: sit nomen Domini benedictum.
+21 et dixit: Nudus egressus sum de utero matris meae, et nudus revertar illuc: Dominus dedit, Dominus abstulit: sicut Domino placuit, ita factum est: sit nomen Domini benedictum.
 
 22 In omnibus his non peccavit Iob labiis suis, neque stultum quid contra Deum locutus est.
 

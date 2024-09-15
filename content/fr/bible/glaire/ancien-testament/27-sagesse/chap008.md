@@ -16,7 +16,7 @@ summary: |
 2 Je l'ai aimée, je l'ai recherchée dès ma jeunesse, et j'ai demandé à l'avoir pour épouse, et je suis devenu amateur de sa beauté. 3 Elle glorifie la noblesse de son origine, comme jouissant de l'union étroite de Dieu ; et aussi parce que le Seigneur de toutes choses l'a aimée ;
 
 
-4 Car c'est elle qui enseigne la science de Dieu, et qui choisit ses œuvres. 5 Et si on convoite les richesses dans la vie, quoi de plus riche que la sagesse qui opère toutes choses? 6 Mais si c'est l'intelligence de l'homme qui produit, qui plus qu'elle est l'artisan de ces choses qui existent?
+4 Car c'est elle qui enseigne la science de Dieu, et qui choisit ses oeuvres. 5 Et si on convoite les richesses dans la vie, quoi de plus riche que la sagesse qui opère toutes choses? 6 Mais si c'est l'intelligence de l'homme qui produit, qui plus qu'elle est l'artisan de ces choses qui existent?
 
 ***Note*** :  Sg. 8, 6 : Mais si c’est, etc. Si c’est l’intelligence (humaine), qui fait tant d’excellents ouvrages, pour faire tout ce qui existe, n’a-t-il pas fallu une intelligence bien supérieure ? Comparer à Sagesse, 7, 12-21; Proverbes, 8, 22.
 
@@ -36,7 +36,7 @@ summary: |
 16 Entrant dans ma maison, je reposerai avec elle ; car sa conversation n'a pas d'amertume, ni sa société d'ennui, mais de l'allégresse et de la joie.
 
 
-17 Pesant ces choses en moi, et remettant en mémoire à mon cœur, que l'immortalité est alliée de la sagesse, 18 Et que dans son amitié est un plaisir honnête ; dans les œuvres de ses mains, des richesses inépuisables ; dans ses discussions, la sagesse, et une grande gloire dans la communication de ses discours, je tournais de tous côtés la cherchant, afin de la prendre pour moi.
+17 Pesant ces choses en moi, et remettant en mémoire à mon coeur, que l'immortalité est alliée de la sagesse, 18 Et que dans son amitié est un plaisir honnête ; dans les oeuvres de ses mains, des richesses inépuisables ; dans ses discussions, la sagesse, et une grande gloire dans la communication de ses discours, je tournais de tous côtés la cherchant, afin de la prendre pour moi.
 
 ***Note*** :  Sg. 8, 18 : Des richesses (honestas). Voir sur ce mot, Sagesse, 7, 11.
 
@@ -51,5 +51,5 @@ summary: |
 
 21 Et comme j'ai su que je ne pouvais être continent si Dieu ne me donnait de l'être (et c'était déjà un effet de la sagesse, de savoir de qui était ce don), je recourus au Seigneur, et le suppliai, et je lui dis de tout mon coeur :
 
-***Note*** :  Sg. 8, 21 : Etre continent (esse continens) ; posséder la continence ; sens que favorise le verset précédent ; cependant d’autres traduisent par posséder, retenir, conserver la sagesse, fondés principalement sur ce que : 1° le grec signifie obtenir ce qu’on désire, posséder, aussi bien qu’être continent, chaste ; 2° la Vulgate elle-même emploie, dans l’Ecclésiastique (voir Ecclésiastique, 6, 28 et 15, 1), le mot continens dans le sens de possesseur de la sagesse (sapientiæ) et possesseur de la justice (justitiæ) ; 3° que dans la prière qui suit immédiatement, c’est la sagesse qui en fait l’objet.
+***Note*** :  Sg. 8, 21 : Etre continent (esse continens) ; posséder la continence ; sens que favorise le verset précédent ; cependant d’autres traduisent par posséder, retenir, conserver la sagesse, fondés principalement sur ce que : 1° le grec signifie obtenir ce qu’on désire, posséder, aussi bien qu’être continent, chaste ; 2° la Vulgate elle-même emploie, dans l’Ecclésiastique (voir Ecclésiastique, 6, 28 et 15, 1), le mot continens dans le sens de possesseur de la sagesse (sapientiae) et possesseur de la justice (justitiae) ; 3° que dans la prière qui suit immédiatement, c’est la sagesse qui en fait l’objet.
 

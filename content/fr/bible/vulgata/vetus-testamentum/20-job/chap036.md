@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Addens quoque Eliu, hæc locutus est:
+1 Addens quoque Eliu, haec locutus est:
 
 2 Sustine me paululum, et indicabo tibi: adhuc enim habeo quod pro Deo loquar.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 Eripiet de angustia sua pauperem, et revelabit in tribulatione aurem eius.
 
-16 Igitur salvabit te de ore angusto latissime, et non habente fundamentum subter se: requies autem mensæ tuæ erit plena pinguedine.
+16 Igitur salvabit te de ore angusto latissime, et non habente fundamentum subter se: requies autem mensae tuae erit plena pinguedine.
 
 17 Causa tua quasi impii iudicata est, causam iudiciumque recipies.
 
@@ -45,7 +45,7 @@ draft: false
 
 20 Ne protrahas noctem, ut ascendant populi pro eis.
 
-21 Cave ne declines ad iniquitatem: hanc enim cœpisti sequi post miseriam.
+21 Cave ne declines ad iniquitatem: hanc enim coepisti sequi post miseriam.
 
 22 Ecce, Deus excelsus in fortitudine sua, et nullus ei similis in legislatoribus.
 
@@ -55,19 +55,19 @@ draft: false
 
 25 Omnes homines vident eum, unusquisque intuetur procul.
 
-26 Ecce, Deus magnus vincens scientiam nostram: numerus annorum eius inæstimabilis.
+26 Ecce, Deus magnus vincens scientiam nostram: numerus annorum eius inaestimabilis.
 
-27 Qui aufert stillas pluviæ, et effundit imbres ad instar gurgitum.
+27 Qui aufert stillas pluviae, et effundit imbres ad instar gurgitum.
 
-28 Qui de nubibus fluunt, quæ prætexunt cuncta desuper.
+28 Qui de nubibus fluunt, quae praetexunt cuncta desuper.
 
 29 Si voluerit extendere nubes quasi tentorium suum.
 
 30 Et fulgurare lumine suo desuper, cardines quoque maris operiet.
 
-31 Per hæc enim iudicat populos, et dat escas multis mortalibus.
+31 Per haec enim iudicat populos, et dat escas multis mortalibus.
 
-32 In manibus abscondit lucem, et præcepit ei ut rursus adveniat.
+32 In manibus abscondit lucem, et praecepit ei ut rursus adveniat.
 
 33 Annunciat de ea amico suo, quod possessio eius sit, et ad eam possit ascendere.
 

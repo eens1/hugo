@@ -51,7 +51,7 @@ summary: |
 ***Note*** :  Jr. 9, 13 : N’ont pas, etc. ; ne l’ont pas suivie, s’en sont écartés.
 
 
-14 Et parce qu'ils ont suivi la dépravation de leur cœur, et les Baalim; ce qu'ils ont appris de leurs pères.
+14 Et parce qu'ils ont suivi la dépravation de leur coeur, et les Baalim; ce qu'ils ont appris de leurs pères.
 
 ***Note*** :  Jr. 9, 14 : Les Baalim. Voir Jérémie, 2, 23.
 
@@ -76,7 +76,7 @@ summary: |
 ***Note*** :  Jr. 9, 23 : Voir 1 Corinthiens, 1, 31 ; 2 Corinthiens, 10, 17.
 
 
-24 Mais que celui qui se glorifie se glorifie de cela, de me connaître, et de savoir que c'est moi qui suis le Seigneur, qui fais miséricorde et jugement, et justice sur la terre ; c'est là ce qui me plaît, dit le Seigneur. 25 Voici que les jours viennent, dit le Seigneur, et que je visiterai quiconque est circoncis, 26 L'Egypte, Juda, Edom, les fils d'Ammon et de Moab, ceux dont la chevelure est coupée, qui habitent dans le désert; parce que toutes ces nations sont incirconcises de corps, et toute la maison d'Israël est incirconcise de cœur.
+24 Mais que celui qui se glorifie se glorifie de cela, de me connaître, et de savoir que c'est moi qui suis le Seigneur, qui fais miséricorde et jugement, et justice sur la terre ; c'est là ce qui me plaît, dit le Seigneur. 25 Voici que les jours viennent, dit le Seigneur, et que je visiterai quiconque est circoncis, 26 L'Egypte, Juda, Edom, les fils d'Ammon et de Moab, ceux dont la chevelure est coupée, qui habitent dans le désert; parce que toutes ces nations sont incirconcises de corps, et toute la maison d'Israël est incirconcise de coeur.
 
 ***Note*** :  Jr. 9, 26 : Ceux dont la chevelure, etc. ; comme les peuples de l’Arabie déserte qui se coupaient les cheveux en rond pour imiter leur dieu Bacchus. Comparer à Jérémie, 25, 23 ; 49, 32 ; Lévitique, 19, 27 ; 21, 5. ― Ces ; mot exprimé dans le texte hébreu par l’article déterminatif qui souvent s’emploie, en effet, pour le pronom déterminatif.
 

@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Fratres mei, nolite in personarum acceptione habere fidem Domini nostri Iesu Christi gloriæ.
+1 Fratres mei, nolite in personarum acceptione habere fidem Domini nostri Iesu Christi gloriae.
 
 2 Etenim si introierit in conventum vestrum vir aureum annulum habens in veste candida, introierit autem et pauper in sordido habitu,
 
-3 et intendatis in eum, qui indutus est veste præclara, et dixeritis ei: Tu sede hic bene: pauperi autem dicatis: Tu sta illic; aut sede sub scabello pedum meorum:
+3 et intendatis in eum, qui indutus est veste praeclara, et dixeritis ei: Tu sede hic bene: pauperi autem dicatis: Tu sta illic; aut sede sub scabello pedum meorum:
 
 4 nonne iudicatis apud vosmetipsos, et facti estis iudices cogitationum iniquarum?
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Quicumque autem totam legem servaverit, offendat autem in uno, factus est omnium reus.
 
-11 Qui enim dixit, Non mœchaberis, dixit et, Non occides. Quod si non mœchaberis, occides autem, factus es transgressor legis.
+11 Qui enim dixit, Non moechaberis, dixit et, Non occides. Quod si non moechaberis, occides autem, factus es transgressor legis.
 
 12 Sic loquimini, et sic facite sicut per legem libertatis incipientes iudicari.
 
@@ -35,13 +35,13 @@ draft: false
 
 15 Si autem frater, et soror nudi sint, et indigeant victu quotidiano,
 
-16 dicat autem aliquis ex vobis illis: Ite in pace, calefacimini et saturamini: non dederitis autem eis, quæ necessaria sunt corpori, quid proderit?
+16 dicat autem aliquis ex vobis illis: Ite in pace, calefacimini et saturamini: non dederitis autem eis, quae necessaria sunt corpori, quid proderit?
 
 17 Sic et fides, si non habeat opera, mortua est in semetipsa.
 
 18 Sed dicet quis: Tu fidem habes, et ego opera habeo. ostende mihi fidem tuam sine operibus: et ego ostendam tibi ex operibus fidem meam.
 
-19 Tu credis quoniam unus est Deus: Bene facis: et dæmones credunt, et contremiscunt.
+19 Tu credis quoniam unus est Deus: Bene facis: et daemones credunt, et contremiscunt.
 
 20 Vis autem scire o homo inanis, quoniam fides sine operibus mortua est?
 

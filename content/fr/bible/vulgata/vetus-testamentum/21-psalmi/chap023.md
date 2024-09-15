@@ -7,7 +7,7 @@ draft: false
 
 1 Prima sabbati, Psalmus David. Domini est terra, et plenitudo eius: orbis terrarum, et universi, qui habitant in eo.
 
-2 Quia ipse super maria fundavit eum: et super flumina præparavit eum.
+2 Quia ipse super maria fundavit eum: et super flumina praeparavit eum.
 
 3 Quis ascendet in montem Domini? aut quis stabit in loco sancto eius?
 
@@ -15,13 +15,13 @@ draft: false
 
 5 Hic accipiet benedictionem a Domino: et misericordiam a Deo salutari suo.
 
-6 Hæc est generatio quærentium eum, quærentium faciem Dei Iacob.
+6 Haec est generatio quaerentium eum, quaerentium faciem Dei Iacob.
 
-7 Attollite portas principes vestras, et elevamini portæ æternales: et introibit rex gloriæ.
+7 Attollite portas principes vestras, et elevamini portae aeternales: et introibit rex gloriae.
 
-8 Quis est iste rex gloriæ? Dominus fortis et potens: Dominus potens in prælio.
+8 Quis est iste rex gloriae? Dominus fortis et potens: Dominus potens in praelio.
 
-9 Attollite portas principes vestras, et elevamini portæ æternales: et introibit rex gloriæ.
+9 Attollite portas principes vestras, et elevamini portae aeternales: et introibit rex gloriae.
 
-10 Quis est iste rex gloriæ? Dominus virtutum ipse est rex gloriæ.
+10 Quis est iste rex gloriae? Dominus virtutum ipse est rex gloriae.
 

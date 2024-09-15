@@ -9,7 +9,7 @@ summary: |
 ---
 
 
-1 Alors Holoferne lui dit : Ayez l'esprit calme, et ne craignez pas en votre cœur, parce que je n'ai jamais nui à un homme qui a voulu servir le roi Nabuchodonosor. 2 Et si votre peuple ne m'avait point méprisé, je n'aurais pas levé ma lance sur lui. 3 Mais maintenant, dites-moi par quel motif vous êtes-vous retirée d'eux, et vous a-t-il plu de venir vers nous?
+1 Alors Holoferne lui dit : Ayez l'esprit calme, et ne craignez pas en votre coeur, parce que je n'ai jamais nui à un homme qui a voulu servir le roi Nabuchodonosor. 2 Et si votre peuple ne m'avait point méprisé, je n'aurais pas levé ma lance sur lui. 3 Mais maintenant, dites-moi par quel motif vous êtes-vous retirée d'eux, et vous a-t-il plu de venir vers nous?
 
 
 4 Et Judith lui répondit : Accueillez les paroles de votre servante, parce que si vous suivez les paroles de votre servante, le Seigneur achèvera l'affaire avec vous;

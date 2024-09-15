@@ -82,7 +82,7 @@ summary: |
 
 ***Note*** :  Is. 49, 20 : Les fils de ta stérilité ; qui te seront nés dans ta stérilité, c’est-à-dire durant la captivité.
 
-21 Et tu diras dans ton cœur : Qui m'a engendré ceux-ci? j'étais stérile, et je n'enfantais pas; exilée et captive; et ceux-ci, qui les a nourris? j'étais abandonnée et seule, et ceux-ci, où étaient-ils?
+21 Et tu diras dans ton coeur : Qui m'a engendré ceux-ci? j'étais stérile, et je n'enfantais pas; exilée et captive; et ceux-ci, qui les a nourris? j'étais abandonnée et seule, et ceux-ci, où étaient-ils?
 
 
 22 Voici ce que dit le Seigneur Dieu : Voici que vers des nations j'élèverai ma main, et devant des peuples je hausserai mon étendard; et ils apporteront tes fils entre leurs bras, et tes filles, ils les porteront sur leurs épaules. 23 Et les rois seront tes nourriciers, et les reines tes nourrices ; la face contre terre, ils se prosterneront devant toi, et ils lécheront la poussière de tes pieds. Et tu sauras que je suis le Seigneur, dans lequel ne seront pas confondus ceux qui l'attendent.

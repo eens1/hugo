@@ -14,7 +14,7 @@ summary: |
 
 ***Note*** :  Jr. 7, 1 et suivants : III. Juda est impénitent, aveuglé par une fausse confiance dans le temple, les sacrifices et la circoncision, du chapitre 7 au chapitre 10. ― 1° Le Prophète doit parler, sur la porte du temple, au peuple qui entre et qui sort, chapitre 7, versets 1et 2. Juda se confie dans le temple, mais Dieu n’habite que parmi les justes ; le temple ne servira de sauvegarde aux Juifs qu’autant qu’ils feront pénitence, versets 3 à 7. ― Le peuple se fait illusion en pensant qu’il se sauvera en allant au temple, malgré ses péchés. Cet édifice n’est plus la demeure de Dieu, c’est une caverne de voleurs ; il sera répudié comme le sanctuaire de Silo ; ses adorateurs, repoussés comme Ephraïm, parce que Juda se livre à des actes idolâtriques, versets 8 à 20. ― 2° Juda a également confiance dans ses sacrifices, mais ils sont rejetés, parce que les commandements divins, dont l’observation est la condition de l’alliance entre le Seigneur et son peuple, ne sont pas observés, versets 21 à 28. ― Le peuple est
 réprouvé à cause de son idolâtrie, qui a souillé le sanctuaire, versets 29 à 34 ; les ossements des morts eux-mêmes seront jetés hors de leurs tombeaux, en expiation de leurs actes idolâtriques, chapitre 8, versets 1 à 3. ― 3° Rien ne peut amener Juda à la pénitence ; il est sourd à la voix de Dieu, à laquelle obéissent toutes les créatures, versets 4 à 9 ; ses faux sages le trompent, versets 10 à 12 ; il périra, versets 13 à 17 ; il réclamera en vain du secours, il sera trop tard, versets 18 à 22. ― Le Prophète pourrait s’enfuir de la ville coupable, chapitre 9, versets 1 à 5, mais Dieu lui ordonne d’y demeurer pour prédire le châtiment qui la menace, à cause de son impénitence, versets 6 à 14. ― Ce châtiment sera terrible, lamentable, versets 15 à 21, et rien ne pourra y échapper ; la circoncision ne servira de rien, car Dieu frappera d’abord le circoncis, versets 22 à 26. ― A plus forte raison les faux dieux seront-ils impuissants à protéger leurs adorateurs ; ils ne sont rien, chapitre 10, versets 1 à 6.
-― Qu’on craigne donc le seul vrai Dieu et non l’œuvre de la main des hommes ; qu’on se confie en lui et non dans les idoles impuissantes, versets 7 à 16. ― C’est lui qui fera dévaster la terre d’Israël et déporter ses habitants par l’ennemi qui vient du nord, versets 17 à 23. ― Puisse le Seigneur ne pas abandonner complètement son peuple et le venger un jour de ses ennemis ! Versets 24 et 25.
+― Qu’on craigne donc le seul vrai Dieu et non l’oeuvre de la main des hommes ; qu’on se confie en lui et non dans les idoles impuissantes, versets 7 à 16. ― C’est lui qui fera dévaster la terre d’Israël et déporter ses habitants par l’ennemi qui vient du nord, versets 17 à 23. ― Puisse le Seigneur ne pas abandonner complètement son peuple et le venger un jour de ses ennemis ! Versets 24 et 25.
 
 ***Note*** :  Jr. 7, 1 : Disant. Voir sur ce mot, Jérémie, 1, 4.
 
@@ -24,14 +24,14 @@ réprouvé à cause de son idolâtrie, qui a souillé le sanctuaire, versets 29 
 ***Note*** :  Jr. 7, 2 : 2 Au sujet ; littéralement sur ou touchant la parole (de verbo) ; mais, comme on a déjà pu le remarquer, les Hébreux exprimaient, par le même terme, parole, chose, événement, motif, cause. ― Les lois cérémonielles ne furent pas données aux Israélites en même temps que les préceptes moraux. Ces lois cérémonielles ne furent que comme un accessoire pour servir de remède aux penchants des Israélites charnels, en les assujettissant à des sacrifices sensibles, et à des cérémonies extérieures, comme étant plus propres à fixer des esprits peu capables d’un culte tout spirituel et tout intérieur.
 
 
-3 Voici ce que dit le Seigneur des armées, Dieu d'Israël : Rendez bonnes vos voies et vos œuvres ; et j'habiterai avec vous dans ce lieu.
+3 Voici ce que dit le Seigneur des armées, Dieu d'Israël : Rendez bonnes vos voies et vos oeuvres ; et j'habiterai avec vous dans ce lieu.
 
 ***Note*** :  Jr. 7, 3 : Voir Jérémie, 26, 13.
 
 4 Ne vous confiez pas en des paroles de mensonge, disant : Le temple du Seigneur, le temple du Seigneur, c'est le temple du Seigneur.
 
 
-5 Parce que si vous dirigez bien vos voies et vos œuvres; si vous faites la Justice entre un homme et son prochain ; 6 Si vous ne faites point de violence à l'étranger, au pupille et à la veuve; si vous ne répandez pas un sang innocent en ce lieu, et si vous ne marchez pas à la suite des dieux étrangers pour votre propre malheur:7 J'habiterai avec vous d'un siècle à un autre siècle dans ce lieu, dans cette terre que j'ai donnée à vos pères.
+5 Parce que si vous dirigez bien vos voies et vos oeuvres; si vous faites la Justice entre un homme et son prochain ; 6 Si vous ne faites point de violence à l'étranger, au pupille et à la veuve; si vous ne répandez pas un sang innocent en ce lieu, et si vous ne marchez pas à la suite des dieux étrangers pour votre propre malheur:7 J'habiterai avec vous d'un siècle à un autre siècle dans ce lieu, dans cette terre que j'ai donnée à vos pères.
 
 
 8 Mais voilà que vous vous confiez en des paroles de mensonge, qui ne vous seront pas utiles:9 Dérober, tuer, commettre l'adultère, jurer en mentant, faire des libations aux Baalim, aller à la suite de dieux étrangers que vous ne connaissez pas.
@@ -82,7 +82,7 @@ réprouvé à cause de son idolâtrie, qui a souillé le sanctuaire, versets 29 
 ***Note*** :  Jr. 7, 23 : La chose (verbum). Voir sur ce mot, le verset 22.
 
 
-24 Et ils n'ont pas écouté, et ils n'ont pas incliné leur oreille ; mais ils se sont abandonnés à leurs volontés et à la dépravation de leur cœur mauvais; ils sont allés en arrière, et non en avant, 25 Depuis le jour que leurs pères sont sortis de l'Egypte jusqu'à ce jour. Et je vous ai envoyé tous mes serviteurs les prophètes, me levant au point du jour, et les envoyant.
+24 Et ils n'ont pas écouté, et ils n'ont pas incliné leur oreille ; mais ils se sont abandonnés à leurs volontés et à la dépravation de leur coeur mauvais; ils sont allés en arrière, et non en avant, 25 Depuis le jour que leurs pères sont sortis de l'Egypte jusqu'à ce jour. Et je vous ai envoyé tous mes serviteurs les prophètes, me levant au point du jour, et les envoyant.
 
 ***Note*** :  Jr. 7, 25 : Me levant, etc. Voir le verset 13.
 
@@ -102,7 +102,7 @@ réprouvé à cause de son idolâtrie, qui a souillé le sanctuaire, versets 29 
 
 ***Note*** :  Jr. 7, 30 : Pierres d’achoppement. Voir sur cette expression, Jérémie, 4, 1. ― Dans laquelle, etc. Voir Jérémie, 7, 10.
 
-31 Et ils ont bâti des hauts lieux à Topheth, qui est dans la Vallée du fils d'Ennom, afin d'y brûler leurs fils et leurs filles au feu ; choses que je n'ai pas ordonnées, ni pensées dans mon cœur.
+31 Et ils ont bâti des hauts lieux à Topheth, qui est dans la Vallée du fils d'Ennom, afin d'y brûler leurs fils et leurs filles au feu ; choses que je n'ai pas ordonnées, ni pensées dans mon coeur.
 
 ***Note*** :  Jr. 7, 31 : Topheth et la vallée du fils d’Ennom étaient au midi de Jérusalem. Topheth avait un bois et un temple consacrés au dieu Moloch. ― Sur Topheth, voir Isaïe, 30, 33.
 

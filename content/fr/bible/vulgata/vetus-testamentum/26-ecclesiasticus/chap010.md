@@ -11,11 +11,11 @@ draft: false
 
 3 Rex insipiens perdet populum suum: et civitates inhabitabuntur per sensum potentium.
 
-4 In manu Dei potestas terræ: et utilem rectorem suscitabit in tempus super illam.
+4 In manu Dei potestas terrae: et utilem rectorem suscitabit in tempus super illam.
 
-5 In manu Dei prosperitas hominis, et super faciem scribæ imponet honorem suum.
+5 In manu Dei prosperitas hominis, et super faciem scribae imponet honorem suum.
 
-6 Omnis iniuriæ proximi ne memineris, et nihil agas in operibus iniuriæ.
+6 Omnis iniuriae proximi ne memineris, et nihil agas in operibus iniuriae.
 
 7 Odibilis coram Deo est et hominibus superbia: et execrabilis omnis iniquitas gentium.
 
@@ -27,11 +27,11 @@ draft: false
 
 11 Omnis potentatus brevis vita. Languor prolixior gravat medicum.
 
-12 Brevem languorem præcidit medicus: sic et rex hodie est, et cras morietur.
+12 Brevem languorem praecidit medicus: sic et rex hodie est, et cras morietur.
 
 13 Cum enim morietur homo, hereditabit serpentes, et bestias, et vermes.
 
-14 Initium superbiæ hominis, apostatare a Deo:
+14 Initium superbiae hominis, apostatare a Deo:
 
 15 quoniam ab eo, qui fecit illum, recessit cor eius. quoniam initium omnis peccati est superbia: qui tenuerit illam, adimplebitur maledictis, et subvertet eum in finem.
 
@@ -49,7 +49,7 @@ draft: false
 
 22 Non est creata hominibus superbia: neque iracundia nationi mulierum.
 
-23 Semen hominum honorabitur hoc, quod timet Deum: semen autem hoc exhonorabitur, quod præterit mandata Domini.
+23 Semen hominum honorabitur hoc, quod timet Deum: semen autem hoc exhonorabitur, quod praeterit mandata Domini.
 
 24 In medio fratrum rector illorum in honore: et qui timent Dominum, erunt in oculis illius.
 
@@ -61,7 +61,7 @@ draft: false
 
 28 Servo sensato liberi servient: et vir prudens et disciplinatus non murmurabit correptus, et inscius non honorabitur.
 
-29 Noli extollere te in faciendo opere tuo, et noli cunctari in tempore angustiæ.
+29 Noli extollere te in faciendo opere tuo, et noli cunctari in tempore angustiae.
 
 30 Melior est qui operatur, et abundat in omnibus, quam qui gloriatur, et eget pane.
 

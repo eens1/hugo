@@ -9,13 +9,13 @@ draft: false
 
 2 et ait: Dominus petra mea, et robur meum, et salvator meus.
 
-3 Deus fortis meus sperabo in eum: scutum meum, et cornu salutis meæ: elevator meus, et refugium meum: salvator meus, de iniquitate liberabis me.
+3 Deus fortis meus sperabo in eum: scutum meum, et cornu salutis meae: elevator meus, et refugium meum: salvator meus, de iniquitate liberabis me.
 
 4 Laudabilem invocabo Dominum: et ab inimicis meis salvus ero.
 
 5 Quia circumdederunt me contritiones mortis: torrentes Belial terruerunt me.
 
-6 Funes inferni circumdederunt me: prævenerunt me laquei mortis.
+6 Funes inferni circumdederunt me: praevenerunt me laquei mortis.
 
 7 In tribulatione mea invocabo Dominum, et ad Deum meum clamabo: et exaudiet de templo suo vocem meam, et clamor meus venit ad aures eius.
 
@@ -23,15 +23,15 @@ draft: false
 
 9 Ascendit fumus de naribus eius, et ignis de ore eius vorabit: carbones succensi sunt ab eo.
 
-10 Inclinavit cælos, et descendit: et caligo sub pedibus eius.
+10 Inclinavit caelos, et descendit: et caligo sub pedibus eius.
 
 11 Et ascendit super cherubim, et volavit: et lapsus est super pennas venti.
 
-12 Posuit tenebras in circuitu suo latibulum: cribrans aquas de nubibus cælorum.
+12 Posuit tenebras in circuitu suo latibulum: cribrans aquas de nubibus caelorum.
 
-13 Præ fulgore in conspectu eius, succensi sunt carbones ignis.
+13 Prae fulgore in conspectu eius, succensi sunt carbones ignis.
 
-14 Tonabit de cælo Dominus: et excelsus dabit vocem suam.
+14 Tonabit de caelo Dominus: et excelsus dabit vocem suam.
 
 15 Misit sagittas et dissipavit eos: fulgur, et consumpsit eos.
 
@@ -41,7 +41,7 @@ draft: false
 
 18 Liberavit me ab inimico meo potentissimo, et ab his qui oderant me: quoniam robustiores me erant.
 
-19 Prævenit me in die afflictionis meæ, et factus est Dominus firmamentum meum.
+19 Praevenit me in die afflictionis meae, et factus est Dominus firmamentum meum.
 
 20 Et eduxit me in latitudinem: liberavit me, quia complacui ei.
 
@@ -49,7 +49,7 @@ draft: false
 
 22 Quia custodivi vias Domini, et non egi impie, a Deo meo.
 
-23 Omnia enim iudicia eius in conspectu meo: et præcepta eius non amovi a me.
+23 Omnia enim iudicia eius in conspectu meo: et praecepta eius non amovi a me.
 
 24 Et ero perfectus cum eo: et custodiam me ab iniquitate mea.
 
@@ -67,15 +67,15 @@ draft: false
 
 31 Deus, immaculata via eius, eloquium Domini igne examinatum: scutum est omnium sperantium in se.
 
-32 Quis est Deus præter Dominum: et quis fortis præter Deum nostrum?
+32 Quis est Deus praeter Dominum: et quis fortis praeter Deum nostrum?
 
 33 Deus qui accinxit me fortitudine: et complanavit perfectam viam meam.
 
-34 Coæquans pedes meos cervis, et super excelsa mea statuens me.
+34 Coaequans pedes meos cervis, et super excelsa mea statuens me.
 
-35 Docens manus meas ad prælium, et componens quasi arcum æreum brachia mea.
+35 Docens manus meas ad praelium, et componens quasi arcum aereum brachia mea.
 
-36 Dedisti mihi clypeum salutis tuæ: et mansuetudo tua multiplicavit me.
+36 Dedisti mihi clypeum salutis tuae: et mansuetudo tua multiplicavit me.
 
 37 Dilatabis gressus meos subtus me: et non deficient tali mei.
 
@@ -83,13 +83,13 @@ draft: false
 
 39 Consumam eos et confringam, ut non consurgant: cadent sub pedibus meis.
 
-40 Accinxisti me fortitudine ad prælium: incurvasti resistentes mihi subtus me.
+40 Accinxisti me fortitudine ad praelium: incurvasti resistentes mihi subtus me.
 
 41 Inimicos meos dedisti mihi dorsum: odientes me, et disperdam eos.
 
 42 Clamabunt, et non erit qui salvet, ad Dominum, et non exaudiet eos.
 
-43 Delebo eos ut pulverem terræ: quasi lutum platearum comminuam eos atque confringam.
+43 Delebo eos ut pulverem terrae: quasi lutum platearum comminuam eos atque confringam.
 
 44 Salvabis me a contradictionibus populi mei: custodies me in caput Gentium: populus, quem ignoro, serviet mihi.
 
@@ -97,7 +97,7 @@ draft: false
 
 46 Filii alieni defluxerunt, et contrahentur in angustiis suis.
 
-47 Vivit Dominus, et benedictus Deus meus: et exaltabitur Deus fortis salutis meæ.
+47 Vivit Dominus, et benedictus Deus meus: et exaltabitur Deus fortis salutis meae.
 
 48 Deus qui das vindictas mihi, et deiicis populos sub me.
 

@@ -15,7 +15,7 @@ summary: |
 
 ***Note*** :  II Par. 4, 2 : Voir 3 Rois, 7, 23.
 
-3 De plus, une représentation de bœufs était au-dessous de la mer, et certaines ciselures au dehors entouraient comme en deux rangs la partie la plus large de la mer dans un espace de dix coudées. Or ces bœufs avaient été jetés en fonte. 4 Et la mer elle-même était posée sur douze bœufs, dont trois regardaient l'aquilon, et trois autres l'occident; or trois autres, le midi, et les autres, l'orient, tous ayant la mer posée sur eux : or la partie de derrière des bœufs était en dedans sous la mer. 5 L'épaisseur de la mer avait la mesure d'un palme, et son bord était fait comme le bord d'une coupe, ou d'un lis épanoui : et elle contenait trois mille métrètes.
+3 De plus, une représentation de boeufs était au-dessous de la mer, et certaines ciselures au dehors entouraient comme en deux rangs la partie la plus large de la mer dans un espace de dix coudées. Or ces boeufs avaient été jetés en fonte. 4 Et la mer elle-même était posée sur douze boeufs, dont trois regardaient l'aquilon, et trois autres l'occident; or trois autres, le midi, et les autres, l'orient, tous ayant la mer posée sur eux : or la partie de derrière des boeufs était en dedans sous la mer. 5 L'épaisseur de la mer avait la mesure d'un palme, et son bord était fait comme le bord d'une coupe, ou d'un lis épanoui : et elle contenait trois mille métrètes.
 
 ***Note*** :  II Par. 4, 5 : Un palme, 8 centimètres. ― Métrète, 38 litres 88.
 
@@ -37,7 +37,7 @@ summary: |
 10 Quant à la mer, il la mit du côté droit contre l'orient, vers le midi.
 
 
-11 Hiram fit aussi les chaudières, les grandes fourchettes et les fioles, et il acheva tout l'ouvrage du roi dans la maison de Dieu ; 12 C'est-à-dire les deux colonnes, les architraves, les chapiteaux, et les espèces de réseaux qui couvraient les chapiteaux par-dessus les architraves. 13 Il fit encore les quatre cents grenades et les deux réseaux, de manière que deux rangs de grenades étaient attachés ensemble à chacun des réseaux qui couvraient les architraves et les chapiteaux des colonnes. 14 Il fit aussi les bases d'airain, et les conques qu'il superposa aux bases ; 15 La mer unique, et aussi les douze bœufs sous la mer, 16 Et les chaudières, et les grandes fourchettes, et les fioles. Hiram, son père, fit à Salomon tous les vases pour la maison du Seigneur, d'un airain très pur.
+11 Hiram fit aussi les chaudières, les grandes fourchettes et les fioles, et il acheva tout l'ouvrage du roi dans la maison de Dieu ; 12 C'est-à-dire les deux colonnes, les architraves, les chapiteaux, et les espèces de réseaux qui couvraient les chapiteaux par-dessus les architraves. 13 Il fit encore les quatre cents grenades et les deux réseaux, de manière que deux rangs de grenades étaient attachés ensemble à chacun des réseaux qui couvraient les architraves et les chapiteaux des colonnes. 14 Il fit aussi les bases d'airain, et les conques qu'il superposa aux bases ; 15 La mer unique, et aussi les douze boeufs sous la mer, 16 Et les chaudières, et les grandes fourchettes, et les fioles. Hiram, son père, fit à Salomon tous les vases pour la maison du Seigneur, d'un airain très pur.
 
 ***Note*** :  II Par. 4, 16 : Son père. Voir 2 Paralipomènes, 2, 13.
 

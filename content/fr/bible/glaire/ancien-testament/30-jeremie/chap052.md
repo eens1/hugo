@@ -63,7 +63,7 @@ summary: |
 
 ***Note*** :  Jr. 52, 19 : D’argent pur, d’or pur ; littéralement et par hébraïsme, d’argent d’argent, d’or d’or ; c’est-à-dire entièrement d’argent, etc. On l’a déjà vu bien souvent, ce genre de répétition d’un mot a pour but de renforcer l’idée qu’il exprime. On trouve d’ailleurs les expressions d’airain très pur, d’or très pur, dans la description des ornements du temple de Salomon (voir 2 Paralipomènes, 4, vv. 16, 20, 22).
 
-20 Ainsi que les deux colonnes, et la mer unique, et les douze bœufs d'airain qui étaient sous les bases, que le roi Salomon avait faites dans la maison du Seigneur ; il n'y avait pas de poids pour l'airain de tous ces vases.
+20 Ainsi que les deux colonnes, et la mer unique, et les douze boeufs d'airain qui étaient sous les bases, que le roi Salomon avait faites dans la maison du Seigneur ; il n'y avait pas de poids pour l'airain de tous ces vases.
 
 ***Note*** :  Jr. 52, 20 : Il n’y avait pas de poids, etc. Voir 4 Rois, 25, 16.
 
@@ -94,4 +94,4 @@ summary: |
 
 34 Et sa nourriture, nourriture perpétuelle, lui était donnée par le roi de Babylone, déterminée jour par jour, jusqu'au jour de sa mort, tous les jours de sa vie.
 
-***Note*** :  Jr. 52, 34 : De sa vie (vitæ ejus) ; de la vie de Joachin, quoique le pronom ejus de la Vulgate semble se rapporter à Evilmérodach. Dans l’endroit parallèle (voir 4 Rois, 25, 30), la Vulgate porte vitæ suæ. Quant au texte hébreu, il est amphibologique dans les deux endroits.
+***Note*** :  Jr. 52, 34 : De sa vie (vitae ejus) ; de la vie de Joachin, quoique le pronom ejus de la Vulgate semble se rapporter à Evilmérodach. Dans l’endroit parallèle (voir 4 Rois, 25, 30), la Vulgate porte vitae suae. Quant au texte hébreu, il est amphibologique dans les deux endroits.

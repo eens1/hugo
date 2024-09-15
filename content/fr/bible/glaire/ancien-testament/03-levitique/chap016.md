@@ -62,7 +62,7 @@ summary: |
 
 29 Or ceci sera pour vous une loi perpétuelle : Au septième mois, au dixième jour du mois, vous affligerez vos âmes, vous ne ferez aucun travail, soit l'indigène, soit l'étranger qui séjournent parmi vous.
 
-***Note*** :  Lv. 16, 29 : Voir Lévitique, 23, 27-28. ― Affliger son âme, veut dire, dans le langage de l’Ecriture, se livrer au jeûne et aux autres œuvres de pénitence.
+***Note*** :  Lv. 16, 29 : Voir Lévitique, 23, 27-28. ― Affliger son âme, veut dire, dans le langage de l’Ecriture, se livrer au jeûne et aux autres oeuvres de pénitence.
 
 30 En ce jour-là sera votre expiation, et la purification de tous vos péchés; c'est devant le Seigneur que vous serez purifiés ; 31 Car c'est un sabbat de repos, et vous affligerez vos âmes par un culte perpétuel.
 

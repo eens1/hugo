@@ -45,9 +45,9 @@ la forme de quatre animaux distincts. Ils avaient un corps de lion à droite et 
 
 ***Note*** :  Éz. 1, 9 : Ils ne se retournaient, etc. ; c’est-à-dire que, pour aller et venir, chacun des animaux allait toujours devant l’une de ses quatre faces sans avoir besoin de se retourner.
 
-10 Quant à la ressemblance de leur visage, c'était une face d'homme et une face de lion, à la droite des quatre; mais une face de bœuf à la gauche des quatre, et une face d'aigle au-dessus des quatre.
+10 Quant à la ressemblance de leur visage, c'était une face d'homme et une face de lion, à la droite des quatre; mais une face de boeuf à la gauche des quatre, et une face d'aigle au-dessus des quatre.
 
-***Note*** :  Éz. 1, 10 : C’était une face, etc. La face d’homme marque l’intelligence, celle du lion, le ravage ; celle du bœuf, la force, et celle de l’aigle, la rapidité. Ces figures se conçoivent aisément, si l’on considère qu’Ezéchiel parlait à des Juifs accoutumés, comme les Orientaux en général, au langage symbolique, et dans un temps où la langue hiéroglyphique était en usage. ― A la droite ; ne se rapporte qu’à face ou ressemblance de lion, et à la gauche qu’à face ou ressemblance d’aigle. Les chérubins vus par Ezéchiel avaient une tête humaine et des ailes visibles de tout côté, mais leur corps était celui d’un lion du côté droit et celui d’un taureau du côté gauche.
+***Note*** :  Éz. 1, 10 : C’était une face, etc. La face d’homme marque l’intelligence, celle du lion, le ravage ; celle du boeuf, la force, et celle de l’aigle, la rapidité. Ces figures se conçoivent aisément, si l’on considère qu’Ezéchiel parlait à des Juifs accoutumés, comme les Orientaux en général, au langage symbolique, et dans un temps où la langue hiéroglyphique était en usage. ― A la droite ; ne se rapporte qu’à face ou ressemblance de lion, et à la gauche qu’à face ou ressemblance d’aigle. Les chérubins vus par Ezéchiel avaient une tête humaine et des ailes visibles de tout côté, mais leur corps était celui d’un lion du côté droit et celui d’un taureau du côté gauche.
 
 11 Leurs faces et leurs ailes s'étendaient en haut : ils se tenaient l'un l'autre par deux de leurs ailes, et ils couvraient leur corps par les deux autres; 12 Et chacun d'eux marchait devant sa face ; là où était l'impétuosité de l'esprit, là ils allaient ; et ils ne se retournaient pas lorsqu'ils marchaient.
 

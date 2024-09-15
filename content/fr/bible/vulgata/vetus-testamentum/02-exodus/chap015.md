@@ -17,9 +17,9 @@ draft: false
 
 6 Dextera tua Domine magnificata est in fortitudine: dextera tua, Domine, percussit inimicum.
 
-7 Et in multitudine gloriæ tuæ deposuisti adversarios tuos: misisti iram tuam, quæ devoravit eos sicut stipulam.
+7 Et in multitudine gloriae tuae deposuisti adversarios tuos: misisti iram tuam, quae devoravit eos sicut stipulam.
 
-8 Et in spiritu furoris tui congregatæ sunt aquæ: stetit unda fluens, congregata sunt abyssi in medio mari.
+8 Et in spiritu furoris tui congregatae sunt aquae: stetit unda fluens, congregata sunt abyssi in medio mari.
 
 9 Dixit inimicus: Persequar et comprehendam, dividam spolia, implebitur anima mea: evaginabo gladium meum, interficiet eos manus mea.
 
@@ -37,25 +37,25 @@ draft: false
 
 16 Irruat super eos formido et pavor, in magnitudine brachii tui: fiant immobiles quasi lapis, donec pertranseat populus tuus Domine, donec pertranseat populus tuus iste, quem possedisti.
 
-17 Introduces eos, et plantabis in monte hereditatis tuæ, firmissimo habitaculo tuo quod operatus es Domine: sanctuarium tuum Domine, quod firmaverunt manus tuæ.
+17 Introduces eos, et plantabis in monte hereditatis tuae, firmissimo habitaculo tuo quod operatus es Domine: sanctuarium tuum Domine, quod firmaverunt manus tuae.
 
-18 Dominus regnabit in æternum et ultra.
+18 Dominus regnabit in aeternum et ultra.
 
 19 Ingressus est enim eques Pharao cum curribus et equitibus eius in mare: et reduxit super eos Dominus aquas maris: filii autem Israel ambulaverunt per siccum in medio eius.
 
-20 Sumpsit ergo Maria prophetissa, soror Aaron, tympanum in manu sua: egressæque sunt omnes mulieres post eam cum tympanis et choris,
+20 Sumpsit ergo Maria prophetissa, soror Aaron, tympanum in manu sua: egressaeque sunt omnes mulieres post eam cum tympanis et choris,
 
-21 quibus præcinebat, dicens: Cantemus Domino, gloriose enim magnificatus est, equum et ascensorem eius deiecit in mare.
+21 quibus praecinebat, dicens: Cantemus Domino, gloriose enim magnificatus est, equum et ascensorem eius deiecit in mare.
 
 22 Tulit autem Moyses Israel de mari rubro, et egressi sunt in desertum Sur: ambulaveruntque tribus diebus per solitudinem, et non inveniebant aquam.
 
-23 Et venerunt in Mara, nec poterant bibere aquas de Mara, eo quod essent amaræ: unde et congruum loco nomen imposuit, vocans illum Mara, id est, amaritudinem.
+23 Et venerunt in Mara, nec poterant bibere aquas de Mara, eo quod essent amarae: unde et congruum loco nomen imposuit, vocans illum Mara, id est, amaritudinem.
 
 24 Et murmuravit populus contra Moysen, dicens: Quid bibemus?
 
-25 At ille clamavit ad Dominum. qui ostendit ei lignum: quod cum misisset in aquas, in dulcedinem versæ sunt. ibi constituit ei præcepta, atque iudicia, et ibi tentavit eum,
+25 At ille clamavit ad Dominum. qui ostendit ei lignum: quod cum misisset in aquas, in dulcedinem versae sunt. ibi constituit ei praecepta, atque iudicia, et ibi tentavit eum,
 
-26 dicens: Si audieris vocem Domini Dei tui, et quod rectum est coram eo feceris, et obedieris mandatis eius, custodierisque omnia præcepta illius, cunctum languorem, quem posui in Ægypto, non inducam super te: ego enim Dominus sanator tuus.
+26 dicens: Si audieris vocem Domini Dei tui, et quod rectum est coram eo feceris, et obedieris mandatis eius, custodierisque omnia praecepta illius, cunctum languorem, quem posui in AEgypto, non inducam super te: ego enim Dominus sanator tuus.
 
-27 Venerunt autem in Elim filii Israel, ubi erant duodecim fontes aquarum, et septuaginta palmæ: et castrametati sunt iuxta aquas.
+27 Venerunt autem in Elim filii Israel, ubi erant duodecim fontes aquarum, et septuaginta palmae: et castrametati sunt iuxta aquas.
 

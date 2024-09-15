@@ -7,7 +7,7 @@ draft: false
 
 1 Dicebat autem et ad discipulos suos: Homo quidam erat dives, qui habebat villicum: et hic diffamatus est apud illum quasi dissipasset bona ipsius.
 
-2 Et vocavit illum, et ait illi: Quid hoc audio de te? redde rationem villicationis tuæ: iam enim non poteris villicare.
+2 Et vocavit illum, et ait illi: Quid hoc audio de te? redde rationem villicationis tuae: iam enim non poteris villicare.
 
 3 Ait autem villicus intra se: Quid faciam quia dominus meus aufert a me villicationem? fodere non valeo, mendicare erubesco.
 
@@ -19,9 +19,9 @@ draft: false
 
 7 Deinde alii dixit: Tu vero quantum debes? Qui ait: Centum coros tritici. Ait illi: Accipe litteras tuas, et scribe octoginta.
 
-8 Et laudavit dominus villicum iniquitatis, quia prudenter fecisset: quia filii huius sæculi prudentiores filiis lucis in generatione sua sunt.
+8 Et laudavit dominus villicum iniquitatis, quia prudenter fecisset: quia filii huius saeculi prudentiores filiis lucis in generatione sua sunt.
 
-9 Et ego vobis dico: facite vobis amicos de mammona iniquitatis: ut, cum defeceritis, recipiant vos in æterna tabernacula.
+9 Et ego vobis dico: facite vobis amicos de mammona iniquitatis: ut, cum defeceritis, recipiant vos in aeterna tabernacula.
 
 10 Qui fidelis est in minimo, et in maiori fidelis est: et qui in modico iniquus est, et in maiori iniquus est.
 
@@ -29,25 +29,25 @@ draft: false
 
 12 Et si in alieno fideles non fuistis: quod vestrum est, quis dabit vobis?
 
-13 Nemo servus potest duobus dominis servire: aut enim unum odiet, et alterum diliget: aut uni adhærebit, et alterum contemnet: non potestis Deo servire, et mammonæ.
+13 Nemo servus potest duobus dominis servire: aut enim unum odiet, et alterum diliget: aut uni adhaerebit, et alterum contemnet: non potestis Deo servire, et mammonae.
 
-14 Audiebant autem omnia hæc Pharisæi, qui erant avari: et deridebant illum.
+14 Audiebant autem omnia haec Pharisaei, qui erant avari: et deridebant illum.
 
 15 Et ait illis: Vos estis, qui iustificatis vos coram hominibus: Deus autem novit corda vestra: quia quod hominibus altum est, abominatio est ante Deum.
 
-16 Lex, et prophetæ usque ad Ioannem: ex eo regnum Dei evangelizatur, et omnis in illud vim facit.
+16 Lex, et prophetae usque ad Ioannem: ex eo regnum Dei evangelizatur, et omnis in illud vim facit.
 
-17 Facilius est autem cælum, et terram præterire, quam de Lege unum apicem cadere.
+17 Facilius est autem caelum, et terram praeterire, quam de Lege unum apicem cadere.
 
-18 Omnis, qui dimittit uxorem suam, et alteram ducit, mœchatur: et qui dimissam a viro ducit, mœchatur.
+18 Omnis, qui dimittit uxorem suam, et alteram ducit, moechatur: et qui dimissam a viro ducit, moechatur.
 
 19 Homo quidam erat dives, qui induebatur purpura, et bysso: et epulabatur quotidie splendide.
 
 20 Et erat quidam mendicus, nomine Lazarus, qui iacebat ad ianuam eius, ulceribus plenus,
 
-21 cupiens saturari de micis, quæ cadebant de mensa divitis, et nemo illi dabat: sed et canes veniebant, et lingebant ulcera eius.
+21 cupiens saturari de micis, quae cadebant de mensa divitis, et nemo illi dabat: sed et canes veniebant, et lingebant ulcera eius.
 
-22 Factum est autem ut moreretur mendicus, et portaretur ab Angelis in sinum Abrahæ. Mortuus est autem et dives, et sepultus est in inferno.
+22 Factum est autem ut moreretur mendicus, et portaretur ab Angelis in sinum Abrahae. Mortuus est autem et dives, et sepultus est in inferno.
 
 23 Elevans autem oculos suos, cum esset in tormentis, vidit Abraham a longe, et Lazarum in sinu eius:
 
@@ -63,7 +63,7 @@ draft: false
 
 29 Et ait illi Abraham: Habent Moysen, et prophetas: audiant illos.
 
-30 At ille dixit: Non, pater Abraham: sed si quis ex mortuis ierit ad eos, pœnitentiam agent.
+30 At ille dixit: Non, pater Abraham: sed si quis ex mortuis ierit ad eos, poenitentiam agent.
 
 31 Ait autem illi: Si Moysen, et prophetas non audiunt, neque si quis ex mortuis resurrexerit, credent.
 

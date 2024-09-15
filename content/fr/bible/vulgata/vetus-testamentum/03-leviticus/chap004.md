@@ -7,7 +7,7 @@ draft: false
 
 1 Locutusque est Dominus ad Moysen, dicens:
 
-2 Loquere filiis Israel: Anima, quæ peccaverit per ignorantiam, et de universis mandatis Domini, quæ præcepit ut non fierent, quippiam fecerit:
+2 Loquere filiis Israel: Anima, quae peccaverit per ignorantiam, et de universis mandatis Domini, quae praecepit ut non fierent, quippiam fecerit:
 
 3 si sacerdos, qui unctus est, peccaverit, delinquere faciens populum, offeret pro peccato suo vitulum immaculatum Domino:
 
@@ -19,15 +19,15 @@ draft: false
 
 7 ponetque de eodem sanguine super cornua altaris thymiamatis gratissimi Domino, quod est in tabernaculo testimonii. omnem autem reliquum sanguinem fundet in basim altaris holocausti in introitu tabernaculi.
 
-8 Et adipem vituli auferet pro peccato, tam eum qui vitalia operit quam omnia quæ intrinsecus sunt:
+8 Et adipem vituli auferet pro peccato, tam eum qui vitalia operit quam omnia quae intrinsecus sunt:
 
 9 duos renunculos et reticulum quod est super eos iuxta ilia, et adipem iecoris cum renunculis,
 
-10 sicut aufertur de vitulo hostiæ pacificorum: et adolebit ea super altare holocausti.
+10 sicut aufertur de vitulo hostiae pacificorum: et adolebit ea super altare holocausti.
 
 11 Pellem vero et omnes carnes cum capite et pedibus et intestinis et fimo,
 
-12 et reliquo corpore efferet extra castra in locum mundum, ubi cineres effundi solent: incendetque ea super lignorum struem, quæ in loco effusorum cinerum cremabuntur.
+12 et reliquo corpore efferet extra castra in locum mundum, ubi cineres effundi solent: incendetque ea super lignorum struem, quae in loco effusorum cinerum cremabuntur.
 
 13 Quod si omnis turba Israel ignoraverit, et per imperitiam fecerit quod contra mandatum Domini est,
 
@@ -53,15 +53,15 @@ draft: false
 
 24 Ponetque manum suam super caput eius: cumque immolaverit eum loco ubi solet mactari holocaustum coram Domino, quia pro peccato est,
 
-25 tinget sacerdos digitum in sanguine hostiæ pro peccato, tangens cornua altaris holocausti, et reliquum fundens ad basim eius.
+25 tinget sacerdos digitum in sanguine hostiae pro peccato, tangens cornua altaris holocausti, et reliquum fundens ad basim eius.
 
 26 Adipem vero adolebit supra, sicut in victimis pacificorum fieri solet: rogabitque pro eo sacerdos, et pro peccato eius, et dimittetur ei.
 
-27 Quod si peccaverit anima per ignorantiam, de populo terræ, ut faciat quidquam de his, quæ Domini lege prohibentur, atque delinquat,
+27 Quod si peccaverit anima per ignorantiam, de populo terrae, ut faciat quidquam de his, quae Domini lege prohibentur, atque delinquat,
 
 28 et cognoverit peccatum suum, offeret capram immaculatam.
 
-29 Ponetque manum super caput hostiæ quæ pro peccato est, et immolabit eam in loco holocausti.
+29 Ponetque manum super caput hostiae quae pro peccato est, et immolabit eam in loco holocausti.
 
 30 Tolletque sacerdos de sanguine in digito suo: et tangens cornua altaris holocausti, reliquum fundet ad basim eius.
 
@@ -69,7 +69,7 @@ draft: false
 
 32 Sin autem de pecoribus obtulerit victimam pro peccato, ovem scilicet immaculatam;
 
-33 ponet manum super caput eius, et immolabit eam in loco ubi solent cædi holocaustorum hostiæ.
+33 ponet manum super caput eius, et immolabit eam in loco ubi solent caedi holocaustorum hostiae.
 
 34 Sumetque sacerdos de sanguine eius digito suo, et tangens cornua altaris holocausti, reliquum fundet ad basim eius.
 

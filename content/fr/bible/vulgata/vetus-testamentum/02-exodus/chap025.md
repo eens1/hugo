@@ -9,7 +9,7 @@ draft: false
 
 2 Loquere filiis Israel ut tollant mihi primitias ab omni homine qui offeret ultroneus, accipietis eas.
 
-3 Hæc sunt autem quæ accipere debeatis: Aurum, et argentum, et æs,
+3 Haec sunt autem quae accipere debeatis: Aurum, et argentum, et aes,
 
 4 hyacinthum et purpuram, coccumque bis tinctum, et byssum, pilos caprarum,
 
@@ -27,11 +27,11 @@ draft: false
 
 11 Et deaurabis eam auro mundissimo intus et foris: faciesque supra, coronam auream per circuitum:
 
-12 et quattuor circulos aureos, quos pones per quattuor arcæ angulos: duo circuli sint in latere uno, et duo in altero.
+12 et quattuor circulos aureos, quos pones per quattuor arcae angulos: duo circuli sint in latere uno, et duo in altero.
 
 13 Facies quoque vectes de lignis setim, et operies eos auro.
 
-14 Inducesque per circulos qui sunt in arcæ lateribus, ut portetur in eis:
+14 Inducesque per circulos qui sunt in arcae lateribus, ut portetur in eis:
 
 15 qui semper erunt in circulis, nec umquam extrahentur ab eis.
 
@@ -47,7 +47,7 @@ draft: false
 
 21 in qua pones testimonium quod dabo tibi.
 
-22 Inde præcipiam, et loquar ad te supra propitiatorium, ac de medio duorum Cherubim, qui erunt super arcam testimonii, cuncta quæ mandabo per te filiis Israel.
+22 Inde praecipiam, et loquar ad te supra propitiatorium, ac de medio duorum Cherubim, qui erunt super arcam testimonii, cuncta quae mandabo per te filiis Israel.
 
 23 Facies et mensam de lignis setim, habentem duos cubitos longitudinis, et in latitudine cubitum, et in altitudine cubitum et semissem.
 
@@ -55,7 +55,7 @@ draft: false
 
 25 et ipsi labio coronam interrasilem altam quattuor digitis: et super illam, alteram coronam aureolam.
 
-26 Quattuor quoque circulos aureos præparabis, et pones eis in quattuor angulis eiusdem mensæ per singulos pedes.
+26 Quattuor quoque circulos aureos praeparabis, et pones eis in quattuor angulis eiusdem mensae per singulos pedes.
 
 27 Subter coronam erunt circuli aurei, ut mittantur vectes per eos, et possit mensa portari.
 
@@ -65,21 +65,21 @@ draft: false
 
 30 Et pones super mensam panes propositionis in conspectu meo semper.
 
-31 Facies et candelabrum ductile de auro mundissimo, hastile eius, et calamos, scyphos, et sphærulas, ac lilia ex ipso procedentia.
+31 Facies et candelabrum ductile de auro mundissimo, hastile eius, et calamos, scyphos, et sphaerulas, ac lilia ex ipso procedentia.
 
 32 Sex calami egredientur de lateribus, tres ex uno latere, et tres ex altero.
 
-33 Tres scyphi quasi in nucis modum per calamos singulos, sphærulaque simul, et lilium: et tres similiter scyphi instar nucis in calamo altero, sphærulaque simul et lilium. hoc erit opus sex calamorum, qui producendi sunt de hastili:
+33 Tres scyphi quasi in nucis modum per calamos singulos, sphaerulaque simul, et lilium: et tres similiter scyphi instar nucis in calamo altero, sphaerulaque simul et lilium. hoc erit opus sex calamorum, qui producendi sunt de hastili:
 
-34 in ipso autem candelabro erunt quattuor scyphi in nucis modum, sphærulæque per singulos, et lilia.
+34 in ipso autem candelabro erunt quattuor scyphi in nucis modum, sphaerulaeque per singulos, et lilia.
 
-35 Sphærulæ sub duobus calamis per tria loca, qui simul sex fiunt procedentes de hastili uno.
+35 Sphaerulae sub duobus calamis per tria loca, qui simul sex fiunt procedentes de hastili uno.
 
-36 Et sphærulæ igitur et calami ex ipso erunt, universa ductilia de auro purissimo.
+36 Et sphaerulae igitur et calami ex ipso erunt, universa ductilia de auro purissimo.
 
 37 Facies et lucernas septem, et pones eas super candelabrum, ut luceant ex adverso.
 
-38 Emunctoria quoque, et ubi quæ emuncta sunt extinguantur, fiant de auro purissimo.
+38 Emunctoria quoque, et ubi quae emuncta sunt extinguantur, fiant de auro purissimo.
 
 39 Omne pondus candelabri cum universis vasis suis habebit talentum auri purissimi.
 

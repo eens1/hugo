@@ -15,13 +15,13 @@ draft: false
 
 5 Fulcite me floribus, stipate me malis: quia amore langueo.
 
-6 Læva eius sub capite meo, et dextera illius amplexabitur me.
+6 Laeva eius sub capite meo, et dextera illius amplexabitur me.
 
-7 Adiuro vos filiæ Ierusalem per capreas, cervosque camporum, ne suscitetis, neque evigilare faciatis dilectam, quoadusque ipsa velit.
+7 Adiuro vos filiae Ierusalem per capreas, cervosque camporum, ne suscitetis, neque evigilare faciatis dilectam, quoadusque ipsa velit.
 
 8 Vox dilecti mei, ecce iste venit saliens in montibus, transiliens colles:
 
-9 similis est dilectus meus capreæ, hinnuloque cervorum. en ipse stat post parietem nostrum respiciens per fenestras, prospiciens per cancellos.
+9 similis est dilectus meus capreae, hinnuloque cervorum. en ipse stat post parietem nostrum respiciens per fenestras, prospiciens per cancellos.
 
 10 En dilectus meus loquitur mihi: Surge, propera amica mea, columba mea, formosa mea, et veni.
 
@@ -29,13 +29,13 @@ draft: false
 
 12 Flores apparuerunt in terra nostra, tempus putationis advenit: vox turturis audita est in terra nostra:
 
-13 ficus protulit grossos suos: vineæ florentes dederunt odorem suum. Surge, amica mea, speciosa mea, et veni:
+13 ficus protulit grossos suos: vineae florentes dederunt odorem suum. Surge, amica mea, speciosa mea, et veni:
 
-14 columba mea in foraminibus petræ, in caverna maceriæ, ostende mihi faciem tuam, sonet vox tua in auribus meis: vox enim tua dulcis, et facies tua decora.
+14 columba mea in foraminibus petrae, in caverna maceriae, ostende mihi faciem tuam, sonet vox tua in auribus meis: vox enim tua dulcis, et facies tua decora.
 
-15 Capite nobis vulpes parvulas, quæ demoliuntur vineas: nam vinea nostra floruit.
+15 Capite nobis vulpes parvulas, quae demoliuntur vineas: nam vinea nostra floruit.
 
 16 Dilectus meus mihi, et ego illi, qui pascitur inter lilia
 
-17 donec aspiret dies, et inclinentur umbræ. Revertere: similis esto, dilecte mi, capreæ, hinnuloque cervorum super montes Bether.
+17 donec aspiret dies, et inclinentur umbrae. Revertere: similis esto, dilecte mi, capreae, hinnuloque cervorum super montes Bether.
 

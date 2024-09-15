@@ -9,7 +9,7 @@ summary: |
 ---
 
 
-1 Ainsi, comme Tobie croyait que sa prière était exaucée, et qu'il pourrait mourir, il appela vers lui Tobie, son fils, 2 Et lui dit : Ecoute, mon fils, les paroles de ma bouche, et pose-les dans ton cœur, comme un fondement. 3 Lorsque Dieu aura reçu mon âme, ensevelis mon corps; tu honoreras aussi ta mère tous les jours de sa vie ;
+1 Ainsi, comme Tobie croyait que sa prière était exaucée, et qu'il pourrait mourir, il appela vers lui Tobie, son fils, 2 Et lui dit : Ecoute, mon fils, les paroles de ma bouche, et pose-les dans ton coeur, comme un fondement. 3 Lorsque Dieu aura reçu mon âme, ensevelis mon corps; tu honoreras aussi ta mère tous les jours de sa vie ;
 
 ***Note*** :  Tobie 4, 3 : Voir Exode, 20, 12 ; Ecclésiastique, 7, 29.
 
@@ -25,7 +25,7 @@ summary: |
 
 ***Note*** :  Tobie 4, 8 : Voir Ecclésiastique, 35, 12.
 
-9 Si tu as beaucoup, donne abondamment; si tu as peu, même de ce peu, aie soin de donner de bon cœur. 10 Car tu t'amasseras ainsi le trésor d'une bonne récompense au jour de la nécessité, 11 Parce que l'aumône délivre de tout péché et de la mort, et qu'elle ne laissera point l'âme aller dans les ténèbres.
+9 Si tu as beaucoup, donne abondamment; si tu as peu, même de ce peu, aie soin de donner de bon coeur. 10 Car tu t'amasseras ainsi le trésor d'une bonne récompense au jour de la nécessité, 11 Parce que l'aumône délivre de tout péché et de la mort, et qu'elle ne laissera point l'âme aller dans les ténèbres.
 
 ***Note*** :  Tobie 4, 11 : Voir Ecclésiastique, 29, 15. ― Parce que l’aumône, etc. L’aumône faite avec de bonnes intentions nous mérite une augmentation de la grâce divine, et nous amène ainsi à la conversion et à la pénitence, qui nous délivre en effet de tout péché et nous sauve de la mort éternelle.
 

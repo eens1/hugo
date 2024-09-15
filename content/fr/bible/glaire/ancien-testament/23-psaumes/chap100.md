@@ -15,7 +15,7 @@ summary: |
 ***Note*** :  Ps. 100, 1-8 : Devoirs d’un roi exprimés sous forme de promesses. ― Psaume composé probablement au moment où le saint roi conçut le projet de transporter l’arche de la maison d’Obédédom à Jérusalem, voir 2 Rois, 6, verset 11 et suivants. ― Ce psaume est simplement composé de distiques.
 
 
-2 Et je m'appliquerai à comprendre une voie sans tache, quand vous viendrez vers moi. Je marchais dans l'innocence de mon cœur, dans l'intérieur de ma maison.
+2 Et je m'appliquerai à comprendre une voie sans tache, quand vous viendrez vers moi. Je marchais dans l'innocence de mon coeur, dans l'intérieur de ma maison.
 
 ***Note*** :  Ps. 100, 2 : Je m’appliquerai, etc. En vertu d’un hébraïsme, le verbe je comprendrai (intelligam) prend la signification de je m’appliquerai à comprendre, parce qu’au lieu de gouverner l’accusatif, comme il le devrait, en sa qualité de verbe actif, il se joint à son complément voie par l’intermédiaire de la préposition dans (in). Ainsi le sens est : Je m’appliquerai à vivre dans la pureté et dans l’innocence. ― Quand vous viendrez vers moi, pour m’éclairer et m’aider de votre grâce.
 
@@ -23,10 +23,10 @@ summary: |
 3 Je ne me proposais point devant les yeux de chose injuste : ceux qui commettaient des prévarications, je les ai haïs. Il ne s'est pas attaché à moi
 
 
-4 De cœur pervers : je ne connaissais pas le méchant qui s'éloignait de moi.
+4 De coeur pervers : je ne connaissais pas le méchant qui s'éloignait de moi.
 
 
-5 Celui qui en secret disait du mal de son prochain, je le poursuivais. L'homme à l'œil superbe, et au cœur insatiable, je ne mangeais pas avec lui.
+5 Celui qui en secret disait du mal de son prochain, je le poursuivais. L'homme à l'oeil superbe, et au coeur insatiable, je ne mangeais pas avec lui.
 
 
 6 Mes yeux étaient sur les fidèles de la terre, afin qu'ils fussent assis près de moi : celui qui marchait dans une voie sans tache était celui qui me servait.

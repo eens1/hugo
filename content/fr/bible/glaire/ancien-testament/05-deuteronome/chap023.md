@@ -7,7 +7,7 @@ summary: |
   Personnes qu’on ne devait point admettre dans l’assemblée du Seigneur.
   Pureté du camp.
   Usure.
-  Vœux.
+  Voeux.
 ---
 
 
@@ -44,7 +44,7 @@ summary: |
 19 Tu ne prêteras à usure à ton frère, ni argent, ni grains, ni quelque autre chose que ce soit ;
 
 
-20 Mais à l'étranger. Quant à ton frère, ce sera sans usure, que tu lui prêteras ce dont il aura besoin, afin que le Seigneur ton Dieu te bénisse en toutes tes œuvres, dans la terre dans laquelle tu entreras pour la posséder. 21 Lorsque tu auras voué un vœu au Seigneur ton Dieu, tu ne tarderas point à l'acquitter, parce que le Seigneur ton Dieu te le redemandera; et si tu diffères il te sera imputé à péché.
+20 Mais à l'étranger. Quant à ton frère, ce sera sans usure, que tu lui prêteras ce dont il aura besoin, afin que le Seigneur ton Dieu te bénisse en toutes tes oeuvres, dans la terre dans laquelle tu entreras pour la posséder. 21 Lorsque tu auras voué un voeu au Seigneur ton Dieu, tu ne tarderas point à l'acquitter, parce que le Seigneur ton Dieu te le redemandera; et si tu diffères il te sera imputé à péché.
 
 
 22 Si tu ne veux point promettre, tu seras sans péché. 23 Mais ce qui une fois est sorti de tes lèvres, tu l'observeras, et tu feras comme tu as promis au Seigneur ton Dieu ; car tu as parlé par ta propre volonté et par ta bouche. 24 Entré dans la vigne de ton prochain, mange des raisins autant qu'il te plaira ; mais n'en emporte point dehors avec toi.

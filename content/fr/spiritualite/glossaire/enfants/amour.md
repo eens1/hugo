@@ -17,7 +17,7 @@ draft: false
 
 >> — que la ruine des enfants, à son tour, est une cause d'éternelle damnation pour les parents; ce sera le second point. 
 
-> Ah ! si je pouvais graver cette vérité importante dans les cœurs de tous les chefs de famille, on verrait, non-seulement les familles, mais les villes et les villages réformés, et par suite le monde entier sanctiﬁé. Je le désire, mais je n'ose l'espérer; car aujourd'hui l'éducation des enfants, d'où dépend l'avenir de la société, passe pour une affaire sans importance, pour une œuvre de surérogation, pour un casse-tête superﬂu. 
+> Ah ! si je pouvais graver cette vérité importante dans les coeurs de tous les chefs de famille, on verrait, non-seulement les familles, mais les villes et les villages réformés, et par suite le monde entier sanctifié. Je le désire, mais je n'ose l'espérer; car aujourd'hui l'éducation des enfants, d'où dépend l'avenir de la société, passe pour une affaire sans importance, pour une oeuvre de surérogation, pour un casse-tête superflu. 
 
 > Réveillez-vous donc aujourd'hui, pères et mères, oncles et grands-pères, tuteurs, maîtres et patrons, et vous tous qui êtes compris en quelque manière sous la dénomination de parents; apprenez une bonne fois le mal immense que vous faites à vos enfants, à vos neveux, à ceux dont vous êtes chargés, en les élevant si mal, et l'abîme que vous vous creusez à vous mêmes par une telle éducation...
 

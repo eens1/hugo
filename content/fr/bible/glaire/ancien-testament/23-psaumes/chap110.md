@@ -10,12 +10,12 @@ summary: |
 ---
 
 
-1 Je vous louerai, Seigneur, en tout mon cœur; en conseil des justes et en assemblée.
+1 Je vous louerai, Seigneur, en tout mon coeur; en conseil des justes et en assemblée.
 
 ***Note*** :  Ps. 110, 1 : En conseil des justes ; c’est-à-dire leur société particulière. ― En assemblée ; dans des réunions publiques.
 
 
-2 Grandes sont les œuvres du Seigneur; parfaitement conformes à toutes ses volontés.
+2 Grandes sont les oeuvres du Seigneur; parfaitement conformes à toutes ses volontés.
 
 ***Note*** :  Ps. 110, 2 : Parfaitement conformes, etc. ; littéralement recherchées (exquisita) par le Seigneur pour toutes ses volontés.
 
@@ -27,7 +27,7 @@ summary: |
 
 ***Note*** :  Ps. 110, 5 : Une nourriture ; la manne donnée aux Israélites dans le désert ; mais dans le sens spirituel, le Verbe fait chair, l’Eucharistie, la parole de Dieu.
 
-6 Il annoncera la puissance de ses œuvres à son peuple, 7 Afin de leur donner l'héritage des nations : les œuvres de ses mains sont vérité et justice. 8 Tous ses commandements sont fidèles, confirmés dans les siècles des siècles, faits selon la vérité et l'équité. 9 Il a envoyé la rédemption à son peuple : il a établi pour l'éternité son alliance. Saint et terrible est son nom ;
+6 Il annoncera la puissance de ses oeuvres à son peuple, 7 Afin de leur donner l'héritage des nations : les oeuvres de ses mains sont vérité et justice. 8 Tous ses commandements sont fidèles, confirmés dans les siècles des siècles, faits selon la vérité et l'équité. 9 Il a envoyé la rédemption à son peuple : il a établi pour l'éternité son alliance. Saint et terrible est son nom ;
 
 ***Note*** :  Ps. 110, 9 : La rédemption faite par Moïse en faveur des anciens Hébreux, et celle de Cyrus en faveur (? ) Rédemption de Jésus-Christ en faveur de tout le genre humain.
 

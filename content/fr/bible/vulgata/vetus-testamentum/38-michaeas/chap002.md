@@ -5,15 +5,15 @@ draft: false
 ---
 
 
-1 Væ qui cogitatis inutile, et operamini malum in cubilibus vestris: in luce matutina faciunt illud, quoniam contra Deum est manus eorum.
+1 Vae qui cogitatis inutile, et operamini malum in cubilibus vestris: in luce matutina faciunt illud, quoniam contra Deum est manus eorum.
 
 2 Et concupierunt agros, et violenter tulerunt, et rapuerunt domos: et calumniabantur virum, et domum eius, virum, et hereditatem eius.
 
-3 Idcirco hæc dicit Dominus: Ecce ego cogito super familiam istam malum: unde non auferetis colla vestra, et non ambulabitis superbi, quoniam tempus pessimum est.
+3 Idcirco haec dicit Dominus: Ecce ego cogito super familiam istam malum: unde non auferetis colla vestra, et non ambulabitis superbi, quoniam tempus pessimum est.
 
 4 In die illa sumetur super vos parabola, et cantabitur canticum cum suavitate, dicentium: Depopulatione vastati sumus: pars populi mei commutata est: quomodo recedet a me, cum revertatur, qui regiones nostras dividat?
 
-5 Propter hoc non erit tibi mittens funiculum sortis in cœtu Domini.
+5 Propter hoc non erit tibi mittens funiculum sortis in coetu Domini.
 
 6 Ne loquamini loquentes: Non stillabit super istos, non comprehendet confusio.
 

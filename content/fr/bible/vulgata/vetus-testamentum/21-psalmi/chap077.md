@@ -11,7 +11,7 @@ draft: false
 
 3 Quanta audivimus et cognovimus ea: et patres nostri narraverunt nobis.
 
-4 Non sunt occultata a filiis eorum, in generatione altera. Narrantes laudes Domini, et virtutes eius, et mirabilia eius quæ fecit.
+4 Non sunt occultata a filiis eorum, in generatione altera. Narrantes laudes Domini, et virtutes eius, et mirabilia eius quae fecit.
 
 5 Et suscitavit testimonium in Iacob: et legem posuit in Israel. Quanta mandavit patribus nostris nota facere ea filiis suis:
 
@@ -19,15 +19,15 @@ draft: false
 
 7 Ut ponant in Deo spem suam, et non obliviscantur operum Dei: et mandata eius exquirant.
 
-8 Ne fiant sicut patres eorum: generatio prava et exasperans. Generatio, quæ non direxit cor suum: et non est creditus cum Deo spiritus eius.
+8 Ne fiant sicut patres eorum: generatio prava et exasperans. Generatio, quae non direxit cor suum: et non est creditus cum Deo spiritus eius.
 
 9 Filii Ephrem intendentes et mittentes arcum: conversi sunt in die belli.
 
 10 Non custodierunt testamentum Dei, et in lege eius noluerunt ambulare.
 
-11 Et obliti sunt benefactorum eius, et mirabilium eius quæ ostendit eis.
+11 Et obliti sunt benefactorum eius, et mirabilium eius quae ostendit eis.
 
-12 Coram patribus eorum fecit mirabilia in terra Ægypti, in campo Taneos.
+12 Coram patribus eorum fecit mirabilia in terra AEgypti, in campo Taneos.
 
 13 Interrupit mare, et perduxit eos: et statuit aquas quasi in utre.
 
@@ -43,19 +43,19 @@ draft: false
 
 19 Et male locuti sunt de Deo: dixerunt: Numquid poterit Deus parare mensam in deserto?
 
-20 Quoniam percussit petram, et fluxerunt aquæ, et torrentes inundaverunt. Numquid et panem poterit dare, aut parare mensam populo suo?
+20 Quoniam percussit petram, et fluxerunt aquae, et torrentes inundaverunt. Numquid et panem poterit dare, aut parare mensam populo suo?
 
 21 Ideo audivit Dominus, et distulit: et ignis accensus est in Iacob, et ira ascendit in Israel:
 
 22 Quia non crediderunt in Deo, nec speraverunt in salutari eius:
 
-23 Et mandavit nubibus desuper, et ianuas cæli aperuit.
+23 Et mandavit nubibus desuper, et ianuas caeli aperuit.
 
-24 Et pluit illis manna ad manducandum, et panem cæli dedit eis.
+24 Et pluit illis manna ad manducandum, et panem caeli dedit eis.
 
 25 Panem angelorum manducavit homo: cibaria misit eis in abundantia.
 
-26 Transtulit Austrum de cælo: et induxit in virtute sua Africum.
+26 Transtulit Austrum de caelo: et induxit in virtute sua Africum.
 
 27 Et pluit super eos sicut pulverem carnes, et sicut arenam maris volatilia pennata.
 
@@ -63,7 +63,7 @@ draft: false
 
 29 Et manducaverunt et saturati sunt nimis, et desiderium eorum attulit eis:
 
-30 non sunt fraudati a desiderio suo. Adhuc escæ eorum erant in ore ipsorum,
+30 non sunt fraudati a desiderio suo. Adhuc escae eorum erant in ore ipsorum,
 
 31 et ira Dei ascendit super eos. Et occidit pingues eorum, et electos Israel impedivit.
 
@@ -71,7 +71,7 @@ draft: false
 
 33 Et defecerunt in vanitate dies eorum: et anni eorum cum festinatione.
 
-34 Cum occideret eos, quærebant eum: et revertebantur, et diluculo veniebant ad eum.
+34 Cum occideret eos, quaerebant eum: et revertebantur, et diluculo veniebant ad eum.
 
 35 Et rememorati sunt quia Deus adiutor est eorum: et Deus excelsus redemptor eorum est.
 
@@ -89,29 +89,29 @@ draft: false
 
 42 Non sunt recordati manus eius, die qua redemit eos de manu tribulantis,
 
-43 Sicut posuit in Ægypto signa sua, et prodigia sua in campo Taneos.
+43 Sicut posuit in AEgypto signa sua, et prodigia sua in campo Taneos.
 
 44 Et convertit in sanguinem flumina eorum, et imbres eorum, ne biberent.
 
-45 Misit in eos cœnomyiam, et comedit eos: et ranam, et disperdidit eos.
+45 Misit in eos coenomyiam, et comedit eos: et ranam, et disperdidit eos.
 
-46 Et dedit ærugini fructus eorum: et labores eorum locustæ.
+46 Et dedit aerugini fructus eorum: et labores eorum locustae.
 
 47 Et occidit in grandine vineas eorum: et moros eorum in pruina.
 
 48 Et tradidit grandini iumenta eorum: et possessionem eorum igni.
 
-49 Misit in eos iram indignationis suæ: indignationem, et iram, et tribulationem: immissiones per angelos malos.
+49 Misit in eos iram indignationis suae: indignationem, et iram, et tribulationem: immissiones per angelos malos.
 
-50 Viam fecit semitæ iræ suæ, non pepercit a morte animabus eorum: et iumenta eorum in morte conclusit.
+50 Viam fecit semitae irae suae, non pepercit a morte animabus eorum: et iumenta eorum in morte conclusit.
 
-51 Et percussit omne primogenitum in terra Ægypti: primitias omnis laboris eorum in tabernaculis Cham.
+51 Et percussit omne primogenitum in terra AEgypti: primitias omnis laboris eorum in tabernaculis Cham.
 
 52 Et abstulit sicut oves populum suum: et perduxit eos tamquam gregem in deserto.
 
 53 Et deduxit eos in spe, et non timuerunt: et inimicos eorum operuit mare.
 
-54 Et induxit eos in montem sanctificationis suæ, montem, quem acquisivit dextera eius. Et eiecit a facie eorum Gentes: et sorte divisit eis terram in funiculo distributionis.
+54 Et induxit eos in montem sanctificationis suae, montem, quem acquisivit dextera eius. Et eiecit a facie eorum Gentes: et sorte divisit eis terram in funiculo distributionis.
 
 55 Et habitare fecit in tabernaculis eorum tribus Israel.
 
@@ -119,7 +119,7 @@ draft: false
 
 57 Et averterunt se, et non servaverunt pactum: quemadmodum patres eorum, conversi sunt in arcum pravum.
 
-58 In iram concitaverunt eum in collibus suis: et in sculptilibus suis ad æmulationem eum provocaverunt.
+58 In iram concitaverunt eum in collibus suis: et in sculptilibus suis ad aemulationem eum provocaverunt.
 
 59 Audivit Deus, et sprevit: et ad nihilum redegit valde Israel.
 
@@ -129,9 +129,9 @@ draft: false
 
 62 Et conclusit in gladio populum suum: et hereditatem suam sprevit.
 
-63 Iuvenes eorum comedit ignis: et virgines eorum non sunt lamentatæ.
+63 Iuvenes eorum comedit ignis: et virgines eorum non sunt lamentatae.
 
-64 Sacerdotes eorum in gladio ceciderunt: et viduæ eorum non plorabantur.
+64 Sacerdotes eorum in gladio ceciderunt: et viduae eorum non plorabantur.
 
 65 Et excitatus est tamquam dormiens Dominus, tamquam potens crapulatus a vino.
 
@@ -141,9 +141,9 @@ draft: false
 
 68 Sed elegit tribum Iuda, montem Sion quem dilexit.
 
-69 Et ædificavit sicut unicornium sanctificium suum in terra, quam fundavit in sæcula.
+69 Et aedificavit sicut unicornium sanctificium suum in terra, quam fundavit in saecula.
 
-70 Et elegit David servum suum, et sustulit eum de gregibus ovium: de post fœtantes accepit eum.
+70 Et elegit David servum suum, et sustulit eum de gregibus ovium: de post foetantes accepit eum.
 
 71 Pascere Iacob servum suum, et Israel hereditatem suam:
 

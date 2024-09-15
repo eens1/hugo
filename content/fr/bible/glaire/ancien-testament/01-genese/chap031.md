@@ -22,7 +22,7 @@ summary: |
 
 ***Note*** :  Gn. 31, 9 : Dieu a pris le bien de votre père et me l’a donné. La même chose est répétée au verset 16. Dans le chapitre précédent, l’acquisition des richesses de Jacob est attribuée à son savoir-faire et à son travail. Le verset 42 du présent chapitre nous montre comment tout se concilie : Si Dieu… ne m’avait protégé, peut-être m’aurais-tu renvoyé nu, mais Dieu a regardé, c’est-à-dire béni mon travail.
 
-10 Car lorsque le temps de la conception des brebis fut venu, je levai mes yeux, et je vis en songe les mâles couvrant les femelles, mouchetés, tachetés, et de diverses couleurs. 11 Et l'ange de Dieu me dit en songe : Jacob. Et moi je répondis : Me voici. 12 Il ajouta : Lève les yeux et vois : tous les mâles couvrant les femelles sont mouchetés, tachetés et parsemés de marques de diverses couleurs; car j'ai vu tout ce que t'a fait Laban. 13 Je suis le Dieu de Béthel, où tu as oint une pierre, et où tu m'as voué un vœu. Maintenant donc lève-toi, sors de cette terre, retournant dans le pays de ta naissance.
+10 Car lorsque le temps de la conception des brebis fut venu, je levai mes yeux, et je vis en songe les mâles couvrant les femelles, mouchetés, tachetés, et de diverses couleurs. 11 Et l'ange de Dieu me dit en songe : Jacob. Et moi je répondis : Me voici. 12 Il ajouta : Lève les yeux et vois : tous les mâles couvrant les femelles sont mouchetés, tachetés et parsemés de marques de diverses couleurs; car j'ai vu tout ce que t'a fait Laban. 13 Je suis le Dieu de Béthel, où tu as oint une pierre, et où tu m'as voué un voeu. Maintenant donc lève-toi, sors de cette terre, retournant dans le pays de ta naissance.
 
 ***Note*** :  Gn. 31, 13 : Béthel. Voir Genèse, 13, 8.
 

@@ -9,7 +9,7 @@ draft: false
 
 2 In hac enim testimonium consecuti sunt senes.
 
-3 Fide intelligimus aptata esse sæcula verbo Dei: ut ex invisibilibus visibilia fierent.
+3 Fide intelligimus aptata esse saecula verbo Dei: ut ex invisibilibus visibilia fierent.
 
 4 Fide plurimam hostiam Abel, quam Cain, obtulit Deo, per quam testimonium consecutus est esse iustus, testimonium perhibente muneribus eius Deo, et per illam defunctus adhuc loquitur.
 
@@ -17,7 +17,7 @@ draft: false
 
 6 Sine fide autem impossibile est placere Deo. Credere enim oportet accedentem ad Deum quia est, et inquirentibus se remunerator sit.
 
-7 Fide Noe responso accepto de iis, quæ adhuc non videbantur, metuens aptavit arcam in salutem domus suæ, per quam damnavit mundum: et iustitiæ, quæ per fidem est, heres est institutus.
+7 Fide Noe responso accepto de iis, quae adhuc non videbantur, metuens aptavit arcam in salutem domus suae, per quam damnavit mundum: et iustitiae, quae per fidem est, heres est institutus.
 
 8 Fide qui vocatur Abraham obedivit in locum exire, quem accepturus erat in hereditatem: et exiit, nesciens quo iret.
 
@@ -25,17 +25,17 @@ draft: false
 
 10 Expectabat enim fundamenta habentem civitatem: cuius artifex, et conditor Deus.
 
-11 Fide et ipsa Sara sterilis virtutem in conceptionem seminis accepit, etiam præter tempus ætatis: quoniam fidelem credidit esse eum, qui repromiserat.
+11 Fide et ipsa Sara sterilis virtutem in conceptionem seminis accepit, etiam praeter tempus aetatis: quoniam fidelem credidit esse eum, qui repromiserat.
 
-12 Propter quod et ab uno orti sunt (et hoc emortuo) tamquam sidera cæli in multitudinem, et sicut arena, quæ est ad oram maris, innumerabilis.
+12 Propter quod et ab uno orti sunt (et hoc emortuo) tamquam sidera caeli in multitudinem, et sicut arena, quae est ad oram maris, innumerabilis.
 
 13 Iuxta fidem defuncti sunt omnes isti, non acceptis repromissionibus, sed a longe eas aspicientes, et salutantes, et confitentes quia peregrini, et hospites sunt super terram.
 
-14 Qui enim hæc dicunt, significant se patriam inquirere.
+14 Qui enim haec dicunt, significant se patriam inquirere.
 
 15 Et si quidem ipsius meminissent de qua exierunt, habebant utique tempus revertendi.
 
-16 nunc autem meliorem appetunt, id est, cælestem. Ideo non confunditur Deus vocari Deus eorum: paravit enim illis civitatem.
+16 nunc autem meliorem appetunt, id est, caelestem. Ideo non confunditur Deus vocari Deus eorum: paravit enim illis civitatem.
 
 17 Fide obtulit Abraham Isaac, cum tentaretur, et unigenitum offerebat, qui susceperat repromissiones;
 
@@ -45,23 +45,23 @@ draft: false
 
 20 Fide et de futuris benedixit Isaac Iacob, et Esau.
 
-21 Fide Iacob, moriens, singulos filiorum Ioseph benedixit: et adoravit fastigium virgæ eius.
+21 Fide Iacob, moriens, singulos filiorum Ioseph benedixit: et adoravit fastigium virgae eius.
 
 22 Fide Ioseph, moriens, de profectione filiorum Israel memoratus est, et de ossibus suis mandavit.
 
 23 Fide Moyses, natus, occultatus est mensibus tribus a parentibus suis, eo quod vidissent elegantem infantem, et non timuerunt regis edictum.
 
-24 Fide Moyses grandis factus negavit se esse filium filiæ Pharaonis,
+24 Fide Moyses grandis factus negavit se esse filium filiae Pharaonis,
 
 25 magis eligens affligi cum populo Dei, quam temporalis peccati habere iucunditatem,
 
-26 maiores divitias æstimans thesauro Ægyptiorum, improperium Christi: aspiciebat enim in remunerationem.
+26 maiores divitias aestimans thesauro AEgyptiorum, improperium Christi: aspiciebat enim in remunerationem.
 
-27 Fide reliquit Ægyptum, non veritus animositatem regis: invisibilem enim tamquam videns sustinuit.
+27 Fide reliquit AEgyptum, non veritus animositatem regis: invisibilem enim tamquam videns sustinuit.
 
 28 Fide celebravit pascha, et sanguinis effusionem: ne qui vastabat primitiva, tangeret eos.
 
-29 Fide transierunt Mare rubrum tamquam per aridam terram: quod experti Ægyptii, devorati sunt.
+29 Fide transierunt Mare rubrum tamquam per aridam terram: quod experti AEgyptii, devorati sunt.
 
 30 Fide muri Iericho corruerunt, circuitu dierum septem.
 
@@ -79,7 +79,7 @@ draft: false
 
 37 lapidati sunt, secti sunt, tentati sunt, in occisione gladii mortui sunt, circuierunt in melotis, in pellibus caprinis, egentes, angustiati, afflicti:
 
-38 quibus dignus non erat mundus: in solitudinibus errantes, in montibus, in speluncis, et in cavernis terræ.
+38 quibus dignus non erat mundus: in solitudinibus errantes, in montibus, in speluncis, et in cavernis terrae.
 
 39 Et hi omnes testimonio fidei probati, non acceperunt repromissionem,
 

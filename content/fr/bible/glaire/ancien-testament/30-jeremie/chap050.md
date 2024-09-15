@@ -79,7 +79,7 @@ summary: |
 28 Voix de ceux qui fuient, de ceux qui sont échappés de la terre de Babylone, afin qu'ils annoncent à Sion la vengeance du Seigneur, notre Dieu, la vengeance de son temple.
 
 
-29 Annoncez à tous ceux qui tendent l'arc en si grand nombre de marcher contre Babylone; tenez-vous contre elle tout au autour, et que personne n'échappe ; rendez-lui selon son œuvre ; selon tout ce qu'elle a fait, faites-lui, parce que c'est contre le Seigneur qu'elle s'est élevée, contre le saint d'Israël.
+29 Annoncez à tous ceux qui tendent l'arc en si grand nombre de marcher contre Babylone; tenez-vous contre elle tout au autour, et que personne n'échappe ; rendez-lui selon son oeuvre ; selon tout ce qu'elle a fait, faites-lui, parce que c'est contre le Seigneur qu'elle s'est élevée, contre le saint d'Israël.
 
 ***Note*** :  Jr. 50, 29 : Voir Jérémie, 51, 49.
 

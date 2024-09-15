@@ -11,19 +11,19 @@ summary: |
 ---
 
 
-1 Bienheureux le mari d'une femme de bien, car le nombre de ses années est doublé. 2 La femme forte fait la joie de son mari, et les années de sa vie, elle les remplira de paix. 3 C'est un bon partage qu'une femme de bien ; dans le partage de ceux qui craignent Dieu, elle sera donnée à un homme pour' ses bonnes actions. 4 Or, du riche et du pauvre le cœur sera content, et en tout temps leur visage sera gai.
+1 Bienheureux le mari d'une femme de bien, car le nombre de ses années est doublé. 2 La femme forte fait la joie de son mari, et les années de sa vie, elle les remplira de paix. 3 C'est un bon partage qu'une femme de bien ; dans le partage de ceux qui craignent Dieu, elle sera donnée à un homme pour' ses bonnes actions. 4 Or, du riche et du pauvre le coeur sera content, et en tout temps leur visage sera gai.
 
 
-5 Mon cœur a redouté trois choses, et à la quatrième, ma face a pâli de frayeur :6 La délation d'une cité, le rassemblement d'un peuple ;
+5 Mon coeur a redouté trois choses, et à la quatrième, ma face a pâli de frayeur :6 La délation d'une cité, le rassemblement d'un peuple ;
 
 ***Note*** :  Sir. 26, 6 : La délation d’une cité ; lorsqu’une cité tout entière accuse calomnieusement quelqu’un devant les juges. ― Le rassemblement séditieux.
 
 7 La calomnie mensongère ; toutes choses plus redoutables que la mort ;
 
 
-8 C'est une douleur de cœur et un deuil qu'une femme jalouse. 9 Dans une femme jalouse, la langue est un fléau qui se communique à tous. 10 Comme un joug de bœufs vacillant, ainsi est une femme méchante ; celui qui la possède est comme celui qui saisit un scorpion.
+8 C'est une douleur de coeur et un deuil qu'une femme jalouse. 9 Dans une femme jalouse, la langue est un fléau qui se communique à tous. 10 Comme un joug de boeufs vacillant, ainsi est une femme méchante ; celui qui la possède est comme celui qui saisit un scorpion.
 
-***Note*** :  Sir. 26, 10 : Un joug, etc. Les anciens n’attachaient pas le joug sur la tête ou aux cornes des bœufs, mais sur leur cou ; lorsqu’il n’était pas bien attaché, il remuait, vacillait. ― Un scorpion. Le scorpion a l’extrémité de sa queue armée d’un dard dont la piqûre envenimée est mortelle en Orient.
+***Note*** :  Sir. 26, 10 : Un joug, etc. Les anciens n’attachaient pas le joug sur la tête ou aux cornes des boeufs, mais sur leur cou ; lorsqu’il n’était pas bien attaché, il remuait, vacillait. ― Un scorpion. Le scorpion a l’extrémité de sa queue armée d’un dard dont la piqûre envenimée est mortelle en Orient.
 
 11 La femme qui s'enivre est le sujet d'une grande colère ; son affront et sa turpitude ne seront pas cachés. 12 La fornication d'une femme se reconnaîtra à ses yeux altiers, et à ses paupières.
 
@@ -54,7 +54,7 @@ summary: |
 
 ***Note*** :  Sir. 26, 23 : Le sens est que la femme vertueuse demeure ferme et inébranlable comme des colonnes d’or sur des bases d’argent.
 
-24 Des fondements éternels sont sur une pierre ferme, et les commandements de Dieu dans le cœur d'une femme sainte. 25 Par deux choses a été contristé mon cœur, et par la troisième le courroux m'est venu. 26 Un homme de guerre périssant par l'indigence, et un homme sensé méprisé; 27 Et celui qui passe de la justice au péché, Dieu l'a réservé pour l'épée à deux tranchants. 28 Deux choses m'ont paru difficiles et dangereuses; difficilement le négociant est exempt de négligence, et l'aubergiste ne sera pas justifié des péchés des lèvres.
+24 Des fondements éternels sont sur une pierre ferme, et les commandements de Dieu dans le coeur d'une femme sainte. 25 Par deux choses a été contristé mon coeur, et par la troisième le courroux m'est venu. 26 Un homme de guerre périssant par l'indigence, et un homme sensé méprisé; 27 Et celui qui passe de la justice au péché, Dieu l'a réservé pour l'épée à deux tranchants. 28 Deux choses m'ont paru difficiles et dangereuses; difficilement le négociant est exempt de négligence, et l'aubergiste ne sera pas justifié des péchés des lèvres.
 
 ***Note*** :  Sir. 26, 28 : Des péchés des lèvres ; c’est-à-dire des mensonges.
 

@@ -24,7 +24,7 @@ summary: |
 
 ***Note*** :  Ps. 19, 4 : Agréable ; littéralement gras. Plus les victimes étaient grasses, et plus on les croyait agréables à Dieu.
 
-5 Qu'il vous rende selon votre cœur, et qu'il confirme tous vos desseins.
+5 Qu'il vous rende selon votre coeur, et qu'il confirme tous vos desseins.
 
 
 6 Nous nous réjouirons de votre salut; et dans le nom de notre Dieu nous nous glorifierons.

@@ -55,15 +55,15 @@ summary: |
 ***Note*** :  Jr. 5, 19 : Voir Jérémie, 16, 10. ― Si vous dites. Ces mots s’adressent aux Juifs, et ceux-ci : Tu leur diras, au prophète.
 
 
-20 Annoncez ceci à la maison de Jacob, faites-le entendre dans Juda, disant :21 Ecoute, peuple insensé, qui n'as point de cœur ; vous qui ayant des yeux, ne voyez point; des oreilles, et n'entendez point.
+20 Annoncez ceci à la maison de Jacob, faites-le entendre dans Juda, disant :21 Ecoute, peuple insensé, qui n'as point de coeur ; vous qui ayant des yeux, ne voyez point; des oreilles, et n'entendez point.
 
-***Note*** :  Jr. 5, 21 : Cœur ; ou par hébraïsme, esprit, intelligence, sagesse.
+***Note*** :  Jr. 5, 21 : Coeur ; ou par hébraïsme, esprit, intelligence, sagesse.
 
 22 Ne me craindrez-vous donc pas, dit le Seigneur, et devant ma face ne serez-vous pas saisis de douleur? moi qui ai donné le sable pour borne à la mer, précepte éternel, qu'elle ne transgressera pas; ses flots s'agiteront et ils ne prévaudront pas; ils se soulèveront, et ils ne le dépasseront pas ;
 
-***Note*** :  Jr. 5, 22 : Ils ne le dépasseront pas (non transient illud). Le pronom le, étant au neutre dans la Vulgate, peut se rapporter également à mer (mare) ou à précepte (præceptum) ; mais le parallélisme semble le rapporter plutôt à précepte ; ce qu’ont fait d’ailleurs les Septante.
+***Note*** :  Jr. 5, 22 : Ils ne le dépasseront pas (non transient illud). Le pronom le, étant au neutre dans la Vulgate, peut se rapporter également à mer (mare) ou à précepte (praeceptum) ; mais le parallélisme semble le rapporter plutôt à précepte ; ce qu’ont fait d’ailleurs les Septante.
 
-23 Mais en ce peuple s'est formé un cœur incrédule et rebelle; ils se sont retirés, et s'en sont allés. 24 Et ils n'ont pas dit en leur cœur : Craignons le Seigneur notre Dieu, qui nous donne la pluie de la première et de l'arrière-saison en son temps, et qui nous conserve tous les ans une abondante moisson.
+23 Mais en ce peuple s'est formé un coeur incrédule et rebelle; ils se sont retirés, et s'en sont allés. 24 Et ils n'ont pas dit en leur coeur : Craignons le Seigneur notre Dieu, qui nous donne la pluie de la première et de l'arrière-saison en son temps, et qui nous conserve tous les ans une abondante moisson.
 
 ***Note*** :  Jr. 5, 24 : La pluie, etc. ; la pluie du printemps et celle de l’automne. Comparer à Deutéronome, 11, 14. ― Voir plus haut, Jérémie, 3, 3.
 

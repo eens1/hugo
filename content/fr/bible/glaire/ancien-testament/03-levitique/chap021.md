@@ -14,7 +14,7 @@ summary: |
 ***Note*** :  Lv. 21, 1 : On se souillait en approchant d’un mort, ou en le touchant, ou en l’ensevelissant.
 
 
-2 Or, il s'y souillera, à moins qu'il ne s'agisse seulement de ses consanguins et de ses proches, c'est-à-dire, de son père et de sa mère, de son fils et de sa fille, de son frère, 3 Et de sa sœur vierge, qui n'a pas été mariée à un homme ; 4 Mais il ne se souillera pas non plus pour le prince de son peuple.
+2 Or, il s'y souillera, à moins qu'il ne s'agisse seulement de ses consanguins et de ses proches, c'est-à-dire, de son père et de sa mère, de son fils et de sa fille, de son frère, 3 Et de sa soeur vierge, qui n'a pas été mariée à un homme ; 4 Mais il ne se souillera pas non plus pour le prince de son peuple.
 
 
 5 Ils ne raseront point leur tête, ni leur barbe, et dans leur chair ils ne feront point d'incisions.
@@ -49,7 +49,7 @@ summary: |
 ***Note*** :  Lv. 21, 17 : Une tache sur le corps, ou une difformité sensible.
 
 
-18 Et il ne s'approchera point de son ministère, s'il est aveugle, s'il est boiteux, s'il a le nez petit, ou grand, ou tordu, 19 S'il a le pied rompu ou la main, 20 S'il est bossu, s'il est chassieux, s'il a une taie sur l'œil, s'il a une gale continue, ou une dartre vive sur le corps, ou une hernie. 21 Quiconque de la race d'Aaron, le prêtre, aura une tache, ne s'approchera point pour offrir des hosties au Seigneur, ni des pains à son Dieu :22 Il mangera néanmoins des pains qui sont offerts dans le sanctuaire, 23 De telle sorte seulement, qu'il n'entre pas au dedans du voile, et qu'il ne s'approche pas de l'autel, parce qu'il a une tache et qu'il ne doit point souiller mon sanctuaire. Je suis le Seigneur qui vous sanctifie.
+18 Et il ne s'approchera point de son ministère, s'il est aveugle, s'il est boiteux, s'il a le nez petit, ou grand, ou tordu, 19 S'il a le pied rompu ou la main, 20 S'il est bossu, s'il est chassieux, s'il a une taie sur l'oeil, s'il a une gale continue, ou une dartre vive sur le corps, ou une hernie. 21 Quiconque de la race d'Aaron, le prêtre, aura une tache, ne s'approchera point pour offrir des hosties au Seigneur, ni des pains à son Dieu :22 Il mangera néanmoins des pains qui sont offerts dans le sanctuaire, 23 De telle sorte seulement, qu'il n'entre pas au dedans du voile, et qu'il ne s'approche pas de l'autel, parce qu'il a une tache et qu'il ne doit point souiller mon sanctuaire. Je suis le Seigneur qui vous sanctifie.
 
 
 24 Moïse dit donc à Aaron, à ses fils et à tout Israël tout ce qui lui avait été commandé.

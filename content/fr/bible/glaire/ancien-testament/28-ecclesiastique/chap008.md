@@ -17,7 +17,7 @@ summary: |
 ***Note*** :  Sir. 8, 2 : Ne dispute pas, etc. Comparer à Matthieu, 25, 25.
 
 
-3 Car l'or et l'argent ont perdu bien des gens, et leur pouvoir s'étend jusqu'au cœur des rois pour le changer.
+3 Car l'or et l'argent ont perdu bien des gens, et leur pouvoir s'étend jusqu'au coeur des rois pour le changer.
 
 ***Note*** :  Sir. 8, 3 : L’or et l’argent, etc. Comparer à Ecclésiastique, 31, 6.
 
@@ -81,5 +81,5 @@ summary: |
 
 ***Note*** :  Sir. 8, 19 : Avec un homme colère, etc. Comparer à Proverbes, 22, 24.
 
-20 Avec les fous, ne tiens pas conseil, car ils ne pourront aimer que ce qui leur plaît. 21 Devant un étranger, ne tiens pas conseil; car tu ne sais pas ce qu'il enfantera. 22 Ne découvre pas à tout homme ton cœur, de peur qu'il ne te témoigne une amitié fausse, et qu'ensuite il ne t'injurie.
+20 Avec les fous, ne tiens pas conseil, car ils ne pourront aimer que ce qui leur plaît. 21 Devant un étranger, ne tiens pas conseil; car tu ne sais pas ce qu'il enfantera. 22 Ne découvre pas à tout homme ton coeur, de peur qu'il ne te témoigne une amitié fausse, et qu'ensuite il ne t'injurie.
 

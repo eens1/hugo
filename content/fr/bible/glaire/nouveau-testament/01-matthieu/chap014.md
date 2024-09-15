@@ -39,7 +39,7 @@ mourut. ― Philippe, le mari légitime d’Hérodiade, fils d’Hérode le Gran
 
 8 Mais elle, instruite à l'avance par sa mère : Donnez-moi, dit-elle, ici dans un bassin, la tête de Jean-Baptiste. 9 Et le roi fut contristé ; cependant à cause du serment et de ceux qui étaient à table avec lui, il commanda qu'on la lui donnât. 10 Et il envoya décapiter Jean dans la prison.
 
-***Note*** :  Matth. 14, 10 : Dans la prison. Josèphe nous apprend que saint Jean-Baptiste était emprisonné à Machéronte (Machærus, aujourd’hui M’Kaur), à l’est de la mer Morte. C’était une forteresse construite par Alexandre fils d’Hyrcan Ier . Hérode le Grand en avait fait la place la plus forte de la Pérée. La citadelle, située sur une colline de rochers très élevés, au milieu de vallées profondes, était entourée d’une enceinte haute de 160 coudées, qui enfermaient le palais royal. Elle est à 1158 mètres au-dessus de la mer Morte, à 764 mètres au-dessus de la Méditerranée.
+***Note*** :  Matth. 14, 10 : Dans la prison. Josèphe nous apprend que saint Jean-Baptiste était emprisonné à Machéronte (Machaerus, aujourd’hui M’Kaur), à l’est de la mer Morte. C’était une forteresse construite par Alexandre fils d’Hyrcan Ier . Hérode le Grand en avait fait la place la plus forte de la Pérée. La citadelle, située sur une colline de rochers très élevés, au milieu de vallées profondes, était entourée d’une enceinte haute de 160 coudées, qui enfermaient le palais royal. Elle est à 1158 mètres au-dessus de la mer Morte, à 764 mètres au-dessus de la Méditerranée.
 
 11 Et sa tête fut apportée dans un bassin, et donnée à la jeune fille, qui la porta à sa mère. 12 Or ses disciples étant venus prirent son corps et l'ensevelirent; puis ils vinrent l'annoncer à Jésus.
 

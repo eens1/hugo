@@ -11,7 +11,7 @@ summary: |
 
 1 Grands sont vos jugements, Seigneur, et inexprimables vos paroles : à cause de cela les âmes sans science se sont égarées.
 
-***Note*** :  Sg. 17, 1 : Inexprimables (inenarrabilia) ; ou difficiles à exposer, à expliquer, comme porte le texte grec. ― Les âmes sans science ; littéralement indisciplinées (indisciplinatæ) ; mais il faut se rappeler que dans l’Ecriture, et surtout dans les Livres sapientiaux, le mot disciplina s’emploie fréquemment pour science ; aussi le grec porte-t-il ici sans instruction, sans éducation. Or ces âmes sans science, de même que les impies, mentionnés dans le verset suivant, désignent les Egyptiens.
+***Note*** :  Sg. 17, 1 : Inexprimables (inenarrabilia) ; ou difficiles à exposer, à expliquer, comme porte le texte grec. ― Les âmes sans science ; littéralement indisciplinées (indisciplinatae) ; mais il faut se rappeler que dans l’Ecriture, et surtout dans les Livres sapientiaux, le mot disciplina s’emploie fréquemment pour science ; aussi le grec porte-t-il ici sans instruction, sans éducation. Or ces âmes sans science, de même que les impies, mentionnés dans le verset suivant, désignent les Egyptiens.
 
 
 2 Tandis que les impies se sont persuadés qu'ils pouvaient dominer la nation sainte, enchaînés par les liens des ténèbres et d'une longue nuit; enfermés sous leurs toits; fuyant l'éternelle Providence, ils ont été abattus.

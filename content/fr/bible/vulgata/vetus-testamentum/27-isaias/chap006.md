@@ -5,15 +5,15 @@ draft: false
 ---
 
 
-1 In anno, quo mortuus est rex Ozias, vidi Dominum sedentem super solium excelsum et elevatum: et ea, quæ sub ipso erant, replebant templum:
+1 In anno, quo mortuus est rex Ozias, vidi Dominum sedentem super solium excelsum et elevatum: et ea, quae sub ipso erant, replebant templum:
 
-2 Seraphim stabant super illud: sex alæ uni, et sex alæ alteri: duabus velabant faciem eius, et duabus velabant pedes eius, et duabus volabant.
+2 Seraphim stabant super illud: sex alae uni, et sex alae alteri: duabus velabant faciem eius, et duabus velabant pedes eius, et duabus volabant.
 
 3 Et clamabant alter ad alterum, et dicebant: Sanctus, sanctus, sanctus, Dominus Deus exercituum, plena est omnis terra gloria eius.
 
 4 Et commota sunt superliminaria cardinum a voce clamantis, et domus repleta est fumo.
 
-5 Et dixi: Væ mihi, quia tacui, quia vir pollutus labiis ego sum, et in medio populi polluta labia habentis ego habito, et regem Dominum exercituum vidi oculis meis.
+5 Et dixi: Vae mihi, quia tacui, quia vir pollutus labiis ego sum, et in medio populi polluta labia habentis ego habito, et regem Dominum exercituum vidi oculis meis.
 
 6 Et volavit ad me unus de Seraphim, et in manu eius calculus, quem forcipe tulerat de altari.
 
@@ -23,11 +23,11 @@ draft: false
 
 9 Et dixit: Vade, et dices populo huic: Audite audientes, et nolite intelligere: et videte visionem, et nolite cognoscere.
 
-10 Excæca cor populi huius, et aures eius aggrava: et oculos eius claude: ne forte videat oculis suis, et auribus suis audiat, et corde suo intelligat, et convertatur, et sanem eum.
+10 Excaeca cor populi huius, et aures eius aggrava: et oculos eius claude: ne forte videat oculis suis, et auribus suis audiat, et corde suo intelligat, et convertatur, et sanem eum.
 
 11 Et dixi: Usquequo Domine? et dixit: Donec desolentur civitates absque habitatore, et domus sine homine, et terra relinquetur deserta.
 
-12 Et longe faciet Dominus homines, et multiplicabitur quæ derelicta fuerat in medio terræ.
+12 Et longe faciet Dominus homines, et multiplicabitur quae derelicta fuerat in medio terrae.
 
-13 Et adhuc in ea decimatio, et convertetur, et erit in ostensionem sicut terebinthus, et sicut quercus, quæ expandit ramos suos: semen sanctum erit id, quod steterit in ea.
+13 Et adhuc in ea decimatio, et convertetur, et erit in ostensionem sicut terebinthus, et sicut quercus, quae expandit ramos suos: semen sanctum erit id, quod steterit in ea.
 

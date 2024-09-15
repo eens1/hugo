@@ -40,9 +40,9 @@ summary: |
 7 Renversez les impies, ils ne seront plus; mais la maison du juste demeurera à jamais.
 
 
-8 C'est par sa doctrine que sera connu un homme; mais celui qui est vain et sans cœur sera ouvert au mépris.
+8 C'est par sa doctrine que sera connu un homme; mais celui qui est vain et sans coeur sera ouvert au mépris.
 
-***Note*** :  Prov. 12, 8 : Sans cœur (excors) ; a le même sens que vecors. Voir Proverbes, 7, 7. ― Ouvert ; entièrement exposé.
+***Note*** :  Prov. 12, 8 : Sans coeur (excors) ; a le même sens que vecors. Voir Proverbes, 7, 7. ― Ouvert ; entièrement exposé.
 
 
 9 Mieux vaut un pauvre se suffisant à lui-même, qu'un glorieux qui manque de pain.
@@ -68,7 +68,7 @@ Celui à qui il est doux de passer le temps à boire du vin laisse dans ses fort
 ***Note*** :  Prov. 12, 12 : Est l’appui de plus méchants ; est de trouver un appui dans les plus méchants ; de s’en faire un rempart (munimen), afin que, joint à eux, il n’en devienne que plus formidable.
 
 
-13 A cause du péché de ses lèvres, la ruine s'approche du méchant; mais le juste échappera à l'angoisse. 14 En vertu du fruit de sa bouche, chacun sera rempli de biens, et selon les œuvres de ses mains il lui sera rendu.
+13 A cause du péché de ses lèvres, la ruine s'approche du méchant; mais le juste échappera à l'angoisse. 14 En vertu du fruit de sa bouche, chacun sera rempli de biens, et selon les oeuvres de ses mains il lui sera rendu.
 
 ***Note*** :  Prov. 12, 14 : En vertu du fruit, etc. ; c’est-à-dire en vertu des sages discours sortis de sa bouche, chacun sera comblé de biens.
 
@@ -84,7 +84,7 @@ Celui à qui il est doux de passer le temps à boire du vin laisse dans ses fort
 ***Note*** :  Prov. 12, 19 : Sera ferme à perpétuité ; ne se démentira jamais.
 
 
-20 La fraude est dans le cœur de ceux qui pensent des choses mauvaises; mais ceux qui entrent dans des conseils de paix, la joie les suit.
+20 La fraude est dans le coeur de ceux qui pensent des choses mauvaises; mais ceux qui entrent dans des conseils de paix, la joie les suit.
 
 
 21 Rien ne contristera le juste, quoi qu'il lui arrive : mais les impies seront remplis de maux.
@@ -93,7 +93,7 @@ Celui à qui il est doux de passer le temps à boire du vin laisse dans ses fort
 22 C'est une abomination pour le Seigneur, que des lèvres menteuses; mais ceux qui sincèrement agissent lui plaisent.
 
 
-23 Un homme habile cache sa science; et le cœur des insensés publie leur folie.
+23 Un homme habile cache sa science; et le coeur des insensés publie leur folie.
 
 ***Note*** :  Prov. 12, 23-28 : Six sentences mettent sous les yeux l’opposition qui existe entre le sage et l’insensé, l’homme actif et le paresseux.
 
@@ -103,7 +103,7 @@ Celui à qui il est doux de passer le temps à boire du vin laisse dans ses fort
 ***Note*** :  Prov. 12, 24 : Sera soumise aux tributs, à la corvée, à des travaux imposés.
 
 
-25 La tristesse dans le cœur d'un homme l'humiliera; et par une bonne parole il sera réjoui.
+25 La tristesse dans le coeur d'un homme l'humiliera; et par une bonne parole il sera réjoui.
 
 
 26 Celui qui néglige un dommage à cause d'un ami est juste; mais le chemin des impies les trompera.

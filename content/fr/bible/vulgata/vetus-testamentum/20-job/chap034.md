@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Pronuntians itaque Eliu, etiam hæc locutus est:
+1 Pronuntians itaque Eliu, etiam haec locutus est:
 
 2 Audite sapientes verba mea, et eruditi auscultate me:
 
@@ -47,7 +47,7 @@ draft: false
 
 21 Oculi enim eius super vias hominum, et omnes gressus eorum considerat.
 
-22 Non sunt tenebræ, et non est umbra mortis, ut abscondantur ibi qui operantur iniquitatem.
+22 Non sunt tenebrae, et non est umbra mortis, ut abscondantur ibi qui operantur iniquitatem.
 
 23 Neque enim ultra in hominis potestate est, ut veniat ad Deum in iudicium.
 
@@ -69,7 +69,7 @@ draft: false
 
 32 Si erravi, tu doce me: si iniquitatem locutus sum, ultra non addam.
 
-33 Numquid a te Deus expetit eam, quia displicuit tibi? tu enim cœpisti loqui, et non ego: quod si quid nosti melius, loquere.
+33 Numquid a te Deus expetit eam, quia displicuit tibi? tu enim coepisti loqui, et non ego: quod si quid nosti melius, loquere.
 
 34 Viri intelligentes loquantur mihi, et vir sapiens audiat me.
 

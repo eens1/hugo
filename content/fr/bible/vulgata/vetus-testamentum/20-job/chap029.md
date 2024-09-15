@@ -11,7 +11,7 @@ draft: false
 
 3 Quando splendebat lucerna eius super caput meum, et ad lumen eius ambulabam in tenebris?
 
-4 Sicut fui in diebus adolescentiæ meæ, quando secreto Deus erat in tabernaculo meo?
+4 Sicut fui in diebus adolescentiae meae, quando secreto Deus erat in tabernaculo meo?
 
 5 Quando erat Omnipotens mecum: et in circuitu meo pueri mei?
 
@@ -23,21 +23,21 @@ draft: false
 
 9 Principes cessabant loqui, et digitum superponebant ori suo.
 
-10 Vocem suam cohibebant duces, et lingua eorum gutturi suo adhærebat.
+10 Vocem suam cohibebant duces, et lingua eorum gutturi suo adhaerebat.
 
 11 Auris audiens beatificabat me, et oculus videns testimonium reddebat mihi.
 
 12 Eo quod liberassem pauperem vociferantem, et pupillum, cui non esset adiutor.
 
-13 Benedictio perituri super me veniebat, et cor viduæ consolatus sum.
+13 Benedictio perituri super me veniebat, et cor viduae consolatus sum.
 
 14 Iustitia indutus sum: et vestivi me, sicut vestimento et diademate, iudicio meo.
 
-15 Oculus fui cæco, et pes claudo.
+15 Oculus fui caeco, et pes claudo.
 
 16 Pater eram pauperum: et causam quam nesciebam, diligentissime investigabam.
 
-17 Conterebam molas iniqui, et de dentibus illius auferebam prædam.
+17 Conterebam molas iniqui, et de dentibus illius auferebam praedam.
 
 18 Dicebamque: In nidulo meo moriar, et sicut palma multiplicabo dies.
 
@@ -53,5 +53,5 @@ draft: false
 
 24 Siquando ridebam ad eos, non credebant, et lux vultus mei non cadebat in terram.
 
-25 Si voluissem ire ad eos, sedebam primus: cumque sederem quasi rex, circumstante exercitu, eram tamen mœrentium consolator.
+25 Si voluissem ire ad eos, sedebam primus: cumque sederem quasi rex, circumstante exercitu, eram tamen moerentium consolator.
 

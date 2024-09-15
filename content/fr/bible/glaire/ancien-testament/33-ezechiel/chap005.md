@@ -45,7 +45,7 @@ summary: |
 ***Note*** :  Éz. 5, 10 : Des pères mangeront leurs enfants. Voir Lamentations, 4, 10.
 
 
-11 C'est pourquoi je vis, moi, dit le Seigneur Dieu ; si, parce que tu as violé mon sanctuaire par toutes tes offenses et par toutes tes abominations, je ne te brise pas, moi aussi; et mon œil n'épargnera pas, et je n'aurai pas de pitié.
+11 C'est pourquoi je vis, moi, dit le Seigneur Dieu ; si, parce que tu as violé mon sanctuaire par toutes tes offenses et par toutes tes abominations, je ne te brise pas, moi aussi; et mon oeil n'épargnera pas, et je n'aurai pas de pitié.
 
 ***Note*** :  Éz. 5, 11 : Je vis, moi ; formule de serment. Voir Jérémie, 46, 18. ― Si je ne te brise pas ; pour je te briserai. Voir, sur les formules de serment, Psaumes, note 94. 11. Ainsi le sens est : Je jure par ma vie éternelle que je briserai.
 

@@ -9,7 +9,7 @@ summary: |
 ---
 
 
-1 Voilà que mon œil a vu toutes ces choses, et que mon oreille les a ouïes, et que je les ai comprises une à une. 2 Et je sais, moi aussi, selon votre science, et je ne suis point inférieur à vous.
+1 Voilà que mon oeil a vu toutes ces choses, et que mon oreille les a ouïes, et que je les ai comprises une à une. 2 Et je sais, moi aussi, selon votre science, et je ne suis point inférieur à vous.
 
 
 3 Mais cependant c'est au Tout-Puissant que je parlerai, et c'est avec Dieu que je désire m'entretenir, 4 En montrant auparavant que vous êtes des fabricateurs de mensonge et des défenseurs de maximes perverses. 5 Et plût à Dieu que vous gardiez le silence! Vous pourriez passer pour sages. 6 Ecoutez donc ma réprimande, et soyez attentifs au jugement de mes lèvres.
@@ -22,7 +22,7 @@ summary: |
 
 9 Ou cela lui plaira-t-il, lui à qui rien ne peut être caché? Ou bien sera-t-il trompé comme un homme par vos artifices? 10 Lui-même vous blâmera, parce qu'en secret vous faites acception de sa personne. 11 Aussitôt qu'il s'émouvra, il vous troublera, et sa terreur fondra sur vous. 12 Votre mémoire sera semblable à la cendre, et vos têtes superbes seront réduites en boue.
 
-***Note*** :  Job 13, 12 : Vos fêtes superbes ; littéralement vos cous (cervicas vestræ).
+***Note*** :  Job 13, 12 : Vos fêtes superbes ; littéralement vos cous (cervicas vestrae).
 
 
 13 Gardez un peu de temps le silence, afin que je dise tout ce que mon esprit me suggérera. 14 Pourquoi déchiré-je ma chair avec mes dents? Et pourquoi porté-je mon âme entre mes mains?

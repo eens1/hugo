@@ -19,21 +19,21 @@ draft: false
 
 7 Unde cum iuramento pollicitus est ei dare quodcumque postulasset ab eo.
 
-8 At illa præmonita a matre sua, Da mihi, inquit, hic in disco caput Ioannis Baptistæ.
+8 At illa praemonita a matre sua, Da mihi, inquit, hic in disco caput Ioannis Baptistae.
 
 9 Et contristatus est rex: propter iuramentum autem, et eos, qui pariter recumbebant, iussit dari.
 
 10 Misitque et decollavit Ioannem in carcere.
 
-11 Et allatum est caput eius in disco, et datum est puellæ, et attulit matri suæ.
+11 Et allatum est caput eius in disco, et datum est puellae, et attulit matri suae.
 
 12 Et accedentes discipuli eius, tulerunt corpus eius, et sepelierunt illud: et venientes nunciaverunt Iesu.
 
-13 Quod cum audisset Iesus, secessit inde in navicula, in locum desertum seorsum: et cum audissent turbæ, secutæ sunt eum pedestres de civitatibus.
+13 Quod cum audisset Iesus, secessit inde in navicula, in locum desertum seorsum: et cum audissent turbae, secutae sunt eum pedestres de civitatibus.
 
 14 Et exiens vidit turbam multam, et misertus est eis, et curavit languidos eorum.
 
-15 Vespere autem facto, accesserunt ad eum discipuli eius, dicentes: Desertus est locus, et hora iam præteriit: dimitte turbas, ut euntes in castella, emant sibi escas.
+15 Vespere autem facto, accesserunt ad eum discipuli eius, dicentes: Desertus est locus, et hora iam praeteriit: dimitte turbas, ut euntes in castella, emant sibi escas.
 
 16 Iesus autem dixit eis: Non habent necesse ire: date illis vos manducare.
 
@@ -41,13 +41,13 @@ draft: false
 
 18 Qui ait eis: Afferte mihi illos huc.
 
-19 Et cum iussisset turbam discumbere super fœnum, acceptis quinque panibus, et duobus piscibus, aspiciens in cælum benedixit, et fregit, et dedit discipulis panes, discipuli autem turbis.
+19 Et cum iussisset turbam discumbere super foenum, acceptis quinque panibus, et duobus piscibus, aspiciens in caelum benedixit, et fregit, et dedit discipulis panes, discipuli autem turbis.
 
 20 Et manducaverunt omnes, et saturati sunt. Et tulerunt reliquias, duodecim cophinos fragmentorum plenos.
 
 21 Manducantium autem fuit numerus, quinque millia virorum, exceptis mulieribus, et parvulis.
 
-22 Et statim compulit Iesus discipulos ascendere in naviculam, et præcedere eum trans fretum, donec dimitteret turbas.
+22 Et statim compulit Iesus discipulos ascendere in naviculam, et praecedere eum trans fretum, donec dimitteret turbas.
 
 23 Et dimissa turba, ascendit in montem solus orare. Vespere autem facto solus erat ibi.
 
@@ -55,7 +55,7 @@ draft: false
 
 25 Quarta enim vigilia noctis, venit ad eos ambulans super mare.
 
-26 Et videntes eum super mare ambulantem, turbati sunt, dicentes: Quia phantasma est. Et præ timore clamaverunt.
+26 Et videntes eum super mare ambulantem, turbati sunt, dicentes: Quia phantasma est. Et prae timore clamaverunt.
 
 27 Statimque Iesus locutus est eis, dicens: Habete fiduciam: ego sum, nolite timere.
 
@@ -63,9 +63,9 @@ draft: false
 
 29 At ipse ait: veni. Et descendens Petrus de navicula, ambulabat super aquam ut veniret ad Iesum.
 
-30 Videns vero ventum validum, timuit: et cum cœpisset mergi, clamavit dicens: Domine, salvum me fac.
+30 Videns vero ventum validum, timuit: et cum coepisset mergi, clamavit dicens: Domine, salvum me fac.
 
-31 Et continuo Iesus extendens manum, apprehendit eum: et ait illi: Modicæ fidei, quare dubitasti?
+31 Et continuo Iesus extendens manum, apprehendit eum: et ait illi: Modicae fidei, quare dubitasti?
 
 32 Et cum ascendissent in naviculam, cessavit ventus.
 

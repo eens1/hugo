@@ -31,22 +31,22 @@ summary: |
 16 De peur qu'ils ne portent l'iniquité de leur délit, lorsqu'ils auront mangé les choses sanctifiées. Je suis le Seigneur qui les sanctifie.
 
 
-17 Le Seigneur parla encore à Moïse, disant :18 Parle à Aaron, à ses fils et à tous les enfants d'Israël, et tu leur diras : Un homme de la maison d'Israël, et d'entre les étrangers qui habitent chez vous qui présente son oblation, ou acquittant des vœux, ou faisant une offrande spontanée, quoi que ce soit qu'il présente pour l'holocauste du Seigneur,
+17 Le Seigneur parla encore à Moïse, disant :18 Parle à Aaron, à ses fils et à tous les enfants d'Israël, et tu leur diras : Un homme de la maison d'Israël, et d'entre les étrangers qui habitent chez vous qui présente son oblation, ou acquittant des voeux, ou faisant une offrande spontanée, quoi que ce soit qu'il présente pour l'holocauste du Seigneur,
 
 
-19 Afin que ce soit présenté par vous, ce sera un mâle sans tache d'entre les bœufs, les brebis et les chèvres. 20 S'il a une tache, vous ne l'offrirez point, et il ne sera point acceptable.
+19 Afin que ce soit présenté par vous, ce sera un mâle sans tache d'entre les boeufs, les brebis et les chèvres. 20 S'il a une tache, vous ne l'offrirez point, et il ne sera point acceptable.
 
 
-21 Un homme qui offre une victime de sacrifices pacifiques au Seigneur, ou acquittant des vœux, ou faisant une offrande spontanée, tant de bœufs que de brebis, offrira un animal sans tache, afin qu'il soit acceptable : il n'y aura aucune tache en lui.
+21 Un homme qui offre une victime de sacrifices pacifiques au Seigneur, ou acquittant des voeux, ou faisant une offrande spontanée, tant de boeufs que de brebis, offrira un animal sans tache, afin qu'il soit acceptable : il n'y aura aucune tache en lui.
 
 ***Note*** :  Lv. 22, 21 : Voir Deutéronome, 15, 21 ; Ecclésiastique, 35, 14.
 
-22 S'il est aveugle, s'il a un membre rompu, ou une cicatrice, ou des pustules, ou la gale, ou le farcin : vous n'offrirez pas ces animaux au Seigneur, et vous n'en brûlerez point sur l'autel du Seigneur. 23 Tu pourras offrir volontairement un bœuf et une brebis, une oreille et la queue ayant été coupées ; mais un vœu ne peut être acquitté par leur moyen. 24 Vous n'offrirez au Seigneur aucun animal qui a l'organe générateur ou froissé, ou foulé, ou coupé, ou arraché; et en votre pays ne faites absolument point cela. 25 De la main de l'étranger vous n'offrirez point des pains à votre Dieu, ni toute autre chose qu'il voudra donner, parce que toutes ces choses sont corrompues et souillées : vous ne les recevrez point.
+22 S'il est aveugle, s'il a un membre rompu, ou une cicatrice, ou des pustules, ou la gale, ou le farcin : vous n'offrirez pas ces animaux au Seigneur, et vous n'en brûlerez point sur l'autel du Seigneur. 23 Tu pourras offrir volontairement un boeuf et une brebis, une oreille et la queue ayant été coupées ; mais un voeu ne peut être acquitté par leur moyen. 24 Vous n'offrirez au Seigneur aucun animal qui a l'organe générateur ou froissé, ou foulé, ou coupé, ou arraché; et en votre pays ne faites absolument point cela. 25 De la main de l'étranger vous n'offrirez point des pains à votre Dieu, ni toute autre chose qu'il voudra donner, parce que toutes ces choses sont corrompues et souillées : vous ne les recevrez point.
 
 
-26 Le Seigneur parla encore à Moïse, disant :27 Un bœuf, une brebis et une chèvre, lorsqu'ils seront nés, seront sept jours sous la mamelle de leur mère; mais au huitième jour et après, ils pourront être offerts au Seigneur.
+26 Le Seigneur parla encore à Moïse, disant :27 Un boeuf, une brebis et une chèvre, lorsqu'ils seront nés, seront sept jours sous la mamelle de leur mère; mais au huitième jour et après, ils pourront être offerts au Seigneur.
 
-***Note*** :  Lv. 22, 27-28 : Bœuf. Le mot étant épicène en hébreu, il désigne la vache aussi bien que le bœuf.
+***Note*** :  Lv. 22, 27-28 : Boeuf. Le mot étant épicène en hébreu, il désigne la vache aussi bien que le boeuf.
 
 
 28 Soit cette vache, soit cette brebis, elles ne seront pas immolées en un seul jour avec leurs petits.

@@ -21,9 +21,9 @@ draft: false
 
 8 vox Domini concutientis desertum: et commovebit Dominus desertum Cades.
 
-9 Vox Domini præparantis cervos, et revelabit condensa: et in templo eius omnes dicent gloriam.
+9 Vox Domini praeparantis cervos, et revelabit condensa: et in templo eius omnes dicent gloriam.
 
-10 Dominus diluvium inhabitare facit: et sedebit Dominus rex in æternum.
+10 Dominus diluvium inhabitare facit: et sedebit Dominus rex in aeternum.
 
 11 Dominus virtutem populo suo dabit: Dominus benedicet populo suo in pace.
 

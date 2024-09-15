@@ -37,7 +37,7 @@ summary: |
 
 ***Note*** :  Joël 2, 6 : A sa face ; à sa présence, à la présence de ce peuple fort, etc. (voir verset 5), les autres peuples seront dans un affreux tourment. ― La couleur d’une marmite ; c’est-à-dire terne et plombée.
 
-7 Ils courront comme des braves; comme des hommes de guerre ils monteront sur le mur; hommes de cœur, ils marcheront dans leurs voies, et ne se détourneront pas de leurs sentiers.
+7 Ils courront comme des braves; comme des hommes de guerre ils monteront sur le mur; hommes de coeur, ils marcheront dans leurs voies, et ne se détourneront pas de leurs sentiers.
 
 ***Note*** :  Joël 2, 7 : Les sauterelles ne dévient pas de leur marche, quand elles inondent un pays, et elles pénètrent jusque dans les tentes et les maisons, voir verset 9.
 
@@ -56,9 +56,9 @@ summary: |
 
 ***Note*** :  Joël 2, 11 : Voir Jérémie, 30, 7 ; Amos, 5, 18 ; Sophonie, 1, 14-15.
 
-12 Maintenant donc, dit le Seigneur, convertissez-vous à moi de tout votre cœur, dans le jeûne, dans le pleur et dans le gémissement; 13 Et déchirez vos cœurs, et non vos vêtements ; et convertissez-vous au Seigneur votre Dieu, parce qu'il est bon et miséricordieux, patient et d'une grande miséricorde, et pouvant revenir sur le mal dont il vous a menacés.
+12 Maintenant donc, dit le Seigneur, convertissez-vous à moi de tout votre coeur, dans le jeûne, dans le pleur et dans le gémissement; 13 Et déchirez vos coeurs, et non vos vêtements ; et convertissez-vous au Seigneur votre Dieu, parce qu'il est bon et miséricordieux, patient et d'une grande miséricorde, et pouvant revenir sur le mal dont il vous a menacés.
 
-***Note*** :  Joël 2, 13 : Voir Psaumes, 85, 5 ; Jonas, 4, 2. ― Pouvant revenir ou se repentir. Saint Jérôme explique lui-même ainsi les termes de la Vulgate præstabilis super malitia. Il est certain que le mot mal (malitia) se prend dans plusieurs endroits pour peine, malheur, calamité.
+***Note*** :  Joël 2, 13 : Voir Psaumes, 85, 5 ; Jonas, 4, 2. ― Pouvant revenir ou se repentir. Saint Jérôme explique lui-même ainsi les termes de la Vulgate praestabilis super malitia. Il est certain que le mot mal (malitia) se prend dans plusieurs endroits pour peine, malheur, calamité.
 
 14 Qui sait s'il ne reviendra pas, et s'il ne pardonnera pas, et s'il ne laissera pas après lui la bénédiction, le sacrifice, et la libation pour le Seigneur votre Dieu?
 
@@ -92,7 +92,7 @@ summary: |
 
 23 Et vous, fils de Sion, exultez, et réjouissez-vous dans le Seigneur votre Dieu, parce qu'il vous a donné un docteur de justice, et il fera descendre sur vous la pluie du matin et la pluie du soir, comme au commencement.
 
-***Note*** :  Joël 2, 23 : Un docteur de justice (doctorem justitiæ). Ni Joël, ni le grand-prêtre d’alors, ni Isaïe ou Jérémie n’ont mérité ce titre comme le Messie, Jésus-Christ, la vraie lumière « qui éclaire tout homme venant en ce monde » (voir Jean, 1, 9). ― La pluie, etc. ; les pluies du printemps et de l’automne. Voir Osée, 6, 3.
+***Note*** :  Joël 2, 23 : Un docteur de justice (doctorem justitiae). Ni Joël, ni le grand-prêtre d’alors, ni Isaïe ou Jérémie n’ont mérité ce titre comme le Messie, Jésus-Christ, la vraie lumière « qui éclaire tout homme venant en ce monde » (voir Jean, 1, 9). ― La pluie, etc. ; les pluies du printemps et de l’automne. Voir Osée, 6, 3.
 
 24 Vos aires seront pleines de blé, et vos pressoirs regorgeront de vin et d'huile.
 

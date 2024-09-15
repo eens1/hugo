@@ -68,7 +68,7 @@ summary: |
 
 ***Note*** :  Is. 33, 17 : Un roi, etc. ; Ezéchias, environné de gloire, après la défaite de ses ennemis. ― Une terre ; leur patrie.
 
-18 Ton cœur méditera la crainte : Où est le savant? où est celui qui pèse les paroles de la loi? où est le maître des petits enfants?
+18 Ton coeur méditera la crainte : Où est le savant? où est celui qui pèse les paroles de la loi? où est le maître des petits enfants?
 
 ***Note*** :  Is. 33, 18 : Voir 1 Corinthiens, 1, 20.
 

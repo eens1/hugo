@@ -9,21 +9,21 @@ draft: false
 
 2 Benefac iusto, et invenies retributionem magnam: et si non ab ipso, certe a Domino.
 
-3 Non est enim ei bene qui assiduus est in malis, et eleemosynas non danti: quoniam et Altissimus odio habet peccatores, et misertus est pœnitentibus.
+3 Non est enim ei bene qui assiduus est in malis, et eleemosynas non danti: quoniam et Altissimus odio habet peccatores, et misertus est poenitentibus.
 
-4 Da misericordi, et ne suscipias peccatorem: et impiis et peccatoribus reddet vindictam, custodiens eos in diem vindictæ.
+4 Da misericordi, et ne suscipias peccatorem: et impiis et peccatoribus reddet vindictam, custodiens eos in diem vindictae.
 
 5 Da bono, et non receperis peccatorem.
 
 6 Benefac humili, et non dederis impio: prohibe panes illi dari ne in ipsis potentior te sit:
 
-7 nam duplicia mala invenies in omnibus bonis, quæcumque feceris illi: quoniam et Altissimus odio habet peccatores, et impiis reddet vindictam.
+7 nam duplicia mala invenies in omnibus bonis, quaecumque feceris illi: quoniam et Altissimus odio habet peccatores, et impiis reddet vindictam.
 
 8 Non agnoscetur in bonis amicus, et non abscondetur in malis inimicus.
 
 9 In bonis viri, inimici illius in tristitia: et in malitia illius, amicus agnitus est.
 
-10 Non credas inimico tuo in æternum: sicut enim æramentum, æruginat nequitia illius:
+10 Non credas inimico tuo in aeternum: sicut enim aeramentum, aeruginat nequitia illius:
 
 11 et si humiliatus vadat curvus, adiice animum tuum, et custodi te ab illo.
 

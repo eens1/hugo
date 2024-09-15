@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Et factum est, postquam percussit Alexander Philippi Macedo, qui primus regnavit in Græcia, egressus de terra Cethim, Darium regem Persarum, et Medorum:
+1 Et factum est, postquam percussit Alexander Philippi Macedo, qui primus regnavit in Graecia, egressus de terra Cethim, Darium regem Persarum, et Medorum:
 
-2 constituit prælia multa, et obtinuit omnium munitiones, et interfecit reges terræ,
+2 constituit praelia multa, et obtinuit omnium munitiones, et interfecit reges terrae,
 
-3 et pertransiit usque ad fines terræ: et accepit spolia multitudinis Gentium: et siluit terra in conspectu eius.
+3 et pertransiit usque ad fines terrae: et accepit spolia multitudinis Gentium: et siluit terra in conspectu eius.
 
 4 Et congregavit virtutem, et exercitum fortem nimis: et exaltatum est, et elevatum cor eius:
 
 5 et obtinuit regiones Gentium, et tyrannos: et facti sunt illi in tributum.
 
-6 Et post hæc decidit in lectum, et cognovit quia moreretur.
+6 Et post haec decidit in lectum, et cognovit quia moreretur.
 
 7 Et vocavit pueros suos nobiles, qui secum erant nutriti a iuventute: et divisit illis regnum suum, cum adhuc viveret.
 
@@ -25,27 +25,27 @@ draft: false
 
 10 et imposuerunt omnes sibi diademata post mortem eius, et filii eorum post eos annis multis, et multiplicata sunt mala in terra.
 
-11 Et exiit ex eis radix peccatrix, Antiochus illustris, filius Antiochi regis, qui fuerat Romæ obses: et regnavit in anno centesimo trigesimo septimo regni Græcorum.
+11 Et exiit ex eis radix peccatrix, Antiochus illustris, filius Antiochi regis, qui fuerat Romae obses: et regnavit in anno centesimo trigesimo septimo regni Graecorum.
 
-12 In diebus illis, exierunt ex Israel filii iniqui, et suaserunt multis, dicentes: Eamus, et disponamus testamentum cum Gentibus, quæ circa nos sunt: quia ex quo recessimus ab eis, invenerunt nos multa mala.
+12 In diebus illis, exierunt ex Israel filii iniqui, et suaserunt multis, dicentes: Eamus, et disponamus testamentum cum Gentibus, quae circa nos sunt: quia ex quo recessimus ab eis, invenerunt nos multa mala.
 
 13 Et bonus visus est sermo in oculis eorum.
 
 14 Et destinaverunt aliqui de populo, et abierunt ad regem: et dedit illis potestatem ut facerent iustitiam Gentium.
 
-15 Et ædificaverunt gymnasium in Ierosolymis secundum leges Nationum:
+15 Et aedificaverunt gymnasium in Ierosolymis secundum leges Nationum:
 
-16 et fecerunt sibi præputia, et recesserunt a testamento sancto, et iuncti sunt Nationibus, et venundati sunt ut facerent malum.
+16 et fecerunt sibi praeputia, et recesserunt a testamento sancto, et iuncti sunt Nationibus, et venundati sunt ut facerent malum.
 
-17 Et paratum est regnum in conspectu Antiochi, et cœpit regnare in terra Ægypti ut regnaret super duo regna.
+17 Et paratum est regnum in conspectu Antiochi, et coepit regnare in terra AEgypti ut regnaret super duo regna.
 
-18 Et intravit in Ægyptum in multitudine gravi, in curribus, et elephantis, et equitibus, et copiosa navium multitudine:
+18 Et intravit in AEgyptum in multitudine gravi, in curribus, et elephantis, et equitibus, et copiosa navium multitudine:
 
-19 et constituit bellum adversus Ptolemæum regem Ægypti, et veritus est Ptolemæus a facie eius, et fugit, et ceciderunt vulnerati multi.
+19 et constituit bellum adversus Ptolemaeum regem AEgypti, et veritus est Ptolemaeus a facie eius, et fugit, et ceciderunt vulnerati multi.
 
-20 Et comprehendit civitates munitas in terra Ægypti: et accepit spolia Terræ Ægypti.
+20 Et comprehendit civitates munitas in terra AEgypti: et accepit spolia Terrae AEgypti.
 
-21 Et convertit Antiochus, postquam percussit Ægyptum in centesimo et quadragesimo tertio anno: et ascendit ad Israel,
+21 Et convertit Antiochus, postquam percussit AEgyptum in centesimo et quadragesimo tertio anno: et ascendit ad Israel,
 
 22 et ascendit Ierosolymam in multitudine gravi.
 
@@ -53,13 +53,13 @@ draft: false
 
 24 Et accepit argentum, et aurum, et vasa concupiscibilia: et accepit thesauros occultos, quos invenit: et sublatis omnibus abiit in terram suam.
 
-25 Et fecit cædem hominum, et locutus est in superbia magna.
+25 Et fecit caedem hominum, et locutus est in superbia magna.
 
 26 Et factus est planctus magnus in Israel, et in omni loco eorum:
 
 27 et ingemuerunt principes, et seniores: virgines, et iuvenes infirmati sunt: et speciositas mulierum immutata est.
 
-28 Omnis maritus sumpsit lamentum: et quæ sedebant in thoro maritali, lugebant:
+28 Omnis maritus sumpsit lamentum: et quae sedebant in thoro maritali, lugebant:
 
 29 et commota est terra super habitantes in ea, et universa domus Iacob induit confusionem.
 
@@ -73,7 +73,7 @@ draft: false
 
 34 et captivas duxerunt mulieres: et natos, et pecora possederunt.
 
-35 Et ædificaverunt civitatem David muro magno, et firmo, et turribus firmis, et facta est illis in arcem:
+35 Et aedificaverunt civitatem David muro magno, et firmo, et turribus firmis, et facta est illis in arcem:
 
 36 et posuerunt illic gentem peccatricem viros iniquos, et convaluerunt in ea. et posuerunt arma, et escas, et congregaverunt spolia Ierusalem:
 
@@ -95,7 +95,7 @@ draft: false
 
 45 et multi ex Israel consenserunt servituti eius, et sacrificaverunt idolis, et coinquinaverunt sabbatum.
 
-46 Et misit rex libros per manus nunciorum in Ierusalem, et in omnes civitates Iuda: ut sequerentur leges Gentium terræ,
+46 Et misit rex libros per manus nunciorum in Ierusalem, et in omnes civitates Iuda: ut sequerentur leges Gentium terrae,
 
 47 et prohiberent holocausta, et sacrificia, et placationes fieri in templo Dei,
 
@@ -103,13 +103,13 @@ draft: false
 
 49 et iussit coinquinari sancta, et sanctum populum Israel.
 
-50 Et iussit ædificari aras, et templa, et idola, et immolari carnes suillas, et pecora communia,
+50 Et iussit aedificari aras, et templa, et idola, et immolari carnes suillas, et pecora communia,
 
 51 et relinquere filios suos incircumcisos, et coinquinari animas eorum in omnibus immundis, et abominationibus, ita ut obliviscerentur legem, et immutarent omnes iustificationes Dei.
 
 52 Et quicumque non fecissent secundum verbum regis Antiochi, morerentur.
 
-53 Secundum omnia verba hæc scripsit omni regno suo: et præposuit principes populo, qui hæc fieri cogerent.
+53 Secundum omnia verba haec scripsit omni regno suo: et praeposuit principes populo, qui haec fieri cogerent.
 
 54 Et iusserunt civitatibus Iuda sacrificare.
 
@@ -117,7 +117,7 @@ draft: false
 
 56 et effugaverunt populum Israel in abditis, et in absconditis fugitivorum locis.
 
-57 Die quintadecima mensis Casleu, quinto et quadragesimo et centesimo anno ædificavit rex Antiochus abominandum idolum desolationis super altare Dei, et per universas civitates Iuda in circuitu ædificaverunt aras:
+57 Die quintadecima mensis Casleu, quinto et quadragesimo et centesimo anno aedificavit rex Antiochus abominandum idolum desolationis super altare Dei, et per universas civitates Iuda in circuitu aedificaverunt aras:
 
 58 et ante ianuas domorum et in plateis incendebant thura, et sacrificabant:
 
@@ -125,11 +125,11 @@ draft: false
 
 60 et apud quemcumque inveniebantur libri testamenti Domini, et quicumque observabat legem Domini, secundum edictum regis trucidabant eum.
 
-61 In virtute sua faciebant hæc populo Israel, qui inveniebatur in omni mense et mense in civitatibus.
+61 In virtute sua faciebant haec populo Israel, qui inveniebatur in omni mense et mense in civitatibus.
 
-62 Et quinta et vigesima die mensis sacrificabant super aram, quæ erat contra altare.
+62 Et quinta et vigesima die mensis sacrificabant super aram, quae erat contra altare.
 
-63 Et mulieres, quæ circumcidebant filios suos, trucidabantur secundum iussum regis Antiochi,
+63 Et mulieres, quae circumcidebant filios suos, trucidabantur secundum iussum regis Antiochi,
 
 64 et suspendebant pueros a cervicibus per universas domos eorum: et eos, qui circumciderant illos, trucidabant.
 

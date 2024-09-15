@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 Scimus enim quoniam si terrestris domus nostra huius habitationis dissolvatur, quod ædificationem ex Deo habemus, domum non manufactam, æternam in cælis.
+1 Scimus enim quoniam si terrestris domus nostra huius habitationis dissolvatur, quod aedificationem ex Deo habemus, domum non manufactam, aeternam in caelis.
 
-2 Nam et in hoc ingemiscimus, habitationem nostram, quæ de cælo est, superindui cupientes:
+2 Nam et in hoc ingemiscimus, habitationem nostram, quae de caelo est, superindui cupientes:
 
 3 si tamen vestiti, non nudi inveniamur.
 
@@ -19,9 +19,9 @@ draft: false
 
 7 (per fidem enim ambulamus, et non per speciem)
 
-8 audemus autem, et bonam voluntatem habemus magis peregrinari a corpore, et præsentes esse ad Dominum.
+8 audemus autem, et bonam voluntatem habemus magis peregrinari a corpore, et praesentes esse ad Dominum.
 
-9 Et ideo contendimus sive absentes, sive præsentes placere illi.
+9 Et ideo contendimus sive absentes, sive praesentes placere illi.
 
 10 Omnes enim non manifestari oportet ante Tribunal Christi, ut referat unusquisque propria corporis, prout gessit, sive bonum, sive malum.
 
@@ -31,7 +31,7 @@ draft: false
 
 13 Sive enim mente excedimus, Deo: sive sobrii sumus, vobis.
 
-14 Charitas enim Christi urget nos: æstimantes hoc, quoniam si unus pro omnibus mortuus est, ergo omnes mortui sunt:
+14 Charitas enim Christi urget nos: aestimantes hoc, quoniam si unus pro omnibus mortuus est, ergo omnes mortui sunt:
 
 15 et pro omnibus mortuus est Christus: ut, et qui vivunt, iam non sibi vivant, sed ei, qui pro ipsis mortuus est et resurrexit.
 

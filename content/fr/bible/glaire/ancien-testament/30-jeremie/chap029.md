@@ -16,7 +16,7 @@ summary: |
 
 ***Note*** :  Jr. 29, 1-32 : II. Jérémie écrit aux captifs eux-mêmes à Babylone qu’ils ne doivent pas espérer un prompt retour en Judée, mais considérer la Chaldée comme leur nouvelle patrie, et ne pas croire à la parole de ceux qui leur prédisent le contraire, chapitre 29, versets 1 à 9 ; car la captivité ne finira qu’au terme de 70 ans, versets 10 à 15 ; tous ceux qui leur annoncent que la fin de leurs maux est proche les trompent, versets 16 à 23. ― Un de ces faux prophètes de Babylone, Séméi, non content d’induire les captifs en erreur, avait écrit à Jérusalem pour demander qu’on mît Jérusalem en prison ; Jérémie lui prophétise que ni lui ni sa prospérité ne verront le salut du Seigneur, versets 24 à 32.
 
-***Note*** :  Jr. 29, 1 : Lettre ; littéralement livre (libri) ; le terme hébreu signifie proprement écriture, et, par extension, chose écrite, écrit, livre ; saint Jérôme lui-même l’a rendu plusieurs fois ailleurs par lettre (epistolæ litteræ).
+***Note*** :  Jr. 29, 1 : Lettre ; littéralement livre (libri) ; le terme hébreu signifie proprement écriture, et, par extension, chose écrite, écrit, livre ; saint Jérôme lui-même l’a rendu plusieurs fois ailleurs par lettre (epistolae litterae).
 
 2 Après que le roi Jéchonias fut sorti de Jérusalem, ainsi que la reine, et les eunuques, et les princes de Juda et de Jérusalem, et l'artisan, et le lapidaire;
 
@@ -45,7 +45,7 @@ summary: |
 
 ***Note*** :  Jr. 29, 10 : Voir 2 Paralipomènes, 36, 21 ; 1 Esdras, 1, 1 ; Jérémie, 25, 12 ; Daniel, 9, 2.
 
-11 Car moi, je sais les pensées que je pense sur vous, dit le Seigneur, pensées de paix et non d'affliction : c'est de vous accorder la fin de vos maux et la patience. 12 Et vous m'invoquerez, et vous partirez; vous me prierez, et moi je vous exaucerai. 13 Vous me chercherez et vous me trouverez, lorsque vous m'aurez cherché de tout votre cœur. 14 Et je serai trouvé par vous, dit le Seigneur; et je vous ramènerai vos captifs, et je vous rassemblerai du milieu de toutes les nations et de tous les lieux dans lesquels je vous ai chassés, dit le Seigneur; et je vous ferai revenir du lieu dans lequel je vous ai fait émigrer,
+11 Car moi, je sais les pensées que je pense sur vous, dit le Seigneur, pensées de paix et non d'affliction : c'est de vous accorder la fin de vos maux et la patience. 12 Et vous m'invoquerez, et vous partirez; vous me prierez, et moi je vous exaucerai. 13 Vous me chercherez et vous me trouverez, lorsque vous m'aurez cherché de tout votre coeur. 14 Et je serai trouvé par vous, dit le Seigneur; et je vous ramènerai vos captifs, et je vous rassemblerai du milieu de toutes les nations et de tous les lieux dans lesquels je vous ai chassés, dit le Seigneur; et je vous ferai revenir du lieu dans lequel je vous ai fait émigrer,
 
 
 15 Parce que vous avez dit : Le Seigneur a suscité pour nous des prophètes à Babylone.

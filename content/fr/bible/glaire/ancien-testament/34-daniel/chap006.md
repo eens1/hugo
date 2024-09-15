@@ -32,14 +32,14 @@ summary: |
 
 9 Or le roi Darius proposa l'édit, et le publia. 10 Lorsque Daniel eut appris cela, c'est-à-dire la loi portée, il entra dans sa maison ; et, les fenêtres ouvertes, il fléchissait les genoux dans sa chambre haute trois fois le jour, tourné vers Jérusalem, et il adorait, et rendait grâce devant son Dieu, comme il avait accoutumé de faire auparavant.
 
-***Note*** :  Dn. 6, 10 : Dans sa chambre haute (in cænaculo). Comparer à Tobie, 3, 10 ; Actes des Apôtres, 1, 13. ― Tourné, etc. Les Juifs, hors de Jérusalem tournaient leur visage, pendant la prière, du côté de cette ville (voir 3 Rois, 8, 44). ― Trois fois le jour. Voir Psaumes, 54, 18 ; Actes des Apôtres, 3, 1.
+***Note*** :  Dn. 6, 10 : Dans sa chambre haute (in caenaculo). Comparer à Tobie, 3, 10 ; Actes des Apôtres, 1, 13. ― Tourné, etc. Les Juifs, hors de Jérusalem tournaient leur visage, pendant la prière, du côté de cette ville (voir 3 Rois, 8, 44). ― Trois fois le jour. Voir Psaumes, 54, 18 ; Actes des Apôtres, 3, 1.
 
 
 11 Ces hommes donc, épiant très soigneusement, trouvèrent Daniel priant et suppliant son Dieu. 12 Et, venant auprès du roi, ils lui dirent touchant l'édit : Ô roi, est-ce que vous n'avez pas décidé que tout homme qui jusqu'après trente jours prierait quelqu'un des dieux ou des hommes, sinon vous, ô roi, serait jeté dans la fosse aux lions? Le roi, leur répondant, dit : Cette parole est véritable, selon le décret des Mèdes et des Perses, qu'il n'est pas permis de transgresser.
 
 ***Note*** :  Dn. 6, 12 : Qu’il n’est pas permis, etc. Voir le verset 8.
 
-13 Alors, répondant, ils dirent au roi : Daniel, un des enfants de la captivité de Juda, n'a tenu aucun compte de votre loi et de l'édit que vous avez porté; mais trois fois par jour il fait sa prière accoutumée. 14 Lorsque le roi eut entendu cette parole, il fut extrêmement contristé, et il appliqua son cœur à délivrer Daniel, et jusqu'au coucher du soleil il travaillait à le sauver.
+13 Alors, répondant, ils dirent au roi : Daniel, un des enfants de la captivité de Juda, n'a tenu aucun compte de votre loi et de l'édit que vous avez porté; mais trois fois par jour il fait sa prière accoutumée. 14 Lorsque le roi eut entendu cette parole, il fut extrêmement contristé, et il appliqua son coeur à délivrer Daniel, et jusqu'au coucher du soleil il travaillait à le sauver.
 
 ***Note*** :  Dn. 6, 14 : Extrêmement (salis). Voir Daniel, 5, 9.
 

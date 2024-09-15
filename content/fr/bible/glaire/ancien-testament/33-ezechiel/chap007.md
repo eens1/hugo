@@ -28,7 +28,7 @@ summary: |
 
 ***Note*** :  Éz. 7, 3 : La fin est sur toi ; ta fin est arrivée.
 
-4 Et mon œil ne t'épargnera pas, et je n'aurai pas de pitié; mais tes voies, je les poserai sur toi. et tes abominations seront au milieu de toi ; et vous saurez que je suis le Seigneur.
+4 Et mon oeil ne t'épargnera pas, et je n'aurai pas de pitié; mais tes voies, je les poserai sur toi. et tes abominations seront au milieu de toi ; et vous saurez que je suis le Seigneur.
 
 
 5 Voici ce que dit le Seigneur Dieu : Une affliction unique, une affliction, voici qu'elle vient.
@@ -38,7 +38,7 @@ summary: |
 6 La fin vient, elle vient la fin, elle s'est éveillée contre toi ; voici qu'elle vient. 7 La ruine vient sur toi, qui habites la terre ; il vient, le temps; il est près, le jour de la tuerie, et non de la gloire des montagnes.
 
 
-8 C'est maintenant de près que je répandrai ma colère sur toi, et que j'assouvirai ma fureur sur toi; et que je te jugerai selon tes voies; et que je t'imposerai tous tes crimes ; 9 Et mon œil n'épargnera pas, et je n'aurai pas de pitié; mais tes voies, je te les imposerai; et tes abominations seront au milieu de toi; et vous saurez que moi je suis le Seigneur qui frappe.
+8 C'est maintenant de près que je répandrai ma colère sur toi, et que j'assouvirai ma fureur sur toi; et que je te jugerai selon tes voies; et que je t'imposerai tous tes crimes ; 9 Et mon oeil n'épargnera pas, et je n'aurai pas de pitié; mais tes voies, je te les imposerai; et tes abominations seront au milieu de toi; et vous saurez que moi je suis le Seigneur qui frappe.
 
 ***Note*** :  Éz. 7, 9 : Tes abominations ; les châtiments dus à tes abominations. ― Vous saurez. Voir, sur ce pluriel, Ezéchiel, 6, 11.
 

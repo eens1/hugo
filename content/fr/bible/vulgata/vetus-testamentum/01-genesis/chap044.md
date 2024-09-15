@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Præcepit autem Ioseph dispensatori domus suæ, dicens: Imple saccos eorum frumento, quantum possunt capere: et pone pecuniam singulorum in summitate sacci.
+1 Praecepit autem Ioseph dispensatori domus suae, dicens: Imple saccos eorum frumento, quantum possunt capere: et pone pecuniam singulorum in summitate sacci.
 
 2 Scyphum autem meum argenteum, et pretium quod dedit tritici, pone in ore sacci iunioris. factumque est ita.
 
@@ -21,7 +21,7 @@ draft: false
 
 8 Pecuniam, quam invenimus in summitate saccorum, reportavimus ad te de terra Chanaan: et quo modo consequens est ut furati simus de domo domini tui aurum vel argentum?
 
-9 Apud quemcumque fuerit inventum servorum tuorum quod quæris, moriatur, et nos erimus servi domini nostri.
+9 Apud quemcumque fuerit inventum servorum tuorum quod quaeris, moriatur, et nos erimus servi domini nostri.
 
 10 Qui dixit eis: Fiat iuxta vestram sententiam: apud quemcumque fuerit inventus, ipse sit servus meus, vos autem eritis innoxii.
 
@@ -51,17 +51,17 @@ draft: false
 
 23 Et dixisti servis tuis: Nisi venerit frater vester minimus vobiscum, non videbitis amplius faciem meam.
 
-24 Cum ergo ascendissemus ad famulum tuum patrem nostrum, narravimus ei omnia quæ locutus est dominus meus.
+24 Cum ergo ascendissemus ad famulum tuum patrem nostrum, narravimus ei omnia quae locutus est dominus meus.
 
 25 Et dixit pater noster: Revertimini, et emite nobis parum tritici.
 
 26 Cui diximus: Ire non possumus: si frater noster minimus descenderit nobiscum, proficiscemur simul: alioquin illo absente, non audemus videre faciem viri.
 
-27 Ad quæ ille respondit: Vos scitis quod duos genuerit mihi uxor mea.
+27 Ad quae ille respondit: Vos scitis quod duos genuerit mihi uxor mea.
 
 28 Egressus est unus, et dixistis: Bestia devoravit eum: et hucusque non comparet.
 
-29 Si tuleritis et istum, et aliquid ei in via contigerit, deducetis canos meos cum mœrore ad inferos.
+29 Si tuleritis et istum, et aliquid ei in via contigerit, deducetis canos meos cum moerore ad inferos.
 
 30 Igitur si intravero ad servum tuum patrem nostrum, et puer defuerit, (cum anima illius ex huius anima pendeat)
 
@@ -71,5 +71,5 @@ draft: false
 
 33 Manebo itaque servus tuus pro puero in ministerio domini mei, et puer ascendat cum fratribus suis.
 
-34 Non enim possum redire ad patrem meum, absente puero: ne calamitatis, quæ oppressura est patrem meum, testis assistam.
+34 Non enim possum redire ad patrem meum, absente puero: ne calamitatis, quae oppressura est patrem meum, testis assistam.
 

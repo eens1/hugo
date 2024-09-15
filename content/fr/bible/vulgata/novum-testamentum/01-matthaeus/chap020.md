@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Simile est regnum cælorum homini patrifamilias, qui exiit primo mane conducere operarios in vineam suam.
+1 Simile est regnum caelorum homini patrifamilias, qui exiit primo mane conducere operarios in vineam suam.
 
 2 Conventione autem facta cum operariis ex denario diurno, misit eos in vineam suam.
 
@@ -19,7 +19,7 @@ draft: false
 
 7 Dicunt ei: Quia nemo nos conduxit. Dicit illis: Ite et vos in vineam meam.
 
-8 Cum sero autem factum esset, dicit dominus vineæ procuratori suo: Voca operarios, et redde illis mercedem incipiens a novissimis usque ad primos.
+8 Cum sero autem factum esset, dicit dominus vineae procuratori suo: Voca operarios, et redde illis mercedem incipiens a novissimis usque ad primos.
 
 9 Cum venissent ergo qui circa undecimam horam venerant, acceperunt singulos denarios.
 
@@ -27,7 +27,7 @@ draft: false
 
 11 Et accipientes murmurabant adversus patremfamilias,
 
-12 dicentes: Hi novissimi una hora fecerunt, et pares illos nobis fecisti, qui portavimus pondus diei, et æstus.
+12 dicentes: Hi novissimi una hora fecerunt, et pares illos nobis fecisti, qui portavimus pondus diei, et aestus.
 
 13 At ille respondens uni eorum, dixit: Amice non facio tibi iniuriam: nonne ex denario convenisti mecum?
 
@@ -43,7 +43,7 @@ draft: false
 
 19 et tradent eum Gentibus ad illudendum, et flagellandum, et crucifigendum, et tertia die resurget.
 
-20 Tunc accessit ad eum mater filiorum Zebedæi cum filiis suis, adorans et petens aliquid ab eo.
+20 Tunc accessit ad eum mater filiorum Zebedaei cum filiis suis, adorans et petens aliquid ab eo.
 
 21 Qui dixit ei: Quid vis? Ait illi: Dic ut sedeant hi duo filii mei, unus ad dexteram tuam, et unus ad sinistram in regno tuo.
 
@@ -63,7 +63,7 @@ draft: false
 
 29 Et egredientibus illis ab Iericho, secuta est eum turba multa,
 
-30 et ecce duo cæci sedentes secus viam, audierunt, quia Iesus transiret: et clamaverunt, dicentes: Domine miserere nostri, fili David.
+30 et ecce duo caeci sedentes secus viam, audierunt, quia Iesus transiret: et clamaverunt, dicentes: Domine miserere nostri, fili David.
 
 31 Turba autem increpabat eos ut tacerent. At illi magis clamabant, dicentes: Domine, miserere nostri, fili David.
 

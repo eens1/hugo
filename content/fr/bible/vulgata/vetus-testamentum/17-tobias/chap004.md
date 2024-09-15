@@ -9,13 +9,13 @@ draft: false
 
 2 dixitque ei: Audi fili mi verba oris mei, et ea in corde tuo, quasi fundamentum construe.
 
-3 Cum acceperit Deus animam meam, corpus meum sepeli: et honorem habebis matri tuæ omnibus diebus vitæ eius:
+3 Cum acceperit Deus animam meam, corpus meum sepeli: et honorem habebis matri tuae omnibus diebus vitae eius:
 
-4 memor enim esse debes, quæ et quanta pericula passa sit propter te in utero suo.
+4 memor enim esse debes, quae et quanta pericula passa sit propter te in utero suo.
 
-5 Cum autem et ipsa compleverit tempus vitæ suæ, sepelias eam circa me.
+5 Cum autem et ipsa compleverit tempus vitae suae, sepelias eam circa me.
 
-6 Omnibus autem diebus vitæ tuæ in mente habeto Deum: et cave ne aliquando peccato consentias, et prætermittas præcepta Domini Dei nostri.
+6 Omnibus autem diebus vitae tuae in mente habeto Deum: et cave ne aliquando peccato consentias, et praetermittas praecepta Domini Dei nostri.
 
 7 Ex substantia tua fac eleemosynam, et noli avertere faciem tuam ab ullo paupere: ita enim fiet ut nec a te avertatur facies Domini.
 
@@ -23,13 +23,13 @@ draft: false
 
 9 Si multum tibi fuerit, abundanter tribue: si exiguum tibi fuerit, etiam exiguum libenter impertiri stude.
 
-10 Præmium enim bonum tibi thesaurizas in die necessitatis.
+10 Praemium enim bonum tibi thesaurizas in die necessitatis.
 
 11 quoniam eleemosyna ab omni peccato, et a morte liberat, et non patietur animam ire in tenebras.
 
 12 Fiducia magna erit coram summo Deo eleemosyna omnibus facientibus eam.
 
-13 Attende tibi fili mi ab omni fornicatione, et præter uxorem tuam numquam patiaris crimen scire.
+13 Attende tibi fili mi ab omni fornicatione, et praeter uxorem tuam numquam patiaris crimen scire.
 
 14 Superbiam numquam in tuo sensu, aut in tuo verbo dominari permittas: in ipsa enim initium sumpsit omnis perditio.
 

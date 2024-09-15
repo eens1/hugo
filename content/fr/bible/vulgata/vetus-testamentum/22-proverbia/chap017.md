@@ -11,23 +11,23 @@ draft: false
 
 3 Sicut igne probatur argentum, et aurum camino: ita corda probat Dominus.
 
-4 Malus obedit linguæ iniquæ: et fallax obtemperat labiis mendacibus.
+4 Malus obedit linguae iniquae: et fallax obtemperat labiis mendacibus.
 
-5 Qui despicit pauperem, exprobrat factori eius: et qui ruina lætatur alterius, non erit impunitus.
+5 Qui despicit pauperem, exprobrat factori eius: et qui ruina laetatur alterius, non erit impunitus.
 
 6 Corona senum filii filiorum: et gloria filiorum patres eorum.
 
 7 Non decent stultum verba composita: nec principem labium mentiens.
 
-8 Gemma gratissima, expectatio præstolantis: quocumque se vertit, prudenter intelligit.
+8 Gemma gratissima, expectatio praestolantis: quocumque se vertit, prudenter intelligit.
 
-9 Qui celat delictum, quærit amicitias: qui altero sermone repetit, separat fœderatos.
+9 Qui celat delictum, quaerit amicitias: qui altero sermone repetit, separat foederatos.
 
-10 Plus proficit correptio apud prudentem, quam centum plagæ apud stultum.
+10 Plus proficit correptio apud prudentem, quam centum plagae apud stultum.
 
-11 Semper iurgia quærit malus: angelus autem crudelis mittetur contra eum.
+11 Semper iurgia quaerit malus: angelus autem crudelis mittetur contra eum.
 
-12 Expedit magis ursæ occurrere raptis fœtibus, quam fatuo confidenti in stultitia sua.
+12 Expedit magis ursae occurrere raptis foetibus, quam fatuo confidenti in stultitia sua.
 
 13 Qui reddit mala pro bonis, non recedet malum de domo eius.
 
@@ -35,25 +35,25 @@ draft: false
 
 15 Qui iustificat impium, et qui condemnat iustum, abominabilis est uterque apud Deum.
 
-16 Quid prodest stulto habere divitias, cum sapientiam emere non possit? Qui altum facit domum suam, quærit ruinam: et qui evitat discere, incidet in mala.
+16 Quid prodest stulto habere divitias, cum sapientiam emere non possit? Qui altum facit domum suam, quaerit ruinam: et qui evitat discere, incidet in mala.
 
 17 Omni tempore diligit qui amicus est: et frater in angustiis comprobatur.
 
 18 Stultus homo plaudet manibus cum spoponderit pro amico suo.
 
-19 Qui meditatur discordias, diligit rixas: et qui exaltat ostium, quærit ruinam.
+19 Qui meditatur discordias, diligit rixas: et qui exaltat ostium, quaerit ruinam.
 
 20 Qui perversi cordis est, non inveniet bonum: et qui vertit linguam, incidet in malum.
 
-21 Natus est stultus in ignominiam suam: sed nec pater in fatuo lætabitur.
+21 Natus est stultus in ignominiam suam: sed nec pater in fatuo laetabitur.
 
-22 Animus gaudens ætatem floridam facit: spiritus tristis exiccat ossa.
+22 Animus gaudens aetatem floridam facit: spiritus tristis exiccat ossa.
 
 23 Munera de sinu impius accipit, ut pervertat semitas iudicii.
 
-24 In facie prudentis lucet sapientia: oculi stultorum in finibus terræ.
+24 In facie prudentis lucet sapientia: oculi stultorum in finibus terrae.
 
-25 Ira patris, filius stultus: et dolor matris quæ genuit eum.
+25 Ira patris, filius stultus: et dolor matris quae genuit eum.
 
 26 Non est bonum, damnum inferre iusto: nec percutere principem, qui recta iudicat.
 

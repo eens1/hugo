@@ -35,7 +35,7 @@ summary: |
 
 5 Mais l'armée des Chaldéens les poursuivit ; et ils prirent Sédécias dans les champs de la solitude de Jéricho, et ils l'amenèrent prisonnier à Nabuchodonosor, roi de Babylone, à Réblatha qui est en la terre d'Emath; et Nabuchodonosor lui prononça son arrêt.
 
-***Note*** :  Jr. 39, 5 : Réblatha ; ou selon sa forme véritable, Rébla, dans la terre d’Emath, en Cœlésyrie, sur l’Oronte.
+***Note*** :  Jr. 39, 5 : Réblatha ; ou selon sa forme véritable, Rébla, dans la terre d’Emath, en Coelésyrie, sur l’Oronte.
 
 6 Et le roi de Babylone fit mourir les deux fils de Sédécias à Réblatha, sous ses yeux, et tous les nobles de Juda, le roi de Babylone les fit mourir.
 

@@ -45,7 +45,7 @@ summary: |
 
 11 Saluez ceux de la maison d'Aristobule. Saluez Hérodion, mon parent. Saluez ceux de la maison de Narcisse, qui sont au Seigneur.
 
-***Note*** :  Rm. 16, 11-12 : Aristobule, Hérodion, Narcisse, Triphæne, Triphose, Perside, inconnus.
+***Note*** :  Rm. 16, 11-12 : Aristobule, Hérodion, Narcisse, Triphaene, Triphose, Perside, inconnus.
 
 12 Saluez Triphaene et Triphose, lesquelles travaillent pour le Seigneur. Saluez notre cher Perside, qui a aussi beaucoup travaillé pour le Seigneur. 13 Saluez Rufus, élu du Seigneur, et sa mère, qui est aussi la mienne.
 

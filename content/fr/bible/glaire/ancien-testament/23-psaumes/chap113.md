@@ -55,7 +55,7 @@ faut y avoir des merveilles qu’il trace. Il veut que ce soit toute la nature q
 
 17 La maison d'Israël a espéré dans le Seigneur ; il est leur aide et leur protecteur.
 
-***Note*** :  Ps. 113, 17-19 : Que les guerriers d’Israël soient donc pleins de confiance, car c’est le vrai Dieu qui est leur soutien. Comme cette dernière idée est celle que le Psalmiste veut inculquer le plus profondément dans le cœur des soldats, elle est répétée trois fois dans cette strophe, à la 3e personne. Les versets 14 et 15, sont à la 2e personne ; ce changement provient, sans doute, de ce que le refrain était chanté par le chœur de ceux qui ne partaient point pour la guerre, tandis que les guerriers chantaient eux-mêmes le reste du psaume, d’où l’emploi de la 1re personne : versets 1, 3, 12, 18.
+***Note*** :  Ps. 113, 17-19 : Que les guerriers d’Israël soient donc pleins de confiance, car c’est le vrai Dieu qui est leur soutien. Comme cette dernière idée est celle que le Psalmiste veut inculquer le plus profondément dans le coeur des soldats, elle est répétée trois fois dans cette strophe, à la 3e personne. Les versets 14 et 15, sont à la 2e personne ; ce changement provient, sans doute, de ce que le refrain était chanté par le choeur de ceux qui ne partaient point pour la guerre, tandis que les guerriers chantaient eux-mêmes le reste du psaume, d’où l’emploi de la 1re personne : versets 1, 3, 12, 18.
 
 18 La maison d'Aaron a espéré dans le Seigneur; il est leur aide et leur protecteur. 19 Ceux qui craignent le Seigneur ont espéré dans le Seigneur ; il est leur aide et leur protecteur.
 

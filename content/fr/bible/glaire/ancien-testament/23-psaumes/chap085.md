@@ -24,14 +24,14 @@ summary: |
 6 Prêtez l'oreille Seigneur, à ma prière, et soyez attentif à la voix de ma supplication.
 
 
-7 Au jour de ma tribulation, j'ai crié vers vous, parce que vous m'avez exaucé. 8 Il n'est point de semblable à vous parmi les dieux, Seigneur; et il n'est rien de comparable à vos œuvres.
+7 Au jour de ma tribulation, j'ai crié vers vous, parce que vous m'avez exaucé. 8 Il n'est point de semblable à vous parmi les dieux, Seigneur; et il n'est rien de comparable à vos oeuvres.
 
-***Note*** :  Ps. 85, 8 : Il n’est rien, etc. ; littéralement il n’est pas selon vos œuvres ; ce qui signifie évidemment, il n’est pas d’œuvre semblable ou comparable à vos œuvres.
+***Note*** :  Ps. 85, 8 : Il n’est rien, etc. ; littéralement il n’est pas selon vos oeuvres ; ce qui signifie évidemment, il n’est pas d’oeuvre semblable ou comparable à vos oeuvres.
 
 9 Toutes les nations que vous avez faites viendront, et adoreront devant vous, Seigneur, et glorifieront votre nom. 10 Parce que vous êtes grand, vous, et que vous faites des merveilles, et que vous êtes seul Dieu.
 
 
-11 Conduisez-moi, Seigneur, dans votre voie, et que je marche dans votre vérité : que mon cœur se réjouisse, afin qu'il craigne votre nom. 12 Je vous louerai, Seigneur mon Dieu, en tout mon cœur, et je glorifierai votre nom éternellement; 13 Parce que votre miséricorde est grande envers moi, et que vous avez arraché mon âme de l'enfer le plus profond.
+11 Conduisez-moi, Seigneur, dans votre voie, et que je marche dans votre vérité : que mon coeur se réjouisse, afin qu'il craigne votre nom. 12 Je vous louerai, Seigneur mon Dieu, en tout mon coeur, et je glorifierai votre nom éternellement; 13 Parce que votre miséricorde est grande envers moi, et que vous avez arraché mon âme de l'enfer le plus profond.
 
 ***Note*** :  Ps. 85, 13 : Vous avez arraché, etc. Dans les Livres saints et surtout dans les Psaumes et dans les Prophètes, ces expressions sont souvent employées pour désigner la délivrance d’un grand danger. Dans un sens plus élevé, elles s’appliquent à Jésus-Christ descendu aux enfers et ressuscité d’entre les morts.
 

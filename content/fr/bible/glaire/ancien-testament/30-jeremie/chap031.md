@@ -16,7 +16,7 @@ summary: |
 
 1 En ce temps-là, dit le Seigneur, je serai le Dieu de toutes les familles d'Israël, et elles seront mon peuple.
 
-***Note*** :  Jr. 31, 1-40 : 2° Prophétie de la nouvelle alliance ou du Nouveau Testament, chapitre 31. ― Le chapitre 31 est le plus important de tout le livre de Jérémie. ― Israël a été infidèle à l’alliance (testamentum) qu’il avait faite avec Dieu : il l’a violée ; elle ne subsiste donc plus par sa faute ; le Seigneur est par conséquent dégagé de ses promesses, il ne le protège plus et le livre à Nabuchodonosor. Mais, dans sa bonté, il n’abandonne pas l’homme ; il fera une alliance nouvelle, un testament nouveau qui embrassera l’univers entier. Tel est le fond des pensées développées dans le chapitre 31. ― 1° L’œuvre de miséricorde, commencée en Egypte, semble à jamais abandonnée ; Dieu recueillera cependant les restes d’Israël et les bénira, versets 1 à 6. ― 2° Il rassemblera les tronçons dispersés de son peuple et les fera revenir dans leur patrie, où l’on entendra de nouveau des chants de joie, versets 7 à 14. ― 3° Maintenant Rachel pleure ses enfants qui ne sont plus, mais un jour elle sera consolée, car
+***Note*** :  Jr. 31, 1-40 : 2° Prophétie de la nouvelle alliance ou du Nouveau Testament, chapitre 31. ― Le chapitre 31 est le plus important de tout le livre de Jérémie. ― Israël a été infidèle à l’alliance (testamentum) qu’il avait faite avec Dieu : il l’a violée ; elle ne subsiste donc plus par sa faute ; le Seigneur est par conséquent dégagé de ses promesses, il ne le protège plus et le livre à Nabuchodonosor. Mais, dans sa bonté, il n’abandonne pas l’homme ; il fera une alliance nouvelle, un testament nouveau qui embrassera l’univers entier. Tel est le fond des pensées développées dans le chapitre 31. ― 1° L’oeuvre de miséricorde, commencée en Egypte, semble à jamais abandonnée ; Dieu recueillera cependant les restes d’Israël et les bénira, versets 1 à 6. ― 2° Il rassemblera les tronçons dispersés de son peuple et les fera revenir dans leur patrie, où l’on entendra de nouveau des chants de joie, versets 7 à 14. ― 3° Maintenant Rachel pleure ses enfants qui ne sont plus, mais un jour elle sera consolée, car
 Ephraïm se convertira, et le Seigneur aura pitié de lui et le sauvera, versets 15 à 27. ― 4° Quand le peuple sera ainsi repentant de ses fautes, Dieu fera avec lui une nouvelle alliance, qui ne consistera plus, comme la loi ancienne, dans la multitude de prescriptions écrites, mais dans la conformité de la volonté de l’homme à la volonté de Dieu, voir Hébreux, 8, 8 ; Jean, 4, 23 ; il n’y aura plus alors d’adorateurs des faux dieux ; tout le monde reconnaîtra le Seigneur, versets 28 à 35. ― 5° Israël, quoique une partie périsse à cause de ses péchés, demeurera le peuple de Dieu ; Jérusalem sera de nouveau rebâtie, tout ce qui est impur sera purifié, et la cité sainte, c’est-à-dire l’Eglise, ne sera plus l’objet de la colère divine, versets 36 à 40.
 
 ***Note*** :  Jr. 31, 1 : Elles ; littéralement, et par hébraïsme, ils ; parce que, sous le nom de famille qui est aussi du féminin dans leur langue, les Hébreux entendaient les individus, et surtout les hommes qui les composent.
@@ -24,7 +24,7 @@ Ephraïm se convertira, et le Seigneur aura pitié de lui et le sauvera, versets
 2 Voici ce que dit le Seigneur : Il a trouvé grâce dans le désert, un peuple qui avait échappé au glaive : Israël ira à son repos. 3 De loin le Seigneur m'a apparu. Et je t'ai aimée d'un amour éternel : c'est pour cela que je t'ai attirée ayant pitié de toi.
 
 
-4 Et de nouveau je t'édifierai, et tu seras édifiée, vierge d'Israël; tu paraîtras encore ornée au milieu des tambours, et tu sortiras dans un chœur de joueurs d'instruments.
+4 Et de nouveau je t'édifierai, et tu seras édifiée, vierge d'Israël; tu paraîtras encore ornée au milieu des tambours, et tu sortiras dans un choeur de joueurs d'instruments.
 
 ***Note*** :  Jr. 31, 4 : C’est-à-dire, vous serez encore dans la joie et vous célébrerez de fêtes.
 
@@ -53,7 +53,7 @@ Ephraïm se convertira, et le Seigneur aura pitié de lui et le sauvera, versets
 ***Note*** :  Jr. 31, 11 : Que lui. Ces mots sont dans l’hébreu et les Septante.
 
 
-12 Et ils viendront, et ils chanteront des louanges sur la montagne de Sion; et ils accourront en foule vers les biens du Seigneur, vers le blé, et le vin, et l'huile, et le fruit des troupeaux de menu et de gros bétail; et leur âme sera comme un jardin arrosé ; et ils n'auront plus faim. 13 Alors se réjouira la vierge au milieu d'un chœur, ainsi que les jeunes hommes et les vieillards ensemble; et je changerai leur deuil en joie, et je les consolerai, et je les remplirai d'allégresse après leur douleur. 14 Et j'enivrerai l'âme des prêtres de graisse, et mon peuple sera rempli de mes biens, dit le Seigneur.
+12 Et ils viendront, et ils chanteront des louanges sur la montagne de Sion; et ils accourront en foule vers les biens du Seigneur, vers le blé, et le vin, et l'huile, et le fruit des troupeaux de menu et de gros bétail; et leur âme sera comme un jardin arrosé ; et ils n'auront plus faim. 13 Alors se réjouira la vierge au milieu d'un choeur, ainsi que les jeunes hommes et les vieillards ensemble; et je changerai leur deuil en joie, et je les consolerai, et je les remplirai d'allégresse après leur douleur. 14 Et j'enivrerai l'âme des prêtres de graisse, et mon peuple sera rempli de mes biens, dit le Seigneur.
 
 ***Note*** :  Jr. 31, 14 : J’enivrerai, etc. ; allusion à l’usage des anciens Hébreux qui, dans les sacrifices, donnaient au prêtre les parties les plus grasses de la victime, après celles qui étaient offertes à Dieu.
 
@@ -63,7 +63,7 @@ Ephraïm se convertira, et le Seigneur aura pitié de lui et le sauvera, versets
 ***Note*** :  Jr. 31, 15 : Sur une hauteur. Comme nous l’avons déjà remarqué, on montait sur les hauteurs pour s’y lamenter dans les calamités. Saint Matthieu (voir Matthieu, 2, 17-18), citant ce passage de Jérémie, conserve le mot Rama ; qui est dans l’hébreu, et qui signifie en effet, hauteur, élévation. ― Rachel était aïeule d’Ephraïm ; c’est pourquoi elle est représentée ici pleurant la mort des enfants d’Ephraïm.
 
 
-16 Voici ce que dit le Seigneur : Que ta voix cesse ses gémissements, et tes yeux leurs larmes ; parce qu'il est une récompense à tes œuvres, dit le Seigneur, et ils reviendront de la terre de l'ennemi. 17 Et il est un espoir pour tes derniers moments, dit le Seigneur, et tes fils reviendront dans tes confins.
+16 Voici ce que dit le Seigneur : Que ta voix cesse ses gémissements, et tes yeux leurs larmes ; parce qu'il est une récompense à tes oeuvres, dit le Seigneur, et ils reviendront de la terre de l'ennemi. 17 Et il est un espoir pour tes derniers moments, dit le Seigneur, et tes fils reviendront dans tes confins.
 
 
 18 Entendant, j'ai entendu Ephraïm dans sa transmigration : Vous m'avez châtié et j'ai été instruit, comme un jeune taureau indompté; convertissez-moi et je serai converti, parce que vous êtes le Seigneur mon Dieu. 19 Car, après que vous m'avez converti, j'ai fait pénitence, et après que vous m'avez montré mon état, j'ai frappé ma cuisse, l'ai été confondu, et j'ai rougi, parce que j'ai supporté l'opprobre de ma jeunesse.
@@ -73,7 +73,7 @@ Ephraïm se convertira, et le Seigneur aura pitié de lui et le sauvera, versets
 
 ***Note*** :  Jr. 31, 20 : Ayant pitié, j’aurai pitié ; hébraïsme pour j’aurai entièrement pitié.
 
-21 Etablis-toi un lieu d'observation, abandonne-toi à l'amertume, dirige ton cœur vers la voie droite, dans laquelle tu as marché : retourne, vierge d'Israël, retourne vers ces cités tiennes. 22 Jusques à quand seras-tu énervée par les délices, fille vagabonde? parce que le Seigneur a créé un nouveau prodige sur la terre : UNE FEMME ENVIRONNERA UN HOMME.
+21 Etablis-toi un lieu d'observation, abandonne-toi à l'amertume, dirige ton coeur vers la voie droite, dans laquelle tu as marché : retourne, vierge d'Israël, retourne vers ces cités tiennes. 22 Jusques à quand seras-tu énervée par les délices, fille vagabonde? parce que le Seigneur a créé un nouveau prodige sur la terre : UNE FEMME ENVIRONNERA UN HOMME.
 
 ***Note*** :  Jr. 31, 22 : Un nouveau prodige ; qui consiste en ce qu’une femme portera dans son sein, non un enfant ordinaire, petit et faible, mais un homme fait, un homme parfait (virum) ; c’est-à-dire, suivant les Pères, la plupart des interprètes chrétiens, et même plusieurs Juifs, le Messie.
 
@@ -105,7 +105,7 @@ Ephraïm se convertira, et le Seigneur aura pitié de lui et le sauvera, versets
 32 Non pas selon l'alliance que j'ai formée avec leurs pères, au jour auquel je pris leur main, afin de les faire sortir de la terre d'Egypte; alliance qu'ils ont rendue vaine, et moi je les ai maîtrisés, dit le Seigneur.
 
 
-33 Mais voici l'alliance que je ferai avec la maison d'Israël après ces jours-là, dit le Seigneur : Je mettrai ma loi dans leurs entrailles, et je l'écrirai dans leur cœur; et je serai leur Dieu, et eux seront mon peuple.
+33 Mais voici l'alliance que je ferai avec la maison d'Israël après ces jours-là, dit le Seigneur : Je mettrai ma loi dans leurs entrailles, et je l'écrirai dans leur coeur; et je serai leur Dieu, et eux seront mon peuple.
 
 ***Note*** :  Jr. 31, 33 : Voir Hébreux, 10, 16.
 

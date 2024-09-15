@@ -11,19 +11,19 @@ draft: false
 
 3 Sanctis, qui sunt in terra eius, mirificavit omnes voluntates meas in eis.
 
-4 Multiplicatæ sunt infirmitates eorum: postea acceleraverunt. Non congregabo conventicula eorum de sanguinibus: nec memor ero nominum eorum per labia mea.
+4 Multiplicatae sunt infirmitates eorum: postea acceleraverunt. Non congregabo conventicula eorum de sanguinibus: nec memor ero nominum eorum per labia mea.
 
-5 Dominus pars hereditatis meæ, et calicis mei: tu es, qui restitues hereditatem meam mihi.
+5 Dominus pars hereditatis meae, et calicis mei: tu es, qui restitues hereditatem meam mihi.
 
-6 Funes ceciderunt mihi in præclaris: etenim hereditas mea præclara est mihi.
+6 Funes ceciderunt mihi in praeclaris: etenim hereditas mea praeclara est mihi.
 
 7 Benedicam Dominum, qui tribuit mihi intellectum: insuper et usque ad noctem increpuerunt me renes mei.
 
 8 Providebam Dominum in conspectu meo semper: quoniam a dextris est mihi, ne commovear.
 
-9 Propter hoc lætatum est cor meum, et exultavit lingua mea: insuper et caro mea requiescet in spe.
+9 Propter hoc laetatum est cor meum, et exultavit lingua mea: insuper et caro mea requiescet in spe.
 
 10 Quoniam non derelinques animam meam in inferno: nec dabis sanctum tuum videre corruptionem.
 
-11 Notas mihi fecisti vias vitæ, adimplebis me lætitia cum vultu tuo: delectationes in dextera tua usque in finem.
+11 Notas mihi fecisti vias vitae, adimplebis me laetitia cum vultu tuo: delectationes in dextera tua usque in finem.
 

@@ -4,7 +4,7 @@ date: 2024-09-06T20:00:42+02:00
 draft: false
 summary: |
   
-  Samarie et Jérusalem représentées sous le symbole de deux sœurs, Oolla et Ooliba.
+  Samarie et Jérusalem représentées sous le symbole de deux soeurs, Oolla et Ooliba.
   Oolla devenue infidèle porte la peine de son infidélité.
   Ooliba devenue plus infidèle qu’Oolla, boira jusqu’à la dernière goutte la coupe d’Oolla.
   Elles ont commis les mêmes crimes ; elles porteront aussi les mêmes peines.
@@ -21,15 +21,15 @@ summary: |
 
 2 Fils d'un homme, deux femmes furent filles d'une seule mère.
 
-***Note*** :  Éz. 23, 2-4 : Les Hébreux d’une même souche, nés d’Abraham et de Sara, n’ont fait qu’un peuple, et sont demeurés unis jusqu’au schisme arrivé après la mort de Salomon. Alors ce royaume fut séparé en deux parties, dont l’une composée des tribus de Juda et de Benjamin, reçut le nom de royaume de Juda, dont Jérusalem était la capitale ; et l’autre comprenant les dix autres tribus, s’appelait le royaume d’Israël, eut dans la suite Samarie pour capitale. Ces deux royaumes, sortis d’une même souche, sont figurés par les deux sœurs venant d’une même mère. Oolla, l’aînée, et dont le nom signifie tente d’elle, représente Samarie, ou le royaume d’Israël, au milieu duquel fut d’abord placé le tabernacle du Seigneur jusqu’à la mort du grand-prêtre Héli. Ooliba, qui est la jeune, et dont le nom signifie ma tente est en elle, représente Jérusalem, ou le royaume de Juda, au milieu duquel fut placé le tabernacle du Seigneur depuis la mort du grand-prêtre Héli. Ces deux grandes portions de l’ancien Israël ont été
-comparées aux deux grandes portions du nouvel Israël, les Orientaux et les Occidentaux ; l’église grecque qui a imité le schisme de Samarie, et l’église latine qui jouit des prérogatives de Jérusalem. Quant aux infidélités des deux sœurs, Oolla et Ooliba, elles peuvent figurer celles des chrétiens prévaricateurs, dont les châtiments sont tracés sous les châtiments de ces deux sœurs. Saint Jérôme applique en effet aux mauvais chrétiens ce chapitre même, ainsi que le seizième, où sont également comparées les deux sœurs.
+***Note*** :  Éz. 23, 2-4 : Les Hébreux d’une même souche, nés d’Abraham et de Sara, n’ont fait qu’un peuple, et sont demeurés unis jusqu’au schisme arrivé après la mort de Salomon. Alors ce royaume fut séparé en deux parties, dont l’une composée des tribus de Juda et de Benjamin, reçut le nom de royaume de Juda, dont Jérusalem était la capitale ; et l’autre comprenant les dix autres tribus, s’appelait le royaume d’Israël, eut dans la suite Samarie pour capitale. Ces deux royaumes, sortis d’une même souche, sont figurés par les deux soeurs venant d’une même mère. Oolla, l’aînée, et dont le nom signifie tente d’elle, représente Samarie, ou le royaume d’Israël, au milieu duquel fut d’abord placé le tabernacle du Seigneur jusqu’à la mort du grand-prêtre Héli. Ooliba, qui est la jeune, et dont le nom signifie ma tente est en elle, représente Jérusalem, ou le royaume de Juda, au milieu duquel fut placé le tabernacle du Seigneur depuis la mort du grand-prêtre Héli. Ces deux grandes portions de l’ancien Israël ont été
+comparées aux deux grandes portions du nouvel Israël, les Orientaux et les Occidentaux ; l’église grecque qui a imité le schisme de Samarie, et l’église latine qui jouit des prérogatives de Jérusalem. Quant aux infidélités des deux soeurs, Oolla et Ooliba, elles peuvent figurer celles des chrétiens prévaricateurs, dont les châtiments sont tracés sous les châtiments de ces deux soeurs. Saint Jérôme applique en effet aux mauvais chrétiens ce chapitre même, ainsi que le seizième, où sont également comparées les deux soeurs.
 
 3 Et elles ont forniqué en Egypte ; c'est dans leur jeunesse qu'elles ont forniqué : là leur sein a été déshonoré et leur virginité a été souillée.
 
 ***Note*** :  Éz. 23, 3 : Elles ont forniqué ; elles sont tombées dans l’idolâtrie.
 
 
-4 Or, Oolla était le nom de l'aînée, Ooliba le nom de sa jeune sœur; et je les ai eues pour femmes, et elles ont enfanté des fils et des filles. Quant à leurs noms, Oolla est Samarie, et Ooliba est Jérusalem.
+4 Or, Oolla était le nom de l'aînée, Ooliba le nom de sa jeune soeur; et je les ai eues pour femmes, et elles ont enfanté des fils et des filles. Quant à leurs noms, Oolla est Samarie, et Ooliba est Jérusalem.
 
 
 5 Oolla a donc forniqué contre moi, et elle a été follement éprise de ses amants, des Assyriens ses voisins,
@@ -49,14 +49,14 @@ comparées aux deux grandes portions du nouvel Israël, les Orientaux et les Occ
 ***Note*** :  Éz. 23, 10 : Voir Ezéchiel, 16, 37.
 
 
-11 Ce qu'ayant vu sa sœur Ooliba, elle a perdu le sens plus qu'elle par la passion, et elle a porté sa fornication plus loin que la fornication de sa sœur. 12 Elie s'est livrée impudemment aux fils des Assyriens, aux chefs et aux magistrats qui venaient à elle revêtus d'habits de diverses couleurs, aux cavaliers montés sur des chevaux, et à tous les jeunes hommes d'une beauté remarquable. 13 Et j'ai vu que la voie des deux sœurs était souillée.
+11 Ce qu'ayant vu sa soeur Ooliba, elle a perdu le sens plus qu'elle par la passion, et elle a porté sa fornication plus loin que la fornication de sa soeur. 12 Elie s'est livrée impudemment aux fils des Assyriens, aux chefs et aux magistrats qui venaient à elle revêtus d'habits de diverses couleurs, aux cavaliers montés sur des chevaux, et à tous les jeunes hommes d'une beauté remarquable. 13 Et j'ai vu que la voie des deux soeurs était souillée.
 
 
 14 Et elle a augmenté ses fornications ; et lorsqu'elle a vu des hommes peints sur la muraille, les images des Chaldéens tracées avec des couleurs,
 
 ***Note*** :  Éz. 23, 14-15 : Des hommes peints sur la muraille avec des couleurs, etc. C’est de la façon dont nous les décrivent ces deux versets que les Chaldéens et les Assyriens sont représentés sur les bas-reliefs retrouvés dans les ruines des palais assyriens.
 
-15 Et ces hommes ayant les reins ceints de leurs baudriers, et des tiares teintes sur leurs têtes, ayant tous l'aspect de chefs, et l'air des fils de Babylone et de la terre des Chaldéens dans laquelle ils sont nés, 16 Elle a perdu le sens par la concupiscence de ses yeux, et elle leur a envoyé des messagers en Chaldée. 17 Et lorsque les fils de Babylone sont venus au lieu de ses prostitutions, ils l'ont souillée de leurs impuretés, et elle a été souillée par eux, et son âme s'est rassasiée d'eux. 18 Elle a aussi mis a nu ses fornications, et elle a découvert son ignominie; et mon âme s'est retirée d'elle comme mon âme s'est retirée de sa sœur, 19 Car elle a multiplié ses fornications, se ressouvenant des jours de sa jeunesse pendant lesquels elle a forniqué dans la terre d'Egypte. 20 Et elle a perdu le sens par la passion, en s'abandonnant à ceux dont la brutalité est comme la brutalité des ânes et des chevaux. 21 Et tu as renouvelé le crime de ta jeunesse, quand ton sein a été déshonoré en Egypte, et que ta
+15 Et ces hommes ayant les reins ceints de leurs baudriers, et des tiares teintes sur leurs têtes, ayant tous l'aspect de chefs, et l'air des fils de Babylone et de la terre des Chaldéens dans laquelle ils sont nés, 16 Elle a perdu le sens par la concupiscence de ses yeux, et elle leur a envoyé des messagers en Chaldée. 17 Et lorsque les fils de Babylone sont venus au lieu de ses prostitutions, ils l'ont souillée de leurs impuretés, et elle a été souillée par eux, et son âme s'est rassasiée d'eux. 18 Elle a aussi mis a nu ses fornications, et elle a découvert son ignominie; et mon âme s'est retirée d'elle comme mon âme s'est retirée de sa soeur, 19 Car elle a multiplié ses fornications, se ressouvenant des jours de sa jeunesse pendant lesquels elle a forniqué dans la terre d'Egypte. 20 Et elle a perdu le sens par la passion, en s'abandonnant à ceux dont la brutalité est comme la brutalité des ânes et des chevaux. 21 Et tu as renouvelé le crime de ta jeunesse, quand ton sein a été déshonoré en Egypte, et que ta
 virginité a été souillée.
 
 
@@ -82,14 +82,14 @@ virginité a été souillée.
 
 ***Note*** :  Éz. 23, 30 : Ils t’ont fait cela. Ainsi portent l’hébreu et les Septante aussi bien que la Vulgate ; mais le contexte demande le futur, ils feront.
 
-31 Tu as marché dans la voie de ta sœur, et je mettrai son calice dans ta main.
+31 Tu as marché dans la voie de ta soeur, et je mettrai son calice dans ta main.
 
 
-32 Voici ce que dit le Seigneur Dieu : Tu boiras le calice de ta sœur, profond et large, et tu seras un objet de dérision et d'insulte ; calice qui est immense.
+32 Voici ce que dit le Seigneur Dieu : Tu boiras le calice de ta soeur, profond et large, et tu seras un objet de dérision et d'insulte ; calice qui est immense.
 
-***Note*** :  Éz. 23, 32 : Calice qui est immense ; littéralement, laquelle contient beaucoup (quæ est capacissima) ; le mot calice étant du féminin en hébreu, saint Jérôme a conservé ce même genre dans le latin. Quant à la signification calice, dans le style de prophètes, se met ordinairement pour les maux qu’on est obligé de souffrir.
+***Note*** :  Éz. 23, 32 : Calice qui est immense ; littéralement, laquelle contient beaucoup (quae est capacissima) ; le mot calice étant du féminin en hébreu, saint Jérôme a conservé ce même genre dans le latin. Quant à la signification calice, dans le style de prophètes, se met ordinairement pour les maux qu’on est obligé de souffrir.
 
-33 Tu seras remplie d'ivresse et de douleur, par un calice d'affliction et de tristesse, par le calice de ta sœur Samarie. 34 Et tu le boiras, et tu le puiseras jusqu'à la lie, tu en dévoreras les fragments et tu déchireras ton sein; parce que moi j'ai parlé, dit le Seigneur Dieu. 35 A cause de cela, voici ce que dit le Seigneur Dieu : Parce que tu m'as oublié, et que tu m'as rejeté derrière ton corps, loi aussi porte ton crime et tes fornications.
+33 Tu seras remplie d'ivresse et de douleur, par un calice d'affliction et de tristesse, par le calice de ta soeur Samarie. 34 Et tu le boiras, et tu le puiseras jusqu'à la lie, tu en dévoreras les fragments et tu déchireras ton sein; parce que moi j'ai parlé, dit le Seigneur Dieu. 35 A cause de cela, voici ce que dit le Seigneur Dieu : Parce que tu m'as oublié, et que tu m'as rejeté derrière ton corps, loi aussi porte ton crime et tes fornications.
 
 
 36 Et le Seigneur me parla, disant : Fils d'un homme, est-ce que tu ne juges pas Oolla et Ooliba, et que tu ne leur annonces pas leurs crimes? 37 Parce qu'elles sont adultères, et que leur sang est dans leurs mains, et qu'elles ont forniqué avec leurs idoles; de plus les fils mêmes qu'elles m'ont engendrés, elles les leur ont offerts pour les dévorer.
@@ -116,7 +116,7 @@ virginité a été souillée.
 
 45 Ces hommes donc sont justes; ce sont eux qui les jugeront du jugement des femmes adultères et du jugement de celles qui répandent le sang, parce qu'elles sont adultères et que le sang est dans leurs mains.
 
-***Note*** :  Éz. 23, 45 : Sont justes ; comparativement à ces femmes criminelles ; Dieu les emploie pour servir de ministres à sa juste vengeance contre elles. C’est ainsi que Samarie et Sodome sont dites plus haut (voir Ezéchiel, 16, 51-52) justifiées par Jérusalem devenue beaucoup plus coupable que ses deux sœurs.
+***Note*** :  Éz. 23, 45 : Sont justes ; comparativement à ces femmes criminelles ; Dieu les emploie pour servir de ministres à sa juste vengeance contre elles. C’est ainsi que Samarie et Sodome sont dites plus haut (voir Ezéchiel, 16, 51-52) justifiées par Jérusalem devenue beaucoup plus coupable que ses deux soeurs.
 
 46 Car voici ce que dit le Seigneur Dieu : Amène contre elles une multitude, et livre-les au tumulte et au pillage ; 47 Et qu'elles soient lapidées avec les pierres des peuples, et qu'elles soient percées par leurs glaives; ils tueront leurs fils et leurs filles; et leurs maisons, ils les brûleront par le feu. 48 Et j'enlèverai le crime de la terre, et toutes les femmes apprendront à ne pas agir selon le crime de celles-ci. 49 Ils reporteront votre crime sur vous, et vous porterez les péchés de vos idoles; et vous saurez que je suis le Seigneur Dieu.
 

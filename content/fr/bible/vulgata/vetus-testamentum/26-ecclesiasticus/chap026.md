@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 Mulieris bonæ beatus vir: numerus enim annorum illius duplex.
+1 Mulieris bonae beatus vir: numerus enim annorum illius duplex.
 
-2 Mulier fortis oblectat virum suum, et annos vitæ illius in pace implebit.
+2 Mulier fortis oblectat virum suum, et annos vitae illius in pace implebit.
 
 3 Pars bona, mulier bona, in parte timentium Deum dabitur viro pro factis bonis:
 
@@ -21,7 +21,7 @@ draft: false
 
 8 dolor cordis et luctus, mulier zelotypa.
 
-9 In muliere zelotypa flagellum linguæ, omnibus communicans.
+9 In muliere zelotypa flagellum linguae, omnibus communicans.
 
 10 Sicut boum iugum, quod movetur, ita et mulier nequam: qui tenet illam, quasi qui apprehendit scorpionem.
 
@@ -35,29 +35,29 @@ draft: false
 
 15 sicut viator sitiens, ad fontem os aperiet, et ab omni aqua proxima bibet, et contra omnem palum sedebit, et contra omnem sagittam aperiet pharetram donec deficiat.
 
-16 Gratia mulieris sedulæ delectabit virum suum, et ossa illius impinguabit.
+16 Gratia mulieris sedulae delectabit virum suum, et ossa illius impinguabit.
 
 17 Disciplina illius datum Dei est.
 
-18 Mulier sensata et tacita, non est immutatio eruditæ animæ.
+18 Mulier sensata et tacita, non est immutatio eruditae animae.
 
 19 Gratia super gratiam mulier sancta, et pudorata.
 
-20 Omnis autem ponderatio non est digna continentis animæ.
+20 Omnis autem ponderatio non est digna continentis animae.
 
-21 Sicut sol oriens mundo in altissimis Dei, sic mulieris bonæ species in ornamentum domus eius.
+21 Sicut sol oriens mundo in altissimis Dei, sic mulieris bonae species in ornamentum domus eius.
 
-22 lucerna splendens super candelabrum sanctum, et species faciei super ætatem stabilem.
+22 lucerna splendens super candelabrum sanctum, et species faciei super aetatem stabilem.
 
-23 Columnæ aureæ super bases argenteas, et pedes firmi super plantas stabilis mulieris.
+23 Columnae aureae super bases argenteas, et pedes firmi super plantas stabilis mulieris.
 
-24 Fundamenta æterna supra petram solidam, et mandata Dei in corde mulieris sanctæ.
+24 Fundamenta aeterna supra petram solidam, et mandata Dei in corde mulieris sanctae.
 
 25 In duobus contristatum est cor meum, et in tertio iracundia mihi advenit:
 
 26 Vir bellator deficiens per inopiam: et vir sensatus contemptus:
 
-27 et qui transgreditur a iustitia ad peccatum, Deus paravit eum ad rhomphæam.
+27 et qui transgreditur a iustitia ad peccatum, Deus paravit eum ad rhomphaeam.
 
-28 Duæ species difficiles et periculosæ mihi apparuerunt, difficile exuitur negotians a negligentia: et non iustificabitur caupo a peccatis labiorum.
+28 Duae species difficiles et periculosae mihi apparuerunt, difficile exuitur negotians a negligentia: et non iustificabitur caupo a peccatis labiorum.
 

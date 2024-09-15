@@ -39,7 +39,7 @@ summary: |
 
 ***Note*** :  Jr. 16, 10 : Voir Jérémie, 5, 19.
 
-11 Tu leur diras : C'est parce que vos pères m'ont abandonné, dit le Seigneur, qu'ils ont couru après des dieux étrangers, qu'ils les ont servis, qu'ils les ont adorés; et qu'ils m'ont abandonné, et qu'ils n'ont point gardé ma loi. 12 Mais vous-même, vous avez fait pis que vos pères ; car voilà que chacun marche à la suite de la dépravation de son cœur mauvais, afin de ne pas m'écouter.
+11 Tu leur diras : C'est parce que vos pères m'ont abandonné, dit le Seigneur, qu'ils ont couru après des dieux étrangers, qu'ils les ont servis, qu'ils les ont adorés; et qu'ils m'ont abandonné, et qu'ils n'ont point gardé ma loi. 12 Mais vous-même, vous avez fait pis que vos pères ; car voilà que chacun marche à la suite de la dépravation de son coeur mauvais, afin de ne pas m'écouter.
 
 ***Note*** :  Jr. 16, 12 : Voir Jérémie, 7, 26.
 

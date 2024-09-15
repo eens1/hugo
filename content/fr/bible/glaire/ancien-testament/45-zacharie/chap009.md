@@ -11,12 +11,12 @@ summary: |
 ---
 
 
-1 Malheur accablant de la parole du Seigneur contre la terre d'Hadrach et de Damas, lieu de son repos ; parce que l'œil du Seigneur est sur un homme et sur toutes les tribus d'Israël.
+1 Malheur accablant de la parole du Seigneur contre la terre d'Hadrach et de Damas, lieu de son repos ; parce que l'oeil du Seigneur est sur un homme et sur toutes les tribus d'Israël.
 
 ***Note*** :  Zach. 9, 1-17 : IIIe section : Prophéties contre Hadrach et Israël, du chapitre 9 au chapitre 14. ― La dernière section contient deux oracles, qui portent le nom de massa’ ou malheur accablant ; le premier est dirigé contre Hadrach et les pays voisins, du chapitre 9 au chapitre 11 ; le second contre Israël, du chapitre 12 au chapitre 14. ― 1° Oracle contre Hadrach. La position de cette ville est restée inconnue jusqu’à nos jours ; un certain nombre d’exégètes, même contemporains, ont soutenu que ce nom était purement symbolique et ne répondait à aucune réalité ; c’est une erreur : la ville d’Hadrach a existé ; elle est plusieurs fois mentionnée dans le récit des guerres des rois d’Assyrie ; elle était située en Syrie. Elle est mentionnée ici avec tous les pays voisins, Damas, Hamath, la Phénicie et le pays des Philistins. Toute cette contrée sera ruinée, chapitre 9, ce qui eut lieu par les armes d’Alexandre le Grand ; le peuple de Dieu, au contraire, sera béni et puissant, chapitre 10 ; il reviendra de
 la captivité sous son nouveau roi.
 
-***Note*** :  Zach. 9, 1 : Malheur accablant. Voir Isaïe, 13, 1. ― Hadrach est selon la plupart des nouveaux interprètes le nom d’une petite contrée voisine de Damas. ― Lieu de son repos ; c’est-à-dire, qu’Hadrach se reposait sur Damas, mettait toute sa confiance en elle. Les anciens l’ont pris pour un mot symbolique, qui doit s’expliquer par sa signification même ; mais on est loin de s’accorder sur son vrai sens. ― Il paraît que les prophéties contenues dans ce chapitre contre les Syriens, les Phéniciens et les Philistins regardent les expéditions d’Alexandre le Grand contre ces peuples. ― L’œil du Seigneur, etc. , veille sur chaque homme en particulier et sur toutes les tribus d’Israël (comparer au verset 8) ; littéralement, selon la Vulgate et l’hébreu du (ou au) Seigneur est l’œil (c’est-à-dire, l’inspection, l’observation) d’un homme et de toutes, etc. , et, selon les Septante, le Seigneur inspecte (ou observe) hommes et toutes tribus d’Israël.
+***Note*** :  Zach. 9, 1 : Malheur accablant. Voir Isaïe, 13, 1. ― Hadrach est selon la plupart des nouveaux interprètes le nom d’une petite contrée voisine de Damas. ― Lieu de son repos ; c’est-à-dire, qu’Hadrach se reposait sur Damas, mettait toute sa confiance en elle. Les anciens l’ont pris pour un mot symbolique, qui doit s’expliquer par sa signification même ; mais on est loin de s’accorder sur son vrai sens. ― Il paraît que les prophéties contenues dans ce chapitre contre les Syriens, les Phéniciens et les Philistins regardent les expéditions d’Alexandre le Grand contre ces peuples. ― L’oeil du Seigneur, etc. , veille sur chaque homme en particulier et sur toutes les tribus d’Israël (comparer au verset 8) ; littéralement, selon la Vulgate et l’hébreu du (ou au) Seigneur est l’oeil (c’est-à-dire, l’inspection, l’observation) d’un homme et de toutes, etc. , et, selon les Septante, le Seigneur inspecte (ou observe) hommes et toutes tribus d’Israël.
 
 
 2 Contre Emath aussi sur ses frontières, et contre Tyr et Sidon ; car elles se sont attribué une bien grande sagesse. 3 Et Tyr a bâti ses fortifications, et a entassé l'argent comme la poussière, et l'or comme la boue des places publiques. 4 Voici que le Seigneur s'en rendra maître, et il brisera sa force sur la mer, et elle sera dévorée par le feu.
@@ -39,7 +39,7 @@ la captivité sous son nouveau roi.
 
 8 Et j'environnerai ma maison de ceux qui combattent pour moi; ils iront et reviendront; et il ne passera plus sur eux d'exacteur; parce que maintenant je les ai vus de mes yeux.
 
-***Note*** :  Zach. 9, 8 : Sur eux ; sur mon peuple. ― De mes yeux ; d’un œil favorable.
+***Note*** :  Zach. 9, 8 : Sur eux ; sur mon peuple. ― De mes yeux ; d’un oeil favorable.
 
 9 Exulte complètement, fille de Sion ; jubile, fille de Jérusalem ; VOICI QUE TON ROI viendra à toi, juste et sauveur; lui-même pauvre, et monté sur une ânesse et sur un poulain, petit d'une ânesse.
 

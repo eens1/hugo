@@ -18,11 +18,11 @@ summary: |
 3 Et je ramènerai tout le peuple, comme un seul homme a coutume de revenir; car c'est un seul homme que vous cherchez vous-même ; et tout le peuple sera en paix. 4 Et sa parole plut à Absalom et à tous les anciens d'Israël.
 
 
-5 Mais Absalom dit : Appelez Chusaï, l'Arachite, et écoutons ce que lui aussi dira. 6 Et lorsque Chusaï fut venu vers Absalom, Absalom lui dit : Achitophel a dit cette parole; devons-nous l'exécuter ou non? quel conseil donnes-tu? 7 Et Chusaï répondit à Absalom : Ce n'est pas un bon conseil qu'a donné Achitophel cette fois. 8 Et Chusaï ajouta encore : Vous savez que votre père et les hommes qui sont avec lui sont très vaillants, et d'un cœur outré, comme si une ourse était furieuse, ses petits lui ayant été ravis dans la forêt ; et votre père aussi, homme de guerre, ne restera point avec le peuple.
+5 Mais Absalom dit : Appelez Chusaï, l'Arachite, et écoutons ce que lui aussi dira. 6 Et lorsque Chusaï fut venu vers Absalom, Absalom lui dit : Achitophel a dit cette parole; devons-nous l'exécuter ou non? quel conseil donnes-tu? 7 Et Chusaï répondit à Absalom : Ce n'est pas un bon conseil qu'a donné Achitophel cette fois. 8 Et Chusaï ajouta encore : Vous savez que votre père et les hommes qui sont avec lui sont très vaillants, et d'un coeur outré, comme si une ourse était furieuse, ses petits lui ayant été ravis dans la forêt ; et votre père aussi, homme de guerre, ne restera point avec le peuple.
 
 ***Note*** :  II Rois 17, 8 : Il ne restera point dans la plaine sans défense, mais il cherchera quelque endroit où il sera en sûreté et pourra se défendre.
 
-9 Peut-être est-il maintenant caché dans les cavernes, ou en un autre lieu qu'il aura voulu ; et si quelqu'un, quel qu'il soit, tombe au commencement, on l'apprendra, et quiconque l'apprendra , dira : Il a été fait une grande plaie sur le peuple qui suivait Absalom. 10 Et tous les plus vaillants, dont le cœur est comme celui du lion, seront saisis d'effroi ; car tout le peuple d'Israël sait que votre père est vaillant, et que tous ceux qui sont avec lui sont vigoureux. 11 Mais ceci me semble être un bon conseil : que tout Israël s'assemble près de vous, depuis Dan jusqu'à Bersabée , comme le sable innombrable de la mer, et vous, vous serez au milieu d'eux.
+9 Peut-être est-il maintenant caché dans les cavernes, ou en un autre lieu qu'il aura voulu ; et si quelqu'un, quel qu'il soit, tombe au commencement, on l'apprendra, et quiconque l'apprendra , dira : Il a été fait une grande plaie sur le peuple qui suivait Absalom. 10 Et tous les plus vaillants, dont le coeur est comme celui du lion, seront saisis d'effroi ; car tout le peuple d'Israël sait que votre père est vaillant, et que tous ceux qui sont avec lui sont vigoureux. 11 Mais ceci me semble être un bon conseil : que tout Israël s'assemble près de vous, depuis Dan jusqu'à Bersabée , comme le sable innombrable de la mer, et vous, vous serez au milieu d'eux.
 
 ***Note*** :  II Rois 17, 11 : Depuis Dan jusqu’à Bersabée. Voir Juges, note 20. 1.
 
@@ -52,7 +52,7 @@ summary: |
 23 Mais Achitophel, voyant que son conseil n'avait pas été suivi, sella son âne et se leva, et s'en alla en sa maison et en sa ville ; et, sa maison réglée, il se pendit, et il fut enseveli dans le sépulcre de son père.
 
 
-24 Ensuite David vint dans le camp, et Absalom passa le Jourdain, lui et tous les hommes d'Israël avec lui. 25 Et Absalom établit Amasa sur l'armée au lieu de Joab. Or Amasa était fils d'un homme qui s'appelait Jétra, de Jezraël, qui avait été avec Abigaïl, fille de Naas, sœur de Sarvia, laquelle fut mère de Joab.
+24 Ensuite David vint dans le camp, et Absalom passa le Jourdain, lui et tous les hommes d'Israël avec lui. 25 Et Absalom établit Amasa sur l'armée au lieu de Joab. Or Amasa était fils d'un homme qui s'appelait Jétra, de Jezraël, qui avait été avec Abigaïl, fille de Naas, soeur de Sarvia, laquelle fut mère de Joab.
 
 ***Note*** :  II Rois 17, 25 : Avait été avec Abigaïl. D’autres traduisent, avait épousé Abigaïl ; mais ni la Vulgate, ni l’hébreu ne le disent. ― Naas est le même qu’Isaï, que portent ici quelques exemplaires de la version grecque. D’ailleurs la généalogie de Naas qui figure ici est celle qu’on donne à Isaï, dans 1 Paralipomènes, 2, vv. 13, 15-16.
 

@@ -32,7 +32,7 @@ summary: |
 
 17 Mais si nous sommes enfants, nous sommes aussi héritiers; héritiers de Dieu et cohéritiers de Jésus-Christ, pourvu cependant que nous souffrions avec lui, afin d'être glorifiés avec lui. 18 Or j'estime que les souffrances du temps présent ne sont pas dignes de la gloire future qui sera révélée en nous.
 
-***Note*** :  Rm. 8, 18 : Ne sont pas dignes (non sunt condignæ); sont sans proportion avec la gloire future; cachée maintenant dans le Ciel (voir Colossiens, 3, 3-4 ; 1 Pierre, 1, 4). Elle sera révélée lorsque le royaume messianique sera inauguré dans toute sa splendeur par l’avènement de Jésus-Christ et la résurrection des morts.
+***Note*** :  Rm. 8, 18 : Ne sont pas dignes (non sunt condignae); sont sans proportion avec la gloire future; cachée maintenant dans le Ciel (voir Colossiens, 3, 3-4 ; 1 Pierre, 1, 4). Elle sera révélée lorsque le royaume messianique sera inauguré dans toute sa splendeur par l’avènement de Jésus-Christ et la résurrection des morts.
 
 
 19 Aussi la créature attend d'une vive attente la manifestation des enfants de Dieu.

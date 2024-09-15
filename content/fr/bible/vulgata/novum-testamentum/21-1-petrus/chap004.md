@@ -9,9 +9,9 @@ draft: false
 
 2 Ut iam non desideriis hominum, sed voluntati Dei, quod reliquum est in carne vivat temporis.
 
-3 Sufficit enim præteritum tempus ad voluntatem Gentium consummandam his, qui ambulaverunt in luxuriis, desideriis, vinolentiis, comessationibus, potationibus, et illicitis idolorum cultibus.
+3 Sufficit enim praeteritum tempus ad voluntatem Gentium consummandam his, qui ambulaverunt in luxuriis, desideriis, vinolentiis, comessationibus, potationibus, et illicitis idolorum cultibus.
 
-4 In quo admirantur non concurrentibus vobis in eamdem luxuriæ confusionem, blasphemantes.
+4 In quo admirantur non concurrentibus vobis in eamdem luxuriae confusionem, blasphemantes.
 
 5 Qui reddent rationem ei, qui paratus est iudicare vivos et mortuos.
 
@@ -23,15 +23,15 @@ draft: false
 
 9 Hospitales invicem sine murmuratione:
 
-10 Unusquisque, sicut accepit gratiam, in alterutrum illam administrantes, sicut boni dispensatores multiformis gratiæ Dei.
+10 Unusquisque, sicut accepit gratiam, in alterutrum illam administrantes, sicut boni dispensatores multiformis gratiae Dei.
 
-11 Si quis loquitur, quasi sermones Dei: si quis ministrat, tamquam ex virtute, quam administrat Deus: ut in omnibus honorificetur Deus per Iesum Christum: cui est gloria, et imperium in sæcula sæculorum: Amen.
+11 Si quis loquitur, quasi sermones Dei: si quis ministrat, tamquam ex virtute, quam administrat Deus: ut in omnibus honorificetur Deus per Iesum Christum: cui est gloria, et imperium in saecula saeculorum: Amen.
 
 12 Charissimi, nolite peregrinari in fervore, qui ad tentationem vobis fit, quasi novi aliquid vobis contingat:
 
-13 sed communicantes Christi passionibus gaudete, ut et in revelatione gloriæ eius gaudeatis exultantes.
+13 sed communicantes Christi passionibus gaudete, ut et in revelatione gloriae eius gaudeatis exultantes.
 
-14 Si exprobramini in nomine Christi, beati eritis: quoniam quod est honoris, gloriæ, et virtutis Dei, et qui est eius Spiritus, super vos requiescit.
+14 Si exprobramini in nomine Christi, beati eritis: quoniam quod est honoris, gloriae, et virtutis Dei, et qui est eius Spiritus, super vos requiescit.
 
 15 Nemo autem vestrum patiatur ut homicida, aut fur, aut maledicus, aut alienorum appetitor.
 

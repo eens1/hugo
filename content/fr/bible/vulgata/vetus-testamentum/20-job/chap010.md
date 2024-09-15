@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Tædet animam meam vitæ meæ, dimittam adversum me eloquium meum, loquar in amaritudine animæ meæ.
+1 Taedet animam meam vitae meae, dimittam adversum me eloquium meum, loquar in amaritudine animae meae.
 
 2 Dicam Deo: Noli me condemnare: indica mihi cur me ita iudices.
 
@@ -15,13 +15,13 @@ draft: false
 
 5 Numquid sicut dies hominis dies tui, et anni tui sicut humana sunt tempora,
 
-6 Ut quæras iniquitatem meam, et peccatum meum scruteris?
+6 Ut quaeras iniquitatem meam, et peccatum meum scruteris?
 
 7 Et scias quia nihil impium fecerim, cum sit nemo qui de manu tua possit eruere.
 
-8 Manus tuæ fecerunt me, et plasmaverunt me totum in circuitu: et sic repente præcipitas me?
+8 Manus tuae fecerunt me, et plasmaverunt me totum in circuitu: et sic repente praecipitas me?
 
-9 Memento quæso quod sicut lutum feceris me, et in pulverem reduces me.
+9 Memento quaeso quod sicut lutum feceris me, et in pulverem reduces me.
 
 10 Nonne sicut lac mulsisti me, et sicut caseum me coagulasti?
 
@@ -29,15 +29,15 @@ draft: false
 
 12 Vitam et misericordiam tribuisti mihi, et visitatio tua custodivit spiritum meum.
 
-13 Licet hæc celes in corde tuo, tamen scio quia universorum memineris.
+13 Licet haec celes in corde tuo, tamen scio quia universorum memineris.
 
 14 Si peccavi, et ad horam pepercisti mihi: cur ab iniquitate mea mundum me esse non pateris?
 
-15 Et si impius fuero, væ mihi est: et si iustus, non levabo caput, saturatus afflictione et miseria.
+15 Et si impius fuero, vae mihi est: et si iustus, non levabo caput, saturatus afflictione et miseria.
 
-16 Et propter superbiam quasi leænam capies me, reversusque mirabiliter me crucias.
+16 Et propter superbiam quasi leaenam capies me, reversusque mirabiliter me crucias.
 
-17 Instauras testes tuos contra me, et multiplicas iram tuam adversum me, et pœnæ militant in me.
+17 Instauras testes tuos contra me, et multiplicas iram tuam adversum me, et poenae militant in me.
 
 18 Quare de vulva eduxisti me? qui utinam consumptus essem ne oculus me videret.
 
@@ -47,5 +47,5 @@ draft: false
 
 21 Antequam vadam et non revertar, ad terram tenebrosam, et opertam mortis caligine:
 
-22 Terram miseriæ et tenebrarum, ubi umbra mortis, et nullus ordo, sed sempiternus horror inhabitat.
+22 Terram miseriae et tenebrarum, ubi umbra mortis, et nullus ordo, sed sempiternus horror inhabitat.
 

@@ -17,7 +17,7 @@ summary: |
 
 ***Note*** :  Sir. 18, 1 : Voir Genèse, 1, 1. ― Ensemble ; c’est-à-dire généralement, sans aucune exception, ou, selon d’autres, en même temps, dans le même moment ; mais la première explication nous paraît plus probable. Le simul de la Vulgate a ici le même sens que dans Psaumes, 13, 3 ; 48, vv. 2, 10. ― Sera justifié ; sera trouvé juste, reconnu pour juste.
 
-2 Qui peut suffire à raconter ses œuvres? 3 Car qui sondera ses merveilles? 4 Et la puissance de sa grandeur, qui l'énoncera? ou qui entreprendra d'expliquer sa miséricorde ? 5 Il n'y a pas à diminuer ni à ajouter, ni à découvrir aux merveilles de Dieu. 6 Lorsque l'homme aura fini, c'est alors qu'il commencera ; et lorsqu'il se sera arrêté, il se trouvera dans la perplexité.
+2 Qui peut suffire à raconter ses oeuvres? 3 Car qui sondera ses merveilles? 4 Et la puissance de sa grandeur, qui l'énoncera? ou qui entreprendra d'expliquer sa miséricorde ? 5 Il n'y a pas à diminuer ni à ajouter, ni à découvrir aux merveilles de Dieu. 6 Lorsque l'homme aura fini, c'est alors qu'il commencera ; et lorsqu'il se sera arrêté, il se trouvera dans la perplexité.
 
 ***Note*** :  Sir. 18, 6 : Aura fini de chercher à découvrir les merveilles (voir verset 5). ― Il commencera ; ce sera comme s’il ne faisait que de commencer. ― Se sera arrêté dans ses recherches.
 
@@ -30,7 +30,7 @@ summary: |
 
 ***Note*** :  Sir. 18, 8 : Voir Psaumes, 89, 10.
 
-9 A cause de cela le Seigneur est patient envers les hommes, et il répand sur eux sa miséricorde. 10 Il a vu que la présomption de leur cœur est mauvaise, et il a connu que leur fin est mauvaise.
+9 A cause de cela le Seigneur est patient envers les hommes, et il répand sur eux sa miséricorde. 10 Il a vu que la présomption de leur coeur est mauvaise, et il a connu que leur fin est mauvaise.
 
 ***Note*** :  Sir. 18, 10 : Que leur fin est mauvaise. Le mot subversio de la Vulgate signifiant ordinairement renversement, ruine, destruction, nous avons cru devoir le rendre par fin, c’est-à-dire mort ; d’autant plus que les Septante présentent le même sens.
 
@@ -65,7 +65,7 @@ summary: |
 
 24 Souviens-toi de la colère au jour de la consommation, et du temps de la rétribution, lorsqu'il détournera sa face.
 
-***Note*** :  Sir. 18, 24 : Voir Ecclésiastique, 7, 18. ― Du jour de la consommation ; c’est-à-dire du jour dernier. ― Du temps ; second complément du verbe souviens-toi (memento). Il devrait être régulièrement au génitif comme le premier de la colère (iræ) ; mais il est à l’accusatif (tempus) dans la Vulgate et les Septante. La Bible, comme nous l’avons déjà remarqué, fournit plus d’un exemple de ce genre d’anomalie. ― Lorsqu’il détournera sa face des impies. C’est le vrai sens de in conversatione faciei expliqué par le grec.
+***Note*** :  Sir. 18, 24 : Voir Ecclésiastique, 7, 18. ― Du jour de la consommation ; c’est-à-dire du jour dernier. ― Du temps ; second complément du verbe souviens-toi (memento). Il devrait être régulièrement au génitif comme le premier de la colère (irae) ; mais il est à l’accusatif (tempus) dans la Vulgate et les Septante. La Bible, comme nous l’avons déjà remarqué, fournit plus d’un exemple de ce genre d’anomalie. ― Lorsqu’il détournera sa face des impies. C’est le vrai sens de in conversatione faciei expliqué par le grec.
 
 25 Souviens-toi de la pauvreté au jour de l'abondance, et des nécessités de la pauvreté au jour des richesses.
 

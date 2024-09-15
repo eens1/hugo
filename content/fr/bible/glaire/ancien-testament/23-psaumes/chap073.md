@@ -44,7 +44,7 @@ summary: |
 ***Note*** :  Ps. 73, 7 : Voir 4 Rois, 25, 9. ― Ils ont souillé sur la terre ; c’est-à-dire en le renversant par terre.
 
 
-8 Ils ont dit dans leur cœur, eux et tous leurs alliés ensemble : Faisons cesser de dessus la terre tous les jours de fêtes de Dieu. 9 Nous ne voyons plus nos signes: il n'y a point de prophètes, et Dieu ne nous connaîtra plus.
+8 Ils ont dit dans leur coeur, eux et tous leurs alliés ensemble : Faisons cesser de dessus la terre tous les jours de fêtes de Dieu. 9 Nous ne voyons plus nos signes: il n'y a point de prophètes, et Dieu ne nous connaîtra plus.
 
 ***Note*** :  Ps. 73, 9 : Nos signes ; les prodiges qui nous ont été promis dans la loi et dont une partie a été opérée en faveur de nos pères. ― Il n’y a point de prophète. C’est la plainte des Juifs captifs à Babylone, dans leur désespoir ; plainte au fond exagérée, puisque Daniel était à Babylone. Il est vrai qu’il y prophétisa peu, et que ses principales prophéties lui furent révélées à Suse (voir Daniel, chapitres 7 à 11). Quant aux signes ou prodiges, s’ils ne virent pas à Babylone ces grands coups d’éclat, comme on en avait vu anciennement en Egypte et dans le désert, ils furent cependant témoins de la délivrance miraculeuse de Daniel et de ses compagnons, de la fournaise ardente (voir Daniel, 3, verset 20 et suivants) ; et de celle de Daniel, de la fosse aux lions (voir Daniel, 14, verset 30 et suivants) ; de la justification miraculeuse de la chaste Suzanne (voir Daniel, 13, verset 45 et suivants) ; de la métamorphose de Nabuchodonosor (voir Daniel, 4, verset 13 et suivants) ; enfin des derniers moments de
 Balthasar, roi des Chaldéens (voir Daniel, 5, verset 22 et suivants).

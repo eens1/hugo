@@ -47,7 +47,7 @@ summary: |
 ***Note*** :  Lv. 20, 16 : Voir Lévitique, 18, 23.
 
 
-17 Si quelqu'un prend sa sœur, fille de son père, ou fille de sa mère et voit sa nudité, et que cette sœur aperçoive l'ignominie de son frère, ils ont fait une chose horrible : ils seront tués en la présence de leur peuple, parce qu'ils ont découvert leur nudité l'un à l'autre, et ils porteront leur iniquité.
+17 Si quelqu'un prend sa soeur, fille de son père, ou fille de sa mère et voit sa nudité, et que cette soeur aperçoive l'ignominie de son frère, ils ont fait une chose horrible : ils seront tués en la présence de leur peuple, parce qu'ils ont découvert leur nudité l'un à l'autre, et ils porteront leur iniquité.
 
 
 18 Celui qui s'approche d'une femme pendant ses mois et révèle sa nudité, et qu'elle-même se fasse voir en cet état, ils seront exterminés tous les deux du milieu de leur peuple.

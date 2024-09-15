@@ -10,13 +10,13 @@ summary: |
 ---
 
 
-1 L'ÉPOUSE. Qu'il vienne, mon bien-aimé, dans son jardin, et qu'il mange le fruit de ses arbres. — L'ÉPOUX. Je suis venu dans mon jardin, ma sœur, épouse, j'ai recueilli ma myrrhe avec mes aromates ; j'ai mangé le rayon avec le miel, j'ai bu mon vin avec mon lait : mangez, mes amis, et buvez; enivrez-vous, mes bien chers.
+1 L'ÉPOUSE. Qu'il vienne, mon bien-aimé, dans son jardin, et qu'il mange le fruit de ses arbres. — L'ÉPOUX. Je suis venu dans mon jardin, ma soeur, épouse, j'ai recueilli ma myrrhe avec mes aromates ; j'ai mangé le rayon avec le miel, j'ai bu mon vin avec mon lait : mangez, mes amis, et buvez; enivrez-vous, mes bien chers.
 
 ***Note*** :  Cant. 5, 1 : Enivrez-vous (inebriamini). Dans ce passage, comme dans plusieurs autres, le verbe inebriare ne signifie pas boire au point de troubler le cerveau, il veut dire seulement boire autant que la soif et la nécessité le demandent, ou bien encore faire grande chère, se réjouir.
 
 
-2 L'ÉPOUSE. Je dors, mais mon cœur veille ; c'est la voix de mon bien-aimé qui frappe.
-— L'ÉPOUX. Ouvre-moi, ma sœur, mon amie, ma colombe, mon immaculée ; parce que ma tête est chargée de rosée, et les boucles de mes cheveux, des gouttes qui tombent pendant les nuits. 3 L'ÉPOUSE. Je me suis dépouillée de ma tunique ; comment m'en revêtirai-je ? j'ai lavé mes pieds, comment les salirai-je ?
+2 L'ÉPOUSE. Je dors, mais mon coeur veille ; c'est la voix de mon bien-aimé qui frappe.
+— L'ÉPOUX. Ouvre-moi, ma soeur, mon amie, ma colombe, mon immaculée ; parce que ma tête est chargée de rosée, et les boucles de mes cheveux, des gouttes qui tombent pendant les nuits. 3 L'ÉPOUSE. Je me suis dépouillée de ma tunique ; comment m'en revêtirai-je ? j'ai lavé mes pieds, comment les salirai-je ?
 
 ***Note*** :  Cant. 5, 3 : J’ai lavé mes pieds. Comme les Orientaux portent ordinairement des sandales, ils se lavent souvent les pieds pour en enlever la poussière.
 

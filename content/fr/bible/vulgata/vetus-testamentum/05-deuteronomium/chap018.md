@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Non habebunt sacerdotes et Levitæ, et omnes qui de eadem tribu sunt, partem et hereditatem cum reliquo Israel, quia sacrificia Domini, et oblationes eius comedent,
+1 Non habebunt sacerdotes et Levitae, et omnes qui de eadem tribu sunt, partem et hereditatem cum reliquo Israel, quia sacrificia Domini, et oblationes eius comedent,
 
 2 et nihil aliud accipient de possessione fratrum suorum: Dominus enim ipse est hereditas eorum, sicut locutus est illis.
 
@@ -17,7 +17,7 @@ draft: false
 
 6 Si exierit Levites ex una urbium tuarum ex omni Israel in qua habitat, et voluerit venire, desiderans locum quem elegerit Dominus,
 
-7 ministrabit in nomine Domini Dei sui, sicut omnes fratres eius Levitæ, qui stabunt eo tempore coram Domino.
+7 ministrabit in nomine Domini Dei sui, sicut omnes fratres eius Levitae, qui stabunt eo tempore coram Domino.
 
 8 Partem ciborum eamdem accipiet, quam et ceteri: excepto eo, quod in urbe sua ex paterna ei successione debetur.
 
@@ -25,13 +25,13 @@ draft: false
 
 10 nec inveniatur in te qui lustret filium suum, aut filiam, ducens per ignem: aut qui ariolos sciscitetur, et observet somnia atque auguria, nec sit maleficus,
 
-11 nec incantantor, nec qui pythones consulat, nec divinos, aut quærat a mortuis veritatem.
+11 nec incantantor, nec qui pythones consulat, nec divinos, aut quaerat a mortuis veritatem.
 
-12 omnia enim hæc abominatur Dominus, et propter istiusmodi scelera delebit eos in introitu tuo.
+12 omnia enim haec abominatur Dominus, et propter istiusmodi scelera delebit eos in introitu tuo.
 
 13 perfectus eris, et absque macula cum Domino Deo tuo.
 
-14 Gentes istæ, quarum possidebis terram, augures et divinos audiunt: tu autem a Domino Deo tuo aliter institutus es.
+14 Gentes istae, quarum possidebis terram, augures et divinos audiunt: tu autem a Domino Deo tuo aliter institutus es.
 
 15 PROPHETAM de gente tua et de fratribus tuis sicut me, suscitabit tibi Dominus Deus tuus: ipsum audies,
 
@@ -39,13 +39,13 @@ draft: false
 
 17 Et ait Dominus mihi: Bene omnia sunt locuti.
 
-18 Prophetam suscitabo eis de medio fratrum suorum similem tui: et ponam verba mea in ore eius, loqueturque ad eos omnia quæ præcepero illi.
+18 Prophetam suscitabo eis de medio fratrum suorum similem tui: et ponam verba mea in ore eius, loqueturque ad eos omnia quae praecepero illi.
 
-19 qui autem verba eius, quæ loquetur in nomine meo, audire noluerit, ego ultor existam.
+19 qui autem verba eius, quae loquetur in nomine meo, audire noluerit, ego ultor existam.
 
-20 Propheta autem qui arrogantia depravatus voluerit loqui in nomine meo, quæ ego non præcepi illi ut diceret, aut ex nomine alienorum deorum, interficietur.
+20 Propheta autem qui arrogantia depravatus voluerit loqui in nomine meo, quae ego non praecepi illi ut diceret, aut ex nomine alienorum deorum, interficietur.
 
 21 Quod si tacita cogitatione responderis: Quo modo possum intelligere verbum, quod Dominus non est locutus?
 
-22 hoc habebis signum: Quod in nomine Domini propheta ille prædixerit, et non evenerit: hoc Dominus non est locutus, sed per tumorem animi sui propheta confinxit: et idcirco non timebis eum.
+22 hoc habebis signum: Quod in nomine Domini propheta ille praedixerit, et non evenerit: hoc Dominus non est locutus, sed per tumorem animi sui propheta confinxit: et idcirco non timebis eum.
 

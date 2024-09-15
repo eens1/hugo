@@ -14,7 +14,7 @@ summary: |
 
 ***Note*** :  II Esdras 7, 1 : Voir Ecclésiastique, 49, 15.
 
-2 J'ordonnai à Hanani, mon frère, et à Hananias, prince de la maison de Jérusalem (car lui me paraissait comme un homme vrai, et craignant Dieu plus que les autres), 3 Et je leur dis : Que les portes de Jérusalem ne soient point ouvertes jusqu'à la chaleur du soleil. Et, comme ils étaient encore présents, les portes furent fermées et barrées, et je mis pour gardes les habitants de Jérusalem, chacun à son tour, et chacun contre sa maison. 4 Or la cité était très large et très grande, et le peuple peu nombreux au milieu d'elle, et il n'y avait point de maisons bâties. 5 Et Dieu mit en mon cœur d'assembler les grands, les magistrats et le peuple, pour les recenser; et je trouvai le livre du recensement de ceux qui étaient montés la première fois, et il fut trouvé écrit en ce livre :
+2 J'ordonnai à Hanani, mon frère, et à Hananias, prince de la maison de Jérusalem (car lui me paraissait comme un homme vrai, et craignant Dieu plus que les autres), 3 Et je leur dis : Que les portes de Jérusalem ne soient point ouvertes jusqu'à la chaleur du soleil. Et, comme ils étaient encore présents, les portes furent fermées et barrées, et je mis pour gardes les habitants de Jérusalem, chacun à son tour, et chacun contre sa maison. 4 Or la cité était très large et très grande, et le peuple peu nombreux au milieu d'elle, et il n'y avait point de maisons bâties. 5 Et Dieu mit en mon coeur d'assembler les grands, les magistrats et le peuple, pour les recenser; et je trouvai le livre du recensement de ceux qui étaient montés la première fois, et il fut trouvé écrit en ce livre :
 
 ***Note*** :  II Esdras 7, 5 : D’assembler ; littéralement et par hébraïsme, et j’assemblai.
 
@@ -73,7 +73,7 @@ de Céphira et de Béroth, sept cent quarante-trois ; 30 Les hommes de Rama et d
 ***Note*** :  II Esdras 7, 69 : Cette parenthèse ne se trouve ni dans l’hébreu, ni dans aucune autre des anciennes versions. Il y a de bons manuscrits latins qui ne la portent pas, d’autres la lisent à la marge. ― Jusqu’ici, c’est-à-dire depuis le verset 6 jusqu’au verset 69.
 
 
-70 Or quelques-uns des princes des familles contribuèrent à l'ouvrage. Athersatha donna au trésor mille drachmes d'or, cinquante fioles, et cinq cent trente tuniques sacerdotales, 71 Et des princes des familles donnèrent au trésor de l'œuvre vingt mille drachmes d'or et deux mille deux cents mines d'argent. 72 Et ce que le reste du peuple donna fut vingt mille drachmes d'or, deux mille mines d'argent, et soixante-sept tuniques sacerdotales.
+70 Or quelques-uns des princes des familles contribuèrent à l'ouvrage. Athersatha donna au trésor mille drachmes d'or, cinquante fioles, et cinq cent trente tuniques sacerdotales, 71 Et des princes des familles donnèrent au trésor de l'oeuvre vingt mille drachmes d'or et deux mille deux cents mines d'argent. 72 Et ce que le reste du peuple donna fut vingt mille drachmes d'or, deux mille mines d'argent, et soixante-sept tuniques sacerdotales.
 
 
 73 Et les prêtres, les Lévites, les portiers, les chantres, le reste du peuple, les Nathinéens et tout Israël, habitèrent dans leurs villes.

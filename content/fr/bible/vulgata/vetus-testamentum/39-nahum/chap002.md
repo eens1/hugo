@@ -9,25 +9,25 @@ draft: false
 
 2 Quia reddidit Dominus superbiam Iacob, sicut superbiam Israel: quia vastatores dissipaverunt eos, et propagines eorum corruperunt.
 
-3 Clypeus fortium eius ignitus, viri exercitus in coccineis: igneæ habenæ currus in die præparationis eius, et agitatores consopiti sunt.
+3 Clypeus fortium eius ignitus, viri exercitus in coccineis: igneae habenae currus in die praeparationis eius, et agitatores consopiti sunt.
 
-4 In itineribus conturbati sunt: quadrigæ collisæ sunt in plateis: aspectus eorum quasi lampades, quasi fulgura discurrentia.
+4 In itineribus conturbati sunt: quadrigae collisae sunt in plateis: aspectus eorum quasi lampades, quasi fulgura discurrentia.
 
-5 Recordabitur fortium suorum, ruent in itineribus suis: velociter ascendent muros eius, et præparabitur umbraculum.
+5 Recordabitur fortium suorum, ruent in itineribus suis: velociter ascendent muros eius, et praeparabitur umbraculum.
 
-6 Portæ fluviorum apertæ sunt, et templum ad solum dirutum.
+6 Portae fluviorum apertae sunt, et templum ad solum dirutum.
 
-7 Et miles captivus abductus est: et ancillæ eius minabantur gementes ut columbæ, murmurantes in cordibus suis.
+7 Et miles captivus abductus est: et ancillae eius minabantur gementes ut columbae, murmurantes in cordibus suis.
 
-8 Et Ninive quasi piscina aquarum aquæ eius: ipsi vero fugerunt: state, state, et non est qui revertatur.
+8 Et Ninive quasi piscina aquarum aquae eius: ipsi vero fugerunt: state, state, et non est qui revertatur.
 
 9 Diripite argentum, diripite aurum: et non est finis divitiarum ex omnibus vasis desiderabilibus.
 
-10 Dissipata est, et scissa, et dilacerata: et cor tabescens, et dissolutio geniculorum, et defectio in cunctis renibus: et facies omnium eorum sicut nigredo ollæ.
+10 Dissipata est, et scissa, et dilacerata: et cor tabescens, et dissolutio geniculorum, et defectio in cunctis renibus: et facies omnium eorum sicut nigredo ollae.
 
 11 Ubi est habitaculum leonum, et pascua catulorum leonum, ad quam ivit leo ut ingrederetur illuc, catulus leonis, et non est qui exterreat?
 
-12 Leo cepit sufficienter catulis suis, et necavit leænis suis: et implevit præda speluncas suas, et cubile suum rapina.
+12 Leo cepit sufficienter catulis suis, et necavit leaenis suis: et implevit praeda speluncas suas, et cubile suum rapina.
 
-13 Ecce ego ad te, dicit Dominus exercituum, et succendam usque ad fumum quadrigas tuas, et leunculos tuos comedet gladius: et exterminabo de terra prædam tuam, et non audietur ultra vox nunciorum tuorum.
+13 Ecce ego ad te, dicit Dominus exercituum, et succendam usque ad fumum quadrigas tuas, et leunculos tuos comedet gladius: et exterminabo de terra praedam tuam, et non audietur ultra vox nunciorum tuorum.
 

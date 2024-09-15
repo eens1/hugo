@@ -13,7 +13,7 @@ draft: false
 
 4 si inventum fuerit apud eum quod furatus est, vivens, sive bos, sive asinus, sive ovis: duplum restituet.
 
-5 Si læserit quispiam agrum vel vineam, et dimiserit iumentum suum ut depascatur aliena: quidquid optimum habuerit in agro suo, vel in vinea, pro damni æstimatione restituet.
+5 Si laeserit quispiam agrum vel vineam, et dimiserit iumentum suum ut depascatur aliena: quidquid optimum habuerit in agro suo, vel in vinea, pro damni aestimatione restituet.
 
 6 Si egressus ignis invenerit spinas, et comprehenderit acervos frugum, sive stantes segetes in agris, reddet damnum qui ignem succenderit.
 
@@ -31,9 +31,9 @@ draft: false
 
 13 Si comestum a bestia, deferat ad eum quod occisum est, et non restituet.
 
-14 Qui a proximo suo quidquam horum mutuo postulaverit, et debilitatum aut mortuum fuerit domino non præsente, reddere compelletur.
+14 Qui a proximo suo quidquam horum mutuo postulaverit, et debilitatum aut mortuum fuerit domino non praesente, reddere compelletur.
 
-15 Quod si impræsentiarum dominus fuerit, non restituet, maxime si conductum venerat pro mercede operis sui.
+15 Quod si impraesentiarum dominus fuerit, non restituet, maxime si conductum venerat pro mercede operis sui.
 
 16 Si seduxerit quis virginem necdum desponsatam, dormieritque cum ea: dotabit eam, et habebit eam uxorem.
 
@@ -43,15 +43,15 @@ draft: false
 
 19 Qui coierit cum iumento, morte moriatur.
 
-20 Qui immolat diis, occidetur, præterquam Domino soli.
+20 Qui immolat diis, occidetur, praeterquam Domino soli.
 
-21 Advenam non contristabis, neque affliges eum: advenæ enim et ipsi fuistis in Terra Ægypti.
+21 Advenam non contristabis, neque affliges eum: advenae enim et ipsi fuistis in Terra AEgypti.
 
-22 Viduæ et pupillo non nocebitis.
+22 Viduae et pupillo non nocebitis.
 
-23 Si læseritis eos, vociferabuntur ad me, et ego audiam clamorem eorum:
+23 Si laeseritis eos, vociferabuntur ad me, et ego audiam clamorem eorum:
 
-24 et indignabitur furor meus, percutiamque vos gladio, et erunt uxores vestræ viduæ, et filii vestri pupilli.
+24 et indignabitur furor meus, percutiamque vos gladio, et erunt uxores vestrae viduae, et filii vestri pupilli.
 
 25 Si pecuniam mutuam dederis populo meo pauperi qui habitat tecum, non urgebis eum quasi exactor, nec usuris opprimes.
 
@@ -65,5 +65,5 @@ draft: false
 
 30 De bobus quoque, et ovibus similiter facies: septem diebus sit cum matre sua, die octava reddes illum mihi.
 
-31 Viri sancti eritis mihi: carnem, quæ a bestiis fuerit prægustata, non comedetis, sed proiicietis canibus.
+31 Viri sancti eritis mihi: carnem, quae a bestiis fuerit praegustata, non comedetis, sed proiicietis canibus.
 

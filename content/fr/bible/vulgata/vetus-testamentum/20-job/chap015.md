@@ -9,7 +9,7 @@ draft: false
 
 2 Numquid sapiens respondebit quasi ventum loquens, et implebit ardore stomachum suum?
 
-3 Arguis verbis eum, qui non est æqualis tibi, et loqueris quod tibi non expedit.
+3 Arguis verbis eum, qui non est aequalis tibi, et loqueris quod tibi non expedit.
 
 4 Quantum in te est evacuasti timorem, et tulisti preces coram Deo.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 Quid est homo, ut immaculatus sit, et ut iustus appareat natus de muliere?
 
-15 Ecce inter sanctos eius nemo immutabilis, et cæli non sunt mundi in conspectu eius.
+15 Ecce inter sanctos eius nemo immutabilis, et caeli non sunt mundi in conspectu eius.
 
 16 Quanto magis abominabilis et inutilis homo, qui bibit quasi aquam iniquitatem?
 
@@ -49,9 +49,9 @@ draft: false
 
 22 Non credit quod reverti possit de tenebris ad lucem, circumspectans undique gladium.
 
-23 Cum se moverit ad quærendum panem, novit quod paratus sit in manu eius tenebrarum dies.
+23 Cum se moverit ad quaerendum panem, novit quod paratus sit in manu eius tenebrarum dies.
 
-24 Terrebit eum tribulatio, et angustia vallabit eum, sicut regem, qui præparatur ad prælium.
+24 Terrebit eum tribulatio, et angustia vallabit eum, sicut regem, qui praeparatur ad praelium.
 
 25 Tetendit enim adversus Deum manum suam, et contra Omnipotentem roboratus est.
 
@@ -59,7 +59,7 @@ draft: false
 
 27 Operuit faciem eius crassitudo, et de lateribus eius arvina dependet.
 
-28 Habitavit in civitatibus desolatis, et in domibus desertis, quæ in tumulos sunt redactæ.
+28 Habitavit in civitatibus desolatis, et in domibus desertis, quae in tumulos sunt redactae.
 
 29 Non ditabitur, nec perseverabit substantia eius, nec mittet in terra radicem suam.
 
@@ -69,9 +69,9 @@ draft: false
 
 32 Antequam dies eius impleantur, peribit: et manus eius arescent.
 
-33 Lædetur quasi vinea in primo flore botrus eius, et quasi oliva proiiciens florem suum.
+33 Laedetur quasi vinea in primo flore botrus eius, et quasi oliva proiiciens florem suum.
 
-34 Congregatio enim hypocritæ sterilis, et ignis devorabit tabernacula eorum, qui munera libenter accipiunt.
+34 Congregatio enim hypocritae sterilis, et ignis devorabit tabernacula eorum, qui munera libenter accipiunt.
 
-35 Concepit dolorem, et peperit iniquitatem, et uterus eius præparat dolos.
+35 Concepit dolorem, et peperit iniquitatem, et uterus eius praeparat dolos.
 

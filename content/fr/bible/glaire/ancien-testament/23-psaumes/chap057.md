@@ -13,14 +13,14 @@ summary: |
 
 1 Ne perdez pas entièrement; par David, pour une inscription de titre.
 
-***Note*** :  Ps. 57, 1 : En hébreu : « Au chef de chœur. [Sur l’air de] ‘al thasckheth (ne perd pas). De David. Mikthâm. » ― Composé probablement pendant la révolte d’Absalom. ― Le langage est vif, les images fortes et relativement plus multipliées que dans aucun autre psaume, quelquefois à peine indiquées, d’où une certaine obscurité.
+***Note*** :  Ps. 57, 1 : En hébreu : « Au chef de choeur. [Sur l’air de] ‘al thasckheth (ne perd pas). De David. Mikthâm. » ― Composé probablement pendant la révolte d’Absalom. ― Le langage est vif, les images fortes et relativement plus multipliées que dans aucun autre psaume, quelquefois à peine indiquées, d’où une certaine obscurité.
 
 
 2 Si c'est bien avec vérité que vous parlez justice, jugez selon l'équité, ô fils des hommes.
 
 ***Note*** :  Ps. 57, 2-3 : Apostrophe aux juges qui violent la justice.
 
-3 Car dans votre cœur vous opérez des iniquités : sur la terre vos mains travaillent avec art des injustices.
+3 Car dans votre coeur vous opérez des iniquités : sur la terre vos mains travaillent avec art des injustices.
 
 
 4 Les pécheurs se sont égarés dès leur naissance; ils ont erré dès le sein de leur mère : ils ont dit des choses fausses.

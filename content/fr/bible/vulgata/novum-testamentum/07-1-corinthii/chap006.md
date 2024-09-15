@@ -9,9 +9,9 @@ draft: false
 
 2 An nescitis quoniam sancti de hoc mundo iudicabunt? Et si in vobis iudicabitur mundus, indigni estis qui de minimis iudicetis?
 
-3 Nescitis quoniam angelos iudicabimus? quanto magis sæcularia?
+3 Nescitis quoniam angelos iudicabimus? quanto magis saecularia?
 
-4 Sæcularia igitur iudicia si habueritis: contemptibiles, qui sunt in Ecclesia, illos constituite ad iudicandum.
+4 Saecularia igitur iudicia si habueritis: contemptibiles, qui sunt in Ecclesia, illos constituite ad iudicandum.
 
 5 Ad verecundiam vestram dico. Sic non est inter vos sapiens quisquam, qui possit iudicare inter fratrem suum?
 
@@ -25,7 +25,7 @@ draft: false
 
 10 neque molles, neque masculorum concubitores, neque fures, neque avari, neque ebriosi, neque maledici, neque rapaces regnum Dei possidebunt.
 
-11 Et hæc quidam fuistis: sed abluti estis, sed sanctificati estis, sed iustificati estis in nomine Domini nostri Iesu Christi, et in Spiritu Dei nostri.
+11 Et haec quidam fuistis: sed abluti estis, sed sanctificati estis, sed iustificati estis in nomine Domini nostri Iesu Christi, et in Spiritu Dei nostri.
 
 12 Omnia mihi licent, sed non omnia expediunt: Omnia mihi licent, sed ego sub nullis redigar potestate.
 
@@ -35,9 +35,9 @@ draft: false
 
 15 Nescitis quoniam corpora vestra membra sunt Christi? Tollens ergo membra Christi, faciam membra meretricis? Absit.
 
-16 An nescitis quoniam qui adhæret meretrici, unum corpus efficitur? Erunt enim (inquit) duo in carne una.
+16 An nescitis quoniam qui adhaeret meretrici, unum corpus efficitur? Erunt enim (inquit) duo in carne una.
 
-17 Qui autem adhæret Domino, unus spiritus est.
+17 Qui autem adhaeret Domino, unus spiritus est.
 
 18 Fugite fornicationem. Omne peccatum, quodcumque fecerit homo, extra corpus est: qui autem fornicatur, in corpus suum peccat.
 

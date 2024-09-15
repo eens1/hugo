@@ -15,15 +15,15 @@ draft: false
 
 5 Dirige me in veritate tua, et doce me: quia tu es Deus salvator meus, et te sustinui tota die.
 
-6 Reminiscere miserationum tuarum Domine, et misericordiarum tuarum, quæ a sæculo sunt.
+6 Reminiscere miserationum tuarum Domine, et misericordiarum tuarum, quae a saeculo sunt.
 
-7 Delicta iuventutis meæ, et ignorantias meas ne memineris. Secundum misericordiam tuam memento mei tu: propter bonitatem tuam Domine.
+7 Delicta iuventutis meae, et ignorantias meas ne memineris. Secundum misericordiam tuam memento mei tu: propter bonitatem tuam Domine.
 
 8 Dulcis et rectus Dominus: propter hoc legem dabit delinquentibus in via.
 
 9 Diriget mansuetos in iudicio: docebit mites vias suas.
 
-10 Universæ viæ Domini, misericordia et veritas, requirentibus testamentum eius et testimonia eius.
+10 Universae viae Domini, misericordia et veritas, requirentibus testamentum eius et testimonia eius.
 
 11 Propter nomen tuum Domine propitiaberis peccato meo: multum est enim.
 
@@ -37,7 +37,7 @@ draft: false
 
 16 Respice in me, et miserere mei: quia unicus et pauper sum ego.
 
-17 Tribulationes cordis mei multiplicatæ sunt: de necessitatibus meis erue me.
+17 Tribulationes cordis mei multiplicatae sunt: de necessitatibus meis erue me.
 
 18 Vide humilitatem meam, et laborem meum: et dimitte universa delicta mea.
 
@@ -45,7 +45,7 @@ draft: false
 
 20 Custodi animam meam, et erue me: non erubescam, quoniam speravi in te.
 
-21 Innocentes et recti adhæserunt mihi: quia sustinui te.
+21 Innocentes et recti adhaeserunt mihi: quia sustinui te.
 
 22 Libera Deus Israel ex omnibus tribulationibus suis.
 

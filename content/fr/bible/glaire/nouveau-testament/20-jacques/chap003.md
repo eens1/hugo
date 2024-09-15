@@ -25,7 +25,7 @@ summary: |
 
 7 Car toute nature de bêtes sauvages, d'oiseaux, de reptiles, et d'autres animaux, se dompte et elle a été domptée par la nature de l'homme.
 
-***Note*** :  Jacq. 3, 7 : Et d’autres animaux. Le grec porte : Et d’animaux marins. Beaucoup d’interprètes pensent qu’on lisait autrefois dans la Vulgate cetorum au lieu de cæterorum.
+***Note*** :  Jacq. 3, 7 : Et d’autres animaux. Le grec porte : Et d’animaux marins. Beaucoup d’interprètes pensent qu’on lisait autrefois dans la Vulgate cetorum au lieu de caeterorum.
 
 8 Mais la langue, nul homme ne peut la dompter : c'est un mal inquiet ; elle est pleine d'un venin mortel. 9 Par elle nous bénissons Dieu le Père ; et par elle nous maudissons les hommes qui ont été faits à l'image de Dieu. 10 De la même bouche sortent la bénédiction et la malédiction. Il ne faut pas, mes frères, qu'il en soit ainsi. 11 Une fontaine fait-elle jaillir par la même ouverture l'eau douce et l'eau amère ? 12 Un figuier peut-il, mes frères, produire des raisins, ou une vigne, des figues? Ainsi une source salée ne peut donner de l'eau douce.
 

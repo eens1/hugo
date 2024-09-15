@@ -7,7 +7,7 @@ draft: false
 
 1 Locutusque est Dominus ad Moysen et Aaron dicens:
 
-2 Singuli per turmas, signa, atque vexilla, et domos cognationum suarum castrametabuntur filii Israel, per gyrum tabernaculi fœderis.
+2 Singuli per turmas, signa, atque vexilla, et domos cognationum suarum castrametabuntur filii Israel, per gyrum tabernaculi foederis.
 
 3 Ad Orientem Iudas figet tentoria per turmas exercitus sui: eritque princeps filiorum eius Nahasson filius Aminadab.
 
@@ -21,7 +21,7 @@ draft: false
 
 8 Omnis de stirpe eius exercitus pugnatorum, quinquaginta septem millia quadringenti.
 
-9 Universi qui in castris Iudæ annumerati sunt, fuerunt centum octoginta sex millia quadringenti: et per turmas suas primi egredientur.
+9 Universi qui in castris Iudae annumerati sunt, fuerunt centum octoginta sex millia quadringenti: et per turmas suas primi egredientur.
 
 10 In castris filiorum Ruben ad meridianam plagam erit princeps Elisur filius Sedeur:
 
@@ -69,7 +69,7 @@ draft: false
 
 32 Hic numerus filiorum Israel, per domos cognationum suarum et turmas divisi exercitus, sexcenta tria millia quingenti quinquaginta.
 
-33 Levitæ autem non sunt numerati inter filios Israel: sic enim præceperat Dominus Moysi.
+33 Levitae autem non sunt numerati inter filios Israel: sic enim praeceperat Dominus Moysi.
 
-34 Feceruntque filii Israel iuxta omnia quæ mandaverat Dominus. Castrametati sunt per turmas suas, et profecti per familias ac domos patrum suorum.
+34 Feceruntque filii Israel iuxta omnia quae mandaverat Dominus. Castrametati sunt per turmas suas, et profecti per familias ac domos patrum suorum.
 

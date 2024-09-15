@@ -9,13 +9,13 @@ draft: false
 
 2 Domine ne in furore tuo arguas me, neque in ira tua corripias me.
 
-3 Quoniam sagittæ tuæ infixæ sunt mihi: et confirmasti super me manum tuam.
+3 Quoniam sagittae tuae infixae sunt mihi: et confirmasti super me manum tuam.
 
-4 Non est sanitas in carne mea a facie iræ tuæ: non est pax ossibus meis a facie peccatorum meorum.
+4 Non est sanitas in carne mea a facie irae tuae: non est pax ossibus meis a facie peccatorum meorum.
 
-5 Quoniam iniquitates meæ supergressæ sunt caput meum: et sicut onus grave gravatæ sunt super me.
+5 Quoniam iniquitates meae supergressae sunt caput meum: et sicut onus grave gravatae sunt super me.
 
-6 Putruerunt et corruptæ sunt cicatrices meæ, a facie insipientiæ meæ.
+6 Putruerunt et corruptae sunt cicatrices meae, a facie insipientiae meae.
 
 7 Miser factus sum, et curvatus sum usque in finem: tota die contristatus ingrediebar.
 
@@ -27,7 +27,7 @@ draft: false
 
 11 Cor meum conturbatum est, dereliquit me virtus mea: et lumen oculorum meorum, et ipsum non est mecum.
 
-12 Amici mei et proximi mei adversum me appropinquaverunt, et steterunt. Et qui iuxta me erant, de longe steterunt: et vim faciebant qui quærebant animam meam.
+12 Amici mei et proximi mei adversum me appropinquaverunt, et steterunt. Et qui iuxta me erant, de longe steterunt: et vim faciebant qui quaerebant animam meam.
 
 13 Et qui inquirebant mala mihi, locuti sunt vanitates: et dolos tota die meditabantur.
 
@@ -49,5 +49,5 @@ draft: false
 
 22 Ne derelinquas me Domine Deus meus: ne discesseris a me.
 
-23 Intende in adiutorium meum, Domine Deus salutis meæ.
+23 Intende in adiutorium meum, Domine Deus salutis meae.
 

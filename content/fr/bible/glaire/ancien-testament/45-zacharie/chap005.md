@@ -29,9 +29,9 @@ summary: |
 
 ***Note*** :  Zach. 5, 5 : Qui parlait en moi. Voir Zacharie, 1, 9.
 
-6 Et je dis : Qu'est-ce? Et il répondit : C'est une amphore qui sort. Et il ajouta : C'est leur œil sur toute la terre.
+6 Et je dis : Qu'est-ce? Et il répondit : C'est une amphore qui sort. Et il ajouta : C'est leur oeil sur toute la terre.
 
-***Note*** :  Zach. 5, 6 : Amphore. Voir Daniel, 14, 2. ― C’est leur œil, etc. ; c’est-à-dire, leur ressemblance, leur vrai portrait, selon les uns, ou bien, suivant les autres, c’est sur l’amphore qu’est fixé leur œil, pour la remplir de leurs crimes.
+***Note*** :  Zach. 5, 6 : Amphore. Voir Daniel, 14, 2. ― C’est leur oeil, etc. ; c’est-à-dire, leur ressemblance, leur vrai portrait, selon les uns, ou bien, suivant les autres, c’est sur l’amphore qu’est fixé leur oeil, pour la remplir de leurs crimes.
 
 
 7 Et voilà que l'on portait un talent de plomb, et qu'une femme était assise au milieu de l'amphore.

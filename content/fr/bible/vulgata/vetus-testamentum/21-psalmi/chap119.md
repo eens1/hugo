@@ -11,7 +11,7 @@ draft: false
 
 3 Quid detur tibi, aut quid apponatur tibi ad linguam dolosam?
 
-4 Sagittæ potentis acutæ, cum carbonibus desolatoriis.
+4 Sagittae potentis acutae, cum carbonibus desolatoriis.
 
 5 Heu mihi, quia incolatus meus prolongatus est: habitavi cum habitantibus Cedar:
 

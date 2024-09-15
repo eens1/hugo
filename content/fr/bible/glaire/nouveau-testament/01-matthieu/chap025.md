@@ -7,7 +7,7 @@ summary: |
   Parabole des dix vierges.
   Parabole des talents.
   Dernier jugement.
-  Œuvres de miséricorde faites ou refusées à Jésus-Christ dans la personne de ses membres.
+  OEuvres de miséricorde faites ou refusées à Jésus-Christ dans la personne de ses membres.
 ---
 
 

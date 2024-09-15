@@ -10,7 +10,7 @@ summary: |
 
 1 Psaume de David. Le Seigneur me conduit, et rien ne me manquera;
 
-***Note*** :  Ps. 22, 1 : Voir Isaïe, 40, 11 ; Jérémie, 23, 4 ; Ezéchiel, 34, vv. 11, 23 ; 1 Pierre, 2, 25 ; 5, 4. ― « C’est une ode qui, pour la beauté du sentiment, n’a d’égale dans aucune littérature. Depuis trois mille ans ou plus, ce psaume a profondément remué des milliers de cœurs, il a réjoui des demeures abandonnées et malheureuses, il a fait entendre des paroles d’espérances et de joie, au milieu des larmes, à l’âme solitaire et sans secours dont l’unique refuge est dans le ciel. Ces douze vers ont inspiré au-delà de tout calcul la résignation dans la souffrance, la force dans la faiblesse ; ils ont empêché de s’éteindre la flamme vacillante du sentiment religieux dans des cœurs près de se laisser aller au désespoir. » (J. TAYLOR. )
+***Note*** :  Ps. 22, 1 : Voir Isaïe, 40, 11 ; Jérémie, 23, 4 ; Ezéchiel, 34, vv. 11, 23 ; 1 Pierre, 2, 25 ; 5, 4. ― « C’est une ode qui, pour la beauté du sentiment, n’a d’égale dans aucune littérature. Depuis trois mille ans ou plus, ce psaume a profondément remué des milliers de coeurs, il a réjoui des demeures abandonnées et malheureuses, il a fait entendre des paroles d’espérances et de joie, au milieu des larmes, à l’âme solitaire et sans secours dont l’unique refuge est dans le ciel. Ces douze vers ont inspiré au-delà de tout calcul la résignation dans la souffrance, la force dans la faiblesse ; ils ont empêché de s’éteindre la flamme vacillante du sentiment religieux dans des coeurs près de se laisser aller au désespoir. » (J. TAYLOR. )
 
 
 2 C'est dans un lieu de pâture qu'il m'a placé. C'est auprès d'une eau fortifiante qu'il m'a élevé.

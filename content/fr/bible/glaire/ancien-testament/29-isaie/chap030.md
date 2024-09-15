@@ -29,7 +29,7 @@ summary: |
 
 6 Malheur accablant des bêtes du Midi. Elles vont dans une terre de tribulation et d'angoisse, d'où sortent la lionne et le lion, la vipère et le basilic volant; ils portent sur les épaules des ânes leurs richesses, et sur la bosse des chameaux leurs trésors, à un peuple qui ne pourra pas leur être utile.
 
-***Note*** :  Is. 30, 6 : Malheur accablant. Voir Isaïe, 13, 1. ― D’où ; littéralement, selon l’hébreu et la Vulgate, d’eux (ex eis) ; le pronom se rapporter à terræ, qui s’entend quelquefois dans l’Ecriture, non du sol, mais des habitants. ― Des bêtes du Midi, en hébreu, bahamoth, peut-être le béhémoth ou hippopotame de Job, 40, 10, qui peut être très exactement considéré comme le symbole de l’Egypte, laquelle avait grande confiance en sa puissance, mais était lente à se mettre en mouvement et était arrivée trop tard pour secourir Samarie assiégée par les Assyriens. ― La vipère. Assaraddon, dans le récit de sa campagne contre l’Arabie, dit que ce pays était plein de vipères et de scorpions. ― Le basilic volant. Cette qualification de volant provient sans doute de ce que les serpents peuvent monter sur les arbres comme les oiseaux qui volent.
+***Note*** :  Is. 30, 6 : Malheur accablant. Voir Isaïe, 13, 1. ― D’où ; littéralement, selon l’hébreu et la Vulgate, d’eux (ex eis) ; le pronom se rapporter à terrae, qui s’entend quelquefois dans l’Ecriture, non du sol, mais des habitants. ― Des bêtes du Midi, en hébreu, bahamoth, peut-être le béhémoth ou hippopotame de Job, 40, 10, qui peut être très exactement considéré comme le symbole de l’Egypte, laquelle avait grande confiance en sa puissance, mais était lente à se mettre en mouvement et était arrivée trop tard pour secourir Samarie assiégée par les Assyriens. ― La vipère. Assaraddon, dans le récit de sa campagne contre l’Arabie, dit que ce pays était plein de vipères et de scorpions. ― Le basilic volant. Cette qualification de volant provient sans doute de ce que les serpents peuvent monter sur les arbres comme les oiseaux qui volent.
 
 7 Car inutilement et vainement l'Egypte les secourra; voilà pourquoi j'ai crié à ce sujet : C'est de l'orgueil seulement, reste en repos.
 
@@ -65,7 +65,7 @@ summary: |
 
 18 A cause de cela, le Seigneur attend, afin d'avoir pitié de vous ; et pour cela il sera exalté en vous épargnant; car c'est un Dieu de justice que le Seigneur; bienheureux tous ceux qui l'attendent. 19 Car le peuple de Sion habitera dans Jérusalem ; pleurant tu ne pleureras pas du tout; ayant pitié il aura pitié de toi ; à la voix de ton cri, dès qu'il entendra, il te répondra. 20 Et le Seigneur vous donnera un pain restreint et une eau peu abondante ; et il ne fera pas que celui qui t'instruit s'en aille loin de toi; et tes yeux verront ton maître.
 
-***Note*** :  Is. 30, 20 : Celui qui t’instruit (doctorem tuum), ton maître (præceptorem tuum). L’Eglise, dans l’office de l’Avent, fait l’application de ces paroles à Jésus-Christ, qui est, en effet, notre docteur et notre maître par excellence.
+***Note*** :  Is. 30, 20 : Celui qui t’instruit (doctorem tuum), ton maître (praeceptorem tuum). L’Eglise, dans l’office de l’Avent, fait l’application de ces paroles à Jésus-Christ, qui est, en effet, notre docteur et notre maître par excellence.
 
 21 Et tes oreilles entendront la voix de celui qui, derrière toi, t'avertira : Voici la voie, marchez-y; et ne vous détournez ni à droite ni à gauche, 22 Et tu regarderas comme choses souillées les lames d'argent de tes images taillées au ciseau, et le vêtement de ta statue d'or jetée en fonte, et tu les rejetteras comme un linge souillé. Sors, lui diras-tu;
 
@@ -81,7 +81,7 @@ summary: |
 
 ***Note*** :  Is. 30, 27 : Le nom du Seigneur ; sa majesté, le Seigneur lui-même. Comparer à Isaïe, 5, 11 ; 7, 17 ; 8, vv. 1, 8, etc. ― De loin ; après un long intervalle de temps.
 
-28 Son souffle est un torrent débordé, qui atteint jusqu'au milieu du cou, pour réduire des nations au néant, et briser le frein d'erreur qui était aux mâchoires des peuples. 29 Vous chanterez comme dans la nuit d'une sainte solennité, et la joie de votre cœur sera comme la joie de celui qui va avec la flûte, afin de se présenter sur la montagne du Seigneur, au fort d'Israël.
+28 Son souffle est un torrent débordé, qui atteint jusqu'au milieu du cou, pour réduire des nations au néant, et briser le frein d'erreur qui était aux mâchoires des peuples. 29 Vous chanterez comme dans la nuit d'une sainte solennité, et la joie de votre coeur sera comme la joie de celui qui va avec la flûte, afin de se présenter sur la montagne du Seigneur, au fort d'Israël.
 
 ***Note*** :  Is. 30, 29 : Comme dans la nuit ; littéralement comme la nuit ; genre de figure qui n’est pas étrangère au style biblique. Les fêtes des Hébreux commençaient la veille au soir. Aux trois plus solennelles, qui étaient celles de la Pâque, de la Pentecôte et des Tabernacles, on se rendait à Jérusalem de toute la Judée, et même des provinces étrangères (voir Deutéronome, 16, 16 ; Psaumes, 121, 4). Il est très probable qu’on chantait des cantiques de joie pendant toute la solennité.
 

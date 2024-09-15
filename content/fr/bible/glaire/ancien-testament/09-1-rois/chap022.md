@@ -57,7 +57,7 @@ summary: |
 
 ***Note*** :  I Rois 22, 17 : Gardes ; littéralement, émissaires ; c’est-à-dire ceux qui faisaient la fonction de messagers ou de coureurs. ― Leur main est avec David ; c’est-à-dire ils donnent la main à David ; ils l’aident, ils favorisent ses vues.
 
-18 Alors le roi dit à Doëg : Tourne-toi, et jette-toi sur les prêtres. Et, s'étant tourné, Doëg l'Iduméen se jeta sur les prêtres, et il tua en ce jour-là quatre-vingt-cinq hommes vêtus d'un éphod de lin. 19 Ensuite il frappa Nobé, la cité des prêtres, du tranchant du glaive, égorgeant hommes et femmes, petits enfants et les enfants à la mamelle, bœuf, âne et brebis.
+18 Alors le roi dit à Doëg : Tourne-toi, et jette-toi sur les prêtres. Et, s'étant tourné, Doëg l'Iduméen se jeta sur les prêtres, et il tua en ce jour-là quatre-vingt-cinq hommes vêtus d'un éphod de lin. 19 Ensuite il frappa Nobé, la cité des prêtres, du tranchant du glaive, égorgeant hommes et femmes, petits enfants et les enfants à la mamelle, boeuf, âne et brebis.
 
 
 20 Mais un des fils d'Achimélech, dont le nom était Abiathar, s'étant échappé, s'enfuit vers David. 21 Et il lui annonça que Saül avait tué les prêtres du Seigneur. 22 Et David dit à Abiathar : Je savais en ce jour que puisque Doëg l'Iduméen était là, il avertirait certainement Saül : c'est moi qui suis coupable de la mort de toutes les âmes de la maison de ton père. 23 Demeure avec moi, et ne crains point : si quelqu'un cherche mon âme, il cherchera aussi ton âme, et tu seras sauvé avec moi.

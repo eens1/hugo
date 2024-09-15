@@ -20,7 +20,7 @@ summary: |
 
 ***Note*** :  I Esdras 5, 3 : Thathanaï était le gouverneur perse des possessions du grand roi à l’ouest du fleuve de l’Euphrate. ― Stharbuzanaï était probablement son secrétaire, en tout cas le principal des officiers qui l’avaient accompagné.
 
-4 A quoi nous répondîmes en leur disant quels étaient les noms des hommes auteurs de cette construction. 5 Or l'œil de leur Dieu fut sur les anciens des Juifs, et ils ne purent les empêcher. Et il leur plut que l'affaire fût renvoyée à Darius, et qu'alors ils répondraient à cette accusation.
+4 A quoi nous répondîmes en leur disant quels étaient les noms des hommes auteurs de cette construction. 5 Or l'oeil de leur Dieu fut sur les anciens des Juifs, et ils ne purent les empêcher. Et il leur plut que l'affaire fût renvoyée à Darius, et qu'alors ils répondraient à cette accusation.
 
 ***Note*** :  I Esdras 5, 5 : Les officiers persans consentirent à ce que le travail fût continué en attendant la décision de Darius.
 

@@ -15,7 +15,7 @@ draft: false
 
 5 Qui gaudet iniquitate, denotabitur: et qui odit correptionem, minuetur vita: et qui odit loquacitatem, extinguit malitiam.
 
-6 Qui peccat in animam suam, pœnitebit: et qui iucundatur in malitia, denotabitur.
+6 Qui peccat in animam suam, poenitebit: et qui iucundatur in malitia, denotabitur.
 
 7 Ne iteres verbum nequam et durum, et non minoraberis.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 Corripe proximum, ne forte non dixerit: et si dixerit, ne forte iteret.
 
-15 Corripe amicum: sæpe enim fit commissio.
+15 Corripe amicum: saepe enim fit commissio.
 
 16 Et non omni verbo credas. est qui labitur lingua, sed non ex animo.
 
@@ -41,7 +41,7 @@ draft: false
 
 18 Et da locum timori Altissimi: quia omnis sapientia timor Dei, et in illa timere Deum, et in omni sapientia dispositio legis.
 
-19 Et non est sapientia nequitiæ disciplina: et non est cogitatus peccatorum prudentia.
+19 Et non est sapientia nequitiae disciplina: et non est cogitatus peccatorum prudentia.
 
 20 Est nequitia, et in ipsa execratio: et est insipiens qui minuitur sapientia.
 

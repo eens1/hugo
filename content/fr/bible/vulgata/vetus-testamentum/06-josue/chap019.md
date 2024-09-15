@@ -15,11 +15,11 @@ draft: false
 
 5 et Siceleg et Bethmarchaboth et Hasersusa
 
-6 et Bethlebaoth et Sarohen: civitates tredecim, et villæ earum.
+6 et Bethlebaoth et Sarohen: civitates tredecim, et villae earum.
 
-7 Ain et Remmon et Athar et Asan: civitates quattuor, et villæ earum:
+7 Ain et Remmon et Athar et Asan: civitates quattuor, et villae earum:
 
-8 omnes viculi per circuitum urbium istarum usque ad Baalath Beer Ramath contra australem plagam. Hæc est hereditas filiorum Simeon iuxta cognationes suas,
+8 omnes viculi per circuitum urbium istarum usque ad Baalath Beer Ramath contra australem plagam. Haec est hereditas filiorum Simeon iuxta cognationes suas,
 
 9 in possessione et funiculo filiorum Iuda: quia maior erat. et idcirco filii Simeon possederunt in medio hereditatis eorum.
 
@@ -33,9 +33,9 @@ draft: false
 
 14 Et circuit ad Aquilonem Hanathon: suntque egressus eius Vallis Iephthael,
 
-15 et Cateth et Naalol et Semeron et Ierala et Bethlehem: civitates duodecim, et villæ earum.
+15 et Cateth et Naalol et Semeron et Ierala et Bethlehem: civitates duodecim, et villae earum.
 
-16 Hæc est hereditas tribus filiorum Zabulon per cognationes suas, urbes et viculi earum.
+16 Haec est hereditas tribus filiorum Zabulon per cognationes suas, urbes et viculi earum.
 
 17 Issachar egressa est sors quarta per cognationes suas.
 
@@ -47,9 +47,9 @@ draft: false
 
 21 et Rameth, et Engannim, et Enhadda et Bethpheses.
 
-22 Et pervenit terminus eius usque Thabor et Sehesima et Bethsames: eruntque exitus eius Iordanis: civitates sedecim, et villæ earum.
+22 Et pervenit terminus eius usque Thabor et Sehesima et Bethsames: eruntque exitus eius Iordanis: civitates sedecim, et villae earum.
 
-23 Hæc est possessio filiorum Issachar per cognationes suas, urbes, et viculi earum.
+23 Haec est possessio filiorum Issachar per cognationes suas, urbes, et viculi earum.
 
 24 Ceciditque sors quinta tribui filiorum Aser per cognationes suas:
 
@@ -57,31 +57,31 @@ draft: false
 
 26 et Elmelech et Amaad et Messal: et pervenit usque ad Carmelum maris et Sihor et Labanath.
 
-27 Ac revertitur contra orientem Bethdagon: et pertransit usque Zabulon et Vallem Iephthael contra Aquilonem in Bethemec et Nehiel. Egrediturque ad lævam Cabul,
+27 Ac revertitur contra orientem Bethdagon: et pertransit usque Zabulon et Vallem Iephthael contra Aquilonem in Bethemec et Nehiel. Egrediturque ad laevam Cabul,
 
 28 et Abran et Rohob et Hamon et Cana, usque ad Sidonem magnam.
 
 29 revertiturque in Horma usque ad civitatem munitissimam Tyrum, et usque Hosa: eruntque exitus eius in mare de funiculo Achziba:
 
-30 et Amma et Aphec et Rohob. civitates viginti duæ, et villæ earum.
+30 et Amma et Aphec et Rohob. civitates viginti duae, et villae earum.
 
-31 Hæc est possessio filiorum Aser per cognationes suas, urbesque et viculi earum.
+31 Haec est possessio filiorum Aser per cognationes suas, urbesque et viculi earum.
 
 32 Filiorum Nephthali sexta sors cecidit per familias suas:
 
-33 et cœpit terminus de Heleph et Elon in Saananim, et Adami, quæ est Neceb, et Iebnael usque Lecum: et egressus eorum usque ad Iordanem:
+33 et coepit terminus de Heleph et Elon in Saananim, et Adami, quae est Neceb, et Iebnael usque Lecum: et egressus eorum usque ad Iordanem:
 
 34 revertiturque terminus contra Occidentem in Azanotthabor, atque inde egreditur in Hucuca, et pertransit in Zabulon contra Meridiem, et in Aser contra Occidentem, et in Iuda ad Iordanem contra ortum solis.
 
-35 civitates munitissimæ, Assedim, Ser, et Emath, et Reccath et Cenereth,
+35 civitates munitissimae, Assedim, Ser, et Emath, et Reccath et Cenereth,
 
 36 et Edema et Arama, Asor
 
 37 et Cedes et Edrai, Enhasor
 
-38 et Ieron et Magdalel, Horem et Bethanath et Bethsames: civitates decem et novem, et villæ earum.
+38 et Ieron et Magdalel, Horem et Bethanath et Bethsames: civitates decem et novem, et villae earum.
 
-39 Hæc est possessio tribus filiorum Nephthali per cognationes suas, urbes et viculi earum.
+39 Haec est possessio tribus filiorum Nephthali per cognationes suas, urbes et viculi earum.
 
 40 Tribui filiorum Dan per familias suas egressa est sors septima:
 
@@ -99,11 +99,11 @@ draft: false
 
 47 et ipso fine concluditur. Ascenderuntque filii Dan, et pugnaverunt contra Lesem, ceperuntque eam: et percusserunt eam in ore gladii, et possederunt, et habitaverunt in ea, vocantes nomen eius Lesem Dan, ex nomine Dan patris sui.
 
-48 Hæc est possessio tribus filiorum Dan, per cognationes suas, urbes et viculi earum.
+48 Haec est possessio tribus filiorum Dan, per cognationes suas, urbes et viculi earum.
 
 49 Cumque complesset sorte dividere Terram singulis per tribus suas, dederunt filii Israel possessionem Iosue filio Nun in medio sui,
 
-50 iuxta præceptum Domini, urbem quam postulavit, Thamnath Saraa in monte Ephraim: et ædificavit civitatem, habitavitque in ea.
+50 iuxta praeceptum Domini, urbem quam postulavit, Thamnath Saraa in monte Ephraim: et aedificavit civitatem, habitavitque in ea.
 
-51 Hæ sunt possessiones, quas sorte diviserunt Eleazar sacerdos, et Iosue filius Nun, et principes familiarum, ac tribuum filiorum Israel in Silo, coram Domino ad ostium tabernaculi testimonii, partitique sunt Terram.
+51 Hae sunt possessiones, quas sorte diviserunt Eleazar sacerdos, et Iosue filius Nun, et principes familiarum, ac tribuum filiorum Israel in Silo, coram Domino ad ostium tabernaculi testimonii, partitique sunt Terram.
 

@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Ecce enim dominator Dominus exercituum auferet a Ierusalem, et a Iuda validum et fortem, omne robur panis, et omne robor aquæ:
+1 Ecce enim dominator Dominus exercituum auferet a Ierusalem, et a Iuda validum et fortem, omne robur panis, et omne robor aquae:
 
 2 fortem, et virum bellatorem, iudicem, et prophetam, et ariolum, et senem:
 
@@ -15,19 +15,19 @@ draft: false
 
 5 Et irruet populus, vir ad virum, et unusquisque ad proximum suum: tumultuabitur puer contra senem, et ignobilis contra nobilem.
 
-6 Apprehendet enim vir fratrem suum domesticum patris sui: Vestimentum tibi est, princeps esto noster, ruina autem hæc sub manu tua.
+6 Apprehendet enim vir fratrem suum domesticum patris sui: Vestimentum tibi est, princeps esto noster, ruina autem haec sub manu tua.
 
 7 Respondebit in die illa, dicens: Non sum medicus, et in domo mea non est panis, neque vestimentum: nolite constituere me principem populi.
 
 8 Ruit enim Ierusalem, et Iudas concidit: quia lingua eorum et adinventiones eorum contra Dominum, ut provocarent oculos maiestatis eius.
 
-9 Agnitio vultus eorum respondit eis: et peccatum suum quasi Sodoma prædicaverunt, nec absconderunt: væ animæ eorum, quoniam reddita sunt eis mala.
+9 Agnitio vultus eorum respondit eis: et peccatum suum quasi Sodoma praedicaverunt, nec absconderunt: vae animae eorum, quoniam reddita sunt eis mala.
 
 10 Dicite iusto quoniam bene, quoniam fructum adinventionum suarum comedet.
 
-11 Væ impio in malum: retributio enim manuum eius fiet ei.
+11 Vae impio in malum: retributio enim manuum eius fiet ei.
 
-12 populum meum exactores sui spoliaverunt, et mulieres dominatæ sunt eis. Popule meus, qui te beatum dicunt, ipsi te decipiunt, et viam gressuum tuorum dissipant.
+12 populum meum exactores sui spoliaverunt, et mulieres dominatae sunt eis. Popule meus, qui te beatum dicunt, ipsi te decipiunt, et viam gressuum tuorum dissipant.
 
 13 Stat ad iudicandum Dominus, et stat ad iudicandos populos.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 Quare atteritis populum meum, et facies pauperum commolitis, dicit Dominus Deus exercituum?
 
-16 Et dixit Dominus: Pro eo quod elevatæ sunt filiæ Sion, et ambulaverunt extento collo, et nutibus oculorum ibant, et plaudebant, ambulabant, pedibus suis, et composito gradu incedebant:
+16 Et dixit Dominus: Pro eo quod elevatae sunt filiae Sion, et ambulaverunt extento collo, et nutibus oculorum ibant, et plaudebant, ambulabant, pedibus suis, et composito gradu incedebant:
 
 17 Decalvabit Dominus verticem filiarum Sion, et Dominus crinem earum nudabit.
 
@@ -51,9 +51,9 @@ draft: false
 
 23 et specula, et sindones, et vittas, et theristra.
 
-24 Et erit pro suavi odore fœtor, et pro zona funiculus, et pro crispanti crine calvitium, et pro fascia pectorali cilicium.
+24 Et erit pro suavi odore foetor, et pro zona funiculus, et pro crispanti crine calvitium, et pro fascia pectorali cilicium.
 
-25 Pulcherrimi quoque viri tui gladio cadent, et fortes tui in prælio.
+25 Pulcherrimi quoque viri tui gladio cadent, et fortes tui in praelio.
 
-26 Et mœrebunt atque lugebunt portæ eius, et desolata in terra sedebit.
+26 Et moerebunt atque lugebunt portae eius, et desolata in terra sedebit.
 

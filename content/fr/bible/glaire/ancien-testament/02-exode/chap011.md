@@ -32,7 +32,7 @@ summary: |
 9 Et il sortit d'avec Pharaon extrêmement irrité. Et le Seigneur dit à Moïse : Pharaon ne vous écoutera pas, afin que beaucoup de signes se fassent dans la terre d'Egypte.
 
 
-10 Or Moïse et Aaron firent devant Pharaon tous les prodiges qui sont écrits. Mais le Seigneur endurcit le cœur de Pharaon, et il ne laissa pas aller les enfants d'Israël hors de son pays.
+10 Or Moïse et Aaron firent devant Pharaon tous les prodiges qui sont écrits. Mais le Seigneur endurcit le coeur de Pharaon, et il ne laissa pas aller les enfants d'Israël hors de son pays.
 
 ***Note*** :  Ex. 11, 10 : Qui sont écrits, raconté ici dans ce livre, et qui font partie des événements arrivés en Egypte.
 

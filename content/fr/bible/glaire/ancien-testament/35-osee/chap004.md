@@ -12,7 +12,7 @@ summary: |
 
 1 Ecoutez la parole du Seigneur, fils d'Israël, parce que voici venir le jugement du Seigneur avec les habitants de la terre ; car il n'y a pas de vérité, et il n'y a pas de miséricorde, et il n'y a pas de science de Dieu sur la terre.
 
-***Note*** :  Os. 4, 1-19 : IIe partie : Impiété d’Israël ; son châtiment ; son pardon, du chapitre 4 au chapitre 14. ― La seconde partie contient les prophéties que fit Osée après la mort de Jéroboam, lorsque les prédictions qu’il avait déjà promulguées du temps de ce roi commençaient à s’accomplir. Elles sont énoncées en forme de discours et se partagent en trois sections, dont la fin est marquée par la promesse réitérée, voir Osée, 6, 1-3 ; 11, 9-11 et 14, 2-9. ― 1° Dans la première, du chapitre 4 au chapitre 6, verset 3, Osée décrit l’état déplorable de la religion et des mœurs dans Israël ; il annonce comment Dieu l’en châtiera et ensuite le sauvera.
+***Note*** :  Os. 4, 1-19 : IIe partie : Impiété d’Israël ; son châtiment ; son pardon, du chapitre 4 au chapitre 14. ― La seconde partie contient les prophéties que fit Osée après la mort de Jéroboam, lorsque les prédictions qu’il avait déjà promulguées du temps de ce roi commençaient à s’accomplir. Elles sont énoncées en forme de discours et se partagent en trois sections, dont la fin est marquée par la promesse réitérée, voir Osée, 6, 1-3 ; 11, 9-11 et 14, 2-9. ― 1° Dans la première, du chapitre 4 au chapitre 6, verset 3, Osée décrit l’état déplorable de la religion et des moeurs dans Israël ; il annonce comment Dieu l’en châtiera et ensuite le sauvera.
 
 ***Note*** :  Os. 4, 1 : Fils d’Israël ; c’est-à-dire les Israélites des tribus, auxquels principalement sont adressées les reproches contenus dans ce chapitre.
 
@@ -45,7 +45,7 @@ eurent l’impiété d’abandonner le Seigneur, comme nous l’apprend Ezéchie
 10 Et ils mangeront, et ils ne seront pas rassasiés; ils ont forniqué, et ils n'ont pas cessé, parce qu'ils ont abandonné le Seigneur en ne gardant point sa loi.
 
 
-11 La fornication, et le vin, et l'ivresse emportent le cœur. 12 Mon peuple a interrogé son bois, et son bâton lui a annoncé l'avenir, car l'esprit de fornication les a déçus; et ils ont forniqué en se séparant de leur Dieu.
+11 La fornication, et le vin, et l'ivresse emportent le coeur. 12 Mon peuple a interrogé son bois, et son bâton lui a annoncé l'avenir, car l'esprit de fornication les a déçus; et ils ont forniqué en se séparant de leur Dieu.
 
 ***Note*** :  Os. 4, 12 : Son bois ; ses idoles de bois. ― Son bâton, etc. Il y avait chez les anciens plusieurs manières de consulter les dieux par les verges ou baguettes ― En se séparant, mots sous-entendus. Comparer à Osée, 1, 2.
 

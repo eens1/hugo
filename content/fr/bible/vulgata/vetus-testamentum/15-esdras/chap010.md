@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Sic ergo orante Esdra, et implorante eo, et flente, et iacente ante templum Dei, collectus est ad eum de Israel cœtus grandis nimis virorum et mulierum et puerorum, et flevit populus fletu multo.
+1 Sic ergo orante Esdra, et implorante eo, et flente, et iacente ante templum Dei, collectus est ad eum de Israel coetus grandis nimis virorum et mulierum et puerorum, et flevit populus fletu multo.
 
-2 Et respondit Sechenias filius Iehiel de filiis Ælam, et dixit Esdræ: Nos prævaricati sumus in Deum nostrum, et duximus uxores alienigenas de populis terræ: et nunc, si est pœnitentia in Israel super hoc,
+2 Et respondit Sechenias filius Iehiel de filiis AElam, et dixit Esdrae: Nos praevaricati sumus in Deum nostrum, et duximus uxores alienigenas de populis terrae: et nunc, si est poenitentia in Israel super hoc,
 
-3 percutiamus fœdus cum Domino Deo nostro, ut proiiciamus universas uxores, et eos qui de his nati sunt iuxta voluntatem Domini, et eorum qui timent præceptum Domini Dei nostri: secundum legem fiat.
+3 percutiamus foedus cum Domino Deo nostro, ut proiiciamus universas uxores, et eos qui de his nati sunt iuxta voluntatem Domini, et eorum qui timent praeceptum Domini Dei nostri: secundum legem fiat.
 
 4 Surge, tuum est decernere, nosque erimus tecum: confortare, et fac.
 
@@ -19,23 +19,23 @@ draft: false
 
 7 et missa est vox in Iuda et in Ierusalem omnibus filiis transmigrationis, ut congregarentur in Ierusalem:
 
-8 et omnis qui non venerit in tribus diebus iuxta consilium principum et seniorum, auferetur universa substantia eius, et ipse abiicietur de cœtu transmigrationis.
+8 et omnis qui non venerit in tribus diebus iuxta consilium principum et seniorum, auferetur universa substantia eius, et ipse abiicietur de coetu transmigrationis.
 
 9 Convenerunt igitur omnes viri Iuda, et Beniamin in Ierusalem tribus diebus, ipse est mensis nonus, vigesimo die mensis: et sedit omnis populus in platea domus Dei, trementes pro peccato, et pluviis.
 
 10 Et surrexit Esdras sacerdos, et dixit ad eos: Vos transgressi estis, et duxistis uxores alienigenas ut adderetis super delictum Israel.
 
-11 Et nunc date confessionem Domino Deo patrum vestrorum, et facite placitum eius, et separamini a populis terræ, et ab uxoribus alienigenis.
+11 Et nunc date confessionem Domino Deo patrum vestrorum, et facite placitum eius, et separamini a populis terrae, et ab uxoribus alienigenis.
 
 12 Et respondit universa multitudo, dixitque voce magna: Iuxta verbum tuum ad nos, sic fiat.
 
-13 Verumtamen quia populus multus est, et tempus pluviæ, et non sustinemus stare foris, et opus non est diei unius vel duorum (vehementer quippe peccavimus in sermone isto)
+13 Verumtamen quia populus multus est, et tempus pluviae, et non sustinemus stare foris, et opus non est diei unius vel duorum (vehementer quippe peccavimus in sermone isto)
 
 14 constituantur principes in universa multitudine: et omnes in civitatibus nostris qui duxerunt uxores alienigenas veniant in temporibus statutis, et cum his seniores per civitatem et civitatem, et iudices eius donec avertatur ira Dei nostri a nobis super peccato hoc.
 
 15 Igitur Ionathan filius Azahel, et Iaasia filius Thecue, steterunt super hoc, et Messollam et Sebethai Levites adiuverunt eos:
 
-16 Feceruntque sic filii transmigrationis. Et abierunt Esdras Sacerdos, et viri principes familiarum in domos patrum suorum, et omnes per nomina sua, et sederunt in die primo mensis decimi ut quærerent rem.
+16 Feceruntque sic filii transmigrationis. Et abierunt Esdras Sacerdos, et viri principes familiarum in domos patrum suorum, et omnes per nomina sua, et sederunt in die primo mensis decimi ut quaererent rem.
 
 17 Et consummati sunt omnes viri, qui duxerant uxores alienigenas, usque ad diem primam mensis primi.
 
@@ -55,7 +55,7 @@ draft: false
 
 25 Et ex Israel, de filiis Pharos, Remeia, et Iesia, et Melchia, et Miamin, et Eliezer, et Melchia, et Banea.
 
-26 Et de filiis Ælam, Mathania, Zacharias, et Iehiel, et Abdi, et Ierimoth, et Elia.
+26 Et de filiis AElam, Mathania, Zacharias, et Iehiel, et Abdi, et Ierimoth, et Elia.
 
 27 Et de filiis Zethua, Elioenai, Eliasib, Mathania, et Ierimuth, et Zabad, et Aziza.
 
@@ -91,5 +91,5 @@ draft: false
 
 43 De filiis Nebo, Iehiel, Mathathias, Zabad, Zabina, Ieddu, et Ioel, et Banaia.
 
-44 Omnes hi acceperant uxores alienigenas, et fuerunt ex eis mulieres, quæ pepererant filios.
+44 Omnes hi acceperant uxores alienigenas, et fuerunt ex eis mulieres, quae pepererant filios.
 

@@ -18,7 +18,7 @@ summary: |
 2 Et les prêtres mêmes ne pouvaient entrer dans le temple du Seigneur, parce que la majesté du Seigneur avait rempli le temple du Seigneur. 3 Mais tous les enfants d'Israël aussi virent descendre le feu et la gloire du Seigneur sur la maison; et tombant, inclinés vers la terre, sur le pavé qui était de pierre, ils adorèrent et louèrent le Seigneur : Parce qu'il est bon, parce que sa miséricorde est éternelle.
 
 
-4 Or le roi et tout le peuple immolaient des victimes devant le Seigneur. 5 Le roi Salomon tua donc vingt-deux mille bœufs et cent vingt mille béliers ; et le roi dédia, ainsi que tout le peuple, la maison du Seigneur.
+4 Or le roi et tout le peuple immolaient des victimes devant le Seigneur. 5 Le roi Salomon tua donc vingt-deux mille boeufs et cent vingt mille béliers ; et le roi dédia, ainsi que tout le peuple, la maison du Seigneur.
 
 ***Note*** :  II Par. 7, 5 : Voir 3 Rois, 8, 63.
 
@@ -36,11 +36,11 @@ summary: |
 9 Et au huitième jour, il fit une réunion, parce qu'il avait dédié l'autel durant sept jours, et qu'il avait célébré la solennité durant sept jours. 10 Ainsi, au vingt-troisième jour du septième mois, il renvoya dans leurs tabernacles les peuples se livrant à l'allégresse, et se réjouissant du bien qu'avait fait le Seigneur à David, à Salomon et à Israël son peuple.
 
 
-11 Salomon acheva donc la maison du Seigneur, la maison du roi, et tout ce qu'il s'était proposé en son cœur de faire dans la maison du Seigneur et dans sa propre maison, et il prospéra.
+11 Salomon acheva donc la maison du Seigneur, la maison du roi, et tout ce qu'il s'était proposé en son coeur de faire dans la maison du Seigneur et dans sa propre maison, et il prospéra.
 
 ***Note*** :  II Par. 7, 11 : Voir 3 Rois, 9, 1.
 
-12 Or le Seigneur lui apparut pendant la nuit, et dit : J'ai entendu ta prière, et choisi ce lieu pour moi, comme une maison de sacrifice. 13 Si je ferme le ciel, et qu'il ne tombe point de pluie ; si j'ordonne et je commande à la sauterelle de dévorer la terre, et si j'envoie une peste à mon peuple, 14 Mais que, converti, mon peuple, sur qui a été invoqué mon nom. me prie, et qu'il recherche ma face, et qu'il fasse pénitence de ses voies très mauvaises, alors moi je les exaucerai du ciel, et je pardonnerai leurs péchés, et je purifierai leur terre. 15 Mes yeux aussi seront ouverts, et mes oreilles attentives à la prière de celui qui priera en ce lieu ; 16 Car j'ai choisi et j'ai sanctifié ce lieu, afin que mon nom y soit à jamais, et que mes yeux et mon cœur y demeurent constamment tous les jours. 17 Et toi-même, si tu marches devant moi comme a marché David ton père ; si tu fais selon tout ce que je t'ai ordonné, et que tu gardes mes lois et mes ordonnances, 18 J'élèverai le trône de ton règne comme je l'ai
+12 Or le Seigneur lui apparut pendant la nuit, et dit : J'ai entendu ta prière, et choisi ce lieu pour moi, comme une maison de sacrifice. 13 Si je ferme le ciel, et qu'il ne tombe point de pluie ; si j'ordonne et je commande à la sauterelle de dévorer la terre, et si j'envoie une peste à mon peuple, 14 Mais que, converti, mon peuple, sur qui a été invoqué mon nom. me prie, et qu'il recherche ma face, et qu'il fasse pénitence de ses voies très mauvaises, alors moi je les exaucerai du ciel, et je pardonnerai leurs péchés, et je purifierai leur terre. 15 Mes yeux aussi seront ouverts, et mes oreilles attentives à la prière de celui qui priera en ce lieu ; 16 Car j'ai choisi et j'ai sanctifié ce lieu, afin que mon nom y soit à jamais, et que mes yeux et mon coeur y demeurent constamment tous les jours. 17 Et toi-même, si tu marches devant moi comme a marché David ton père ; si tu fais selon tout ce que je t'ai ordonné, et que tu gardes mes lois et mes ordonnances, 18 J'élèverai le trône de ton règne comme je l'ai
 promis à David, ton père, disant : On n'enlèvera pas à ta race un homme qui doit être prince en Israël.
 
 ***Note*** :  II Par. 7, 18 : On n’enlèvera pas, etc. Voir 3 Rois, 2, 4.

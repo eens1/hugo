@@ -23,21 +23,21 @@ draft: false
 
 9 Filii autem Chus: Saba, et Hevila, Sabatha, et Regma, et Sabathacha. Porro filii Regma: Saba, et Dadan.
 
-10 Chus autem genuit Nemrod: iste cœpit esse potens in terra.
+10 Chus autem genuit Nemrod: iste coepit esse potens in terra.
 
 11 Mesraim vero genuit Ludim, et Anamim, et Laabim, et Nephtuim,
 
 12 Phetrusim quoque, et Casluim: de quibus egressi sunt Philisthiim, et Caphtorim.
 
-13 Chanaan vero genuit Sidonem primogenitum suum, Hethæum quoque,
+13 Chanaan vero genuit Sidonem primogenitum suum, Hethaeum quoque,
 
-14 et Iebusæum, et Amorrhæum, et Gergesæum,
+14 et Iebusaeum, et Amorrhaeum, et Gergesaeum,
 
-15 Hevæumque et Aracæum, et Sinæum.
+15 Hevaeumque et Aracaeum, et Sinaeum.
 
-16 Aradium quoque, et Samaræum, et Hamathæum.
+16 Aradium quoque, et Samaraeum, et Hamathaeum.
 
-17 Filii Sem: Ælam, et Assur, et Arphaxad, et Lud, et Aram, et Hus, et Hul, et Gether, et Mosoch.
+17 Filii Sem: AElam, et Assur, et Arphaxad, et Lud, et Aram, et Hus, et Hul, et Gether, et Mosoch.
 
 18 Arphaxad autem genuit Sale, qui et ipse genuit Heber.
 
@@ -61,15 +61,15 @@ draft: false
 
 28 Filii autem Abraham, Isaac et Ismahel.
 
-29 Et hæ generationes eorum. Primogenitus Ismahelis, Nabaioth, et Cedar, et Adbeel, et Mabsam,
+29 Et hae generationes eorum. Primogenitus Ismahelis, Nabaioth, et Cedar, et Adbeel, et Mabsam,
 
 30 et Masma, et Duma, Massa, Hadad, et Thema,
 
 31 Ietur, Naphis, Cedma. hi sunt filii Ismahelis.
 
-32 Filii autem Ceturæ concubinæ Abraham, quos genuit: Zamran, Iecsan, Madan, Madian, Iesboc, et Sue. Porro filii Iecsan: Saba, et Dadan. Filii autem Dadan: Assurim, et Latussim, et Laomim.
+32 Filii autem Ceturae concubinae Abraham, quos genuit: Zamran, Iecsan, Madan, Madian, Iesboc, et Sue. Porro filii Iecsan: Saba, et Dadan. Filii autem Dadan: Assurim, et Latussim, et Laomim.
 
-33 Filii autem Madian: Epha, et Epher, et Henoch, et Abida, et Eldaa. omnes hi, filii Ceturæ.
+33 Filii autem Madian: Epha, et Epher, et Henoch, et Abida, et Eldaa. omnes hi, filii Ceturae.
 
 34 Genuit autem Abraham Isaac: cuius fuerunt filii Esau, et Israel.
 
@@ -99,13 +99,13 @@ draft: false
 
 47 Cumque et Adad fuisset mortuus, regnavit pro eo Semla de Masreca.
 
-48 Sed et Semla mortuus est, et regnavit pro eo Saul de Rohoboth, quæ iuxta amnem sita est.
+48 Sed et Semla mortuus est, et regnavit pro eo Saul de Rohoboth, quae iuxta amnem sita est.
 
 49 Mortuo quoque Saul, regnavit pro eo Balanan filius Achobor.
 
-50 Sed et hic mortuus est, et regnavit pro eo Adad: cuius urbis nomen fuit Phau, et appellata est uxor eius Meetabel filia Matred filiæ Mezaab.
+50 Sed et hic mortuus est, et regnavit pro eo Adad: cuius urbis nomen fuit Phau, et appellata est uxor eius Meetabel filia Matred filiae Mezaab.
 
-51 Adad autem mortuo, duces pro regibus in Edom esse cœperunt: dux Thamna, dux Alva, dux Ietheth,
+51 Adad autem mortuo, duces pro regibus in Edom esse coeperunt: dux Thamna, dux Alva, dux Ietheth,
 
 52 dux Oolibama, dux Ela, dux Phinon,
 

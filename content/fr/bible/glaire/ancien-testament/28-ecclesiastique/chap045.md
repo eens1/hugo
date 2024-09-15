@@ -91,7 +91,7 @@ summary: |
 
 ***Note*** :  Sir. 45, 30 : Dieu a fait alliance, etc. ; allusion aux paroles que Dieu fit adresser à Phinées pour sa conduite courageuse (voir Nombres, 25, 12).
 
-31 Et l'alliance avec David roi, fils de Jessé, de la tribu de Juda, c'est l'héritage du royaume pour lui et pour sa postérité, afin de répandre la sagesse dans nos cœurs, pour juger son peuple dans la justice, afin que leurs biens ne fussent pas anéantis ; et il a rendu pour leur nation leur gloire éternelle.
+31 Et l'alliance avec David roi, fils de Jessé, de la tribu de Juda, c'est l'héritage du royaume pour lui et pour sa postérité, afin de répandre la sagesse dans nos coeurs, pour juger son peuple dans la justice, afin que leurs biens ne fussent pas anéantis ; et il a rendu pour leur nation leur gloire éternelle.
 
 ***Note*** :  Sir. 45, 31 : Pour juger. L’infinitif judicare est mis ici, comme dans les Septante, par hébraïsme, au lieu de judicandum. Comparer au verset 29. Remarquons que ce membre de phrase, pour juger, etc. , est sous la dépendance du précédent, afin de répandre, etc. , comme un effet l’est de sa cause.
 

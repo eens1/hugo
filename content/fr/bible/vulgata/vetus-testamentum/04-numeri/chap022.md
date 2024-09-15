@@ -7,13 +7,13 @@ draft: false
 
 1 Profectique castrametati sunt in campestribus Moab, ubi trans Iordanem Iericho sita est.
 
-2 Videns autem Balac filius Sephor omnia quæ fecerat Israel Amorrhæo,
+2 Videns autem Balac filius Sephor omnia quae fecerat Israel Amorrhaeo,
 
-3 et quod pertimuissent eum Moabitæ, et impetum eius ferre non possent,
+3 et quod pertimuissent eum Moabitae, et impetum eius ferre non possent,
 
 4 dixit ad maiores natu Madian: Ita delebit hic populus omnes, qui in nostris finibus commorantur, quo modo solet bos herbas usque ad radices carpere. Ipse erat eo tempore rex in Moab.
 
-5 Misit ergo nuncios ad Balaam filium Beor ariolum, qui habitabat super flumen terræ filiorum Ammon, ut vocarent eum, et dicerent: Ecce egressus est populus ex Ægypto, qui operuit superficiem terræ, sedens contra me.
+5 Misit ergo nuncios ad Balaam filium Beor ariolum, qui habitabat super flumen terrae filiorum Ammon, ut vocarent eum, et dicerent: Ecce egressus est populus ex AEgypto, qui operuit superficiem terrae, sedens contra me.
 
 6 Veni igitur, et maledic populo huic, quia fortior me est: siquo modo possim percutere et eiicere eum de terra mea. novi enim quod benedictus sit cui benedixeris, et maledictus in quem maledicta congesseris.
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Respondit: Balac filius Sephor rex Moabitarum misit ad me,
 
-11 dicens: Ecce populus qui egressus est de Ægypto, operuit superficiem terræ: veni, et maledic ei, siquo modo possim pugnans abigere eum.
+11 dicens: Ecce populus qui egressus est de AEgypto, operuit superficiem terrae: veni, et maledic ei, siquo modo possim pugnans abigere eum.
 
 12 Dixitque Deus ad Balaam: Noli ire cum eis, neque maledicas populo: quia benedictus est.
 
@@ -43,27 +43,27 @@ draft: false
 
 19 Obsecro ut hic maneatis etiam hac nocte, et scire queam quid mihi rursum respondeat Dominus.
 
-20 Venit ergo Deus ad Balaam nocte, et ait ei: Si vocare te venerunt homines isti, surge, et vade cum eis: ita dumtaxat, ut quod tibi præcepero, facias.
+20 Venit ergo Deus ad Balaam nocte, et ait ei: Si vocare te venerunt homines isti, surge, et vade cum eis: ita dumtaxat, ut quod tibi praecepero, facias.
 
 21 Surrexit Balaam mane, et strata asina sua profectus est cum eis.
 
-22 Et iratus est Deus. Stetitque angelus Domini in via contra Balaam, qui insidebat asinæ, et duos pueros habebat secum.
+22 Et iratus est Deus. Stetitque angelus Domini in via contra Balaam, qui insidebat asinae, et duos pueros habebat secum.
 
 23 Cernens asina angelum stantem in via, evaginato gladio, avertit se de itinere, et ibat per agrum. Quam cum verberaret Balaam, et vellet ad semitam reducere,
 
-24 stetit angelus in angustiis duarum maceriarum, quibus vineæ cingebantur.
+24 stetit angelus in angustiis duarum maceriarum, quibus vineae cingebantur.
 
 25 Quem videns asina, iunxit se parieti, et attrivit sedentis pedem. At ille iterum verberabat eam:
 
 26 et nihilominus angelus ad locum angustum transiens, ubi nec ad dexteram, nec ad sinistram poterat deviare, obvius stetit.
 
-27 Cumque vidisset asina stantem angelum, concidit sub pedibus sedentis. qui iratus, vehementius cædebat fuste latera eius.
+27 Cumque vidisset asina stantem angelum, concidit sub pedibus sedentis. qui iratus, vehementius caedebat fuste latera eius.
 
-28 Aperuitque Dominus os asinæ, et locuta est: Quid feci tibi? cur percutis me? ecce iam tertio?
+28 Aperuitque Dominus os asinae, et locuta est: Quid feci tibi? cur percutis me? ecce iam tertio?
 
 29 Respondit Balaam: Quia commeruisti, et illusisti mihi: utinam haberem gladium, ut te percuterem.
 
-30 Dixit asina: Nonne animal tuum sum, cui semper sedere consuevisti usque in præsentem diem? dic quid simile umquam fecerim tibi. At ille ait: Numquam.
+30 Dixit asina: Nonne animal tuum sum, cui semper sedere consuevisti usque in praesentem diem? dic quid simile umquam fecerim tibi. At ille ait: Numquam.
 
 31 Protinus aperuit Dominus oculos Balaam, et vidit angelum stantem in via evaginato gladio, adoravitque eum pronus in terram.
 
@@ -73,7 +73,7 @@ draft: false
 
 34 Dixit Balaam: Peccavi, nesciens quod tu stares contra me: et nunc si displicet tibi ut vadam, revertar.
 
-35 Ait angelus: Vade cum istis, et cave ne aliud quam præcepero tibi loquaris. Ivit igitur cum principibus.
+35 Ait angelus: Vade cum istis, et cave ne aliud quam praecepero tibi loquaris. Ivit igitur cum principibus.
 
 36 Quod cum audisset Balac, egressus est in occursum eius in oppido Moabitarum, quod situm est in extremis finibus Arnon.
 
@@ -81,7 +81,7 @@ draft: false
 
 38 Cui ille respondit: Ecce adsum: numquid loqui potero aliud, nisi quod Deus posuerit in ore meo?
 
-39 Perrexerunt ergo simul, et venerunt in urbem, quæ in extremis regni eius finibus erat.
+39 Perrexerunt ergo simul, et venerunt in urbem, quae in extremis regni eius finibus erat.
 
 40 Cumque occidisset Balac boves et oves, misit ad Balaam, et principes qui cum eo erant, munera.
 

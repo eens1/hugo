@@ -27,11 +27,11 @@ summary: |
 6 Isaac donc demeura à Gérara .
 
 
-7 Comme il était interrogé par les hommes de ce lieu sur sa femme, il répondit : C'est ma sœur; car il avait craint d'avouer qu'elle lui était unie par le mariage, pensant que peut-être ils le tueraient à cause de sa beauté.
+7 Comme il était interrogé par les hommes de ce lieu sur sa femme, il répondit : C'est ma soeur; car il avait craint d'avouer qu'elle lui était unie par le mariage, pensant que peut-être ils le tueraient à cause de sa beauté.
 
-***Note*** :  Gn. 26, 7 : Isaac et Rébecca descendaient l’un et l’autre de Tharé, aïeul d’Isaac et bisaïeul de Rébecca. Voir pour le mot sœur, Genèse, note 12. 13.
+***Note*** :  Gn. 26, 7 : Isaac et Rébecca descendaient l’un et l’autre de Tharé, aïeul d’Isaac et bisaïeul de Rébecca. Voir pour le mot soeur, Genèse, note 12. 13.
 
-8 Or, lorsque beaucoup de jours furent passés, et qu'il demeurait encore en ce même endroit, Abimélech, roi des Philistins, regardant par la fenêtre, le vit jouant avec Rébecca, sa femme. 9 Et l'ayant fait venir, il dit : Il est évident que c'est ta femme; pourquoi as-tu menti, disant que c'est ta sœur? Il répondit : J'ai eu peur de mourir à cause d'elle. 10 Et Abimélech reprit : Pourquoi nous en as-tu imposé? quelqu'un du peuple aurait pu abuser de ta femme, et tu aurais attiré sur nous un grand péché. Et il commanda à tout le peuple, disant :11 Quiconque touchera la femme de cet homme, mourra de mort.
+8 Or, lorsque beaucoup de jours furent passés, et qu'il demeurait encore en ce même endroit, Abimélech, roi des Philistins, regardant par la fenêtre, le vit jouant avec Rébecca, sa femme. 9 Et l'ayant fait venir, il dit : Il est évident que c'est ta femme; pourquoi as-tu menti, disant que c'est ta soeur? Il répondit : J'ai eu peur de mourir à cause d'elle. 10 Et Abimélech reprit : Pourquoi nous en as-tu imposé? quelqu'un du peuple aurait pu abuser de ta femme, et tu aurais attiré sur nous un grand péché. Et il commanda à tout le peuple, disant :11 Quiconque touchera la femme de cet homme, mourra de mort.
 
 
 12 Et Isaac sema en ce pays, et il trouva dans l'année même le centuple ; car le Seigneur le bénit. 13 Ainsi cet homme, s'enrichit, et il allait prospérant et s'accroissant, jusqu'à ce qu'il devint extrêmement puissant. 14 Il eut aussi des possessions de brebis et de gros troupeaux, et une nombreuse famille. A cause de cela, les Philistins jaloux de lui, 15 Comblèrent en ce temps-là tous les puits qu'avaient creusés les serviteurs de son père Abraham, les remplissant de terre ; 16 Tellement qu'Abimélech dit à Isaac : Eloigne-toi de nous, parce que tu es devenu beaucoup plus puissant que nous. 17 Et lui descendant, vint au torrent de Gérara pour y habiter.

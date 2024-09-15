@@ -15,9 +15,9 @@ draft: false
 
 5 sed non in pluribus eorum beneplacitum est Deo: nam prostrati sunt in deserto.
 
-6 Hæc autem in figura facta sunt nostri, ut non simus concupiscentes malorum, sicut et illi concupierunt.
+6 Haec autem in figura facta sunt nostri, ut non simus concupiscentes malorum, sicut et illi concupierunt.
 
-7 neque idololatræ efficiamini, sicut quidam ex ipsis: quemadmodum scriptum est: Sedit populus manducare, et bibere, et surrexerunt ludere.
+7 neque idololatrae efficiamini, sicut quidam ex ipsis: quemadmodum scriptum est: Sedit populus manducare, et bibere, et surrexerunt ludere.
 
 8 neque fornicemur, sicut quidam ex ipsis fornicati sunt, et ceciderunt una die viginti tria millia.
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Neque murmuraveritis, sicut quidam eorum murmuraverunt, et perierunt ab exterminatore.
 
-11 Hæc autem omnia in figura contingebant illis: scripta sunt autem ad correptionem nostram, in quos fines sæculorum devenerunt.
+11 Haec autem omnia in figura contingebant illis: scripta sunt autem ad correptionem nostram, in quos fines saeculorum devenerunt.
 
 12 Itaque qui se existimat stare, videat ne cadat.
 
@@ -43,17 +43,17 @@ draft: false
 
 19 Quid ergo? dico quod idolis immolatum sit aliquid? aut quod idolum, sit aliquid?
 
-20 Sed quæ immolant Gentes, dæmoniis immolant, et non Deo. Nolo autem vos socios fieri dæmoniorum:
+20 Sed quae immolant Gentes, daemoniis immolant, et non Deo. Nolo autem vos socios fieri daemoniorum:
 
-21 non potestis calicem Domini bibere, et calicem dæmoniorum: non potestis mensæ Domini participes esse, et mensæ dæmoniorum.
+21 non potestis calicem Domini bibere, et calicem daemoniorum: non potestis mensae Domini participes esse, et mensae daemoniorum.
 
-22 An æmulamur Dominum? Numquid fortiores illo sumus? Omnia mihi licent, sed non omnia expediunt.
+22 An aemulamur Dominum? Numquid fortiores illo sumus? Omnia mihi licent, sed non omnia expediunt.
 
-23 Omnia mihi licent, sed non omnia ædificat.
+23 Omnia mihi licent, sed non omnia aedificat.
 
-24 Nemo quod suum est quærat, sed quod alterius.
+24 Nemo quod suum est quaerat, sed quod alterius.
 
-25 Omne, quod in macello vænit, manducate, nihil interrogantes propter conscientiam.
+25 Omne, quod in macello vaenit, manducate, nihil interrogantes propter conscientiam.
 
 26 Domini est terra, et plenitudo eius.
 
@@ -67,7 +67,7 @@ draft: false
 
 31 Sive ergo manducatis, sive bibitis, sive aliud quid facitis: omnia in gloriam Dei facite.
 
-32 Sine offensione estote Iudæis, et Gentibus, et Ecclesiæ Dei:
+32 Sine offensione estote Iudaeis, et Gentibus, et Ecclesiae Dei:
 
-33 sicut et ego per omnia omnibus placeo, non quærens quod mihi utile est, sed quod multis: ut salvi fiant.
+33 sicut et ego per omnia omnibus placeo, non quaerens quod mihi utile est, sed quod multis: ut salvi fiant.
 

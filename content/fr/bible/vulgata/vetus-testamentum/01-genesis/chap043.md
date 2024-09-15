@@ -7,13 +7,13 @@ draft: false
 
 1 Interim fames omnem terram vehementer premebat.
 
-2 Consumptisque cibis quos ex Ægypto detulerant, dixit Iacob ad filios suos: Revertimini, et emite nobis pauxillum escarum.
+2 Consumptisque cibis quos ex AEgypto detulerant, dixit Iacob ad filios suos: Revertimini, et emite nobis pauxillum escarum.
 
 3 Respondit Iudas: Denuntiavit nobis vir ille sub attestatione iurisiurandi, dicens: Non videbitis faciem meam, nisi fratrem vestrum minimum adduxeritis vobiscum.
 
 4 Si ergo vis eum mittere nobiscum, pergemus pariter, et ememus tibi necessaria:
 
-5 sin autem non vis, non ibimus: vir enim, ut sæpe diximus, denunciavit nobis, dicens: Non videbitis faciem meam absque fratre vestro minimo.
+5 sin autem non vis, non ibimus: vir enim, ut saepe diximus, denunciavit nobis, dicens: Non videbitis faciem meam absque fratre vestro minimo.
 
 6 Dixit eis Israel: In meam hoc fecistis miseriam, ut indicaretis ei et alium habere vos fratrem.
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Si non intercessisset dilatio, iam vice alter venissemus.
 
-11 Igitur Israel pater eorum dixit ad eos: Si sic necesse est, facite quod vultis: sumite de optimis terræ fructibus in vasis vestris, et deferte viro munera, modicum resinæ, et mellis, et storacis, stactes, et terebinthi, et amygdalarum.
+11 Igitur Israel pater eorum dixit ad eos: Si sic necesse est, facite quod vultis: sumite de optimis terrae fructibus in vasis vestris, et deferte viro munera, modicum resinae, et mellis, et storacis, stactes, et terebinthi, et amygdalarum.
 
 12 Pecuniam quoque duplicem ferte vobiscum: et illam, quam invenistis in sacculis, reportate, ne forte errore factum sit:
 
@@ -33,9 +33,9 @@ draft: false
 
 14 Deus autem meus omnipotens faciat vobis eum placabilem: et remittat vobiscum fratrem vestrum quem tenet, et hunc Beniamin: ego autem quasi orbatus absque liberis ero.
 
-15 Tulerunt ergo viri munera, et pecuniam duplicem, et Beniamin: descenderuntque in Ægyptum, et steterunt coram Ioseph.
+15 Tulerunt ergo viri munera, et pecuniam duplicem, et Beniamin: descenderuntque in AEgyptum, et steterunt coram Ioseph.
 
-16 Quos cum ille vidisset, et Beniamin simul, præcepit dispensatori domus suæ, dicens: Introduc viros domum, et occide victimas, et instrue convivium: quoniam mecum sunt comesturi meridie.
+16 Quos cum ille vidisset, et Beniamin simul, praecepit dispensatori domus suae, dicens: Introduc viros domum, et occide victimas, et instrue convivium: quoniam mecum sunt comesturi meridie.
 
 17 Fecit ille quod sibi fuerat imperatum, et introduxit viros domum.
 
@@ -47,7 +47,7 @@ draft: false
 
 21 quibus emptis, cum venissemus ad diversorium, aperuimus saccos nostros, et invenimus pecuniam in ore saccorum: quam nunc eodem pondere reportavimus.
 
-22 Sed et aliud attulimus argentum, ut emamus quæ nobis necessaria sunt: non est in nostra conscientia quis posuerit eam in marsupiis nostris.
+22 Sed et aliud attulimus argentum, ut emamus quae nobis necessaria sunt: non est in nostra conscientia quis posuerit eam in marsupiis nostris.
 
 23 At ille respondit: Pax vobiscum, nolite timere: Deus vester, et Deus patris vestri dedit vobis thesauros in saccis vestris. nam pecuniam, quam dedistis mihi, probatam ego habeo. Eduxitque ad eos Simeon.
 
@@ -63,13 +63,13 @@ draft: false
 
 29 Attollens autem Ioseph oculos, vidit Beniamin fratrem suum uterinum, et ait: Iste est frater vester parvulus, de quo dixeratis mihi? Et rursum: Deus, inquit, misereatur tui, fili mi.
 
-30 Festinavitque quia commota fuerant viscera eius super fratre suo, et erumpebant lacrymæ: et introiens cubiculum flevit.
+30 Festinavitque quia commota fuerant viscera eius super fratre suo, et erumpebant lacrymae: et introiens cubiculum flevit.
 
 31 Rursumque lota facie egressus, continuit se, et ait: Ponite panes.
 
-32 Quibus appositis, seorsum Ioseph, et seorsum fratribus, Ægyptiis quoque qui vescebantur simul, seorsum (illicitum est enim Ægyptiis comedere cum Hebræis, et profanum putant huiuscemodi convivium)
+32 Quibus appositis, seorsum Ioseph, et seorsum fratribus, AEgyptiis quoque qui vescebantur simul, seorsum (illicitum est enim AEgyptiis comedere cum Hebraeis, et profanum putant huiuscemodi convivium)
 
-33 sederunt coram eo, primogenitus iuxta primogenita sua, et minimus iuxta ætatem suam. Et mirabantur nimis,
+33 sederunt coram eo, primogenitus iuxta primogenita sua, et minimus iuxta aetatem suam. Et mirabantur nimis,
 
 34 sumptis partibus quas ab eo acceperant: maiorque pars venit Beniamin, ita ut quinque partibus excederet. Biberuntque et inebriati sunt cum eo.
 

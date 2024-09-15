@@ -16,7 +16,7 @@ summary: |
 
 2 Quand il s'assit sur le trône de son royaume, Suse était la première ville de son royaume.
 
-***Note*** :  Esther 1, 2 : Suse, capitale de la Susiane, sur l’Eulæus, une des résidences des rois de Perse.
+***Note*** :  Esther 1, 2 : Suse, capitale de la Susiane, sur l’Eulaeus, une des résidences des rois de Perse.
 
 3 Or, à la troisième année de son règne, il fit un grand festin à tous les princes de sa cour et à ses serviteurs, aux plus braves des Perses, aux illustres des Mèdes, et aux gouverneurs des provinces, en sa présence, 4 Pour montrer les richesses de la gloire de son empire, et la grandeur et le faste de sa puissance, pendant longtemps, c'est-à-dire cent quatre-vingts jours.
 

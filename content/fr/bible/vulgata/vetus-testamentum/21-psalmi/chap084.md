@@ -9,15 +9,15 @@ draft: false
 
 2 Benedixisti Domine terram tuam: avertisti captivitatem Iacob.
 
-3 Remisisti iniquitatem plebis tuæ: operuisti omnia peccata eorum.
+3 Remisisti iniquitatem plebis tuae: operuisti omnia peccata eorum.
 
-4 Mitigasti omnem iram tuam: avertisti ab ira indignationis tuæ.
+4 Mitigasti omnem iram tuam: avertisti ab ira indignationis tuae.
 
 5 Converte nos Deus salutaris noster: et averte iram tuam a nobis.
 
-6 Numquid in æternum irasceris nobis? aut extendes iram tuam a generatione in generationem?
+6 Numquid in aeternum irasceris nobis? aut extendes iram tuam a generatione in generationem?
 
-7 Deus tu conversus vivificabis nos: et plebs tua lætabitur in te.
+7 Deus tu conversus vivificabis nos: et plebs tua laetabitur in te.
 
 8 Ostende nobis Domine misericordiam tuam: et salutare tuum da nobis.
 
@@ -25,9 +25,9 @@ draft: false
 
 10 Verumtamen prope timentes eum salutare ipsius: ut inhabitet gloria in terra nostra.
 
-11 Misericordia, et veritas obviaverunt sibi: iustitia, et pax osculatæ sunt.
+11 Misericordia, et veritas obviaverunt sibi: iustitia, et pax osculatae sunt.
 
-12 Veritas de terra orta est: et iustitia de cælo prospexit.
+12 Veritas de terra orta est: et iustitia de caelo prospexit.
 
 13 Etenim Dominus dabit benignitatem: et terra nostra dabit fructum suum.
 

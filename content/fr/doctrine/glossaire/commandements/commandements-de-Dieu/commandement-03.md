@@ -13,11 +13,11 @@ draft: false
 
 > Pendant six jours vous travaillerez, au septième jour c'est un sabbat, repos saint pour le Seigneur, quiconque travaillera en ce jour-là, mourra. Que les enfants d'Israël gardent le sabbat, et qu'ils le célèbrent en leurs générations. 
 
-> C'est un pacte éternel entre moi et les enfants d'Israël et un signe perpétuel; car c'est en six jours que le Seigneur a fait le ciel et la terre, et au septième il a cessé son œuvre." [^2]
+> C'est un pacte éternel entre moi et les enfants d'Israël et un signe perpétuel; car c'est en six jours que le Seigneur a fait le ciel et la terre, et au septième il a cessé son oeuvre." [^2]
 
 [^2]: Glaire 1905, pp. 170-171.
 
-> *Deutéronome 5:12-15* : "Observe le jour du sabbat, afin de le sanctifier, comme t'a ordonné le Seigneur ton Dieu. Pendant six jours tu travailleras, et tu feras tous tes ouvrages. Mais le septième jour est celui du sabbat, c'est-à-dire le repos du Seigneur ton Dieu. Tu ne feras en ce jour aucun ouvrage, ni toi, ni ton fils, ni ta fille, ni ton serviteur, ni ta servante, ni ton bœuf, ni ton âne, ni aucune de tes bêtes, ni l'étranger qui est au-dedans de tes portes; afin que ton serviteur et ta servante se reposent comme toi aussi. 
+> *Deutéronome 5:12-15* : "Observe le jour du sabbat, afin de le sanctifier, comme t'a ordonné le Seigneur ton Dieu. Pendant six jours tu travailleras, et tu feras tous tes ouvrages. Mais le septième jour est celui du sabbat, c'est-à-dire le repos du Seigneur ton Dieu. Tu ne feras en ce jour aucun ouvrage, ni toi, ni ton fils, ni ta fille, ni ton serviteur, ni ta servante, ni ton boeuf, ni ton âne, ni aucune de tes bêtes, ni l'étranger qui est au-dedans de tes portes; afin que ton serviteur et ta servante se reposent comme toi aussi. 
 
 > Souviens-toi que toi-même aussi tu as servi en Egypte, et que le Seigneur ton Dieu t'en a retiré par une main puissante et un bras étendu. C'est pourquoi il t'a ordonné d'observer le jour du sabbat." [^3]
 

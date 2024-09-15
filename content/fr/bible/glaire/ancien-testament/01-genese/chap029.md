@@ -22,7 +22,7 @@ summary: |
 ***Note*** :  Gn. 29, 8 : La pierre de l’ouverture du puits. L’orifice du puits est souvent à fleur de terre en Orient et on le bouche avec une pierre qu’il faut enlever pour puiser de l’eau.
 
 
-9 Ils parlaient encore, et voilà que Rachel venait avec les brebis de son père ; car elle paissait elle-même le troupeau. 10 Quand Jacob l'eut vue, et qu'il sut qu'elle était sa cousine germaine, et que les brebis étaient de Laban son oncle maternel, il ôta la pierre qui fermait le puits. 11 Et, le troupeau abreuvé, il embrassa Rachel ; et, la voix élevée, il pleura. 12 Puis il lui fit connaître qu'il était frère de son père et fils de Rébecca : or, elle se hâtant, l'annonça à son père, 13 Qui, lorsqu'il eut entendu que Jacob, fils de sa sœur, était venu, courut au-devant de lui, et l'embrassa; et, le couvrant de baisers, il le conduisit dans sa maison. Mais les motifs de son voyage entendus, 14 Il répondit : Tu es de mes os et de ma chair. Et après que furent accomplis les jours d'un mois.
+9 Ils parlaient encore, et voilà que Rachel venait avec les brebis de son père ; car elle paissait elle-même le troupeau. 10 Quand Jacob l'eut vue, et qu'il sut qu'elle était sa cousine germaine, et que les brebis étaient de Laban son oncle maternel, il ôta la pierre qui fermait le puits. 11 Et, le troupeau abreuvé, il embrassa Rachel ; et, la voix élevée, il pleura. 12 Puis il lui fit connaître qu'il était frère de son père et fils de Rébecca : or, elle se hâtant, l'annonça à son père, 13 Qui, lorsqu'il eut entendu que Jacob, fils de sa soeur, était venu, courut au-devant de lui, et l'embrassa; et, le couvrant de baisers, il le conduisit dans sa maison. Mais les motifs de son voyage entendus, 14 Il répondit : Tu es de mes os et de ma chair. Et après que furent accomplis les jours d'un mois.
 
 
 15 Il lui dit : Est-ce donc parce que tu es mon frère, que tu me serviras gratuitement? Dis quelle récompense tu accepteras? 16 Or il avait deux filles; le nom de l'aînée était Lia, et la plus jeune s'appelait Rachel. 17 Mais Lia avait les yeux chassieux, Rachel. un beau visage et un aspect gracieux. 18 Jacob, qui aimait celle-ci, dit : Je te servirai pour Rachel, ta plus jeune fille, durant sept ans. 19 Laban répondit : Il vaut mieux que je te la donne qu'à un autre homme : demeure avec moi. 20 Jacob donc servit pour Rachel durant sept ans; mais ils lui paraissaient peu de jours, à cause de son grand amour. 21 Et il dit à Laban : Donne-moi ma femme, puisque déjà est accompli le temps auquel je dois m'approcher d'elle.
@@ -46,7 +46,7 @@ summary: |
 ***Note*** :  Gn. 29, 30 : L’amour de la seconde à la première, est mis d’une manière elliptique pour : L’amour de la seconde à l’amour de la première.
 
 
-31 Mais le Seigneur, voyant qu'il dédaignait Lia, la rendit féconde, sa sœur demeurant stérile. 32 Lia ayant conçu, enfanta un fils, et elle l'appela du nom de Ruben, disant : Le Seigneur a vu mon humiliation; c'est maintenant que mon mari m'aimera.
+31 Mais le Seigneur, voyant qu'il dédaignait Lia, la rendit féconde, sa soeur demeurant stérile. 32 Lia ayant conçu, enfanta un fils, et elle l'appela du nom de Ruben, disant : Le Seigneur a vu mon humiliation; c'est maintenant que mon mari m'aimera.
 
 
 33 Et elle conçut de nouveau, et enfanta un fils, et elle dit : Parce que le Seigneur a entendu que j'étais méprisée, il m'a donné encore celui-ci. Et elle l'appela du nom de Siméon.

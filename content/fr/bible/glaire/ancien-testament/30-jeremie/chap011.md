@@ -33,7 +33,7 @@ summary: |
 
 ***Note*** :  Jr. 11, 7 : Me levant dès le matin. Voir pour le sens de cette expression, Jérémie, 7, 13.
 
-8 Et ils n'ont pas écouté, et ils n'ont pas incliné leur oreille; mais ils ont suivi chacun la dépravation de son cœur mauvais; et j'ai amené sur eux toutes les paroles de cette alliance que je leur ai commandé d'observer, et qu'ils n'ont pas observée.
+8 Et ils n'ont pas écouté, et ils n'ont pas incliné leur oreille; mais ils ont suivi chacun la dépravation de son coeur mauvais; et j'ai amené sur eux toutes les paroles de cette alliance que je leur ai commandé d'observer, et qu'ils n'ont pas observée.
 
 
 9 Et le Seigneur me dit : Il a été découvert une conjuration parmi les hommes de Juda et les habitants de Jérusalem. 10 Ils sont revenus aux premières iniquités de leurs pères, qui n'ont pas voulu écouter mes paroles; ceux-ci donc sont allés de même après des dieux étrangers, afin de les servir; la maison d'Israël et la maison de Juda ont rendu vaine l'alliance que j'avais conclue avec leurs pères.
@@ -57,12 +57,12 @@ summary: |
 16 Olivier fertile, beau, chargé de fruits, superbe, le Seigneur t'a appelée de ce nom ; à la voix de sa parole, un grand feu s'est allumé dans cet olivier, et ses rameaux ont été brûlés. 17 Et le Seigneur des armées qui t'a planté, a prononcé le mal sur toi, à cause des maux de la maison d'Israël et de la maison de Juda, qu'elles se sont faits à elles-mêmes pour m'irriter en faisant des libations aux Baalim.
 
 
-18 Mais vous. Seigneur, vous m'avez fait voir leurs pensées, et je les ai connues ; alors vous m'avez montré leurs œuvres. 19 Et moi, j'ai été comme un agneau plein de douceur que l'on porte pour en faire une victime ; et je n'ai pas su qu'ils formaient contre moi des projets, disant : Mettons du bois dans son pain, rayons-le de la terre des vivants, et que son nom ne soit plus rappelé dans la mémoire.
+18 Mais vous. Seigneur, vous m'avez fait voir leurs pensées, et je les ai connues ; alors vous m'avez montré leurs oeuvres. 19 Et moi, j'ai été comme un agneau plein de douceur que l'on porte pour en faire une victime ; et je n'ai pas su qu'ils formaient contre moi des projets, disant : Mettons du bois dans son pain, rayons-le de la terre des vivants, et que son nom ne soit plus rappelé dans la mémoire.
 
 ***Note*** :  Jr. 11, 19 : Et moi, etc. Jérémie est la figure de Jésus-Christ même. ― Mettons du bois, etc. ; autre figure du divin Sauveur, vrai pain de vie descendu du ciel et attaché à une croix de bois sur le Calvaire. C’est ainsi que les Pères ont expliqué ce passage.
 
 
-20 Mais vous, Seigneur Sabaoth, vous qui jugez justement et qui éprouvez les reins et les cœurs, que je voie votre vengeance sur eux ; car je vous ai révélé ma cause.
+20 Mais vous, Seigneur Sabaoth, vous qui jugez justement et qui éprouvez les reins et les coeurs, que je voie votre vengeance sur eux ; car je vous ai révélé ma cause.
 
 ***Note*** :  Jr. 11, 20 : Voir Jérémie, 17, 10 ; 20, 12. ― Sabaoth ; mot hébreu que l’on traduit ordinairement par armées ; mais dont le sens primitif est : ce que le ciel et la terre renferment. Comparer à Genèse, 2, 1. ― Les reins. Ce mot se prend en hébreu pour l’esprit, l’intérieur en général.
 

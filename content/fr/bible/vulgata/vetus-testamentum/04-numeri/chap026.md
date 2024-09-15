@@ -17,7 +17,7 @@ draft: false
 
 6 et Hesron, a quo familia Hesronitarum: et Charmi, a quo familia Charmitarum.
 
-7 hæ sunt familiæ de stirpe Ruben: quarum numerus inventus est quadraginta tria millia, et septingenti triginta.
+7 hae sunt familiae de stirpe Ruben: quarum numerus inventus est quadraginta tria millia, et septingenti triginta.
 
 8 Filius Phallu, Eliab.
 
@@ -31,7 +31,7 @@ draft: false
 
 13 Zare, ab hoc familia Zareitarum: Saul, ab hoc familia Saulitarum.
 
-14 hæ sunt familiæ de stirpe Simeon, quarum omnis numerus fuit viginti duo millia ducenti.
+14 hae sunt familiae de stirpe Simeon, quarum omnis numerus fuit viginti duo millia ducenti.
 
 15 Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum: Aggi, ab hoc familia Aggitarum: Suni, ab hoc familia Sunitarum:
 
@@ -39,7 +39,7 @@ draft: false
 
 17 Arod, ab hoc familia Aroditarum: Ariel, ab hoc familia Arielitarum.
 
-18 istæ sunt familiæ Gad, quarum omnis numerus fuit quadraginta millia quingenti.
+18 istae sunt familiae Gad, quarum omnis numerus fuit quadraginta millia quingenti.
 
 19 Filii Iuda, Her et Onan, qui ambo mortui sunt in Terra Chanaan.
 
@@ -47,17 +47,17 @@ draft: false
 
 21 Porro filii Phares: Hesron, a quo familia Hesronitarum: et Hamul, a quo familia Hamulitarum.
 
-22 Istæ sunt familiæ Iuda, quarum omnis numerus fuit septuaginta sex millia quingenti.
+22 Istae sunt familiae Iuda, quarum omnis numerus fuit septuaginta sex millia quingenti.
 
 23 Filii Issachar, per cognationes suas: Thola, a quo familia Tholaitarum: Phua, a quo familia Phuaitarum:
 
 24 Iasub, a quo familia Iasubitarum: Semran, a quo familia Semranitarum.
 
-25 hæ sunt cognationes Issachar, quarum numerus fuit sexaginta quattuor millia trecenti.
+25 hae sunt cognationes Issachar, quarum numerus fuit sexaginta quattuor millia trecenti.
 
 26 Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum: Elon, a quo familia Elonitarum: Ialel, a quo familia Ialelitarum.
 
-27 hæ sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
+27 hae sunt cognationes Zabulon, quarum numerus fuit sexaginta millia quingenti.
 
 28 Filii Ioseph per cognationes suas, Manasse et Ephraim.
 
@@ -71,13 +71,13 @@ draft: false
 
 33 Fuit autem Hepher pater Salphaad, qui filios non habebat, sed tantum filias, quarum ista sunt nomina: Maala, et Noa, et Hegla, et Melcha, et Thersa.
 
-34 hæ sunt familiæ Manasse, et numerus earum, quinquaginta duo millia septingenti.
+34 hae sunt familiae Manasse, et numerus earum, quinquaginta duo millia septingenti.
 
 35 Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum: Becher, a quo familia Becheritarum: Thehen, a quo familia Thehenitarum.
 
 36 porro filius Suthala fuit Heran, a quo familia Heranitarum.
 
-37 hæ sunt cognationes filiorum Ephraim, quarum numerus fuit triginta duo millia quingenti.
+37 hae sunt cognationes filiorum Ephraim, quarum numerus fuit triginta duo millia quingenti.
 
 38 Isti sunt filii Ioseph per familias suas. Filii Beniamin in cognationibus suis: Bela, a quo familia Belaitarum: Asbel, a quo familia Asbelitarum: Ahiram, a quo familia Ahiramitarum:
 
@@ -87,23 +87,23 @@ draft: false
 
 41 hi sunt filii Beniamin per cognationes suas, quorum numerus fuit quadragintaquinque millia sexcenti.
 
-42 Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. hæ sunt cognationes Dan per familias suas.
+42 Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. hae sunt cognationes Dan per familias suas.
 
-43 omnes fuere Suhamitæ, quorum numerus erat sexaginta quattuor millia quadringenti.
+43 omnes fuere Suhamitae, quorum numerus erat sexaginta quattuor millia quadringenti.
 
 44 Filii Aser per cognationes suas: Iemna, a quo familia Iemnaitarum: Iessui, a quo familia Iessuitarum: Brie, a quo familia Brieitarum.
 
 45 Filii Brie: Heber, a quo familia Heberitarum: et Melchiel, a quo familia Melchielitarum.
 
-46 Nomen autem filiæ Aser, fuit Sara.
+46 Nomen autem filiae Aser, fuit Sara.
 
-47 hæ cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
+47 hae cognationes filiorum Aser, et numerus eorum quinquaginta tria millia quadringenti.
 
 48 Filii Nephthali per cognationes suas: Iesiel, a quo familia Iesielitarum: Guni, a quo familia Gunitarum:
 
 49 Ieser, a quo familia Ieseritarum: Sellem, a quo familia Sellemitarum.
 
-50 hæ sunt cognationes filiorum Nephthali per familias suas: quorum numerus quadraginta quinque millia quadringenti.
+50 hae sunt cognationes filiorum Nephthali per familias suas: quorum numerus quadraginta quinque millia quadringenti.
 
 51 Ista est summa filiorum Israel, qui recensiti sunt, sexcenta millia, et mille septingenti triginta.
 
@@ -119,9 +119,9 @@ draft: false
 
 57 Hic quoque est numerus filiorum Levi per familias suas: Gerson, a quo familia Gersonitarum: Caath, a quo famiia Caathitarum: Merari, a quo familia Meraritarum.
 
-58 hæ sunt familiæ Levi: Familia Lobni, familia Hebroni, familia Moholi, familia Musi, familia Core. At vero Caath genuit Amram:
+58 hae sunt familiae Levi: Familia Lobni, familia Hebroni, familia Moholi, familia Musi, familia Core. At vero Caath genuit Amram:
 
-59 qui habuit uxorem Iochabed filiam Levi, quæ nata est ei in Ægypto. hæc genuit Amram viro suo filios, Aaron et Moysen, et Mariam sororem eorum:
+59 qui habuit uxorem Iochabed filiam Levi, quae nata est ei in AEgypto. haec genuit Amram viro suo filios, Aaron et Moysen, et Mariam sororem eorum:
 
 60 De Aaron orti sunt Nadab et Abiu, et Eleazar et Ithamar:
 
@@ -133,5 +133,5 @@ draft: false
 
 64 inter quos nullus fuit eorum, qui ante numerati sunt a Moyse et Aaron in deserto Sinai:
 
-65 Prædixerat enim Dominus quod omnes morerentur in solitudine. Nullusque remansit ex eis, nisi Caleb filius Iephone, et Iosue filius Nun.
+65 Praedixerat enim Dominus quod omnes morerentur in solitudine. Nullusque remansit ex eis, nisi Caleb filius Iephone, et Iosue filius Nun.
 

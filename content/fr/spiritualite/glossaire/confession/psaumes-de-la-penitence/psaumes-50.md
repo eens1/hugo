@@ -24,13 +24,13 @@ summary: |
 
 10 Vous me ferez entendre une parole de joie et d'allégresse, et mes os humiliés exulteront.
 
-11 Détournez votre face de mes péchés; et effacez toutes mes iniquités. 12 Créez un cœur pur en moi, ô mon Dieu! et renouvelez un esprit droit dans mes entrailles. 13 Ne me rejetez pas de devant votre face, et ne me retirez pas votre esprit saint de moi.
+11 Détournez votre face de mes péchés; et effacez toutes mes iniquités. 12 Créez un coeur pur en moi, ô mon Dieu! et renouvelez un esprit droit dans mes entrailles. 13 Ne me rejetez pas de devant votre face, et ne me retirez pas votre esprit saint de moi.
 
 14 Rendez-moi la joie de votre salut, et par votre esprit souverain fortifiez-moi.
 
 15 J'enseignerai aux hommes iniques vos voies, et les impies se convertiront à vous. 16 Délivrez-moi d'un sang versé, ô Dieu, Dieu de mon salut: et ma langue publiera avec joie votre justice.
 
-17 Seigneur, vous ouvrirez mes lèvres, et ma bouche annoncera votre louange. 18 Parce que si vous aviez voulu un sacrifice, je vous l'aurais offert certainement; mais des holocaustes ne vous seront point agréables. 19 Le sacrifice que Dieu désire est un esprit brisé de douleur : vous ne dédaignerez pas, ô Dieu, un cœur contrit et humilié.
+17 Seigneur, vous ouvrirez mes lèvres, et ma bouche annoncera votre louange. 18 Parce que si vous aviez voulu un sacrifice, je vous l'aurais offert certainement; mais des holocaustes ne vous seront point agréables. 19 Le sacrifice que Dieu désire est un esprit brisé de douleur : vous ne dédaignerez pas, ô Dieu, un coeur contrit et humilié.
 
 20 Dans votre bonne volonté, Seigneur, traitez bénignement Sion; et que les murs de Jérusalem soient bâtis.
 

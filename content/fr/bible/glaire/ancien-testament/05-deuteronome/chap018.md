@@ -15,7 +15,7 @@ summary: |
 
 ***Note*** :  Dr. 18, 1 : Voir Nombres, 18, vv. 20, 23 ; Deutéronome, 10, 9 ; 1 Corinthiens, 9, 13.
 
-2 Et ils ne recevront rien autre chose de la possession de leurs frères ; car le Seigneur lui-même est leur héritage, comme il leur a dit. 3 Voici le droit des prêtres sur le peuple, et sur ceux qui offrent les victimes ; soit qu'ils immolent un bœuf ou une brebis, ils donneront au prêtre l'épaule et la poitrine ; 4 Les prémices du blé, du vin, de l'huile et une partie de la tonte des brebis ;
+2 Et ils ne recevront rien autre chose de la possession de leurs frères ; car le Seigneur lui-même est leur héritage, comme il leur a dit. 3 Voici le droit des prêtres sur le peuple, et sur ceux qui offrent les victimes ; soit qu'ils immolent un boeuf ou une brebis, ils donneront au prêtre l'épaule et la poitrine ; 4 Les prémices du blé, du vin, de l'huile et une partie de la tonte des brebis ;
 
 ***Note*** :  Dr. 18, 4 : Voir Nombres, 18, 21.
 

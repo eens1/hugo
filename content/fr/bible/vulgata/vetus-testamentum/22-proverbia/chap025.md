@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Hæ quoque parabolæ Salomonis, quas transtulerunt viri Ezechiæ regis Iuda.
+1 Hae quoque parabolae Salomonis, quas transtulerunt viri Ezechiae regis Iuda.
 
 2 Gloria Dei est celare verbum, et gloria regum investigare sermonem.
 
-3 Cælum sursum, et terra deorsum, et cor regum inscrutabile.
+3 Caelum sursum, et terra deorsum, et cor regum inscrutabile.
 
 4 Aufer rubiginem de argento, et egredietur vas purissimum:
 
@@ -19,7 +19,7 @@ draft: false
 
 7 Melius est enim ut dicatur tibi: Ascende huc; quam ut humilieris coram principe.
 
-8 Quæ viderunt oculi tui, ne proferas in iurgio cito: ne postea emendare non possis, cum dehonestaveris amicum tuum.
+8 Quae viderunt oculi tui, ne proferas in iurgio cito: ne postea emendare non possis, cum dehonestaveris amicum tuum.
 
 9 Causam tuam tracta cum amico tuo, et secretum extraneo ne reveles:
 
@@ -31,7 +31,7 @@ draft: false
 
 13 Sicut frigus nivis in die messis, ita legatus fidelis ei, qui misit eum, animam ipsius requiescere facit.
 
-14 Nubes, et ventus, et pluviæ non sequentes, vir gloriosus, et promissa non complens.
+14 Nubes, et ventus, et pluviae non sequentes, vir gloriosus, et promissa non complens.
 
 15 Patientia lenietur princeps, et lingua mollis confringet duritiam.
 
@@ -41,7 +41,7 @@ draft: false
 
 18 Iaculum, et gladius, et sagitta acuta, homo qui loquitur contra proximum suum falsum testimonium.
 
-19 Dens putridus, et pes lassus, qui sperat super infideli in die angustiæ,
+19 Dens putridus, et pes lassus, qui sperat super infideli in die angustiae,
 
 20 et amittit pallium in die frigoris. Acetum in nitro, qui cantat carmina cordi pessimo. Sicut tinea vestimento, et vermis ligno: ita tristitia viri nocet cordi.
 
@@ -53,7 +53,7 @@ draft: false
 
 24 Melius est sedere in angulo domatis, quam cum muliere litigiosa, et in domo communi.
 
-25 Aqua frigida animæ sitienti, et nuncius bonus de terra longinqua.
+25 Aqua frigida animae sitienti, et nuncius bonus de terra longinqua.
 
 26 Fons turbatus pede, et vena corrupta, iustus cadens coram impio.
 

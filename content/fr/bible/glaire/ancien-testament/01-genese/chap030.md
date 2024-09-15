@@ -9,14 +9,14 @@ summary: |
 ---
 
 
-1 Or Rachel voyant qu'elle était stérile, conçut de la jalousie pour sa sœur, et dit à son mari : Donne-moi des enfants, autrement je mourrai. 2 Jacob irrité lui répondit : Est-ce que moi je suis comme Dieu, qui t'a privée du fruit de ton sein ? 3 Mais Rachel : J'ai, reprit-elle, ma servante Bala : prends-la, afin qu'elle enfante sur mes genoux, et que j'aie par elle des enfants.
+1 Or Rachel voyant qu'elle était stérile, conçut de la jalousie pour sa soeur, et dit à son mari : Donne-moi des enfants, autrement je mourrai. 2 Jacob irrité lui répondit : Est-ce que moi je suis comme Dieu, qui t'a privée du fruit de ton sein ? 3 Mais Rachel : J'ai, reprit-elle, ma servante Bala : prends-la, afin qu'elle enfante sur mes genoux, et que j'aie par elle des enfants.
 
 ***Note*** :  Gn. 30, 3 : L’usage de ces premiers temps était de recevoir les enfants naissants sur les genoux et non sur les bras. Comparer à Job, 3, 12.
 
 4 Elle lui donna donc en mariage Bala, qui, 5 Son mari l'ayant prise, conçut et enfanta un fils. 6 Alors Rachel dit : Dieu a jugé en ma faveur, et a exaucé ma voix, me donnant un fils : et c'est pourquoi elle l'appela du nom de Dan.
 
 
-7 Et Bala, concevant de nouveau, enfanta un autre fils, 8 Au sujet duquel Rachel dit : Le Seigneur m'a mise aux prises avec ma sœur, et je l'ai emporté : et elle le nomma Nephtali.
+7 Et Bala, concevant de nouveau, enfanta un autre fils, 8 Au sujet duquel Rachel dit : Le Seigneur m'a mise aux prises avec ma soeur, et je l'ai emporté : et elle le nomma Nephtali.
 
 
 9 Lia, voyant qu'elle avait cessé d'enfanter, donna à son mari Zelpha sa servante, 10 Qui, ayant mis au monde un fils qu'elle avait conçu, 11 Dit : Heureuse fortune! et c'est pourquoi elle l'appela du nom de Gad.

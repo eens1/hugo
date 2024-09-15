@@ -59,7 +59,7 @@ summary: |
 13 Celui qui cache ses crimes ne sera pas dirigé; mais celui qui les confesse et les abandonne obtiendra miséricorde.
 
 
-14 Bienheureux l'homme qui est toujours craintif; mais celui qui est d'un cœur dur tombera dans le mal.
+14 Bienheureux l'homme qui est toujours craintif; mais celui qui est d'un coeur dur tombera dans le mal.
 
 
 15 Un lion rugissant, un ours affamé, tel est un prince impie sur un peuple pauvre.
@@ -107,7 +107,7 @@ summary: |
 ***Note*** :  Prov. 28, 25 : Guéri ; hébreu engraissé ; c’est-à-dire comblé de biens.
 
 
-26 Celui qui se confie en son cœur est un insensé ; mais celui qui marche sagement, celui-là sera sauvé.
+26 Celui qui se confie en son coeur est un insensé ; mais celui qui marche sagement, celui-là sera sauvé.
 
 
 27 Celui qui donne au pauvre ne manquera pas ; celui qui méprise un suppliant souffrira la pénurie.

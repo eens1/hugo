@@ -21,7 +21,7 @@ summary: |
 3 Celui qui se joint aux prostituées sera un méchant : la pourriture et les vers l'hériteront, et il deviendra un grand exemple, et son âme sera retranchée du nombre des vivants.
 
 
-4 Celui qui croit promptement est léger de cœur, et il en sera amoindri ; et celui qui pèche contre son âme sera vu avec mépris. 5 Celui qui se réjouit de l'iniquité sera noté d'infamie ; et celui qui hait la réprimande en vivra moins, et celui qui hait la loquacité éteint le mal. 6 Celui qui pèche contre son âme s'en repentira, et celui qui met sa joie dans la malice sera noté d'infamie.
+4 Celui qui croit promptement est léger de coeur, et il en sera amoindri ; et celui qui pèche contre son âme sera vu avec mépris. 5 Celui qui se réjouit de l'iniquité sera noté d'infamie ; et celui qui hait la réprimande en vivra moins, et celui qui hait la loquacité éteint le mal. 6 Celui qui pèche contre son âme s'en repentira, et celui qui met sa joie dans la malice sera noté d'infamie.
 
 
 7 Ne rapporte point une parole méchante et dure, et tu ne seras pas amoindri. 8 A ton ami et à ton ennemi, ne raconte pas tes pensées; et s'il y a péché en toi, ne le découvre point; 9 Car il t'écoutera, et il t'observera; et feignant d'excuser ton péché, il te haïra, et sera toujours auprès de toi.
@@ -33,7 +33,7 @@ summary: |
 
 ***Note*** :  Sir. 19, 11 : Pour une parole ; ou à cause d’une parole ; littéralement et par hébraïsme, à la face d’une parole. ― L’insensé, etc. Le sens de cette phrase, extrêmement concise dans la Vulgate, est que l’insensé à qui on a confié une parole n’a pas de repos jusqu’à ce qu’il l’ait dévoilée, comme la femme en travail n’en a que lorsqu’elle a mis un enfant au jour.
 
-12 Comme une flèche enfoncée dans une cuisse charnue, ainsi est une parole dans le cœur de l'insensé.
+12 Comme une flèche enfoncée dans une cuisse charnue, ainsi est une parole dans le coeur de l'insensé.
 
 
 13 Reprends ton ami, de peur qu'il n'ait pas compris, et qu'il ne dise : Je ne l'ai pas fait; ou s'il l'a fait, afin que de nouveau il ne recommence pas à le faire.
@@ -48,7 +48,7 @@ summary: |
 
 ***Note*** :  Sir. 19, 15 : Un conflit (commissio) ; selon d’autres, conformément au texte grec, fausse accusation, délation, calomnie. Voir Ecclésiastique, 18, 32.
 
-16 Et ne crois pas à toute parole : il est tel qui pèche par la langue, mais non point par le cœur. 17 Car quel est celui qui ne pèche point par la langue ? Reprends ton prochain avant de le menacer,
+16 Et ne crois pas à toute parole : il est tel qui pèche par la langue, mais non point par le coeur. 17 Car quel est celui qui ne pèche point par la langue ? Reprends ton prochain avant de le menacer,
 
 ***Note*** :  Sir. 19, 17 : Quel est, etc. Comparer à Jacques, 3, 8. ― Reprends, etc. Comparer à Galates, 6, 1.
 

@@ -21,7 +21,7 @@ draft: false
 
 8 Maazia, Belgai, Semeia: hi sacerdotes.
 
-9 Porro Levitæ, Iosue filius Azaniæ, Bennui de filiis Henadad, Cedmihel,
+9 Porro Levitae, Iosue filius Azaniae, Bennui de filiis Henadad, Cedmihel,
 
 10 et fratres eorum, Sebenia, Odaia, Celita, Phalaia, Hanan,
 
@@ -31,7 +31,7 @@ draft: false
 
 13 Odaia, Bani, Baninu.
 
-14 Capita populi, Pharos, Phahathmoab, Ælam, Zethu, Bani,
+14 Capita populi, Pharos, Phahathmoab, AElam, Zethu, Bani,
 
 15 Bonni, Azgad, Bebai,
 
@@ -59,27 +59,27 @@ draft: false
 
 27 Melluch, Haran, Baana:
 
-28 et reliqui de populo, Sacerdotes, Levitæ, ianitores, et cantores, Nathinæi, et omnes qui se separaverunt de populis terrarum ad legem Dei, uxores eorum, filii eorum, et filiæ eorum,
+28 et reliqui de populo, Sacerdotes, Levitae, ianitores, et cantores, Nathinaei, et omnes qui se separaverunt de populis terrarum ad legem Dei, uxores eorum, filii eorum, et filiae eorum,
 
 29 omnes qui poterant sapere spondentes pro fratribus suis, optimates eorum, et qui veniebant ad pollicendum, et iurandum ut ambularent in lege Dei, quam dederat in manu Moysi servi Dei, ut facerent et custodirent universa mandata Domini Dei nostri, et iudicia eius et ceremonias eius,
 
-30 et ut non daremus filias nostras populo terræ, et filias eorum non acciperemus filiis nostris.
+30 et ut non daremus filias nostras populo terrae, et filias eorum non acciperemus filiis nostris.
 
-31 Populi quoque terræ, qui important venalia, et omnia ad usum, per diem sabbati ut vendant, non accipiemus ab eis in sabbato et in die sanctificato. Et dimittemus annum septimum, et exactionem universæ manus.
+31 Populi quoque terrae, qui important venalia, et omnia ad usum, per diem sabbati ut vendant, non accipiemus ab eis in sabbato et in die sanctificato. Et dimittemus annum septimum, et exactionem universae manus.
 
-32 Et statuemus super nos præcepta, ut demus tertiam partem sicli per annum ad opus domus Dei nostri,
+32 Et statuemus super nos praecepta, ut demus tertiam partem sicli per annum ad opus domus Dei nostri,
 
 33 ad panes propositionis, et ad sacrificium sempiternum, et in holocaustum sempiternum in sabbatis, in calendis, in sollemnitatibus, et in sanctificatis, et pro peccato: ut exoretur pro Israel, et in omnem usum domus Dei nostri.
 
 34 Sortes ergo misimus super oblationem lignorum inter Sacerdotes, et Levitas, et populum, ut inferrentur in domum Dei nostri per domos patrum nostrorum, per tempora, a temporibus anni usque ad annum: ut arderent super altare Domini Dei nostri, sicut scriptum est in lege Moysi:
 
-35 et ut afferremus primogenita terræ nostræ, et primitiva universi fructus omnis ligni, ab anno in annum, in domo Domini.
+35 et ut afferremus primogenita terrae nostrae, et primitiva universi fructus omnis ligni, ab anno in annum, in domo Domini.
 
 36 et primitiva filiorum nostrorum, et pecorum nostrorum, sicut sciptum est in lege, et primitiva boum nostrorum, et ovium nostrarum, ut offerrentur in domo Dei nostri, Sacerdotibus qui ministrant in domo Dei nostri:
 
-37 et primitias ciborum nostrorum, et libaminum nostrorum, et poma omnis ligni, vindemiæ quoque et olei afferemus Sacerdotibus ad gazophylacium Dei nostri, et decimam partem terræ nostræ Levitis. Ipsi Levitæ decimas accipient ex omnibus civitatibus operum nostrorum.
+37 et primitias ciborum nostrorum, et libaminum nostrorum, et poma omnis ligni, vindemiae quoque et olei afferemus Sacerdotibus ad gazophylacium Dei nostri, et decimam partem terrae nostrae Levitis. Ipsi Levitae decimas accipient ex omnibus civitatibus operum nostrorum.
 
-38 Erit autem Sacerdos filius Aaron cum Levitis in decimis Levitarum, et Levitæ offerent decimam partem decimæ suæ in domo Dei nostri, ad gazophylacium in domum thesauri.
+38 Erit autem Sacerdos filius Aaron cum Levitis in decimis Levitarum, et Levitae offerent decimam partem decimae suae in domo Dei nostri, ad gazophylacium in domum thesauri.
 
 39 Ad gazophylacium enim deportabunt filii Israel, et filii Levi primitias frumenti, vini, et olei: et ibi erunt vasa sanctificata, et Sacerdotes, et cantores, et ianitores, et ministri, et non dimittemus domum Dei nostri.
 

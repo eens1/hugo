@@ -44,7 +44,7 @@ summary: |
 
 ***Note*** :  Éz. 12, 11 : Je suis, etc. ; je suis pour vous un signe de ce qui doit vous arriver à vous ou à vos frères. Comparer au verset 6.
 
-12 Ce chef qui est au milieu d'eux sera porté sur les épaules ; il sortira dans l'obscurité ; ils perceront la muraille pour le faire sortir de la ville, sa face sera couverte, afin qu'il ne voie pas de l'œil la terre.
+12 Ce chef qui est au milieu d'eux sera porté sur les épaules ; il sortira dans l'obscurité ; ils perceront la muraille pour le faire sortir de la ville, sa face sera couverte, afin qu'il ne voie pas de l'oeil la terre.
 
 ***Note*** :  Éz. 12, 12 : Ce chef ; Sédécias, roi de Juda.
 

@@ -34,11 +34,11 @@ summary: |
 
 ***Note*** :  II Par. 22, 7 : Il sortit. C’est ainsi que porte l’hébreu, la Vulgate dit : Et qu’il sortait ; ce qui laisse la phrase inachevée.
 
-8 Comme donc Jéhu s'en allait pour détruire la maison d'Achab, il trouva les princes de Juda et les fils des frères d'Ochosias qui le servaient, et il les tua. 9 Et cherchant aussi Ochosias lui-même, il le surprit caché dans Samarie ; et, après qu'on le lui eut amené, il le tua : or on l'ensevelit, parce qu'il était fils de Josaphat, qui avait cherché le Seigneur en tout son cœur ; mais il n'y avait plus d'espérance qu'il régnât quelqu'un de la race d'Ochosias, 10 Attendu qu'Athalie, sa mère, voyant que son fils était mort, se leva, et tua toute la race royale de la maison de Joram.
+8 Comme donc Jéhu s'en allait pour détruire la maison d'Achab, il trouva les princes de Juda et les fils des frères d'Ochosias qui le servaient, et il les tua. 9 Et cherchant aussi Ochosias lui-même, il le surprit caché dans Samarie ; et, après qu'on le lui eut amené, il le tua : or on l'ensevelit, parce qu'il était fils de Josaphat, qui avait cherché le Seigneur en tout son coeur ; mais il n'y avait plus d'espérance qu'il régnât quelqu'un de la race d'Ochosias, 10 Attendu qu'Athalie, sa mère, voyant que son fils était mort, se leva, et tua toute la race royale de la maison de Joram.
 
 ***Note*** :  II Par. 22, 10 : Voir 4 Rois, 11, 1.
 
-11 Mais Josabeth, fille du roi, prit Joas, fils d'Ochosias, et le déroba du milieu des enfants du roi, lorsqu'on les massacrait, et elle le cacha, avec sa nourrice, dans la chambre des lits : or Josabeth, qui l'avait caché, était fille de Joram, femme de Joïada, le pontife, et sœur d'Ochosias ; et c'est pour cela qu'Athalie ne fit pas mourir Joas. 12 Ce prince fut caché avec eux dans la maison de Dieu, durant les six années que régna Athalie sur la terre de Juda.
+11 Mais Josabeth, fille du roi, prit Joas, fils d'Ochosias, et le déroba du milieu des enfants du roi, lorsqu'on les massacrait, et elle le cacha, avec sa nourrice, dans la chambre des lits : or Josabeth, qui l'avait caché, était fille de Joram, femme de Joïada, le pontife, et soeur d'Ochosias ; et c'est pour cela qu'Athalie ne fit pas mourir Joas. 12 Ce prince fut caché avec eux dans la maison de Dieu, durant les six années que régna Athalie sur la terre de Juda.
 
 ***Note*** :  II Par. 22, 12 : Avec eux ; avec Joïada, le pontife, et les prêtres.
 

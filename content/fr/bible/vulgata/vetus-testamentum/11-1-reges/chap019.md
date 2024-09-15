@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Nunciavit autem Achab Iezabel omnia quæ fecerat Elias, et quo modo occidisset universos prophetas gladio.
+1 Nunciavit autem Achab Iezabel omnia quae fecerat Elias, et quo modo occidisset universos prophetas gladio.
 
-2 Misitque Iezabel nuncium ad Eliam, dicens: Hæc mihi faciant dii, et hæc addant, nisi hac hora cras posuero animam tuam sicut animam unius ex illis.
+2 Misitque Iezabel nuncium ad Eliam, dicens: Haec mihi faciant dii, et haec addant, nisi hac hora cras posuero animam tuam sicut animam unius ex illis.
 
 3 Timuit ergo Elias, et surgens abiit quocumque eum ferebat voluntas: venitque in Bersabee Iuda, et dimisit ibi puerum suum,
 
-4 et perrexit in desertum, viam unius diei. Cumque venisset, et sederet subter unam iuniperum, petivit animæ suæ ut moreretur, et ait: Sufficit mihi Domine, tolle animam meam: neque enim melior sum, quam patres mei.
+4 et perrexit in desertum, viam unius diei. Cumque venisset, et sederet subter unam iuniperum, petivit animae suae ut moreretur, et ait: Sufficit mihi Domine, tolle animam meam: neque enim melior sum, quam patres mei.
 
 5 Proiecitque se, et obdormivit in umbra iuniperi: et ecce Angelus Domini tetigit eum, et dixit illi: Surge, et comede.
 
-6 Respexit, et ecce ad caput suum subcinericius panis, et vas aquæ: comedit ergo, et bibit, et rursum obdormivit.
+6 Respexit, et ecce ad caput suum subcinericius panis, et vas aquae: comedit ergo, et bibit, et rursum obdormivit.
 
 7 Reversusque est Angelus Domini secundo, et tetigit eum, dixitque illi: Surge, comede: grandis enim tibi restat via.
 
@@ -23,15 +23,15 @@ draft: false
 
 9 Cumque venisset illuc, mansit in spelunca: et ecce sermo Domini ad eum, dixitque illi: Quid hic agis Elia?
 
-10 At ille respondit: Zelo zelatus sum pro Domino Deo exercituum, quia dereliquerunt pactum tuum filii Israel: altaria tua destruxerunt, prophetas tuos occiderunt gladio, derelictus sum ego solus, et quærunt animam meam ut auferant eam.
+10 At ille respondit: Zelo zelatus sum pro Domino Deo exercituum, quia dereliquerunt pactum tuum filii Israel: altaria tua destruxerunt, prophetas tuos occiderunt gladio, derelictus sum ego solus, et quaerunt animam meam ut auferant eam.
 
 11 Et ait ei: Egredere, et sta in monte coram Domino: et ecce Dominus transit, et spiritus grandis et fortis subvertens montes, et conterens petras ante Dominum: non in spiritu Dominus, et post spiritum commotio: non in commotione Dominus,
 
-12 et post commotionem ignis: non in igne Dominus, et post ignem sibilus auræ tenuis.
+12 et post commotionem ignis: non in igne Dominus, et post ignem sibilus aurae tenuis.
 
-13 Quod cum audisset Elias, operuit vultum suum pallio, et egressus stetit in ostio speluncæ, et ecce vox ad eum dicens: Quid hic agis Elia? Et ille respondit:
+13 Quod cum audisset Elias, operuit vultum suum pallio, et egressus stetit in ostio speluncae, et ecce vox ad eum dicens: Quid hic agis Elia? Et ille respondit:
 
-14 Zelo zelatus sum pro Domino Deo exercituum: quia dereliquerunt pactum tuum filii Israel: altaria tua destruxerunt, prophetas tuos occiderunt gladio, derelictus sum ego solus, et quærunt animam meam ut auferant eam.
+14 Zelo zelatus sum pro Domino Deo exercituum: quia dereliquerunt pactum tuum filii Israel: altaria tua destruxerunt, prophetas tuos occiderunt gladio, derelictus sum ego solus, et quaerunt animam meam ut auferant eam.
 
 15 Et ait Dominus ad eum: Vade, et revertere in viam tuam per desertum in Damascum: cumque perveneris illuc, unges Hazael regem super Syriam,
 

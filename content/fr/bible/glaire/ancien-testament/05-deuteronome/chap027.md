@@ -33,7 +33,7 @@ summary: |
 ***Note*** :  Dr. 27, 14 : Voir Daniel, 9, 11.
 
 
-15 Maudit l'homme qui fait une image taillée au ciseau, et une idole de fonte, l'abomination du Seigneur, l'œuvre des mains des artisans, et qui la mettra dans un lieu secret! et tout le peuple répondra, et dira : Amen.
+15 Maudit l'homme qui fait une image taillée au ciseau, et une idole de fonte, l'abomination du Seigneur, l'oeuvre des mains des artisans, et qui la mettra dans un lieu secret! et tout le peuple répondra, et dira : Amen.
 
 
 16 Maudit celui qui n'honore point son père et sa mère ! et tout le peuple dira : Amen.
@@ -56,7 +56,7 @@ summary: |
 21 Maudit celui qui dort avec une bête quelconque ! et tout le peuple dira : Amen.
 
 
-22 Maudit celui qui dort avec sa sœur, fille de son père ou de sa mère ! et tout le peuple dira : Amen.
+22 Maudit celui qui dort avec sa soeur, fille de son père ou de sa mère ! et tout le peuple dira : Amen.
 
 
 23 Maudit celui qui dort avec sa belle-mère ! et tout le peuple dira : Amen.
@@ -70,5 +70,5 @@ summary: |
 ***Note*** :  Dr. 27, 25 : Pour verser un sang innocent. Littéralement et par hébraïsme : Pour frapper l’âme d’un sang innocent. Nous avons déjà fait remarquer les différents sens du mot âme dans l’Ecriture.
 
 
-26 Maudit celui qui ne persévère pas dans les paroles de cette loi, et ne les accomplit point par ses œuvres ! et tout le peuple dira : Amen.
+26 Maudit celui qui ne persévère pas dans les paroles de cette loi, et ne les accomplit point par ses oeuvres ! et tout le peuple dira : Amen.
 

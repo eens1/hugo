@@ -21,7 +21,7 @@ draft: false
 
 8 Deus virtutum converte nos: et ostende faciem tuam: et salvi erimus.
 
-9 Vineam de Ægypto transtulisti: eiecisti Gentes, et plantasti eam.
+9 Vineam de AEgypto transtulisti: eiecisti Gentes, et plantasti eam.
 
 10 Dux itineris fuisti in conspectu eius: plantasti radices eius, et implevit terram.
 
@@ -29,17 +29,17 @@ draft: false
 
 12 Extendit palmites suos usque ad mare: et usque ad flumen propagines eius.
 
-13 Ut quid destruxisti maceriam eius: et vindemiant eam omnes, qui prætergrediuntur viam?
+13 Ut quid destruxisti maceriam eius: et vindemiant eam omnes, qui praetergrediuntur viam?
 
 14 Exterminavit eam aper de silva: et singularis ferus depastus est eam.
 
-15 Deus virtutum convertere: respice de cælo, et vide, et visita vineam istam.
+15 Deus virtutum convertere: respice de caelo, et vide, et visita vineam istam.
 
 16 Et perfice eam, quam plantavit dextera tua: et super filium hominis, quem confirmasti tibi.
 
 17 Incensa igni, et suffossa ab increpatione vultus tui peribunt.
 
-18 Fiat manus tua super virum dexteræ tuæ: et super filium hominis, quem confirmasti tibi.
+18 Fiat manus tua super virum dexterae tuae: et super filium hominis, quem confirmasti tibi.
 
 19 Et non discedimus a te, vivificabis nos: et nomen tuum invocabimus.
 

@@ -27,12 +27,12 @@ summary: |
 4 Notre rédempteur, son nom est le Seigneur des armées, le saint d'Israël.
 
 
-5 Assieds-toi en silence, et entre dans les ténèbres, fille des Chaldéens, parce que tu ne seras plus appelée dominatrice des royaumes. 6 J'ai été irrité contre mon peuple, j'ai traité comme une chose souillée mon héritage, je les ai mis en ta main, tu ne leur as pas accordé de miséricorde; sur le vieillard tu as appesanti ton joug outre mesure. 7 Et tu as dit : A jamais je serai souveraine ; tu n'as pas mis ces choses sur ton cœur, et tu ne t'es pas souvenue de ton dernier moment.
+5 Assieds-toi en silence, et entre dans les ténèbres, fille des Chaldéens, parce que tu ne seras plus appelée dominatrice des royaumes. 6 J'ai été irrité contre mon peuple, j'ai traité comme une chose souillée mon héritage, je les ai mis en ta main, tu ne leur as pas accordé de miséricorde; sur le vieillard tu as appesanti ton joug outre mesure. 7 Et tu as dit : A jamais je serai souveraine ; tu n'as pas mis ces choses sur ton coeur, et tu ne t'es pas souvenue de ton dernier moment.
 
 ***Note*** :  Is. 47, 7 : Tu n’as pas mis, etc. ; tu n’as pas considéré. ― Tu ne t’es pas souvenue, etc. ; tu ne t’es pas représenté ce qui devait arriver.
 
 
-8 Et maintenant, écoute ceci, voluptueuse, qui demeures en pleine assurance, qui dis en ton cœur : Moi je suis, et il n'y a hors moi personne plus; je ne resterai pas veuve, et j'ignorerai la stérilité.
+8 Et maintenant, écoute ceci, voluptueuse, qui demeures en pleine assurance, qui dis en ton coeur : Moi je suis, et il n'y a hors moi personne plus; je ne resterai pas veuve, et j'ignorerai la stérilité.
 
 ***Note*** :  Is. 47, 8 : Voir Apocalypse, 18, 7.
 
@@ -41,7 +41,7 @@ summary: |
 ***Note*** :  Is. 47, 9 : Voir Isaïe, 51, 19.
 
 
-10 Et tu as eu confiance dans ta malice, et tu as dit : Il n'y a personne qui me voit. Ta sagesse, et ta science, c'est ce qui t'a séduite. Et tu as dit dans ton cœur : Moi je suis, et hors moi, il n'y en a pas d'autre. 11 Il viendra sur toi un malheur et tu ne sauras pas son origine ; il fondra sur toi une calamité que tu ne pourras conjurer; il viendra sur toi soudainement une misère, que tu ne connaîtras pas. 12 Parais avec tes enchanteurs, et avec la multitude de tes maléfices auxquels tu t'es appliquée dès ta jeunesse, pour voir si par hasard quelqu'un d'eux te sera utile, ou si tu pourras devenir plus forte.
+10 Et tu as eu confiance dans ta malice, et tu as dit : Il n'y a personne qui me voit. Ta sagesse, et ta science, c'est ce qui t'a séduite. Et tu as dit dans ton coeur : Moi je suis, et hors moi, il n'y en a pas d'autre. 11 Il viendra sur toi un malheur et tu ne sauras pas son origine ; il fondra sur toi une calamité que tu ne pourras conjurer; il viendra sur toi soudainement une misère, que tu ne connaîtras pas. 12 Parais avec tes enchanteurs, et avec la multitude de tes maléfices auxquels tu t'es appliquée dès ta jeunesse, pour voir si par hasard quelqu'un d'eux te sera utile, ou si tu pourras devenir plus forte.
 
 ***Note*** :  Is. 47, 12 : Il y avait une multitude d’enchanteurs et de devins à Babylone.
 

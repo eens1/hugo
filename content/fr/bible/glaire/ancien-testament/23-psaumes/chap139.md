@@ -14,7 +14,7 @@ summary: |
 ***Note*** :  Ps. 139, 1 : Psaume composé pendant la persécution d’Absalom, et analogue aux Psaumes 57 et 63 ; la conclusion de tous les trois est semblable. ― Versets 2 à 6 : Que Dieu garde le Psalmiste du méchant ; ― Versets 7 à 9 : parce qu’il met sa confiance en Dieu (prière qu’il lui adresse). ― Versets 10 et 11 : Que l’iniquité des impies retombe sur eux. ― Versets 12 à 14 : Oui, le pécheur périra, le juste triomphera et bénira le Seigneur.
 
 
-2 Arrachez-moi, Seigneur, à l'homme méchant : à l'homme inique arrachez-moi. 3 Ceux qui ont pensé des iniquités dans leur cœur, durant tout le jour préparaient des combats. 4 Ils ont aiguisé leur langue comme celle d'un serpent : le venin d'un aspic est sous leurs lèvres.
+2 Arrachez-moi, Seigneur, à l'homme méchant : à l'homme inique arrachez-moi. 3 Ceux qui ont pensé des iniquités dans leur coeur, durant tout le jour préparaient des combats. 4 Ils ont aiguisé leur langue comme celle d'un serpent : le venin d'un aspic est sous leurs lèvres.
 
 ***Note*** :  Ps. 139, 4 : Voir Psaumes, 5, 11 ; Romains, 3, 13.
 

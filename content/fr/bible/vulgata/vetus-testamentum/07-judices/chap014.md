@@ -7,17 +7,17 @@ draft: false
 
 1 Descendit ergo Samson in Thamnatha. vidensque ibi mulierem de filiabus Philisthiim,
 
-2 ascendit, et nunciavit patri suo, et matri suæ, dicens: Vidi mulierem in Thamnatha de filiabus Philisthinorum: quam quæso ut mihi accipiatis uxorem.
+2 ascendit, et nunciavit patri suo, et matri suae, dicens: Vidi mulierem in Thamnatha de filiabus Philisthinorum: quam quaeso ut mihi accipiatis uxorem.
 
 3 Cui dixerunt pater et mater sua: Numquid non est mulier in filiabus fratrum tuorum, et in omni populo meo, quia vis accipere uxorem de Philisthiim, qui incircumcisi sunt? Dixitque Samson ad patrem suum: Hanc mihi accipe: quia placuit oculis meis.
 
-4 Parentes autem eius nesciebant quod res a Domino fieret, et quæreret occasionem contra Philisthiim. eo enim tempore Philisthiim dominabantur Israeli.
+4 Parentes autem eius nesciebant quod res a Domino fieret, et quaereret occasionem contra Philisthiim. eo enim tempore Philisthiim dominabantur Israeli.
 
-5 Descendit itaque Samson cum patre suo et matre in Thamnatha. Cumque venissent ad vineas oppidi, apparuit catulus leonis sævus, et rugiens, et occurrit ei.
+5 Descendit itaque Samson cum patre suo et matre in Thamnatha. Cumque venissent ad vineas oppidi, apparuit catulus leonis saevus, et rugiens, et occurrit ei.
 
-6 Irruit autem Spiritus Domini in Samson, et dilaceravit leonem, quasi hœdum in frustra discerpens, nihil omnino habens in manu: et hoc patri et matri noluit indicare.
+6 Irruit autem Spiritus Domini in Samson, et dilaceravit leonem, quasi hoedum in frustra discerpens, nihil omnino habens in manu: et hoc patri et matri noluit indicare.
 
-7 Descenditque et locutus est mulieri, quæ placuerat oculis eius.
+7 Descenditque et locutus est mulieri, quae placuerat oculis eius.
 
 8 Et post aliquot dies revertens ut acciperet eam, declinavit ut videret cadaver leonis, et ecce examen apum in ore leonis erat ac favus mellis.
 
@@ -35,9 +35,9 @@ draft: false
 
 15 Cumque adesset dies septimus, dixerunt ad uxorem Samson: Blandire viro tuo, et suade ei ut indicet tibi quid significet problema. quod si facere nolueris, incendemus te, et domum patris tui. an idcirco vocastis nos ad nuptias ut spoliaretis?
 
-16 Quæ fundebat apud Samson lacrymas, et quærebatur dicens: Odisti me, et non diligis: idcirco problema, quod proposuisti filiis populi mei, non vis mihi exponere. At ille respondit: Patri meo et matri nolui dicere: et tibi indicare potero?
+16 Quae fundebat apud Samson lacrymas, et quaerebatur dicens: Odisti me, et non diligis: idcirco problema, quod proposuisti filiis populi mei, non vis mihi exponere. At ille respondit: Patri meo et matri nolui dicere: et tibi indicare potero?
 
-17 Septem igitur diebus convivii flebat ante eum: tandemque die septimo cum ei esset molesta, exposuit. Quæ statim indicavit civibus suis.
+17 Septem igitur diebus convivii flebat ante eum: tandemque die septimo cum ei esset molesta, exposuit. Quae statim indicavit civibus suis.
 
 18 Et illi dixerunt ei die septimo ante solis occubitum: Quid dulcius melle, et quid fortius leone? Qui ait ad eos: Si non arassetis in vitula mea, non invenissetis propositionem meam.
 

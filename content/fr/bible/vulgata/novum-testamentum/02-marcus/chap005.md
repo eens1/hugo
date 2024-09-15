@@ -11,7 +11,7 @@ draft: false
 
 3 qui domicilium habebat in monumentis, et neque catenis iam quisquam poterat eum ligare:
 
-4 quoniam sæpe compedibus et catenis vinctus, dirupisset catenas, et compedes comminuisset, et nemo poterat eum domare.
+4 quoniam saepe compedibus et catenis vinctus, dirupisset catenas, et compedes comminuisset, et nemo poterat eum domare.
 
 5 et semper die ac nocte in monumentis, et in montibus erat, clamans, et concidens se lapidibus.
 
@@ -29,21 +29,21 @@ draft: false
 
 12 Et deprecabantur eum spiritus, dicentes: Mitte nos in porcos ut in eos introeamus.
 
-13 Et concessit eis statim Iesus. Et exeuntes spiritus immundi introierunt in porcos: et magno impetu grex præcipitatus est in mare ad duo millia, et suffocati sunt in mari.
+13 Et concessit eis statim Iesus. Et exeuntes spiritus immundi introierunt in porcos: et magno impetu grex praecipitatus est in mare ad duo millia, et suffocati sunt in mari.
 
 14 Qui autem pascebant eos, fugerunt, et nunciaverunt in civitatem, et in agros. Et egressi sunt videre quid esset factum:
 
-15 et veniunt ad Iesum: et vident illum, qui a dæmonio vexabatur, sedentem, vestitum, et sanæ mentis, et timuerunt.
+15 et veniunt ad Iesum: et vident illum, qui a daemonio vexabatur, sedentem, vestitum, et sanae mentis, et timuerunt.
 
-16 Et narraverunt illis, qui viderant, qualiter factum esset ei, qui dæmonium habuerat, et de porcis.
+16 Et narraverunt illis, qui viderant, qualiter factum esset ei, qui daemonium habuerat, et de porcis.
 
-17 Et rogare cœperunt eum ut discederet de finibus eorum.
+17 Et rogare coeperunt eum ut discederet de finibus eorum.
 
-18 Cumque ascenderet navim, cœpit illum deprecari, qui a dæmonio vexatus fuerat, ut esset cum illo,
+18 Cumque ascenderet navim, coepit illum deprecari, qui a daemonio vexatus fuerat, ut esset cum illo,
 
 19 et non admisit eum, sed ait illi: Vade in domum tuam ad tuos, et annuncia illis quanta tibi Dominus fecerit, et misertus sit tui.
 
-20 Et abiit, et cœpit prædicare in Decapoli, quanta sibi fecisset Iesus: et omnes mirabantur.
+20 Et abiit, et coepit praedicare in Decapoli, quanta sibi fecisset Iesus: et omnes mirabantur.
 
 21 Et cum transcendisset Iesus in navi rursum trans fretum, convenit turba multa ad eum, et erat circa mare.
 
@@ -53,7 +53,7 @@ draft: false
 
 24 Et abiit cum illo, et sequebatur eum turba multa, et comprimebant eum.
 
-25 Et mulier, quæ erat in profluvio sanguinis annis duodecim,
+25 Et mulier, quae erat in profluvio sanguinis annis duodecim,
 
 26 et fuerat multa perpessa a compluribus medicis: et erogaverat omnia sua, nec quidquam profecerat, sed magis deterius habebat:
 
@@ -63,11 +63,11 @@ draft: false
 
 29 Et confestim siccatus est fons sanguinis eius: et sensit corpore quia sanata esset a plaga.
 
-30 Et statim Iesus in semetipso cognoscens virtutem, quæ exierat de illo, conversus ad turbam, aiebat: Quis tetigit vestimenta mea?
+30 Et statim Iesus in semetipso cognoscens virtutem, quae exierat de illo, conversus ad turbam, aiebat: Quis tetigit vestimenta mea?
 
 31 Et dicebant ei discipuli sui: Vides turbam comprimentem te, et dicis: Quis me tetigit?
 
-32 Et circumspiciebat videre eam, quæ hoc fecerat.
+32 Et circumspiciebat videre eam, quae hoc fecerat.
 
 33 Mulier vero timens et tremens, sciens quod factum esset in se, venit et procidit ante eum, et dixit ei omnem veritatem.
 
@@ -83,11 +83,11 @@ draft: false
 
 39 Et ingressus, ait illis: Quid turbamini, et ploratis? puella non est mortua, sed dormit.
 
-40 Et irridebant eum. Ipse vero eiectis omnibus assumit patrem, et matrem puellæ, et qui secum erant, et ingreditur ubi puella erat iacens.
+40 Et irridebant eum. Ipse vero eiectis omnibus assumit patrem, et matrem puellae, et qui secum erant, et ingreditur ubi puella erat iacens.
 
-41 Et tenens manum puellæ, ait illi: Talitha cumi, quod est interpretatum: Puella (tibi dico) surge.
+41 Et tenens manum puellae, ait illi: Talitha cumi, quod est interpretatum: Puella (tibi dico) surge.
 
 42 et confestim surrexit puella, et ambulabat: erat autem annorum duodecim: et obstupuerunt stupore magno.
 
-43 Et præcepit illis vehementer ut nemo id sciret: et dixit dari illi manducare.
+43 Et praecepit illis vehementer ut nemo id sciret: et dixit dari illi manducare.
 

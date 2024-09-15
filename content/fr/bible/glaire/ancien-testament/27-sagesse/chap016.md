@@ -70,7 +70,7 @@ summary: |
 
 20 Au lieu de cela, vous avez nourri votre peuple de la nourriture des anges ; vous leur avez donné un pain venant du ciel, préparé sans travail, renfermant en soi tout ce qui plaît, et ce qui est agréable à tous les goûts.
 
-***Note*** :  Sg. 16, 20 : Un pain venant du ciel (panem de cœlo). Le mot pain, nous l’avons déjà remarqué, se prend très souvent dans l’Ecriture pour nourriture en général. Il s’applique ici, dans le sens propre, à la manne et aux cailles que Dieu envoya aux Israélites dans le désert ; et, dans le sens spirituel, il est la figure de la sainte Eucharistie. Comparer à Exode, 16, verset 14 et suivants ; Nombres, 11, verset 7 et suivants ; Psaumes, 77, versets 23 et suivants ; Jean, 6, verset 31 et suivants.
+***Note*** :  Sg. 16, 20 : Un pain venant du ciel (panem de coelo). Le mot pain, nous l’avons déjà remarqué, se prend très souvent dans l’Ecriture pour nourriture en général. Il s’applique ici, dans le sens propre, à la manne et aux cailles que Dieu envoya aux Israélites dans le désert ; et, dans le sens spirituel, il est la figure de la sainte Eucharistie. Comparer à Exode, 16, verset 14 et suivants ; Nombres, 11, verset 7 et suivants ; Psaumes, 77, versets 23 et suivants ; Jean, 6, verset 31 et suivants.
 
 21 Car cette nourriture qui venait de vous montrait votre douceur que vous avez pour vos enfants ; et, s'accommodant à la volonté de chacun, elle se changeait en ce que chacun voulait.
 

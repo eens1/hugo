@@ -11,7 +11,7 @@ summary: |
 
 1 Pour la fin, dans les cantiques, psaume de David.
 
-***Note*** :  Ps. 4, 1 : Pour la fin, etc. L’explication des titres de ce genre qui se lisent dans les psaumes exigeant des développements d’une certaine étendue, nous renvoyons le lecteur aux interprètes qui en traitent dans leurs commentaires. ― Le texte hébreu porte : « Au chef de chœur, sur les neginôth, c’est-à-dire avec accompagnement d’instruments à corde. » Pour l’explication des titres des Psaumes, voir la note 20 à la fin du volume (appendices).
+***Note*** :  Ps. 4, 1 : Pour la fin, etc. L’explication des titres de ce genre qui se lisent dans les psaumes exigeant des développements d’une certaine étendue, nous renvoyons le lecteur aux interprètes qui en traitent dans leurs commentaires. ― Le texte hébreu porte : « Au chef de choeur, sur les neginôth, c’est-à-dire avec accompagnement d’instruments à corde. » Pour l’explication des titres des Psaumes, voir la note 20 à la fin du volume (appendices).
 
 
 2 Lorsque je l'invoquais, il m'a exaucé, le Dieu de ma justice; dans la tribulation, vous m'avez mis au large. Ayez pitié de moi, et exaucez ma prière.
@@ -19,7 +19,7 @@ summary: |
 ***Note*** :  Ps. 4, 2 : Le Dieu de ma justice ; c’est-à-dire le Dieu auteur et défenseur de ma justice. ― Pour bien suivre la pensée du Psalmiste, il faut mettre les verbes au présent et non au passé. Dans ce verset 2, David demande à Dieu de l’exaucer dans son angoisse, au moment où tous l’abandonnent pour suivre Absalom.
 
 
-3 Fils des hommes, jusqu'à quand aurez-vous le cœur appesanti? pourquoi aimez-vous la vanité, et cherchez-vous le mensonge?
+3 Fils des hommes, jusqu'à quand aurez-vous le coeur appesanti? pourquoi aimez-vous la vanité, et cherchez-vous le mensonge?
 
 ***Note*** :  Ps. 4, 3-4 : Le Psalmiste s’adresse à ses calomniateurs : qu’ils cessent leurs outrages, car Dieu va exaucer sa prière.
 
@@ -28,7 +28,7 @@ summary: |
 ***Note*** :  Ps. 4, 4 : Son saint. David avait été sanctifié de Dieu par l’onction sainte qu’il avait reçue à son sacre.
 
 
-5 Irritez-vous et ne péchez pas; et ce que vous dites en vos cœurs, repassez-le sur vos lits avec componction.
+5 Irritez-vous et ne péchez pas; et ce que vous dites en vos coeurs, repassez-le sur vos lits avec componction.
 
 ***Note*** :  Ps. 4, 5 : Voir Ephésiens, 4, 26. ― Irritez-vous, etc. , ou bien, selon le texte hébreu : Frémissez, tremblez ; ce qui donne un sens mieux suivi.
 
@@ -39,9 +39,9 @@ summary: |
 ***Note*** :  Ps. 4, 6-8 : Parmi ceux qui ont suivi David, beaucoup disent : Qui nous fera retrouver la paix et le bonheur ? ― Dieu, répond-il, en faisant briller sur nous son visage, c’est-à-dire en nous accordant sa faveur.
 
 
-7 La lumière de votre visage a été marquée sur nous, Seigneur; vous avez donné la joie à mon cœur.
+7 La lumière de votre visage a été marquée sur nous, Seigneur; vous avez donné la joie à mon coeur.
 
-***Note*** :  Ps. 4, 7-8 : On lit en hébreu : Tu as mis plus de joie dans mon cœur, qu’au temps de la moisson et de la vendange.
+***Note*** :  Ps. 4, 7-8 : On lit en hébreu : Tu as mis plus de joie dans mon coeur, qu’au temps de la moisson et de la vendange.
 
 8 Ils ont eu en abondance le fruit de leur froment, de leur vin et de leur huile.
 

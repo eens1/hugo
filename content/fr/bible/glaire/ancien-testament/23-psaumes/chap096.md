@@ -43,7 +43,7 @@ summary: |
 ***Note*** :  Ps. 96, 10-12 : Exhortation à servir Dieu.
 
 
-11 Une lumière s'est levée pour le juste, et une joie pour les hommes droits de cœur. 12 Réjouissez-vous, justes, dans le Seigneur, et célébrez la mémoire de sa sanctification.
+11 Une lumière s'est levée pour le juste, et une joie pour les hommes droits de coeur. 12 Réjouissez-vous, justes, dans le Seigneur, et célébrez la mémoire de sa sanctification.
 
 ***Note*** :  Ps. 96, 12 : Sa sanctification (sanctificatonis ejus) ; c’est-à-dire son sanctuaire, son temple. Voir Psaumes, 77, 57 ; 95, 6.
 

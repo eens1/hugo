@@ -11,7 +11,7 @@ summary: |
 
 1 Pour la fin. Ne corrompez pas. Psaume d'un cantique d'Asaph.
 
-***Note*** :  Ps. 74, 1 : D’Asaph ou par Asaph. Voir le titre du Psaume 49 (Hébreu : 50). ― Le titre hébreu porte : « Au chef de chœur. [Sur l’air] ‘al thaschkhêth : ne corrompez pas. » ― Théodoret avait trouvé dans quelques manuscrits des Septante l’addition suivante dans le titre : Contre l’Assyrien. On peut en effet rapporter ce psaume au temps d’Ezéchias et y voir un chant prophétique annonçant que Juda sera délivré de l’invasion de Sennachérib, voir 4 Rois, chapitre 19 ; 2 Paralipomènes, chapitre 32 ; Isaïe, chapitre 37.
+***Note*** :  Ps. 74, 1 : D’Asaph ou par Asaph. Voir le titre du Psaume 49 (Hébreu : 50). ― Le titre hébreu porte : « Au chef de choeur. [Sur l’air] ‘al thaschkhêth : ne corrompez pas. » ― Théodoret avait trouvé dans quelques manuscrits des Septante l’addition suivante dans le titre : Contre l’Assyrien. On peut en effet rapporter ce psaume au temps d’Ezéchias et y voir un chant prophétique annonçant que Juda sera délivré de l’invasion de Sennachérib, voir 4 Rois, chapitre 19 ; 2 Paralipomènes, chapitre 32 ; Isaïe, chapitre 37.
 
 
 2 Nous vous louerons, ô Dieu, nous louerons, et nous invoquerons votre nom. Nous raconterons vos merveilles.

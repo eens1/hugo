@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Posthæc vero, cum esset dies festus Domini, et factum esset prandium bonum in domo Tobiæ,
+1 Posthaec vero, cum esset dies festus Domini, et factum esset prandium bonum in domo Tobiae,
 
 2 dixit filio suo: Vade, et adduc aliquos de tribu nostra, timentes Deum, ut epulentur nobiscum.
 
@@ -25,13 +25,13 @@ draft: false
 
 10 Contigit autem ut quadam die fatigatus a sepultura, veniens in domum suam, iactasset se iuxta parietem, et obdormisset,
 
-11 et ex nido hirundinum dormienti illi calida stercora inciderent super oculos eius, fieretque cæcus.
+11 et ex nido hirundinum dormienti illi calida stercora inciderent super oculos eius, fieretque caecus.
 
-12 Hanc autem tentationem ideo permisit Dominus evenire illi, ut posteris daretur exemplum patientiæ eius, sicut et sancti Iob.
+12 Hanc autem tentationem ideo permisit Dominus evenire illi, ut posteris daretur exemplum patientiae eius, sicut et sancti Iob.
 
-13 Nam cum ab infantia sua semper Deum timuerit, et mandata eius custodierit, non est contristatus contra Deum quod plaga cæcitatis evenerit ei,
+13 Nam cum ab infantia sua semper Deum timuerit, et mandata eius custodierit, non est contristatus contra Deum quod plaga caecitatis evenerit ei,
 
-14 sed immobilis in Dei timore permansit, agens gratias Deo omnibus diebus vitæ suæ.
+14 sed immobilis in Dei timore permansit, agens gratias Deo omnibus diebus vitae suae.
 
 15 Nam sicut beato Iob insultabant reges, ita isti parentes et cognati eius irridebant vitam eius, dicentes:
 
@@ -43,11 +43,11 @@ draft: false
 
 19 Anna vero uxor eius ibat ad opus textrinum quotidie, et de labore manuum suarum victum quem consequi poterat, deferebat.
 
-20 Unde factum est, ut hœdum caprarum accipiens detulisset domi:
+20 Unde factum est, ut hoedum caprarum accipiens detulisset domi:
 
 21 Cuius cum vocem balantis vir eius audisset, dixit: Videte, ne forte furtivus sit, reddite eum dominis suis, quia non licet nobis aut edere ex furto aliquid, aut contingere.
 
-22 Ad hæc uxor eius irata respondit: Manifeste vana facta est spes tua, et eleemosynæ tuæ modo apparuerunt.
+22 Ad haec uxor eius irata respondit: Manifeste vana facta est spes tua, et eleemosynae tuae modo apparuerunt.
 
 23 Atque his, et aliis huiuscemodi verbis exprobrabat ei.
 

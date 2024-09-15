@@ -36,7 +36,7 @@ l’Asie. Le Tell el-Maskhûta actuel, l’antique Phithom, était probablement 
 
 15 Or le roi d'Egypte parla aux sages-femmes des Hébreux, dont l'une se nommait Séphora et l'autre Shua, 16 Leur ordonnant : Quand vous accoucherez les femmes des Hébreux, et que le temps de l'enfantement sera venu, si c'est un garçon, tuez-le; si c'est une fille, conservez-la. 17 Mais les sages-femmes craignirent Dieu, et ne firent pas selon l'ordre du roi d'Egypte; mais elles conservaient les garçons. 18 Appelées devant lui, le roi dit : Qu'est-ce que vous avez voulu faire, en conservant les garçons? 19 Elles répondirent : Les femmes des Hébreux ne sont pas comme les femmes égyptiennes; car elles savent accoucher elles-mêmes; aussi avant que nous venions vers elles, elles enfantent. 20 Et Dieu fit du bien aux sages-femmes; et le peuple s'accrut et se fortifia extrêmement. 21 Et parce que les sages-femmes craignirent Dieu, il leur bâtit des maisons.
 
-***Note*** :  Ex. 1, 21 : Il leur bâtit des maisons ; c’est-à-dire il leur accorda une nombreuse famille. Dieu, en cela, ne voulut point récompenser leur mensonge, mais la bonté de leur cœur ; car, comme le remarque saint Augustin, il ne laisse rien sans récompense.
+***Note*** :  Ex. 1, 21 : Il leur bâtit des maisons ; c’est-à-dire il leur accorda une nombreuse famille. Dieu, en cela, ne voulut point récompenser leur mensonge, mais la bonté de leur coeur ; car, comme le remarque saint Augustin, il ne laisse rien sans récompense.
 
 22 Pharaon commanda donc à tout son peuple, disant : Tout ce qui naîtra du sexe masculin, jetez-le dans le fleuve ; tout ce qui naîtra du féminin, conservez-le.
 

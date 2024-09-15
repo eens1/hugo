@@ -38,7 +38,7 @@ summary: |
 
 8 Alors chacun cultivait sa terre en paix ; et la terre de Juda donnait ses fruits et les arbres des champs leur fruit. 9 Les vieillards étaient tous assis sur les places publiques, et ils s'entretenaient des biens de la terre, et les jeunes gens se revêtaient de gloire et d'habits de guerre.
 
-***Note*** :  I Macc. 14, 9 : Des biens de la terre (de bonis terræ), probablement, de ce qui concernait le bien de la nation. ― De gloire, c’est-à-dire de vêtements magnifiques. ― D’habits de guerre pris sur les ennemis.
+***Note*** :  I Macc. 14, 9 : Des biens de la terre (de bonis terrae), probablement, de ce qui concernait le bien de la nation. ― De gloire, c’est-à-dire de vêtements magnifiques. ― D’habits de guerre pris sur les ennemis.
 
 10 Et il fournissait des aliments aux cités, et il les disposait de manière qu'elles fussent des places d'armes, à ce point que le nom de sa gloire a été célébré aux extrémités de la terre. 11 Il établit la paix sur la terre, et Israël se réjouit d'une grande joie. 12 Et chacun était assis sous sa vigne et sous son figuier, et il n'y avait personne qui les épouvantât. 13 Et il ne se trouva plus sur la terre d'ennemi pour les attaquer ; les rois furent abattus en ces jours-là. 14 Et il soutint tous les humbles de son peuple, et il rechercha la loi, et il extermina tout homme inique et méchant. 15 Les saints lieux, il les glorifia, et il multiplia les vases des saints lieux.
 
@@ -105,7 +105,7 @@ summary: |
 
 46 Et il plut à tout le peuple d'établir Simon chef, et d'agir selon ces paroles. 47 Et Simon accepta, et il lui plut de remplir les fonctions de grand prêtre, et d'être le chef et le prince de la nation des Juifs et des prêtres, et d'être à la tête de tous.
 
-***Note*** :  I Macc. 14, 47 : D’être à la tête de tous (prœesset omnibus) ou d’avoir le commandement de toutes choses ; le texte est amphibologique dans la Vulgate.
+***Note*** :  I Macc. 14, 47 : D’être à la tête de tous (proeesset omnibus) ou d’avoir le commandement de toutes choses ; le texte est amphibologique dans la Vulgate.
 
 
 48 Et on ordonna d'écrire cette déclaration sur des tables d'airain, et de les placer dans les galeries du temple, en un lieu bien connu;

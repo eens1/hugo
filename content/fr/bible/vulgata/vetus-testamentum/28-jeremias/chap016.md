@@ -7,13 +7,13 @@ draft: false
 
 1 Et factum est verbum Domini ad me, dicens:
 
-2 Non accipies uxorem, et non erunt tibi filii, et filiæ in loco isto.
+2 Non accipies uxorem, et non erunt tibi filii, et filiae in loco isto.
 
-3 Quia hæc dicit Dominus super filios et filias, qui generantur in loco isto, et super matres eorum, quæ genuerunt eos: et super patres eorum, de quorum stirpe sunt nati in terra hac:
+3 Quia haec dicit Dominus super filios et filias, qui generantur in loco isto, et super matres eorum, quae genuerunt eos: et super patres eorum, de quorum stirpe sunt nati in terra hac:
 
-4 Mortibus ægrotationum morientur: non plangentur, et non sepelientur, in sterquilinium super faciem terræ erunt: et gladio, et fame consumentur: et erit cadaver eorum in escam volatilibus cæli, et bestiis terræ.
+4 Mortibus aegrotationum morientur: non plangentur, et non sepelientur, in sterquilinium super faciem terrae erunt: et gladio, et fame consumentur: et erit cadaver eorum in escam volatilibus caeli, et bestiis terrae.
 
-5 Hæc enim dicit Dominus: Ne ingrediaris domum convivii, neque vadas ad plangendum, neque consoleris eos: quia abstuli pacem meam a populo isto, dicit Dominus, misericordiam et miserationes.
+5 Haec enim dicit Dominus: Ne ingrediaris domum convivii, neque vadas ad plangendum, neque consoleris eos: quia abstuli pacem meam a populo isto, dicit Dominus, misericordiam et miserationes.
 
 6 Et morientur grandes, et parvi in terra ista: non sepelientur neque plangentur, et non se incident, neque calvitium fiet pro eis.
 
@@ -21,9 +21,9 @@ draft: false
 
 8 Et domum convivii non ingrediaris, ut sedeas cum eis, et comedas et bibas:
 
-9 quia hæc dicit Dominus exercituum Deus Israel: Ecce ego auferam de loco isto in oculis vestris, et in diebus vestris vocem gaudii, et vocem lætitiæ, vocem sponsi, et vocem sponsæ.
+9 quia haec dicit Dominus exercituum Deus Israel: Ecce ego auferam de loco isto in oculis vestris, et in diebus vestris vocem gaudii, et vocem laetitiae, vocem sponsi, et vocem sponsae.
 
-10 Et cum annunciaveris populo huic omnia verba hæc, et dixerint tibi: Quare locutus est Dominus super nos omne malum grande istud? quæ iniquitas nostra? et quod peccatum nostrum, quod peccavimus Domino Deo nostro?
+10 Et cum annunciaveris populo huic omnia verba haec, et dixerint tibi: Quare locutus est Dominus super nos omne malum grande istud? quae iniquitas nostra? et quod peccatum nostrum, quod peccavimus Domino Deo nostro?
 
 11 Dices ad eos: Quia dereliquerunt me patres vestri, ait Dominus: et abierunt post deos alienos, et servierunt eis, et adoraverunt eos: et me dereliquerunt, et legem meam non custodierunt.
 
@@ -31,17 +31,17 @@ draft: false
 
 13 Et eiiciam vos de terra hac in terram, quam ignoratis vos, et patres vestri: et servietis ibi diis alienis die ac nocte, qui non dabunt vobis requiem.
 
-14 Propterea ecce dies veniunt dicit Dominus, et non dicetur ultra: Vivit Dominus, qui eduxit filios Israel de Terra Ægypti,
+14 Propterea ecce dies veniunt dicit Dominus, et non dicetur ultra: Vivit Dominus, qui eduxit filios Israel de Terra AEgypti,
 
 15 sed, Vivit Dominus, qui eduxit filios Israel de Terra Aquilonis, et de universis terris, ad quas eieci eos: et reducam eos in terram suam, quam dedi patribus eorum.
 
-16 Ecce ego mittam piscatores multos dicit Dominus, et piscabuntur eos: et post hæc mittam eis multos venatores, et venabuntur eos de omni monte, et de omni colle, et de cavernis petrarum.
+16 Ecce ego mittam piscatores multos dicit Dominus, et piscabuntur eos: et post haec mittam eis multos venatores, et venabuntur eos de omni monte, et de omni colle, et de cavernis petrarum.
 
-17 Quia oculi mei super omnes vias eorum: non sunt absconditæ a facie mea, et non fuit occultata iniquitas eorum ab oculis meis.
+17 Quia oculi mei super omnes vias eorum: non sunt absconditae a facie mea, et non fuit occultata iniquitas eorum ab oculis meis.
 
 18 Et reddam primum duplices iniquitates, et peccata eorum: quia contaminaverunt terram meam in morticinis idolorum suorum, et abominationibus suis impleverunt hereditatem meam.
 
-19 Domine fortitudo mea, et robur meum, et refugium meum in die tribulationis: ad te Gentes venient ab extremis terræ, et dicent: Vere mendacium possederunt patres nostri, vanitatem, quæ eis non profuit.
+19 Domine fortitudo mea, et robur meum, et refugium meum in die tribulationis: ad te Gentes venient ab extremis terrae, et dicent: Vere mendacium possederunt patres nostri, vanitatem, quae eis non profuit.
 
 20 Numquid faciet sibi homo deos, et ipsi non sunt dii?
 

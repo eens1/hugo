@@ -32,7 +32,7 @@ summary: |
 
 ***Note*** :  Jr. 25, 5 : Voir 4 Rois, 17, 13 ; Jérémie, 18, 11 ; 35, 15. ― De siècle en siècle ; c’est-à-dire dans tous les siècles ; expression que plusieurs interprètes rapportent à vous habiterez. Il faut avouer que ce genre de construction n’est nullement opposé au style de la Bible, et que les termes eux-mêmes favorisent cette interprétation.
 
-6 Et n'allez pas à la suite de dieux étrangers, afin de les servir et de les adorer ; ne me provoquez pas au courroux par les œuvres de vos mains, et je ne vous affligerai point. 7 Et vous ne m'avez pas écouté, dit le Seigneur, en sorte que vous m'avez provoqué au courroux par les œuvres de vos mains, pour votre malheur. 8 A cause de cela, voici ce que dit le Seigneur des armées : A cause de ce que vous n'avez pas écouté mes paroles, 9 Voilà que moi j'enverrai et que je prendrai toutes les familles de l'aquilon, dit le Seigneur, et Nabuchodonosor, roi de Babylone, mon serviteur; et je les amènerai sur cette terre et sur ses habitants, et sur toutes les nations qui sont autour d'elle; et je les perdrai, et j'en ferai un objet de stupeur et de sifflement, et je les réduirai à des solitudes éternelles.
+6 Et n'allez pas à la suite de dieux étrangers, afin de les servir et de les adorer ; ne me provoquez pas au courroux par les oeuvres de vos mains, et je ne vous affligerai point. 7 Et vous ne m'avez pas écouté, dit le Seigneur, en sorte que vous m'avez provoqué au courroux par les oeuvres de vos mains, pour votre malheur. 8 A cause de cela, voici ce que dit le Seigneur des armées : A cause de ce que vous n'avez pas écouté mes paroles, 9 Voilà que moi j'enverrai et que je prendrai toutes les familles de l'aquilon, dit le Seigneur, et Nabuchodonosor, roi de Babylone, mon serviteur; et je les amènerai sur cette terre et sur ses habitants, et sur toutes les nations qui sont autour d'elle; et je les perdrai, et j'en ferai un objet de stupeur et de sifflement, et je les réduirai à des solitudes éternelles.
 
 ***Note*** :  Jr. 25, 9 : J’enverrai et je prendrai ; hébraïsme, pour j’enverrai prendre. ― Mon serviteur ; l’instrument de ma colère, le ministre de mes vengeances.
 
@@ -49,7 +49,7 @@ summary: |
 
 ***Note*** :  Jr. 25, 13 : Toutes les nations ; c’est-à-dire les Iduméens, les Moabites, et tous les peuples voisins des Juifs qui s’étaient alliés aux Chaldéens (voir Jérémie, 12, 6 ; Lamentations, 4, 21 ; Psaumes, 136, 7 ; Ezéchiel, 25, vv. 3, 8 ; Abdias, 1, 11-13).
 
-14 Parce qu'elles les ont servis, quoique ce fussent des nations nombreuses et de grands rois; et je leur rendrai selon leurs œuvres, et selon les ouvrages de leurs mains.
+14 Parce qu'elles les ont servis, quoique ce fussent des nations nombreuses et de grands rois; et je leur rendrai selon leurs oeuvres, et selon les ouvrages de leurs mains.
 
 ***Note*** :  Jr. 25, 14 : Les ont servis ; ont servi les Chaldéens. ― Et je leur rendrai, etc. Ceci s’adresse aux Chaldéens, qui, à leur tour, tombèrent sous la puissance des Mèdes et des Perses conduits par Darius et par Cyrus.
 

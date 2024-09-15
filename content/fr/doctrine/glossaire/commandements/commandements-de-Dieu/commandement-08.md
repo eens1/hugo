@@ -13,7 +13,7 @@ draft: false
 
 [^2]: Glaire 1905, p. 2439.
 
-> *Matthieu 15:19* : "Car du cœur viennent les mauvaises pensées, les homicides, les adultères, les fornications, les vols, les faux témoignages, les blasphèmes." [^3]
+> *Matthieu 15:19* : "Car du coeur viennent les mauvaises pensées, les homicides, les adultères, les fornications, les vols, les faux témoignages, les blasphèmes." [^3]
 
 [^3]: Glaire 1905, p. 2366.
 

@@ -13,7 +13,7 @@ summary: |
 1 Lorsque tu sortiras pour la guerre contre tes ennemis, et que tu verras une cavalerie, des chars, et un corps d'armée ennemie plus considérable que celui que tu auras, tu ne les craindras point, parce que le Seigneur ton Dieu est avec toi, lui qui t'a retiré de l'Egypte.
 
 
-2 Or, le combat approchant, le prêtre se tiendra devant l'armée, et c'est ainsi qu'il parlera, au peuple :3 Ecoute, Israël : c'est vous qui aujourd'hui engagez le combat contre vos ennemis; que votre cœur ne s'épouvante point, ne craignez point, ne reculez point, ne les redoutez point; 4 Parce que le Seigneur votre Dieu est au milieu de vous, et il combattra pour vous contre vos adversaires, pour vous délivrer du péril.
+2 Or, le combat approchant, le prêtre se tiendra devant l'armée, et c'est ainsi qu'il parlera, au peuple :3 Ecoute, Israël : c'est vous qui aujourd'hui engagez le combat contre vos ennemis; que votre coeur ne s'épouvante point, ne craignez point, ne reculez point, ne les redoutez point; 4 Parce que le Seigneur votre Dieu est au milieu de vous, et il combattra pour vous contre vos adversaires, pour vous délivrer du péril.
 
 
 5 Les chefs aussi crieront chacun à la tête de son corps, l'armée entendant : Quel est l'homme qui a bâti une maison neuve, et qui ne l'ait pas encore dédiée? qu'il s'en aille et retourne en sa maison, de peur qu'il ne meure à la guerre, et qu'un autre ne la dédie.
@@ -24,7 +24,7 @@ summary: |
 
 ***Note*** :  Dr. 20, 6 : Les fruits des trois premières années passaient pour impurs ; ceux de la quatrième étaient consacrés au Seigneur ; et après cela, la vigne et ses fruits étaient mis au rang des choses communes et ordinaires.
 
-7 Quel est l'homme qui a été fiancé à une fille et qui ne l'a pas épousée? qu'il s'en aille et retourne en sa maison, de peur qu'il ne meure à la guerre, et qu'un autre homme ne l'épouse. 8 Ces choses dites, ils ajouteront le reste, et ils diront au peuple : Quel est l'homme craintif et d'un cœur timide? qu'il s'en aille et retourne en sa maison, de peur qu'il ne jette la frayeur dans le cœur de ses frères, comme il est lui-même frappé de crainte.
+7 Quel est l'homme qui a été fiancé à une fille et qui ne l'a pas épousée? qu'il s'en aille et retourne en sa maison, de peur qu'il ne meure à la guerre, et qu'un autre homme ne l'épouse. 8 Ces choses dites, ils ajouteront le reste, et ils diront au peuple : Quel est l'homme craintif et d'un coeur timide? qu'il s'en aille et retourne en sa maison, de peur qu'il ne jette la frayeur dans le coeur de ses frères, comme il est lui-même frappé de crainte.
 
 ***Note*** :  Dr. 20, 8 : Voir Juges, 7, 3.
 

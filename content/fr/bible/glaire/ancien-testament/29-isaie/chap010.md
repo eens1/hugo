@@ -30,12 +30,12 @@ summary: |
 
 ***Note*** :  Is. 10, 6 : Une nation trompeuse ; les Israélites, qui se disaient le peuple de Dieu, et qui violaient ses lois, et rendaient une partie de leur culte aux idoles.
 
-7 Mais lui-même ne pensera pas ainsi, et son cœur n'aura pas un pareil sentiment; mais son cœur sera porté à la destruction et à la ruine totale d'un grand nombre de nations.
+7 Mais lui-même ne pensera pas ainsi, et son coeur n'aura pas un pareil sentiment; mais son coeur sera porté à la destruction et à la ruine totale d'un grand nombre de nations.
 
 
 8 Car il dira :9 Est-ce que mes princes ne sont pas autant de rois? Est-ce que Calano n'est pas comme Charcamis; et Emath comme Arphad? est-ce que Samarie n'est pas comme Damas?
 
-***Note*** :  Is. 10, 9 : Mes princes ; les princes que j’ai vaincus. ― Est-ce que Calano, est. N’ai-je pas pris les villes les plus importantes, Calano aussi bien que Charcamis, etc. ? ― Calano, ville de Babylonie, la même que Chalamis, sur le Tigre, une des nécropoles de la Chaldée, aujourd’hui Zerghul, prise par les Assyriens en 738. ― Charcamis, aujourd’hui Djérablous, sur la rive droite de l’Euphrate, ville capitale des Héthéens, prise par les Assyriens, en 717. ― Emath, aujourd’hui Hamah, dans la Cœlésyrie. ― Arphad, aujourd’hui Tell-Er âd, au nord d’Alep, à une vingtaine de kilomètres environ de cette ville. Arphad est toujours nommée avec Emath et fut sans doute prise avec celle-ci en 720.
+***Note*** :  Is. 10, 9 : Mes princes ; les princes que j’ai vaincus. ― Est-ce que Calano, est. N’ai-je pas pris les villes les plus importantes, Calano aussi bien que Charcamis, etc. ? ― Calano, ville de Babylonie, la même que Chalamis, sur le Tigre, une des nécropoles de la Chaldée, aujourd’hui Zerghul, prise par les Assyriens en 738. ― Charcamis, aujourd’hui Djérablous, sur la rive droite de l’Euphrate, ville capitale des Héthéens, prise par les Assyriens, en 717. ― Emath, aujourd’hui Hamah, dans la Coelésyrie. ― Arphad, aujourd’hui Tell-Er âd, au nord d’Alep, à une vingtaine de kilomètres environ de cette ville. Arphad est toujours nommée avec Emath et fut sans doute prise avec celle-ci en 720.
 
 10 De même que ma main a atteint les royaumes des idoles, de même aussi j'atteindrai les simulacres de Jérusalem et de Samarie.
 
@@ -44,12 +44,12 @@ summary: |
 11 Est-ce que comme j'ai fait à Samarie et à ses idoles, je ne ferai pas à Jérusalem et à ses simulacres ?
 
 
-12 Et il arrivera que, lorsque le Seigneur aura accompli toutes ses œuvres sur la montagne de Sion et dans Jérusalem, je visiterai le fruit du cœur arrogant du roi d'Assur, et la fierté de ses yeux altiers.
+12 Et il arrivera que, lorsque le Seigneur aura accompli toutes ses oeuvres sur la montagne de Sion et dans Jérusalem, je visiterai le fruit du coeur arrogant du roi d'Assur, et la fierté de ses yeux altiers.
 
-***Note*** :  Is. 10, 12 : Voir 4 Rois, 19, 35 ; Isaïe, 37, 36. ― Le fruit du cœur ; c’est-à-dire les œuvres.
+***Note*** :  Is. 10, 12 : Voir 4 Rois, 19, 35 ; Isaïe, 37, 36. ― Le fruit du coeur ; c’est-à-dire les oeuvres.
 
 
-13 Car il a dit : Par la force de ma main j'ai fait, par ma sagesse j'ai compris ; et j'ai arraché les limites des peuples, et j'ai spolié les princes, et comme puissant j'ai fait descendre ceux qui étaient assis sur un trône élevé. 14 Et ma main a atteint comme un nid la puissance des nations; et de même qu'on recueille des œufs qui ont été abandonnés, de même moi j'ai réuni toute la terre ; et il ne s'est trouvé personne qui remuât l'aile et ouvrit la bouche, et fit entendre le moindre cri.
+13 Car il a dit : Par la force de ma main j'ai fait, par ma sagesse j'ai compris ; et j'ai arraché les limites des peuples, et j'ai spolié les princes, et comme puissant j'ai fait descendre ceux qui étaient assis sur un trône élevé. 14 Et ma main a atteint comme un nid la puissance des nations; et de même qu'on recueille des oeufs qui ont été abandonnés, de même moi j'ai réuni toute la terre ; et il ne s'est trouvé personne qui remuât l'aile et ouvrit la bouche, et fit entendre le moindre cri.
 
 
 15 Est-ce que la hache se glorifiera contre celui qui s'en sert pour fendre? ou la scie s'élèvera-t-elle contre celui par qui elle est mise en mouvement? C'est comme si la verge s'élevait contre celui qui la lève ; et comme si le bâton se glorifiait, lui qui est absolument du bois. 16 A cause de cela le dominateur. Seigneur des armées, enverra la maigreur au milieu de ses gras: et au-dessous de sa gloire s'allumera et s'enflammera comme un brasier ardent.

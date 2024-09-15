@@ -57,13 +57,13 @@ passer lorsqu'ils sortaient d'Egypte; mais ils se détournèrent d'eux, et ils n
 27 Ensuite tout homme de Juda, et tous les habitants de Jérusalem, et Josaphat à leur tête, retournèrent à Jérusalem dans une grande allégresse, parce que le Seigneur leur avait donné de la joie au sujet de leurs ennemis. 28 Ils entrèrent donc à Jérusalem dans la maison du Seigneur avec des psaltérions, des harpes et des trompettes. 29 Mais la terreur du Seigneur fondit sur tous les royaumes des pays voisins, lorsqu'ils eurent appris que le Seigneur avait combattu contre les ennemis d'Israël. 30 Et le royaume de Josaphat se reposa, et Dieu lui donna la paix alentour.
 
 
-31 Josaphat régna donc sur Juda ; et il avait trente-cinq ans, lorsqu'il commença à régner : or il régna vingt-cinq ans à Jérusalem; et le nom de sa mère était Azuba, fille de Sélahi. 32 Et il marcha dans les voies de son père Asa, et il ne s'en détourna point, faisant ce qui était agréable devant le Seigneur. 33 Cependant il ne détruisit pas les hauts lieux, et le peuple n'avait pas encore dirigé son cœur vers le Seigneur Dieu de ses pères.
+31 Josaphat régna donc sur Juda ; et il avait trente-cinq ans, lorsqu'il commença à régner : or il régna vingt-cinq ans à Jérusalem; et le nom de sa mère était Azuba, fille de Sélahi. 32 Et il marcha dans les voies de son père Asa, et il ne s'en détourna point, faisant ce qui était agréable devant le Seigneur. 33 Cependant il ne détruisit pas les hauts lieux, et le peuple n'avait pas encore dirigé son coeur vers le Seigneur Dieu de ses pères.
 
 
 34 Or le reste des actions de Josaphat, des premières et des dernières, est écrit dans l'histoire que Jéhu, fils d'Hanani, a insérée dans les Livres des rois d'Israël.
 
 
-35 Après cela, Josaphat, roi de Juda, contracta amitié avec Ochozias, roi d'Israël, dont les œuvres furent très impies.
+35 Après cela, Josaphat, roi de Juda, contracta amitié avec Ochozias, roi d'Israël, dont les oeuvres furent très impies.
 
 ***Note*** :  II Par. 20, 35 : Voir 3 Rois, 22, 45.
 
@@ -71,5 +71,5 @@ passer lorsqu'ils sortaient d'Egypte; mais ils se détournèrent d'eux, et ils n
 
 ***Note*** :  II Par. 20, 36 : Asiongaber, port de la mer Rouge, à l’extrémité septentrionale du golfe Elanitique. ― Sur Tharsis, voir 3 Rois, 10, 22.
 
-37 Mais Eliézer, fils de Dodaü de Marésa, prophétisa à Josaphat, disant : Parce que vous avez fait alliance avec Ochozias, le Seigneur Dieu a frappé vos œuvres, et vos vaisseaux ont été brisés, et ils n'ont pu aller à Tharsis.
+37 Mais Eliézer, fils de Dodaü de Marésa, prophétisa à Josaphat, disant : Parce que vous avez fait alliance avec Ochozias, le Seigneur Dieu a frappé vos oeuvres, et vos vaisseaux ont été brisés, et ils n'ont pu aller à Tharsis.
 

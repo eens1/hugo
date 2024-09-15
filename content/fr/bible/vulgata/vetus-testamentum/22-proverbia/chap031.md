@@ -15,9 +15,9 @@ draft: false
 
 5 et ne forte bibant, et obliviscantur iudiciorum, et mutent causam filiorum pauperis.
 
-6 Date siceram mœrentibus, et vinum his, qui amaro sunt animo:
+6 Date siceram moerentibus, et vinum his, qui amaro sunt animo:
 
-7 bibant, et obliviscantur egestatis suæ, et doloris sui non recordentur amplius.
+7 bibant, et obliviscantur egestatis suae, et doloris sui non recordentur amplius.
 
 8 Aperi os tuum muto, et causis omnium filiorum qui pertranseunt:
 
@@ -27,13 +27,13 @@ draft: false
 
 11 Confidit in ea cor viri sui, et spoliis non indigebit.
 
-12 Reddet ei bonum, et non malum, omnibus diebus vitæ suæ.
+12 Reddet ei bonum, et non malum, omnibus diebus vitae suae.
 
-13 Quæsivit lanam et linum, et operata est consilia manuum suarum.
+13 Quaesivit lanam et linum, et operata est consilia manuum suarum.
 
 14 Facta est quasi navis institoris, de longe portans panem suum.
 
-15 Et de nocte surrexit, deditque prædam domesticis suis, et cibaria ancillis suis.
+15 Et de nocte surrexit, deditque praedam domesticis suis, et cibaria ancillis suis.
 
 16 Consideravit agrum, et emit eum: de fructu manuum suarum plantavit vineam.
 
@@ -45,23 +45,23 @@ draft: false
 
 20 Manum suam aperuit inopi, et palmas suas extendit ad pauperem.
 
-21 Non timebit domui suæ a frigoribus nivis: omnes enim domestici eius vestiti sunt duplicibus.
+21 Non timebit domui suae a frigoribus nivis: omnes enim domestici eius vestiti sunt duplicibus.
 
 22 Stragulatam vestem fecit sibi: byssus, et purpura indumentum eius.
 
-23 Nobilis in portis vir eius, quando sederit cum senatoribus terræ.
+23 Nobilis in portis vir eius, quando sederit cum senatoribus terrae.
 
-24 Sindonem fecit, et vendidit, et cingulum tradidit Chananæo.
+24 Sindonem fecit, et vendidit, et cingulum tradidit Chananaeo.
 
 25 Fortitudo et decor indumentum eius, et ridebit in die novissimo.
 
-26 Os suum aperuit sapientiæ, et lex clementiæ in lingua eius.
+26 Os suum aperuit sapientiae, et lex clementiae in lingua eius.
 
-27 Consideravit semitas domus suæ, et panem otiosa non comedit.
+27 Consideravit semitas domus suae, et panem otiosa non comedit.
 
-28 Surrexerunt filii eius, et beatissimam prædicaverunt: vir eius, et laudavit eam.
+28 Surrexerunt filii eius, et beatissimam praedicaverunt: vir eius, et laudavit eam.
 
-29 Multæ filiæ congregaverunt divitias: tu supergressa es universas.
+29 Multae filiae congregaverunt divitias: tu supergressa es universas.
 
 30 Fallax gratia, et vana est pulchritudo: mulier timens Dominum ipsa laudabitur.
 

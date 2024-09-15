@@ -4,7 +4,7 @@ date: 2024-09-06T20:00:40+02:00
 draft: false
 summary: |
   
-  Le Psalmiste relève la bonté, la sagesse et la puissance de Dieu, qui éclatent dans toutes ses œuvres, et dans le soin qu’il prend de ses créatures.
+  Le Psalmiste relève la bonté, la sagesse et la puissance de Dieu, qui éclatent dans toutes ses oeuvres, et dans le soin qu’il prend de ses créatures.
 ---
 
 
@@ -19,7 +19,7 @@ l’abondance et surtout de lui avoir donné sa loi.
 
 ***Note*** :  Ps. 146, 2 : Bâtissant, etc. Le Seigneur a réellement rebâti Jérusalem en faisant révoquer l’ordre qui défendait aux Juifs de la rebâtir. ― Les dispersions d’Israël ; hébraïsme, pour Israël dispersé.
 
-3 C'est lui qui guérit ceux qui ont le cœur brisé, et qui bande leurs plaies. 4 Qui compte la multitude des étoiles, et à elles toutes donne des noms. 5 Grand est notre Dieu, et grande est sa force ; et à sa sagesse il n'y a point de borne.
+3 C'est lui qui guérit ceux qui ont le coeur brisé, et qui bande leurs plaies. 4 Qui compte la multitude des étoiles, et à elles toutes donne des noms. 5 Grand est notre Dieu, et grande est sa force ; et à sa sagesse il n'y a point de borne.
 
 ***Note*** :  Ps. 146, 5 : De borne ; littéralement de nombre ; ce qui revient au même sens ; à savoir que sa sagesse est infinie.
 

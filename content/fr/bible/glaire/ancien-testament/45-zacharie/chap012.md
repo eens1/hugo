@@ -27,7 +27,7 @@ peuples se convertiront et adoreront le vrai Dieu, versets 16 à 21.
 ***Note*** :  Zach. 12, 3 : Une pierre de poids. Selon saint Jérôme il y avait dans les villes et les villages de la Palestine une ancienne coutume qui existait encore de son temps, et qui consistait en ce que les jeunes hommes, pour essayer leurs forces, soulevaient le plus haut qu’ils pouvaient de grosses pierres rondes.
 
 
-4 En ce jour-là, dit le Seigneur, je frapperai de stupeur tous les chevaux, et ceux qui les montent de démence; et sur la maison de Juda j'ouvrirai mes yeux : tous les chevaux des peuples, je les frapperai de cécité. 5 Et les chefs de Juda diront en leur cœur : Que les habitants de Jérusalem trouvent un appui pour moi dans le Seigneur des armées, leur Dieu.
+4 En ce jour-là, dit le Seigneur, je frapperai de stupeur tous les chevaux, et ceux qui les montent de démence; et sur la maison de Juda j'ouvrirai mes yeux : tous les chevaux des peuples, je les frapperai de cécité. 5 Et les chefs de Juda diront en leur coeur : Que les habitants de Jérusalem trouvent un appui pour moi dans le Seigneur des armées, leur Dieu.
 
 
 6 En ce jour-là, je ferai des chefs de Juda comme un foyer de feu sous du bois, comme une torche de feu dans la paille ; et ils dévoreront à droite et à gauche les peuples d'alentour, et Jérusalem sera de nouveau habitée en son propre lieu, à Jérusalem. 7 Et le Seigneur sauvera les tabernacles de Juda comme au commencement; afin que la maison de David ne se glorifie point fastueusement, et que la gloire des habitants de Jérusalem ne s'élève pas contre Juda,

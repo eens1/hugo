@@ -45,7 +45,7 @@ summary: |
 9 Pourquoi es-tu maintenant tourmentée par le chagrin? Est-ce que tu n'as point de roi, ou ton conseiller a-t-il péri, puisque la douleur t'a saisie comme une femme qui est en travail? 10 Afflige-toi, et tourmente-toi, fille de Sion, comme une femme en travail, parce que maintenant tu sortiras de la cité, et tu habiteras dans une région étrangère, et tu viendras jusqu'à Babylone; là, tu seras délivrée; là, le Seigneur te rachètera de la main de tes ennemis.
 
 
-11 Et maintenant se sont rassemblées contre toi beaucoup de nations, qui disent : Qu'elle soit lapidée, et que notre œil considère Sion. 12 Mais eux-mêmes n'ont pas connu les pensées du Seigneur, et ils n'ont pas compris que son dessein était de les assembler comme le foin de l'aire.
+11 Et maintenant se sont rassemblées contre toi beaucoup de nations, qui disent : Qu'elle soit lapidée, et que notre oeil considère Sion. 12 Mais eux-mêmes n'ont pas connu les pensées du Seigneur, et ils n'ont pas compris que son dessein était de les assembler comme le foin de l'aire.
 
 
 13 Fille de Sion, lève-toi et foule aux pieds tes ennemis ; parce que je te poserai une corne de fer, et je te poserai des ongles d'airain, et tu briseras beaucoup de peuples, et tu immoleras au Seigneur leurs rapines, et leur puissance au Seigneur de toute la terre.

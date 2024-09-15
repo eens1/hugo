@@ -13,19 +13,19 @@ draft: false
 
 4 Congregati ergo universi maiores natu Israel, venerunt ad Samuelem in Ramatha.
 
-5 Dixeruntque ei: Ecce tu senuisti, et filii tui non ambulant in viis tuis: constitue nobis regem, ut iudicet nos, sicut et universæ habent nationes.
+5 Dixeruntque ei: Ecce tu senuisti, et filii tui non ambulant in viis tuis: constitue nobis regem, ut iudicet nos, sicut et universae habent nationes.
 
 6 Displicuit sermo in oculis Samuelis, eo quod dixissent: Da nobis regem, ut iudicet nos. Et oravit Samuel ad Dominum.
 
-7 Dixit autem Dominus ad Samuelem: Audi vocem populi in omnibus quæ loquuntur tibi. non enim te abiecerunt, sed me, ne regnem super eos.
+7 Dixit autem Dominus ad Samuelem: Audi vocem populi in omnibus quae loquuntur tibi. non enim te abiecerunt, sed me, ne regnem super eos.
 
-8 Iuxta omnia opera sua, quæ fecerunt a die qua eduxi eos de Ægypto usque ad diem hanc: sicut dereliquerunt me, et servierunt diis alienis, sic faciunt etiam tibi.
+8 Iuxta omnia opera sua, quae fecerunt a die qua eduxi eos de AEgypto usque ad diem hanc: sicut dereliquerunt me, et servierunt diis alienis, sic faciunt etiam tibi.
 
-9 Nunc ergo vocem eorum audi: verumtamen contestare eos, et prædic eis ius regis, qui regnaturus est super eos.
+9 Nunc ergo vocem eorum audi: verumtamen contestare eos, et praedic eis ius regis, qui regnaturus est super eos.
 
 10 Dixit itaque Samuel omnia verba Domini ad populum, qui petierat a se regem,
 
-11 et ait: Hoc erit ius regis, qui imperaturus est vobis: filios vestros tollet, et ponet in curribus suis, facietque sibi equites et præcursores quadrigarum suarum,
+11 et ait: Hoc erit ius regis, qui imperaturus est vobis: filios vestros tollet, et ponet in curribus suis, facietque sibi equites et praecursores quadrigarum suarum,
 
 12 et constituet sibi tribunos, et centuriones, et aratores agrorum suorum, et messores segetum, et fabros armorum et curruum suorum.
 

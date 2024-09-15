@@ -8,7 +8,7 @@ summary: |
 ---
 
 
-1 Et le Seigneur dit à Moïse : Entre auprès de Pharaon ; car c'est moi qui ai endurci son cœur et celui de ses serviteurs, afin que je fasse sur lui ces signes de ma puissance, 2 Et que tu racontes aux oreilles de ton fils et de tes neveux, combien de fois j'ai brisé les Egyptiens et j'ai fait mes signes au milieu d'eux, et que vous sachiez que je suis le Seigneur.
+1 Et le Seigneur dit à Moïse : Entre auprès de Pharaon ; car c'est moi qui ai endurci son coeur et celui de ses serviteurs, afin que je fasse sur lui ces signes de ma puissance, 2 Et que tu racontes aux oreilles de ton fils et de tes neveux, combien de fois j'ai brisé les Egyptiens et j'ai fait mes signes au milieu d'eux, et que vous sachiez que je suis le Seigneur.
 
 
 3 Moïse et Aaron entrèrent donc auprès de Pharaon, et lui dirent : Voici ce que dit le Seigneur Dieu des Hébreux : Jusqu'à quand ne voudras-tu pas te soumettre à moi ? Laisse aller mon peuple, afin qu'il me sacrifie. 4 Que si tu résistes encore, et si tu ne veux pas le laisser aller, voilà que moi, je ferai venir demain des sauterelles dans tes confins ;
@@ -28,7 +28,7 @@ summary: |
 
 ***Note*** :  Ex. 10, 17 : Cette mort; c’est-à-dire ce fléau de sauterelles qui, en dévorant tout, devaient nécessairement donner la mort.
 
-18 Moïse donc, sorti de la présence de Pharaon, pria le Seigneur, 19 Qui fit souffler de l'occident un vent très violent, qui, ayant enlevé les sauterelles, les jeta dans la mer Rouge ; il n'en demeura pas même une seule dans tous les confins de l'Egypte. 20 Mais le Seigneur endurcit le cœur de Pharaon, et il ne laissa pas aller les enfants d'Israël.
+18 Moïse donc, sorti de la présence de Pharaon, pria le Seigneur, 19 Qui fit souffler de l'occident un vent très violent, qui, ayant enlevé les sauterelles, les jeta dans la mer Rouge ; il n'en demeura pas même une seule dans tous les confins de l'Egypte. 20 Mais le Seigneur endurcit le coeur de Pharaon, et il ne laissa pas aller les enfants d'Israël.
 
 
 21 Alors le Seigneur dit à Moïse : Etends ta main vers le ciel, et qu'il y ait sur la terre d'Egypte des ténèbres si épaisses, qu'on puisse les toucher. 22 Et Moïse étendit sa main vers le ciel, et il se forma des ténèbres horribles sur l'Egypte entière pendant trois jours. 23 Personne ne vit son frère, ni ne se remua du lieu où il était: mais la lumière était partout où habitaient les enfants d'Israël.
@@ -41,5 +41,5 @@ summary: |
 ***Note*** :  Ex. 10, 26 : Au lieu même que le Seigneur a désigné, et où il nous instruira de ses volontés.
 
 
-27 Mais le Seigneur endurcit le cœur de Pharaon, et il ne voulut pas les laisser aller. 28 Et Pharaon dit à Moïse : Retire-toi de moi, et garde-toi de voir désormais ma face : car en quelque jour que ce soit que tu paraisses de vaut moi, tu mourras. 29 Moïse répondit : Il sera fait ainsi que tu las dit, je ne verrai plus ta face.
+27 Mais le Seigneur endurcit le coeur de Pharaon, et il ne voulut pas les laisser aller. 28 Et Pharaon dit à Moïse : Retire-toi de moi, et garde-toi de voir désormais ma face : car en quelque jour que ce soit que tu paraisses de vaut moi, tu mourras. 29 Moïse répondit : Il sera fait ainsi que tu las dit, je ne verrai plus ta face.
 

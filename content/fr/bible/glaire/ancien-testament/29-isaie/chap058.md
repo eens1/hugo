@@ -13,7 +13,7 @@ summary: |
 
 1 Crie et ne cesse point; comme la trompette élève ta voix, et annonce à mon peuple ses crimes, et à la maison de Jacob ses péchés.
 
-***Note*** :  Is. 58, 1-14 : III. Troisième section : Le royaume messianique, du chapitre 58 au chapitre 66. ― 1er Discours. Du faux et du vrai culte dû à Dieu, chapitre 58. Le peuple prétend être pieux et mériter le salut, parce qu’il jeûne, mais à quoi sert le jeûne si la rénovation intérieure ne l’accompagne ? C’est une œuvre extérieure sans valeur, parce qu’il n’est pas le fruit de la crainte de Dieu, versets 1 à 6. ― Il faut être charitable envers le prochain ; faire la volonté du Seigneur : voilà le vrai culte qu’on doit rendre à Dieu, afin de recevoir ses grâces et ses miséricordes, versets 7 à 14, voir Matthieu, 6, verset 1 et suivants.
+***Note*** :  Is. 58, 1-14 : III. Troisième section : Le royaume messianique, du chapitre 58 au chapitre 66. ― 1er Discours. Du faux et du vrai culte dû à Dieu, chapitre 58. Le peuple prétend être pieux et mériter le salut, parce qu’il jeûne, mais à quoi sert le jeûne si la rénovation intérieure ne l’accompagne ? C’est une oeuvre extérieure sans valeur, parce qu’il n’est pas le fruit de la crainte de Dieu, versets 1 à 6. ― Il faut être charitable envers le prochain ; faire la volonté du Seigneur : voilà le vrai culte qu’on doit rendre à Dieu, afin de recevoir ses grâces et ses miséricordes, versets 7 à 14, voir Matthieu, 6, verset 1 et suivants.
 
 ***Note*** :  Is. 58, 1 : Crie. C’est le Seigneur qui s’adresse à Isaïe.
 
@@ -57,7 +57,7 @@ summary: |
 
 10 Si tu prodigues ton âme à celui qui a faim, et si tu remplis de consolation une âme affligée, ta lumière se lèvera dans les ténèbres, et tes ténèbres seront comme le midi.
 
-***Note*** :  Is. 58, 10 : Si tu prodigues, etc. ; c’est-à-dire, si tu assistes le pauvre affamé avec une grande effusion de cœur. ― Ta lumière, etc. Voir le verset 8.
+***Note*** :  Is. 58, 10 : Si tu prodigues, etc. ; c’est-à-dire, si tu assistes le pauvre affamé avec une grande effusion de coeur. ― Ta lumière, etc. Voir le verset 8.
 
 11 Et le Seigneur te donnera le repos sans interruption, et il remplira ton âme de splendeurs ; il délivrera tes os, et tu seras comme un jardin arrosé, et comme une fontaine d'eau, à laquelle les eaux ne manqueront pas.
 

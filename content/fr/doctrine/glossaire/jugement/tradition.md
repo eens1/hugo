@@ -33,7 +33,7 @@ draft: false
 
 [^6]: Bareille 1922, pp. 263.
 
-> *Saint Robert Bellarmin, De Romano Pontifice, lib. II, cap. 30* : "... car les hommes ne sont pas liés, ni capables de lire dans les cœurs; mais quand ils voient que quelqu'un est hérétique par ses œuvres extérieures, ils le jugent hérétique purement et simplement [simpliciter], et le condamnent comme hérétique." [^7]
+> *Saint Robert Bellarmin, De Romano Pontifice, lib. II, cap. 30* : "... car les hommes ne sont pas liés, ni capables de lire dans les coeurs; mais quand ils voient que quelqu'un est hérétique par ses oeuvres extérieures, ils le jugent hérétique purement et simplement [simpliciter], et le condamnent comme hérétique." [^7]
 
 [^7]: Consulté le 5 août 2021, traduit par eens.pages.dev. Original: "... for men are not bound, or able to read hearts; but when they see that someone is a heretic by his external works, they judge him to be a heretic pure and simple [simpliciter], and condemn him as a heretic." http://www.strobertbellarmine.net/bellarm.htm
 

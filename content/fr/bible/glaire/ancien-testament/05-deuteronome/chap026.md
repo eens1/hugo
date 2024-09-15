@@ -31,7 +31,7 @@ summary: |
 ***Note*** :  Dr. 26, 15 : Voir Isaïe, 63, 15 ; Baruch, 2, 16.
 
 
-16 Aujourd'hui le Seigneur ton Dieu t'a ordonné d'exécuter ces commandements et ces ordonnances, de les garder et de les accomplir de tout ton cœur et de toute ton âme. 17 Tu as choisi aujourd'hui le Seigneur, afin qu'il soit ton Dieu, afin que tu marches dans ses voies, et que tu gardes ses cérémonies, ses commandements et ses ordonnances, et que tu obéisses à son ordre ; 18 Et le Seigneur t'a choisi aujourd'hui , afin que tu sois son peuple particulier, comme il t'a dit, et que tu gardes tous ses préceptes,
+16 Aujourd'hui le Seigneur ton Dieu t'a ordonné d'exécuter ces commandements et ces ordonnances, de les garder et de les accomplir de tout ton coeur et de toute ton âme. 17 Tu as choisi aujourd'hui le Seigneur, afin qu'il soit ton Dieu, afin que tu marches dans ses voies, et que tu gardes ses cérémonies, ses commandements et ses ordonnances, et que tu obéisses à son ordre ; 18 Et le Seigneur t'a choisi aujourd'hui , afin que tu sois son peuple particulier, comme il t'a dit, et que tu gardes tous ses préceptes,
 
 ***Note*** :  Dr. 26, 18 : Voir Deutéronome, 7, 6.
 

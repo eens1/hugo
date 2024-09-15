@@ -5,33 +5,33 @@ draft: false
 ---
 
 
-1 Porro Benadad rex Syriæ, congregavit omnem exercitum suum, et triginta duos reges secum, et equos, et currus: et ascendens pugnabat contra Samariam, et obsidebat eum.
+1 Porro Benadad rex Syriae, congregavit omnem exercitum suum, et triginta duos reges secum, et equos, et currus: et ascendens pugnabat contra Samariam, et obsidebat eum.
 
 2 Mittensque nuncios ad Achab regem Israel in civitatem,
 
-3 ait: Hæc dicit Benadad: Argentum tuum, et aurum tuum meum est: et uxores tuæ, et filii tui optimi, mei sunt.
+3 ait: Haec dicit Benadad: Argentum tuum, et aurum tuum meum est: et uxores tuae, et filii tui optimi, mei sunt.
 
 4 Responditque rex Israel: Iuxta verbum tuum, domine mi rex, tuus sum ego, et omnia mea.
 
-5 Revertentesque nuncii, dixerunt: Hæc dicit Benadad, qui misit nos ad te: Argentum tuum, et aurum tuum, et uxores tuas, et filios tuos dabis mihi.
+5 Revertentesque nuncii, dixerunt: Haec dicit Benadad, qui misit nos ad te: Argentum tuum, et aurum tuum, et uxores tuas, et filios tuos dabis mihi.
 
 6 Cras igitur hac eadem hora mittam servos meos ad te, et scrutabuntur domum tuam, et domum servorum tuorum: et omne, quod eis placuerit, ponent in manibus suis, et auferent.
 
-7 Vocavit autem rex Israel omnes seniores terræ, et ait: Animadvertite, et videte quoniam insidietur nobis. misit enim ad me pro uxoribus meis, et filiis, et pro argento et auro: et non abnui.
+7 Vocavit autem rex Israel omnes seniores terrae, et ait: Animadvertite, et videte quoniam insidietur nobis. misit enim ad me pro uxoribus meis, et filiis, et pro argento et auro: et non abnui.
 
 8 Dixeruntque omnes maiores natu, et universus populus ad eum: Non audias, neque acquiescas illi.
 
-9 Respondit itaque nunciis Benadad: Dicite domino meo regi: Omnia propter quæ misisti ad me servum tuum in initio, faciam: hanc autem rem facere non possum.
+9 Respondit itaque nunciis Benadad: Dicite domino meo regi: Omnia propter quae misisti ad me servum tuum in initio, faciam: hanc autem rem facere non possum.
 
-10 Reversique nuncii retulerunt ei. Qui remisit, et ait: Hæc faciant mihi dii, et hæc addant, si suffecerit pulvis Samariæ pugillis omnis populi, qui sequitur me.
+10 Reversique nuncii retulerunt ei. Qui remisit, et ait: Haec faciant mihi dii, et haec addant, si suffecerit pulvis Samariae pugillis omnis populi, qui sequitur me.
 
-11 Et respondens rex Israel, ait: Dicite ei: Ne glorietur accinctus æque ut discinctus.
+11 Et respondens rex Israel, ait: Dicite ei: Ne glorietur accinctus aeque ut discinctus.
 
 12 Factum est autem, cum audisset Benadad verbum istud, bibebat ipse et reges in umbraculis, et ait servis suis: Circumdate civitatem. Et circumdederunt eam.
 
-13 Et ecce propheta unus accedens ad Achab regem Israel, ait ei: Hæc dicit Dominus: Certe vidisti omnem multitudinem hanc nimiam? ecce, ego tradam eam in manu tua hodie: ut scias, quia ego sum Dominus.
+13 Et ecce propheta unus accedens ad Achab regem Israel, ait ei: Haec dicit Dominus: Certe vidisti omnem multitudinem hanc nimiam? ecce, ego tradam eam in manu tua hodie: ut scias, quia ego sum Dominus.
 
-14 Et ait Achab: Per quem? Dixitque ei: Hæc dicit Dominus: Per pedissequos principum provinciarum. Et ait: Quis incipiet præliari? Et ille dixit: Tu.
+14 Et ait Achab: Per quem? Dixitque ei: Haec dicit Dominus: Per pedissequos principum provinciarum. Et ait: Quis incipiet praeliari? Et ille dixit: Tu.
 
 15 Recensuit ergo pueros principum provinciarum, et reperit numerum ducentorum triginta duorum: et recensuit post eos populum, omnes filios Israel, septem millia.
 
@@ -39,17 +39,17 @@ draft: false
 
 17 Egressi sunt autem pueri principum provinciarum in prima fronte. Misit itaque Benadad. Qui nunciaverunt ei, dicentes: Viri egressi sunt de Samaria.
 
-18 Et ille ait: Sive pro pace veniunt, apprehendite eos vivos: sive ut prælientur, vivos eos capite.
+18 Et ille ait: Sive pro pace veniunt, apprehendite eos vivos: sive ut praelientur, vivos eos capite.
 
 19 Egressi sunt ergo pueri principum provinciarum, ac reliquus exercitus sequebatur:
 
-20 et percussit unusquisque virum, qui contra se veniebat: fugeruntque Syri, et persecutus est eos Israel. Fugit quoque Benadad rex Syriæ in equo cum equitibus suis.
+20 et percussit unusquisque virum, qui contra se veniebat: fugeruntque Syri, et persecutus est eos Israel. Fugit quoque Benadad rex Syriae in equo cum equitibus suis.
 
 21 Necnon egressus rex Israel percussit equos et currus, et percussit Syriam plaga magna.
 
-22 (Accedens autem propheta ad regem Israel, dixit ei: Vade, et confortare, et scito, et vide quid facias: sequenti enim anno rex Syriæ ascendet contra te.)
+22 (Accedens autem propheta ad regem Israel, dixit ei: Vade, et confortare, et scito, et vide quid facias: sequenti enim anno rex Syriae ascendet contra te.)
 
-23 Servi vero regis Syriæ dixerunt ei: Dii montium sunt dii eorum, ideo superaverunt nos: sed melius est ut pugnemus contra eos in campestribus, et obtinebimus eos.
+23 Servi vero regis Syriae dixerunt ei: Dii montium sunt dii eorum, ideo superaverunt nos: sed melius est ut pugnemus contra eos in campestribus, et obtinebimus eos.
 
 24 Tu ergo verbum hoc fac: Amove reges singulos ab exercitu tuo, et pone principes pro eis:
 
@@ -59,7 +59,7 @@ draft: false
 
 27 Porro filii Israel recensiti sunt, et acceptis cibariis profecti ex adverso, castraque metati sunt contra eos, quasi duo parvi greges caprarum: Syri autem repleverunt terram.
 
-28 (Et accedens unus vir Dei, dixit ad regem Israel: Hæc dicit Dominus: Quia dixerunt Syri: Deus montium est dominus, et non est Deus Vallium: dabo omnem multitudinem hanc grandem in manu tua, et scietis quia ego sum Dominus.)
+28 (Et accedens unus vir Dei, dixit ad regem Israel: Haec dicit Dominus: Quia dixerunt Syri: Deus montium est dominus, et non est Deus Vallium: dabo omnem multitudinem hanc grandem in manu tua, et scietis quia ego sum Dominus.)
 
 29 Dirigebantque septem diebus ex adverso hi, atque illi acies, septima autem die commissum est bellum: percusseruntque filii Israel de Syris centum millia peditum in die una.
 
@@ -71,7 +71,7 @@ draft: false
 
 33 Quod acceperunt viri pro omine: et festinantes rapuerunt verbum ex ore eius, atque dixerunt: Frater tuus Benadad. Et dixit eis: Ite, et adducite eum ad me. Egressus est ergo ad eum Benadad, et levavit eum in currum suum.
 
-34 Qui dixit ei: Civitates, quas tulit pater meus a patre tuo, reddam: et plateas fac tibi in Damasco, sicut fecit pater meus in Samaria, et ego fœderatus recedam a te. Pepigit ergo fœdus, et dimisit eum.
+34 Qui dixit ei: Civitates, quas tulit pater meus a patre tuo, reddam: et plateas fac tibi in Damasco, sicut fecit pater meus in Samaria, et ego foederatus recedam a te. Pepigit ergo foedus, et dimisit eum.
 
 35 Tunc vir quidam de filiis prophetarum dixit ad socium suum in sermone Domini: Percute me. At ille noluit percutere.
 
@@ -81,13 +81,13 @@ draft: false
 
 38 Abiit ergo propheta, et occurrit regi in via, et mutavit aspersione pulveris os et oculos suos.
 
-39 Cumque rex transisset, clamavit ad regem, et ait: Servus tuus egressus est ad præliandum cominus: cumque fugisset vir unus, adduxit eum quidam ad me, et ait: Custodi virum istum: qui si lapsus fuerit, erit anima tua pro anima eius, aut talentum argenti appendes.
+39 Cumque rex transisset, clamavit ad regem, et ait: Servus tuus egressus est ad praeliandum cominus: cumque fugisset vir unus, adduxit eum quidam ad me, et ait: Custodi virum istum: qui si lapsus fuerit, erit anima tua pro anima eius, aut talentum argenti appendes.
 
 40 Dum autem ego turbatus huc illucque me verterem, subito non comparuit. Et ait rex Israel ad eum: Hoc est iudicium tuum, quod ipse decrevisti.
 
 41 At ille statim abstersit pulverem de facie sua, et cognovit eum rex Israel, quod esset de prophetis.
 
-42 Qui ait ad eum: Hæc dicit Dominus: Quia dimisisti virum dignum morte de manu tua, erit anima tua pro anima eius, et populus tuus pro populo eius.
+42 Qui ait ad eum: Haec dicit Dominus: Quia dimisisti virum dignum morte de manu tua, erit anima tua pro anima eius, et populus tuus pro populo eius.
 
 43 Reversus est igitur rex Israel in domum suam, audire contemnens, et furibundus venit in Samariam.
 

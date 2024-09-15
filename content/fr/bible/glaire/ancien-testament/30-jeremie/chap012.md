@@ -24,7 +24,7 @@ summary: |
 ***Note*** :  Jr. 12, 2 : Reins. Voir, pour le sens de ce mot, Jérémie, 11, 20.
 
 
-3 Et vous, Seigneur, vous m'avez connu, vous m'avez vu et vous avez éprouvé que mon cœur est avec vous ; assemblez-les comme un troupeau destiné au sacrifice, et consacrez-les pour le jour de la tuerie.
+3 Et vous, Seigneur, vous m'avez connu, vous m'avez vu et vous avez éprouvé que mon coeur est avec vous ; assemblez-les comme un troupeau destiné au sacrifice, et consacrez-les pour le jour de la tuerie.
 
 ***Note*** :  Jr. 12, 3 : Consacrez-les, etc. ; c’est-à-dire séparez-les, mettez-les de côté comme une chose sainte et destinée à être la matière du sacrifice. Ainsi le sens est : Regardez-les dès ce moment comme des victimes destinées au sacrifice.
 
@@ -45,7 +45,7 @@ sauvages.
 ***Note*** :  Jr. 12, 9 : Un oiseau de diverses couleurs. On ignore de quel oiseau parle le Prophète. Le sens est que le peuple d’Israël est devenu pour tous un sujet de mépris et de persécution, comme un oiseau dépaysé au milieu d’autres oiseaux, qui le distinguent à cause de la différence de sa couleur et le pourchassent.
 
 
-10 Des pasteurs nombreux ont ravagé ma vigne, ils ont foulé aux pieds mon partage; ils ont fait de mon partage précieux un désert solitaire. 11 Ils l'ont livré à la dévastation, et il a pleuré sur moi; par la désolation a été désolée toute la terre, parce qu'il n'est personne qui réfléchisse en son cœur.
+10 Des pasteurs nombreux ont ravagé ma vigne, ils ont foulé aux pieds mon partage; ils ont fait de mon partage précieux un désert solitaire. 11 Ils l'ont livré à la dévastation, et il a pleuré sur moi; par la désolation a été désolée toute la terre, parce qu'il n'est personne qui réfléchisse en son coeur.
 
 ***Note*** :  Jr. 12, 11 : Par la désolation a été désolée ; hébraïsme, pour a été entièrement désolée.
 

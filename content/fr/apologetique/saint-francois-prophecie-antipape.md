@@ -1,11 +1,6 @@
 ---
-title : "Saint François à propos d'un antipape qui entraîne une multitude dans l'erreur et la mort"
+title: "Saint François à propos d'un antipape qui entraîne une multitude dans l\'erreur et la mort"
 date: 2024-09-14
-draft: false
-description: ""
-summary: ""
-tags: []
-categories: []
 ---
 
 Source : Traduction de [Washbourne 1882](/en/apologetics/saint-francis-prophecy-antipope), pages 248-249.

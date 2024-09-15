@@ -27,7 +27,7 @@ summary: |
 ***Note*** :  Ps. 142, 3 : Ce verset se rattache au premier, parce que le second forme comme une parenthèse. ― Jusqu’à terre ; c’est-à-dire profondément ; ou bien, en me forçant de chercher un refuge dans les autres (? ) de la terre.
 
 
-4 Et mon esprit a été dans l'anxiété sur mon sort ; au dedans de moi mon cœur s'est troublé. 5 Je me suis souvenu des jours anciens, j'ai médité sur toutes vos œuvres, sur les ouvrages de vos mains je méditais.
+4 Et mon esprit a été dans l'anxiété sur mon sort ; au dedans de moi mon coeur s'est troublé. 5 Je me suis souvenu des jours anciens, j'ai médité sur toutes vos oeuvres, sur les ouvrages de vos mains je méditais.
 
 
 6 J'ai étendu mes mains vers vous : mon âme est pour vous comme une terre sans eau;

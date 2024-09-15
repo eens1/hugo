@@ -12,7 +12,7 @@ summary: |
 
 1 Pour les pressoirs, psaume d'Asaph lui-même.
 
-***Note*** :  Ps. 80, 1 : Titre en hébreu : « Au chef de chœur. Sur le gittith. » Voir sur le gittith, la note 20 à la fin du volume. ― Ce psaume a pour objet de célébrer la fête de Pâques, et c’est pour ce motif qu’il parle de la sortie d’Egypte. ― le Psalmiste rappelle à celui qui observera fidèlement les commandements de Dieu quelle est la récompense qui lui est destinée. Les versets 2 à 5 exhortent à célébrer Pâques avec allégresse. Dans les versets 6 à 17, c’est Dieu qui parle. (Les verbes des versets 6 et 7 sont à la première personne en hébreu. ) Il demande à son peuple la fidélité, en lui rappelant comment il a puni dans le désert ceux qui lui ont été rebelles et en assurant qu’il accordera tous les biens à ceux qui écouteront sa voix.
+***Note*** :  Ps. 80, 1 : Titre en hébreu : « Au chef de choeur. Sur le gittith. » Voir sur le gittith, la note 20 à la fin du volume. ― Ce psaume a pour objet de célébrer la fête de Pâques, et c’est pour ce motif qu’il parle de la sortie d’Egypte. ― le Psalmiste rappelle à celui qui observera fidèlement les commandements de Dieu quelle est la récompense qui lui est destinée. Les versets 2 à 5 exhortent à célébrer Pâques avec allégresse. Dans les versets 6 à 17, c’est Dieu qui parle. (Les verbes des versets 6 et 7 sont à la première personne en hébreu. ) Il demande à son peuple la fidélité, en lui rappelant comment il a puni dans le désert ceux qui lui ont été rebelles et en assurant qu’il accordera tous les biens à ceux qui écouteront sa voix.
 
 
 2 Exultez en Dieu qui est notre aide ; poussez des cris de joie vers le Dieu de Jacob. 3 Entonnez un psaume, et faites entendre un tambour, un psaltérion harmonieux avec une harpe. 4 Sonnez de la trompette à la néoménie, au jour insigne de votre solennité;
@@ -42,7 +42,7 @@ summary: |
 11 Car c'est moi qui suis le Seigneur ton Dieu, qui t'ai tiré de la terre d'Egypte ; élargis la bouche, je la remplirai.
 
 
-12 Mais mon peuple n'a pas écouté ma voix, et Israël ne m'a pas prêté attention. 13 Et je les ai abandonnés aux désirs de leur cœur ; ils iront dans des voies de leur invention.
+12 Mais mon peuple n'a pas écouté ma voix, et Israël ne m'a pas prêté attention. 13 Et je les ai abandonnés aux désirs de leur coeur ; ils iront dans des voies de leur invention.
 
 ***Note*** :  Ps. 80, 13 : Voir Actes des Apôtres, 14, 15. ― Dans des voies, etc. (in adinventionibus suis) le grec dit habitudes, goûts, caprices, et l’hébreu conseils, desseins.
 

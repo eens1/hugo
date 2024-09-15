@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Tunc miserunt legatos suos universarum urbium, ac provinciarum reges ac principes, Syriæ scilicet Mesopotamiæ, et Syriæ Sobal, et Libyæ, atque Ciliciæ, qui venientes ad Holofernem, dixerunt:
+1 Tunc miserunt legatos suos universarum urbium, ac provinciarum reges ac principes, Syriae scilicet Mesopotamiae, et Syriae Sobal, et Libyae, atque Ciliciae, qui venientes ad Holofernem, dixerunt:
 
-2 Desinat indignatio tua circa nos: Melius est enim ut viventes serviamus Nabuchodonosor regi magno, et subditi simus tibi, quam morientes cum interitu nostro ipsi servitutis nostræ damna patiamur.
+2 Desinat indignatio tua circa nos: Melius est enim ut viventes serviamus Nabuchodonosor regi magno, et subditi simus tibi, quam morientes cum interitu nostro ipsi servitutis nostrae damna patiamur.
 
-3 Omnis civitas nostra, omnisque possessio, omnes montes, et colles, et campi, et armenta boum, gregesque ovium, et caprarum, equorumque et camelorum, et universæ facultates nostræ, atque familiæ in conspectu tuo sunt:
+3 Omnis civitas nostra, omnisque possessio, omnes montes, et colles, et campi, et armenta boum, gregesque ovium, et caprarum, equorumque et camelorum, et universae facultates nostrae, atque familiae in conspectu tuo sunt:
 
 4 sint omnia nostra sub lege tua.
 
@@ -29,9 +29,9 @@ draft: false
 
 12 nam et civitates eorum destruxit, et lucos eorum excidit.
 
-13 præceperat enim illi Nabuchodonosor rex, ut omnes deos terræ exterminaret, videlicet ut ipse solus diceretur Deus ab his nationibus, quæ potuissent Holofernis potentia subiugari.
+13 praeceperat enim illi Nabuchodonosor rex, ut omnes deos terrae exterminaret, videlicet ut ipse solus diceretur Deus ab his nationibus, quae potuissent Holofernis potentia subiugari.
 
-14 Pertransiens autem Syriam Sobal, et omnem Apameam, omnemque Mesopotamiam, venit ad Idumæos in terram Gabaa,
+14 Pertransiens autem Syriam Sobal, et omnem Apameam, omnemque Mesopotamiam, venit ad Idumaeos in terram Gabaa,
 
-15 accepitque civitates eorum, et sedit ibi per triginta dies, in quibus diebus adunari præcepit universum exercitum virtutis suæ.
+15 accepitque civitates eorum, et sedit ibi per triginta dies, in quibus diebus adunari praecepit universum exercitum virtutis suae.
 

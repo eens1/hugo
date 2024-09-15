@@ -9,21 +9,21 @@ draft: false
 
 2 Charissime, de omnibus orationem facio prospere te ingredi, et valere, sicut prospere agit anima tua.
 
-3 Gavisus sum valde venientibus fratribus, et testimonium perhibentibus veritati tuæ, sicut tu in veritate ambulas.
+3 Gavisus sum valde venientibus fratribus, et testimonium perhibentibus veritati tuae, sicut tu in veritate ambulas.
 
 4 Maiorem horum non habeo gratiam, quam ut audiam filios meos in veritate ambulare.
 
 5 Charissime, fideliter facis quidquid operaris in fratres, et hoc in peregrinos,
 
-6 qui testimonium reddiderunt charitati tuæ in conspectu Ecclesiæ: quos, benefaciens, deduces digne Deo.
+6 qui testimonium reddiderunt charitati tuae in conspectu Ecclesiae: quos, benefaciens, deduces digne Deo.
 
 7 Pro nomine enim eius profecti sunt, nihil accipientes a Gentibus.
 
 8 Nos ergo debemus suscipere huiusmodi, ut cooperatores simus veritatis.
 
-9 Scripsissem forsitan Ecclesiæ: sed is, qui amat primatum genere in eis, Diotrephes, non recipit nos.
+9 Scripsissem forsitan Ecclesiae: sed is, qui amat primatum genere in eis, Diotrephes, non recipit nos.
 
-10 propter hoc si venero, commonebo eius opera, quæ facit: verbis malignis garriens in nos: et quasi non ei ista sufficient: neque ipse suscipit fratres: et eos, qui suscipiunt, prohibet, et de Ecclesia eiicit.
+10 propter hoc si venero, commonebo eius opera, quae facit: verbis malignis garriens in nos: et quasi non ei ista sufficient: neque ipse suscipit fratres: et eos, qui suscipiunt, prohibet, et de Ecclesia eiicit.
 
 11 Charissime, noli imitari malum, sed quod bonum est. Qui benefacit, ex Deo est: qui malefacit, non vidit Deum.
 

@@ -5,19 +5,19 @@ draft: false
 ---
 
 
-1 Hominis est animam præparare: et Domini gubernare linguam.
+1 Hominis est animam praeparare: et Domini gubernare linguam.
 
-2 Omnes viæ hominis patent oculis eius: spirituum ponderator est Dominus.
+2 Omnes viae hominis patent oculis eius: spirituum ponderator est Dominus.
 
-3 Revela Domino opera tua, et dirigentur cogitationes tuæ.
+3 Revela Domino opera tua, et dirigentur cogitationes tuae.
 
 4 Universa propter semetipsum operatus est Dominus: impium quoque ad diem malum.
 
-5 Abominatio Domini est omnis arrogans: etiamsi manus ad manum fuerit, non est innocens. Initium viæ bonæ, facere iustitiam: accepta est autem apud Deum magis, quam immolare hostias.
+5 Abominatio Domini est omnis arrogans: etiamsi manus ad manum fuerit, non est innocens. Initium viae bonae, facere iustitiam: accepta est autem apud Deum magis, quam immolare hostias.
 
 6 Misericordia et veritate redimitur iniquitas: et in timore Domini declinatur a malo.
 
-7 Cum placuerint Domino viæ hominis, inimicos quoque eius convertet ad pacem.
+7 Cum placuerint Domino viae hominis, inimicos quoque eius convertet ad pacem.
 
 8 Melius est parum cum iustitia, quam multi fructus cum iniquitate.
 
@@ -37,9 +37,9 @@ draft: false
 
 16 Posside sapientiam, quia auro melior est: et acquire prudentiam, quia pretiosior est argento.
 
-17 Semita iustorum declinat mala: custos animæ suæ servat viam suam.
+17 Semita iustorum declinat mala: custos animae suae servat viam suam.
 
-18 Contritionem præcedit superbia: et ante ruinam exaltatur spiritus.
+18 Contritionem praecedit superbia: et ante ruinam exaltatur spiritus.
 
 19 Melius est humiliari cum mitibus, quam dividere spolia cum superbis.
 
@@ -47,13 +47,13 @@ draft: false
 
 21 Qui sapiens est corde, appellabitur prudens: et qui dulcis eloquio, maiora percipiet.
 
-22 Fons vitæ eruditio possidentis: doctrina stultorum fatuitas.
+22 Fons vitae eruditio possidentis: doctrina stultorum fatuitas.
 
 23 Cor sapientis erudiet os eius: et labiis eius addet gratiam.
 
-24 Favus mellis, composita verba: dulcedo animæ, sanitas ossium.
+24 Favus mellis, composita verba: dulcedo animae, sanitas ossium.
 
-25 Est via quæ videtur homini recta: et novissima eius ducunt ad mortem.
+25 Est via quae videtur homini recta: et novissima eius ducunt ad mortem.
 
 26 Anima laborantis laborat sibi, quia compulit eum os suum:
 
@@ -65,7 +65,7 @@ draft: false
 
 30 Qui attonitis oculis cogitat prava, mordens labia sua perficit malum.
 
-31 Corona dignitatis senectus, quæ in viis iustitiæ reperietur.
+31 Corona dignitatis senectus, quae in viis iustitiae reperietur.
 
 32 Melior est patiens viro forti: et qui dominatur animo suo, expugnatore urbium.
 

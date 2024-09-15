@@ -9,9 +9,9 @@ draft: false
 
 2 Putasne Gabelus mortuus est, et nemo reddet illi pecuniam?
 
-3 Cœpit autem contristari nimis ipse et Anna uxor eius cum eo: et cœperunt ambo simul flere: eo quod die statuto minime reverteretur filius eorum ad eos.
+3 Coepit autem contristari nimis ipse et Anna uxor eius cum eo: et coeperunt ambo simul flere: eo quod die statuto minime reverteretur filius eorum ad eos.
 
-4 Flebat igitur mater eius irremediabilibus lacrymis, atque dicebat: Heu heu me fili mi, ut quid te misimus peregrinari, lumen oculorum nostrorum, baculum senectutis nostræ, solatium vitæ nostræ, spem posteritatis nostræ?
+4 Flebat igitur mater eius irremediabilibus lacrymis, atque dicebat: Heu heu me fili mi, ut quid te misimus peregrinari, lumen oculorum nostrorum, baculum senectutis nostrae, solatium vitae nostrae, spem posteritatis nostrae?
 
 5 Omnia simul in te uno habentes, te non debuimus dimittere a nobis.
 
@@ -23,7 +23,7 @@ draft: false
 
 9 Cui Tobias ait: Ego novi quia pater meus et mater mea modo dies computant, et cruciatur spiritus eorum in ipsis.
 
-10 Cumque verbis multis rogaret Raguel Tobiam, et ille eum nulla ratione vellet audire, tradidit ei Saram, et dimidiam partem omnis substantiæ suæ in pueris, in puellis, in pecudibus, in camelis, et in vaccis, et in pecunia multa: et salvum atque gaudentem dimisit eum a se,
+10 Cumque verbis multis rogaret Raguel Tobiam, et ille eum nulla ratione vellet audire, tradidit ei Saram, et dimidiam partem omnis substantiae suae in pueris, in puellis, in pecudibus, in camelis, et in vaccis, et in pecunia multa: et salvum atque gaudentem dimisit eum a se,
 
 11 dicens: Angelus Domini sanctus sit in itinere vestro, perducatque vos incolumes, et inveniatis omnia recte circa parentes vestros, et videant oculi mei filios vestros priusquam moriar.
 

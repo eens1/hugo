@@ -7,17 +7,17 @@ draft: false
 
 1 Laus Cantici ipsi David. Venite, exultemus Domino: iubilemus Deo salutari nostro:
 
-2 Præoccupemus faciem eius in confessione: et in psalmis iubilemus ei.
+2 Praeoccupemus faciem eius in confessione: et in psalmis iubilemus ei.
 
 3 Quoniam Deus magnus Dominus: et rex magnus super omnes deos.
 
-4 Quia in manu eius sunt omnes fines terræ: et altitudines montium ipsius sunt.
+4 Quia in manu eius sunt omnes fines terrae: et altitudines montium ipsius sunt.
 
 5 Quoniam ipsius est mare, et ipse fecit illud: et siccam manus eius formaverunt.
 
 6 Venite adoremus, et procidamus: et ploremus ante Dominum, qui fecit nos.
 
-7 Quia ipse est Dominus Deus noster: et nos populus pascuæ eius, et oves manus eius.
+7 Quia ipse est Dominus Deus noster: et nos populus pascuae eius, et oves manus eius.
 
 8 Hodie si vocem eius audieritis, nolite obdurare corda vestra;
 

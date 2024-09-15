@@ -25,14 +25,14 @@ summary: |
 
 ***Note*** :  Ps. 77, 3 : Combien de grandes choses, etc. ; c’est un des compléments du verbe précédent je dirai.
 
-4 Elles n'ont pas été cachées à leurs fils dans une autre génération. Ils ont raconté les louanges du Seigneur, ses œuvres puissantes, et ses merveilles qu'il a faites ;
+4 Elles n'ont pas été cachées à leurs fils dans une autre génération. Ils ont raconté les louanges du Seigneur, ses oeuvres puissantes, et ses merveilles qu'il a faites ;
 
 
 5 Et a suscité un témoignage dans Jacob; et a établi une loi dans Israël : Combien de grandes choses il a commandé à nos pères de faire connaître à leurs fils,
 
 ***Note*** :  Ps. 77, 5 : Témoignage, le mot hébreu rendu dans les Septante et la Vulgate par témoignage signifie précepte, ordonnance, décret, loi ; c’est probablement ce dernier sens qu’il a ici. ― Combien de grandes choses, etc. Voir Psaumes, note précédente.
 
-6 Afin qu'une autre génération les connaisse. Les fils qui naîtront et s'élèveront après eux les raconteront à leurs fils, 7 Afin qu'ils mettent en Dieu leur espérance, qu'ils n'oublient pas ses œuvres, et qu'ils recherchent ses commandements. 8 De peur qu'ils ne deviennent comme leurs pères une génération perverse et exaspérant Dieu ; Une génération qui n'a point dirigé son cœur, et dont l'esprit ne s'est point confié en Dieu.
+6 Afin qu'une autre génération les connaisse. Les fils qui naîtront et s'élèveront après eux les raconteront à leurs fils, 7 Afin qu'ils mettent en Dieu leur espérance, qu'ils n'oublient pas ses oeuvres, et qu'ils recherchent ses commandements. 8 De peur qu'ils ne deviennent comme leurs pères une génération perverse et exaspérant Dieu ; Une génération qui n'a point dirigé son coeur, et dont l'esprit ne s'est point confié en Dieu.
 
 
 9 Les fils d'Ephraïm, habiles à tendre l'arc et à en tirer, ont tourné le dos au jour du combat.
@@ -63,9 +63,9 @@ summary: |
 
 ***Note*** :  Ps. 77, 17 : Mais ils péchèrent de nouveau ; littéralement et par hébraïsme : Ils ajoutèrent à pécher. Voir fin des Observations préliminaires, 2°.
 
-18 Et ils tentèrent Dieu dans leurs cœurs, au point qu'ils demandèrent une nourriture pour leurs âmes.
+18 Et ils tentèrent Dieu dans leurs coeurs, au point qu'ils demandèrent une nourriture pour leurs âmes.
 
-***Note*** :  Ps. 77, 18 : Ils tentèrent Dieu dans leurs cœurs ; en ce qu’au lieu de s’adresser à lui, ils se livrèrent aux murmures. ― Pour leurs âmes ; pour leurs personnes, pour eux.
+***Note*** :  Ps. 77, 18 : Ils tentèrent Dieu dans leurs coeurs ; en ce qu’au lieu de s’adresser à lui, ils se livrèrent aux murmures. ― Pour leurs âmes ; pour leurs personnes, pour eux.
 
 19 Et ils parlèrent mal de Dieu, ils dirent : Est-ce que Dieu pourra préparer une table dans le désert? 20 Parce qu'il a frappé une pierre, et que des eaux ont coulé; et que des torrents ont débordé. Est-ce qu'il pourra aussi donner du pain et préparer une table pour son peuple?
 
@@ -103,7 +103,7 @@ summary: |
 32 Au milieu de tous ces prodiges ils péchèrent encore, et ne crurent pas à ses merveilles. 33 Et leurs jours se terminèrent vainement, et leurs années avec rapidité.
 
 
-34 Lorsqu'il les tuait, ils le cherchaient, et ils revenaient, et, dès le point du jour, ils venaient à lui. 35 Et ils se souvinrent que Dieu était leur aide, et que le Dieu très haut était leur rédempteur. 36 Mais ils l'aimèrent de bouche seulement, et ils lui mentirent par leur langue; 37 Car leur cœur n'était pas droit avec lui, et ils ne furent pas trouvés fidèles à son alliance.
+34 Lorsqu'il les tuait, ils le cherchaient, et ils revenaient, et, dès le point du jour, ils venaient à lui. 35 Et ils se souvinrent que Dieu était leur aide, et que le Dieu très haut était leur rédempteur. 36 Mais ils l'aimèrent de bouche seulement, et ils lui mentirent par leur langue; 37 Car leur coeur n'était pas droit avec lui, et ils ne furent pas trouvés fidèles à son alliance.
 
 
 38 Mais lui est miséricordieux, il pardonnera leurs péchés, et ne les perdra pas entièrement. Et souvent il détourna sa colère, et il n'alluma pas toute sa colère.
@@ -185,7 +185,7 @@ summary: |
 ***Note*** :  Ps. 77, 69 : Le sanctuaire dans la terre de Juda était unique comme la corne d’une licorne est unique sur le front de cet animal. D’un autre côté, la corne, en général, est le symbole de la gloire, de la force, de l’empire et de l’élévation : toutes choses qui conviennent parfaitement au temple de Jérusalem. ― De licornes. Voir Psaumes, 21, 22.
 
 
-70 Il choisit David son serviteur, et il le tira du milieu des troupeaux de brebis : il le prit à la suite de celles qui étaient pleines, 71 Pour être le pasteur de Jacob son serviteur, et d'Israël son héritage. 72 Et David les fit paître dans l'innocence de son cœur, et avec ses mains habiles, il les conduisit.
+70 Il choisit David son serviteur, et il le tira du milieu des troupeaux de brebis : il le prit à la suite de celles qui étaient pleines, 71 Pour être le pasteur de Jacob son serviteur, et d'Israël son héritage. 72 Et David les fit paître dans l'innocence de son coeur, et avec ses mains habiles, il les conduisit.
 
 ***Note*** :  Ps. 77, 72 : Avec ses mains habiles ; littéralement avec les intelligences de ses mains. Le Psalmiste, dans les trois derniers versets, relève la droiture, la prudence et la sagesse de David, mort depuis quelques temps, pour convaincre de plus en plus Ephraïm de son ingratitude, d’avoir abandonné la maison de ce prince si juste, si sage, si religieux, et si manifestement choisi de Dieu.
 

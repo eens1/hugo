@@ -37,14 +37,14 @@ summary: |
 
 ***Note*** :  Ps. 37, 8 : Mes reins, etc. Les Pères et la plupart des interprètes expliquent ces paroles de mouvements déréglés que David éprouvait, et qu’il regardait comme une suite et une punition de son péché. Les Hébreux aussi bien que les Grecs plaçaient dans les reins le siège des passions voluptueuses.
 
-9 J'ai été affligé et j'ai été humilié à l'excès; je rugissais dans le frémissement de mon cœur.
+9 J'ai été affligé et j'ai été humilié à l'excès; je rugissais dans le frémissement de mon coeur.
 
 
 10 Seigneur, devant vous est tout mon désir, mon gémissement ne vous est pas caché.
 
 ***Note*** :  Ps. 37, 10-15 : Suite du tableau du mal que fait le péché.
 
-11 Mon cœur a été troublé, ma force m'a abandonné, et la lumière de mes yeux, elle-même n'est plus avec moi.
+11 Mon coeur a été troublé, ma force m'a abandonné, et la lumière de mes yeux, elle-même n'est plus avec moi.
 
 
 12 Mes amis et mes proches se sont approchés vis-à-vis de moi, et ils se sont arrêtés. Et ceux qui étaient près de moi s'en sont tenus éloignés :13 Et ceux qui cherchaient mon âme usaient de violence envers moi. Et ceux qui me désiraient des maux ont dit des choses vaines : et tout le jour ils méditaient des fourberies.

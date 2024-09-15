@@ -7,11 +7,11 @@ draft: false
 
 1 Paulus vocatus Apostolus Iesu Christi per voluntatem Dei, et Sosthenes frater,
 
-2 Ecclesiæ Dei, quæ est Corinthi, sanctificatis in Christo Iesu, vocatis sanctis, cum omnibus, qui invocant nomen Domini nostri Iesu Christi, in omni loco ipsorum, et nostro.
+2 Ecclesiae Dei, quae est Corinthi, sanctificatis in Christo Iesu, vocatis sanctis, cum omnibus, qui invocant nomen Domini nostri Iesu Christi, in omni loco ipsorum, et nostro.
 
 3 Gratia vobis, et pax a Deo Patre nostro, et Domino Iesu Christo.
 
-4 Gratias ago Deo meo semper pro vobis in gratia Dei, quæ data est vobis in Christo Iesu:
+4 Gratias ago Deo meo semper pro vobis in gratia Dei, quae data est vobis in Christo Iesu:
 
 5 quod in omnibus divites facti estis in illo, in omni verbo, et in omni scientia:
 
@@ -27,7 +27,7 @@ draft: false
 
 11 Significatum est enim mihi de vobis fratres mei ab iis, qui sunt Chloes, quia contentiones sunt inter vos.
 
-12 Hoc autem dico, quod unusquisque vestrum dicit: Ego quidem sum Pauli: ego autem Apollo: ego vero Cephæ: ego autem Christi.
+12 Hoc autem dico, quod unusquisque vestrum dicit: Ego quidem sum Pauli: ego autem Apollo: ego vero Cephae: ego autem Christi.
 
 13 Divisus est Christus? Numquid Paulus crucifixus est pro vobis? aut in nomine Pauli baptizati estis?
 
@@ -35,7 +35,7 @@ draft: false
 
 15 nequis dicat quod in nomine meo baptizati estis.
 
-16 Baptizavi autem et Stephanæ domum: ceterum nescio si quem alium baptizaverim.
+16 Baptizavi autem et Stephanae domum: ceterum nescio si quem alium baptizaverim.
 
 17 Non enim misit me Christus baptizare, sed evangelizare: non in sapientia verbi, ut non evacuetur crux Christi.
 
@@ -43,23 +43,23 @@ draft: false
 
 19 Scriptum est enim: Perdam sapientiam sapientium, et prudentiam prudentium reprobabo.
 
-20 Ubi sapiens? ubi scriba? ubi conquisitor huius sæculi? Nonne stultam fecit Deus sapientiam huius mundi?
+20 Ubi sapiens? ubi scriba? ubi conquisitor huius saeculi? Nonne stultam fecit Deus sapientiam huius mundi?
 
-21 Nam quia in Dei sapientia non cognovit mundus per sapientiam Deum: placuit Deo per stultitiam prædicationis salvos facere credentes.
+21 Nam quia in Dei sapientia non cognovit mundus per sapientiam Deum: placuit Deo per stultitiam praedicationis salvos facere credentes.
 
-22 Quoniam et Iudæi signa petunt, et Græci sapientiam quærunt:
+22 Quoniam et Iudaei signa petunt, et Graeci sapientiam quaerunt:
 
-23 nos autem prædicamus Christum crucifixum: Iudæis quidem scandalum, Gentibus autem stultitiam,
+23 nos autem praedicamus Christum crucifixum: Iudaeis quidem scandalum, Gentibus autem stultitiam,
 
-24 ipsis autem vocatis Iudæis, atque Græcis Christum Dei virtutem, et Dei sapientia:
+24 ipsis autem vocatis Iudaeis, atque Graecis Christum Dei virtutem, et Dei sapientia:
 
 25 quia quod stultum est Dei, sapientius est hominibus: et quod infirmum est Dei, fortius est hominibus.
 
 26 Videte enim vocationem vestram fratres, quia non multi sapientes secundum carnem, non multi potentes, non multi nobiles:
 
-27 sed quæ stulta sunt mundi elegit Deus, ut confundat sapientes: et infirma mundi elegit Deus, ut confundat fortia:
+27 sed quae stulta sunt mundi elegit Deus, ut confundat sapientes: et infirma mundi elegit Deus, ut confundat fortia:
 
-28 et ignobilia mundi, et contemptibilia elegit Deus, et ea, quæ non sunt, ut ea quæ sunt destrueret:
+28 et ignobilia mundi, et contemptibilia elegit Deus, et ea, quae non sunt, ut ea quae sunt destrueret:
 
 29 ut non glorietur omnis caro in conspectu eius.
 

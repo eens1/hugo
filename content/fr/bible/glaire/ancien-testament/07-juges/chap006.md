@@ -12,7 +12,7 @@ summary: |
 
 ***Note*** :  Juges 6, 3 : Tous les autres peuples des nations orientales. En hébreu, Benê-Qédem, ou Fils de l’Orient, désignent toujours dans la Bible les Arabes nomades ou Bédouins qui habitent l’Arabie déserte, depuis la Pérée jusqu’à l’Euphrate. Voir Juges, 6, vv. 3, 33 ; 7, 12 ; Job, 1, 3 ; 3 Rois, 5, 10 ; Isaïe, 11, 14 ; Jérémie, 49, 28 (où Benê-Qédem désigne spécialement les Benê-Qêdar ou habitants du Hauran) ; Ezéchiel, 25, vv. 4, 10.
 
-4 Et plantant chez eux leurs tentes, comme ils étaient au milieu des moissons, ils ravageaient tout jusqu'à Gaza; et ils ne laissaient absolument rien en Israël, de tout ce qui était nécessaire à la vie, ni brebis, ni bœufs, ni ânes.
+4 Et plantant chez eux leurs tentes, comme ils étaient au milieu des moissons, ils ravageaient tout jusqu'à Gaza; et ils ne laissaient absolument rien en Israël, de tout ce qui était nécessaire à la vie, ni brebis, ni boeufs, ni ânes.
 
 ***Note*** :  Juges 6, 4 : Des moissons ; littéralement des herbes ; hébraïsme, du produit de la terre. ― Jusqu’à Gaza. Voir Josué, 10, 41.
 

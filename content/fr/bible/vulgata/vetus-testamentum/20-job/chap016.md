@@ -21,11 +21,11 @@ draft: false
 
 8 Nunc autem oppressit me dolor meus, et in nihilum redacti sunt omnes artus mei.
 
-9 Rugæ meæ testimonium dicunt contra me, et suscitatur falsiloquus adversus faciem meam contradicens mihi.
+9 Rugae meae testimonium dicunt contra me, et suscitatur falsiloquus adversus faciem meam contradicens mihi.
 
 10 Collegit furorem suum in me, et comminans mihi, infremuit contra me dentibus suis: hostis meus terribilibus oculis me intuitus est.
 
-11 Aperuerunt super me ora sua, et exprobrantes percusserunt maxillam meam, saciati sunt pœnis meis.
+11 Aperuerunt super me ora sua, et exprobrantes percusserunt maxillam meam, saciati sunt poenis meis.
 
 12 Conclusit me Deus apud iniquum, et manibus impiorum me tradidit.
 
@@ -37,13 +37,13 @@ draft: false
 
 16 Saccum consui super cutem meam, et operui cinere carnem meam.
 
-17 Facies mea intumuit a fletu, et palpebræ meæ caligaverunt.
+17 Facies mea intumuit a fletu, et palpebrae meae caligaverunt.
 
-18 Hæc passus sum absque iniquitate manus meæ, cum haberem mundas ad Deum preces.
+18 Haec passus sum absque iniquitate manus meae, cum haberem mundas ad Deum preces.
 
 19 Terra ne operias sanguinem meum, neque inveniat in te locum latendi clamor meus.
 
-20 Ecce enim in cælo testis meus, et conscius meus in excelsis.
+20 Ecce enim in caelo testis meus, et conscius meus in excelsis.
 
 21 Verbosi amivi mei: ad Deum stillat oculus meus.
 

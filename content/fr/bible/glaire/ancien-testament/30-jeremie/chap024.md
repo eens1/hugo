@@ -31,9 +31,9 @@ summary: |
 
 ***Note*** :  Jr. 24, 5 : Les fils de la transmigration. C’est ainsi que sont nommés les Juifs exilés, dans Esdras et dans Daniel. Il est d’ailleurs incontestable que transmigration est mis ici pour ceux qui faisaient partie de la transmigration.
 
-6 Et je porterai sur eux un regard favorable, et je les ramènerai dans cette terre; je les rétablirai, et je ne les détruirai pas; je les planterai, et je ne les arracherai pas. 7 Et je leur donnerai un cœur, afin qu'ils me connaissent, parce que moi je suis le Seigneur ; et ils seront mon peuple, et je serai leur Dieu, parce qu'ils reviendront à moi en tout leur cœur.
+6 Et je porterai sur eux un regard favorable, et je les ramènerai dans cette terre; je les rétablirai, et je ne les détruirai pas; je les planterai, et je ne les arracherai pas. 7 Et je leur donnerai un coeur, afin qu'ils me connaissent, parce que moi je suis le Seigneur ; et ils seront mon peuple, et je serai leur Dieu, parce qu'ils reviendront à moi en tout leur coeur.
 
-***Note*** :  Jr. 24, 7 : Voir Jérémie, 7, 23 ; 31, 33. ― Cœur ; signifie souvent en hébreu, esprit, intelligence.
+***Note*** :  Jr. 24, 7 : Voir Jérémie, 7, 23 ; 31, 33. ― Coeur ; signifie souvent en hébreu, esprit, intelligence.
 
 
 8 Quant à ces figues très mauvaises, qui ne peuvent être mangées, parce qu'elles sont mauvaises, voici ce que dit le Seigneur : Ainsi je traiterai Sédécias, roi de Juda, et ses princes, et les restes de Jérusalem qui sont demeurés dans cette ville, et ceux qui habitent dans la terre d'Egypte.

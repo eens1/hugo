@@ -108,13 +108,13 @@ Le Seigneur a fait ce qu'il a résolu; il a accompli la parole qu'il avait décr
 
 
 18 SADÉ.
-Leur cœur a crié vers le Seigneur sur les murs de la fille de Sion : Fais couler comme un torrent de larmes pendant le jour et pendant la nuit; ne te donne pas de repos, et que la prunelle de ton œil ne se taise pas.
+Leur coeur a crié vers le Seigneur sur les murs de la fille de Sion : Fais couler comme un torrent de larmes pendant le jour et pendant la nuit; ne te donne pas de repos, et que la prunelle de ton oeil ne se taise pas.
 
 ***Note*** :  Lm. 2, 18 : Voir Jérémie, 14, 17 ; Lamentations de Jérémie, 1, 16.
 
 
 19 COPH.
-Lève-toi, loue le Seigneur pendant la nuit, au commencement des veilles : répands, comme l'eau, ton cœur, en la présence du Seigneur; lève vers lui tes mains pour l'âme de tes petits enfants qui ont défailli par la faim, à la tête de tous les carrefours.
+Lève-toi, loue le Seigneur pendant la nuit, au commencement des veilles : répands, comme l'eau, ton coeur, en la présence du Seigneur; lève vers lui tes mains pour l'âme de tes petits enfants qui ont défailli par la faim, à la tête de tous les carrefours.
 
 
 20 RES.

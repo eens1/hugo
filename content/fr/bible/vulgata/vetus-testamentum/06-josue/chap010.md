@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Quæ cum audisset Adonisedec rex Ierusalem, quod scilicet cepisset Iosue Hai, et subvertisset eam (sicut enim fecerat Iericho et regi eius, sic fecit Hai, et regi illius) et quod transfugissent Gabaonitæ ad Israel, et essent fœderati eorum,
+1 Quae cum audisset Adonisedec rex Ierusalem, quod scilicet cepisset Iosue Hai, et subvertisset eam (sicut enim fecerat Iericho et regi eius, sic fecit Hai, et regi illius) et quod transfugissent Gabaonitae ad Israel, et essent foederati eorum,
 
 2 timuit valde. Urbs enim magna erat Gabaon, et una civitatum regalium, et maior oppido Hai, omnesque bellatores eius fortissimi.
 
 3 Misit ergo Adonisedec rex Ierusalem ad Oham regem Hebron, et ad Pharam regem Ierimoth, ad Iaphia quoque regem Lachis, et ad Dabir regem Eglon, dicens:
 
-4 Ad me ascendite, et ferte præsidium, ut expugnemus Gabaon, quare transfugerit ad Iosue, et ad filios Israel.
+4 Ad me ascendite, et ferte praesidium, ut expugnemus Gabaon, quare transfugerit ad Iosue, et ad filios Israel.
 
-5 Congregati igitur ascenderunt quinque reges Amorrhæorum: rex Ierusalem, rex Hebron, rex Ierimoth, rex Lachis, rex Eglon, simul cum exercitibus suis, et castrametati sunt circa Gabaon, oppugnantes eam.
+5 Congregati igitur ascenderunt quinque reges Amorrhaeorum: rex Ierusalem, rex Hebron, rex Ierimoth, rex Lachis, rex Eglon, simul cum exercitibus suis, et castrametati sunt circa Gabaon, oppugnantes eam.
 
-6 Habitatores autem Gabaon urbis obsessæ miserunt ad Iosue, qui tunc morabatur in castris apud Galgalam, et dixerunt ei: Ne retrahas manus tuas ab auxilio servorum tuorum: ascende cito, et libera nos, ferque præsidium: convenerunt enim adversum nos omnes reges Amorrhæorum, qui habitant in montanis.
+6 Habitatores autem Gabaon urbis obsessae miserunt ad Iosue, qui tunc morabatur in castris apud Galgalam, et dixerunt ei: Ne retrahas manus tuas ab auxilio servorum tuorum: ascende cito, et libera nos, ferque praesidium: convenerunt enim adversum nos omnes reges Amorrhaeorum, qui habitant in montanis.
 
 7 Ascenditque Iosue de Galgalis, et omnis exercitus bellatorum cum eo, viri fortissimi.
 
@@ -25,29 +25,29 @@ draft: false
 
 10 Et conturbavit eos Dominus a facie Israel: contrivitque plaga magna in Gabaon, ac persecutus est eos per viam ascensus Beth horon, et percussit usque Azeca et Maceda.
 
-11 Cumque fugerent filios Israel, et essent in descensu Beth horon, Dominus misit super eos lapides magnos de cælo usque ad Azeca: et mortui sunt multo plures lapidibus grandinis, quam quos gladio percusserant filii Israel.
+11 Cumque fugerent filios Israel, et essent in descensu Beth horon, Dominus misit super eos lapides magnos de caelo usque ad Azeca: et mortui sunt multo plures lapidibus grandinis, quam quos gladio percusserant filii Israel.
 
-12 Tunc locutus est Iosue Domino in die, qua tradidit Amorrhæum in conspectu filiorum Israel, dixitque coram eis: Sol contra Gabaon ne movearis, et Luna contra vallem Aialon.
+12 Tunc locutus est Iosue Domino in die, qua tradidit Amorrhaeum in conspectu filiorum Israel, dixitque coram eis: Sol contra Gabaon ne movearis, et Luna contra vallem Aialon.
 
-13 Steteruntque Sol et Luna, donec ulcisceretur se gens de inimicis suis. Nonne scriptum est hoc in libro iustorum? Stetit itaque Sol in medio cæli, et non festinavit occumbere spatio unius diei.
+13 Steteruntque Sol et Luna, donec ulcisceretur se gens de inimicis suis. Nonne scriptum est hoc in libro iustorum? Stetit itaque Sol in medio caeli, et non festinavit occumbere spatio unius diei.
 
 14 Non fuit antea nec postea tam longa dies, obediente Domino voci hominis, et pugnante pro Israel.
 
-15 Reversusque est Iosue cum omni Israel in castra Galgalæ.
+15 Reversusque est Iosue cum omni Israel in castra Galgalae.
 
 16 Fugerant enim quinque reges, et se absconderant in spelunca urbis Maceda.
 
 17 Nunciatumque est Iosue quod inventi essent quinque reges latentes in spelunca urbis Maceda.
 
-18 Qui præcepit sociis, et ait: Volvite saxa ingentia ad os speluncæ, et ponite viros industrios, qui clausos custodiant:
+18 Qui praecepit sociis, et ait: Volvite saxa ingentia ad os speluncae, et ponite viros industrios, qui clausos custodiant:
 
-19 vos autem nolite stare, sed persequimini hostes, et extremos quosque fugientium cædite: nec dimittatis eos urbium suarum intrare præsidia, quos tradidit Dominus Deus in manus vestras.
+19 vos autem nolite stare, sed persequimini hostes, et extremos quosque fugientium caedite: nec dimittatis eos urbium suarum intrare praesidia, quos tradidit Dominus Deus in manus vestras.
 
-20 Cæsis ergo adversariis plaga magna, et usque ad internecionem pene consumptis, hi, qui Israel effugere potuerunt, ingressi sunt civitates munitas.
+20 Caesis ergo adversariis plaga magna, et usque ad internecionem pene consumptis, hi, qui Israel effugere potuerunt, ingressi sunt civitates munitas.
 
 21 Reversusque est omnis exercitus ad Iosue in Maceda, ubi tunc erant castra, sani et integro numero: nullusque contra filios Israel mutire ausus est.
 
-22 Præcepitque Iosue, dicens: Aperite os speluncæ, et producite ad me quinque reges, qui in ea latitant.
+22 Praecepitque Iosue, dicens: Aperite os speluncae, et producite ad me quinque reges, qui in ea latitant.
 
 23 Feceruntque ministri ut sibi fuerat imperatum: et eduxerunt ad eum quinque reges de spelunca, regem Ierusalem, regem Hebron, regem Ierimoth, regem Lachis, regem Eglon.
 
@@ -57,7 +57,7 @@ draft: false
 
 26 Percussitque Iosue, et interfecit eos, atque suspendit super quinque stipites: fueruntque suspensi usque ad vesperum.
 
-27 Cumque occumberet sol, præcepit sociis ut deponerent eos de patibulis. Qui depositos proiecerunt in speluncam, in qua latuerant, et posuerunt super os eius saxa ingentia, quæ permanent usque in præsens.
+27 Cumque occumberet sol, praecepit sociis ut deponerent eos de patibulis. Qui depositos proiecerunt in speluncam, in qua latuerant, et posuerunt super os eius saxa ingentia, quae permanent usque in praesens.
 
 28 Eodem quoque die Macedam cepit Iosue, et percussit eam in ore gladii, regemque illius interfecit, et omnes habitatores eius: non dimisit in ea saltem parvas reliquias. Fecitque regi Maceda, sicut fecerat regi Iericho.
 
@@ -67,23 +67,23 @@ draft: false
 
 31 De Lebna transivit in Lachis cum omni Israel: et exercitu per gyrum disposito oppugnabat eam.
 
-32 Tradiditque Dominus Lachis in manus Israel, et cepit eam die altero, atque percussit in ore gladii, omnemque animam quæ fuerat in ea, sicut fecerat Lebna.
+32 Tradiditque Dominus Lachis in manus Israel, et cepit eam die altero, atque percussit in ore gladii, omnemque animam quae fuerat in ea, sicut fecerat Lebna.
 
 33 Eo tempore ascendit Horam rex Gazer, ut auxiliaretur Lachis: quem percussit Iosue cum omni populo eius usque ad internecionem.
 
 34 Transivitque de Lachis in Eglon, et circumdedit,
 
-35 atque expugnavit eam eadem die: percussitque in ore gladii omnes animas, quæ erant in ea iuxta omnia quæ fecerat Lachis.
+35 atque expugnavit eam eadem die: percussitque in ore gladii omnes animas, quae erant in ea iuxta omnia quae fecerat Lachis.
 
 36 Ascendit quoque cum omni Israel de Eglon in Hebron, et pugnavit contra eam:
 
-37 cepit eam, et percussit in ore gladii, regem quoque eius, et omnia oppida regionis illius, universasque animas, quæ in ea fuerant commoratæ: non reliquit in ea ullas reliquias: sicut fecerat Eglon, sic fecit et Hebron, cuncta quæ in ea reperit consumens gladio.
+37 cepit eam, et percussit in ore gladii, regem quoque eius, et omnia oppida regionis illius, universasque animas, quae in ea fuerant commoratae: non reliquit in ea ullas reliquias: sicut fecerat Eglon, sic fecit et Hebron, cuncta quae in ea reperit consumens gladio.
 
 38 Inde reversus in Dabir,
 
 39 cepit eam atque vastavit: regem quoque eius atque omnia per circuitum oppida percussit in ore gladii: non dimisit in ea ullas reliquias: sicut fecerat Hebron et Lebna et regibus earum, sic fecit Dabir et regi illius.
 
-40 Percussit itaque Iosue omnem Terram montanam et meridianam atque campestrem, et Asedoth cum regibus suis: non dimisit in ea ullas reliquias, sed omne quod spirare poterat interfecit, sicut præceperat ei Dominus Deus Israel,
+40 Percussit itaque Iosue omnem Terram montanam et meridianam atque campestrem, et Asedoth cum regibus suis: non dimisit in ea ullas reliquias, sed omne quod spirare poterat interfecit, sicut praeceperat ei Dominus Deus Israel,
 
 41 a Cadesbarne usque Gazam. Omnem Terram Gosen usque Gabaon,
 

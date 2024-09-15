@@ -41,9 +41,9 @@ summary: |
 ***Note*** :  Is. 51, 6 : Voir Psaumes, 36, 39 ; Matthieu, 24, 35.
 
 
-7 Ecoutez-moi, vous qui savez ce qui est juste, mon peuple, dans le cœur de qui est ma loi ; ne craignez pas l'opprobre des hommes, n'appréhendez pas leurs outrages.
+7 Ecoutez-moi, vous qui savez ce qui est juste, mon peuple, dans le coeur de qui est ma loi ; ne craignez pas l'opprobre des hommes, n'appréhendez pas leurs outrages.
 
-***Note*** :  Is. 51, 7 : Voir Psaumes, 36, 31. ― Dans le cœur de qui ; littéralement et par hébraïsme dans leur cœur. En hébreu, le pronom conjonctif ou relatif se sous-entend très souvent. Quant au pronom possessif leur (eorum) il est au pluriel également dans l’hébreu et dans les Septante, parce qu’il se rapporte à peuple qui est un nom collectif.
+***Note*** :  Is. 51, 7 : Voir Psaumes, 36, 31. ― Dans le coeur de qui ; littéralement et par hébraïsme dans leur coeur. En hébreu, le pronom conjonctif ou relatif se sous-entend très souvent. Quant au pronom possessif leur (eorum) il est au pluriel également dans l’hébreu et dans les Septante, parce qu’il se rapporte à peuple qui est un nom collectif.
 
 8 Comme un vêtement, le ver les rongera, et comme la laine , la teigne les dévorera ; mais mon salut sera à jamais, et ma justice dans toutes les générations.
 
@@ -89,7 +89,7 @@ summary: |
 
 20 Tes fils ont été jetés par terre, et ils sont couchés dans tous les carrefours, comme un oryx pris dans les filets; pleins de l'indignation du Seigneur, et de la réprimande de ton Dieu.
 
-***Note*** :  Is. 51, 20 : Comme un oryx ; bœuf sauvage. D’autres traduisent : comme une gazelle.
+***Note*** :  Is. 51, 20 : Comme un oryx ; boeuf sauvage. D’autres traduisent : comme une gazelle.
 
 
 21 C'est pourquoi écoute ceci, Jérusalem, pauvre et ivre, non de vin.

@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Arphaxad itaque, rex Medorum, subiugaverat multas gentes imperio suo, et ipse ædificavit civitatem potentissimam, quam appellavit Ecbatanis,
+1 Arphaxad itaque, rex Medorum, subiugaverat multas gentes imperio suo, et ipse aedificavit civitatem potentissimam, quam appellavit Ecbatanis,
 
 2 ex lapidibus quadratis et sectis: fecit muros eius in altitudinem cubitorum septuaginta, et in latitudinem cubitorum triginta, turres vero eius posuit in altitudinem cubitorum centum.
 
@@ -19,9 +19,9 @@ draft: false
 
 7 Tunc exaltatum est regnum Nabuchodonosor, et cor eius elevatum est: et misit ad omnes, qui habitabant in Cilicia, et Damasco, et Libano,
 
-8 et ad gentes quæ sunt in Carmelo, et Cedar, et inhabitantes Galilæam in campo magno Esdrelon,
+8 et ad gentes quae sunt in Carmelo, et Cedar, et inhabitantes Galilaeam in campo magno Esdrelon,
 
-9 et ad omnes qui erant in Samaria, et trans flumen Iordanem usque ad Ierusalem, et omnem terram Iesse quousque perveniatur ad terminos Æthiopiæ.
+9 et ad omnes qui erant in Samaria, et trans flumen Iordanem usque ad Ierusalem, et omnem terram Iesse quousque perveniatur ad terminos AEthiopiae.
 
 10 Ad hos omnes misit nuncios Nabuchodonosor rex Assyriorum:
 

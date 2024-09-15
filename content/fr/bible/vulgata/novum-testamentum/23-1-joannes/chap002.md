@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Filioli mei, hæc scribo vobis, ut non peccetis. Sed et si quis peccaverit, advocatum habemus apud Patrem, Iesum Christum iustum:
+1 Filioli mei, haec scribo vobis, ut non peccetis. Sed et si quis peccaverit, advocatum habemus apud Patrem, Iesum Christum iustum:
 
 2 et ipse est propitiatio pro peccatis nostris: non pro nostris autem tantum, sed etiam pro totius mundi.
 
@@ -19,13 +19,13 @@ draft: false
 
 7 Charissimi, non mandatum novum scribo vobis, sed mandatum vetus, quod habuistis ab initio: Mandatum vetus est verbum, quod audistis.
 
-8 Iterum mandatum novum scribo vobis, quod verum est et in ipso, et in vobis: quia tenebræ transierunt, et verum lumen iam lucet.
+8 Iterum mandatum novum scribo vobis, quod verum est et in ipso, et in vobis: quia tenebrae transierunt, et verum lumen iam lucet.
 
 9 Qui dicit se in luce esse, et fratrem suum odit, in tenebris est usque adhuc.
 
 10 Qui diligit fratrem suum, in lumine manet, et scandalum in eo non est.
 
-11 Qui autem odit fratrem suum, in tenebris est, et in tenebris ambulat, et nescit quo eat: quia tenebræ obcæcaverunt oculos eius.
+11 Qui autem odit fratrem suum, in tenebris est, et in tenebris ambulat, et nescit quo eat: quia tenebrae obcaecaverunt oculos eius.
 
 12 Scribo vobis, filioli, quoniam remittuntur vobis peccata propter nomen eius.
 
@@ -33,11 +33,11 @@ draft: false
 
 14 Scribo vobis infantes, quoniam cognovistis patrem. Scribo vobis iuvenes, quoniam fortes estis, et verbum Dei manet in vobis, et vicistis malignum.
 
-15 Nolite diligere mundum, neque ea, quæ in mundo sunt. Si quis diligit mundum, non est charitas Patris in eo:
+15 Nolite diligere mundum, neque ea, quae in mundo sunt. Si quis diligit mundum, non est charitas Patris in eo:
 
-16 quoniam omne, quod est in mundo, concupiscentia carnis est, et concupiscentia oculorum, et superbia vitæ: quæ non est ex Patre, sed ex mundo est.
+16 quoniam omne, quod est in mundo, concupiscentia carnis est, et concupiscentia oculorum, et superbia vitae: quae non est ex Patre, sed ex mundo est.
 
-17 Et mundus transit, et concupiscentia eius. Qui autem facit voluntatem Dei, manet in æternum.
+17 Et mundus transit, et concupiscentia eius. Qui autem facit voluntatem Dei, manet in aeternum.
 
 18 Filioli, novissima hora est: et sicut audistis quia Antichristus venit: et nunc Antichristi multi facti sunt; unde scimus, quia novissima hora est.
 
@@ -53,9 +53,9 @@ draft: false
 
 24 Vos quod audistis ab initio, in vobis permaneat: Si in vobis permanserit quod audistis ab initio, et vos in Filio, et Patre manebitis.
 
-25 Et hæc est repromissio, quam ipse pollicitus est nobis, vitam æternam.
+25 Et haec est repromissio, quam ipse pollicitus est nobis, vitam aeternam.
 
-26 Hæc scripsi vobis de his, qui seducant vos.
+26 Haec scripsi vobis de his, qui seducant vos.
 
 27 Et vos unctionem, quam accepistis ab eo, maneat in vobis. Et non necesse habetis ut aliquis doceat vos: sed sicut unctio eius docet vos de omnibus, et verum est, et non est mendacium. Et sicut docuit vos: manete in eo.
 

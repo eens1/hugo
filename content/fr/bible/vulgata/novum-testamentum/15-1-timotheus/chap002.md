@@ -17,7 +17,7 @@ draft: false
 
 6 qui dedit redemptionem semetipsum pro omnibus, testimonium temporibus suis:
 
-7 in quo positus sum ego prædicator, et Apostolus (veritatem dico, non mentior) doctor Gentium in fide, et veritate.
+7 in quo positus sum ego praedicator, et Apostolus (veritatem dico, non mentior) doctor Gentium in fide, et veritate.
 
 8 Volo ergo viros orare in omni loco, levantes puras manus sine ira, et disceptatione.
 
@@ -31,7 +31,7 @@ draft: false
 
 13 Adam enim primus formatus est: deinde Heva.
 
-14 et Adam non est seductus: mulier autem seducta in prævaricatione fuit.
+14 et Adam non est seductus: mulier autem seducta in praevaricatione fuit.
 
 15 Salvabitur autem per filiorum generationem, si permanserit in fide, et dilectione, et sanctificatione cum sobrietate.
 

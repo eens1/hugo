@@ -15,7 +15,7 @@ summary: |
 
 1 A cause de Sion, je ne me tairai pas, et à cause de Jérusalem, je ne me reposerai pas, jusqu'à ce que paraisse son juste comme une éclatante lumière, et que son sauveur, comme un flambeau, répande sa clarté.
 
-***Note*** :  Is. 62, 1-12 : 5e Discours : Gloire prochaine de Jérusalem, chapitre 62. Le Seigneur ne se taira pas, il ne se reposera pas jusqu’à ce qu’il ait accompli son œuvre de miséricorde, versets 1 à 3. ― Sion redeviendra la bien-aimée de Dieu, versets 4 et 5. ― Les sentinelles de Jérusalem rappellent à Jéhovah sa promesse, jusqu’à ce qu’il l’ait accomplie, versets 6 à 9. ― Le moment du salut approche : que tous se préparent ; le Sauveur vient, versets 10 à 12.
+***Note*** :  Is. 62, 1-12 : 5e Discours : Gloire prochaine de Jérusalem, chapitre 62. Le Seigneur ne se taira pas, il ne se reposera pas jusqu’à ce qu’il ait accompli son oeuvre de miséricorde, versets 1 à 3. ― Sion redeviendra la bien-aimée de Dieu, versets 4 et 5. ― Les sentinelles de Jérusalem rappellent à Jéhovah sa promesse, jusqu’à ce qu’il l’ait accomplie, versets 6 à 9. ― Le moment du salut approche : que tous se préparent ; le Sauveur vient, versets 10 à 12.
 
 ***Note*** :  Is. 62, 1-2 : Le juste et le sauveur, annoncé ici, est Jésus-Christ même, et le nom nouveau que Dieu promet à Jérusalem est celui qu’il a donné à son Eglise en l’appelant l’Eglise de Jésus-Christ, l’Eglise chrétienne.
 
@@ -50,9 +50,9 @@ summary: |
 
 ***Note*** :  Is. 62, 10 : Voir Isaïe, 57, 14.
 
-11 Voilà que le Seigneur a fait entendre jusqu'aux extrémités de la terre : Dites à la fille de Sion : Voici que ton sauveur vient ; voici que sa récompense est avec lui, et que son œuvre est devant lui.
+11 Voilà que le Seigneur a fait entendre jusqu'aux extrémités de la terre : Dites à la fille de Sion : Voici que ton sauveur vient ; voici que sa récompense est avec lui, et que son oeuvre est devant lui.
 
-***Note*** :  Is. 62, 11 : Voir Zacharie, 9, 9 ; Matthieu, 21, 5. ― Sa récompense, son œuvre. Voir Isaïe, 40, 10.
+***Note*** :  Is. 62, 11 : Voir Zacharie, 9, 9 ; Matthieu, 21, 5. ― Sa récompense, son oeuvre. Voir Isaïe, 40, 10.
 
 
 12 Et on les appellera Peuple saint, rachetés par le Seigneur. Mais toi, tu seras appelée Cité recherchée et non délaissée.

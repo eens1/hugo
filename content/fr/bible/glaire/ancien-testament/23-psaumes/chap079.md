@@ -10,7 +10,7 @@ summary: |
 
 1 Pour la fin, pour ceux qui seront changés, témoignage d'Asaph, psaume.
 
-***Note*** :  Ps. 79, 1 : Le titre hébreu porte : « Au chef de chœur. ‘El Schoschannîm. ‘Êdouth. Maskîl. « Voir l’explication de ces mots dans la note 20 à la fin du volume. Les Septante ajoutent : « sur l’Assyrien. ) ― Le royaume d’Israël (ou d’Ephraïm, descendant de Joseph), demande dans un magnifique langage la protection de Dieu contre les Assyriens qui l’oppriment.
+***Note*** :  Ps. 79, 1 : Le titre hébreu porte : « Au chef de choeur. ‘El Schoschannîm. ‘Êdouth. Maskîl. « Voir l’explication de ces mots dans la note 20 à la fin du volume. Les Septante ajoutent : « sur l’Assyrien. ) ― Le royaume d’Israël (ou d’Ephraïm, descendant de Joseph), demande dans un magnifique langage la protection de Dieu contre les Assyriens qui l’oppriment.
 
 
 2 Vous qui gouvernez Israël, soyez attentif : vous qui conduisez, comme une brebis, Joseph. Vous qui êtes assis sur les Chérubins, manifestez-vous

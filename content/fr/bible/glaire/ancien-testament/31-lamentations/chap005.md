@@ -43,16 +43,16 @@ summary: |
 
 ***Note*** :  Lm. 5, 13 : Sous le bois dont on les chargeait, ou avec lequel on les frappait.
 
-14 Des vieillards ont abandonné les portes, et de jeunes hommes, le chœur des joueurs de psaltérion.
+14 Des vieillards ont abandonné les portes, et de jeunes hommes, le choeur des joueurs de psaltérion.
 
 ***Note*** :  Lm. 5, 14 : Les portes de la ville, où se tenaient les assemblées des juges.
 
 
-15 La joie de notre âme a fait défaut; notre chœur a été changé en deuil. 16 Elle est tombée, la couronne de notre tête ; malheur à nous, parce que nous avons péché!
+15 La joie de notre âme a fait défaut; notre choeur a été changé en deuil. 16 Elle est tombée, la couronne de notre tête ; malheur à nous, parce que nous avons péché!
 
 ***Note*** :  Lm. 5, 16 : La couronne, etc. Dans les fêtes, les noces et les festins, on se couronnait de fleurs.
 
-17 A cause de cela, notre cœur est devenu triste; pour cela, nos yeux se sont couverts de ténèbres. 18 A cause de la montagne de Sion, qui a été détruite, les renards s'y sont promenés.
+17 A cause de cela, notre coeur est devenu triste; pour cela, nos yeux se sont couverts de ténèbres. 18 A cause de la montagne de Sion, qui a été détruite, les renards s'y sont promenés.
 
 ***Note*** :  Lm. 5, 18 : Les renards ; proprement les chacals.
 

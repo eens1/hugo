@@ -40,7 +40,7 @@ summary: |
 
 17 Tu feras aussi un propitiatoire d'un or très pur : la longueur tiendra deux coudées et demie, et sa largeur une coudée et demie.
 
-***Note*** :  Ex. 25, 17-18 : Le propitiatoire et l’oracle étaient une même chose (voir Exode, 37, 6). C’est de là que Dieu se rendait propice aux prières et aux vœux de son peuple, et qu’il rendait ses oracles au grand prêtre. ― Chérubins ductiles, pour Chérubins d’un or ductile. ― Le propitiatoire était le couvercle de l’arche.
+***Note*** :  Ex. 25, 17-18 : Le propitiatoire et l’oracle étaient une même chose (voir Exode, 37, 6). C’est de là que Dieu se rendait propice aux prières et aux voeux de son peuple, et qu’il rendait ses oracles au grand prêtre. ― Chérubins ductiles, pour Chérubins d’un or ductile. ― Le propitiatoire était le couvercle de l’arche.
 
 18 Tu feras de plus deux chérubins d'or et ductiles des deux côtés de l'oracle. 19 Qu'un chérubin soit d'un côté et l'autre de l'autre. 20 Qu'ils couvrent les deux côtés du propitiatoire, étendant les ailes et ombrageant l'oracle; et qu'ils se regardent l'un l'autre, les visages tournés vers le propitiatoire, dont doit être couverte l'arche,
 

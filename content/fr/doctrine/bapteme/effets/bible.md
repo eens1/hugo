@@ -9,7 +9,7 @@ draft: false
 
 [^1]: Glaire 1905, p. 2709.
 
-> *Tite 3:5-7* :  "Ce n'est point par les œuvres de sa justice que nous avons faites qu'il nous a sauvés, mais selon sa miséricorde, c'est par le baptême de régénération et de renouvellement de l'Esprit-Saint, qu'il a répandu sur nous abondamment par Jésus-Christ notre Sauveur, afin que, justifiés par sa grâce, nous soyons héritiers selon notre espérance, de la vie éternelle." [^2]
+> *Tite 3:5-7* :  "Ce n'est point par les oeuvres de sa justice que nous avons faites qu'il nous a sauvés, mais selon sa miséricorde, c'est par le baptême de régénération et de renouvellement de l'Esprit-Saint, qu'il a répandu sur nous abondamment par Jésus-Christ notre Sauveur, afin que, justifiés par sa grâce, nous soyons héritiers selon notre espérance, de la vie éternelle." [^2]
 
 [^2]: Glaire 1905, p. 2854.
 

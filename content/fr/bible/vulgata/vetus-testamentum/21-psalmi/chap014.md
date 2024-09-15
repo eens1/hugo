@@ -13,5 +13,5 @@ draft: false
 
 4 Ad nihilum deductus est in conspectu eius malignus: timentes autem Dominum glorificat: Qui iurat proximo suo, et non decipit,
 
-5 qui pecuniam suam non dedit ad usuram, et munera super innocentem non accepit: Qui facit hæc, non movebitur in æternum.
+5 qui pecuniam suam non dedit ad usuram, et munera super innocentem non accepit: Qui facit haec, non movebitur in aeternum.
 

@@ -32,7 +32,7 @@ summary: |
 
 ***Note*** :  Job 26, 9 : La face ; c’est-à-dire le devant. Il tient son trône inaccessible à nos regards.
 
-10 Il a posé des limites autour des eaux pour les retenir jusqu'à ce que finissent la lumière et les ténèbres. 11 Les colonnes des cieux frémissent, et elles tremblent à son clin d'œil. 12 Par sa puissance, soudain les mers se sont rassemblées, et sa prudence a frappé le superbe.
+10 Il a posé des limites autour des eaux pour les retenir jusqu'à ce que finissent la lumière et les ténèbres. 11 Les colonnes des cieux frémissent, et elles tremblent à son clin d'oeil. 12 Par sa puissance, soudain les mers se sont rassemblées, et sa prudence a frappé le superbe.
 
 ***Note*** :  Job 26, 12 : Sa prudence, etc. La Vulgate ne supporte pas d’autre sens. Cependant beaucoup d’interprètes font de superbum un mot neutre synonyme de superbia, ferocia, qu’ils appliquent à maria, qui précède. Le texte hébreu porte : Dans son intelligence, il a frappé l’orgueil, et le grec : Par sa science il a renversé le monstre marin.
 
@@ -43,5 +43,5 @@ summary: |
 
 14 Voilà ce qui a été dit d'une partie de ses voies ; et si c'est avec peine que nous avons entendu un petit mot de sa parole, qui pourra contempler l'éclat des tonnerres de sa grandeur?
 
-***Note*** :  Job 26, 14 : De ses voies ; de sa manière d’agir, de ses œuvres. ― Un petit mot ; littéralement une petite goutte. La parole est souvent comparée dans l’Ecriture à la pluie ou à la rosée. Voir Deutéronome, 32, 2 ; Isaïe, 55, 10-11. ― De sa parole ; c’est-à-dire de la parole qui le concerne, dite à son sujet. ― L’éclat. Ou ce mot est sous-entendu, ou l’antécédent du génitif de sa parole est une goutte (parvam stillam), qui précède ; car il faut nécessairement au verbe contempler (intueri) un accusatif pour complément. Job, ce nous semble, veut dire ici : Je ne vous ai rapporté qu’un bien faible partie des œuvres de la puissance de Dieu. Si donc vous n’avez entendu qu’avec peine le peu de paroles que j’ai dites de lui, comment me supporterez-vous, si je vous fais entendre la voix terrible de son tonnerre, et si je mets sous vos yeux les merveilles de sa grandeur infinie ?
+***Note*** :  Job 26, 14 : De ses voies ; de sa manière d’agir, de ses oeuvres. ― Un petit mot ; littéralement une petite goutte. La parole est souvent comparée dans l’Ecriture à la pluie ou à la rosée. Voir Deutéronome, 32, 2 ; Isaïe, 55, 10-11. ― De sa parole ; c’est-à-dire de la parole qui le concerne, dite à son sujet. ― L’éclat. Ou ce mot est sous-entendu, ou l’antécédent du génitif de sa parole est une goutte (parvam stillam), qui précède ; car il faut nécessairement au verbe contempler (intueri) un accusatif pour complément. Job, ce nous semble, veut dire ici : Je ne vous ai rapporté qu’un bien faible partie des oeuvres de la puissance de Dieu. Si donc vous n’avez entendu qu’avec peine le peu de paroles que j’ai dites de lui, comment me supporterez-vous, si je vous fais entendre la voix terrible de son tonnerre, et si je mets sous vos yeux les merveilles de sa grandeur infinie ?
 

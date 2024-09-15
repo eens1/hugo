@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Post dies multos factum est verbum Domini ad Eliam, in anno tertio dicens: Vade, et ostende te Achab, ut dem pluviam super faciem terræ.
+1 Post dies multos factum est verbum Domini ad Eliam, in anno tertio dicens: Vade, et ostende te Achab, ut dem pluviam super faciem terrae.
 
 2 Ivit ergo Elias, ut ostenderet se Achab: erat autem fames vehemens in Samaria.
 
-3 Vocavitque Achab Abdiam dispensatorem domus suæ: Abdias autem timebat Dominum valde.
+3 Vocavitque Achab Abdiam dispensatorem domus suae: Abdias autem timebat Dominum valde.
 
 4 Nam cum interficeret Iezabel prophetas Domini, tulit ille centum prophetas, et abscondit eos quinquagenos et quinquagenos in speluncis, et pavit eos pane et aqua.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 Et dixit Elias: Vivit Dominus exercituum, ante cuius vultum sto, quia hodie apparebo ei.
 
-16 Abiit ergo Abdias in occursum Achab, et indicavit ei: venitque Achab in occursum Eliæ.
+16 Abiit ergo Abdias in occursum Achab, et indicavit ei: venitque Achab in occursum Eliae.
 
 17 Et cum vidisset eum, ait: Tune es ille, qui conturbas Israel?
 
@@ -47,9 +47,9 @@ draft: false
 
 21 Accedens autem Elias ad omnem populum, ait: Usquequo claudicatis in duas partes? si Dominus est Deus, sequimini eum: si autem Baal, sequimini illum. Et non respondit ei populus verbum.
 
-22 Et ait rursus Elias ad populum: Ego remansi propheta Domini solus: prophetæ autem Baal quadringenti et quinquaginta viri sunt.
+22 Et ait rursus Elias ad populum: Ego remansi propheta Domini solus: prophetae autem Baal quadringenti et quinquaginta viri sunt.
 
-23 Dentur nobis duo boves, et illi eligant sibi bovem unum, et in frustra cædentes ponant super ligna, ignem autem non supponant: et ego faciam bovem alterum, et imponam super ligna, ignem autem non supponam.
+23 Dentur nobis duo boves, et illi eligant sibi bovem unum, et in frustra caedentes ponant super ligna, ignem autem non supponant: et ego faciam bovem alterum, et imponam super ligna, ignem autem non supponam.
 
 24 Invocate nomina deorum vestrorum, et ego invocabo nomen Domini mei: et Deus qui exaudierit per ignem, ipse sit Deus. Respondens omnis populus ait: Optima propositio.
 
@@ -67,25 +67,25 @@ draft: false
 
 31 Et tulit duodecim lapides iuxta numerum tribuum filiorum Iacob, ad quem factus est sermo Domini, dicens: Israel erit nomen tuum.
 
-32 Et ædificavit de lapidibus altare in nomine Domini: fecitque aquæductum, quasi per duas aratiunculas in circuitu altaris,
+32 Et aedificavit de lapidibus altare in nomine Domini: fecitque aquaeductum, quasi per duas aratiunculas in circuitu altaris,
 
 33 et composuit ligna: divisitque per membra bovem, et posuit super ligna,
 
 34 et ait: Implete quattuor hydrias aqua, et fundite super holocaustum, et super ligna. Rursumque dixit: Etiam secundo hoc facite. Qui cum fecissent secundo, ait: Etiam tertio idipsum facite. Feceruntque tertio,
 
-35 et currebant aquæ circum altare, et fossa aquæductus repleta est.
+35 et currebant aquae circum altare, et fossa aquaeductus repleta est.
 
-36 Cumque iam tempus esset ut offerretur holocaustum, accedens Elias propheta, ait: Domine Deus Abraham, et Isaac, et Israel, ostende hodie quia tu es Deus Israel, et ego servus tuus, et iuxta præceptum tuum feci omnia verba hæc.
+36 Cumque iam tempus esset ut offerretur holocaustum, accedens Elias propheta, ait: Domine Deus Abraham, et Isaac, et Israel, ostende hodie quia tu es Deus Israel, et ego servus tuus, et iuxta praeceptum tuum feci omnia verba haec.
 
 37 Exaudi me Domine, exaudi me: ut discat populus iste, quia tu es Dominus Deus, et tu convertisti cor eorum iterum.
 
-38 Cecidit autem ignis Domini, et voravit holocaustum, et ligna, et lapides, pulverem quoque, et aquam, quæ erat in aquæductu lambens.
+38 Cecidit autem ignis Domini, et voravit holocaustum, et ligna, et lapides, pulverem quoque, et aquam, quae erat in aquaeductu lambens.
 
 39 Quod cum vidisset omnis populus, cecidit in faciem suam, et ait: Dominus ipse est Deus, Dominus ipse est Deus.
 
 40 Dixitque Elias ad eos: Apprehendite prophetas Baal, et ne unus quidem effugiat ex eis. Quos cum apprehendissent, duxit eos Elias ad Torrentem cison, et interfecit eos ibi.
 
-41 Et ait Elias ad Achab: Ascende, comede, et bibe: quia sonus multæ pluviæ est.
+41 Et ait Elias ad Achab: Ascende, comede, et bibe: quia sonus multae pluviae est.
 
 42 Ascendit Achab ut comederet et biberet: Elias autem ascendit in verticem Carmeli, et pronus in terram posuit faciem suam inter genua sua,
 
@@ -93,7 +93,7 @@ draft: false
 
 44 In septima autem vice, Ecce nubecula parva quasi vestigium hominis ascendebat de mari. Qui ait: Ascende, et dic Achab: Iunge currum tuum et descende, ne occupet te pluvia.
 
-45 Cumque se verteret huc itaque illuc, ecce cæli contenebrati sunt, et nubes, et ventus, et facta est pluvia grandis. Ascendens itaque Achab abiit in Iezrahel:
+45 Cumque se verteret huc itaque illuc, ecce caeli contenebrati sunt, et nubes, et ventus, et facta est pluvia grandis. Ascendens itaque Achab abiit in Iezrahel:
 
 46 et manus Domini facta est super Eliam, accinctisque lumbis currebat ante Achab, donec veniret in Iezrahel.
 

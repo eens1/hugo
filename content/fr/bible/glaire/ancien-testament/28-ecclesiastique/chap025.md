@@ -22,7 +22,7 @@ summary: |
 4 Un pauvre superbe, un riche menteur, un vieillard hébété et insensé. 5 Ce que dans ta jeunesse tu n'as pas recueilli, comment, dans ta vieillesse, le trouveras-tu ? 6 Qu'il est beau à la vieillesse de bien juger et aux vieillards de savoir conseiller !
 
 
-7 Qu'elle est belle, la sagesse dans les hommes d'un âge avancé, et l'intelligence et le conseil dans ceux qui sont élevés en gloire !8 La couronne des vieillards est une grande expérience, et leur gloire la crainte de Dieu. 9 J'ai conçu beaucoup d'estime pour neuf choses que le cœur ne saurait soupçonner, et la dixième, je la dirai de vive voix aux hommes :
+7 Qu'elle est belle, la sagesse dans les hommes d'un âge avancé, et l'intelligence et le conseil dans ceux qui sont élevés en gloire !8 La couronne des vieillards est une grande expérience, et leur gloire la crainte de Dieu. 9 J'ai conçu beaucoup d'estime pour neuf choses que le coeur ne saurait soupçonner, et la dixième, je la dirai de vive voix aux hommes :
 
 ***Note*** :  Sir. 25, 9 : De vive voix ; littéralement par la langue ; un des organes vocaux.
 
@@ -34,7 +34,7 @@ summary: |
 12 Bienheureux celui qui a trouvé un ami vrai, et qui parle de la justice à une oreille qui l'écoute!13 Qu'il est grand, celui qui a trouvé la sagesse et la science! mais il n'est pas au-dessus de celui qui craint le Seigneur.
 
 
-14 La crainte de Dieu s'élève au-dessus de toutes choses. 15 Bienheureux l'homme à qui il a été donné d'avoir la crainte de Dieu ! celui qui la possède, à qui sera-t-il comparé? 16 La crainte de Dieu est le commencement de son amour ; et le commencement de la foi doit y être joint inséparablement. 17 Toute plaie est une tristesse de cœur, et toute malice est la méchanceté de la femme. 18 Et l'homme verra patiemment toute plaie, mais non la plaie du cœur;
+14 La crainte de Dieu s'élève au-dessus de toutes choses. 15 Bienheureux l'homme à qui il a été donné d'avoir la crainte de Dieu ! celui qui la possède, à qui sera-t-il comparé? 16 La crainte de Dieu est le commencement de son amour ; et le commencement de la foi doit y être joint inséparablement. 17 Toute plaie est une tristesse de coeur, et toute malice est la méchanceté de la femme. 18 Et l'homme verra patiemment toute plaie, mais non la plaie du coeur;
 
 
 19 Et toute méchanceté, mais non la malice de la femme ; 20 Et toute affliction, mais non l'affliction causée par ceux qui nous haïssent ; 21 Et toute vengeance, mais non la vengeance des ennemis. 22 Il n'y a point de tête plus méchante que la tête d'un serpent; 23 Et il n'y a point de colère au-dessus de la colère d'une femme. Habiter avec un lion et un dragon sera plus agréable que d'habiter avec une femme méchante.
@@ -50,7 +50,7 @@ summary: |
 
 ***Note*** :  Sir. 25, 28 : Voir Ecclésiastique, 42, 6.
 
-29 La colère d'une femme, son audace, et sa confusion, sont grandes. 30 La femme, si elle a l'autorité, elle est contraire à son mari. 31 Cœur bas, visage triste, et plaie de cœur, voilà la femme méchante. 32 Mains débiles et genoux faibles, voilà la femme qui ne rend pas son mari heureux. 33 C'est par la femme qu'a eu lieu le commencement du péché, et c'est par elle que nous mourons tous.
+29 La colère d'une femme, son audace, et sa confusion, sont grandes. 30 La femme, si elle a l'autorité, elle est contraire à son mari. 31 Coeur bas, visage triste, et plaie de coeur, voilà la femme méchante. 32 Mains débiles et genoux faibles, voilà la femme qui ne rend pas son mari heureux. 33 C'est par la femme qu'a eu lieu le commencement du péché, et c'est par elle que nous mourons tous.
 
 ***Note*** :  Sir. 25, 33 : Voir Genèse, 3, 6.
 

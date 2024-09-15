@@ -9,7 +9,7 @@ draft: false
 
 2 Dinumerasti menses conceptus earum, et scisti tempus partus earum?
 
-3 Incurvantur ad fœtum, et pariunt, et rugitus emittunt.
+3 Incurvantur ad foetum, et pariunt, et rugitus emittunt.
 
 4 Separantur filii earum, et pergunt ad pastum: egrediuntur, et non revertuntur ad eas.
 
@@ -19,9 +19,9 @@ draft: false
 
 7 Contemnit multitudinem civitatis, clamorem exactoris non audit.
 
-8 Circumspicit montes pascuæ suæ, et virentia quæque perquirit.
+8 Circumspicit montes pascuae suae, et virentia quaeque perquirit.
 
-9 Numquid volet rhinoceros servire tibi, aut morabitur ad præsepe tuum?
+9 Numquid volet rhinoceros servire tibi, aut morabitur ad praesepe tuum?
 
 10 Numquid alligabis rhinocerota ad arandum loro tuo? aut confringet glebas vallium post te?
 
@@ -41,7 +41,7 @@ draft: false
 
 18 Cum tempus fuerit, in altum alas erigit: deridet equum et ascensorem eius.
 
-19 Numquid præbebis equo fortitudinem, aut circumdabis collo eius hinnitum?
+19 Numquid praebebis equo fortitudinem, aut circumdabis collo eius hinnitum?
 
 20 Numquid suscitabis eum quasi locustas? gloria narium eius terror.
 
@@ -51,15 +51,15 @@ draft: false
 
 23 Super ipsum sonabit pharetra, vibrabit hasta et clypeus.
 
-24 Fervens et fremens sorbet terram, nec reputat tubæ sonare clangorem.
+24 Fervens et fremens sorbet terram, nec reputat tubae sonare clangorem.
 
 25 Ubi audierit buccinam, dicit: Vah, procul odoratur bellum, exhortationem ducum, et ululatum exercitus.
 
 26 Numquid per sapientiam tuam plumescit accipiter, expandens alas suas ad Austrum?
 
-27 Numquid ad præceptum tuum elevabitur aquila, et in arduis ponet nidum suum?
+27 Numquid ad praeceptum tuum elevabitur aquila, et in arduis ponet nidum suum?
 
-28 In petris manet, et in præruptis silicibus commoratur, atque inaccessis rupibus.
+28 In petris manet, et in praeruptis silicibus commoratur, atque inaccessis rupibus.
 
 29 Inde contemplatur escam, et de longe oculi eius prospiciunt,
 

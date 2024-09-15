@@ -33,7 +33,7 @@ summary: |
 
 ***Note*** :  Dn. 4, 12 : Laissez, etc. Il y a ici, comme dans bien d’autres songes racontés dans l’Ecriture, des traits dont les uns se rapportent à la figure et les autres à la chose figurée.
 
-13 Que son cœur d'homme soit échangé, et qu'un cœur de bête féroce lui soit donné ; et que sept temps soient renouvelés sur lui.
+13 Que son coeur d'homme soit échangé, et qu'un coeur de bête féroce lui soit donné ; et que sept temps soient renouvelés sur lui.
 
 ***Note*** :  Dn. 4, 13 : Sept ; selon quelques-uns signifie simplement plusieurs, la Bible fournissant un certain nombre d’exemples qui autorisent cette interprétation. ― Temps ; c’est-à-dire années, suivant l’opinion la plus commune. ― Sur lui. Le pronom masculin eum, ne peut se rapporter ni à germe, ni à arbre, dont le premier est en latin du genre neutre et le second du féminin ; il représente nécessairement le nom roi ou Nabuchodonosor. Voir la note précédente.
 
@@ -52,7 +52,7 @@ summary: |
 
 ***Note*** :  Dn. 4, 20 : Sept temps, sur lui. Voir le verset 13.
 
-21 Voici l'interprétation de la sentence du Très-Haut, qui atteint mon seigneur le roi. 22 On vous chassera loin des hommes, et avec les animaux et les bêtes féroces sera votre demeure, et vous mangerez du foin comme le bœuf, et de la rosée du ciel vous serez trempé ; sept temps aussi se renouvelleront sur vous, jusqu'à ce que vous sachiez que le Très-Haut domine sur le royaume des hommes, et qu'il le donne à quiconque il veut,
+21 Voici l'interprétation de la sentence du Très-Haut, qui atteint mon seigneur le roi. 22 On vous chassera loin des hommes, et avec les animaux et les bêtes féroces sera votre demeure, et vous mangerez du foin comme le boeuf, et de la rosée du ciel vous serez trempé ; sept temps aussi se renouvelleront sur vous, jusqu'à ce que vous sachiez que le Très-Haut domine sur le royaume des hommes, et qu'il le donne à quiconque il veut,
 
 ***Note*** :  Dn. 4, 22 : Voir Daniel, 5, 21.
 
@@ -63,7 +63,7 @@ summary: |
 
 25 Toutes ces choses arrivèrent au roi Nabuchodonosor.
 
-***Note*** :  Dn. 4, 25 : Parmi les opinions différentes sur la métamorphose de Nabuchodonosor, la plus suivie et la plus probable est que ce prince, par un effet de la puissance de Dieu, tomba dans la manie, et dans la lycanthropie, maladie dans laquelle un homme s’imagine qu’il est devenu loup, bœuf, chien ou chat, et prend toutes les inclinations, les manières et les sentiments de ces animaux.
+***Note*** :  Dn. 4, 25 : Parmi les opinions différentes sur la métamorphose de Nabuchodonosor, la plus suivie et la plus probable est que ce prince, par un effet de la puissance de Dieu, tomba dans la manie, et dans la lycanthropie, maladie dans laquelle un homme s’imagine qu’il est devenu loup, boeuf, chien ou chat, et prend toutes les inclinations, les manières et les sentiments de ces animaux.
 
 26 Après la fin de douze mois, il se promenait dans le palais de Babylone.
 
@@ -73,9 +73,9 @@ summary: |
 
 ***Note*** :  Dn. 4, 27 : Prit la parole (respondit. Voir le verset 16). ― Que moi j’ai bâtie. Ici comme en plusieurs autres passages, bâtir signifie rebâtir, faire des agrandissements, des embellissements. Babylone bâtie par Nemrod (voir Genèse, 10, 10), fut augmentée et embellie considérablement par Sémiramis ; mais Nabuchodonosor en fit la plus grande et la plus belle ville de l’Orient. ― N’est-ce pas là cette grande Babylone que moi j’ai bâtie ? On peut dire que presque toutes les inscriptions de Nabuchodonosor qui ont été retrouvées depuis quelques années confirment l’exactitude de ces paroles, car elles sont presque exclusivement consacrées à décrire les édifices bâtis ou restaurés par ce monarque dans sa capitale.
 
-28 Et lorsque ces paroles étaient encore en la bouche du roi, une voix partit du ciel : Il t'est dit, ô Nabuchodonosor, roi : Ton empire passera loin de toi, 29 Et d'entre les hommes on te chassera, et avec les animaux et les bêtes féroces sera ta demeure : tu mangeras du foin comme le bœuf, et sept temps se renouvelleront sur toi, jusqu'à ce que tu saches que le Très-Haut domine sur le royaume des hommes, et qu'il le donne à quiconque il veut. 30 A la même heure cette parole fut accomplie sur Nabuchodonosor, et d'entre les hommes il fut chassé, et il mangea du foin comme le bœuf, et de la rosée du ciel son corps fut couvert: jusqu'à ce que ses cheveux s'accrurent comme les plumes d'un aigle, et ses ongles comme les griffes des oiseaux.
+28 Et lorsque ces paroles étaient encore en la bouche du roi, une voix partit du ciel : Il t'est dit, ô Nabuchodonosor, roi : Ton empire passera loin de toi, 29 Et d'entre les hommes on te chassera, et avec les animaux et les bêtes féroces sera ta demeure : tu mangeras du foin comme le boeuf, et sept temps se renouvelleront sur toi, jusqu'à ce que tu saches que le Très-Haut domine sur le royaume des hommes, et qu'il le donne à quiconque il veut. 30 A la même heure cette parole fut accomplie sur Nabuchodonosor, et d'entre les hommes il fut chassé, et il mangea du foin comme le boeuf, et de la rosée du ciel son corps fut couvert: jusqu'à ce que ses cheveux s'accrurent comme les plumes d'un aigle, et ses ongles comme les griffes des oiseaux.
 
-***Note*** :  Dn. 4, 30 : Description des effets de la maladie de Nabuchodonosor, qui consistent en particulier à le rendre hirsute et à faire recourber ses ongles, comme cela arrive quand ils ne sont pas taillés. Il se nourrit d’herbes comme le font les bœufs, parce qu’il croit être devenu bœuf lui-même.
+***Note*** :  Dn. 4, 30 : Description des effets de la maladie de Nabuchodonosor, qui consistent en particulier à le rendre hirsute et à faire recourber ses ongles, comme cela arrive quand ils ne sont pas taillés. Il se nourrit d’herbes comme le font les boeufs, parce qu’il croit être devenu boeuf lui-même.
 
 
 31 Après donc la fin des jours, moi, Nabuchodonosor, j'ai levé les yeux vers le ciel, et le sens m'a été rendu; et j'ai béni le Très-Haut, et j'ai loué et glorifié celui qui vit éternellement, parce que sa puissance est une puissance éternelle, et son royaume sera pour toutes les générations.
@@ -86,7 +86,7 @@ summary: |
 
 ***Note*** :  Dn. 4, 32 : Les armées du ciel. Voir Daniel, 3, 61.
 
-33 En ce même temps le sens me revint, et je rentrai dans les honneurs et l'éclat de mon royaume, ma première forme me fut rendue, et mes grands et mes magistrats me recherchèrent, et je fus rétabli dans mon royaume, et une plus grande magnificence me fut donnée par surcroît. 34 Maintenant donc, moi, Nabuchodonosor, je loue et je magnifie et je glorifie le roi du ciel, parce que toutes ses œuvres sont vraies, et ses voies de vrais jugements, et qu'il peut humilier ceux qui marchent dans l'orgueil
+33 En ce même temps le sens me revint, et je rentrai dans les honneurs et l'éclat de mon royaume, ma première forme me fut rendue, et mes grands et mes magistrats me recherchèrent, et je fus rétabli dans mon royaume, et une plus grande magnificence me fut donnée par surcroît. 34 Maintenant donc, moi, Nabuchodonosor, je loue et je magnifie et je glorifie le roi du ciel, parce que toutes ses oeuvres sont vraies, et ses voies de vrais jugements, et qu'il peut humilier ceux qui marchent dans l'orgueil
 
 ***Note*** :  Dn. 4, 34 : Pour suivre l’ordre des temps, il faut passer de ce verset aux chapitres 7 et 8. Les chapitres 5 et 6 qui ont rapport à la fin du règne de Baltassar, et au commencement du règne de Darius le Mède, ont été déplacés.
 

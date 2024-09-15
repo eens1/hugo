@@ -19,7 +19,7 @@ summary: |
 
 ***Note*** :  Ps. 26, 2 : Quand ses ennemis l’ont attaqué, ils sont tombés.
 
-3 Si des camps s'établissent contre moi, mon cœur ne craindra pas. Si un combat est livré contre moi, j'y mettrai mon espérance.
+3 Si des camps s'établissent contre moi, mon coeur ne craindra pas. Si un combat est livré contre moi, j'y mettrai mon espérance.
 
 ***Note*** :  Ps. 26, 3 : Aussi est-il plein de confiance, serait-il attaqué par une armée entière.
 
@@ -46,7 +46,7 @@ summary: |
 
 ***Note*** :  Ps. 26, 7-14 : Chant de la confiance suppliante.
 
-8 Mon cœur vous a parlé, ma face vous a recherché : je rechercherai, Seigneur, votre face. 9 Ne détournez pas votre face de moi; ne vous retirez point, dans votre colère, de votre serviteur. Soyez mon aide; ne m'abandonnez pas, ne me méprisez pas, ô Dieu, mon Sauveur. 10 Parce que mon père et ma mère m'ont abandonné; mais le Seigneur m'a recueilli.
+8 Mon coeur vous a parlé, ma face vous a recherché : je rechercherai, Seigneur, votre face. 9 Ne détournez pas votre face de moi; ne vous retirez point, dans votre colère, de votre serviteur. Soyez mon aide; ne m'abandonnez pas, ne me méprisez pas, ô Dieu, mon Sauveur. 10 Parce que mon père et ma mère m'ont abandonné; mais le Seigneur m'a recueilli.
 
 ***Note*** :  Ps. 26, 10 : Mon père et ma mère, etc. Si ces paroles s’entendent de David, elles peuvent se rapporter aux premières années de sa vie, où il était presque oublié dans sa famille, étant le plus jeune d’entre ses frères. Voir 1 Rois, 16, verset 5 et suivants.
 
@@ -61,7 +61,7 @@ summary: |
 
 ***Note*** :  Ps. 26, 13-14 : David ne met sa confiance qu’en Dieu mais elle ne lui fera pas défaut.
 
-14 Attends le Seigneur, agis avec courage; et que ton cœur se fortifie, et attends avec constance le Seigneur.
+14 Attends le Seigneur, agis avec courage; et que ton coeur se fortifie, et attends avec constance le Seigneur.
 
 ***Note*** :  Ps. 26, 14 : Attends, etc. David, dans ce verset, se parle à lui-même. ― Attends avec constance. Voir Psaumes, 24, 3.
 

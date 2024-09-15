@@ -17,11 +17,11 @@ draft: false
 
 6 Et contestabatur angelus Domini Iesum, dicens:
 
-7 Hæc dicit Dominus exercituum: Si in viis meis ambulaveris, et custodiam meam custodieris: tu quoque iudicabis domum meam, et custodies atria mea, et dabo tibi ambulantes de his, qui nunc hic assistunt.
+7 Haec dicit Dominus exercituum: Si in viis meis ambulaveris, et custodiam meam custodieris: tu quoque iudicabis domum meam, et custodies atria mea, et dabo tibi ambulantes de his, qui nunc hic assistunt.
 
 8 Audi Iesu sacerdos magne, tu et amici tui, qui habitant coram te, quia viri portendentes sunt. ecce enim ego ADDUCAM SERVUM MEUM ORIENTEM.
 
-9 Quia ecce lapis, quem dedi coram Iesu: super lapidem unum septem oculi sunt: ecce ego cælabo sculpturam eius, ait Dominus exercituum: et auferam iniquitatem terræ illius in die una.
+9 Quia ecce lapis, quem dedi coram Iesu: super lapidem unum septem oculi sunt: ecce ego caelabo sculpturam eius, ait Dominus exercituum: et auferam iniquitatem terrae illius in die una.
 
 10 In die illa, dicit Dominus exercituum, vocabit vir amicum suum subter vitem, et subter ficum.
 

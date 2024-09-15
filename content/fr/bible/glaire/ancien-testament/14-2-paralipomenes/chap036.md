@@ -50,7 +50,7 @@ summary: |
 ***Note*** :  II Par. 36, 12 : L’ordre ; littéralement la bouche. Voir 3 Rois, 13, 21.
 
 
-13 Il se détacha même du roi Nabuchodonosor, qui l'avait adjuré par Dieu; il endurcit sa tête et son cœur pour ne point retourner au Seigneur Dieu d'Israël.
+13 Il se détacha même du roi Nabuchodonosor, qui l'avait adjuré par Dieu; il endurcit sa tête et son coeur pour ne point retourner au Seigneur Dieu d'Israël.
 
 
 14 Et même tous les princes des prêtres, et le peuple, prévariquèrent iniquement suivant toutes les abominations des nations, et profanèrent la maison du Seigneur, qu'il avait sanctifiée pour lui à Jérusalem. 15 Or le Seigneur Dieu de leurs pères s'adressait à eux par l'entremise de ses envoyés, se levant durant la nuit, et les avertissant chaque jour, parce qu'il ménageait son peuple et sa demeure.

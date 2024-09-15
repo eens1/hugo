@@ -27,9 +27,9 @@ draft: false
 
 11 Et non intenderunt sermonibus eorum: viderunt enim quia venerunt cum exercitu magno.
 
-12 Et convenerunt ad Alcimum, et Bacchidem congregatio scribarum requirere quæ iusta sunt:
+12 Et convenerunt ad Alcimum, et Bacchidem congregatio scribarum requirere quae iusta sunt:
 
-13 et primi, Assidæi qui erant in filiis Israel, et exquirebant ab eis pacem.
+13 et primi, Assidaei qui erant in filiis Israel, et exquirebant ab eis pacem.
 
 14 Dixerunt enim: Homo sacerdos de semine Aaron venit, non decipiet nos:
 
@@ -49,11 +49,11 @@ draft: false
 
 22 et convenerunt ad eum omnes, qui perturbabant populum suum, et obtinuerunt terram Iuda, et fecerunt plagam magnam in Israel.
 
-23 Et vidit Iudas omnia mala quæ fecit Alcimus, et qui cum eo erant, filiis Israel, multo plus quam Gentes.
+23 Et vidit Iudas omnia mala quae fecit Alcimus, et qui cum eo erant, filiis Israel, multo plus quam Gentes.
 
-24 et exiit in omnes fines Iudææ in circuitu, et fecit vindictam in viros desertores, et cessaverunt ultra exire in regionem.
+24 et exiit in omnes fines Iudaeae in circuitu, et fecit vindictam in viros desertores, et cessaverunt ultra exire in regionem.
 
-25 Vidit autem Alcimus quod prævaluit Iudas, et qui cum eo erant: et cognovit quia non potest sustinere eos, et regressus est ad regem, et accusavit eos multis criminibus.
+25 Vidit autem Alcimus quod praevaluit Iudas, et qui cum eo erant: et cognovit quia non potest sustinere eos, et regressus est ad regem, et accusavit eos multis criminibus.
 
 26 Et misit rex Nicanorem, unum ex principibus suis nobilioribus: qui erat inimicitias exercens contra Israel: et mandavit ei evertere populum.
 
@@ -63,13 +63,13 @@ draft: false
 
 29 Et venit ad Iudam, et salutaverunt se invicem pacifice: et hostes parati erant rapere Iudam.
 
-30 Et innotuit sermo Iudæ quoniam cum dolo venerat ad eum: et conterritus est ab eo, et amplius noluit videre faciem eius.
+30 Et innotuit sermo Iudae quoniam cum dolo venerat ad eum: et conterritus est ab eo, et amplius noluit videre faciem eius.
 
-31 Et cognovit Nicanor quoniam denudatum est consilium eius: et exivit obviam Iudæ in pugnam iuxta Capharsalama.
+31 Et cognovit Nicanor quoniam denudatum est consilium eius: et exivit obviam Iudae in pugnam iuxta Capharsalama.
 
 32 Et ceciderunt de Nicanoris exercitu fere quinque millia viri, et fugerunt in civitatem David.
 
-33 Et post hæc verba ascendit Nicanor in montem Sion: et exierunt de sacerdotibus populi salutare eum in pace, et demonstrare ei holocautomata, quæ offerebantur pro rege.
+33 Et post haec verba ascendit Nicanor in montem Sion: et exierunt de sacerdotibus populi salutare eum in pace, et demonstrare ei holocautomata, quae offerebantur pro rege.
 
 34 Et irridens sprevit eos, et polluit: et locutus est superbe,
 
@@ -81,7 +81,7 @@ draft: false
 
 38 fac vindictam in homine isto, et exercitu eius, et cadant in gladio: memento blasphemias eorum, et ne dederis eis ut permaneant.
 
-39 Et exiit Nicanor ab Ierusalem, et castra applicuit ad Bethoron: et occurrit illi exercitus Syriæ.
+39 Et exiit Nicanor ab Ierusalem, et castra applicuit ad Bethoron: et occurrit illi exercitus Syriae.
 
 40 Et Iudas applicuit in Adarsa cum tribus millibus viris: et oravit Iudas, et dixit:
 
@@ -89,17 +89,17 @@ draft: false
 
 42 sic contere exercitum istum in conspectu nostro hodie: et sciant ceteri quia male locutus est super sancta tua: et iudica illum secundum malitiam illius.
 
-43 Et commiserunt exercitus prælium tertiadecima die mensis Adar: et contrita sunt castra Nicanoris, et cecidit ipse primus in prælio.
+43 Et commiserunt exercitus praelium tertiadecima die mensis Adar: et contrita sunt castra Nicanoris, et cecidit ipse primus in praelio.
 
 44 Ut autem vidit exercitus eius quia cecidisset Nicanor, proiecerunt arma sua, et fugerunt:
 
 45 et persecuti sunt eos viam unius diei ab Adazer usquequo veniatur in Gazara, et tubis cecinerunt post eos cum significationibus:
 
-46 et exierunt de omnibus castellis Iudææ in circuitu, et ventilabant eos cornibus, et convertebantur iterum ad eos, et ceciderunt omnes gladio, et non est relictus ex eis nec unus.
+46 et exierunt de omnibus castellis Iudaeae in circuitu, et ventilabant eos cornibus, et convertebantur iterum ad eos, et ceciderunt omnes gladio, et non est relictus ex eis nec unus.
 
-47 Et acceperunt spolia eorum in prædam: et caput Nicanoris amputaverunt, et dexteram eius, quam extenderat superbe, et attulerunt, et suspenderunt contra Ierusalem.
+47 Et acceperunt spolia eorum in praedam: et caput Nicanoris amputaverunt, et dexteram eius, quam extenderat superbe, et attulerunt, et suspenderunt contra Ierusalem.
 
-48 Et lætatus est populus valde, et egerunt diem illam in lætitia magna.
+48 Et laetatus est populus valde, et egerunt diem illam in laetitia magna.
 
 49 Et constituit agi omnibus annis diem istam tertiadecima die mensis Adar.
 

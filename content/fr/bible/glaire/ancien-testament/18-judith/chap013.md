@@ -12,7 +12,7 @@ summary: |
 
 1 Or, dès que le soir fut venu, ses serviteurs se hâtèrent de rentrer en leurs logis, et Vagao ferma les portes de la chambre, et s'en alla.
 
-2 Et tous étaient appesantis par le vin ; 3 Mais Judith était seule dans la chambre. 4 Or Holoferne était couché sur son lit, assoupi dans une très grande ivresse. 5 Alors Judith dit à sa servante de se tenir dehors devant la chambre, et d'observer. 6 Et Judith se tint devant le lit, priant avec larmes, et par un mouvement des lèvres en silence, 7 Disant : Fortifiez-moi, Seigneur Dieu d'Israël, et regardez en cette heure les œuvres de mes mains, afin que, comme vous avez promis, vous releviez Jérusalem, votre cité, et que ce que j'ai pensé pouvoir être fait par vous, je l'achève. 8 Et, lorsqu'elle eut dit cela, elle s'approcha de la colonne, qui était au chevet de son lit, et détacha son poignard qui y était lié et suspendu ;
+2 Et tous étaient appesantis par le vin ; 3 Mais Judith était seule dans la chambre. 4 Or Holoferne était couché sur son lit, assoupi dans une très grande ivresse. 5 Alors Judith dit à sa servante de se tenir dehors devant la chambre, et d'observer. 6 Et Judith se tint devant le lit, priant avec larmes, et par un mouvement des lèvres en silence, 7 Disant : Fortifiez-moi, Seigneur Dieu d'Israël, et regardez en cette heure les oeuvres de mes mains, afin que, comme vous avez promis, vous releviez Jérusalem, votre cité, et que ce que j'ai pensé pouvoir être fait par vous, je l'achève. 8 Et, lorsqu'elle eut dit cela, elle s'approcha de la colonne, qui était au chevet de son lit, et détacha son poignard qui y était lié et suspendu ;
 
 9 Et, lorsqu'elle l'eut tiré du fourreau, elle saisit la chevelure de sa tête, et dit : Fortifiez-moi, Seigneur Dieu, en cette heure.
 

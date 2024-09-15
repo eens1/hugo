@@ -30,9 +30,9 @@ summary: |
 ***Note*** :  Ps. 84, 8 : Montrez-nous. Voir Psaumes, 70, 20. ― Votre salut ; votre assistance salutaire, votre secours ou bien votre Christ, notre Sauveur.
 
 
-9 J'écouterai ce que dira au dedans de moi le Seigneur Dieu, parce qu'il parlera paix pour son peuple, Et pour ses saints, et pour ceux qui se tournent vers leur cœur.
+9 J'écouterai ce que dira au dedans de moi le Seigneur Dieu, parce qu'il parlera paix pour son peuple, Et pour ses saints, et pour ceux qui se tournent vers leur coeur.
 
-***Note*** :  Ps. 84, 9 : Il parlera paix ; c’est-à-dire il annoncera la paix. ― Pour son peuple en général. ― Pour ses saints. Voir Psaumes, 78, 2. ― Qui se tournent vers leur cœur ; qui entrent en eux-mêmes, ou qui tournent leur cœur vers Dieu, comme portent les Septante.
+***Note*** :  Ps. 84, 9 : Il parlera paix ; c’est-à-dire il annoncera la paix. ― Pour son peuple en général. ― Pour ses saints. Voir Psaumes, 78, 2. ― Qui se tournent vers leur coeur ; qui entrent en eux-mêmes, ou qui tournent leur coeur vers Dieu, comme portent les Septante.
 
 ***Note*** :  Ps. 84, 9-11 : Espoir que cette demande sera exaucée.
 

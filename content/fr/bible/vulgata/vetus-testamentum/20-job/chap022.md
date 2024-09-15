@@ -7,7 +7,7 @@ draft: false
 
 1 Respondens autem Eliphaz Themanites, dixit:
 
-2 Numquid Deo potest comparari homo, etiam cum perfectæ fuerit scientiæ?
+2 Numquid Deo potest comparari homo, etiam cum perfectae fuerit scientiae?
 
 3 Qui prodest Deo si iustus fueris? aut quid ei confers si immaculata fuerit via tua?
 
@@ -27,29 +27,29 @@ draft: false
 
 11 Et putabas te tenebras non visurum, et impetu aquarum inundantium non oppressum iri?
 
-12 An non cogitas quod Deus excelsior cælo sit, et super stellarum verticem sublimetur?
+12 An non cogitas quod Deus excelsior caelo sit, et super stellarum verticem sublimetur?
 
 13 Et dicis: Quid enim novit Deus? et quasi per caliginem iudicat.
 
-14 Nubes latibulum eius, nec nostra considerat, et circa cardines cæli perambulat.
+14 Nubes latibulum eius, nec nostra considerat, et circa cardines caeli perambulat.
 
-15 Numquid semitam sæculorum custodire cupis, quam calcaverunt viri iniqui?
+15 Numquid semitam saeculorum custodire cupis, quam calcaverunt viri iniqui?
 
 16 Qui sublati sunt ante tempus suum, et fluvius subvertit fundamentum eorum:
 
-17 Qui dicebant Deo: Recede a nobis: et quasi nihil posset facere Omnipotens, æstimabant eum:
+17 Qui dicebant Deo: Recede a nobis: et quasi nihil posset facere Omnipotens, aestimabant eum:
 
 18 Cum ille implesset domos eorum bonis, quorum sententia procul sit a me.
 
-19 Videbunt iusti, et lætabuntur, et innocens subsannabit eos.
+19 Videbunt iusti, et laetabuntur, et innocens subsannabit eos.
 
 20 Nonne succisa est erectio eorum, et reliquias eorum devoravit ignis?
 
-21 Acquiesce igitur ei, et habeto pacem: et per hæc habebis fructus optimos.
+21 Acquiesce igitur ei, et habeto pacem: et per haec habebis fructus optimos.
 
 22 Suscipe ex ore illius legem, et pone sermones eius in corde tuo.
 
-23 Si reversus fueris ad Omnipotentem, ædificaberis, et longe facies iniquitatem a tabernaculo tuo.
+23 Si reversus fueris ad Omnipotentem, aedificaberis, et longe facies iniquitatem a tabernaculo tuo.
 
 24 Dabit pro terra silicem, et pro silice torrentes aureos.
 

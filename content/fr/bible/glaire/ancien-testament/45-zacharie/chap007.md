@@ -6,7 +6,7 @@ summary: |
   
   Députation aux prêtres du Seigneur touchant les jeûnes observés durant la captivité.
   Défaut de ces jeûnes.
-  Œuvres de justice que le Seigneur recommande, et dont le mépris attire sa colère.
+  OEuvres de justice que le Seigneur recommande, et dont le mépris attire sa colère.
 ---
 
 
@@ -39,11 +39,11 @@ summary: |
 ***Note*** :  Zach. 7, 7 : Par l’entremise (per manum). Voir Aggée, 1, 1.
 
 
-8 Et la parole du Seigneur des armées fut adressée à Zacharie, disant :9 Voici ce que dit le Seigneur des armées : Jugez selon la vérité, usez de miséricorde et de clémence, chacun envers son frère. 10 Et n'opprimez point la veuve, ni l'orphelin, ni l'étranger, ni le pauvre ; et qu'un homme ne médite pas dans son cœur le mal contre son frère.
+8 Et la parole du Seigneur des armées fut adressée à Zacharie, disant :9 Voici ce que dit le Seigneur des armées : Jugez selon la vérité, usez de miséricorde et de clémence, chacun envers son frère. 10 Et n'opprimez point la veuve, ni l'orphelin, ni l'étranger, ni le pauvre ; et qu'un homme ne médite pas dans son coeur le mal contre son frère.
 
 ***Note*** :  Zach. 7, 10 : Voir Exode, 22, 2 ; Isaïe, 1, 23 ; Jérémie, 5, 28. ― N’opprimez point (nolite calumniari). Voir Jérémie, 50, 33.
 
-11 Mais vos pères n'ont pas voulu être attentifs à ma voix, et ils ont détourné l'épaule en se retirant, et ils ont appesanti leurs oreilles pour ne pas entendre. 12 Et leur cœur, ils l'ont rendu dur comme un diamant, pour ne pas écouter la loi et la parole que le Seigneur des armées leur envoya avec son esprit, par l'entremise de ses prophètes antérieurs; et le Seigneur des armées conçut une grande indignation. 13 Or il est arrivé comme il a parlé, et ils n'ont pas écouté; ainsi ils crieront, et je ne les écouterai pas, dit le Seigneur des armées. 14 Et je les ai dispersés dans tous les royaumes qu'ils ne connaissent pas; et leur terre a été désolée derrière eux, en sorte qu'il n'y avait personne qui y passât, et qui en revînt; et ils ont fait d'une terre délicieuse un désert.
+11 Mais vos pères n'ont pas voulu être attentifs à ma voix, et ils ont détourné l'épaule en se retirant, et ils ont appesanti leurs oreilles pour ne pas entendre. 12 Et leur coeur, ils l'ont rendu dur comme un diamant, pour ne pas écouter la loi et la parole que le Seigneur des armées leur envoya avec son esprit, par l'entremise de ses prophètes antérieurs; et le Seigneur des armées conçut une grande indignation. 13 Or il est arrivé comme il a parlé, et ils n'ont pas écouté; ainsi ils crieront, et je ne les écouterai pas, dit le Seigneur des armées. 14 Et je les ai dispersés dans tous les royaumes qu'ils ne connaissent pas; et leur terre a été désolée derrière eux, en sorte qu'il n'y avait personne qui y passât, et qui en revînt; et ils ont fait d'une terre délicieuse un désert.
 
 ***Note*** :  Zach. 7, 14 : Derrière eux, ou après eux ; c’est le vrai sens du ab eis de la Vulgate, expliqué par l’hébreu et les Septante.
 

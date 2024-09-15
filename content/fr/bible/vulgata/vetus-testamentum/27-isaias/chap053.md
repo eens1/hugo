@@ -13,7 +13,7 @@ draft: false
 
 4 Vere languores nostros ipse tulit, et dolores nostros ipse portavit: et nos putavimus eum quasi leprosum, et percussum a Deo et humiliatum.
 
-5 Ipse autem vulneratus est propter iniquitates nostras, attritus est propter scelera nostra: disciplina pacis nostræ super eum, et livore eius sanati sumus.
+5 Ipse autem vulneratus est propter iniquitates nostras, attritus est propter scelera nostra: disciplina pacis nostrae super eum, et livore eius sanati sumus.
 
 6 Omnes nos quasi oves erravimus, unusquisque in viam suam declinavit: et posuit Dominus in eo iniquitatem omnium nostrum.
 
@@ -23,7 +23,7 @@ draft: false
 
 9 Et dabit impios pro sepultura, et divitem pro morte sua: eo quod iniquitatem non fecerit, neque dolus fuerit in ore eius.
 
-10 Et Dominus voluit conterere eum in infirmitate: si posuerit pro peccato animam suam, videbit semen longævum, et voluntas Domini in manu eius dirigetur.
+10 Et Dominus voluit conterere eum in infirmitate: si posuerit pro peccato animam suam, videbit semen longaevum, et voluntas Domini in manu eius dirigetur.
 
 11 Pro eo quod laboravit anima eius, videbit et saturabitur: in scientia sua iustificabit ipse iustus servus meus multos, et iniquitates eorum ipse portabit.
 

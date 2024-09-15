@@ -50,7 +50,7 @@ summary: |
 
 ***Note*** :  Nb. 25, 17 : Voir Nombres, 31, 2.
 
-18 Parce qu'eux-mêmes aussi vous ont traités hostilement, et vous ont trompés insidieusement par l'idole de Phogor, et par Cozbi, fille du chef de Madian, leur sœur, qui fut frappée au jour de la plaie, à cause du sacrilège de Phogor.
+18 Parce qu'eux-mêmes aussi vous ont traités hostilement, et vous ont trompés insidieusement par l'idole de Phogor, et par Cozbi, fille du chef de Madian, leur soeur, qui fut frappée au jour de la plaie, à cause du sacrilège de Phogor.
 
 ***Note*** :  Nb. 25, 18 : Phogor, pour Béelphégor. Voir Nombres, 5, 3.
 

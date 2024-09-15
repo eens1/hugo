@@ -26,7 +26,7 @@ summary: |
 
 ***Note*** :  Bar. 6, 3 : Voir Isaïe, 44, 10. ― Des dieux d’or, etc. Il y avait à Babylone de nombreuses idoles d’or, d’argent, de pierre et de bois, et en certaines circonstances on les portait sur les épaules, comme nous le voyons sur des bas-reliefs du temps des Assyriens.
 
-4 Voyez donc à ne pas imiter les actions de ces étrangers, et à ne pas vous effrayer, et à ce que la frayeur ne vous saisisse pas à cause d'eux. 5 C'est pourquoi, quand vous verrez une multitude derrière et devant, adorant, dites en vos cœurs : C'est vous qu'il faut adorer. Seigneur. 6 Car mon ange est avec vous, et moi-même je rechercherai vos âmes.
+4 Voyez donc à ne pas imiter les actions de ces étrangers, et à ne pas vous effrayer, et à ce que la frayeur ne vous saisisse pas à cause d'eux. 5 C'est pourquoi, quand vous verrez une multitude derrière et devant, adorant, dites en vos coeurs : C'est vous qu'il faut adorer. Seigneur. 6 Car mon ange est avec vous, et moi-même je rechercherai vos âmes.
 
 ***Note*** :  Bar. 6, 6 : Mon ange ; saint Michel, défenseur du peuple hébreu. Voir Daniel, 10, vv. 13, 21 ; 12, 1. ― Je rechercherai vos âmes ; je prendrai soin de votre vie.
 
@@ -54,7 +54,7 @@ summary: |
 15 Ne les craignez donc pas; car comme le vase d'un homme, lorsqu'il est brisé, devient inutile, tels sont leurs dieux.
 
 
-16 Après qu'ils ont été placés dans une maison, leurs yeux sont pleins de la poussière des pieds de ceux qui entrent. 17 Et comme pour celui qui a offensé un roi, les portes sont fermées alentour, ou comme un mort mis au sépulcre, les prêtres défendent les portes par des verrous et par des serrures, de peur que par les voleurs ils ne soient entièrement dépouillés. 18 Ils allument devant eux des lampes, et en grand nombre, et ces dieux n'en peuvent voir aucune; mais ils sont comme les poutres dans une maison. 19 Ils disent aussi que les serpents qui sortent de la terre rongent leurs cœurs, lorsqu'en effet ils les dévorent, eux et leurs vêtements, et ils ne le sentent pas. 20 Leurs faces deviennent noires par la fumée qu'il fait dans la maison. 21 Sur leurs corps et sur leurs têtes volent les hiboux, les hirondelles, et les autres oiseaux aussi également, et les chats y sautent.
+16 Après qu'ils ont été placés dans une maison, leurs yeux sont pleins de la poussière des pieds de ceux qui entrent. 17 Et comme pour celui qui a offensé un roi, les portes sont fermées alentour, ou comme un mort mis au sépulcre, les prêtres défendent les portes par des verrous et par des serrures, de peur que par les voleurs ils ne soient entièrement dépouillés. 18 Ils allument devant eux des lampes, et en grand nombre, et ces dieux n'en peuvent voir aucune; mais ils sont comme les poutres dans une maison. 19 Ils disent aussi que les serpents qui sortent de la terre rongent leurs coeurs, lorsqu'en effet ils les dévorent, eux et leurs vêtements, et ils ne le sentent pas. 20 Leurs faces deviennent noires par la fumée qu'il fait dans la maison. 21 Sur leurs corps et sur leurs têtes volent les hiboux, les hirondelles, et les autres oiseaux aussi également, et les chats y sautent.
 
 ***Note*** :  Bar. 6, 21 : Sur leurs têtes volent les hiboux ou les chauves-souris, qui aiment à se retirer dans les endroits sombres et obscurs comme étaient les sanctuaires des anciens temples. Tous ceux qui ont voyagé en Orient ont constaté combien les chauves-souris sont nombreuses, spécialement dans les cavernes, d’où elles forcent quelquefois les curieux de s’enfuir.
 
@@ -86,7 +86,7 @@ summary: |
 
 ***Note*** :  Bar. 6, 31 : Ils rugissent, etc. Dans les repas qui se faisaient en l’honneur des morts, et souvent près du tombeau, les parents manifestaient leur douleur par des cris et des lamentations.
 
-32 Les prêtres enlèvent leurs vêtements, et en revêtent leurs femmes et leurs enfants. 33 S'ils éprouvent quelque mal de la part de quelqu'un, et quelque bien, ils ne peuvent le rendre; et ils ne peuvent constituer un roi, ni le renverser. 34 Pareillement ils ne peuvent ni donner des richesses, ni rendre le mal. Si quelqu'un voue un vœu et ne l'acquitte pas, ils ne s'en mettent pas en peine. 35 Ils ne délivrent pas un homme de la mort ; ils n'arrachent pas le faible de la main d'un plus puissant. 36 Ils ne rendent pas la vue à un homme aveugle, et de la détresse ils ne retirent pas un pauvre. 37 Ils n'auront pas pitié d'une veuve, et ils ne feront point de bien à des orphelins. 38 Aux pierres de la montagne sont semblables leurs dieux, dieux de bois et de pierre, et d'or et d'argent. Or ceux qui les adorent seront confondus. 39 Comment donc doit-on estimer ou dire qu'ils sont dieux?
+32 Les prêtres enlèvent leurs vêtements, et en revêtent leurs femmes et leurs enfants. 33 S'ils éprouvent quelque mal de la part de quelqu'un, et quelque bien, ils ne peuvent le rendre; et ils ne peuvent constituer un roi, ni le renverser. 34 Pareillement ils ne peuvent ni donner des richesses, ni rendre le mal. Si quelqu'un voue un voeu et ne l'acquitte pas, ils ne s'en mettent pas en peine. 35 Ils ne délivrent pas un homme de la mort ; ils n'arrachent pas le faible de la main d'un plus puissant. 36 Ils ne rendent pas la vue à un homme aveugle, et de la détresse ils ne retirent pas un pauvre. 37 Ils n'auront pas pitié d'une veuve, et ils ne feront point de bien à des orphelins. 38 Aux pierres de la montagne sont semblables leurs dieux, dieux de bois et de pierre, et d'or et d'argent. Or ceux qui les adorent seront confondus. 39 Comment donc doit-on estimer ou dire qu'ils sont dieux?
 
 
 40 Car encore les Chaldéens eux-mêmes ne les honorent pas; lorsqu'ils ont appris qu'un muet ne peut parler, ils l'offrent à Bel, lui demandant qu'il parle;
@@ -111,13 +111,13 @@ summary: |
 49 Comment donc doit-on croire qu'ils sont dieux, ceux qui ne peuvent ni se délivrer de la guerre, ni s'arracher aux autres maux?
 
 
-50 Car puisqu'ils sont de bois, et recouverts d'or et d'argent, il sera reconnu après cela par toutes les nations et tous les rois qu'ils sont faux; d'où il est manifeste que ce ne sont pas des dieux, mais l'œuvre de la main des hommes, et qu'il n'y a aucun ouvrage de Dieu en eux.
+50 Car puisqu'ils sont de bois, et recouverts d'or et d'argent, il sera reconnu après cela par toutes les nations et tous les rois qu'ils sont faux; d'où il est manifeste que ce ne sont pas des dieux, mais l'oeuvre de la main des hommes, et qu'il n'y a aucun ouvrage de Dieu en eux.
 
 ***Note*** :  Bar. 6, 50 : Il est manifeste ; littéralement lesquelles choses sont manifestes.
 
-51 De là donc il est reconnu qu'ils ne sont pas des dieux, mais des ouvrages des mains des hommes, et qu'il n'est aucune œuvre de Dieu en eux.
+51 De là donc il est reconnu qu'ils ne sont pas des dieux, mais des ouvrages des mains des hommes, et qu'il n'est aucune oeuvre de Dieu en eux.
 
-***Note*** :  Bar. 6, 51 : Aucune œuvre, etc. ; c’est-à-dire il n’y a rien de divin en eux.
+***Note*** :  Bar. 6, 51 : Aucune oeuvre, etc. ; c’est-à-dire il n’y a rien de divin en eux.
 
 
 52 Ils ne susciteront pas un roi pour un pays, et ils ne donneront pas de la pluie aux hommes ; 53 Et même ils ne discerneront pas un jugement, et ils ne délivreront point les provinces de la violence, parce qu'ils ne peuvent rien, comme des corneilles qui volent entre le ciel et la terre.

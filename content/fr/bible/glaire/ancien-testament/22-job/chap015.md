@@ -14,7 +14,7 @@ summary: |
 et n’oublierait pas le respect dû à Dieu, versets 2 à 6. ― 2° Sur quoi s’appuient donc ses prétentions à une si haute sagesse ? Versets 7 à 11. ― 3° Et comment un homme pécheur peut-il oser discuter contre Dieu qui trouve des taches dans ses anges ? Versets 12 à 16. ― 4° Transition. Qu’il écoute donc ce qu’il va lui dire d’après la révélation et la tradition, versets 17 à 19. ― II. Attaque contre Job. ― 5° L’impie n’a pas de repos ; il doit craindre à tout moment la plus terrible ruine, versets 20 à 24, ― 6° parce qu’il a été présomptueux dans la prospérité ; voilà pourquoi elle a un terme et finit d’une manière terrible, versets 25 à 30. ― 7° Les mensonges sur lesquels il se confie ne le protégeront pas, mais lui seront un piège, versets 31 à 35.
 
 
-2 Un sage répondra-t-il comme parlant en l'air, et remplira-t-il son cœur d'une chaleur ardente?
+2 Un sage répondra-t-il comme parlant en l'air, et remplira-t-il son coeur d'une chaleur ardente?
 
 ***Note*** :  Job 15, 2 : Remplira-t-il, etc. ; c’est-à-dire s’échauffera-t-il par des discours pleins d’une ardeur violente ?
 
@@ -34,7 +34,7 @@ et n’oublierait pas le respect dû à Dieu, versets 2 à 6. ― 2° Sur quoi s
 ***Note*** :  Job 15, 10 : Voir Ecclésiastique, 18, 8.
 
 
-11 Est-ce une chose considérable que Dieu te console? Mais tes paroles perverses l'en empêchent. 12 Pourquoi ton cœur t'élève-t-il, et as-tu les yeux fixes, comme si tu pensais de grandes choses? 13 Pourquoi ton esprit s'enfle-t-il contre Dieu, pour que tu profères de ta bouche de tels discours? 14 Qu'est-ce qu'un homme, pour qu'il soit sans tache et paraisse juste, étant né d'une femme?
+11 Est-ce une chose considérable que Dieu te console? Mais tes paroles perverses l'en empêchent. 12 Pourquoi ton coeur t'élève-t-il, et as-tu les yeux fixes, comme si tu pensais de grandes choses? 13 Pourquoi ton esprit s'enfle-t-il contre Dieu, pour que tu profères de ta bouche de tels discours? 14 Qu'est-ce qu'un homme, pour qu'il soit sans tache et paraisse juste, étant né d'une femme?
 
 ***Note*** :  Job 15, 14 : Qu’il soit sans tache ; c’est-à-dire qu’il se croie sans tache.
 
@@ -65,7 +65,7 @@ et n’oublierait pas le respect dû à Dieu, versets 2 à 6. ― 2° Sur quoi s
 
 ***Note*** :  Job 15, 33 : Sa grappe ; sa postérité. Comparer à Job, 1, 18-19.
 
-34 Car tout ce qu'amasse un hypocrite est sans fruit, et un feu dévorera les tabernacles de ceux qui reçoivent volontiers des présents. 35 Il a conçu la douleur et il a enfanté l'iniquité, et son cœur prépare des fourberies.
+34 Car tout ce qu'amasse un hypocrite est sans fruit, et un feu dévorera les tabernacles de ceux qui reçoivent volontiers des présents. 35 Il a conçu la douleur et il a enfanté l'iniquité, et son coeur prépare des fourberies.
 
-***Note*** :  Job 15, 35 : Voir Psaumes, 7, 15 ; Isaïe, 59, 4. ― Son cœur ; littéralement et selon l’hébreu son ventre, son intérieur.
+***Note*** :  Job 15, 35 : Voir Psaumes, 7, 15 ; Isaïe, 59, 4. ― Son coeur ; littéralement et selon l’hébreu son ventre, son intérieur.
 

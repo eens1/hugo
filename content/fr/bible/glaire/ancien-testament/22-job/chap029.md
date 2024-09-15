@@ -27,14 +27,14 @@ considération dont il a autrefois joui, versets 2 à 11. ― 2° La considérat
 ***Note*** :  Job 29, 6 : Je lavais mes pieds, etc. Ces expressions hyperboliques indiquent une grande abondance. ― Le beurre est ordinairement à l’état liquide en Orient.
 
 
-7 Quand je m'avançais vers la porte de la ville, et que sur la place publique on me préparait un siège? 8 Les jeunes hommes me voyaient, et se retiraient à l'écart; et les vieillards, se levant, se tenaient debout. 9 Les princes cessaient de parler, et mettaient un doigt sur leur bouche. 10 Les grands retenaient leur voix, et leur langue s'attachait à leur palais. 11 L'oreille qui m'entendait me proclamait bienheureux, et l'œil qui me voyait me rendait témoignage ;
+7 Quand je m'avançais vers la porte de la ville, et que sur la place publique on me préparait un siège? 8 Les jeunes hommes me voyaient, et se retiraient à l'écart; et les vieillards, se levant, se tenaient debout. 9 Les princes cessaient de parler, et mettaient un doigt sur leur bouche. 10 Les grands retenaient leur voix, et leur langue s'attachait à leur palais. 11 L'oreille qui m'entendait me proclamait bienheureux, et l'oeil qui me voyait me rendait témoignage ;
 
 
-12 Parce que j'avais délivré le pauvre qui criait, et l'orphelin qui n'avait pas de soutien. 13 La bénédiction de celui qui allait périr venait sur moi, et je consolais le cœur de la veuve. 14 Je me suis revêtu de la justice, et l'équité de mes jugements m'a servi comme de vêtement et de diadème.
+12 Parce que j'avais délivré le pauvre qui criait, et l'orphelin qui n'avait pas de soutien. 13 La bénédiction de celui qui allait périr venait sur moi, et je consolais le coeur de la veuve. 14 Je me suis revêtu de la justice, et l'équité de mes jugements m'a servi comme de vêtement et de diadème.
 
 ***Note*** :  Job 29, 14 : L’équité de mes jugements. La Vulgate dit simplement mon jugement ; mais le terme hébreu signifie aussi quelquefois jugement équitable. Or le contexte exige qu’on lui donne ici ce sens.
 
-15 J'ai été un œil pour l'aveugle, et un pied pour le boiteux. 16 J'étais le père des pauvres; et l'affaire que je ne connaissais pas, je l'étudiais avec le plus grand soin. 17 Je brisais les mâchoires de l'injuste, et j'arrachais la proie de ses dents. 18 Et je disais : C'est dans mon petit nid que je mourrai, et comme le palmier, je multiplierai mes jours.
+15 J'ai été un oeil pour l'aveugle, et un pied pour le boiteux. 16 J'étais le père des pauvres; et l'affaire que je ne connaissais pas, je l'étudiais avec le plus grand soin. 17 Je brisais les mâchoires de l'injuste, et j'arrachais la proie de ses dents. 18 Et je disais : C'est dans mon petit nid que je mourrai, et comme le palmier, je multiplierai mes jours.
 
 ***Note*** :  Job 29, 18 : Comme le palmier. En hébreu : comme le sable. Quelques modernes traduisent à tort : comme le phénix.
 

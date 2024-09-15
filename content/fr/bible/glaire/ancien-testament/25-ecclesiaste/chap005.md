@@ -5,19 +5,19 @@ draft: false
 summary: |
   
   Etre circonspect dans ses paroles.
-  S’acquitter de ses vœux.
+  S’acquitter de ses voeux.
   Ne point se scandaliser du renversement de la justice.
   L’avare est insatiable.
   Riche malheureux au milieu de ses richesses.
 ---
 
 
-1 Ne dis rien témérairement, et que ton cœur ne se hâte pas de proférer une parole devant Dieu. Car Dieu est dans le ciel, et toi sur la terre : à cause de cela, que tes paroles soient en petit nombre. 2 Les rêves suivent les soins multipliés ; et c'est dans les discours multipliés que se trouvera la folie.
+1 Ne dis rien témérairement, et que ton coeur ne se hâte pas de proférer une parole devant Dieu. Car Dieu est dans le ciel, et toi sur la terre : à cause de cela, que tes paroles soient en petit nombre. 2 Les rêves suivent les soins multipliés ; et c'est dans les discours multipliés que se trouvera la folie.
 
 
-3 Si tu as voué quelque chose à Dieu, ne tarde pas à l'effectuer; car la promesse infidèle et insensée lui déplaît; mais tout ce que tu auras voué, effectue-le; 4 Parce qu'il vaut beaucoup mieux ne pas vouer, qu'après un vœu ne pas effectuer ses promesses. 5 Ne permets pas que ta bouche fasse pécher ta chair, et ne dis pas devant l'ange : Il n'y a point de providence ; de peur que Dieu, irrité contre tes paroles, ne détruise toutes les œuvres de tes mains.
+3 Si tu as voué quelque chose à Dieu, ne tarde pas à l'effectuer; car la promesse infidèle et insensée lui déplaît; mais tout ce que tu auras voué, effectue-le; 4 Parce qu'il vaut beaucoup mieux ne pas vouer, qu'après un voeu ne pas effectuer ses promesses. 5 Ne permets pas que ta bouche fasse pécher ta chair, et ne dis pas devant l'ange : Il n'y a point de providence ; de peur que Dieu, irrité contre tes paroles, ne détruise toutes les oeuvres de tes mains.
 
-***Note*** :  Eccl. 5, 5 : Ne permets pas que ta bouche fasse pécher ta chair. Cette phrase est susceptible de plusieurs sens ; le plus simple et le plus naturel, comme se liant parfaitement à ce qui précède, nous a paru être : Ne permets pas de prononcer aucun vœu témérairement ; parce que, en ne l’acquittant pas, tu te rendras coupable de péché. ― Ta chair, pour te, toi. Voir Ecclésiaste, 2, 3. ― L’ange ; probablement le prêtre à qui il appartenait de prononcer sur les vœux (voir Lévitique, 5, 4-8), et de la bouche duquel on recueillait l’explication de la loi, car le prophète Malachie (2, 7), l’appelle formellement l’ange du Seigneur. Saint Jean désigne aussi sous le nom d’anges les évêques (voir Apocalypse, 1, 20, etc. )
+***Note*** :  Eccl. 5, 5 : Ne permets pas que ta bouche fasse pécher ta chair. Cette phrase est susceptible de plusieurs sens ; le plus simple et le plus naturel, comme se liant parfaitement à ce qui précède, nous a paru être : Ne permets pas de prononcer aucun voeu témérairement ; parce que, en ne l’acquittant pas, tu te rendras coupable de péché. ― Ta chair, pour te, toi. Voir Ecclésiaste, 2, 3. ― L’ange ; probablement le prêtre à qui il appartenait de prononcer sur les voeux (voir Lévitique, 5, 4-8), et de la bouche duquel on recueillait l’explication de la loi, car le prophète Malachie (2, 7), l’appelle formellement l’ange du Seigneur. Saint Jean désigne aussi sous le nom d’anges les évêques (voir Apocalypse, 1, 20, etc. )
 
 6 Où il y a beaucoup de rêves, il y a beaucoup de vanités et des paroles sans nombre; mais toi, crains Dieu.
 
@@ -43,7 +43,7 @@ summary: |
 16 Tous les jours de sa vie, il a mangé dans les ténèbres, dans des soins multipliés, dans le chagrin et dans la tristesse.
 
 
-17 Ainsi donc il m'a paru bon qu'un homme mange et boive, et qu'il goûte la joie du travail dans lequel il s'est fatigué lui-même sous le soleil, durant le nombre des jours de sa vie que lui a donnés Dieu; car c'est là sa part. 18 Et pour tout homme à qui Dieu a donné des richesses et du bien, et à qui il a accordé le pouvoir d'en manger, et de jouir, de prendre sa part et de se réjouir de son travail, cela est un don de Dieu. 19 Car il ne se souviendra pas beaucoup des jours de sa vie, parce que Dieu occupe son cœur de délices.
+17 Ainsi donc il m'a paru bon qu'un homme mange et boive, et qu'il goûte la joie du travail dans lequel il s'est fatigué lui-même sous le soleil, durant le nombre des jours de sa vie que lui a donnés Dieu; car c'est là sa part. 18 Et pour tout homme à qui Dieu a donné des richesses et du bien, et à qui il a accordé le pouvoir d'en manger, et de jouir, de prendre sa part et de se réjouir de son travail, cela est un don de Dieu. 19 Car il ne se souviendra pas beaucoup des jours de sa vie, parce que Dieu occupe son coeur de délices.
 
-***Note*** :  Eccl. 5, 19 : Pas beaucoup ; c’est le sens donné par les Septante ; c’est aussi celui du non satis ou pas assez de la Vulgate, expliqué par l’hébreu. Ainsi l’auteur veut dire qu’en usant avec modération du fruit de ses travaux, l’homme dont il est question au verset précédent trouvera sa vie courte, parce que Dieu remplit son cœur de délices qui la lui font passer agréablement.
+***Note*** :  Eccl. 5, 19 : Pas beaucoup ; c’est le sens donné par les Septante ; c’est aussi celui du non satis ou pas assez de la Vulgate, expliqué par l’hébreu. Ainsi l’auteur veut dire qu’en usant avec modération du fruit de ses travaux, l’homme dont il est question au verset précédent trouvera sa vie courte, parce que Dieu remplit son coeur de délices qui la lui font passer agréablement.
 

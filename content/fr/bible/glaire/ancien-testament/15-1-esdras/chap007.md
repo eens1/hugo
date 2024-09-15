@@ -23,7 +23,7 @@ summary: |
 
 ***Note*** :  I Esdras 7, 7 : La septième année, en 459 avant Jésus-Christ.
 
-8 Et ils vinrent à Jérusalem au cinquième mois ; c'est la septième année du roi; 9 Parce qu'au premier jour du premier mois, Esdras commença à monter de Babylone, et, au premier jour du cinquième mois, il vint à Jérusalem, à cause que la main favorable de son Dieu était sur lui. 10 Car Esdras disposa son cœur à rechercher la loi du Seigneur, et à faire et à enseigner en Israël les préceptes et les ordonnances.
+8 Et ils vinrent à Jérusalem au cinquième mois ; c'est la septième année du roi; 9 Parce qu'au premier jour du premier mois, Esdras commença à monter de Babylone, et, au premier jour du cinquième mois, il vint à Jérusalem, à cause que la main favorable de son Dieu était sur lui. 10 Car Esdras disposa son coeur à rechercher la loi du Seigneur, et à faire et à enseigner en Israël les préceptes et les ordonnances.
 
 ***Note*** :  I Esdras 7, 10 : Les préceptes et les ordonnances. C’est ainsi que l’on traduit généralement ; mais le texte hébreu porte au singulier et sans l’article déterminatif, précepte et ordonnance.
 
@@ -54,5 +54,5 @@ sera donné du trésor et du fisc du roi, 21 Et par moi. Moi, Artaxerxès, le ro
 26 Et quiconque n'observera point la loi de ton Dieu, et la loi du roi soigneusement, il y aura contre lui une condamnation, soit à la mort, soit à l'exil, soit à la confiscation de ses biens, ou certainement à la prison.
 
 
-27 Béni le Seigneur, Dieu de nos pères, qui a mis dans le cœur du roi de glorifier la maison du Seigneur qui est à Jérusalem, 28 Et qui a incliné sa miséricorde vers moi devant le roi et ses conseillers, et devant tous les puissants princes du roi! Et moi, fortifié par la main du Seigneur mon Dieu, laquelle était sur moi, j'ai assemblé les princes d'Israël pour monter avec moi.
+27 Béni le Seigneur, Dieu de nos pères, qui a mis dans le coeur du roi de glorifier la maison du Seigneur qui est à Jérusalem, 28 Et qui a incliné sa miséricorde vers moi devant le roi et ses conseillers, et devant tous les puissants princes du roi! Et moi, fortifié par la main du Seigneur mon Dieu, laquelle était sur moi, j'ai assemblé les princes d'Israël pour monter avec moi.
 

@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Paulus servus Dei, Apostolus autem Iesu Christi secundum fidem electorum Dei, et agnitionem veritatis, quæ secundum pietatem est
+1 Paulus servus Dei, Apostolus autem Iesu Christi secundum fidem electorum Dei, et agnitionem veritatis, quae secundum pietatem est
 
-2 in spem vitæ æternæ, quam promisit qui non mentitur, Deus, ante tempora sæcularia:
+2 in spem vitae aeternae, quam promisit qui non mentitur, Deus, ante tempora saecularia:
 
-3 manifestavit autem temporibus suis verbum suum in prædicatione, quæ credita est mihi secundum præceptum Salvatoris nostri Dei:
+3 manifestavit autem temporibus suis verbum suum in praedicatione, quae credita est mihi secundum praeceptum Salvatoris nostri Dei:
 
 4 Tito dilecto filio secundum communem fidem, gratia, et pax a Deo Patre, et Christo Iesu Salvatore nostro.
 
-5 Huius rei gratia reliqui te Cretæ, ut ea, quæ desunt, corrigas, et constituas per civitates presbyteros, sicut et ego disposui tibi.
+5 Huius rei gratia reliqui te Cretae, ut ea, quae desunt, corrigas, et constituas per civitates presbyteros, sicut et ego disposui tibi.
 
-6 Si quis sine crimine est, unius uxoris vir, filios habens fideles, non in accusatione luxuriæ, aut non subditos.
+6 Si quis sine crimine est, unius uxoris vir, filios habens fideles, non in accusatione luxuriae, aut non subditos.
 
 7 Oportet enim episcopum sine crimine esse, sicut Dei dispensatorem: non superbum, non iracundum, non vinolentum, non percussorem, non turpis lucri cupidum:
 
@@ -25,15 +25,15 @@ draft: false
 
 10 Sunt enim multi etiam inobedientes, vaniloqui, et seductores: maxime qui de circumcisione sunt:
 
-11 quos oportet redargui: qui universas domos subvertunt, docentes quæ non oportet, turpis lucri gratia.
+11 quos oportet redargui: qui universas domos subvertunt, docentes quae non oportet, turpis lucri gratia.
 
-12 Dixit quidam ex illis, proprius ipsorum propheta: Cretenses semper mendaces, malæ bestiæ, ventres pigri.
+12 Dixit quidam ex illis, proprius ipsorum propheta: Cretenses semper mendaces, malae bestiae, ventres pigri.
 
 13 Testimonium hoc verum est. Quam ob causam increpa illos dure, ut sani sint in fide,
 
 14 non intendentes Iudaicis fabulis, et mandatis hominum, aversantium se a veritate.
 
-15 Omnia munda mundis: coinquinatis autem, et infidelibus nihil est mundum, sed inquinatæ sunt eorum et mens, et conscientia.
+15 Omnia munda mundis: coinquinatis autem, et infidelibus nihil est mundum, sed inquinatae sunt eorum et mens, et conscientia.
 
 16 Confitentur se nosse Deum, factis autem negant: cum sint abominati, et incredibiles, et ad omne opus bonum reprobi.
 

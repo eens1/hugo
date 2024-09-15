@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Fili accedens ad servitutem Dei, sta in iustitia, et timore, et præpara animam tuam ad tentationem.
+1 Fili accedens ad servitutem Dei, sta in iustitia, et timore, et praepara animam tuam ad tentationem.
 
 2 Deprime cor tuum, et sustine: inclina aurem tuam, et suscipe verba intellectus: et ne festines in tempore obductionis.
 
@@ -31,23 +31,23 @@ draft: false
 
 13 Quoniam pius et misericors est Deus, et remittet in die tribulationis peccata: et protector est omnibus exquirentibus se in veritate.
 
-14 Væ duplici corde, et labiis scelestis, et manibus malefacientibus, et peccatori terram ingredienti duabus viis.
+14 Vae duplici corde, et labiis scelestis, et manibus malefacientibus, et peccatori terram ingredienti duabus viis.
 
-15 Væ dissolutis corde, qui non credunt Deo: et ideo non protegentur ab eo.
+15 Vae dissolutis corde, qui non credunt Deo: et ideo non protegentur ab eo.
 
-16 Væ his, qui perdiderunt sustinentiam, et qui dereliquerunt vias rectas, et diverterunt in vias pravas.
+16 Vae his, qui perdiderunt sustinentiam, et qui dereliquerunt vias rectas, et diverterunt in vias pravas.
 
-17 Et quid facient, cum inspicere cœperit Dominus?
+17 Et quid facient, cum inspicere coeperit Dominus?
 
 18 Qui timent Dominum, non erunt incredibiles verbo illius: et qui diligunt illum, conservabunt viam illius.
 
-19 Qui timent Dominum, inquirent quæ beneplacita sunt ei: et qui diligunt eum, replebuntur lege ipsius.
+19 Qui timent Dominum, inquirent quae beneplacita sunt ei: et qui diligunt eum, replebuntur lege ipsius.
 
-20 Qui timent Dominum, præparabunt corda sua, et in conspectu illius sanctificabunt animas suas.
+20 Qui timent Dominum, praeparabunt corda sua, et in conspectu illius sanctificabunt animas suas.
 
 21 Qui timent Dominum, custodiunt mandata illius, et patientiam habebunt usque ad inspectionem illius,
 
-22 dicentes: Si pœnitentiam non egerimus, incidemus in manus Domini, et non in manus hominum.
+22 dicentes: Si poenitentiam non egerimus, incidemus in manus Domini, et non in manus hominum.
 
 23 Secundum enim magnitudinem ipsius, sic et misericordia illius cum ipso est.
 

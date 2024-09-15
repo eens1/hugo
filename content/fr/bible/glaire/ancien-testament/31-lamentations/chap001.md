@@ -12,7 +12,7 @@ summary: |
 1 ALEPH.
 Comment est-elle assise solitaire, la ville pleine de peuple ? elle est devenue comme veuve, la maîtresse des nations ; la reine des provinces a été assujettie au tribut.
 
-***Note*** :  Lm. 1, 1 : Le 1er verset donne le ton de tout le morceau. La pensée qui frappe l’esprit du prophète, c’est la solitude dans laquelle il se trouve. La princesse, la maîtresse des nations, est maintenant assise solitaire, comme la Judæa capta qu’on voit plus tard sur les médailles romaines. (Voir l’Appendice). Ses enfants lui ont été enlevés et elle est plongée dans la plus profonde misère.
+***Note*** :  Lm. 1, 1 : Le 1er verset donne le ton de tout le morceau. La pensée qui frappe l’esprit du prophète, c’est la solitude dans laquelle il se trouve. La princesse, la maîtresse des nations, est maintenant assise solitaire, comme la Judaea capta qu’on voit plus tard sur les médailles romaines. (Voir l’Appendice). Ses enfants lui ont été enlevés et elle est plongée dans la plus profonde misère.
 
 2 BETH.
 Pleurant, elle a pleuré pendant la nuit, et ses larmes coulent sur ses joues ; et il n'est personne qui la console, parmi ceux qui lui étaient chers ; tous ses amis l'ont méprisée et sont devenus ses ennemis.
@@ -85,7 +85,7 @@ Le Seigneur a enlevé du milieu de moi tous mes hommes illustres; il a appelé c
 
 
 16 AIN.
-C'est pour cela que moi je pleure, et que mon œil a fait couler des eaux ; parce qu'il s'est éloigné de moi, le consolateur qui devait faire revenir mon âme ; mes fils sont perdus, parce que l'ennemi est devenu le plus fort.
+C'est pour cela que moi je pleure, et que mon oeil a fait couler des eaux ; parce qu'il s'est éloigné de moi, le consolateur qui devait faire revenir mon âme ; mes fils sont perdus, parce que l'ennemi est devenu le plus fort.
 
 ***Note*** :  Lm. 1, 16 : Voir Jérémie, 14, 17. ― Qui devait faire revenir mon âme (convertens animam meam) ; lorsque la tristesse lui faisait abandonner mon corps ; qui devait me redonner la vie.
 
@@ -105,7 +105,7 @@ J'ai appelé mes amis et ils m'ont trompée; mes prêtres et mes vieillards ont 
 
 
 20 RES.
-Voyez, Seigneur, que je suis dans la tribulation ; mes entrailles sont émues ; mon cœur est bouleversé au dedans de moi, parce que je suis remplie d'amertume; au dehors le glaive tue; au dedans, c'est de même la mort.
+Voyez, Seigneur, que je suis dans la tribulation ; mes entrailles sont émues ; mon coeur est bouleversé au dedans de moi, parce que je suis remplie d'amertume; au dehors le glaive tue; au dedans, c'est de même la mort.
 
 ***Note*** :  Lm. 1, 20 : Au-dehors, etc. Hors de la ville, dans le pays, les Juifs étaient tués par les Chaldéens ; dans la ville ils mouraient par la famine et la peste.
 
@@ -115,7 +115,7 @@ Ils ont appris que je gémis, et qu'il n'y a personne qui me console; tous mes e
 
 
 22 THAU.
-Que tout le mal qu'ils ont fait vienne devant vous; et vendangez-les, comme vous m'avez vendangée à cause de toutes mes iniquités; car mes gémissements sont nombreux, et mon cœur est triste.
+Que tout le mal qu'ils ont fait vienne devant vous; et vendangez-les, comme vous m'avez vendangée à cause de toutes mes iniquités; car mes gémissements sont nombreux, et mon coeur est triste.
 
 ***Note*** :  Lm. 1, 22 : Vendangez-les. Voir, pour le sens de cette expression, le verset 12.
 

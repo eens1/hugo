@@ -9,25 +9,25 @@ draft: false
 
 2 Cantate ei, et psallite ei: narrate omnia mirabilia eius.
 
-3 Laudamini in nomine sancto eius: lætetur cor quærentium Dominum.
+3 Laudamini in nomine sancto eius: laetetur cor quaerentium Dominum.
 
-4 Quærite Dominum, et confirmamini: quærite faciem eius semper.
+4 Quaerite Dominum, et confirmamini: quaerite faciem eius semper.
 
-5 Mementote mirabilium eius, quæ fecit: prodigia eius, et iudicia oris eius.
+5 Mementote mirabilium eius, quae fecit: prodigia eius, et iudicia oris eius.
 
 6 Semen Abraham, servi eius: filii Iacob electi eius.
 
 7 Ipse Dominus Deus noster: in universa terra iudicia eius.
 
-8 Memor fuit in sæculum testamenti sui: verbi, quod mandavit in mille generationes:
+8 Memor fuit in saeculum testamenti sui: verbi, quod mandavit in mille generationes:
 
 9 Quod disposuit ad Abraham: et iuramenti sui ad Isaac:
 
-10 Et statuit illud Iacob in præceptum: et Israel in testamentum æternum:
+10 Et statuit illud Iacob in praeceptum: et Israel in testamentum aeternum:
 
-11 Dicens: Tibi dabo Terram Chanaan, funiculum hereditatis vestræ.
+11 Dicens: Tibi dabo Terram Chanaan, funiculum hereditatis vestrae.
 
-12 Cum essent numero brevi, paucissimi et incolæ eius:
+12 Cum essent numero brevi, paucissimi et incolae eius:
 
 13 Et pertransierunt de gente in gentem, et de regno ad populum alterum.
 
@@ -45,11 +45,11 @@ draft: false
 
 20 misit rex, et solvit eum; princeps populorum, et dimisit eum.
 
-21 Constituit eum dominum domus suæ: et principem omnis possessionis suæ:
+21 Constituit eum dominum domus suae: et principem omnis possessionis suae:
 
 22 Ut erudiret principes eius sicut semetipsum: et senes eius prudentiam doceret.
 
-23 Et intravit Israel in Ægyptum: et Iacob accola fuit in Terra Cham.
+23 Et intravit Israel in AEgyptum: et Iacob accola fuit in Terra Cham.
 
 24 Et auxit populum suum vehementer: et firmavit eum super inimicos eius.
 
@@ -65,7 +65,7 @@ draft: false
 
 30 Edidit terra eorum ranas in penetralibus regum ipsorum.
 
-31 Dixit, et venit cœnomyia: et cinifes in omnibus finibus eorum.
+31 Dixit, et venit coenomyia: et cinifes in omnibus finibus eorum.
 
 32 Posuit pluvias eorum grandinem: ignem comburentem in terra ipsorum.
 
@@ -73,23 +73,23 @@ draft: false
 
 34 Dixit, et venit locusta, et bruchus, cuius non erat numerus:
 
-35 Et comedit omne fœnum in terra eorum: et comedit omnem fructum terræ eorum.
+35 Et comedit omne foenum in terra eorum: et comedit omnem fructum terrae eorum.
 
 36 Et percussit omne primogenitum in terra eorum: primitias omnis laboris eorum.
 
 37 Et eduxit eos cum argento et auro: et non erat in tribubus eorum infirmus.
 
-38 Lætata est Ægyptus in profectione eorum: quia incubuit timor eorum super eos.
+38 Laetata est AEgyptus in profectione eorum: quia incubuit timor eorum super eos.
 
 39 Expandit nubem in protectionem eorum, et ignem ut luceret eis per noctem.
 
-40 Petierunt, et venit coturnix: et pane cæli saturavit eos.
+40 Petierunt, et venit coturnix: et pane caeli saturavit eos.
 
-41 Dirupit petram, et fluxerunt aquæ: abierunt in sicco flumina;
+41 Dirupit petram, et fluxerunt aquae: abierunt in sicco flumina;
 
 42 Quoniam memor fuit verbi sancti sui, quod habuit ad Abraham puerum suum.
 
-43 Et eduxit populum suum in exultatione, et electos suos in lætitia.
+43 Et eduxit populum suum in exultatione, et electos suos in laetitia.
 
 44 Et dedit illis regiones gentium: et labores populorum possederunt:
 

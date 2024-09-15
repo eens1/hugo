@@ -6,7 +6,7 @@ summary: |
   
   Ezéchiel reçoit du Seigneur l’ordre de représenter à Jérusalem l’état misérable d’où il l’a tirée, la gloire à laquelle il l’a élevée, l’infidélité dont elle s’est rendue coupable, les excès auxquels elle s’est portée, les vengeances qu’il va exercer sur elle.
   Son infidélité surpasse celle de Samarie et de Sodome.
-  Rétablissement de ces trois sœurs.
+  Rétablissement de ces trois soeurs.
   Renouvellement de l’alliance du Seigneur avec Jérusalem.
 ---
 
@@ -26,7 +26,7 @@ summary: |
 
 ***Note*** :  Éz. 16, 4 : Tu n’as pas été lavée, etc. Les anciens avaient coutume de laver les nouveau-nés dans l’eau froide. ― Ni salée, etc. C’est encore l’usage en Orient de frotter les enfants naissant de sel, pour les purifier et raffermir leur chair.
 
-5 Aucun œil, ayant pitié de toi n'a cherché à te faire une seule de ces choses ; mais tu as été jetée sur la face de la terre, en mépris de ton âme, le jour que tu es née.
+5 Aucun oeil, ayant pitié de toi n'a cherché à te faire une seule de ces choses ; mais tu as été jetée sur la face de la terre, en mépris de ton âme, le jour que tu es née.
 
 ***Note*** :  Éz. 16, 5 : Ton âme ; c’est-à-dire ta personne, toi.
 
@@ -65,7 +65,7 @@ summary: |
 28 Et tu as forniqué avec les fils des Assyriens, parce que tu n'étais pas encore assouvie; et après que tu as ainsi forniqué, tu n'as pas été encore rassasiée. 29 Et tu as multiplié ta fornication dans la terre de Chanaan avec les Chaldéens ; et tu n'as pas encore été rassasiée.
 
 
-30 Avec quoi purifierai-je ton cœur, dit le Seigneur Dieu, lorsque tu fais les œuvres d'une prostituée, et d'une impudente? 31 Parce que tu t'es formé un lieu de débauche à la tête de toute voie, et tu l'es fait un haut lieu sur toute place publique; et tu n'as pas été comme une prostituée, augmentant son prix par dédain pour celui qui lui est offert,
+30 Avec quoi purifierai-je ton coeur, dit le Seigneur Dieu, lorsque tu fais les oeuvres d'une prostituée, et d'une impudente? 31 Parce que tu t'es formé un lieu de débauche à la tête de toute voie, et tu l'es fait un haut lieu sur toute place publique; et tu n'as pas été comme une prostituée, augmentant son prix par dédain pour celui qui lui est offert,
 
 ***Note*** :  Éz. 16, 31 : Un haut lieu (excelsum) ; un autel ou une maison de prostitution sur un lieu élevé ; car l’un et l’autre se pratiquaient.
 
@@ -96,28 +96,28 @@ summary: |
 ***Note*** :  Éz. 16, 43 : J’ai mis, etc. Voir Ezéchiel, 11, 21.
 
 
-44 Voilà que quiconque dit ordinairement des proverbes se servira de celui-ci contre toi en disant : Comme est la mère, ainsi sa fille. 45 Toi, tu es vraiment la fille de ta mère qui a abandonné son mari et ses enfants ; et tu es la sœur de tes sœurs, qui ont abandonné leurs maris et leurs enfants ; votre mère était Céthéenne, et votre père Amorrhéen.
+44 Voilà que quiconque dit ordinairement des proverbes se servira de celui-ci contre toi en disant : Comme est la mère, ainsi sa fille. 45 Toi, tu es vraiment la fille de ta mère qui a abandonné son mari et ses enfants ; et tu es la soeur de tes soeurs, qui ont abandonné leurs maris et leurs enfants ; votre mère était Céthéenne, et votre père Amorrhéen.
 
 ***Note*** :  Éz. 16, 45 : Céthéenne. Voir le verset 3.
 
-46 Et ta sœur aînée est Samarie, elle et ses filles, qui habitent à ta gauche ; mais ta sœur puînée, qui habite à ta droite, est Sodome et ses filles.
+46 Et ta soeur aînée est Samarie, elle et ses filles, qui habitent à ta gauche ; mais ta soeur puînée, qui habite à ta droite, est Sodome et ses filles.
 
-***Note*** :  Éz. 16, 46 : Et ta sœur, etc. Le Prophète considère ici Samarie et Sodome comme subsistantes, quoique Sodome eût été brûlée par le feu du ciel au temps d’Abraham et Samarie ruinée longtemps avant Ezéchiel par Salmanasar ; son but en cela est uniquement d’établir entre ces trois villes une comparaison sous le rapport de leurs crimes. De même, s’il nomme Samarie sœur aînée de Jérusalem, ce n’est pas qu’elle fût plus ancienne, mais c’est parce qu’elle était sa plus proche parente, et la plus puissante, la plus peuplée, et celle que Jérusalem avait imitée la première n’étant pas tombée tout d’un coup dans les dérèglements de Sodome, comme le remarque Théodoret. ― Ses filles ; hébraïsme, pour les villes qui dépendaient d’elle. ― Qui habitent à ta gauche… qui habite à ta droite. Saint Jérôme dit, pour expliquer cette expression, que si quelqu’un regardait du temple de Jérusalem vers l’Orient, il avait à gauche la ville de Samarie et à droite Sodome. ― Samarie. Voir 3 Rois, note 16. 24. ― Sodome. Voir Genèse,
+***Note*** :  Éz. 16, 46 : Et ta soeur, etc. Le Prophète considère ici Samarie et Sodome comme subsistantes, quoique Sodome eût été brûlée par le feu du ciel au temps d’Abraham et Samarie ruinée longtemps avant Ezéchiel par Salmanasar ; son but en cela est uniquement d’établir entre ces trois villes une comparaison sous le rapport de leurs crimes. De même, s’il nomme Samarie soeur aînée de Jérusalem, ce n’est pas qu’elle fût plus ancienne, mais c’est parce qu’elle était sa plus proche parente, et la plus puissante, la plus peuplée, et celle que Jérusalem avait imitée la première n’étant pas tombée tout d’un coup dans les dérèglements de Sodome, comme le remarque Théodoret. ― Ses filles ; hébraïsme, pour les villes qui dépendaient d’elle. ― Qui habitent à ta gauche… qui habite à ta droite. Saint Jérôme dit, pour expliquer cette expression, que si quelqu’un regardait du temple de Jérusalem vers l’Orient, il avait à gauche la ville de Samarie et à droite Sodome. ― Samarie. Voir 3 Rois, note 16. 24. ― Sodome. Voir Genèse,
 note 13. 10.
 
-47 Mais tu n'as pas même marché dans leurs voies, et quant à leurs crimes, tu n'en as pas fait moins qu'elles ; tu as fait des choses presque plus criminelles, dans toutes tes voies. 48 Je vis, moi, dit le Seigneur Dieu, Sodome ta sœur, elle et ses filles, n'ont pas fait comme tu as fait, toi et tes filles.
+47 Mais tu n'as pas même marché dans leurs voies, et quant à leurs crimes, tu n'en as pas fait moins qu'elles ; tu as fait des choses presque plus criminelles, dans toutes tes voies. 48 Je vis, moi, dit le Seigneur Dieu, Sodome ta soeur, elle et ses filles, n'ont pas fait comme tu as fait, toi et tes filles.
 
 ***Note*** :  Éz. 16, 48 : Je vis, moi ; c’est-à-dire je jure par moi-même. Voir Ezéchiel, 5, 11.
 
-49 Voici quelle a été l'iniquité de Sodome ta sœur : l'orgueil, l'excès de nourriture, l'abondance, et l'oisiveté d'elle et de ses filles; et elles ne tendaient pas la main à l'indigent et au pauvre.
+49 Voici quelle a été l'iniquité de Sodome ta soeur : l'orgueil, l'excès de nourriture, l'abondance, et l'oisiveté d'elle et de ses filles; et elles ne tendaient pas la main à l'indigent et au pauvre.
 
 ***Note*** :  Éz. 16, 49 : Voir Genèse, 19, 24. ― L’excès de nourriture (saturitas panis) ; l’intempérance.
 
-50 Et elles se sont élevées, et elles ont fait des abominations devant moi; et je les ai détruites comme tu as vu. 51 Et Samarie n'a pas commis la moitié de tes péchés ; mais tu les as surpassées par tes crimes, et tu as justifié tes sœurs par toutes tes abominations que tu as faites.
+50 Et elles se sont élevées, et elles ont fait des abominations devant moi; et je les ai détruites comme tu as vu. 51 Et Samarie n'a pas commis la moitié de tes péchés ; mais tu les as surpassées par tes crimes, et tu as justifié tes soeurs par toutes tes abominations que tu as faites.
 
 ***Note*** :  Éz. 16, 51-52 : Tu les as justifiées ; tu les as rendues plus justes, moins coupables que toi : elles étaient justes auprès de toi.
 
-52 Porte donc aussi ta confusion, toi qui as surpassé tes sœurs par les péchés, agissant plus criminellement qu'elles : car elles ont été justifiées par toi ; sois donc confondue, et porte ton ignominie, toi qui as justifié tes sœurs.
+52 Porte donc aussi ta confusion, toi qui as surpassé tes soeurs par les péchés, agissant plus criminellement qu'elles : car elles ont été justifiées par toi ; sois donc confondue, et porte ton ignominie, toi qui as justifié tes soeurs.
 
 
 53 Et je les ferai retourner en les rétablissant par le retour de Sodome avec ses filles, et par le retour de Samarie et de ses filles, et je te ferai retourner au milieu d'elles,
@@ -126,16 +126,16 @@ note 13. 10.
 
 54 Afin que tu portes ton ignominie, et que tu sois confondue de tout ce que tu as fait, de manière à les consoler.
 
-***Note*** :  Éz. 16, 54 : De manière à les consoler. La grandeur de ton châtiment sera un sujet de consolation pour tes sœurs, Samarie et Sodome, parce qu’elles en concluront qu’elles étaient moins coupables que toi.
+***Note*** :  Éz. 16, 54 : De manière à les consoler. La grandeur de ton châtiment sera un sujet de consolation pour tes soeurs, Samarie et Sodome, parce qu’elles en concluront qu’elles étaient moins coupables que toi.
 
-55 Ta sœur Sodome et ses filles retourneront à leur ancien état. Samarie et ses filles retourneront à leur ancien état; et toi et tes filles, vous retournerez à votre ancien état. 56 Mais le nom même de Sodome, ta sœur, n'a pas été entendu sortir de ta bouche, au jour de ton orgueil,
+55 Ta soeur Sodome et ses filles retourneront à leur ancien état. Samarie et ses filles retourneront à leur ancien état; et toi et tes filles, vous retournerez à votre ancien état. 56 Mais le nom même de Sodome, ta soeur, n'a pas été entendu sortir de ta bouche, au jour de ton orgueil,
 
-***Note*** :  Éz. 16, 56-57 : Le nom même, etc. Tu regardais Sodome, ta sœur, avec horreur et mépris, tu ne prononçais pas même son nom, à cause de ses crimes ; mais c’était avant que tu devinsses toi-même criminelle comme tu l’as été depuis, et que tu fusses un objet d’opprobre pour les villes de Syrie, etc.
+***Note*** :  Éz. 16, 56-57 : Le nom même, etc. Tu regardais Sodome, ta soeur, avec horreur et mépris, tu ne prononçais pas même son nom, à cause de ses crimes ; mais c’était avant que tu devinsses toi-même criminelle comme tu l’as été depuis, et que tu fusses un objet d’opprobre pour les villes de Syrie, etc.
 
 57 Avant qu'eût été révélée ta méchanceté, comme elle l'a été en ce temps où tu es devenue l'opprobre des filles de Syrie et de toutes les filles de la Palestine qui t'environnent de toutes parts. 58 Tu as porté ton crime et ton ignominie, dit le Seigneur Dieu.
 
 
-59 Parce que voici ce que dit le Seigneur Dieu : Je te ferai comme tu as fait, toi qui as méprisé un serment, afin de rendre vaine une alliance. 60 Et moi je me souviendrai de mon alliance avec toi aux jours de ta jeunesse, et j'établirai avec toi une alliance éternelle. 61 Et tu te souviendras de tes voies, et tu seras confondue, lorsque tu recevras avec toi tes sœurs aînées et tes sœurs puînées ; et je te les donnerai pour filles, mais non par une alliance qui vienne de toi.
+59 Parce que voici ce que dit le Seigneur Dieu : Je te ferai comme tu as fait, toi qui as méprisé un serment, afin de rendre vaine une alliance. 60 Et moi je me souviendrai de mon alliance avec toi aux jours de ta jeunesse, et j'établirai avec toi une alliance éternelle. 61 Et tu te souviendras de tes voies, et tu seras confondue, lorsque tu recevras avec toi tes soeurs aînées et tes soeurs puînées ; et je te les donnerai pour filles, mais non par une alliance qui vienne de toi.
 
 ***Note*** :  Éz. 16, 61 : Je te les donnerai, etc. Samarie et Sodome, dans le sens que nous les avons expliquées au verset 53, sont réellement devenues les filles de Jérusalem. Le pays de Samarie fut cédé aux Juifs par Alexandre le Grand, dit l’historien Josèphe (Contr. App. , livre II), quoiqu’ils n’en jouirent pas longtemps. Sous les Machabées, les rois de Syrie démembrèrent quelques villes du même pays pour les joindre à la Judée (voir 1 Machabées, 10, vv. 28, 34). Enfin la Samarie entière fut entièrement soumise aux Juifs sous Jean Hircan, qui en prit et en ruina la capitale (voir 4 Machabées, chapitre 6 ; Jos. Antiq. , livre XIII, chapitre XVII). Quant à Sodome, c’est-à-dire aux Moabites et aux Ammonites, descendants de Lot, ils furent également réduits à l’obéissance des Juifs par Judas Machabée et par ses frères, aussi bien que l’Idumée et ce qui était autour du lac Asphaltite, (voir 1 Machabées, 5, vv. 3, 26 et suivants ; Jos. Antiq. , livre XII, chapitre XII). Enfin les peuples gentils, figurés par Samarie et
 Sodome, sont devenus les enfants de Jérusalem par la nouvelle et éternelle alliance dans laquelle Jésus-Christ a bien voulu comprendre les étrangers avec les enfants, les Juifs avec les Gentils (voir Isaïe, 56, 3 ; Romains, 3, verset 9 et suivants ; Galates, 4, verset 24 et suivants, 5, 6).

@@ -30,14 +30,14 @@ summary: |
 
 ***Note*** :  Ps. 63, 6-7 : Tableau des coups et des intrigues des calomniateurs !
 
-7 Ils ont cherché avec soin des iniquités contre moi; ceux qui les cherchaient ont défailli dans ces recherches. L'homme descendra dans la profondeur de son cœur;
+7 Ils ont cherché avec soin des iniquités contre moi; ceux qui les cherchaient ont défailli dans ces recherches. L'homme descendra dans la profondeur de son coeur;
 
-***Note*** :  Ps. 63, 7 : Ils ont cherché, etc. Pour couvrir leur injustice d’un prétexte d’équité, ils ont voulu me faire passer pour un homme criminel, mais leurs accusations sont tombées d’elles-mêmes. ― L’homme méchant descendra dans la profondeur de son cœur, pour y chercher les moyens de perdre le juste.
+***Note*** :  Ps. 63, 7 : Ils ont cherché, etc. Pour couvrir leur injustice d’un prétexte d’équité, ils ont voulu me faire passer pour un homme criminel, mais leurs accusations sont tombées d’elles-mêmes. ― L’homme méchant descendra dans la profondeur de son coeur, pour y chercher les moyens de perdre le juste.
 
 
 8 Mais Dieu sera exalté. Les plaies qu'ils ont faites sont devenues des flèches de petits enfants.
 
 ***Note*** :  Ps. 63, 8-11 : Châtiment que Dieu réserve aux calomniateurs.
 
-9 Et leurs langues ont perdu leur force, en se tournant contre eux-mêmes. Tous ceux qui les voyaient ont été troublés, 10 Et tout homme a été saisi de crainte. Et ils ont annoncé les œuvres de Dieu, et ils ont compris les choses qu'il a faites. 11 Le juste se réjouira dans le Seigneur, et il espérera en lui, et tous les hommes droits de cœur seront loués.
+9 Et leurs langues ont perdu leur force, en se tournant contre eux-mêmes. Tous ceux qui les voyaient ont été troublés, 10 Et tout homme a été saisi de crainte. Et ils ont annoncé les oeuvres de Dieu, et ils ont compris les choses qu'il a faites. 11 Le juste se réjouira dans le Seigneur, et il espérera en lui, et tous les hommes droits de coeur seront loués.
 

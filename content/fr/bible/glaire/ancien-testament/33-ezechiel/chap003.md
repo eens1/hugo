@@ -26,10 +26,10 @@ summary: |
 
 ***Note*** :  Éz. 3, 5 : D’une langue inconnue. Les Juifs captifs, en arrivant en Babylonie, ne devaient pas en comprendre la langue.
 
-6 Ni à des peuples nombreux, d'un langage profond et d'une langue inconnue, et dont tu ne puisses pas entendre les paroles ; et si tu étais envoyé vers eux, ils t'écouteraient. 7 Mais la maison d'Israël ne veut pas t'écouter, parce qu'elle ne veut pas m'écouter; car toute la maison d'Israël est d'un front d'airain et d'un cœur dur. 8 Voilà que j'ai rendu ta face plus ferme que leurs faces, et ton front plus dur que leurs fronts. 9 Comme un diamant, comme une pierre, j'ai rendu ta face; ne les crains pas, ne redoute pas leur face, parce que c'est une maison qui m'exaspère.
+6 Ni à des peuples nombreux, d'un langage profond et d'une langue inconnue, et dont tu ne puisses pas entendre les paroles ; et si tu étais envoyé vers eux, ils t'écouteraient. 7 Mais la maison d'Israël ne veut pas t'écouter, parce qu'elle ne veut pas m'écouter; car toute la maison d'Israël est d'un front d'airain et d'un coeur dur. 8 Voilà que j'ai rendu ta face plus ferme que leurs faces, et ton front plus dur que leurs fronts. 9 Comme un diamant, comme une pierre, j'ai rendu ta face; ne les crains pas, ne redoute pas leur face, parce que c'est une maison qui m'exaspère.
 
 
-10 Et il me dit : Fils d'un homme, toutes les paroles que moi je te dis, prends-les dans ton cœur, et écoute-les de tes oreilles;
+10 Et il me dit : Fils d'un homme, toutes les paroles que moi je te dis, prends-les dans ton coeur, et écoute-les de tes oreilles;
 
 ***Note*** :  Éz. 3, 10 : Ecoute-les, etc. ; hébraïsme, pour écoute-les très attentivement.
 
@@ -67,7 +67,7 @@ summary: |
 
 ***Note*** :  Éz. 3, 18 : Tu mourras de mort ; hébraïsme, pour tu mourras infailliblement.
 
-19 Mais si tu l'annonces à l'impie, et qu'il ne se détourne pas de son impiété et de sa voie impie, lui-même, à la vérité, mourra dans son iniquité; mais toi, tu auras délivré ton âme. 20 Mais si le juste abandonne sa justice et commet l'iniquité, je mettrai une pierre d'achoppement devant lui ; il mourra lui-même, parce que tu ne le lui as pas annoncé ; il mourra dans son péché, et il ne sera pas mémoire de ses œuvres de justice qu'il a faites ; mais je te redemanderai son sang. 21 Mais si toi, tu annonces au juste de ne pas pécher, et que lui ne pèche pas ; vivant, il vivra, parce que tu lui as annoncé, et toi. tu as délivré ton âme.
+19 Mais si tu l'annonces à l'impie, et qu'il ne se détourne pas de son impiété et de sa voie impie, lui-même, à la vérité, mourra dans son iniquité; mais toi, tu auras délivré ton âme. 20 Mais si le juste abandonne sa justice et commet l'iniquité, je mettrai une pierre d'achoppement devant lui ; il mourra lui-même, parce que tu ne le lui as pas annoncé ; il mourra dans son péché, et il ne sera pas mémoire de ses oeuvres de justice qu'il a faites ; mais je te redemanderai son sang. 21 Mais si toi, tu annonces au juste de ne pas pécher, et que lui ne pèche pas ; vivant, il vivra, parce que tu lui as annoncé, et toi. tu as délivré ton âme.
 
 
 22 Et la main du Seigneur fut sur moi, et il me dit : Lève-toi, sors dans la campagne, et là je te parlerai.

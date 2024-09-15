@@ -5,11 +5,11 @@ draft: false
 ---
 
 
-1 Ne æmuleris viros malos, nec desideres esse cum eis:
+1 Ne aemuleris viros malos, nec desideres esse cum eis:
 
 2 quia rapinas meditatur mens eorum, et fraudes labia eorum loquuntur.
 
-3 Sapientia ædificabitur domus, et prudentia roborabitur.
+3 Sapientia aedificabitur domus, et prudentia roborabitur.
 
 4 In doctrina replebuntur cellaria, universa substantia pretiosa et pulcherrima.
 
@@ -23,17 +23,17 @@ draft: false
 
 9 Cogitatio stulti peccatum est: et abominatio hominum detractor.
 
-10 Si desperaveris lassus in die angustiæ: imminuetur fortitudo tua.
+10 Si desperaveris lassus in die angustiae: imminuetur fortitudo tua.
 
 11 Erue eos, qui ducuntur ad mortem: et qui trahuntur ad interitum liberare ne cesses.
 
-12 Si dixeris: Vires non suppetunt: qui inspector est cordis, ipse intelligit, et servatorem animæ tuæ nihil fallit, reddetque homini iuxta opera sua.
+12 Si dixeris: Vires non suppetunt: qui inspector est cordis, ipse intelligit, et servatorem animae tuae nihil fallit, reddetque homini iuxta opera sua.
 
 13 Comede, fili mi, mel, quia bonum est, et favum dulcissimum gutturi tuo:
 
-14 Sic et doctrina sapientiæ animæ tuæ: quam cum inveneris, habebis in novissimis spem, et spes tua non peribit.
+14 Sic et doctrina sapientiae animae tuae: quam cum inveneris, habebis in novissimis spem, et spes tua non peribit.
 
-15 Ne insidieris, et quæras impietatem in domo iusti, neque vastes requiem eius.
+15 Ne insidieris, et quaeras impietatem in domo iusti, neque vastes requiem eius.
 
 16 Septies enim cadet iustus, et resurget: impii autem corruent in malum.
 
@@ -41,7 +41,7 @@ draft: false
 
 18 ne forte videat Dominus, et displiceat ei, et auferat ab eo iram suam.
 
-19 Ne contendas cum pessimis, nec æmuleris impios:
+19 Ne contendas cum pessimis, nec aemuleris impios:
 
 20 quoniam non habent futurorum spem mali, et lucerna impiorum extinguetur.
 
@@ -49,7 +49,7 @@ draft: false
 
 22 quoniam repente consurget perditio eorum: et ruinam utriusque quis novit?
 
-23 Hæc quoque sapientibus: Cognoscere personam in iudicio non est bonum.
+23 Haec quoque sapientibus: Cognoscere personam in iudicio non est bonum.
 
 24 Qui dicunt impio: Iustus es: maledicent eis populi, et detestabuntur eos tribus.
 
@@ -57,7 +57,7 @@ draft: false
 
 26 Labia deosculabitur, qui recta verba respondet.
 
-27 Præpara foris opus tuum, et diligenter exerce agrum tuum: ut postea ædifices domum tuam.
+27 Praepara foris opus tuum, et diligenter exerce agrum tuum: ut postea aedifices domum tuam.
 
 28 Ne sis testis frustra contra proximum tuum: nec lactes quemquam labiis tuis.
 
@@ -65,7 +65,7 @@ draft: false
 
 30 Per agrum hominis pigri transivi, et per vineam viri stulti:
 
-31 et ecce totum repleverant urticæ, et operuerant superficiem eius spinæ, et maceria lapidum destructa erat.
+31 et ecce totum repleverant urticae, et operuerant superficiem eius spinae, et maceria lapidum destructa erat.
 
 32 Quod cum vidissem, posui in corde meo, et exemplo didici disciplinam.
 

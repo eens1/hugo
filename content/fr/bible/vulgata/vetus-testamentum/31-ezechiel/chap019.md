@@ -7,15 +7,15 @@ draft: false
 
 1 Et tu assume planctum super principes Israel,
 
-2 et dices: Quare mater tua leæna inter leones cubavit, in medio leunculorum enutrivit catulos suos?
+2 et dices: Quare mater tua leaena inter leones cubavit, in medio leunculorum enutrivit catulos suos?
 
-3 Et eduxit unum de leunculis suis, et leo factus est: et didicit capere prædam, hominemque comedere.
+3 Et eduxit unum de leunculis suis, et leo factus est: et didicit capere praedam, hominemque comedere.
 
-4 Et audierunt de eo Gentes, et non absque vulneribus suis ceperunt eum: et adduxerunt eum in catenis in Terram Ægypti.
+4 Et audierunt de eo Gentes, et non absque vulneribus suis ceperunt eum: et adduxerunt eum in catenis in Terram AEgypti.
 
-5 Quæ cum vidisset quoniam infirmata est, et periit expectatio eius: tulit unum de leunculis suis, leonem constituit eum.
+5 Quae cum vidisset quoniam infirmata est, et periit expectatio eius: tulit unum de leunculis suis, leonem constituit eum.
 
-6 Qui incedebat inter leones, et factus est leo: et didicit prædam capere, et homines devorare:
+6 Qui incedebat inter leones, et factus est leo: et didicit praedam capere, et homines devorare:
 
 7 Didicit viduas facere, et civitates earum in desertum adducere: et desolata est terra, et plenitudo eius a voce rugitus illius.
 
@@ -25,9 +25,9 @@ draft: false
 
 10 Mater tua quasi vinea in sanguine tuo super aquam plantata est: fructus eius, et frondes eius creverunt ex aquis multis.
 
-11 Et factæ sunt ei virgæ solidæ in sceptra dominantium, et exaltata est statura eius inter frondes: et vidit altitudinem suam in multitudine palmitum suorum.
+11 Et factae sunt ei virgae solidae in sceptra dominantium, et exaltata est statura eius inter frondes: et vidit altitudinem suam in multitudine palmitum suorum.
 
-12 Et evulsa est in ira, in terramque proiecta, et ventus urens siccavit fructum eius: marcuerunt, et arefactæ sunt virgæ roboris eius: ignis comedit eam.
+12 Et evulsa est in ira, in terramque proiecta, et ventus urens siccavit fructum eius: marcuerunt, et arefactae sunt virgae roboris eius: ignis comedit eam.
 
 13 Et nunc transplantata est in desertum, in terra invia, et sitienti.
 

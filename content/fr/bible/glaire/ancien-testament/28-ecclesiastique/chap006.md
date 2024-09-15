@@ -15,7 +15,7 @@ summary: |
 1 Ne deviens pas au lieu d'ami, l'ennemi de ton prochain ; car le méchant héritera de l'opprobre et de l'ignominie, ainsi que tout pécheur envieux et qui a deux langues.
 
 
-2 Ne t'élève pas dans la pensée de ton cœur, comme un taureau, de peur que ta force ne soit brisée par la folie,
+2 Ne t'élève pas dans la pensée de ton coeur, comme un taureau, de peur que ta force ne soit brisée par la folie,
 
 ***Note*** :  Sir. 6, 2 : Voir Romains, 12, 16 ; Philippiens, 2, 3.
 
@@ -43,9 +43,9 @@ summary: |
 
 ***Note*** :  Sir. 6, 18 : Jusqu’aux cheveux blancs, etc. ; c’est-à-dire tu acquerras une sagesse que tu conserveras jusque dans la vieillesse.
 
-19 Comme celui qui laboure et sème, approche-toi de la sagesse, et attends avec patience ses bons fruits ; 20 Pour la cultiver tu travailleras un peu ; et bientôt tu mangeras de ses productions. 21 Que la sagesse est extrêmement amère aux hommes ignorants ! celui qui est sans cœur ne demeurera point avec elle.
+19 Comme celui qui laboure et sème, approche-toi de la sagesse, et attends avec patience ses bons fruits ; 20 Pour la cultiver tu travailleras un peu ; et bientôt tu mangeras de ses productions. 21 Que la sagesse est extrêmement amère aux hommes ignorants ! celui qui est sans coeur ne demeurera point avec elle.
 
-***Note*** :  Sir. 6, 21 : Celui qui est sans cœur, en latin excors, qui a le même sens que vecors. Voir Proverbes, 7, 7.
+***Note*** :  Sir. 6, 21 : Celui qui est sans coeur, en latin excors, qui a le même sens que vecors. Voir Proverbes, 7, 7.
 
 22 Ils s'y essayeront comme à la pesanteur d'une pierre, et ils ne tarderont pas à la rejeter.
 
@@ -56,7 +56,7 @@ summary: |
 
 ***Note*** :  Sir. 6, 23 : La sagesse… est selon son nom ; conforme à son nom, c’est-à-dire cachée comme l’expliquent les mots qui suivent immédiatement : Elle n’est pas manifeste pour un grand nombre. Il est incontestable d’ailleurs en étymologie que l’on peut dériver soit le latin sapientia, soit le grec sophia, de l’hébreu tsephounâ, qui signifie cachée. Ajoutons que sophia peut dériver aussi de zophos, autre mot grec, dont le sens est obscurité. ― Jusqu’à la présence de Dieu ; c’est-à-dire jusqu’à ce qu’ils paraissent devant Dieu, jusqu’à l’éternité.
 
-24 Ecoute, mon fils, et reçois le conseil de l'intelligence, et ne rejette pas mon conseil. 25 Mets ton pied dans ses fers et ton cou dans ses chaînes; 26 Baisse ton épaule et porte-la, et ne souffre pas impatiemment ses liens. 27 De tout ton cœur, approche-toi d'elle, et de toutes tes forces garde ses voies.
+24 Ecoute, mon fils, et reçois le conseil de l'intelligence, et ne rejette pas mon conseil. 25 Mets ton pied dans ses fers et ton cou dans ses chaînes; 26 Baisse ton épaule et porte-la, et ne souffre pas impatiemment ses liens. 27 De tout ton coeur, approche-toi d'elle, et de toutes tes forces garde ses voies.
 
 
 28 Recherche-la et elle te sera manifestée, et l'ayant embrassée, ne la quitte point; 29 Car, à la fin, tu trouveras du repos en elle ; et elle se changera pour toi en sujet de joie. 30 Et ses fers seront pour toi une forte protection, et un ferme appui, et ses chaînes une robe de gloire ;
@@ -66,7 +66,7 @@ summary: |
 31 Car l'honneur de la vie est en elle, et ses liens un bandage salutaire.
 
 
-32 Tu te revêtiras d'elle comme d'une robe de gloire, et comme une couronne de joie, tu la mettras sur toi. 33 Mon fils, si tu m'es attentif, tu t'instruiras ; et si tu appliques ton esprit, tu seras sage. 34 Si tu prêtes l'oreille, tu recevras la doctrine ; et si tu aimes à écouter, tu seras sage. 35 Tiens-toi au milieu de la multitude des vieillards prudents, et à leur sagesse unis-toi de cœur; afin que tu puisses écouter tout leur récit sur Dieu, et que les paraboles de louange ne t'échappent point.
+32 Tu te revêtiras d'elle comme d'une robe de gloire, et comme une couronne de joie, tu la mettras sur toi. 33 Mon fils, si tu m'es attentif, tu t'instruiras ; et si tu appliques ton esprit, tu seras sage. 34 Si tu prêtes l'oreille, tu recevras la doctrine ; et si tu aimes à écouter, tu seras sage. 35 Tiens-toi au milieu de la multitude des vieillards prudents, et à leur sagesse unis-toi de coeur; afin que tu puisses écouter tout leur récit sur Dieu, et que les paraboles de louange ne t'échappent point.
 
 ***Note*** :  Sir. 6, 35 : Voir Ecclésiastique, 8, 9. ― Paraboles de louange ; hébraïsme pour paraboles louables, dignes de louange.
 
@@ -74,7 +74,7 @@ summary: |
 
 ***Note*** :  Sir. 6, 36 : Va de grand matin ; expression commune dans l’Ecriture, et qui marque une diligence et un empressement extraordinaires.
 
-37 Aie ta pensée dans les préceptes de Dieu, et à méditer ses commandements sois très assidu; et lui-même te donnera un cœur ; et un désir ardent de la sagesse te sera donné.
+37 Aie ta pensée dans les préceptes de Dieu, et à méditer ses commandements sois très assidu; et lui-même te donnera un coeur ; et un désir ardent de la sagesse te sera donné.
 
 ***Note*** :  Sir. 6, 37 : Voir Psaumes, 1, 2.
 

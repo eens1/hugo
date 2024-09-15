@@ -22,7 +22,7 @@ summary: |
 ***Note*** :  I Par. 4, 2 : De Sarathi, ou plutôt des Saraïtes. Voir 1 Paralipomènes, 2, 54.
 
 
-3 Voici aussi la lignée d'Etam : Jezrahel, Jéséma et Jédébos. De plus, le nom de leur sœur fut Asalelphuni.
+3 Voici aussi la lignée d'Etam : Jezrahel, Jéséma et Jédébos. De plus, le nom de leur soeur fut Asalelphuni.
 
 ***Note*** :  I Par. 4, 3 : La lignée d’Etam ; dans l’hébreu, le père d’Etam ou des habitants d’Etam ; et ainsi des versets suivants. Voir 1 Paralipomènes, 2, 21.
 
@@ -57,7 +57,7 @@ summary: |
 17 Et les fils d'Ezra : Jéther, Méred, Epher et Jalon; il engendra encore Marie, Sammaï et Jesba, père d'Esthamo. 18 Sa femme aussi, Judaïa, enfanta Jared, père de Gédor, Héber, père de Socho, et Icuthiel, père de Zanoé ; or voilà les fils de Béthie, fille de Pharaon, que Méred prit pour femme.
 
 
-19 Et les fils de sa femme Odaïa, sœur de Naham, père de Céila, furent Garmi, et Esthamo, qui était de Machathi.
+19 Et les fils de sa femme Odaïa, soeur de Naham, père de Céila, furent Garmi, et Esthamo, qui était de Machathi.
 
 
 20 De même les fils de Simon furent Amnon et Rinna, fils d'Hanan, et Thilon. Et les fils de Jési : Zoheth et Benzoheth.

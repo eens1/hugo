@@ -35,13 +35,13 @@ summary: |
 
 7 Maintenant donc, mon fils, écoute-moi, et ne t'écarte pas des paroles de ma bouche. 8 Eloigne d'elle ta voie, et ne t'approche pas de la porte de sa maison. 9 Ne donne pas à des étrangers ton honneur, et tes années à un cruel vengeur,
 
-***Note*** :  Prov. 5, 9 : A un cruel (crudeli). Le mot cruel étant au masculin en hébreu, et ne pouvant par là même se rapporter à la femme adultère, nous avons supposés qu’il désignait le mari, ou un frère, ou un parent quelconque, naturellement intéressé à venger le déshonneur fait à sa famille. C’est ainsi que Siméon et Lévi vengèrent, par un massacre, le viol commis par Sichem sur la personne de Dina, leur sœur (voir Genèse, chapitre 34).
+***Note*** :  Prov. 5, 9 : A un cruel (crudeli). Le mot cruel étant au masculin en hébreu, et ne pouvant par là même se rapporter à la femme adultère, nous avons supposés qu’il désignait le mari, ou un frère, ou un parent quelconque, naturellement intéressé à venger le déshonneur fait à sa famille. C’est ainsi que Siméon et Lévi vengèrent, par un massacre, le viol commis par Sichem sur la personne de Dina, leur soeur (voir Genèse, chapitre 34).
 
 10 De peur que des étrangers ne soient comblés de tes biens, et que tes travaux n'aillent dans la maison d'un autre,
 
 ***Note*** :  Prov. 5, 10 : De tes biens; littéralement de tes forces (viribus) ; mais outre que le mot hébreu rendu dans la Vulgate par forces, signifie également les biens de la fortune, le parallélisme exige ce sens.
 
-11 Et que tu ne gémisses à la fin, quand tu auras consumé tes chairs et ton corps; et que tu ne dises :12 D'où vient que j'ai déteste la discipline, et qu'aux remontrances n'a pas acquiescé mon cœur, 13 Et que je n'ai pas écouté la voix de ceux qui m'instruisaient, et qu'à mes maîtres je n'ai pas incliné mon oreille? 14 J'ai été presque dans toute sorte de maux au milieu de l'assemblée et de la réunion.
+11 Et que tu ne gémisses à la fin, quand tu auras consumé tes chairs et ton corps; et que tu ne dises :12 D'où vient que j'ai déteste la discipline, et qu'aux remontrances n'a pas acquiescé mon coeur, 13 Et que je n'ai pas écouté la voix de ceux qui m'instruisaient, et qu'à mes maîtres je n'ai pas incliné mon oreille? 14 J'ai été presque dans toute sorte de maux au milieu de l'assemblée et de la réunion.
 
 ***Note*** :  Prov. 5, 14 : Au milieu, etc. ; c’est-à-dire devant tout le peuple.
 

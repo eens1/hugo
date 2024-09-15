@@ -27,7 +27,7 @@ summary: |
 
 ***Note*** :  Sir. 7, 4 : Le gouvernement ; la charge de conduire les autres, de leur commander.
 
-5 Ne te justifie pas devant Dieu, parce que c'est lui qui connaît le cœur; et devant le roi n'affecte pas de paraître sage.
+5 Ne te justifie pas devant Dieu, parce que c'est lui qui connaît le coeur; et devant le roi n'affecte pas de paraître sage.
 
 ***Note*** :  Sir. 7, 5 : Voir Job, 9, vv. 2, 20 ; Psaumes, 142, 2 ; Ecclésiaste, 7, 17 ; Luc, 18, 11.
 
@@ -44,7 +44,7 @@ summary: |
 
 ***Note*** :  Sir. 7, 8 : Voir Ecclésiastique, 12, 7. ― N’ajoute pas, etc. ; littéralement : Ne lie pas des doubles péchés.
 
-9 Ne sois pas pusillanime en ton cœur;
+9 Ne sois pas pusillanime en ton coeur;
 
 
 10 Ne néglige point de prier et de faire l'aumône.
@@ -104,7 +104,7 @@ summary: |
 26 As-tu des filles? conserve la pureté de leur corps, et ne leur montre pas un visage trop riant.
 
 
-27 Marie ta fille, et tu auras fait une grande œuvre ; et donne-la à un homme sensé. 28 Si tu as une femme selon ton cœur, ne la quitte point ; et ne te confie point à une haïssable. En tout ton cœur
+27 Marie ta fille, et tu auras fait une grande oeuvre ; et donne-la à un homme sensé. 28 Si tu as une femme selon ton coeur, ne la quitte point ; et ne te confie point à une haïssable. En tout ton coeur
 
 
 29 Honore ton père, et les gémissements de ta mère, ne les oublie pas;
@@ -146,5 +146,5 @@ summary: |
 
 ***Note*** :  Sir. 7, 39 : Voir Matthieu, 25, 36.
 
-40 Dans toutes tes œuvres, rappelle-toi tes fins dernières, et jamais tu ne pécheras.
+40 Dans toutes tes oeuvres, rappelle-toi tes fins dernières, et jamais tu ne pécheras.
 

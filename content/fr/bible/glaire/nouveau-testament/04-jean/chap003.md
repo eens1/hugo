@@ -51,7 +51,7 @@ summary: |
 
 23 Or Jean aussi baptisait à Ennon, près de Salim, parce qu'il y avait là beaucoup d'eau et on y venait, et on y était baptisé.
 
-***Note*** :  Jean 3, 23 : Ennon « Œnon, dit saint Jérôme après Eusèbe, est un endroit qu’on montre encore aujourd’hui à 8 milles de Scythopolis, au sud, près de Salim et du Jourdain. » Ennon, Aenon signifie sources. ― Salim, que l’Evangéliste mentionne pour fixer la situation d’Ennon, est malheureusement inconnu. On a trouvé un Salim à l’est et non loin de Naplouse (Samarie) et il y a là deux sources très abondantes. On a découvert un ouadi Selam ou Seleim, au nord-est de Jérusalem, à environ deux lieues, près de l’ouadi Farah, où les sources abondent.
+***Note*** :  Jean 3, 23 : Ennon « OEnon, dit saint Jérôme après Eusèbe, est un endroit qu’on montre encore aujourd’hui à 8 milles de Scythopolis, au sud, près de Salim et du Jourdain. » Ennon, Aenon signifie sources. ― Salim, que l’Evangéliste mentionne pour fixer la situation d’Ennon, est malheureusement inconnu. On a trouvé un Salim à l’est et non loin de Naplouse (Samarie) et il y a là deux sources très abondantes. On a découvert un ouadi Selam ou Seleim, au nord-est de Jérusalem, à environ deux lieues, près de l’ouadi Farah, où les sources abondent.
 
 24 Car Jean n'avait pas encore été mis en prison.
 

@@ -5,9 +5,9 @@ draft: false
 ---
 
 
-1 Et mandavit ei (haud dubium quin esset Mardochæus) ut ingrederetur ad regem, et rogaret pro populo suo et pro patria sua.
+1 Et mandavit ei (haud dubium quin esset Mardochaeus) ut ingrederetur ad regem, et rogaret pro populo suo et pro patria sua.
 
-2 Memorare (inquit) dierum humilitatis tuæ, quomodo nutrita sis in manu mea, quia Aman secundus a rege locutus est contra nos in mortem:
+2 Memorare (inquit) dierum humilitatis tuae, quomodo nutrita sis in manu mea, quia Aman secundus a rege locutus est contra nos in mortem:
 
 3 et tu invoca Dominum, et loquere regi pro nobis, et libera nos de morte.
 
@@ -15,7 +15,7 @@ draft: false
 
 5 Cumque regio fulgeret habitu, et invocasset omnium rectorem et salvatorem Deum, assumpsit duas famulas,
 
-6 et super unam quidem innitebatur, quasi præ deliciis et nimia teneritudine corpus suum ferre non sustinens:
+6 et super unam quidem innitebatur, quasi prae deliciis et nimia teneritudine corpus suum ferre non sustinens:
 
 7 altera autem famularum sequebatur dominam, defluentia in humum indumenta sustentans.
 
@@ -29,13 +29,13 @@ draft: false
 
 12 Quid habes Esther? Ego sum frater tuus, noli metuere.
 
-13 Non morieris: non enim pro te, sed pro omnibus hæc lex constituta est.
+13 Non morieris: non enim pro te, sed pro omnibus haec lex constituta est.
 
 14 Accede igitur, et tange sceptrum.
 
 15 Cumque illa reticeret, tulit auream virgam, et posuit super collum eius, et osculatus est eam, et ait: Cur mihi non loqueris?
 
-16 Quæ respondit: Vidi te domine quasi Angelum Dei, et conturbatum est cor meum præ timore gloriæ tuæ.
+16 Quae respondit: Vidi te domine quasi Angelum Dei, et conturbatum est cor meum prae timore gloriae tuae.
 
 17 Valde enim mirabilis es domine, et facies tua plena est gratiarum.
 

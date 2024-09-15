@@ -16,24 +16,24 @@ summary: |
 
 ***Note*** :  II Rois 15, 2 : De la porte du palais. ― D’une tribu ; c’est-à-dire d’une telle tribu, qu’il désignait par son nom.
 
-3 Et Absalom lui répondait : Tes paroles me paraissent bonnes et justes; mais il n'y a personne établi par le roi, qui puisse t'entendre. Absalom ajoutait :4 Qui m'établira juge sur la terre, pour que viennent à moi tous ceux qui ont une affaire, et que je juge justement ? 5 Mais aussi lorsqu'un homme s'approchait de lui, pour le saluer, il étendait sa main et, le prenant, il l'embrassait. 6 Et il faisait cela à tout Israël venant au jugement, pour être entendu par le roi, et il sollicitait les cœurs des hommes d'Israël.
+3 Et Absalom lui répondait : Tes paroles me paraissent bonnes et justes; mais il n'y a personne établi par le roi, qui puisse t'entendre. Absalom ajoutait :4 Qui m'établira juge sur la terre, pour que viennent à moi tous ceux qui ont une affaire, et que je juge justement ? 5 Mais aussi lorsqu'un homme s'approchait de lui, pour le saluer, il étendait sa main et, le prenant, il l'embrassait. 6 Et il faisait cela à tout Israël venant au jugement, pour être entendu par le roi, et il sollicitait les coeurs des hommes d'Israël.
 
 ***Note*** :  II Rois 15, 6 : A tout Israël ; à tous ceux d’Israël qui venaient pour demander la justice au roi.
 
 
-7 Mais après quarante ans, Absalom dit au roi David : Permettez que j'aille, et je m'acquitterai de mes vœux que j'ai voués au Seigneur à Hébron.
+7 Mais après quarante ans, Absalom dit au roi David : Permettez que j'aille, et je m'acquitterai de mes voeux que j'ai voués au Seigneur à Hébron.
 
 ***Note*** :  II Rois 15, 7 : A Hébron. Voir Genèse, note 13. 18.
 
 8 Car vouant, votre serviteur a voué, lorsqu'il était à Gessur de Syrie, disant : Si le Seigneur me ramène à Jérusalem, je sacrifierai au Seigneur. 9 Et le roi David lui répondit : Va en paix. Et il se leva, et il alla à Hébron.
 
 
-10 Mais Absalom envoya des explorateurs dans toutes les tribus d'Israël, disant : Aussitôt que vous entendrez le son de la trompette, dites : Absalom règne dans Hébron. 11 Or, il alla avec Absalom deux cents hommes de Jérusalem, appelés, allant d'un cœur simple, et ignorant entièrement le motif. 12 Absalom fit venir aussi Achitophel, le Gilonite, conseiller de David, de sa ville de Gilo. Et comme il immolait les victimes, la conjuration devint puissante, et le peuple accourant, augmentait auprès d'Absalom.
+10 Mais Absalom envoya des explorateurs dans toutes les tribus d'Israël, disant : Aussitôt que vous entendrez le son de la trompette, dites : Absalom règne dans Hébron. 11 Or, il alla avec Absalom deux cents hommes de Jérusalem, appelés, allant d'un coeur simple, et ignorant entièrement le motif. 12 Absalom fit venir aussi Achitophel, le Gilonite, conseiller de David, de sa ville de Gilo. Et comme il immolait les victimes, la conjuration devint puissante, et le peuple accourant, augmentait auprès d'Absalom.
 
 ***Note*** :  II Rois 15, 12 : Gilo, dans les montagnes de Juda, au sud d’Hébron.
 
 
-13 Il vint donc un messager vers David, disant : Tout Israël suit de tout cœur Absalom. 14 Et David dit à ses serviteurs qui étaient avec lui à Jérusalem : Levez-vous, fuyons; car il n'y aura point de moyen pour nous d'échapper à la face d'Absalom : hâtez-vous de sortir, de peur qu'arrivant, il ne nous prévienne, et ne lance sur nous la ruine, et ne frappe la ville du tranchant du glaive. 15 Et les officiers du roi lui répondirent : Tout ce qu'ordonnera notre seigneur, le roi, nous, vos serviteurs, nous l'exécuterons de bon gré. 16 Le roi donc sortit et toute sa maison, à pied ; et le roi laissa dix femmes du second rang pour garder la maison. 17 Et le roi étant sorti et tout Israël, à pied, il s'arrêta loin de la maison ; 18 Et tous ses serviteurs marchaient près de lui, et les légions des Céréthiens et des Phéléthiens, et tous les Géthéens, combattants valeureux, six cents hommes de pied, qui l'avaient suivi de Geth, précédaient le roi.
+13 Il vint donc un messager vers David, disant : Tout Israël suit de tout coeur Absalom. 14 Et David dit à ses serviteurs qui étaient avec lui à Jérusalem : Levez-vous, fuyons; car il n'y aura point de moyen pour nous d'échapper à la face d'Absalom : hâtez-vous de sortir, de peur qu'arrivant, il ne nous prévienne, et ne lance sur nous la ruine, et ne frappe la ville du tranchant du glaive. 15 Et les officiers du roi lui répondirent : Tout ce qu'ordonnera notre seigneur, le roi, nous, vos serviteurs, nous l'exécuterons de bon gré. 16 Le roi donc sortit et toute sa maison, à pied ; et le roi laissa dix femmes du second rang pour garder la maison. 17 Et le roi étant sorti et tout Israël, à pied, il s'arrêta loin de la maison ; 18 Et tous ses serviteurs marchaient près de lui, et les légions des Céréthiens et des Phéléthiens, et tous les Géthéens, combattants valeureux, six cents hommes de pied, qui l'avaient suivi de Geth, précédaient le roi.
 
 ***Note*** :  II Rois 15, 18 : Des Céréthiens et des Phéléthiens. Voir 2 Rois, 8, 18. ― Geth, l’une des cinq principales villes des Philistins.
 

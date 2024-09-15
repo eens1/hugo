@@ -12,7 +12,7 @@ summary: |
 
 ***Note*** :  Lv. 9, 2 : Voir Exode, 29, 1.
 
-3 Et tu diras aux enfants d'Israël : Prenez un bouc pour le péché , un veau et un agneau d'un an et sans tache pour un holocauste, 4 Un bœuf et un bélier pour des sacrifices pacifiques, et immolez-les devant le Seigneur, offrant dans le sacrifice de chacun de ces animaux de la fleur de farine arrosée d'huile; car aujourd'hui le Seigneur vous apparaîtra.
+3 Et tu diras aux enfants d'Israël : Prenez un bouc pour le péché , un veau et un agneau d'un an et sans tache pour un holocauste, 4 Un boeuf et un bélier pour des sacrifices pacifiques, et immolez-les devant le Seigneur, offrant dans le sacrifice de chacun de ces animaux de la fleur de farine arrosée d'huile; car aujourd'hui le Seigneur vous apparaîtra.
 
 
 5 Ils portèrent donc tout ce que leur avait ordonné Moïse, à la porte du tabernacle, où pendant que toute la multitude se tenait debout, 6 Moïse dit : Voici la parole qu'a ordonnée le Seigneur; accomplissez-la et sa gloire vous apparaîtra. 7 Et il dit à Aaron : Approche-toi de l'autel, et immole pour ton péché; offre l'holocauste, et prie pour toi et pour le peuple, et lorsque tu auras sacrifié l'hostie du peuple, prie pour lui, comme a ordonné le Seigneur.
@@ -24,7 +24,7 @@ summary: |
 12 Il immola aussi la victime de l'holocauste; et ses fils lui en présentèrent le sang, qu'il répandit autour de l'autel. 13 Ils lui présentèrent aussi l'hostie elle-même coupée en morceaux avec la tête et chacun de ses membres; lesquelles choses il brûla toutes au feu sur l'autel, 14 Les intestins et les pieds ayant été auparavant lavés dans l'eau.
 
 
-15 Et offrant le sacrifice pour le péché du peuple, il immola le bouc; et, l'autel purifié, 16 Il fit l'holocauste, 17 Ajoutant au sacrifice les libations, qui sont pareillement offertes, et les brûlant sur l'autel, outre les cérémonies de l'holocauste du matin. 18 Il immola aussi le bœuf et le bélier, hosties pacifiques du peuple; et ses fils lui présentèrent le sang, qu'il répandit sur l'autel tout autour. 19 Mais la graisse du bœuf, la queue du bélier, les reins avec leurs graisses et la membrane réticulaire du foie, 20 Ils les posèrent sur les poitrines; et lorsque les graisses eurent été brûlées sur l'autel, 21 Aaron sépara les poitrines des hosties et les épaules droites, les élevant devant le Seigneur, comme avait ordonné Moïse.
+15 Et offrant le sacrifice pour le péché du peuple, il immola le bouc; et, l'autel purifié, 16 Il fit l'holocauste, 17 Ajoutant au sacrifice les libations, qui sont pareillement offertes, et les brûlant sur l'autel, outre les cérémonies de l'holocauste du matin. 18 Il immola aussi le boeuf et le bélier, hosties pacifiques du peuple; et ses fils lui présentèrent le sang, qu'il répandit sur l'autel tout autour. 19 Mais la graisse du boeuf, la queue du bélier, les reins avec leurs graisses et la membrane réticulaire du foie, 20 Ils les posèrent sur les poitrines; et lorsque les graisses eurent été brûlées sur l'autel, 21 Aaron sépara les poitrines des hosties et les épaules droites, les élevant devant le Seigneur, comme avait ordonné Moïse.
 
 
 22 Et étendant les mains vers le peuple, il le bénit. Or, les oblations des hosties pour le péché, des holocaustes et des sacrifices pacifiques ainsi achevées, il descendit.

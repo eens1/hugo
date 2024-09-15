@@ -16,7 +16,7 @@ summary: |
 
 ***Note*** :  I Rois 29, 4 : Voir 1 Paralipomènes, 12, 19.
 
-5 N'est-ce pas ce David, en l'honneur duquel on chantait dans les chœurs : Saül a frappé sur ses mille, et David sur ses dix mille ?
+5 N'est-ce pas ce David, en l'honneur duquel on chantait dans les choeurs : Saül a frappé sur ses mille, et David sur ses dix mille ?
 
 
 6 Achis donc appela David, et lui dit : Le Seigneur vit ! tu es droit et bon en ma présence, et ta sortie et ton entrée est avec moi dans le camp ; et je n'ai trouvé en toi rien de mal, depuis le jour que tu es venu vers moi jusqu'à ce jour-ci ; mais tu ne plais pas aux satrapes.

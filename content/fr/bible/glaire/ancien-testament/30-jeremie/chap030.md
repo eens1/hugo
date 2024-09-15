@@ -69,14 +69,14 @@ summary: |
 
 ***Note*** :  Jr. 30, 18 : Ses demeures ; littéralement ses toits. ― Son modèle ; c’est une des significations du terme hébreu correspondant, que l’auteur de la Vulgate lui-même a traduit ailleurs (voir Exode, 26, 30) par exemplar. Au reste, le mot ordinem qu’il emploie ici peut aisément se ramener à cette même signification.
 
-19 Et la louange et la voix de ceux qui formeront des chœurs sortiront du milieu d'eux ; et je les multiplierai, et leur nombre ne diminuera pas, et je les glorifierai, et ils ne seront pas amoindris. 20 Et ses fils seront comme dès le commencement, et son assemblée demeurera devant moi; et je visiterai tous ceux qui le tourmentent. 21 Et son chef sortira de lui un prince naîtra du milieu de lui je le ferai approcher, et il s'avancera vers moi; car quel est celui qui appliquerait son cœur à s'approcher de moi, dit le Seigneur?
+19 Et la louange et la voix de ceux qui formeront des choeurs sortiront du milieu d'eux ; et je les multiplierai, et leur nombre ne diminuera pas, et je les glorifierai, et ils ne seront pas amoindris. 20 Et ses fils seront comme dès le commencement, et son assemblée demeurera devant moi; et je visiterai tous ceux qui le tourmentent. 21 Et son chef sortira de lui un prince naîtra du milieu de lui je le ferai approcher, et il s'avancera vers moi; car quel est celui qui appliquerait son coeur à s'approcher de moi, dit le Seigneur?
 
 ***Note*** :  Jr. 30, 21 : Son chef, un prince. Ces mots, selon les interprètes anciens et modernes, s’appliquent à Jésus-Christ. Ceux qui l’entendent de Zorobabel regardent ce chef de Juda comme une figure du Messie.
 
 22 Et vous serez mon peuple, et moi je serai votre Dieu.
 
 
-23 Voilà que le tourbillon du Seigneur, que la fureur qui s'échappe, que la tempête qui se précipite, se reposera sur la tête des impies. 24 Le Seigneur ne détournera pas la colère de son indignation, jusqu'à ce qu'il ait exécuté et accompli la pensée de son cœur; au dernier des jours vous comprendrez ces choses.
+23 Voilà que le tourbillon du Seigneur, que la fureur qui s'échappe, que la tempête qui se précipite, se reposera sur la tête des impies. 24 Le Seigneur ne détournera pas la colère de son indignation, jusqu'à ce qu'il ait exécuté et accompli la pensée de son coeur; au dernier des jours vous comprendrez ces choses.
 
 ***Note*** :  Jr. 30, 24 : La colère de son indignation. Voir, sur cette expression, Jérémie, 4, 8.
 

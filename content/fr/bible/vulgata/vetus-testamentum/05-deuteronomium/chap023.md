@@ -9,15 +9,15 @@ draft: false
 
 2 Non ingredietur mamzer, hoc est, de scorto natus, in ecclesiam Domini, usque ad decimam generationem.
 
-3 Ammonites et Moabites etiam post decimam generationem non intrabunt ecclesiam Domini, in æternum:
+3 Ammonites et Moabites etiam post decimam generationem non intrabunt ecclesiam Domini, in aeternum:
 
-4 quia noluerunt vobis occurrere cum pane et aqua in via quando egressi estis de Ægypto: et quia conduxerunt contra te Balaam filium Beor de Mesopotamia Syriæ, ut malediceret tibi:
+4 quia noluerunt vobis occurrere cum pane et aqua in via quando egressi estis de AEgypto: et quia conduxerunt contra te Balaam filium Beor de Mesopotamia Syriae, ut malediceret tibi:
 
 5 et noluit Dominus Deus tuus audire Balaam, vertitque maledictionem eius in benedictionem tuam, eo quod diligeret te.
 
-6 Non facies cum eis pacem, nec quæras eis bona cunctis diebus vitæ tuæ in sempiternum.
+6 Non facies cum eis pacem, nec quaeras eis bona cunctis diebus vitae tuae in sempiternum.
 
-7 Non abominaberis Idumæum, quia frater tuus est: nec Ægyptium, quia advena fuisti in terra eius.
+7 Non abominaberis Idumaeum, quia frater tuus est: nec AEgyptium, quia advena fuisti in terra eius.
 
 8 Qui nati fuerint ex eis, tertia generatione intrabunt in ecclesiam Domini.
 
@@ -27,11 +27,11 @@ draft: false
 
 11 et non revertetur, priusquam ad vesperam lavetur aqua: et post solis occasum regredietur in castra.
 
-12 Habebis locum extra castra, ad quem egrediaris ad requisita naturæ,
+12 Habebis locum extra castra, ad quem egrediaris ad requisita naturae,
 
 13 gerens paxillum in balteo. cumque sederis, fodies per circuitum, et egesta humo operies
 
-14 quo revelatus es (Dominus enim Deus tuus ambulat in medio castrorum, ut eruat te, et tradat tibi inimicos tuos) et sint castra tua sancta, et nihil in eis appareat fœditatis ne derelinquat te.
+14 quo revelatus es (Dominus enim Deus tuus ambulat in medio castrorum, ut eruat te, et tradat tibi inimicos tuos) et sint castra tua sancta, et nihil in eis appareat foeditatis ne derelinquat te.
 
 15 Non trades servum Domino suo, qui ad te confugerit.
 
@@ -41,7 +41,7 @@ draft: false
 
 18 Non offeres mercedem prostibuli, nec pretium canis in domo Domini Dei tui, quidquid illud est quod voveris: quia abominatio est utrumque apud Dominum Deum tuum.
 
-19 Non fœnerabis fratri tuo ad usuram pecuniam, nec fruges, nec quamlibet aliam rem:
+19 Non foenerabis fratri tuo ad usuram pecuniam, nec fruges, nec quamlibet aliam rem:
 
 20 sed alieno. Fratri autem tuo absque usura id, quo indiget, commodabis: ut benedicat tibi Dominus Deus tuus in omni opere tuo in Terra, ad quam ingredieris possidendam.
 

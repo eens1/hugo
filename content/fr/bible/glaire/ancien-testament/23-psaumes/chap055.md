@@ -12,7 +12,7 @@ summary: |
 
 1 Pour le peuple qui a été éloigné des saints {ou des choses saintes); par David, pour une inscription de titre, lorsque les Allophylles [étrangers) le retinrent dans Geth.
 
-***Note*** :  Ps. 55, 1 : Par David. Voir le Psaume 15 (Hébreu : 16). ― Ce fait avec tout ce qui s’y rattache est raconté dans 1 Rois, chapitre 21 et suivants. ― Le titre en hébreu signifie : « Au chef de chœur, [sur l’air de] la colombe muette (ou des térébinthes) du lointain (? ) (premières paroles d’un chant connu). De David. Mikthâm. Quand les Philistins (les Allophyles le tenaient dans Geth. »
+***Note*** :  Ps. 55, 1 : Par David. Voir le Psaume 15 (Hébreu : 16). ― Ce fait avec tout ce qui s’y rattache est raconté dans 1 Rois, chapitre 21 et suivants. ― Le titre en hébreu signifie : « Au chef de choeur, [sur l’air de] la colombe muette (ou des térébinthes) du lointain (? ) (premières paroles d’un chant connu). De David. Mikthâm. Quand les Philistins (les Allophyles le tenaient dans Geth. »
 
 
 2 Ayez pitié de moi, ô Dieu, parce qu'un homme m'a foulé aux pieds : tout le jour m'attaquant, il m'a tourmenté.
@@ -49,7 +49,7 @@ summary: |
 
 ***Note*** :  Ps. 55, 11 : En Dieu, etc. ; c’est-à-dire une parole que Dieu me fera entendre, un discours qu’il m’adressera selon l’objet de mes louanges. Ceci est une espèce de refrain. Comparer au verset 5.
 
-12 Je vous dois, ô Dieu, des vœux que j'acquitterai, et des louanges en votre honneur.
+12 Je vous dois, ô Dieu, des voeux que j'acquitterai, et des louanges en votre honneur.
 
 ***Note*** :  Ps. 55, 12 : Je vous dois ; littéralement, selon l’hébreu sur moi sont ; c’est-à-dire sont à ma charge ; c’est aussi le vrai sens de la traduction en moi sont du grec et de la Vulgate.
 

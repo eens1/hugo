@@ -7,23 +7,23 @@ draft: false
 
 1 Obsecro itaque vos fratres per misericordiam Dei, ut exhibeatis corpora vestra hostiam viventem, sanctam, Deo placentem, rationabile obsequium vestrum.
 
-2 Et nolite conformari huic sæculo, sed reformamini in novitate sensus vestri: ut probetis quæ sit voluntas Dei bona, et beneplacens, et perfecta.
+2 Et nolite conformari huic saeculo, sed reformamini in novitate sensus vestri: ut probetis quae sit voluntas Dei bona, et beneplacens, et perfecta.
 
-3 Dico enim per gratiam quæ data est mihi, omnibus qui sunt inter vos: Non plus sapere quam oportet sapere, sed sapere ad sobrietatem: et unicuique sicut Deus divisit mensuram fidei.
+3 Dico enim per gratiam quae data est mihi, omnibus qui sunt inter vos: Non plus sapere quam oportet sapere, sed sapere ad sobrietatem: et unicuique sicut Deus divisit mensuram fidei.
 
 4 Sicut enim in uno corpore multa membra habemus, omnia autem membra non eumdem actum habent:
 
 5 ita multi unum corpus sumus in Christo, singuli autem alter alterius membra.
 
-6 Habentes autem donationes secundum gratiam, quæ data est nobis, differentes: sive prophetiam secundum rationem fidei,
+6 Habentes autem donationes secundum gratiam, quae data est nobis, differentes: sive prophetiam secundum rationem fidei,
 
 7 sive ministerium in ministrando, sive qui docet in doctrina,
 
-8 qui exhortatur in exhortando, qui tribuit in simplicitate, qui præest in sollicitudine, qui miseretur in hilaritate.
+8 qui exhortatur in exhortando, qui tribuit in simplicitate, qui praeest in sollicitudine, qui miseretur in hilaritate.
 
-9 Dilectio sine simulatione: Odientes malum, adhærentes bono:
+9 Dilectio sine simulatione: Odientes malum, adhaerentes bono:
 
-10 charitate fraternitatis invicem diligentes: Honore invicem prævenientes:
+10 charitate fraternitatis invicem diligentes: Honore invicem praevenientes:
 
 11 Solicitudine non pigri: Spiritu ferventes: Domino servientes:
 
@@ -41,7 +41,7 @@ draft: false
 
 18 Si fieri potest, quod ex vobis est, cum omnibus hominibus pacem habentes:
 
-19 Non vosmetipsos defendentes charissimi, sed date locum iræ. scriptum est enim: Mihi vindicta: ego retribuam, dicit Dominus.
+19 Non vosmetipsos defendentes charissimi, sed date locum irae. scriptum est enim: Mihi vindicta: ego retribuam, dicit Dominus.
 
 20 Sed si esurierit inimicus tuus, ciba illum: si sitit, potum da illi: hoc enim faciens, carbones ignis congeres super caput eius.
 

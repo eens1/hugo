@@ -31,7 +31,7 @@ summary: |
 8 Jusqu'à la mort, mon âme louera le Seigneur ;
 
 
-9 Car ma vie s'approchait de l'enfer, en bas. 10 Ils m'ont environné de tous côtés, et il n'y avait personne qui me secourût. Je tournais mes regards vers le secours des hommes, et il n'en était point. 11 Je me suis souvenu, Seigneur, de votre miséricorde et de votre œuvre, qui sont dès le commencement du monde ; 12 Parce que vous délivrez, Seigneur, ceux qui vous attendent avec patience et vous les sauvez des mains des nations.
+9 Car ma vie s'approchait de l'enfer, en bas. 10 Ils m'ont environné de tous côtés, et il n'y avait personne qui me secourût. Je tournais mes regards vers le secours des hommes, et il n'en était point. 11 Je me suis souvenu, Seigneur, de votre miséricorde et de votre oeuvre, qui sont dès le commencement du monde ; 12 Parce que vous délivrez, Seigneur, ceux qui vous attendent avec patience et vous les sauvez des mains des nations.
 
 
 13 Vous avez élevé sur la terre mon habitation ; et à cause de la mort qui découlait sur moi, j'ai fait des supplications.
@@ -55,7 +55,7 @@ summary: |
 
 ***Note*** :  Sir. 51, 19 : Devant le temple ; dans le parvis du temple. ― Elle a fleuri en moi. ― Comme un raisin précoce ; c’est-à-dire de très bonne heure.
 
-20 Mon cœur s'est réjoui en elle, mon pied a marché dans un chemin droit; dès ma jeunesse, je la recherchais avec soin.
+20 Mon coeur s'est réjoui en elle, mon pied a marché dans un chemin droit; dès ma jeunesse, je la recherchais avec soin.
 
 ***Note*** :  Sir. 51, 20 : Les pronoms elle, la, désignent la sagesse dans ce verset, comme dans les 25, 27, 28 et 29.
 
@@ -66,7 +66,7 @@ summary: |
 
 ***Note*** :  Sir. 51, 26 : Son ; se rapporte au mot âme, exprimé au verset 25.
 
-27 J'ai dirigé mon âme vers elle, et dans la connaissance de moi-même je l'ai trouvée. 28 J'ai possédé avec elle mon cœur dès le commencement; à cause de cela je ne serai pas délaissé. 29 Mes entrailles ont été émues en la cherchant; à cause de cela je posséderai une bonne possession.
+27 J'ai dirigé mon âme vers elle, et dans la connaissance de moi-même je l'ai trouvée. 28 J'ai possédé avec elle mon coeur dès le commencement; à cause de cela je ne serai pas délaissé. 29 Mes entrailles ont été émues en la cherchant; à cause de cela je posséderai une bonne possession.
 
 ***Note*** :  Sir. 51, 29 : Je posséderai, etc. ; c’est-à-dire je posséderai un très grand bien.
 
@@ -86,6 +86,6 @@ summary: |
 
 ***Note*** :  Sir. 51, 37 : Sa ; représente le mot Seigneur, exprimé au verset 30. ― En sa louange ; c’est-à-dire en publiant ses louanges.
 
-38 Faites votre œuvre avant le temps, et il vous donnera votre récompense en son temps.
+38 Faites votre oeuvre avant le temps, et il vous donnera votre récompense en son temps.
 
 ***Note*** :  Sir. 51, 38 : Avant le temps ; avant que le temps de la récompense, arrive, passe. ― Il ; c’est-à-dire le Seigneur.

@@ -51,7 +51,7 @@ summary: |
 
 ***Note*** :  Zach. 8, 16 : Voir Ephésiens, 4, 25. ― A vos portes, c’est-à-dire, aux portes de vos villes ; c’est là que se trouvaient les tribunaux.
 
-17 Qu'aucun de vous ne médite en son cœur le mal contre son ami; et n'aimez pas le serment mensonger; car ce sont toutes choses que je hais, dit le Seigneur.
+17 Qu'aucun de vous ne médite en son coeur le mal contre son ami; et n'aimez pas le serment mensonger; car ce sont toutes choses que je hais, dit le Seigneur.
 
 
 18 Et la parole du Seigneur des armées me fut adressée, disant :

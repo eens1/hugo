@@ -15,7 +15,7 @@ summary: |
 
 ***Note*** :  Juges 9, 1 : A Sichem. Voir Genèse, note 12. 6.
 
-2 Dites à tous les habitants de Sichem : Lequel est le meilleur pour vous, que soixante-dix hommes, tous fils de Jérobaal, vous commandent, ou qu'un seul homme vous commande? et considérez en même temps que je suis votre os et votre chair. 3 Et les frères de sa mère rapportèrent à son sujet toutes ces paroles aux hommes de Sichem, et ils firent pencher leur cœur pour Abimélech, disant : C'est notre frère. 4 Et ils lui donnèrent soixante-dix sicles pesant d'argent du temple de Baalberith. Abimélech réunit à lui avec cet argent des hommes misérables et vagabonds ; et ils le suivirent.
+2 Dites à tous les habitants de Sichem : Lequel est le meilleur pour vous, que soixante-dix hommes, tous fils de Jérobaal, vous commandent, ou qu'un seul homme vous commande? et considérez en même temps que je suis votre os et votre chair. 3 Et les frères de sa mère rapportèrent à son sujet toutes ces paroles aux hommes de Sichem, et ils firent pencher leur coeur pour Abimélech, disant : C'est notre frère. 4 Et ils lui donnèrent soixante-dix sicles pesant d'argent du temple de Baalberith. Abimélech réunit à lui avec cet argent des hommes misérables et vagabonds ; et ils le suivirent.
 
 ***Note*** :  Juges 9, 4 : Le mot sicle est ici comme en bien d’autres endroits, sous-entendu, pour son poids et sa valeur. ― Soixante-dix sicles d’argent font près d’un kilogramme. ― Baalberith, le baal de l’alliance. Voir Juges, note 6. 25.
 
@@ -53,7 +53,7 @@ summary: |
 ***Note*** :  Juges 9, 25 : Au sommet des montagnes d’Hébal et de Garizim.
 
 
-26 Cependant Gaal. fils d'Obed, vint avec ses frères et passa à Sichem. A son arrivée, les habitants de Sichem rassurés, 27 Sortirent dans les champs, ravageant les vignes, et foulant aux pieds les raisins; puis, des chœurs de chantants formés, ils entrèrent dans le temple de leur dieu, et, au milieu des mets et des coupes, ils maudissaient Abimélech, 28 Gaal, fils d'Obed, criant : Qui est Abimélech, et quelle est Sichem, pour que nous le servions? N'est-il pas le fils de Jérobaal, et n'a-t-il pas constitué Zébul, son serviteur, prince sur les hommes d'Hémor, père de Sichem? Pourquoi donc le servirions-nous?
+26 Cependant Gaal. fils d'Obed, vint avec ses frères et passa à Sichem. A son arrivée, les habitants de Sichem rassurés, 27 Sortirent dans les champs, ravageant les vignes, et foulant aux pieds les raisins; puis, des choeurs de chantants formés, ils entrèrent dans le temple de leur dieu, et, au milieu des mets et des coupes, ils maudissaient Abimélech, 28 Gaal, fils d'Obed, criant : Qui est Abimélech, et quelle est Sichem, pour que nous le servions? N'est-il pas le fils de Jérobaal, et n'a-t-il pas constitué Zébul, son serviteur, prince sur les hommes d'Hémor, père de Sichem? Pourquoi donc le servirions-nous?
 
 ***Note*** :  Juges 9, 28 : Sur les hommes d’Hémor ; sur la famille d’Hémor.
 

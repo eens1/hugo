@@ -17,11 +17,11 @@ draft: false
 
 6 Respondensque Eliu filius Barachel Buzites, dixit: Iunior sum tempore, vos autem antiquiores, idcirco demisso capite, veritus sum vobis indicare meam sententiam.
 
-7 Sperabam enim quod ætas prolixior loqueretur, et annorum multitudo doceret sapientiam.
+7 Sperabam enim quod aetas prolixior loqueretur, et annorum multitudo doceret sapientiam.
 
 8 Sed, ut video, Spiritus est in hominibus, et inspiratio Omnipotentis dat intelligentiam.
 
-9 Non sunt longævi sapientes, nec senes intelligunt iudicium.
+9 Non sunt longaevi sapientes, nec senes intelligunt iudicium.
 
 10 Ideo dicam: Audite me, ostendam vobis etiam ego meam sapientiam.
 
@@ -45,7 +45,7 @@ draft: false
 
 20 Loquar, et respirabo paululum: aperiam labia mea, et respondebo.
 
-21 Non accipiam personam viri, et Deum homini non æquabo.
+21 Non accipiam personam viri, et Deum homini non aequabo.
 
 22 Nescio enim quamdiu subsistam, et si post modicum tollat me Factor meus.
 

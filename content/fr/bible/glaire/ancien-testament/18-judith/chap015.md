@@ -19,7 +19,7 @@ summary: |
 
 ***Note*** :  Judith 15, 9 : Ses prêtres ; ou bien les anciens du peuples. Le grec porte : Le sénat ou les anciens des enfants d’Israël qui habitaient dans Jérusalem.
 
-10 Et lorsqu'elle fut sortie vers lui, ils la bénirent tous d'une seule voix, disant : Vous êtes la gloire de Jérusalem, vous êtes la joie d'Israël, vous êtes l'honneur de notre peuple :11 Car vous avez agi virilement, et votre cœur a été affermi, parce que vous avez aimé la chasteté, et qu'après votre mari vous n'en avez pas connu d'autre ; c'est pour cela que la main du Seigneur vous a fortifiée, et c'est pour cela que vous serez bénie éternellement. 12 Et tout le peuple dit : Ainsi soit! ainsi soit!
+10 Et lorsqu'elle fut sortie vers lui, ils la bénirent tous d'une seule voix, disant : Vous êtes la gloire de Jérusalem, vous êtes la joie d'Israël, vous êtes l'honneur de notre peuple :11 Car vous avez agi virilement, et votre coeur a été affermi, parce que vous avez aimé la chasteté, et qu'après votre mari vous n'en avez pas connu d'autre ; c'est pour cela que la main du Seigneur vous a fortifiée, et c'est pour cela que vous serez bénie éternellement. 12 Et tout le peuple dit : Ainsi soit! ainsi soit!
 
 
 13 Or à peine si en trente jours les dépouilles des Assyriens furent recueillies par le peuple d'Israël. 14 Et tout ce qui fut reconnu avoir appartenu en propre à Holoferne, en or, en argent, et en vêtements, en pierres précieuses, et en toute sorte de meubles, on le donna à Judith, et il lui fut tout remis par le peuple. 15 Et tous les peuples se réjouissaient avec les femmes, les vierges et les jeunes hommes, avec des instruments à vent et des harpes.

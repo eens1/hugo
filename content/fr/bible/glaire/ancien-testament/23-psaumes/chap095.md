@@ -34,7 +34,7 @@ summary: |
 
 7 Apportez au Seigneur, ô familles des nations, apportez au Seigneur gloire et honneur ;
 
-***Note*** :  Ps. 95, 7 : Familles. C’est le sens de l’hébreu et des Septante ; la Vulgate porte patriæ, c’est-à-dire pays, régions, contrées.
+***Note*** :  Ps. 95, 7 : Familles. C’est le sens de l’hébreu et des Septante ; la Vulgate porte patriae, c’est-à-dire pays, régions, contrées.
 
 ***Note*** :  Ps. 95, 7-13 : Il faut offrir à Dieu, ses présents et son adoration (versets 7 à 9), et proclamer devant tous les peuples sa royauté, qui est reconnue par toutes les créatures (versets 10 à 13).
 

@@ -11,11 +11,11 @@ summary: |
 ---
 
 
-1 Le péché de Juda a été écrit avec une plume de fer et avec une pointe de diamant, et gravé sur l'étendue de leur cœur et sur les cornes de leurs autels.
+1 Le péché de Juda a été écrit avec une plume de fer et avec une pointe de diamant, et gravé sur l'étendue de leur coeur et sur les cornes de leurs autels.
 
-***Note*** :  Jr. 17, 1-27 : 5° Dieu châtie les Juifs comme ils l’ont mérité, chapitre 17. ― 1° Israël a irrité le Seigneur par son idolâtrie ; il le livre à l’étranger, versets 1 à 4. ― 2° Qui se confie en l’homme périt ; qui se confie en Dieu, vit, versets 5 à 8 ; Dieu connaît le fond des cœurs, il traitera l’impie comme il le mérite, versets 9 à 11 ; au contraire, il soutiendra son prophète et confondra ses ennemis, versets 12 à 18. ― 3° Digression. ― Jérémie exhorte les Juifs à l’observation fidèle du sabbat ; s’ils le gardent, Dieu les bénira ; sinon, il les châtiera, versets 19 à 27.
+***Note*** :  Jr. 17, 1-27 : 5° Dieu châtie les Juifs comme ils l’ont mérité, chapitre 17. ― 1° Israël a irrité le Seigneur par son idolâtrie ; il le livre à l’étranger, versets 1 à 4. ― 2° Qui se confie en l’homme périt ; qui se confie en Dieu, vit, versets 5 à 8 ; Dieu connaît le fond des coeurs, il traitera l’impie comme il le mérite, versets 9 à 11 ; au contraire, il soutiendra son prophète et confondra ses ennemis, versets 12 à 18. ― 3° Digression. ― Jérémie exhorte les Juifs à l’observation fidèle du sabbat ; s’ils le gardent, Dieu les bénira ; sinon, il les châtiera, versets 19 à 27.
 
-***Note*** :  Jr. 17, 1 : L’étendue de leur cœur (latitudinem cordis eorum) ; selon l’hébreu, la table de leur cœur ; expression qu’on retrouve dans saint Paul (voir 2 Corinthiens, 3, 3).
+***Note*** :  Jr. 17, 1 : L’étendue de leur coeur (latitudinem cordis eorum) ; selon l’hébreu, la table de leur coeur ; expression qu’on retrouve dans saint Paul (voir 2 Corinthiens, 3, 3).
 
 2 Puisque leurs fils se sont souvenus de leurs autels, et de leurs bois sacrés, et des arbres couverts de feuilles, sur les montagnes élevées,
 
@@ -25,7 +25,7 @@ summary: |
 3 Offrant des sacrifices dans la campagne, j'abandonnerai au pillage ta force et tous tes trésors, et tes hauts lieux à cause de tes péchés commis dans tous tes confins. 4 Et tu seras laissée seule privée de ton héritage que je t'ai donné, et je te rendrai l'esclave de tes ennemis dans une terre que tu ignores, parce que tu as allumé un feu dans ma fureur; jusqu'à jamais il brûlera.
 
 
-5 Voici ce que dit le Seigneur : Maudit l'homme qui se confie dans l'homme, qui se fait un bras de chair, et dont le cœur se retire du Seigneur.
+5 Voici ce que dit le Seigneur : Maudit l'homme qui se confie dans l'homme, qui se fait un bras de chair, et dont le coeur se retire du Seigneur.
 
 ***Note*** :  Jr. 17, 5 : Voir Isaïe, 31, 1 ; Jérémie, 48, 7.
 
@@ -39,12 +39,12 @@ summary: |
 ***Note*** :  Jr. 17, 8 : Voir Psaumes, 1, 3.
 
 
-9 Le cœur de tous est dépravé et inscrutable; qui le connaîtra? 10 C'est moi, le Seigneur qui scrute le cœur, et qui éprouve les reins; qui donne à chacun selon sa voie et selon le fruit de ses inventions.
+9 Le coeur de tous est dépravé et inscrutable; qui le connaîtra? 10 C'est moi, le Seigneur qui scrute le coeur, et qui éprouve les reins; qui donne à chacun selon sa voie et selon le fruit de ses inventions.
 
-***Note*** :  Jr. 17, 10 : Voir 4 Rois, 16, 7 ; Psaumes, 7, 10 ; Apocalypse, 2, 23. ― Les reins. Voir sur ce mot, Jérémie, 11, 20. ― Inventions ; c’est-à-dire, selon l’hébreu, actions, œuvres. Comparer à Isaïe, 3 8.
+***Note*** :  Jr. 17, 10 : Voir 4 Rois, 16, 7 ; Psaumes, 7, 10 ; Apocalypse, 2, 23. ― Les reins. Voir sur ce mot, Jérémie, 11, 20. ― Inventions ; c’est-à-dire, selon l’hébreu, actions, oeuvres. Comparer à Isaïe, 3 8.
 
 
-11 La perdrix a couvé des œufs qu'elle n'a pas pondus, ainsi l'injuste a amassé des richesses, mais non avec justice ; au milieu de ses jours il abandonnera ses richesses , et à son dernier moment, il sera reconnu insensé.
+11 La perdrix a couvé des oeufs qu'elle n'a pas pondus, ainsi l'injuste a amassé des richesses, mais non avec justice ; au milieu de ses jours il abandonnera ses richesses , et à son dernier moment, il sera reconnu insensé.
 
 
 12 Le trône de gloire, élevé depuis le commencement, est le lieu de notre sanctification.
@@ -74,7 +74,7 @@ summary: |
 
 21 Voici ce que dit le Seigneur : Gardez vos âmes, ne portez point de fardeaux au jour du sabbat, et n'en introduisez point par les portes de Jérusalem.
 
-***Note*** :  Jr. 17, 21 : Ne portez pas, etc. Ne faites pas les œuvres serviles qui sont prohibées le jour du sabbat.
+***Note*** :  Jr. 17, 21 : Ne portez pas, etc. Ne faites pas les oeuvres serviles qui sont prohibées le jour du sabbat.
 
 22 Et ne faites pas sortir de fardeaux hors de vos maisons au jour du sabbat, et vous ne ferez aucun travail; mais sanctifiez le jour du sabbat comme je l'ai ordonné à vos pères.
 

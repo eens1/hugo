@@ -24,7 +24,7 @@ summary: |
 ***Note*** :  Prov. 16, 2 : Voir Proverbes, 20, 24 ; 21, 2.
 
 
-3 Expose tes œuvres au Seigneur, et tes pensées seront dirigées.
+3 Expose tes oeuvres au Seigneur, et tes pensées seront dirigées.
 
 
 4 Le Seigneur a opéré toutes choses pour lui-même, l'impie même pour le jour mauvais.
@@ -51,7 +51,7 @@ Le commencement de la bonne voie est de faire la justice : or elle est agréable
 ***Note*** :  Prov. 16, 8 : Mieux vaut, etc. Voir Proverbes, 15, 16. ― Beaucoup de fruits ; c’est-à-dire beaucoup de revenus, de biens, de richesses.
 
 
-9 Le cœur de l'homme dispose sa voie ; mais c'est au Seigneur de diriger ses pas.
+9 Le coeur de l'homme dispose sa voie ; mais c'est au Seigneur de diriger ses pas.
 
 
 10 La divination est sur les lèvres du roi ; dans les jugements n'errera pas sa bouche.
@@ -60,7 +60,7 @@ Le commencement de la bonne voie est de faire la justice : or elle est agréable
 
 ***Note*** :  Prov. 16, 10 : Divination ; n’est pas pris ici en mauvaise part ; il signifie oracle divinement inspiré ; car le roi était le représentant de Dieu.
 
-11 Poids et balance sont les jugements du Seigneur; et ses œuvres sont toutes les pierres du sachet.
+11 Poids et balance sont les jugements du Seigneur; et ses oeuvres sont toutes les pierres du sachet.
 
 ***Note*** :  Prov. 16, 11 : Poids et balance, etc. ; c’est-à-dire infiniment justes, infiniment équitables. ― Toutes les pierres du sachet ; c’est la même idée exprimée en d’autres termes. Les anciens Hébreux, n’ayant pas d’argent monnayé pour leur commerce, divisaient l’or et l’argent en lingots, plus ou moins forts, qu’ils mettaient dans une balance, et qu’ils pesaient avec des pierres renfermées dans un sachet. Le vendeur et l’acheteur portaient toujours à leur ceinture une balance et un sachet. ― Les pierres étaient choisies de préférence comme poids, parce qu’on peut difficilement les altérer et qu’elles échappent à la rouille.
 
@@ -94,13 +94,13 @@ Le commencement de la bonne voie est de faire la justice : or elle est agréable
 ***Note*** :  Prov. 16, 20 : Un homme habile dans la parole. C’est le sens exact et rigoureux de la Vulgate ; mais, comme le terme hébreu rendu dans cette version par parole (verbo), signifie aussi chose, affaire, et qu’il a été traduit dans les Septante par choses, affaires, bien des traducteurs lui ont donné ce dernier sens.
 
 
-21 Celui qui est sage de cœur sera appelé prudent : et celui qui est doux dans la parole recevra de plus grands dons.
+21 Celui qui est sage de coeur sera appelé prudent : et celui qui est doux dans la parole recevra de plus grands dons.
 
 
 22 C'est une source de vie que l'instruction, pour celui qui la possède ; la doctrine des insensés, c'est la folie.
 
 
-23 Le cœur du sage instruit sa bouche ; et à ses lèvres il ajoutera de la grâce.
+23 Le coeur du sage instruit sa bouche ; et à ses lèvres il ajoutera de la grâce.
 
 
 24 C'est un rayon de miel que des paroles disposées avec art; c'est la douceur de l'âme et la santé des os.

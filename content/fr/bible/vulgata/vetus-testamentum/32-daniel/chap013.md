@@ -7,11 +7,11 @@ draft: false
 
 1 Et erat vir habitans in Babylone, et nomen eius Ioakim:
 
-2 Et accepit uxorem nomine Susannam, filiam Helciæ pulchram nimis, et timentem Deum:
+2 Et accepit uxorem nomine Susannam, filiam Helciae pulchram nimis, et timentem Deum:
 
 3 parentes enim illius, cum essent iusti, erudierunt filiam suam secundum legem Moysi.
 
-4 Erat autem Ioakim dives valde, et erat ei pomarium vicinum domui suæ: et ad ipsum confluebant Iudæi, eo quod esset honorabilior omnium.
+4 Erat autem Ioakim dives valde, et erat ei pomarium vicinum domui suae: et ad ipsum confluebant Iudaei, eo quod esset honorabilior omnium.
 
 5 Et constituti sunt de populo duo senes iudices in illo anno: de quibus locutus est Dominus: Quia egressa est iniquitas de Babylone a senioribus iudicibus, qui videbantur regere populum.
 
@@ -21,7 +21,7 @@ draft: false
 
 8 Et videbant eam senes quotidie ingredientem, et deambulantem: et exarserunt in concupiscentiam eius:
 
-9 et everterunt sensum suum, et declinaverunt oculos suos ut non viderent cælum, neque recordarentur iudiciorum iustorum.
+9 et everterunt sensum suum, et declinaverunt oculos suos ut non viderent caelum, neque recordarentur iudiciorum iustorum.
 
 10 Erant ergo ambo vulnerati amore eius, nec indicaverunt sibi vicissim dolorem suum:
 
@@ -33,21 +33,21 @@ draft: false
 
 14 Cumque revertissent, venerunt in unum: et sciscitantes ab invicem causam, confessi sunt concupiscentiam suam: et tunc in communi statuerunt tempus, quando eam possent invenire solam.
 
-15 Factum est autem, cum observarent diem aptum, ingressa est aliquando sicut heri et nudiustertius, cum duabus solis puellis, voluitque lavari in pomario: æstus quippe erat:
+15 Factum est autem, cum observarent diem aptum, ingressa est aliquando sicut heri et nudiustertius, cum duabus solis puellis, voluitque lavari in pomario: aestus quippe erat:
 
-16 et non erat ibi quisquam, præter duos senes absconditos, et contemplantes eam.
+16 et non erat ibi quisquam, praeter duos senes absconditos, et contemplantes eam.
 
 17 Dixit ergo puellis: Afferte mihi oleum, et smigmata, et ostia pomarii claudite, ut laver.
 
-18 Et fecerunt sicut præceperat: clauseruntque ostia pomarii, et egressæ sunt per posticum ut afferrent quæ iusserat. nesciebantque senes intus esse absconditos.
+18 Et fecerunt sicut praeceperat: clauseruntque ostia pomarii, et egressae sunt per posticum ut afferrent quae iusserat. nesciebantque senes intus esse absconditos.
 
-19 Cum autem egressæ essent puellæ, surrexerunt duo senes, et accurrerunt ad eam, et dixerunt:
+19 Cum autem egressae essent puellae, surrexerunt duo senes, et accurrerunt ad eam, et dixerunt:
 
 20 Ecce ostia pomarii clausa sunt, et nemo nos videt, et nos in concupiscentia tui sumus: quam ob rem assentire nobis, et commiscere nobiscum.
 
 21 quod si nolueris, dicemus contra te testimonium, quod fuerit tecum iuvenis, et ob hanc causam emiseris puellas a te.
 
-22 Ingemuit Susanna, et ait: Angustiæ sunt mihi undique: si enim hoc egero, mors mihi est: si autem non egero, non effugiam manus vestras.
+22 Ingemuit Susanna, et ait: Angustiae sunt mihi undique: si enim hoc egero, mors mihi est: si autem non egero, non effugiam manus vestras.
 
 23 Sed melius est mihi absque opere incidere in manus vestras, quam peccare in conspectu Domini.
 
@@ -61,7 +61,7 @@ draft: false
 
 28 Cumque venisset populus ad Ioakim virum eius, venerunt et duo presbyteri pleni iniqua cogitatione adversus Susannam ut interficerent eam.
 
-29 Et dixerunt coram populo: Mittite ad Susannam filiam Helciæ uxorem Ioakim. Et statim miserunt.
+29 Et dixerunt coram populo: Mittite ad Susannam filiam Helciae uxorem Ioakim. Et statim miserunt.
 
 30 Et venit cum parentibus, et filiis, et universis cognatis suis.
 
@@ -73,9 +73,9 @@ draft: false
 
 34 Consurgentes autem duo presbyteri in medio populi, posuerunt manus suas super caput eius.
 
-35 Quæ flens suspexit ad cælum: erat enim cor eius fiduciam habens in Domino.
+35 Quae flens suspexit ad caelum: erat enim cor eius fiduciam habens in Domino.
 
-36 Et dixerunt presbyteri: Cum deambularemus in pomario soli, ingressa est hæc cum duabus puellis: et clausit ostia pomarii, et dimisit a se puellas.
+36 Et dixerunt presbyteri: Cum deambularemus in pomario soli, ingressa est haec cum duabus puellis: et clausit ostia pomarii, et dimisit a se puellas.
 
 37 Venitque ad eam adolescens, qui erat absconditus, et concubuit cum ea.
 
@@ -87,9 +87,9 @@ draft: false
 
 41 Credidit eis multitudo quasi senibus et iudicibus populi, et condemnaverunt eam ad mortem.
 
-42 Exclamavit autem voce magna Susanna, et dixit: Deus æterne, qui absconditorum es cognitor, qui nosti omnia antequam fiant,
+42 Exclamavit autem voce magna Susanna, et dixit: Deus aeterne, qui absconditorum es cognitor, qui nosti omnia antequam fiant,
 
-43 tu scis quoniam falsum testimonium tulerunt contra me: et ecce morior, cum nihil horum fecerim, quæ isti malitiose composuerunt adversum me.
+43 tu scis quoniam falsum testimonium tulerunt contra me: et ecce morior, cum nihil horum fecerim, quae isti malitiose composuerunt adversum me.
 
 44 Exaudivit autem Dominus vocem eius.
 
@@ -107,7 +107,7 @@ draft: false
 
 51 Et dixit ad eos Daniel: Separate illos ab invicem procul, et diiudicabo eos.
 
-52 Cum ergo divisi essent alter ab altero, vocavit unum de eis, et dixit ad eum: Inveterate dierum malorum, nunc venerunt peccata tua, quæ operabaris prius:
+52 Cum ergo divisi essent alter ab altero, vocavit unum de eis, et dixit ad eum: Inveterate dierum malorum, nunc venerunt peccata tua, quae operabaris prius:
 
 53 iudicans iudicia iniusta, innocentes opprimens, et dimittens noxios, dicente Domino: Innocentem et iustum non interficies.
 
@@ -117,13 +117,13 @@ draft: false
 
 56 Et, amoto eo, iussit venire alium, et dixit ei: Semen Chanaan, et non Iuda, species decepit te, et concupiscentia subvertit cor tuum:
 
-57 sic faciebatis filiabus Israel, et illæ timentes loquebantur vobis: sed filia Iuda non sustinuit iniquitatem vestram.
+57 sic faciebatis filiabus Israel, et illae timentes loquebantur vobis: sed filia Iuda non sustinuit iniquitatem vestram.
 
 58 Nunc ergo dic mihi, sub qua arbore comprehenderis eos loquentes sibi. Qui ait: Sub prino.
 
 59 Dixit autem ei Daniel: Recte mentitus es et tu in caput tuum: manet enim Angelus Domini, gladium habens, ut secet te medium, et interficiat vos.
 
-60 Exclamavit itaque omnis cœtus voce magna, et benedixerunt Deum, qui salvat sperantes in se.
+60 Exclamavit itaque omnis coetus voce magna, et benedixerunt Deum, qui salvat sperantes in se.
 
 61 Et consurrexerunt adversus duos presbyteros (convicerat enim eos Daniel ex ore suo falsum dixisse testimonium) feceruntque eis sicut male egerant adversus proximum,
 

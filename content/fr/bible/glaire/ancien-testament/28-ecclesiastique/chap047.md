@@ -40,7 +40,7 @@ summary: |
 
 ***Note*** :  Sir. 47, 8 : Jusqu’à ce jour. David défit les Philistins dans plusieurs combats, et abattit tellement leur puissance qu’ils ne purent de très longtemps se relever.
 
-9 En toutes ses œuvres il a rendu gloire au Saint et au Très-Haut, par des paroles de louange. 10 De tout son cœur il a loué le Seigneur, et il a aimé Dieu qui l'a fait, et qui lui a donné la puissance contre les ennemis ; 11 Et il a établi des chantres devant l'autel, et il a accompagné leurs chants de modulation pleines de douceur.
+9 En toutes ses oeuvres il a rendu gloire au Saint et au Très-Haut, par des paroles de louange. 10 De tout son coeur il a loué le Seigneur, et il a aimé Dieu qui l'a fait, et qui lui a donné la puissance contre les ennemis ; 11 Et il a établi des chantres devant l'autel, et il a accompagné leurs chants de modulation pleines de douceur.
 
 
 12 Et il a donné de la pompe à la célébration des fêtes, et il a orné les temps sacrés jusqu'à la consommation de sa vie, afin qu'on louât le nom saint du Seigneur, et qu'on rehaussât dès le matin la sainteté de Dieu.

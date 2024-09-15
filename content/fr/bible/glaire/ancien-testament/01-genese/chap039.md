@@ -19,5 +19,5 @@ me corrompre ; et, lorsque j'ai poussé des cris, 15 Et qu'il a entendu ma voix,
 ***Note*** :  Gn. 39, 20 : Voir Psaumes, 104, 18. Dans la prison de Memphis ou plutôt de Tanis, capitale des rois pasteurs, rois d’origine étrangère qui étaient alors maîtres de l’Egypte septentrionale.
 
 
-21 Mais le Seigneur fut avec Joseph, et ayant pitié de lui, il lui fit trouver grâce devant le chef de la prison, 22 Lequel mit sous sa main tous les prisonniers qui étaient détenus dans la prison ; de sorte que tout ce qui se faisait, était soumis à Joseph. 23 Il ne prenait même connaissance de rien, tout ayant été confié à Joseph, parce que le Seigneur était avec lui, et dirigeait toutes ses œuvres.
+21 Mais le Seigneur fut avec Joseph, et ayant pitié de lui, il lui fit trouver grâce devant le chef de la prison, 22 Lequel mit sous sa main tous les prisonniers qui étaient détenus dans la prison ; de sorte que tout ce qui se faisait, était soumis à Joseph. 23 Il ne prenait même connaissance de rien, tout ayant été confié à Joseph, parce que le Seigneur était avec lui, et dirigeait toutes ses oeuvres.
 

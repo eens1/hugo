@@ -13,7 +13,7 @@ draft: false
 
 4 Cor eorum longe fecisti a disciplina, propterea non exaltabuntur.
 
-5 Prædam pollicetur sociis, et oculi filiorum eius deficient.
+5 Praedam pollicetur sociis, et oculi filiorum eius deficient.
 
 6 Posuit me quasi in proverbium vulgi, et exemplum sum coram eis.
 
@@ -25,7 +25,7 @@ draft: false
 
 10 Igitur omnes vos convertimini, et venite, et non inveniam in vobis ullum sapientem.
 
-11 Dies mei transierunt, cogitationes meæ dissipatæ sunt, torquentes cor meum:
+11 Dies mei transierunt, cogitationes meae dissipatae sunt, torquentes cor meum:
 
 12 Noctem verterunt in diem, et rursum post tenebras spero lucem.
 
@@ -33,7 +33,7 @@ draft: false
 
 14 Putredini dixi: Pater meus es, mater mea, et soror mea, vermibus.
 
-15 Ubi est ergo nunc præstolatio mea, et patientiam meam quis considerat?
+15 Ubi est ergo nunc praestolatio mea, et patientiam meam quis considerat?
 
 16 In profundissimum infernum descendent omnia mea: putasne saltem ibi erit requies mihi?
 

@@ -23,11 +23,11 @@ draft: false
 
 9 Qui facit magna et inscrutabilia et mirabilia absque numero:
 
-10 Qui dat pluviam super faciem terræ, et irrigat aquis universa:
+10 Qui dat pluviam super faciem terrae, et irrigat aquis universa:
 
-11 Qui ponit humiles in sublime, et mœrentes erigit sospitate:
+11 Qui ponit humiles in sublime, et moerentes erigit sospitate:
 
-12 Qui dissipat cogitationes malignorum, ne possint implere manus eorum quod cœperant:
+12 Qui dissipat cogitationes malignorum, ne possint implere manus eorum quod coeperant:
 
 13 Qui apprehendit sapientes in astutia eorum, et consilium pravorum dissipat:
 
@@ -45,15 +45,15 @@ draft: false
 
 20 In fame eruet te de morte, et in bello de manu gladii.
 
-21 A flagello linguæ absconderis, et non timebis calamitatem cum venerit.
+21 A flagello linguae absconderis, et non timebis calamitatem cum venerit.
 
-22 In vastitate, et fame ridebis, et bestias terræ non formidabis.
+22 In vastitate, et fame ridebis, et bestias terrae non formidabis.
 
-23 Sed cum lapidibus regionum pactum tuum, et bestiæ terræ pacificæ erunt tibi.
+23 Sed cum lapidibus regionum pactum tuum, et bestiae terrae pacificae erunt tibi.
 
 24 Et scies quod pacem habeat tabernaculum tuum, et visitans speciem tuam, non peccabis.
 
-25 Scies quoque quoniam multiplex erit semen tuum, et progenies tua quasi herba terræ.
+25 Scies quoque quoniam multiplex erit semen tuum, et progenies tua quasi herba terrae.
 
 26 Ingredieris in abundantia sepulchrum, sicut infertur acervus tritici in tempore suo.
 

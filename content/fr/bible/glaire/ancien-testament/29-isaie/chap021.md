@@ -26,12 +26,12 @@ summary: |
 
 ***Note*** :  Is. 21, 3 : A cause de cela, etc. Le prophète, dans tout ce chapitre, se montre ému de compassion pour Babylone ; d’autant que dans le temps où il parlait, elle était amie et alliée d’Ezéchias, et qu’elle n’avait pas encore opprimé les Hébreux. Mais il prédit tout à la fois et ses crimes et le châtiment qui les suivra.
 
-4 Mon cœur s'est flétri; des ténèbres m'ont frappé de stupeur; Babylone que je chérissais m'est devenue un sujet d'étonnement. 5 Dresse la table; contemple dans une guérite ceux qui mangent et qui boivent : levez-vous, princes, saisissez le bouclier.
+4 Mon coeur s'est flétri; des ténèbres m'ont frappé de stupeur; Babylone que je chérissais m'est devenue un sujet d'étonnement. 5 Dresse la table; contemple dans une guérite ceux qui mangent et qui boivent : levez-vous, princes, saisissez le bouclier.
 
 ***Note*** :  Is. 21, 5 : Dresse la table. C’est probablement une allusion au festin de Baltassar. Voir Daniel, chapitre 5.
 
 
-6 Car voici ce que m'a dit le Seigneur : Va, et place une sentinelle; et tout ce qu'elle aura vu, qu'elle l'annonce. 7 Et elle vit un chariot conduit par deux cavaliers, l'un qui montait un âne, et l'autre qui montait un chameau; et elle considéra soigneusement d'un œil très attentif.
+6 Car voici ce que m'a dit le Seigneur : Va, et place une sentinelle; et tout ce qu'elle aura vu, qu'elle l'annonce. 7 Et elle vit un chariot conduit par deux cavaliers, l'un qui montait un âne, et l'autre qui montait un chameau; et elle considéra soigneusement d'un oeil très attentif.
 
 ***Note*** :  Is. 21, 7 : Par deux cavaliers, etc. Ces deux cavaliers représentaient les Mèdes et les Perses. Ces derniers se servaient très avantageusement des chameaux dans les combats ; ils ont aussi quelquefois employé les ânes, qui étaient exclusivement en usage chez les Caramaniens, peuple assujetti aux Perses.
 

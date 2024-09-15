@@ -7,7 +7,7 @@ draft: false
 
 1 Et tu fili hominis sume tibi laterem, et pones eum coram te: et describes in eo civitatem Ierusalem.
 
-2 Et ordinabis adversus eam obsidionem, et ædificabis munitiones, et comportabis aggerem, et dabis contra eam castra, et pones arietes in gyro.
+2 Et ordinabis adversus eam obsidionem, et aedificabis munitiones, et comportabis aggerem, et dabis contra eam castra, et pones arietes in gyro.
 
 3 Et tu sume tibi sartaginem ferream, et pones eam in murum ferreum inter te, et inter civitatem: et obfirmabis faciem tuam ad eam, et erit in obsidionem, et circumdabis eam: signum est domui Israel.
 
@@ -15,11 +15,11 @@ draft: false
 
 5 Ego autem dedi tibi annos iniquitatis eorum, numero dierum trecentos et nonaginta dies: et portabis iniquitatem domus Israel.
 
-6 Et cum compleveris hæc, dormies super latus tuum dexterum secundo: et assumes iniquitatem domus Iuda quadraginta diebus. diem pro anno, diem, inquam, pro anno dedi tibi.
+6 Et cum compleveris haec, dormies super latus tuum dexterum secundo: et assumes iniquitatem domus Iuda quadraginta diebus. diem pro anno, diem, inquam, pro anno dedi tibi.
 
 7 Et ad obsidionem Ierusalem convertes faciem tuam, et brachium tuum erit extentum: et prophetabis adversus eam.
 
-8 Ecce circumdedi te vinculis: et non te convertes a latere tuo in latus aliud, donec compleas dies obsidionis tuæ.
+8 Ecce circumdedi te vinculis: et non te convertes a latere tuo in latus aliud, donec compleas dies obsidionis tuae.
 
 9 Et tu sume tibi frumentum, et hordeum, et fabam, et lentem, et milium, et viciam: et mittes ea in vas unum, et facies tibi panes numero dierum, quibus dormies super latus tuum: trecentis et nonaginta diebus comedes illud.
 

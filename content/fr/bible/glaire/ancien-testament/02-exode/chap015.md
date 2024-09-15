@@ -50,7 +50,7 @@ summary: |
 ***Note*** :  Ex. 15, 19 : Car Pharaon est entré… Le texte porte : Le cheval (pour les chevaux) de Pharaon sont entrés dans la mer. ― Il faut remarquer qu’il n’y avait pas de cavaliers dans l’armée égyptienne, mais seulement des chariots portant des soldats.
 
 
-20 Marie, prophétesse, sœur d'Aaron, prit donc un tambour en sa main, et toutes les femmes sortirent après elle avec des tambours et en chœur. 21 Elle chantait avant elles, disant : Chantons le Seigneur; car il s'est glorieusement signalé : il a précipité dans la mer le cheval et celui qui le montait.
+20 Marie, prophétesse, soeur d'Aaron, prit donc un tambour en sa main, et toutes les femmes sortirent après elle avec des tambours et en choeur. 21 Elle chantait avant elles, disant : Chantons le Seigneur; car il s'est glorieusement signalé : il a précipité dans la mer le cheval et celui qui le montait.
 
 
 22 Or Moïse fit sortir Israël de la mer Rouge, et ils allèrent au désert de Sur ; et ils marchèrent trois jours dans la solitude, et ils ne trouvaient pas d'eau.

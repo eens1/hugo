@@ -24,7 +24,7 @@ summary: |
 4 Et ils ont commandé au peuple de leur temps, et en vertu de leur prudence donné aux peuples de très saintes paroles. 5 Dans leur habileté ils ont recherché les modes de la musique, et ils ont publié les cantiques des Ecritures. 6 Hommes riches en puissance, ayant du goût pour la beauté, vivant en paix dans leurs maisons. 7 Tous ceux-là au milieu des générations de leur nation ont acquis la gloire, et comme en leurs jours ils sont encore l'objet des louanges.
 
 
-8 Ceux qui sont nés d'eux ont laissé un nom qui raconte leurs louanges; 9 Et il en est d'autres dont il n'y a pas de souvenir; ils ont péri comme s'ils n'avaient pas été ; et ils sont nés, eux et leurs fils avec eux, comme s'ils n'étaient pas nés. 10 Mais ces autres sont des hommes de miséricorde, et les œuvres de leur piété, n'ont pas manqué;
+8 Ceux qui sont nés d'eux ont laissé un nom qui raconte leurs louanges; 9 Et il en est d'autres dont il n'y a pas de souvenir; ils ont péri comme s'ils n'avaient pas été ; et ils sont nés, eux et leurs fils avec eux, comme s'ils n'étaient pas nés. 10 Mais ces autres sont des hommes de miséricorde, et les oeuvres de leur piété, n'ont pas manqué;
 
 ***Note*** :  Sir. 44, 10 : Ces autres (illi) ; c’est-à-dire les premiers dont il est question aux versets 7 et 8.
 
@@ -68,7 +68,7 @@ summary: |
 
 22 C'est pour cela que par serment il lui a donné de la gloire dans sa race, et de croître comme un amas de terre ;
 
-***Note*** :  Sir. 44, 22 : Un amas de terre (terræ cumulum) ; le grec peut signifier la poussière de la terre ; le texte de la Genèse (voir Genèse, 13, 16), auquel le sage fait ici allusion, porte également la poussière de la terre.
+***Note*** :  Sir. 44, 22 : Un amas de terre (terrae cumulum) ; le grec peut signifier la poussière de la terre ; le texte de la Genèse (voir Genèse, 13, 16), auquel le sage fait ici allusion, porte également la poussière de la terre.
 
 
 23 Et comme les étoiles, d'élever sa postérité, d'étendre son héritage depuis une mer jusqu'à une mitre mer, et depuis un fleuve jusqu'aux limites de la terre.

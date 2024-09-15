@@ -21,7 +21,7 @@ summary: |
 
 ***Note*** :  Sg. 15, 8 : Lorsqu’on lui réclamera, etc. ; lorsque Dieu lui redemandera l’âme qu’il ne lui avait donné que pour un temps, et dont, par conséquent, le fabricateur d’idoles lui est redevable comme d’une véritable dette.
 
-9 Et il a souci, non parce qu'il doit travailler, ni parce que la vie est courte pour lui; mais parce qu'il est combattu par les ouvriers en or et en argent, et qu'il imite ceux qui travaillent en airain, et il met en avant la gloire de faire des choses inutiles. 10 C'est de la cendre que son cœur, et de la terre inutile que son espérance ; et sa vie est plus vile que la boue ; 11 Parce qu'il a ignoré qui l'a formé, qui lui a inspiré cette âme qui agit, et qui lui a insufflé l'esprit vital. 12 Mais ils ont estimé que notre vie est un jeu, et que l'occupation de la vie a pour but le lucre, et qu'il faut, par tous les moyens, même par le mal, en acquérir.
+9 Et il a souci, non parce qu'il doit travailler, ni parce que la vie est courte pour lui; mais parce qu'il est combattu par les ouvriers en or et en argent, et qu'il imite ceux qui travaillent en airain, et il met en avant la gloire de faire des choses inutiles. 10 C'est de la cendre que son coeur, et de la terre inutile que son espérance ; et sa vie est plus vile que la boue ; 11 Parce qu'il a ignoré qui l'a formé, qui lui a inspiré cette âme qui agit, et qui lui a insufflé l'esprit vital. 12 Mais ils ont estimé que notre vie est un jeu, et que l'occupation de la vie a pour but le lucre, et qu'il faut, par tous les moyens, même par le mal, en acquérir.
 
 ***Note*** :  Sg. 15, 12 : Ils ont estimé ; pluriel qui se rapporte à les amateurs de mauvaises choses du verset 6.
 

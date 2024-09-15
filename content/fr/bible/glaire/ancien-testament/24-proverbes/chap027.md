@@ -8,7 +8,7 @@ summary: |
   Des bons conseils.
   Travailler à acquérir la sagesse.
   Du serviteur fidèle.
-  Les louanges sont l’épreuve du cœur.
+  Les louanges sont l’épreuve du coeur.
   Devoir des pasteurs.
 ---
 
@@ -45,7 +45,7 @@ summary: |
 ***Note*** :  Prov. 27, 8 : En quittant son lieu, c’est-à-dire sa patrie, sa demeure, un homme est comme un oiseau qui abandonne son nid, exposé à mille dangers et à mille traverses. Les anciens Hébreux étaient très attachés à leur patrie, et n’aimaient pas voyager ; ils y étaient retenus, d’abord par le motif de leur religion, dont l’exercice parfait était concentré dans la Palestine ; en second lieu, par le danger de l’idolâtrie, qui était répandue dans l’univers entier ; et enfin par la nature même de leur sol, qui était un des meilleurs du monde.
 
 
-9 Dans le parfum et les odeurs variées, le cœur trouve du plaisir; et dans les bons conseils d'un ami, l'âme trouve des douceurs.
+9 Dans le parfum et les odeurs variées, le coeur trouve du plaisir; et dans les bons conseils d'un ami, l'âme trouve des douceurs.
 
 
 10 Ton ami et l'ami de ton père, ne les abandonne pas ; et dans la maison de ton frère n'entre pas au jour de ton affliction.
@@ -54,7 +54,7 @@ Vaut mieux un voisin qui est près, qu'un frère qui est loin.
 ***Note*** :  Prov. 27, 10 : Dans la maison, etc. Tu trouveras plus de consolation auprès d’un ami sincère qu’auprès de ton propre frère. Comparer à Proverbes, 18, 24. ― Vaut mieux… moins. Ce passage, qui manque dans l’hébreu, se trouve dans les Septante.
 
 
-11 Applique-toi à la sagesse, mon fils, et réjouis mon cœur, afin de pouvoir répondre à celui qui te fera des reproches.
+11 Applique-toi à la sagesse, mon fils, et réjouis mon coeur, afin de pouvoir répondre à celui qui te fera des reproches.
 
 
 12 Un homme habile, voyant le mal, s'est caché ; les simples en passant ont souffert des dommages.
@@ -89,7 +89,7 @@ Vaut mieux un voisin qui est près, qu'un frère qui est loin.
 18 Celui qui conserve un figuier en mangera les fruits; et celui qui est gardien de son maître sera élevé en gloire.
 
 
-19 De même que dans les eaux reluisent les visages de ceux qui s'y regardent ; de même, les cœurs des hommes sont manifestes aux prudents.
+19 De même que dans les eaux reluisent les visages de ceux qui s'y regardent ; de même, les coeurs des hommes sont manifestes aux prudents.
 
 
 20 L'enfer et la perdition ne sont jamais rassasiés : semblablement aussi les yeux de l'homme sont insatiables.
@@ -98,9 +98,9 @@ Vaut mieux un voisin qui est près, qu'un frère qui est loin.
 
 
 21 De même que l'argent est éprouvé dans un creuset, et l'or dans une fournaise ; de même est éprouvé l'homme par la bouche de celui qui le loue.
-Le cœur de l'homme inique recherche les choses mauvaises ; mais le cœur droit recherche la science.
+Le coeur de l'homme inique recherche les choses mauvaises ; mais le coeur droit recherche la science.
 
-***Note*** :  Prov. 27, 21 : Voir Proverbes, 17, 3. ― Les louanges sont la pierre de touche des sentiments. Si l’homme qui les reçoit en conçoit de la vanité, de l’orgueil, de la présomption, elles prouvent que c’est un insensé ; si, au contraire, il les souffre avec peine et n’en devient pas plus fier, elles montrent sa sagesse. ― Le cœur… la science. Ce passage se lit dans les Septante, mais non dans l’hébreu.
+***Note*** :  Prov. 27, 21 : Voir Proverbes, 17, 3. ― Les louanges sont la pierre de touche des sentiments. Si l’homme qui les reçoit en conçoit de la vanité, de l’orgueil, de la présomption, elles prouvent que c’est un insensé ; si, au contraire, il les souffre avec peine et n’en devient pas plus fier, elles montrent sa sagesse. ― Le coeur… la science. Ce passage se lit dans les Septante, mais non dans l’hébreu.
 
 
 22 Si tu broies l'insensé dans un mortier comme des orges, en frappant dessus avec un pilon, sa folie ne lui sera pas enlevée.

@@ -15,7 +15,7 @@ summary: |
 
 ***Note*** :  Nb. 21, 1 : Voir Nombres, 33, 40. ― Arad, ville peu éloignée de Cadèsbarné, à vingt milles d’Hébron, selon Eusèbe ; mais d’autres prennent Arad pour un nom d’homme.
 
-2 Mais Israël se liant par un vœu au Seigneur, dit : Si vous livrez ce peuple à ma main, je détruirai toutes ses villes. 3 Et le Seigneur exauça les prières d'Israël, et il livra le Chananéen qu'Israël fit périr, ses villes ayant été renversées ; et il appela ce lieu du nom de Horma, c'est-à-dire anathème.
+2 Mais Israël se liant par un voeu au Seigneur, dit : Si vous livrez ce peuple à ma main, je détruirai toutes ses villes. 3 Et le Seigneur exauça les prières d'Israël, et il livra le Chananéen qu'Israël fit périr, ses villes ayant été renversées ; et il appela ce lieu du nom de Horma, c'est-à-dire anathème.
 
 ***Note*** :  Nb. 21, 3 : Horma. Voir Juges, 1, 17.
 

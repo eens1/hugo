@@ -9,7 +9,7 @@ summary: |
 ---
 
 
-1 Mais Josaphat, roi de Juda, retourna paisiblement en sa maison à Jérusalem. 2 Jéhu, le Voyant, fils d'Hanani, vint à sa rencontre, et lui dit: Vous donnez du secours à l'impie, et vous vous liez d'amitié avec ceux qui haïssent le Seigneur ; et c'est pour cela certainement que vous méritiez la colère de Dieu. 3 Mais de bonnes œuvres ont été trouvées en vous, parce que vous avez enlevé les bois sacrés de la terre de Juda, et que vous avez préparé votre cœur pour chercher le Seigneur Dieu de vos pères.
+1 Mais Josaphat, roi de Juda, retourna paisiblement en sa maison à Jérusalem. 2 Jéhu, le Voyant, fils d'Hanani, vint à sa rencontre, et lui dit: Vous donnez du secours à l'impie, et vous vous liez d'amitié avec ceux qui haïssent le Seigneur ; et c'est pour cela certainement que vous méritiez la colère de Dieu. 3 Mais de bonnes oeuvres ont été trouvées en vous, parce que vous avez enlevé les bois sacrés de la terre de Juda, et que vous avez préparé votre coeur pour chercher le Seigneur Dieu de vos pères.
 
 
 4 Josaphat habita donc à Jérusalem, et il sortit de nouveau vers le peuple, depuis Bersabée jusqu'à la montagne d'Ephraïm, et il les rappela au culte du Seigneur, le Dieu de leurs pères.
@@ -25,7 +25,7 @@ summary: |
 
 ***Note*** :  II Par. 19, 8 : Afin de juger, etc. L’hébreu porte : Pour le jugement du Seigneur et la plaidoirie, c’est-à-dire, comme on l’explique assez généralement, tant pour les causes religieuses qui concernaient les lois de Dieu et son culte que pour les causes purement civiles, de quelque nature qu’elles fussent.
 
-9 Et il leur ordonna, disant : C'est ainsi que vous agirez dans la crainte du Seigneur, fidèlement et avec un cœur parfait. 10 Quant à toute cause (qui vous viendra) de vos frères qui habitent dans leurs villes, entre parenté et parenté, partout où il sera question de loi, de commandement, de cérémonies, d'ordonnances, faites-la leur connaître, afin qu'ils ne pèchent point contre le Seigneur, et que sa colère ne vienne point sur vous et sur vos frères ; agissant donc ainsi, vous ne pécherez point.
+9 Et il leur ordonna, disant : C'est ainsi que vous agirez dans la crainte du Seigneur, fidèlement et avec un coeur parfait. 10 Quant à toute cause (qui vous viendra) de vos frères qui habitent dans leurs villes, entre parenté et parenté, partout où il sera question de loi, de commandement, de cérémonies, d'ordonnances, faites-la leur connaître, afin qu'ils ne pèchent point contre le Seigneur, et que sa colère ne vienne point sur vous et sur vos frères ; agissant donc ainsi, vous ne pécherez point.
 
 ***Note*** :  II Par. 19, 10 : Dans la Vulgate, l’expression vos frères est au génitif, comme complément de toute cause ; c’est pourquoi nous avons mis qui vous viendra entre parenthèses.
 

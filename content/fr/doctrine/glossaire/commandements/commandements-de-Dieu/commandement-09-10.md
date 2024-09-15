@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-> *Exode 20:17* : "Tu ne convoiteras point la maison de ton prochain, et tu ne désireras point sa femme, ni son serviteur, ni sa servante, ni son bœuf, ni son âne, ni aucune des choses qui sont à lui." [^1]
+> *Exode 20:17* : "Tu ne convoiteras point la maison de ton prochain, et tu ne désireras point sa femme, ni son serviteur, ni sa servante, ni son boeuf, ni son âne, ni aucune des choses qui sont à lui." [^1]
 
 [^1]: Glaire 1905, p. 149.
 

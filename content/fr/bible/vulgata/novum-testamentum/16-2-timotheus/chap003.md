@@ -15,7 +15,7 @@ draft: false
 
 5 habentes speciem quidem pietatis, virtutem autem eius abnegantes. Et hos devita:
 
-6 ex his enim sunt, qui penetrant domos, et captivas ducunt mulierculas oneratas peccatis, quæ ducuntur variis desideriis:
+6 ex his enim sunt, qui penetrant domos, et captivas ducunt mulierculas oneratas peccatis, quae ducuntur variis desideriis:
 
 7 semper discentes, et numquam ad scientiam veritatis pervenientes.
 
@@ -25,15 +25,15 @@ draft: false
 
 10 Tu autem assecutus es meam doctrinam, institutionem, propositum, fidem, longanimitatem, dilectionem, patientiam,
 
-11 persecutiones, passiones: qualia mihi facta sunt Antiochiæ, Iconii, et Lystris: quales persecutiones sustinui, et ex omnibus eripuit me Dominus.
+11 persecutiones, passiones: qualia mihi facta sunt Antiochiae, Iconii, et Lystris: quales persecutiones sustinui, et ex omnibus eripuit me Dominus.
 
 12 Et omnes, qui pie volunt vivere in Christo Iesu, persecutionem patientur.
 
 13 Mali autem homines, et seductores proficient in peius, errantes, et in errorem mittentes.
 
-14 Tu vero permane in iis, quæ didicisti, et credita sunt tibi: sciens a quo didiceris.
+14 Tu vero permane in iis, quae didicisti, et credita sunt tibi: sciens a quo didiceris.
 
-15 et quia ab infantia sacras litteras nosti, quæ te possunt instruere ad salutem, per fidem, quæ est in Christo Iesu.
+15 et quia ab infantia sacras litteras nosti, quae te possunt instruere ad salutem, per fidem, quae est in Christo Iesu.
 
 16 Omnis scriptura divinitus inspirata utilis est ad docendum, ad arguendum, ad corripiendum, et erudiendum in iustitia:
 

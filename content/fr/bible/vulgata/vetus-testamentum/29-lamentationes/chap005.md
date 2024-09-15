@@ -7,15 +7,15 @@ draft: false
 
 1 Recordare Domine quid acciderit nobis: intuere, et respice opprobrium nostrum.
 
-2 Hæreditas nostra versa est ad alienos: domus nostræ ad extraneos.
+2 Haereditas nostra versa est ad alienos: domus nostrae ad extraneos.
 
-3 Pupilli facti sumus absque patre, matres nostræ quasi viduæ.
+3 Pupilli facti sumus absque patre, matres nostrae quasi viduae.
 
 4 Aquam nostram pecunia bibimus: ligna nostra pretio comparavimus.
 
 5 Cervicibus nostris minabamur, lassis non dabatur requies.
 
-6 Ægypto dedimus manum, et Assyriis ut saturaremur pane.
+6 AEgypto dedimus manum, et Assyriis ut saturaremur pane.
 
 7 Patres nostri peccaverunt, et non sunt: et nos iniquitates eorum portavimus.
 
@@ -35,13 +35,13 @@ draft: false
 
 15 Defecit gaudium cordis nostri: versus est in luctum chorus noster.
 
-16 Cecidit corona capitis nostri: væ nobis, quia peccavimus.
+16 Cecidit corona capitis nostri: vae nobis, quia peccavimus.
 
-17 Propterea mœstum factum est cor nostrum, ideo contenebrati sunt oculi nostri.
+17 Propterea moestum factum est cor nostrum, ideo contenebrati sunt oculi nostri.
 
 18 Propter montem Sion quia disperiit, vulpes ambulaverunt in eo.
 
-19 Tu autem Domine in æternum permanebis, solium tuum in generationem et generationem.
+19 Tu autem Domine in aeternum permanebis, solium tuum in generationem et generationem.
 
 20 Quare in perpetuum oblivisceris nostri? derelinques nos in longitudine dierum?
 

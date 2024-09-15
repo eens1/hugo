@@ -5,13 +5,13 @@ draft: false
 ---
 
 
-1 Una autem sabbati, Maria Magdalene venit mane, cum adhuc tenebræ essent, ad monumentum: et vidit lapidem sublatum a monumento.
+1 Una autem sabbati, Maria Magdalene venit mane, cum adhuc tenebrae essent, ad monumentum: et vidit lapidem sublatum a monumento.
 
 2 Cucurrit ergo, et venit ad Simonem Petrum, et ad alium discipulum, quem amabat Iesus, et dicit illis: Tulerunt Dominum de monumento, et nescimus ubi posuerunt eum.
 
 3 Exiit ergo Petrus, et ille alius discipulus, et venerunt ad monumentum.
 
-4 Currebant autem duo simul, et ille alius discipulus præcucurrit citius Petro, et venit primus ad monumentum.
+4 Currebant autem duo simul, et ille alius discipulus praecucurrit citius Petro, et venit primus ad monumentum.
 
 5 Et cum se inclinasset, vidit posita linteamina, non tamen introivit.
 
@@ -31,23 +31,23 @@ draft: false
 
 13 Dicunt ei illi: Mulier, quid ploras? Dicit eis: Quia tulerunt Dominum meum: et nescio ubi posuerunt eum.
 
-14 Hæc cum dixisset, conversa est retrorsum, et vidit Iesum stantem: et non sciebat quia Iesus est.
+14 Haec cum dixisset, conversa est retrorsum, et vidit Iesum stantem: et non sciebat quia Iesus est.
 
-15 Dicit ei Iesus: Mulier, quid ploras? quem quæris? Illa existimans quia hortulanus esset, dicit ei: Domine, si tu sustulisti eum, dicito mihi ubi posuisti eum: et ego eum tollam.
+15 Dicit ei Iesus: Mulier, quid ploras? quem quaeris? Illa existimans quia hortulanus esset, dicit ei: Domine, si tu sustulisti eum, dicito mihi ubi posuisti eum: et ego eum tollam.
 
 16 Dicit ei Iesus: Maria. Conversa illa, dicit ei: Rabboni (quod dicitur Magister.)
 
 17 Dicit ei Iesus: Noli me tangere, nondum enim ascendi ad Patrem meum: vade autem ad fratres meos, et dic eis: Ascendo ad Patrem meum, et Patrem vestrum, Deum meum, et Deum vestrum.
 
-18 Venit Maria Magdalene annuncians discipulis: Quia vidi Dominum, et hæc dixit mihi.
+18 Venit Maria Magdalene annuncians discipulis: Quia vidi Dominum, et haec dixit mihi.
 
-19 Cum ergo sero esset die illo, una sabbatorum, et fores essent clausæ, ubi erant discipuli congregati propter metum Iudæorum: venit Iesus, et stetit in medio, et dixit eis: Pax vobis.
+19 Cum ergo sero esset die illo, una sabbatorum, et fores essent clausae, ubi erant discipuli congregati propter metum Iudaeorum: venit Iesus, et stetit in medio, et dixit eis: Pax vobis.
 
 20 Et cum hoc dixisset, ostendit eis manus, et latus. Gavisi sunt ergo discipuli, viso Domino.
 
 21 Dixit ergo eis iterum: Pax vobis. Sicut misit me Pater, et ego mitto vos.
 
-22 Hæc cum dixisset, insufflavit: et dixit eis: Accipite Spiritum sanctum:
+22 Haec cum dixisset, insufflavit: et dixit eis: Accipite Spiritum sanctum:
 
 23 quorum remiseritis peccata, remittuntur eis: et quorum retinueritis, retenta sunt.
 
@@ -57,13 +57,13 @@ draft: false
 
 26 Et post dies octo, iterum erant discipuli eius intus: et Thomas cum eis. Venit Iesus ianuis clausis, et stetit in medio, et dixit: Pax vobis.
 
-27 Deinde dicit Thomæ: Infer digitum tuum huc, et vide manus meas, et affer manum tuam, et mitte in latus meum: et noli esse incredulus, sed fidelis.
+27 Deinde dicit Thomae: Infer digitum tuum huc, et vide manus meas, et affer manum tuam, et mitte in latus meum: et noli esse incredulus, sed fidelis.
 
 28 Respondit Thomas, et dixit ei: Dominus meus, et Deus meus.
 
 29 Dixit ei Iesus: Quia vidisti me Thoma, credidisti: beati qui non viderunt, et crediderunt.
 
-30 Multa quidem, et alia signa fecit Iesus in conspectu discipulorum suorum, quæ non sunt scripta in libro hoc.
+30 Multa quidem, et alia signa fecit Iesus in conspectu discipulorum suorum, quae non sunt scripta in libro hoc.
 
-31 Hæc autem scripta sunt ut credatis, quia Iesus est Christus Filius Dei: et ut credentes, vitam habeatis in nomine eius.
+31 Haec autem scripta sunt ut credatis, quia Iesus est Christus Filius Dei: et ut credentes, vitam habeatis in nomine eius.
 

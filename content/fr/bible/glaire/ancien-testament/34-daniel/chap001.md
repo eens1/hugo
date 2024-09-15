@@ -21,7 +21,7 @@ summary: |
 
 3 Et le roi dit à Asphénez, préposé des eunuques, de choisir d'entre les fils d'Israël, et de la race des rois, et des princes,
 
-***Note*** :  Dn. 1, 3 : Préposé des eunuques (præpositus eunuchorum) ; c’est-à-dire chef des officiers de la cour. On donnait communément le nom d’eunuques aux officiers du palais des rois d’Orient, parce que pour l’ordinaire ils étaient réellement eunuques. ― Des princes ; des premiers par le rang ; c’est le vrai sens du tyrannorum de la Vulgate, expliqué par l’hébreu ou plutôt par l’idiome des anciens Perses, car l’hébreu Phartemîn ou Partemîn, tire probablement son origine de Pardomim, qui signifie en effet les grands, les premiers (primi, magnates). Nous dirons de même des différentes leçons des Septante, (partommein, porthemmein, phortommin, porthommein).
+***Note*** :  Dn. 1, 3 : Préposé des eunuques (praepositus eunuchorum) ; c’est-à-dire chef des officiers de la cour. On donnait communément le nom d’eunuques aux officiers du palais des rois d’Orient, parce que pour l’ordinaire ils étaient réellement eunuques. ― Des princes ; des premiers par le rang ; c’est le vrai sens du tyrannorum de la Vulgate, expliqué par l’hébreu ou plutôt par l’idiome des anciens Perses, car l’hébreu Phartemîn ou Partemîn, tire probablement son origine de Pardomim, qui signifie en effet les grands, les premiers (primi, magnates). Nous dirons de même des différentes leçons des Septante, (partommein, porthemmein, phortommin, porthommein).
 
 4 De jeunes hommes qui fussent sans aucun défaut, d'une belle apparence, et instruits en toute sagesse, habiles dans les sciences et dans les arts, et qui pussent demeurer dans le palais du roi, afin qu'il leur apprît les lettres et la langue des Chaldéens.
 
@@ -37,7 +37,7 @@ formaient les bibliothèques assyro-chaldéennes, et dont des restes considérab
 ***Note*** :  Dn. 1, 7 : Leur donna des noms. Le changement des noms était une marque de domaine et d’autorité ; les maîtres, en prenant des esclaves, leur donnaient de nouveaux noms. ― En assyrien, Abdénago devait s’appeler Abed-Nebo, ce qui signifie « serviteur du dieu Nébo. » La signification exacte de Sidrach et de Misach est inconnue. ― Baltassar. La véritable forme assyrienne est Balatsu-usur, (Dieu) protège sa vie.
 
 
-8 Mais Daniel résolut dans son cœur de ne point se souiller par les mets de la table du roi, et par le vin dont il buvait, et il demanda au préposé des eunuques de ne point se souiller.
+8 Mais Daniel résolut dans son coeur de ne point se souiller par les mets de la table du roi, et par le vin dont il buvait, et il demanda au préposé des eunuques de ne point se souiller.
 
 ***Note*** :  Dn. 1, 8 : Daniel résolut, etc. Les païens mangeaient indifféremment de toutes sortes de viandes, et par conséquent de celles qui étaient défendues aux Juifs (voir Lévitique, chapitre 11 ; Deutéronome, chapitre 14). De plus ils consacraient à leurs dieux tout ce qui était servi sur la table.
 

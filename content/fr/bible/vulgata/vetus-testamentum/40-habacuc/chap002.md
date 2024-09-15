@@ -15,33 +15,33 @@ draft: false
 
 5 Et quomodo vinum potantem decipit: sic erit vir superbus, et non decorabitur: qui dilatavit quasi infernus animam suam: et ipse quasi mors, et non adimpletur: et congregabit ad se omnes gentes, et coacervabit ad se omnes populos.
 
-6 Numquid non omnes isti super eum parabolam sument, et loquelam ænigmatum eius: et dicetur: Væ ei, qui multiplicat non sua? usquequo et aggravat contra se densum lutum?
+6 Numquid non omnes isti super eum parabolam sument, et loquelam aenigmatum eius: et dicetur: Vae ei, qui multiplicat non sua? usquequo et aggravat contra se densum lutum?
 
 7 Numquid non repente consurgent qui mordeant te: et suscitabuntur lacerantes te, et eris in rapinam eis?
 
-8 Quia tu spoliasti gentes multas, spoliabunt te omnes, qui reliqui fuerint de populis propter sanguinem hominis et iniquitatem terræ civitatis, et omnium habitantium in ea.
+8 Quia tu spoliasti gentes multas, spoliabunt te omnes, qui reliqui fuerint de populis propter sanguinem hominis et iniquitatem terrae civitatis, et omnium habitantium in ea.
 
-9 Væ qui congregat avaritiam malam domui suæ, ut sit in excelso nidus eius, et liberari se putat de manu mali.
+9 Vae qui congregat avaritiam malam domui suae, ut sit in excelso nidus eius, et liberari se putat de manu mali.
 
-10 Cogitasti confusionem domui tuæ, concidisti populos multos, et peccavit anima tua.
+10 Cogitasti confusionem domui tuae, concidisti populos multos, et peccavit anima tua.
 
-11 Quia lapis de pariete clamabit: et lignum, quod inter iuncturas ædificiorum est, respondebit.
+11 Quia lapis de pariete clamabit: et lignum, quod inter iuncturas aedificiorum est, respondebit.
 
-12 Væ qui ædificat civitatem in sanguinibus, et præparat urbem in iniquitate.
+12 Vae qui aedificat civitatem in sanguinibus, et praeparat urbem in iniquitate.
 
-13 Numquid non hæc sunt a Domino exercituum? Laborabunt enim populi in multo igne: et gentes in vacuum, et deficient.
+13 Numquid non haec sunt a Domino exercituum? Laborabunt enim populi in multo igne: et gentes in vacuum, et deficient.
 
-14 Quia replebitur terra, ut cognoscant gloriam Domini, quasi aquæ operientes mare.
+14 Quia replebitur terra, ut cognoscant gloriam Domini, quasi aquae operientes mare.
 
-15 Væ qui potum dat amico suo mittens fel suum, et inebrians ut aspiciat nuditatem eius.
+15 Vae qui potum dat amico suo mittens fel suum, et inebrians ut aspiciat nuditatem eius.
 
-16 Repletus es ignominia pro gloria: bibe tu quoque, et consopire: circumdabit te calix dexteræ Domini, et vomitus ignominiæ super gloriam tuam.
+16 Repletus es ignominia pro gloria: bibe tu quoque, et consopire: circumdabit te calix dexterae Domini, et vomitus ignominiae super gloriam tuam.
 
-17 Quia iniquitas Libani operiet te, et vastitas animalium deterrebit eos de sanguinibus hominum, et iniquitate terræ, et civitatis, et omnium habitantium in ea.
+17 Quia iniquitas Libani operiet te, et vastitas animalium deterrebit eos de sanguinibus hominum, et iniquitate terrae, et civitatis, et omnium habitantium in ea.
 
 18 Quid prodest sculptile, quia sculpsit illud fictor suus, conflatile, et imaginem falsam? quia speravit in figmento fictor eius ut faceret simulacra muta.
 
-19 Væ qui dicit ligno: Expergiscere: Surge, lapidi tacenti: numquid ipse docere poterit? Ecce iste coopertus est auro, et argento: et omnis spiritus non est in visceribus eius.
+19 Vae qui dicit ligno: Expergiscere: Surge, lapidi tacenti: numquid ipse docere poterit? Ecce iste coopertus est auro, et argento: et omnis spiritus non est in visceribus eius.
 
 20 Dominus autem in templo sancto suo: sileat a facie eius omnis terra.
 

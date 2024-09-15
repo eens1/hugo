@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Pereat Samaria, quoniam ad amaritudinem concitavit Deum suum: in gladio pereant, parvuli eorum elidantur, et fœtæ eius discindantur.
+1 Pereat Samaria, quoniam ad amaritudinem concitavit Deum suum: in gladio pereant, parvuli eorum elidantur, et foetae eius discindantur.
 
 2 Convertere Israel ad Dominum Deum tuum: quoniam corruisti in iniquitate tua.
 
@@ -23,5 +23,5 @@ draft: false
 
 9 Ephraim quid mihi ultra idola? ego exaudiam, et dirigam eum ego ut abietem virentem: ex me fructus tuus inventus est.
 
-10 Quis sapiens, et intelliget ista? intelligens, et sciet hæc? quia rectæ viæ Domini, et iusti ambulabunt in eis: prævaricatores vero corruent in eis.
+10 Quis sapiens, et intelliget ista? intelligens, et sciet haec? quia rectae viae Domini, et iusti ambulabunt in eis: praevaricatores vero corruent in eis.
 

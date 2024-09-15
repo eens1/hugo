@@ -7,7 +7,7 @@ draft: false
 
 1 Imitatores mei estote, sicut et ego Christi.
 
-2 Laudo autem vos fratres quod per omnia mei memores estis: et sicut tradidi vobis, præcepta mea tenetis.
+2 Laudo autem vos fratres quod per omnia mei memores estis: et sicut tradidi vobis, praecepta mea tenetis.
 
 3 Volo autem vos scire quod omnis viri caput, Christus est: caput autem mulieris, vir: caput vero Christi, Deus.
 
@@ -37,15 +37,15 @@ draft: false
 
 16 Si quis autem videtur contentiosus esse: nos talem consuetudinem non habemus, neque Ecclesia Dei.
 
-17 Hoc autem præcipio: non laudans quod non in melius, sed in deterius convenitis.
+17 Hoc autem praecipio: non laudans quod non in melius, sed in deterius convenitis.
 
 18 Primum quidem convenientibus vobis in Ecclesiam, audio scissuras esse inter vos, et ex parte credo.
 
-19 Nam oportet et hæreses esse, ut et qui probati sunt, manifesti fiant in vobis.
+19 Nam oportet et haereses esse, ut et qui probati sunt, manifesti fiant in vobis.
 
-20 Convenientibus ergo vobis in unum, iam non est Dominicam cœnam manducare.
+20 Convenientibus ergo vobis in unum, iam non est Dominicam coenam manducare.
 
-21 Unusquisque enim suam cœnam præsumit ad manducandum. Et alius quidem esurit: alius autem ebrius est.
+21 Unusquisque enim suam coenam praesumit ad manducandum. Et alius quidem esurit: alius autem ebrius est.
 
 22 Numquid domos non habetis ad manducandum, et bibendum? aut Ecclesiam Dei contemnitis, et confunditis eos, qui non habent? Quid dicam vobis? Laudo vos? in hoc non laudo.
 
@@ -53,7 +53,7 @@ draft: false
 
 24 et gratias agens fregit, et dixit: Accipite, et manducate: hoc est corpus meum, quod pro vobis tradetur: hoc facite in meam commemorationem.
 
-25 Similiter et calicem, postquam cœnavit, dicens: Hic calix novum testamentum est in meo sanguine. hoc facite quotiescumque bibetis, in meam commemorationem.
+25 Similiter et calicem, postquam coenavit, dicens: Hic calix novum testamentum est in meo sanguine. hoc facite quotiescumque bibetis, in meam commemorationem.
 
 26 Quotiescumque enim manducabitis panem hunc, et calicem bibetis: mortem Domini annunciabitis donec veniat.
 

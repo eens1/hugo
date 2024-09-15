@@ -15,7 +15,7 @@ summary: |
 
 ***Note*** :  Josué 9, 1 : La grande mer ; c’est-à-dire la mer Méditerranée. ― Dans les plaines. La Vulgate traduit ainsi le mot Schéphéla ou Séféla, qui désigne proprement la plaine des Philistins. Voir Juges, note 15. 5.
 
-2 Se réunirent tous ensemble pour combattre contre Josué et Israël, d'un même cœur et d'un même esprit.
+2 Se réunirent tous ensemble pour combattre contre Josué et Israël, d'un même coeur et d'un même esprit.
 
 
 3 Mais ceux qui habitaient à Gabaon, apprenant tout ce qu'avait fait Josué à Jéricho et à Haï,

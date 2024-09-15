@@ -5,21 +5,21 @@ draft: false
 ---
 
 
-1 Parabolæ Salomonis, filii David, regis Israel.
+1 Parabolae Salomonis, filii David, regis Israel.
 
 2 Ad sciendam sapientiam, et disciplinam:
 
-3 ad intelligenda verba prudentiæ: et suscipiendam eruditionem doctrinæ, iustitiam, et iudicium, et æquitatem:
+3 ad intelligenda verba prudentiae: et suscipiendam eruditionem doctrinae, iustitiam, et iudicium, et aequitatem:
 
 4 ut detur parvulis astutia, adolescenti scientia, et intellectus.
 
 5 Audiens sapiens, sapientior erit: et intelligens, gubernacula possidebit.
 
-6 Animadvertet parabolam, et interpretationem, verba sapientum, et ænigmata eorum.
+6 Animadvertet parabolam, et interpretationem, verba sapientum, et aenigmata eorum.
 
-7 Timor Domini principium sapientiæ. Sapientiam, atque doctrinam stulti despiciunt.
+7 Timor Domini principium sapientiae. Sapientiam, atque doctrinam stulti despiciunt.
 
-8 Audi, fili mi, disciplinam patris tui, et ne dimittas legem matris tuæ:
+8 Audi, fili mi, disciplinam patris tui, et ne dimittas legem matris tuae:
 
 9 ut addatur gratia capiti tuo, et torques collo tuo.
 
@@ -41,13 +41,13 @@ draft: false
 
 18 Ipsi quoque contra sanguinem suum insidiantur, et moliuntur fraudes contra animas suas.
 
-19 Sic semitæ omnis avari, animas possidentium rapiunt.
+19 Sic semitae omnis avari, animas possidentium rapiunt.
 
-20 Sapientia foris prædicat, in plateis dat vocem suam:
+20 Sapientia foris praedicat, in plateis dat vocem suam:
 
 21 in capite turbarum clamitat, in foribus portarum urbis profert verba sua, dicens:
 
-22 Usquequo parvuli diligitis infantiam, et stulti ea, quæ sibi sunt noxia, cupient, et imprudentes odibunt scientiam?
+22 Usquequo parvuli diligitis infantiam, et stulti ea, quae sibi sunt noxia, cupient, et imprudentes odibunt scientiam?
 
 23 Convertimini ad correptionem meam: en proferam vobis spiritum meum, et ostendam vobis verba mea.
 
@@ -63,9 +63,9 @@ draft: false
 
 29 eo quod exosam habuerint disciplinam, et timorem Domini non susceperint,
 
-30 nec acquieverint consilio meo, et detraxerint universæ correptioni meæ.
+30 nec acquieverint consilio meo, et detraxerint universae correptioni meae.
 
-31 Comedent igitur fructus viæ suæ, suisque consiliis saturabuntur.
+31 Comedent igitur fructus viae suae, suisque consiliis saturabuntur.
 
 32 Aversio parvulorum interficiet eos, et prosperitas stultorum perdet illos.
 

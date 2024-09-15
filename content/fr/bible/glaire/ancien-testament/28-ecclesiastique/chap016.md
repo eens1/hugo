@@ -7,7 +7,7 @@ summary: |
   Ne pas se réjouir d’avoir beaucoup d’enfants, s’ils sont impies.
   Dieu extermine les méchants.
   Il récompense les bons.
-  Il voit le fond des cœurs.
+  Il voit le fond des coeurs.
   Ses voies sont impénétrables, ses jugements terribles, sa puissance infinie.
 ---
 
@@ -20,7 +20,7 @@ summary: |
 
 ***Note*** :  Sir. 16, 5 : Un seul homme sensé. Voir, comme exemple de ce qui est dit dans ce verset et les suivants, Genèse, 13, 16 ; Juges, 9, 5 ; 4 Rois, 10, 7.
 
-6 Mon œil a vu beaucoup de choses semblables, et mon oreille en a entendu de plus fortes encore. 7 Dans l'assemblée des méchants s'allumera un feu, et dans une nation incrédule s'enflammera la colère.
+6 Mon oeil a vu beaucoup de choses semblables, et mon oreille en a entendu de plus fortes encore. 7 Dans l'assemblée des méchants s'allumera un feu, et dans une nation incrédule s'enflammera la colère.
 
 ***Note*** :  Sir. 16, 7 : Voir Ecclésiastique, 21, 10. ― Un feu. Ce feu doit désigner la guerre et tous les maux que produit la discorde. Il peut y avoir aussi dans ce verset une allusion au feu qui consuma les complices de Coré, Dathan et Abiron, voir Nombres, 16, 35.
 
@@ -37,16 +37,16 @@ summary: |
 ***Note*** :  Sir. 16, 10 : Une nation entière ; tous les habitants de Sodome et (de trois) des quatre autres villes de la Pentapole.
 
 
-11 Et il fut ainsi des six cent mille hommes de pied qui se rassemblèrent dans la dureté de leur cœur ; et s'il n'y avait eu qu'un seul rebelle, il serait étonnant qu'il eût été exempt de punition;
+11 Et il fut ainsi des six cent mille hommes de pied qui se rassemblèrent dans la dureté de leur coeur ; et s'il n'y avait eu qu'un seul rebelle, il serait étonnant qu'il eût été exempt de punition;
 
 ***Note*** :  Sir. 16, 11 : Voir Nombres, 14, 22-24 ; 26, 51. ― Ces six cent mille hommes de pied sont les Israélites qui, du temps de Moïse, irritèrent Dieu dans le désert et y furent exterminés. Voir Nombres, 1, 46. ― S’il n’y avait eu, etc. ; c’est-à-dire si Dieu n’a pas épargné une si grande multitude, il pardonnerait bien moins un seul individu qui se rendrait coupable de la même rébellion.
 
-12 Car la miséricorde et la colère sont avec lui ; il peut être fléchi, mais il répand aussi sa colère. 13 Comme sa miséricorde, ainsi sont ses châtiments; il juge l'homme selon ses œuvres. 14 Le pécheur n'échappera pas dans ses rapines, et l'attente de celui qui fait miséricorde ne sera pas différée ;
+12 Car la miséricorde et la colère sont avec lui ; il peut être fléchi, mais il répand aussi sa colère. 13 Comme sa miséricorde, ainsi sont ses châtiments; il juge l'homme selon ses oeuvres. 14 Le pécheur n'échappera pas dans ses rapines, et l'attente de celui qui fait miséricorde ne sera pas différée ;
 
 ***Note*** :  Sir. 16, 14 : Qui fait miséricorde ; signifie, dans le langage de l’Ecriture, qui assiste les malheureux, qui fait du bien aux pauvres.
 
 
-15 Toute miséricorde fera une place à chacun selon le mérite de ses œuvres, et selon l'intelligence de son pèlerinage.
+15 Toute miséricorde fera une place à chacun selon le mérite de ses oeuvres, et selon l'intelligence de son pèlerinage.
 
 ***Note*** :  Sir. 16, 15 : Voir Romains, 2, 6. ― Selon l’intelligence de son pèlerinage ; c’est-à-dire selon la Sagesse, avec laquelle il aura vécu comme étranger sur la terre.
 
@@ -54,21 +54,21 @@ summary: |
 
 ***Note*** :  Sir. 16, 17 : Dans une telle, etc. ; ou dans une si immense création ; car dans la Vulgate le mot créature se prend quelquefois pour création. Au reste ces deux sens reviennent au même.
 
-18 Voilà que le ciel et le*. cieux des cieux, l'abîme et toute la terre, et ce qui est en eux s'ébranleront à sa présence ; 19 En un même temps, les montagnes, et les collines, et les fondements de la terre, lorsque Dieu les regardera, s'agiteront dans l'effroi. 20 Et, parmi toutes ces choses, le cœur de l'homme est insensé ; et cependant tout cœur est compris par lui. 21 Et ses voies, qui les comprend, ainsi que la tempête, que l'oeil de l'homme ne verra pas?
+18 Voilà que le ciel et le*. cieux des cieux, l'abîme et toute la terre, et ce qui est en eux s'ébranleront à sa présence ; 19 En un même temps, les montagnes, et les collines, et les fondements de la terre, lorsque Dieu les regardera, s'agiteront dans l'effroi. 20 Et, parmi toutes ces choses, le coeur de l'homme est insensé ; et cependant tout coeur est compris par lui. 21 Et ses voies, qui les comprend, ainsi que la tempête, que l'oeil de l'homme ne verra pas?
 
 ***Note*** :  Sir. 16, 21 : Ne verra pas parfaitement, il n’en comprendra pas la cause.
 
 
-22 Car le plus grand nombre de ses œuvres sont cachées; et les œuvres de sa justice, qui les racontera, ou qui les soutiendra? Car le testament est loin de quelques-uns, et l'interrogatoire de tous est pour la consommation des jours.
+22 Car le plus grand nombre de ses oeuvres sont cachées; et les oeuvres de sa justice, qui les racontera, ou qui les soutiendra? Car le testament est loin de quelques-uns, et l'interrogatoire de tous est pour la consommation des jours.
 
 ***Note*** :  Sir. 16, 22 : Le testament signifie ici, ou la loi de Dieu, ou l’arrêt, la sentence que Dieu doit prononcer contre nous. ― La consommation des jours ; le moment de la mort.
 
-23 Celui dont le cœur est amoindri pense à des choses vaines ; et l'homme imprudent et égaré pense à des folies. 24 Ecoute-moi, mon fils, et apprends la discipline de l'esprit, et à mes paroles sois attentif en ton cœur;
+23 Celui dont le coeur est amoindri pense à des choses vaines ; et l'homme imprudent et égaré pense à des folies. 24 Ecoute-moi, mon fils, et apprends la discipline de l'esprit, et à mes paroles sois attentif en ton coeur;
 
 ***Note*** :  Sir. 16, 24-25 : La discipline ; l’instruction, la science. Voir Proverbes, 1, 2.
 
 
-25 Et je te dirai avec équité la discipline; et je chercherai à t'expliquer la sagesse ; et à mes paroles sois attentif en ton cœur, car je dis dans l'équité de mon esprit les miracles que Dieu a faits dans ses ouvrages dès le commencement, et c'est dans la vérité que j'énonce la science de Dieu.
+25 Et je te dirai avec équité la discipline; et je chercherai à t'expliquer la sagesse ; et à mes paroles sois attentif en ton coeur, car je dis dans l'équité de mon esprit les miracles que Dieu a faits dans ses ouvrages dès le commencement, et c'est dans la vérité que j'énonce la science de Dieu.
 
 ***Note*** :  Sir. 16, 25 : Avec équité ; expression synonyme de dans la vérité, qu’on lit dans ce même verset.
 

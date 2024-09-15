@@ -51,9 +51,9 @@ summary: |
 
 ***Note*** :  Sg. 19, 13 : Ils ont exercé ; c’est-à-dire les Egyptiens. ― Les uns, etc. ; les habitants de Sodome refusaient l’hospitalité à des inconnus, tels que les anges envoyés à Lot (voir Genèse, chapitre 19). ― Les autres, etc. ; les Egyptiens opprimaient injustement les Hébreux qui ne leur avaient fait que du bien (bonos hospites).
 
-14 Et non seulement cela, mais il y avait encore une autre considération à faire à l'égard de ceux-là, c'est qu'ils recevaient à contre-cœur des étrangers.
+14 Et non seulement cela, mais il y avait encore une autre considération à faire à l'égard de ceux-là, c'est qu'ils recevaient à contre-coeur des étrangers.
 
-***Note*** :  Sg. 19, 14 : Et non seulement, etc. Les habitants de Sodome, en donnant l’hospitalité à des inconnus, ne les reçurent qu’à contrecœur, malgré eux (inviti), ou, suivant le texte grec, en ennemis (apechthôs).
+***Note*** :  Sg. 19, 14 : Et non seulement, etc. Les habitants de Sodome, en donnant l’hospitalité à des inconnus, ne les reçurent qu’à contrecoeur, malgré eux (inviti), ou, suivant le texte grec, en ennemis (apechthôs).
 
 15 Mais ceux-ci firent souffrir les tourments les plus cruels à ceux qu'ils avaient d'abord reçus avec allégresse et qui vivaient sous les mêmes lois.
 

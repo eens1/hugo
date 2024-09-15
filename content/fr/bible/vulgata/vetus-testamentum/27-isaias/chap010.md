@@ -5,17 +5,17 @@ draft: false
 ---
 
 
-1 Væ qui condunt leges iniquas: et scribentes, iniustitiam scripserunt:
+1 Vae qui condunt leges iniquas: et scribentes, iniustitiam scripserunt:
 
-2 ut opprimerent in iudicio pauperes, et vim facerent causæ humilium populi mei: ut essent viduæ præda eorum, et pupillos diriperent.
+2 ut opprimerent in iudicio pauperes, et vim facerent causae humilium populi mei: ut essent viduae praeda eorum, et pupillos diriperent.
 
 3 Quid facietis in die visitationis, et calamitatis de longe venientis? ad cuius confugietis auxilium? et ubi derelinquetis gloriam vestram,
 
 4 ne incurvemini sub vinculo, et cum interfectis cadatis? Super omnibus his non est aversus furor eius, sed adhuc manus eius extenta.
 
-5 Væ Assur, virga furoris mei et baculus ipse est, in manu eorum indignatio mea.
+5 Vae Assur, virga furoris mei et baculus ipse est, in manu eorum indignatio mea.
 
-6 Ad gentem fallacem mittam eum, et contra populum furoris mei mandabo illi, ut auferat spolia, et diripiat prædam, et ponat illum in conculcationem quasi lutum platearum.
+6 Ad gentem fallacem mittam eum, et contra populum furoris mei mandabo illi, ut auferat spolia, et diripiat praedam, et ponat illum in conculcationem quasi lutum platearum.
 
 7 Ipse autem non sic arbitrabitur, et cor eius non ita existimabit: sed ad conterendum erit cor eius, et ad internecionem gentium non paucarum.
 
@@ -25,13 +25,13 @@ draft: false
 
 10 Quomodo invenit manus mea regna idoli, sic et simulachra eorum de Ierusalem, et de Samaria.
 
-11 Numquid non sicut feci Samariæ et idolis eius, sic faciam Ierusalem et simulachris eius?
+11 Numquid non sicut feci Samariae et idolis eius, sic faciam Ierusalem et simulachris eius?
 
 12 Et erit: cum impleverit Dominus cuncta opera sua in monte Sion, et in Ierusalem, visitabo super fructum magnifici cordis regis Assur, et super gloriam altitudinis oculorum eius.
 
-13 Dixit enim: In fortitudine manus meæ feci, et in sapientia mea intellexi: et abstuli terminos populorum, et principes eorum deprædatus sum, et detraxi quasi potens in sublimi residentes.
+13 Dixit enim: In fortitudine manus meae feci, et in sapientia mea intellexi: et abstuli terminos populorum, et principes eorum depraedatus sum, et detraxi quasi potens in sublimi residentes.
 
-14 Et invenit quasi nidum manus mea fortitudinem populorum: et sicut colliguntur ova, quæ derelicta sunt, sic universam terram ego congregavi: et non fuit qui moveret pennam, et aperiret os, et ganniret.
+14 Et invenit quasi nidum manus mea fortitudinem populorum: et sicut colliguntur ova, quae derelicta sunt, sic universam terram ego congregavi: et non fuit qui moveret pennam, et aperiret os, et ganniret.
 
 15 Numquid gloriabitur securis contra eum, qui secat in ea? aut exaltabitur serra contra eum, a quo trahitur? quomodo si elevetur virga contra elevantem se, et exaltetur baculus, qui utique lignum est.
 
@@ -41,21 +41,21 @@ draft: false
 
 18 Et gloria saltus eius, et carmeli eius ab anima usque ad carnem consumetur, et erit terrore profugus.
 
-19 Et reliquiæ ligni saltus eius præ paucitate numerabuntur, et puer scribet eos.
+19 Et reliquiae ligni saltus eius prae paucitate numerabuntur, et puer scribet eos.
 
 20 Et erit in die illa: non adiiciet residuum Israel, et hi, qui fugerint de domo Iacob, inniti super eo, qui percutit eos: sed innitetur super Dominum sanctum Israel in veritate.
 
-21 Reliquiæ convertentur, reliquiæ, inquam, Iacob ad Deum fortem.
+21 Reliquiae convertentur, reliquiae, inquam, Iacob ad Deum fortem.
 
-22 Si enim fuerit populus tuus Israel quasi arena maris, reliquiæ convertentur ex eo, consummatio abbreviata inundabit iustitiam.
+22 Si enim fuerit populus tuus Israel quasi arena maris, reliquiae convertentur ex eo, consummatio abbreviata inundabit iustitiam.
 
-23 Consummationem enim et abbreviationem Dominus Deus exercituum faciet in medio omnis terræ.
+23 Consummationem enim et abbreviationem Dominus Deus exercituum faciet in medio omnis terrae.
 
-24 Propter hoc, hæc dicit Dominus Deus exercituum: Noli timere populus meus habitator Sion, ab Assur: in virga percutiet te, et baculum suum levabit super te in via Ægypti.
+24 Propter hoc, haec dicit Dominus Deus exercituum: Noli timere populus meus habitator Sion, ab Assur: in virga percutiet te, et baculum suum levabit super te in via AEgypti.
 
 25 Adhuc enim paululum modicumque et consummabitur indignatio et furor meus super scelus eorum.
 
-26 Et suscitabit super eum Dominus exercituum flagellum iuxta plagam Madian in Petra Oreb, et virgam suam super mare, et levabit eam in via Ægypti.
+26 Et suscitabit super eum Dominus exercituum flagellum iuxta plagam Madian in Petra Oreb, et virgam suam super mare, et levabit eam in via AEgypti.
 
 27 Et erit in die illa: Auferetur onus eius de humero tuo, et iugum eius de collo tuo, et computrescet iugum a facie olei.
 
@@ -67,7 +67,7 @@ draft: false
 
 31 Migravit Medemena: habitatores Gabim confortamini.
 
-32 Adhuc dies est, ut in Nobe stetur: agitabit manum suam super montem filiæ Sion, collem Ierusalem.
+32 Adhuc dies est, ut in Nobe stetur: agitabit manum suam super montem filiae Sion, collem Ierusalem.
 
 33 Ecce dominator Dominus exercituum confringet lagunculam in terrore, et excelsi statura succidentur, et sublimes humiliabuntur.
 

@@ -7,9 +7,9 @@ draft: false
 
 1 Ingressi sunt autem ad Raguelem, et suscepit eos Raguel cum gaudio.
 
-2 Intuensque Tobiam Raguel, dixit Annæ uxori suæ: Quam similis est iuvenis iste consobrino meo!
+2 Intuensque Tobiam Raguel, dixit Annae uxori suae: Quam similis est iuvenis iste consobrino meo!
 
-3 Et cum hæc dixisset, ait: Unde estis iuvenes fratres nostri? At illi dixerunt: Ex tribu Nephthali sumus, ex captivitate Ninive.
+3 Et cum haec dixisset, ait: Unde estis iuvenes fratres nostri? At illi dixerunt: Ex tribu Nephthali sumus, ex captivitate Ninive.
 
 4 Dixitque illis Raguel: Nostis Tobiam fratrem meum? Qui dixerunt: Novimus.
 
@@ -19,29 +19,29 @@ draft: false
 
 7 dixit: Benedictio sit tibi fili mi quia boni et optimi viri filius es.
 
-8 Et Anna uxor eius, et Sara ipsorum filia lacrymatæ sunt.
+8 Et Anna uxor eius, et Sara ipsorum filia lacrymatae sunt.
 
-9 Postquam autem locuti sunt, præcepit Raguel occidi arietem, et parari convivium. Cumque hortaretur eos discumbere ad prandium,
+9 Postquam autem locuti sunt, praecepit Raguel occidi arietem, et parari convivium. Cumque hortaretur eos discumbere ad prandium,
 
 10 Tobias dixit: Hic ego hodie non manducabo neque bibam, nisi prius petitionem meam confirmes, et promittas mihi dare Saram filiam tuam.
 
-11 Quo audito verbo Raguel, expavit, sciens quid evenerit illis septem viris, qui ingressi sunt ad eam: et timere cœpit ne forte et hunc similiter contingeret: et cum nutaret, et non daret petenti ullum responsum,
+11 Quo audito verbo Raguel, expavit, sciens quid evenerit illis septem viris, qui ingressi sunt ad eam: et timere coepit ne forte et hunc similiter contingeret: et cum nutaret, et non daret petenti ullum responsum,
 
 12 dixit ei Angelus: Noli timere dare eam isti, quoniam huic timenti Deum debetur coniux filia tua: propterea alius non potuit habere illam.
 
 13 Tunc dixit Raguel: Non dubito quod Deus preces et lacrymas meas in conspectu suo admiserit.
 
-14 Et credo quoniam ideo fecit vos venire ad me, ut ista coniungeretur cognationi suæ secundum legem Moysi: et nunc noli dubium gerere quod tibi eam tradam.
+14 Et credo quoniam ideo fecit vos venire ad me, ut ista coniungeretur cognationi suae secundum legem Moysi: et nunc noli dubium gerere quod tibi eam tradam.
 
-15 Et apprehendens dexteram filiæ suæ, dexteræ Tobiæ tradidit, dicens: Deus Abraham, et Deus Isaac, et Deus Iacob vobiscum sit, et ipse coniungat vos, impleatque benedictionem suam in vobis.
+15 Et apprehendens dexteram filiae suae, dexterae Tobiae tradidit, dicens: Deus Abraham, et Deus Isaac, et Deus Iacob vobiscum sit, et ipse coniungat vos, impleatque benedictionem suam in vobis.
 
 16 Et accepta charta, fecerunt conscriptionem coniugii.
 
-17 Et post hæc epulati sunt, benedicentes Deum.
+17 Et post haec epulati sunt, benedicentes Deum.
 
-18 Vocavitque Raguel ad se Annam uxorem suam, et præcepit ei ut præpararet alterum cubiculum.
+18 Vocavitque Raguel ad se Annam uxorem suam, et praecepit ei ut praepararet alterum cubiculum.
 
 19 Et introduxit illuc Saram filiam suam, et lacrymata est.
 
-20 Dixitque ei: Forti animo esto filia mea: Dominus cæli det tibi gaudium pro tædio quod perpessa es.
+20 Dixitque ei: Forti animo esto filia mea: Dominus caeli det tibi gaudium pro taedio quod perpessa es.
 

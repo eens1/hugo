@@ -23,13 +23,13 @@ draft: false
 
 9 Verbum iniquum constituerunt adversum me: Numquid qui dormit non adiiciet ut resurgat?
 
-10 Etenim homo pacis meæ, in quo speravi: qui edebat panes meos, magnificavit super me supplantationem.
+10 Etenim homo pacis meae, in quo speravi: qui edebat panes meos, magnificavit super me supplantationem.
 
 11 Tu autem Domine miserere mei, et resuscita me: et retribuam eis.
 
 12 In hoc cognovi quoniam voluisti me: quoniam non gaudebit inimicus meus super me.
 
-13 Me autem propter innocentiam suscepisti: et confirmasti me in conspectu tuo in æternum.
+13 Me autem propter innocentiam suscepisti: et confirmasti me in conspectu tuo in aeternum.
 
-14 Benedictus Dominus Deus Israel a sæculo, et usque in sæculum: fiat, fiat.
+14 Benedictus Dominus Deus Israel a saeculo, et usque in saeculum: fiat, fiat.
 

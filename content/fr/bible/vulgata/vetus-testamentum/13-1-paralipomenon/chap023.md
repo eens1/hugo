@@ -9,11 +9,11 @@ draft: false
 
 2 Et congregavit omnes principes Israel, et Sacerdotes atque Levitas.
 
-3 Numeratique sunt Levitæ a triginta annis, et supra: et inventa sunt triginta octo millia virorum.
+3 Numeratique sunt Levitae a triginta annis, et supra: et inventa sunt triginta octo millia virorum.
 
-4 Ex his electi sunt, et distributi in ministerium domus Domini viginti quattuor millia: præpositorum autem et iudicum sex millia.
+4 Ex his electi sunt, et distributi in ministerium domus Domini viginti quattuor millia: praepositorum autem et iudicum sex millia.
 
-5 Porro quattuor millia ianitores: et totidem psaltæ canentes Domino in organis, quæ fecerat ad canendum.
+5 Porro quattuor millia ianitores: et totidem psaltae canentes Domino in organis, quae fecerat ad canendum.
 
 6 Et distribuit eos David per vices filiorum Levi, Gerson videlicet, et Caath, et Merari.
 
@@ -53,19 +53,19 @@ draft: false
 
 24 Hi filii Levi in cognationibus, et familiis suis, principes per vices, et numerum capitum singulorum, qui faciebant opera ministerii domus Domini a viginti annis, et supra.
 
-25 Dixit enim David: Requiem dedit Dominus Deus Israel populo suo, et habitationem Ierusalem usque in æternum.
+25 Dixit enim David: Requiem dedit Dominus Deus Israel populo suo, et habitationem Ierusalem usque in aeternum.
 
 26 Nec erit officii Levitarum ut ultra portent tabernaculum, et omnia vasa eius ad ministrandum.
 
-27 Iuxta præcepta quoque David novissima supputabitur numerus filiorum Levi a viginti annis et supra.
+27 Iuxta praecepta quoque David novissima supputabitur numerus filiorum Levi a viginti annis et supra.
 
 28 Et erunt sub manu filiorum Aaron in cultum domus Domini, in vestibulis, et in exedris, et in loco purificationis, et in sanctuario, et in universis operibus ministerii templi Domini.
 
-29 Sacerdotes autem, super panes propositionis, et ad similæ sacrificium, et ad lagana azyma, et sartaginem, et ad torrendum, et super omne pondus atque mensuram.
+29 Sacerdotes autem, super panes propositionis, et ad similae sacrificium, et ad lagana azyma, et sartaginem, et ad torrendum, et super omne pondus atque mensuram.
 
-30 Levitæ vero ut stent mane ad confitendum, et canendum Domino: similiterque ad vesperam
+30 Levitae vero ut stent mane ad confitendum, et canendum Domino: similiterque ad vesperam
 
 31 tam in oblatione holocaustorum Domini, quam in sabbatis et Calendis et sollemnitatibus reliquis iuxta numerum, et ceremonias uniuscuiusque rei, iugiter coram Domino.
 
-32 Et custodiant observationes tabernaculi fœderis, et ritum sanctuarii, et observationem filiorum Aaron fratrum suorum, ut ministrent in domo Domini.
+32 Et custodiant observationes tabernaculi foederis, et ritum sanctuarii, et observationem filiorum Aaron fratrum suorum, ut ministrent in domo Domini.
 

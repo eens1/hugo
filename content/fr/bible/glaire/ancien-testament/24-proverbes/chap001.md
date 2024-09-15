@@ -15,7 +15,7 @@ summary: |
 
 2 Utiles pour connaître la sagesse et la discipline,
 
-***Note*** :  Prov. 1, 2 : La discipline. Ce mot, qui est souvent répété dans les Proverbes, signifie principalement les connaissances spéculatives, les instructions propres à former l’esprit et le cœur de la jeunesse, la correction des défauts. Le contexte seul suffit souvent pour faire saisir dans chaque passage la nuance de la signification.
+***Note*** :  Prov. 1, 2 : La discipline. Ce mot, qui est souvent répété dans les Proverbes, signifie principalement les connaissances spéculatives, les instructions propres à former l’esprit et le coeur de la jeunesse, la correction des défauts. Le contexte seul suffit souvent pour faire saisir dans chaque passage la nuance de la signification.
 
 3 Pour comprendre les paroles de la prudence, pour recevoir l'instruction de la doctrine, la justice, et le jugement et l'équité, 4 Afin que soit donnée aux tout petits la finesse, à l'adolescent la science et l'intelligence.
 

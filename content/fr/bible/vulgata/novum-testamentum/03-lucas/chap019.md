@@ -7,25 +7,25 @@ draft: false
 
 1 Et ingressus perambulabat Iericho.
 
-2 Et ecce vir nomine Zachæus: et hic princeps erat publicanorum, et ipse dives:
+2 Et ecce vir nomine Zachaeus: et hic princeps erat publicanorum, et ipse dives:
 
-3 et quærebat videre Iesum, quis esset: et non poterat præ turba, quia statura pusillus erat.
+3 et quaerebat videre Iesum, quis esset: et non poterat prae turba, quia statura pusillus erat.
 
-4 Et præcurrens ascendit in arborem sycomorum ut videret eum: quia inde erat transiturus.
+4 Et praecurrens ascendit in arborem sycomorum ut videret eum: quia inde erat transiturus.
 
-5 Et cum venisset ad locum, suspiciens Iesus vidit illum, et dixit ad eum: Zachæe festinans descende: quia hodie in domo tua oportet me manere.
+5 Et cum venisset ad locum, suspiciens Iesus vidit illum, et dixit ad eum: Zachaee festinans descende: quia hodie in domo tua oportet me manere.
 
 6 Et festinans descendit, et excepit illum gaudens.
 
 7 Et cum viderent omnes, murmurabant, dicentes quod ad hominem peccatorem divertisset.
 
-8 Stans autem Zachæus, dixit ad Dominum: Ecce dimidium bonorum meorum, Domine, do pauperibus: et si quid aliquem defraudavi, reddo quadruplum.
+8 Stans autem Zachaeus, dixit ad Dominum: Ecce dimidium bonorum meorum, Domine, do pauperibus: et si quid aliquem defraudavi, reddo quadruplum.
 
-9 Ait Iesus ad eum: Quia hodie salus domui huic facta est: eo quod et ipse filius sit Abrahæ.
+9 Ait Iesus ad eum: Quia hodie salus domui huic facta est: eo quod et ipse filius sit Abrahae.
 
-10 Venit enim Filius hominis quærere, et salvum facere quod perierat.
+10 Venit enim Filius hominis quaerere, et salvum facere quod perierat.
 
-11 Hæc illis audientibus adiiciens, dixit parabolam, eo quod esset prope Ierusalem: et quia existimarent quod confestim regnum Dei manifestaretur.
+11 Haec illis audientibus adiiciens, dixit parabolam, eo quod esset prope Ierusalem: et quia existimarent quod confestim regnum Dei manifestaretur.
 
 12 Dixit ergo: Homo quidam nobilis abiit in regionem longinquam accipere sibi regnum, et reverti.
 
@@ -59,11 +59,11 @@ draft: false
 
 27 Verumtamen inimicos meos illos, qui noluerunt me regnare super se, adducite huc: et interficite ante me.
 
-28 Et his dictis, præcedebat ascendens Ierosolymam.
+28 Et his dictis, praecedebat ascendens Ierosolymam.
 
 29 Et factum est, cum appropinquasset ad Bethphage, et Bethaniam ad montem, qui vocatur Oliveti, misit duos discipulos suos,
 
-30 dicens: Ite in castellum, quod contra est: in quod introeuntes, invenietis pullum asinæ alligatum, cui nemo umquam hominum sedit: solvite illum, et adducite.
+30 dicens: Ite in castellum, quod contra est: in quod introeuntes, invenietis pullum asinae alligatum, cui nemo umquam hominum sedit: solvite illum, et adducite.
 
 31 Et si quis vos interrogaverit: Quare solvitis? sic dicetis ei: Quia Dominus operam eius desiderat.
 
@@ -77,27 +77,27 @@ draft: false
 
 36 Eunte autem illo, substernebant vestimenta sua in via.
 
-37 Et cum appropinquaret iam ad descensum Montis oliveti, cœperunt omnes turbæ discipulorum gaudentes laudare Deum voce magna super omnibus, quas viderant, virtutibus,
+37 Et cum appropinquaret iam ad descensum Montis oliveti, coeperunt omnes turbae discipulorum gaudentes laudare Deum voce magna super omnibus, quas viderant, virtutibus,
 
-38 dicentes: Benedictus, qui venit rex in nomine Domini, pax in cælo, et gloria in excelsis.
+38 dicentes: Benedictus, qui venit rex in nomine Domini, pax in caelo, et gloria in excelsis.
 
-39 Et quidam Pharisæorum de turbis, dixerunt ad illum: Magister, increpa discipulos tuos.
+39 Et quidam Pharisaeorum de turbis, dixerunt ad illum: Magister, increpa discipulos tuos.
 
 40 Quibus ipse ait: Dico vobis, quia si hi tacuerint, lapides clamabunt.
 
 41 Et ut appropinquavit, videns civitatem flevit super illam, dicens:
 
-42 Quia si cognovisses et tu, et quidem in hac die tua, quæ ad pacem tibi, nunc autem abscondita sunt ab oculis tuis.
+42 Quia si cognovisses et tu, et quidem in hac die tua, quae ad pacem tibi, nunc autem abscondita sunt ab oculis tuis.
 
 43 Quia venient dies in te: et circumdabunt te inimici tui vallo, et circumdabunt te: et coangustabunt te undique:
 
-44 et ad terram prosternent te, et filios tuos, qui in te sunt, et non relinquent in te lapidem super lapidem: eo quod non cognoveris tempus visitationis tuæ.
+44 et ad terram prosternent te, et filios tuos, qui in te sunt, et non relinquent in te lapidem super lapidem: eo quod non cognoveris tempus visitationis tuae.
 
-45 Et ingressus in templum, cœpit eiicere vendentes in illo, et ementes,
+45 Et ingressus in templum, coepit eiicere vendentes in illo, et ementes,
 
 46 dicens illis: Scriptum est: Quia domus mea domus orationis est. Vos autem fecistis illam speluncam latronum.
 
-47 Et erat docens quotidie in templo. Principes autem sacerdotum, et Scribæ, et Princeps plebis quærebant illum perdere:
+47 Et erat docens quotidie in templo. Principes autem sacerdotum, et Scribae, et Princeps plebis quaerebant illum perdere:
 
 48 et non inveniebant quid facerent illi. Omnis enim populus suspensus erat, audiens illum.
 

@@ -16,11 +16,11 @@ summary: |
 ---
 
 
-1 Mon fils, n'oublie pas ma loi, et que ton cœur garde mes préceptes, 2 Car ils t'apporteront la longueur des jours, des années de vie, et la paix.
+1 Mon fils, n'oublie pas ma loi, et que ton coeur garde mes préceptes, 2 Car ils t'apporteront la longueur des jours, des années de vie, et la paix.
 
 ***Note*** :  Prov. 3, 2 : Ils t’apporteront, etc. Comparer à Lévitique, 20, 22 ; Deutéronome, 4, 10 ; 22, 7.
 
-3 Que la miséricorde et la vérité ne t'abandonnent pas: mets-les autour de ton cou, grave-les sur les tables de ton cœur :
+3 Que la miséricorde et la vérité ne t'abandonnent pas: mets-les autour de ton cou, grave-les sur les tables de ton coeur :
 
 ***Note*** :  Prov. 3, 3 : Mets-les autour, etc. Comparer à Exode, 13, 9 ; Deutéronome, 6, 8. ― Grave, etc. ; allusion aux Tables de la loi. Voir Exode, 24, 12.
 
@@ -29,7 +29,7 @@ summary: |
 ***Note*** :  Prov. 3, 4 : Discipline. Voir Proverbes, 1, 2.
 
 
-5 Aie confiance dans le Seigneur de tout ton cœur, et ne t'appuie pas sur ta prudence. 6 Dans toutes tes voies, pense à lui, et lui-même dirigera tes pas.
+5 Aie confiance dans le Seigneur de tout ton coeur, et ne t'appuie pas sur ta prudence. 6 Dans toutes tes voies, pense à lui, et lui-même dirigera tes pas.
 
 ***Note*** :  Prov. 3, 6 : Lui-même dirigera tes pas, aplanira tes sentiers, rendra ta vie heureuse et sainte. Voir Psaumes, 26, 12.
 

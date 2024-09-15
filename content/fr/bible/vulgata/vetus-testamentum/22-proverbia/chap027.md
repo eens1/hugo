@@ -23,9 +23,9 @@ draft: false
 
 9 Unguento et variis odoribus delectatur cor: et bonis amici consiliis anima dulcoratur.
 
-10 Amicum tuum, et amicum patris tui ne dimiseris: et domum fratris tui ne ingrediaris in die afflictionis tuæ. Melior est vicinus iuxta, quam frater procul.
+10 Amicum tuum, et amicum patris tui ne dimiseris: et domum fratris tui ne ingrediaris in die afflictionis tuae. Melior est vicinus iuxta, quam frater procul.
 
-11 Stude sapientiæ fili mi, et lætifica cor meum, ut possis exprobranti respondere sermonem.
+11 Stude sapientiae fili mi, et laetifica cor meum, ut possis exprobranti respondere sermonem.
 
 12 Astutus videns malum, absconditus est: parvuli transeuntes sustinuerunt dispendia.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 Tecta perstillantia in die frigoris, et litigiosa mulier comparantur:
 
-16 qui retinet eam, quasi qui ventum teneat, et oleum dexteræ suæ vocabit.
+16 qui retinet eam, quasi qui ventum teneat, et oleum dexterae suae vocabit.
 
 17 Ferrum ferro exacuitur, et homo exacuit faciem amici sui.
 
@@ -53,9 +53,9 @@ draft: false
 
 24 Non enim habebis iugiter potestatem: sed corona tribuetur in generationem et generationem.
 
-25 Aperta sunt prata, et apparuerunt herbæ virentes, et collecta sunt fœna de montibus.
+25 Aperta sunt prata, et apparuerunt herbae virentes, et collecta sunt foena de montibus.
 
-26 Agni ad vestimentum tuum: et hœdi, ad agri pretium.
+26 Agni ad vestimentum tuum: et hoedi, ad agri pretium.
 
-27 Sufficiat tibi lac caprarum in cibos tuos, et in necessaria domus tuæ: et ad victum ancillis tuis.
+27 Sufficiat tibi lac caprarum in cibos tuos, et in necessaria domus tuae: et ad victum ancillis tuis.
 

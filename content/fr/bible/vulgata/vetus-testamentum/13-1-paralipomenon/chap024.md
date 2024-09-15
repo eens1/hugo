@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-1 Porro filiis Aaron hæ partitiones erant: Filii Aaron: Nadab, et Abiu, et Eleazar, et Ithamar.
+1 Porro filiis Aaron hae partitiones erant: Filii Aaron: Nadab, et Abiu, et Eleazar, et Ithamar.
 
 2 Mortui sunt autem Nadab, et Abiu ante patrem suum absque liberis: sacerdotioque functus est Eleazar, et Ithamar.
 
@@ -15,7 +15,7 @@ draft: false
 
 5 Porro divisit utrasque inter se familias sortibus: erant enim principes sanctuarii, et principes Dei, tam de filiis Eleazar, quam de filiis Ithamar.
 
-6 Descripsitque eos Semeias filius Nathanael scriba Levites, coram rege et principibus, et Sadoc sacerdote, et Ahimelech filio Abiathar, principibus quoque familiarum sacerdotalium et Leviticarum: unam domum, quæ ceteris præerat, Eleazar: et alteram domum, quæ sub se habebat ceteros, Ithamar.
+6 Descripsitque eos Semeias filius Nathanael scriba Levites, coram rege et principibus, et Sadoc sacerdote, et Ahimelech filio Abiathar, principibus quoque familiarum sacerdotalium et Leviticarum: unam domum, quae ceteris praeerat, Eleazar: et alteram domum, quae sub se habebat ceteros, Ithamar.
 
 7 Exivit autem sors prima Ioiarib, secunda Iedei,
 
@@ -41,11 +41,11 @@ draft: false
 
 18 vigesimatertia Dalaiau, vigesimaquarta Maaziau.
 
-19 Hæ vices eorum secundum ministeria sua, ut ingrediantur domum Domini, et iuxta ritum suum sub manu Aaron patris eorum: sicut præceperat Dominus Deus Israel.
+19 Hae vices eorum secundum ministeria sua, ut ingrediantur domum Domini, et iuxta ritum suum sub manu Aaron patris eorum: sicut praeceperat Dominus Deus Israel.
 
 20 Porro filiorum Levi, qui reliqui fuerant, de filiis Amram erat Subael, et de filiis Subael, Iehedeia.
 
-21 De filiis quoque Rohobiæ princeps Iesias.
+21 De filiis quoque Rohobiae princeps Iesias.
 
 22 Isaari vero filius Salemoth, filiusque Salemoth Iahath:
 
@@ -53,7 +53,7 @@ draft: false
 
 24 Filius Oziel, Micha: filius Micha, Samir.
 
-25 Frater Micha, Iesia: filiusque Iesiæ, Zacharias.
+25 Frater Micha, Iesia: filiusque Iesiae, Zacharias.
 
 26 Filii Merari: Moholi et Musi. Filius Oziau: Benno.
 
@@ -65,5 +65,5 @@ draft: false
 
 30 Filii Musi: Moholi, Eder, et Ierimoth. isti filii Levi secundum domos familiarum suarum.
 
-31 Miseruntque et ipsi sortes contra fratres suos filios Aaron coram David rege, et Sadoc, et Ahimelech, et principibus familiarum Sacerdotalium et Leviticarum, tam maiores, quam minores. omnes sors æqualiter dividebat.
+31 Miseruntque et ipsi sortes contra fratres suos filios Aaron coram David rege, et Sadoc, et Ahimelech, et principibus familiarum Sacerdotalium et Leviticarum, tam maiores, quam minores. omnes sors aequaliter dividebat.
 

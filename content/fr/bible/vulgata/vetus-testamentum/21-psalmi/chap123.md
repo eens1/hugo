@@ -19,5 +19,5 @@ draft: false
 
 7 Anima nostra sicut passer erepta est de laqueo venantium: Laqueus contritus est, et nos liberati sumus.
 
-8 Adiutorium nostrum in nomine Domini, qui fecit cælum et terram.
+8 Adiutorium nostrum in nomine Domini, qui fecit caelum et terram.
 

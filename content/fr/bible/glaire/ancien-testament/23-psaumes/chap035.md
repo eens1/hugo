@@ -10,7 +10,7 @@ summary: |
 
 1 Pour la fin, au serviteur du Seigneur, par David lui-même.
 
-***Note*** :  Ps. 35, 1 : Par. Voir Psaume 15 (Hébreu : 16). ― Dans le texte hébreu : « Au chef de chœur. Du serviteur de Jéhovah, de David. »
+***Note*** :  Ps. 35, 1 : Par. Voir Psaume 15 (Hébreu : 16). ― Dans le texte hébreu : « Au chef de choeur. Du serviteur de Jéhovah, de David. »
 
 
 2 L'impie a dit en lui-même qu'il pécherait : la crainte de Dieu n'est pas devant ses yeux.
@@ -39,15 +39,15 @@ summary: |
 9 Ils seront enivrés de l'abondance de votre maison : et vous les abreuverez du torrent de vos délices. 10 Parce qu'en vous est une source de vie, et que dans votre lumière nous verrons la lumière.
 
 
-11 Etendez votre miséricorde à ceux qui vous connaissent, et votre justice à ceux qui ont le cœur droit.
+11 Etendez votre miséricorde à ceux qui vous connaissent, et votre justice à ceux qui ont le coeur droit.
 
-***Note*** :  Ps. 35, 11 : Etendez… votre justice à ceux qui ont le cœur droit ; en punissant leurs ennemis qui les maltraitent injustement.
+***Note*** :  Ps. 35, 11 : Etendez… votre justice à ceux qui ont le coeur droit ; en punissant leurs ennemis qui les maltraitent injustement.
 
 ***Note*** :  Ps. 35, 11-13 : Prière pour obtenir la grâce d’être fidèle au service du Seigneur et d’éviter ainsi le malheur du méchant.
 
 12 Qu'un pied de superbe ne vienne pas jusqu'à moi ; et qu'une main de pécheur ne m'ébranle point.
 
-***Note*** :  Ps. 35, 12 : Un pied de superbe, d’orgueilleux ; littéralement d’orgueil (superbiæ). Nous rappellerons que les Hébreux mettaient souvent un substantif au lieu d’un adjectif.
+***Note*** :  Ps. 35, 12 : Un pied de superbe, d’orgueilleux ; littéralement d’orgueil (superbiae). Nous rappellerons que les Hébreux mettaient souvent un substantif au lieu d’un adjectif.
 
 13 Là sont tombés ceux qui opèrent l'iniquité ; ils ont été chassés et n'ont pu se soutenir.
 

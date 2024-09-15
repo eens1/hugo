@@ -19,7 +19,7 @@ summary: |
 2 A chaque jour je vous bénirai, et je louerai votre nom dans les siècles, et dans les siècles des siècles.
 
 
-3 Grand est le Seigneur, et infiniment louable, et à sa grandeur il n'y a pas de fin. 4 Toutes les générations loueront vos œuvres, et elles publieront votre puissance.
+3 Grand est le Seigneur, et infiniment louable, et à sa grandeur il n'y a pas de fin. 4 Toutes les générations loueront vos oeuvres, et elles publieront votre puissance.
 
 ***Note*** :  Ps. 144, 4 ; 144. 13 : Toutes les générations ; littéralement génération et génération. Voir Psaumes, 32, 11.
 
@@ -27,19 +27,19 @@ summary: |
 5 Elles publieront la magnificence de la gloire de votre sainteté, et elles raconteront vos merveilles. 6 Et elles diront la vertu de vos terribles prodiges, et elles raconteront votre grandeur.
 
 
-7 Elles proclameront le souvenir de l'abondance de votre douceur, et à cause de votre justice elles tressailliront de joie. 8 Le Seigneur est compatissant et miséricordieux ; patient, et beaucoup miséricordieux. 9 Le Seigneur est doux pour tous, et ses commisérations s'étendent sur toutes ses œuvres. 10 Qu'elles vous glorifient, Seigneur, toutes vos œuvres ; et que vos saints vous bénissent.
+7 Elles proclameront le souvenir de l'abondance de votre douceur, et à cause de votre justice elles tressailliront de joie. 8 Le Seigneur est compatissant et miséricordieux ; patient, et beaucoup miséricordieux. 9 Le Seigneur est doux pour tous, et ses commisérations s'étendent sur toutes ses oeuvres. 10 Qu'elles vous glorifient, Seigneur, toutes vos oeuvres ; et que vos saints vous bénissent.
 
 
 11 Ils diront la gloire de votre règne, et ils publieront votre puissance, 12 Afin qu'ils fassent connaître aux fils des hommes votre puissance, et la gloire de la magnificence de votre règne.
 
 
-13 Votre règne est le règne de tous les siècles, et votre domination s'étend à toutes les générations. Le Seigneur est fidèle dans toutes ses paroles, et saint dans toutes ses œuvres. 14 Le Seigneur soutient tous ceux qui sont près de tomber, et il relève tous ceux qui ont été renversés.
+13 Votre règne est le règne de tous les siècles, et votre domination s'étend à toutes les générations. Le Seigneur est fidèle dans toutes ses paroles, et saint dans toutes ses oeuvres. 14 Le Seigneur soutient tous ceux qui sont près de tomber, et il relève tous ceux qui ont été renversés.
 
 
 15 Les yeux de tous en vous espèrent. Seigneur, et vous donnerez à tous leur nourriture en temps opportun. 16 Vous ouvrez, vous, votre main, et vous comblez tout animal de bénédiction.
 
 
-17 Le Seigneur est juste dans toutes ses voies, et saint dans toutes ses œuvres. 18 Le Seigneur est près de tous ceux qui l'invoquent; de tous ceux qui l'invoquent dans la vérité.
+17 Le Seigneur est juste dans toutes ses voies, et saint dans toutes ses oeuvres. 18 Le Seigneur est près de tous ceux qui l'invoquent; de tous ceux qui l'invoquent dans la vérité.
 
 
 19 Il fera la volonté de ceux qui craignent, et il exaucera leur supplication, et il les sauvera.

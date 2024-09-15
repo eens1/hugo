@@ -21,9 +21,9 @@ draft: false
 
 8 quoniam Deus iudex est. Hunc humiliat, et hunc exaltat:
 
-9 quia calix in manu Domini vini meri plenus misto. Et inclinavit ex hoc in hoc: verumtamen fæx eius non est exinanita: bibent omnes peccatores terræ.
+9 quia calix in manu Domini vini meri plenus misto. Et inclinavit ex hoc in hoc: verumtamen faex eius non est exinanita: bibent omnes peccatores terrae.
 
-10 Ego autem annunciabo in sæculum: cantabo Deo Iacob.
+10 Ego autem annunciabo in saeculum: cantabo Deo Iacob.
 
 11 Et omnia cornua peccatorum confringam: et exaltabuntur cornua iusti.
 

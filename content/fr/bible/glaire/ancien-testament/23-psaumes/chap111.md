@@ -18,7 +18,7 @@ summary: |
 
 ***Note*** :  Ps. 111, 3 : Voir Malachie, 1, 11.
 
-4 Il s'est élevé dans les ténèbres une lumière pour les hommes droits : le Seigneur est miséricordieux, compatissant et juste. 5 Agréable est l'homme qui a de la pitié et qui prête, il réglera ses discours avec jugement ; 6 Parce qu'il ne sera jamais ébranlé. 7 Le juste jouira d'une mémoire éternelle : il ne craindra pas d'entendre mal parler de lui. Son cœur est prêt à espérer dans le Seigneur; 8 Son cœur est affermi, il ne sera pas ébranlé, jusqu'à ce qu'il méprise ses ennemis.
+4 Il s'est élevé dans les ténèbres une lumière pour les hommes droits : le Seigneur est miséricordieux, compatissant et juste. 5 Agréable est l'homme qui a de la pitié et qui prête, il réglera ses discours avec jugement ; 6 Parce qu'il ne sera jamais ébranlé. 7 Le juste jouira d'une mémoire éternelle : il ne craindra pas d'entendre mal parler de lui. Son coeur est prêt à espérer dans le Seigneur; 8 Son coeur est affermi, il ne sera pas ébranlé, jusqu'à ce qu'il méprise ses ennemis.
 
 ***Note*** :  Ps. 111, 8 : Jusqu’à ce que. Voir, sur le vrai sens de cette expression, Matthieu, 1, 25.
 

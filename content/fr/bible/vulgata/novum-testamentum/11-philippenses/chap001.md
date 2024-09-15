@@ -15,7 +15,7 @@ draft: false
 
 5 super communicatione vestra in Evangelio Christi a prima die usque nunc.
 
-6 confidens hoc ipsum, quia qui cœpit in vobis opus bonum, perficiet usque in diem Christi Iesu.
+6 confidens hoc ipsum, quia qui coepit in vobis opus bonum, perficiet usque in diem Christi Iesu.
 
 7 sicut est mihi iustum hoc sentire pro omnibus vobis: eo quod habeam vos in corde, et in vinculis meis, et in defensione, et confirmatione Evangelii, socios gaudii mei omnes vos esse.
 
@@ -25,15 +25,15 @@ draft: false
 
 10 ut probetis potiora, ut sitis sinceri, et sine offensa in diem Christi,
 
-11 repleti fructu iustitiæ per Iesum Christum, in gloriam et laudem Dei.
+11 repleti fructu iustitiae per Iesum Christum, in gloriam et laudem Dei.
 
-12 Scire autem vos volo fratres, quia quæ circa me sunt, magis ad profectum venerunt Evangelii:
+12 Scire autem vos volo fratres, quia quae circa me sunt, magis ad profectum venerunt Evangelii:
 
-13 ita ut vincula mea manifesta fierent in Christo in omni prætorio, et in ceteris omnibus,
+13 ita ut vincula mea manifesta fierent in Christo in omni praetorio, et in ceteris omnibus,
 
 14 et plures e fratribus in Domino confidentes vinculis meis, abundantius auderent sine timore verbum Dei loqui.
 
-15 Quidam quidem et propter invidiam, et contentionem: quidam autem et propter bonam voluntatem Christum prædicant:
+15 Quidam quidem et propter invidiam, et contentionem: quidam autem et propter bonam voluntatem Christum praedicant:
 
 16 quidam ex charitate: scientes quoniam in defensionem Evangelii positus sum.
 
@@ -59,7 +59,7 @@ draft: false
 
 27 Tantum digne Evangelio Christi conversamini: ut sive cum venero, et videro vos, sive absens audiam de vobis quia statis in uno spiritu unanimes, collaborantes fidei Evangelii:
 
-28 et in nullo terreamini ab adversariis: quæ illis est causa perditionis, vobis autem salutis, et hoc a Deo:
+28 et in nullo terreamini ab adversariis: quae illis est causa perditionis, vobis autem salutis, et hoc a Deo:
 
 29 quia vobis donatum est pro Christo, non solum ut in eum credatis, sed ut etiam pro illo patiamini:
 

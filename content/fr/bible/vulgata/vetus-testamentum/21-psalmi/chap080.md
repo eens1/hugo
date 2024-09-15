@@ -11,11 +11,11 @@ draft: false
 
 3 Sumite psalmum, et date tympanum: psalterium iucundum cum cithara.
 
-4 Buccinate in Neomenia tuba, in insigni die solemnitatis vestræ:
+4 Buccinate in Neomenia tuba, in insigni die solemnitatis vestrae:
 
-5 Quia præceptum in Israel est: et iudicium Deo Iacob.
+5 Quia praeceptum in Israel est: et iudicium Deo Iacob.
 
-6 Testimonium in Ioseph posuit illud, cum exiret de Terra Ægypti: linguam, quam non noverat, audivit.
+6 Testimonium in Ioseph posuit illud, cum exiret de Terra AEgypti: linguam, quam non noverat, audivit.
 
 7 Divertit ab oneribus dorsum eius: manus eius in cophino servierunt.
 
@@ -25,7 +25,7 @@ draft: false
 
 10 non erit in te deus recens, neque adorabis deum alienum.
 
-11 Ego enim sum Dominus Deus tuus, qui eduxi te de terra Ægypti: dilata os tuum, et implebo illud.
+11 Ego enim sum Dominus Deus tuus, qui eduxi te de terra AEgypti: dilata os tuum, et implebo illud.
 
 12 Et non audivit populus meus vocem meam: et Israel non intendit mihi.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 Pro nihilo forsitan inimicos eorum humiliassem: et super tribulantes eos misissem manum meam.
 
-16 Inimici Domini mentiti sunt ei: et erit tempus eorum in sæcula.
+16 Inimici Domini mentiti sunt ei: et erit tempus eorum in saecula.
 
 17 Et cibavit eos ex adipe frumenti: et de petra, melle saturavit eos.
 

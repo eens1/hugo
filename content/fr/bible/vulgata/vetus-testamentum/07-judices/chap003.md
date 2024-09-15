@@ -5,25 +5,25 @@ draft: false
 ---
 
 
-1 Hæ sunt gentes, quas Dominus dereliquit, ut erudiret in eis Israelem, et omnes, qui non noverant bella Chananæorum:
+1 Hae sunt gentes, quas Dominus dereliquit, ut erudiret in eis Israelem, et omnes, qui non noverant bella Chananaeorum:
 
-2 ut postea discerent filii eorum certare cum hostibus, et habere consuetudinem præliandi:
+2 ut postea discerent filii eorum certare cum hostibus, et habere consuetudinem praeliandi:
 
-3 quinque satrapas Philisthinorum, omnemque Chananæum, et Sidonium, atque Hevæum, qui habitabat in monte Libano, de monte Baal Hermon usque ad introitum Emath.
+3 quinque satrapas Philisthinorum, omnemque Chananaeum, et Sidonium, atque Hevaeum, qui habitabat in monte Libano, de monte Baal Hermon usque ad introitum Emath.
 
-4 Dimisitque eos, ut in ipsis experiretur Israelem, utrum audiret mandata Domini quæ præceperat patribus eorum per manum Moysi, an non.
+4 Dimisitque eos, ut in ipsis experiretur Israelem, utrum audiret mandata Domini quae praeceperat patribus eorum per manum Moysi, an non.
 
-5 Itaque filii Israel habitaverunt in medio Chananæi, et Hethæi, et Amorrhæi, et Pherezæi, et Hevæi, et Iebusæi:
+5 Itaque filii Israel habitaverunt in medio Chananaei, et Hethaei, et Amorrhaei, et Pherezaei, et Hevaei, et Iebusaei:
 
 6 et duxerunt uxores filias eorum, ipsique filias suas filiis eorum tradiderunt, et servierunt diis eorum.
 
 7 Feceruntque malum in conspectu Domini, et obliti sunt Dei sui, servientes Baalim et Astaroth.
 
-8 Iratusque contra Israel Dominus, tradidit eos in manus Chusan Rasathaim regis Mesopotamiæ, servieruntque ei octo annis.
+8 Iratusque contra Israel Dominus, tradidit eos in manus Chusan Rasathaim regis Mesopotamiae, servieruntque ei octo annis.
 
 9 Et clamaverunt ad Dominum: qui suscitavit eis salvatorem, et liberavit eos, Othoniel videlicet filium Cenez, fratrem Caleb minorem:
 
-10 fuitque in eo Spiritus Domini, et iudicavit Israel. Egressusque est ad pugnam, et tradidit Dominus in manus eius Chusan Rasathaim regem Syriæ, et oppressit eum.
+10 fuitque in eo Spiritus Domini, et iudicavit Israel. Egressusque est ad pugnam, et tradidit Dominus in manus eius Chusan Rasathaim regem Syriae, et oppressit eum.
 
 11 Quievitque terra quadraginta annis, et mortuus est Othoniel filius Cenez.
 
@@ -35,7 +35,7 @@ draft: false
 
 15 et postea clamaverunt ad Dominum: qui suscitavit eis salvatorem vocabulo Aod, filium Gera, filii Iemini, qui utraque manu pro dextera utebatur. Miseruntque filii Israel per illum munera Eglon regi Moab.
 
-16 Qui fecit sibi gladium ancipitem, habentem in medio capulum longitudinis palmæ manus, et accinctus est eo subter sagum in dextro femore.
+16 Qui fecit sibi gladium ancipitem, habentem in medio capulum longitudinis palmae manus, et accinctus est eo subter sagum in dextro femore.
 
 17 Obtulitque munera Eglon regi Moab. Erat autem Eglon crassus nimis.
 
@@ -43,15 +43,15 @@ draft: false
 
 19 Et reversus de Galgalis, ubi erant idola, dixit ad Regem: Verbum secretum habeo ad te o Rex. Et ille imperavit silentium: egressisque omnibus, qui circa eum erant,
 
-20 ingressus est Aod ad eum: sedebat autem in æstivo cœnaculo solus, dixitque: Verbum Dei habeo ad te. Qui statim surrexit de throno.
+20 ingressus est Aod ad eum: sedebat autem in aestivo coenaculo solus, dixitque: Verbum Dei habeo ad te. Qui statim surrexit de throno.
 
 21 Extenditque Aod sinistram manum, et tulit sicam de dextro femore suo, infixitque eam in ventre eius
 
-22 tam valide, ut capulus sequeretur ferrum in vulnere, ac pinguissimo adipe stringeretur. Nec eduxit gladium, sed ita ut percusserat, reliquit in corpore: statimque per secreta naturæ alvi stercora proruperunt.
+22 tam valide, ut capulus sequeretur ferrum in vulnere, ac pinguissimo adipe stringeretur. Nec eduxit gladium, sed ita ut percusserat, reliquit in corpore: statimque per secreta naturae alvi stercora proruperunt.
 
-23 Aod autem clausis diligentissime ostiis cœnaculi, et obfirmatis sera,
+23 Aod autem clausis diligentissime ostiis coenaculi, et obfirmatis sera,
 
-24 per posticum egressus est. Servique regis ingressi viderunt clausas fores cœnaculi, atque dixerunt: Forsitan purgat alvum in æstivo cubiculo.
+24 per posticum egressus est. Servique regis ingressi viderunt clausas fores coenaculi, atque dixerunt: Forsitan purgat alvum in aestivo cubiculo.
 
 25 Expectantesque diu donec erubescerent, et videntes quod nullus aperiret, tulerunt clavem: et aperientes invenerunt dominum suum in terra iacentem mortuum.
 
@@ -59,7 +59,7 @@ draft: false
 
 27 et statim insonuit buccina in monte Ephraim: descenderuntque cum eo filii Israel, ipso in fronte gradiente.
 
-28 Qui dixit ad eos: Sequimini me: tradidit enim Dominus inimicos nostros Moabitas in manus nostras. Descenderuntque post eum, et occupaverunt vada Iordanis quæ transmittunt in Moab: et non dimiserunt transire quemquam:
+28 Qui dixit ad eos: Sequimini me: tradidit enim Dominus inimicos nostros Moabitas in manus nostras. Descenderuntque post eum, et occupaverunt vada Iordanis quae transmittunt in Moab: et non dimiserunt transire quemquam:
 
 29 sed percusserunt Moabitas in tempore illo, circiter decem millia, omnes robustos et fortes viros. nullus eorum evadere potuit.
 

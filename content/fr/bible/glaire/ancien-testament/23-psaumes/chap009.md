@@ -11,10 +11,10 @@ summary: |
 
 1 Pour la fin, pour les mystères du Fils, psaume de David.
 
-***Note*** :  Ps. 9, 1 : En hébreu : « Au chef de chœur, sur l’air de Mouth labbên (mort du fils ? ). » ― Hymne d’actions de grâces à Dieu qui a fait triompher son peuple de ses ennemis. Le Targum y voit un cantique à l’occasion de la victoire sur Goliath. Ce psaume est alphabétique, et le commencement de chaque vers est indiqué par la répétition de la même lettre de l’alphabet ; l’aleph, versets 2 et 3 ; le beth, versets 4 et 5 ; le zaïn, versets 12 et 13 ; le kheth, versets 14 à 16a ; le teth, versets 16b à 17 ; le yod, versets 18 et 19 ; le qoph, versets 20 et 21, quatre fois chacun ; le ghimel, verset 6, et le hé, verset 7, deux fois ; le vav, versets 8b à 11, huit fois. La lettre daleth manque. Du yod, le poète passe au qoph et termine son chant.
+***Note*** :  Ps. 9, 1 : En hébreu : « Au chef de choeur, sur l’air de Mouth labbên (mort du fils ? ). » ― Hymne d’actions de grâces à Dieu qui a fait triompher son peuple de ses ennemis. Le Targum y voit un cantique à l’occasion de la victoire sur Goliath. Ce psaume est alphabétique, et le commencement de chaque vers est indiqué par la répétition de la même lettre de l’alphabet ; l’aleph, versets 2 et 3 ; le beth, versets 4 et 5 ; le zaïn, versets 12 et 13 ; le kheth, versets 14 à 16a ; le teth, versets 16b à 17 ; le yod, versets 18 et 19 ; le qoph, versets 20 et 21, quatre fois chacun ; le ghimel, verset 6, et le hé, verset 7, deux fois ; le vav, versets 8b à 11, huit fois. La lettre daleth manque. Du yod, le poète passe au qoph et termine son chant.
 
 
-2 Je vous louerai, Seigneur, en tout mon cœur; je raconterai toutes vos merveilles.
+2 Je vous louerai, Seigneur, en tout mon coeur; je raconterai toutes vos merveilles.
 
 ***Note*** :  Ps. 9, 2-5 : Louange à Dieu (versets 2et 3), parce qu’il a accordé la victoire à David (versets 4 et 5).
 
@@ -30,7 +30,7 @@ summary: |
 
 7 Les armes de l'ennemi ont perdu leur force pour toujours, et vous avez détruit leurs villes. Leur mémoire a péri avec bruit:
 
-***Note*** :  Ps. 9, 7 : Les armes ; littéralement les épées à deux tranchants (frameæ).
+***Note*** :  Ps. 9, 7 : Les armes ; littéralement les épées à deux tranchants (frameae).
 
 
 8 Et le Seigneur demeure éternellement. Il a préparé son trône pour le jugement :
@@ -71,14 +71,14 @@ summary: |
 
 ***Note*** :  Ps. 9, 16-17 : Fruit de cette prière : les nations ont été prises dans les pièges qu’elles avaient tendus.
 
-17 Ainsi on reconnaîtra que le Seigneur rend justice; le pécheur a été pris dans les œuvres de ses mains.
+17 Ainsi on reconnaîtra que le Seigneur rend justice; le pécheur a été pris dans les oeuvres de ses mains.
 
 
 18 Que de même les pécheurs soient précipités dans l'enfer, et toutes les nations qui oublient Dieu.
 
 ***Note*** :  Ps. 9, 18 : Que les pécheurs, etc. David exprime ici une prophétie plutôt qu’un souhait. Voir début des Observations préliminaires, 2°. ― Dans l’enfer, dans le scheôl ou séjour des morts, porte le texte original, mais c’est évidemment pour y être punis des péchés commis, de sorte que dans ce passage, comme dans plusieurs autres, le mot scheôl désigne réellement l’enfer.
 
-***Note*** :  Ps. 9, 18-19 : Coup d’œil sur l’avenir : punition du méchant, délivrance de l’opprimé.
+***Note*** :  Ps. 9, 18-19 : Coup d’oeil sur l’avenir : punition du méchant, délivrance de l’opprimé.
 
 19 Car le pauvre ne sera pas pour toujours en oubli; la patience des pauvres ne sera pas toujours vaine.
 
@@ -107,7 +107,7 @@ summary: |
 26 Dieu n'est point devant ses yeux; ses voies sont souillées en tout temps. Vos jugements sont ôtés de devant sa vue ; il dominera tous ses ennemis.
 
 
-27 Car il a dit dans son cœur : Je ne serai point ébranlé ; de génération en génération je serai sans aucun mal.
+27 Car il a dit dans son coeur : Je ne serai point ébranlé ; de génération en génération je serai sans aucun mal.
 
 ***Note*** :  Ps. 9, 27-28 : L’impie croit à la durée de son bonheur.
 
@@ -130,14 +130,14 @@ summary: |
 
 ***Note*** :  Ps. 9, 31-32 : Le malheureux tombe dans les pièges de l’impie et celui-ci croit que Dieu ne songe pas à le punir.
 
-32 Car il a dit dans son cœur : Dieu a perdu le souvenir, il a détourné sa face pour ne rien voir à jamais.
+32 Car il a dit dans son coeur : Dieu a perdu le souvenir, il a détourné sa face pour ne rien voir à jamais.
 
 
 33 Levez-vous, Seigneur Dieu, que votre main s'élève : n'oubliez pas les pauvres.
 
 ***Note*** :  Ps. 9, 33-34 : Appel à Dieu pour qu’il n’oublie pas le pauvre et ne tolère pas les blasphèmes du méchant.
 
-34 Pourquoi l'impie a-t-il irrité Dieu? C'est qu'il a dit dans son cœur : Il n'en recherchera pas la vengeance.
+34 Pourquoi l'impie a-t-il irrité Dieu? C'est qu'il a dit dans son coeur : Il n'en recherchera pas la vengeance.
 
 
 35 Vous le voyez; car vous considérez le travail et la douleur, afin de livrer les oppresseurs entre vos mains. Le pauvre vous est abandonné ; c'est vous qui serez le protecteur de l'orphelin.
@@ -148,7 +148,7 @@ summary: |
 36 Brisez le bras du pécheur et du méchant; l'on cherchera son péché, et on ne le trouvera pas. 37 Le Seigneur régnera éternellement et dans les siècles des siècles : nations, vous serez exterminées de la terre.
 
 
-38 Le Seigneur a exaucé le désir des pauvres : votre oreille a entendu la préparation de leur cœur :
+38 Le Seigneur a exaucé le désir des pauvres : votre oreille a entendu la préparation de leur coeur :
 
 ***Note*** :  Ps. 9, 38-39 : La prière du Psalmiste est exaucée.
 
