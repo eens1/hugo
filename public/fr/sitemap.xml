@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://eens.netlify.app/fr/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,7 +27,16 @@
     <loc>https://eens.netlify.app/fr/apologetique/communisme/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://eens.netlify.app/fr/vie-religieuse/glossaire/providence/bible/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eens.netlify.app/fr/vie-religieuse/glossaire/providence/tradition/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eens.netlify.app/fr/apologetique/fsspx/salut-dans-fausses-religions/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eens.netlify.app/fr/vie-religieuse/glossaire/providence/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eens.netlify.app/fr/blog/il-a-vu-l-enfer/</loc>
@@ -997,9 +1006,6 @@
     <lastmod>2024-09-06T20:02:57+02:00</lastmod>
   </url><url>
     <loc>https://eens.netlify.app/fr/spiritualite/prieres/</loc>
-    <lastmod>2024-09-06T20:02:57+02:00</lastmod>
-  </url><url>
-    <loc>https://eens.netlify.app/fr/spiritualite/glossaire/providence/</loc>
     <lastmod>2024-09-06T20:02:57+02:00</lastmod>
   </url><url>
     <loc>https://eens.netlify.app/fr/spiritualite/glossaire/confession/psaumes-de-la-penitence/psaumes-142/</loc>
@@ -10779,8 +10785,6 @@
                 />
   </url><url>
     <loc>https://eens.netlify.app/fr/bible/glaire/ancien-testament/06-josue/chap034/</loc>
-  </url><url>
-    <loc>https://eens.netlify.app/fr/spiritualite/glossaire/mort/</loc>
   </url><url>
     <loc>https://eens.netlify.app/fr/spiritualite/glossaire/mort/dom-bernardin-de-mendoza-mort-sans-confession/</loc>
   </url><url>

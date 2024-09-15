@@ -30,7 +30,7 @@ summary: |
 ***Note*** :  Ps. 120, 6 : Ni la lune pendant la nuit. Les Orientaux ont toujours attribué le froid de la nuit à la lune, comme ils ont donné le nom de brûlure à l’effet du froid sur les corps, aussi bien qu’à celui de la chaleur, parce que le froid et la chaleur dessèchent également les plantes et les font mourir, fanent les feuilles et les fleurs, et laissent sur les corps vivants à peu près les mêmes marques et les mêmes impressions. Les auteurs grecs et latins ont aussi attribué au froid la vertu de brûler comme au chaud.
 
 
-7 Le Seigneur te garde de tout mal ; que le Seigneur garde ton âme. 8 Que le Seigneur garde ton entrée et ta sortie, dès ce moment «t jusqu'à jamais.
+7 Le Seigneur te garde de tout mal ; que le Seigneur garde ton âme. 8 Que le Seigneur garde ton entrée et ta sortie, dès ce moment et jusqu'à jamais.
 
 ***Note*** :  Ps. 120, 8 : Entrée et sortie ; ces mots, comme nous l’avons déjà remarqué plusieurs fois, signifiaient ordinairement chez les Hébreux l’ensemble de la conduite, toutes les actions de la vie.
 

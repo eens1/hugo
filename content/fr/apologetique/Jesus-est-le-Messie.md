@@ -7,6 +7,9 @@ summary: |
   Extrait de la Cité Mystique de Dieu de la Vén. Marie de Agreda.
 ---
 
+Extrait de la Cité Mystique de Dieu de la Vén. Marie de Agreda.
+
+Source : Croset 1857, t. 4, pp. 3-10.
 
 *Trois jours après, la très-pure Marie et Joseph trouvèrent l’Enfant Jésus dans le Temple proposant des questions aux docteurs.*
 
@@ -42,7 +45,6 @@ Et avec cette juste interprétation, toutes les Écritures, qu’on ne saurait c
 
 Or vous avouez maintenant que ni cette tribu ni les autres ne l’ont et n’espèrent même de le recouvrer. Les semaines de Daniel, qui doivent être nécessairement accomplies, prouvent la même chose. Et ceux qui ont de la mémoire se souviendront de ce que j'ai entendu dire, savoir, qu’une grande splendeur a paru il y a quelques années dans Bethléem à minuit, et qu’il fut dit à de pauvres pasteurs que le Rédempteur était né; et qu’ensuite certains rois guidés par une étoile vinrent de l’Orient, cherchant le Roi des Juifs pour l’adorer. Et le tout était ainsi prophétisé. De sorte que le roi Hérode, père d'Archélaüs, frappé de ces signes infaillibles, fit mourir un très-grand nombre d’enfants, seulement dans l’espoir d’atteindre le Roi qui venait de naître, et qu’il voulait empêcher de pouvoir succéder au royaume d’Israël."
 
-766 - L’Enfant Jésus joignit d’autres raisons à celles-là, et ce fut avec l’efficace de Celui qui, en proposant des doutes, enseignait avec un pouvoir divin. De sorte que les scribes et les docteurs qui l’entendirent restèrent dans le silence; et, convaincus par ses raisons, ils se regardaient les uns les autres, et se disaient avec une grande admiration : Quelle merveille est celle-ci ? Quel Enfant-si prodigieux ! D’où est-il sorti ? A qui appartient-il ? Mais demeurant dans cet étonnement, ils ne découvrirent point quel était Celui qui les instruisait avec tant de lumière d’une vérité si importante..." [^1]
+766 - L’Enfant Jésus joignit d’autres raisons à celles-là, et ce fut avec l’efficace de Celui qui, en proposant des doutes, enseignait avec un pouvoir divin. De sorte que les scribes et les docteurs qui l’entendirent restèrent dans le silence; et, convaincus par ses raisons, ils se regardaient les uns les autres, et se disaient avec une grande admiration : Quelle merveille est celle-ci ? Quel Enfant-si prodigieux ! D’où est-il sorti ? A qui appartient-il ? Mais demeurant dans cet étonnement, ils ne découvrirent point quel était Celui qui les instruisait avec tant de lumière d’une vérité si importante...
 
-[^1]: Croset 1857, t. 4, pp. 3-10.
 

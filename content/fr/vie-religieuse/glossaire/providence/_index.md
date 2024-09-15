@@ -1,10 +1,12 @@
 ---
-title: "Mort"
-date: 2024-09-16
+title: "Providence divine"
+date: 2024-09-15
 draft: false
 description: ""
 summary: ""
 tags: []
 categories: []
 ---
+
+
 

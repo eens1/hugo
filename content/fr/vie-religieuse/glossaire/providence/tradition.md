@@ -1,7 +1,11 @@
 ---
-title: "Providence divine"
-date: 2024-09-06T20:02:57+02:00
+title: "Dans la Tradition"
+date: 2024-09-15
 draft: false
+description: ""
+summary: ""
+tags: []
+categories: []
 ---
 
 > *Père Marchese, Vie de saint Pierre d'Alcantara* : "Il avait aussi reçu de Dieu cette foi que l'Apôtre appelle gratuite, qui est un don tout particulier, qui consiste en une ferme confiance d'obtenir de Dieu tout ce qu'on lui demande, et par la puissance de laquelle les Saints ont fait de si étonnants miracles, et se sont signalés par des entreprises si éloignées des forces de la nature.
@@ -11,4 +15,6 @@ draft: false
 > Son espérance éclatait d'une manière admirable dans la défense expresse qu'il faisait à ses compagnons de porter par la campagne quelque sorte de provision que ce fût, quoiqu'ils sussent certainement, qu'ils ne rencontreraient en chemin aucune maison, où ils pussent satisfaire à leurs besoins." [^1]
 
 [^1]: Marchese 1670, p. 270.
+
+
 
