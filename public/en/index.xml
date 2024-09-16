@@ -9654,12 +9654,5 @@
       <guid>https://eens.netlify.app/en/religious-life/friars-minors/capuchins/constitutions-1536/01/</guid>
       <description>In the name of the Lord, begin the life of the Friars Minor.</description>
     </item>
-    <item>
-      <title>Contact</title>
-      <link>https://eens.netlify.app/en/send/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://eens.netlify.app/en/send/</guid>
-      <description>Message sent.</description>
-    </item>
   </channel>
 </rss>

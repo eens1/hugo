@@ -18,6 +18,19 @@
     <loc>https://eens.netlify.app/fr/spiritualite/glossaire/mort/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://eens.netlify.app/fr/videos/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eens.netlify.app/en/videos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eens.netlify.app/fr/videos/"
+                />
+  </url><url>
     <loc>https://eens.netlify.app/fr/apologetique/islam/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -95,9 +108,6 @@
   </url><url>
     <loc>https://eens.netlify.app/fr/blog/saint-francois-pas-precurseur-indifferentisme-religieux/</loc>
     <lastmod>2024-09-08T05:46:09+02:00</lastmod>
-  </url><url>
-    <loc>https://eens.netlify.app/fr/videos/</loc>
-    <lastmod>2024-09-08T05:12:36+02:00</lastmod>
   </url><url>
     <loc>https://eens.netlify.app/fr/spiritualite/glossaire/</loc>
     <lastmod>2024-09-07T05:57:03+02:00</lastmod>
