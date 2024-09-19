@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contre le communisme on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/apologetique/communisme/</link>
+    <link>http://localhost:1313/fr/apologetique/communisme/</link>
     <description>Recent content in Contre le communisme on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:28 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/apologetique/communisme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/apologetique/communisme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le communisme c&#39;est le renversement de la morale</title>
-      <link>https://eens.netlify.app/fr/apologetique/communisme/perrone/</link>
+      <link>http://localhost:1313/fr/apologetique/communisme/perrone/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:28 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/apologetique/communisme/perrone/</guid>
+      <guid>http://localhost:1313/fr/apologetique/communisme/perrone/</guid>
       <description>P. Perrone, Controverses à l&amp;rsquo;usage du peuple : &amp;ldquo;Le communisme, pris dans toute l&amp;rsquo;étendue de sa signification, est cette théorie ou cette doctrine qui force à mettre en commun tous les biens, possédés à quelque titre que ce soit : souveraineté, femmes, terres, maisons, commerce, industrie, talents, droits de guerre et tout le reste&amp;hellip;&#xA;Il est évident que le communisme est la dissolution universelle de la famille et de la société, le renversement de la morale et des mœurs, la destruction radicale de tout ce que l&amp;rsquo;on appelle droit, la négation absolue de toute religion positive; c&amp;rsquo;est l&amp;rsquo;état sauvage, porté à un degré de barbarie, inconnu jusqu&amp;rsquo;ici dans les annales de l&amp;rsquo;humanité : c&amp;rsquo;est l&amp;rsquo;égalité et la fraternité des animaux et pis encore.</description>
     </item>
   </channel>

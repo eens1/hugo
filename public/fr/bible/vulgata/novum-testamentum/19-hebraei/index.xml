@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hebraei on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/</link>
+    <link>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/</link>
     <description>Recent content in Hebraei on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:00:47 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Caput 1</title>
-      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap001/</link>
+      <link>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap001/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap001/</guid>
+      <guid>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap001/</guid>
       <description>1 Multifariam, multisque modis olim Deus loquens patribus in Prophetis:&#xA;2 novissime, diebus istis locutus est nobis in Filio, quem constituit heredem universorum, per quem fecit et saecula:&#xA;3 qui cum sit splendor gloriae, et figura substantiae eius, portansque omnia verbo virtutis suae, purgationem peccatorum faciens, sedet ad dexteram maiestatis in excelsis:&#xA;4 tanto melior Angelis effectus, quanto differentius prae illis nomen hereditavit.&#xA;5 Cui enim dixit aliquando Angelorum: Filius meus es tu, ego hodie genui te?</description>
     </item>
     <item>
       <title>Caput 10</title>
-      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap010/</link>
+      <link>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap010/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap010/</guid>
+      <guid>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap010/</guid>
       <description>1 Umbram enim habens lex futurorum bonorum, non ipsam imaginem rerum: per singulos annos eisdem ipsis hostiis, quas offerunt indesinenter, numquam potest accedentes perfectos facere:&#xA;2 alioquin cessassent offerri: ideo quod nullam haberent ultra conscientiam peccati, cultores semel mundati:&#xA;3 sed in ipsis commemoratio peccatorum per singulos annos fit.&#xA;4 impossibile enim est sanguine taurorum et hircorum auferri peccata.&#xA;5 Ideo ingrediens mundum dicit: Hostiam, et oblationem noluisti: corpus autem aptasti mihi:</description>
     </item>
     <item>
       <title>Caput 11</title>
-      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap011/</link>
+      <link>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap011/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap011/</guid>
+      <guid>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap011/</guid>
       <description>1 Est autem fides sperandarum substantia rerum, argumentum non apparentium.&#xA;2 In hac enim testimonium consecuti sunt senes.&#xA;3 Fide intelligimus aptata esse saecula verbo Dei: ut ex invisibilibus visibilia fierent.&#xA;4 Fide plurimam hostiam Abel, quam Cain, obtulit Deo, per quam testimonium consecutus est esse iustus, testimonium perhibente muneribus eius Deo, et per illam defunctus adhuc loquitur.&#xA;5 Fide Henoch translatus est ne videret mortem, et non inveniebatur: quia transtulit illum Deus: ante translationem enim testimonium habuit placuisse Deo.</description>
     </item>
     <item>
       <title>Caput 12</title>
-      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap012/</link>
+      <link>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap012/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap012/</guid>
+      <guid>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap012/</guid>
       <description>1 Ideoque et nos tantam habentes impositam nubem testium, deponentes omne pondus, et circumstans nos peccatum, per patientiam curramus ad propositum nobis certamen:&#xA;2 aspicientes in Auctorem fidei, et consummatorem Iesum, qui proposito sibi gaudio sustinuit crucem, confusione contempta, atque in dextera sedis Dei sedet.&#xA;3 Recogitate enim eum, qui talem sustinuit a peccatoribus adversum semetipsum contradictionem: ut ne fatigemini, animis vestris deficientes.&#xA;4 Nondum enim usque ad sanguinem restitistis, adversus peccatum repugnantes:</description>
     </item>
     <item>
       <title>Caput 13</title>
-      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap013/</link>
+      <link>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap013/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap013/</guid>
+      <guid>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap013/</guid>
       <description>1 Charitas fraternitatis maneat in vobis.&#xA;2 Et hospitalitatem nolite oblivisci, per hanc enim latuerunt quidam, Angelis hospitio receptis.&#xA;3 Mementote vinctorum, tamquam simul vincti: et laborantium, tamquam et ipsi in corpore morantes.&#xA;4 Honorabile connubium in omnibus, et thorus immaculatus. Fornicatores enim, et adulteros iudicabit Deus.&#xA;5 Sint mores sine avaritia, contenti praesentibus: ipse enim dixit: Non te deseram, neque derelinquam.&#xA;6 Ita ut confidenter dicamus: Dominus mihi adiutor: non timebo quid faciat mihi homo.</description>
     </item>
     <item>
       <title>Caput 2</title>
-      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap002/</link>
+      <link>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap002/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap002/</guid>
+      <guid>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap002/</guid>
       <description>1 Propterea abundantius oportet observare nos ea, quae audivimus ne forte pereffluamus.&#xA;2 Si enim qui per Angelos dictus est sermo, factus est firmus, et omnis praevaricatio, et inobedientia accepit iustam mercedis retributionem:&#xA;3 quomodo nos effugiemus si tantam neglexerimus salutem? quae cum initium accepisset enarrari per Dominum ab eis, qui audierunt, in nos confirmata est,&#xA;4 contestante Deo signis et portentis, et variis virtutibus, et Spiritus sancti distributionibus secundum suam voluntatem.</description>
     </item>
     <item>
       <title>Caput 3</title>
-      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap003/</link>
+      <link>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap003/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap003/</guid>
+      <guid>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap003/</guid>
       <description>1 Unde fratres sancti, vocationis caelestis participes, considerate Apostolum, et pontificem confessionis nostrae Iesum:&#xA;2 qui fidelis est ei, qui fecit illum sicut et Moyses in omni domo eius.&#xA;3 Amplioris enim gloriae iste prae Moyse dignus est habitus, quanto ampliorem honorem habet domus, qui fabricavit illam.&#xA;4 Omnis namque domus fabricatur ab aliquo: qui autem omnia creavit, Deus est.&#xA;5 Et Moyses quidem fidelis erat in tota domo eius tamquam famulus, in testimonium eorum, quae dicenda erant:</description>
     </item>
     <item>
       <title>Caput 4</title>
-      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap004/</link>
+      <link>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap004/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap004/</guid>
+      <guid>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap004/</guid>
       <description>1 Timeamus ergo ne forte relicta pollicitatione introeundi in requiem eius, existimetur aliquis ex vobis deesse.&#xA;2 Etenim et nobis nunciatum est, quemadmodum et illis. sed non profuit illis sermo auditus, non admistus fidei ex iis, quae audierunt.&#xA;3 Ingrediemur enim in requiem, qui credidimus: quemadmodum dixit: Sicut iuravi in ira mea: Si introibunt in requiem meam: et quidem operibus ab institutione mundi perfectis.&#xA;4 Dixit enim in quodam loco de die septima sic: Et requievit Deus die septima ab omnibus operibus suis.</description>
     </item>
     <item>
       <title>Caput 5</title>
-      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap005/</link>
+      <link>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap005/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap005/</guid>
+      <guid>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap005/</guid>
       <description>1 Omnis namque Pontifex ex hominibus assumptus, pro hominibus constituitur in iis, quae sunt ad Deum, ut offerat dona, et sacrificia pro peccatis:&#xA;2 qui condolere possit iis, qui ignorant, et errant: quoniam et ipse circumdatus est infirmitate:&#xA;3 et propterea debet, quemadmodum pro populo, ita etiam et pro semetipso offerre pro peccatis.&#xA;4 Nec quisquam sumit sibi honorem, sed qui vocatur a Deo, tamquam Aaron.&#xA;5 Sic et Christus non semetipsum clarificavit ut pontifex fieret: sed qui locutus est ad eum: Filius meus es tu, ego hodie genui te.</description>
     </item>
     <item>
       <title>Caput 6</title>
-      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap006/</link>
+      <link>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap006/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap006/</guid>
+      <guid>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap006/</guid>
       <description>1 Quapropter intermittentes inchoationis Christi sermonem, ad perfectiora feramur, non rursum iacientes fundamentum poenitentiae ab operibus mortuis, et fidei ad Deum,&#xA;2 baptismatum doctrinae, impositionis quoque manuum, ac resurrectionis mortuorum, et iudicii aeterni.&#xA;3 Et hoc faciemus, si quidem permiserit Deus.&#xA;4 Impossibile est enim eos, qui semel sunt illuminati, gustaverunt etiam donum caeleste, et participes facti sunt Spiritus sancti,&#xA;5 gustaverunt nihilominus bonum Dei verbum, virtutesque saeculi venturi,&#xA;6 et prolapsi sunt; rursus renovari ad poenitentiam, rursum crucifigentes sibimetipsis filium Dei, et ostentui habentes.</description>
     </item>
     <item>
       <title>Caput 7</title>
-      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap007/</link>
+      <link>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap007/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap007/</guid>
+      <guid>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap007/</guid>
       <description>1 Hic enim Melchisedech, rex Salem, sacerdos Dei summi, qui obviavit Abrahae regresso a caede regum, et benedixit ei:&#xA;2 cui et decimas omnium divisit Abraham: primum quidem qui interpretatur rex iustitiae: deinde autem et rex Salem, quod est, rex pacis,&#xA;3 sine patre, sine matre, sine genealogia, neque initium dierum, neque finem vitae habens, assimilatus autem Filio Dei, manet sacerdos in perpetuum.&#xA;4 Intuemini autem quantus sit hic, cui et decimas dedit de praecipuis Abraham patriarcha.</description>
     </item>
     <item>
       <title>Caput 8</title>
-      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap008/</link>
+      <link>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap008/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap008/</guid>
+      <guid>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap008/</guid>
       <description>1 Capitulum autem super ea, quae dicuntur: Talem habemus Pontificem, qui consedit in dextera sedis magnitudinis in caelis,&#xA;2 sanctorum minister, et tabernaculi veri, quod fixit Dominus, et non homo.&#xA;3 Omnis enim pontifex ad offerendum munera, et hostias constituitur: unde necesse est et hunc habere aliquid, quod offerat:&#xA;4 si ergo esset super terram, nec esset sacerdos: cum essent qui offerent secundum legem munera,&#xA;5 qui exemplari, et umbrae deserviunt caelestium.</description>
     </item>
     <item>
       <title>Caput 9</title>
-      <link>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap009/</link>
+      <link>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap009/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:47 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/bible/vulgata/novum-testamentum/19-hebraei/chap009/</guid>
+      <guid>http://localhost:1313/fr/bible/vulgata/novum-testamentum/19-hebraei/chap009/</guid>
       <description>1 Habuit quidem et prius, iustificationes culturae, et Sanctum saeculare.&#xA;2 Tabernaculum enim factum est primum, in quo erant candelabra, et mensa, et propositio panum, quae dicitur Sancta.&#xA;3 Post velamentum autem secundum, tabernaculum, quod dicitur Sancta sanctorum:&#xA;4 aureum habens thuribulum, et arcam testamenti circumtectam ex omni parte auro, in qua urna aurea habens manna, et virga Aaron, quae fronduerat, et tabulae testamenti,&#xA;5 superque eam erant Cherubim gloriae obumbrantia propitiatorium: de quibus non est modo dicendum per singula.</description>
     </item>
   </channel>

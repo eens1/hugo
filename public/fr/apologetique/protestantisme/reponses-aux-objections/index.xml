@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Réponses aux objections on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens.netlify.app/fr/apologetique/protestantisme/reponses-aux-objections/</link>
+    <link>http://localhost:1313/fr/apologetique/protestantisme/reponses-aux-objections/</link>
     <description>Recent content in Réponses aux objections on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:29 +0200</lastBuildDate>
-    <atom:link href="https://eens.netlify.app/fr/apologetique/protestantisme/reponses-aux-objections/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/apologetique/protestantisme/reponses-aux-objections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Un &#34;vrai croyant&#34; peut-il perdre la foi ?</title>
-      <link>https://eens.netlify.app/fr/apologetique/protestantisme/reponses-aux-objections/perdre-la-foi/</link>
+      <link>http://localhost:1313/fr/apologetique/protestantisme/reponses-aux-objections/perdre-la-foi/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:29 +0200</pubDate>
-      <guid>https://eens.netlify.app/fr/apologetique/protestantisme/reponses-aux-objections/perdre-la-foi/</guid>
+      <guid>http://localhost:1313/fr/apologetique/protestantisme/reponses-aux-objections/perdre-la-foi/</guid>
       <description>Certains protestants pensent qu&amp;rsquo;un &amp;quot;vrai croyant&amp;quot; ne pourra jamais perdre la foi. Cette assertion est hérétique et antibiblique.</description>
     </item>
   </channel>
