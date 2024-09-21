@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Enfants on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:1313/fr/spiritualite/glossaire/enfants/</link>
+    <link>https://eens.netlify.app/fr/spiritualite/glossaire/enfants/</link>
     <description>Recent content in Enfants on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:57 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/spiritualite/glossaire/enfants/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens.netlify.app/fr/spiritualite/glossaire/enfants/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;amour déréglé des enfants</title>
-      <link>http://localhost:1313/fr/spiritualite/glossaire/enfants/amour/</link>
+      <link>https://eens.netlify.app/fr/spiritualite/glossaire/enfants/amour/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:57 +0200</pubDate>
-      <guid>http://localhost:1313/fr/spiritualite/glossaire/enfants/amour/</guid>
+      <guid>https://eens.netlify.app/fr/spiritualite/glossaire/enfants/amour/</guid>
       <description>Sermon de Saint Léonard de Port-Maurice</description>
     </item>
     <item>
       <title>Les enfants appartiennent à Dieu</title>
-      <link>http://localhost:1313/fr/spiritualite/glossaire/enfants/appartenance/</link>
+      <link>https://eens.netlify.app/fr/spiritualite/glossaire/enfants/appartenance/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:57 +0200</pubDate>
-      <guid>http://localhost:1313/fr/spiritualite/glossaire/enfants/appartenance/</guid>
+      <guid>https://eens.netlify.app/fr/spiritualite/glossaire/enfants/appartenance/</guid>
       <description>Sainte Térèse d&amp;rsquo;Avila : &amp;ldquo;Mais, hélas ! quel sort différent attend ces pères et ces mères, qui oubliant que leurs enfants appartiennent bien plus au Seigneur qu&amp;rsquo;à eux, ne les ont pas élevés dans sa crainte ! Quand ils se verront les uns et les autres dans l&amp;rsquo;enfer, de quelles malédictions ne se poursuivront-ils pas, et combien grand sera leur désespoir pour une éternité !&amp;rdquo; 1&#xA;Bouix 1857, t. 2, pp.</description>
     </item>
   </channel>

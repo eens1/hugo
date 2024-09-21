@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contre les manichéens on Extra Ecclesia Nulla Salus</title>
-    <link>http://localhost:1313/fr/apologetique/manicheens/</link>
+    <link>https://eens.netlify.app/fr/apologetique/manicheens/</link>
     <description>Recent content in Contre les manichéens on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:02:29 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/apologetique/manicheens/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens.netlify.app/fr/apologetique/manicheens/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dans la Tradition</title>
-      <link>http://localhost:1313/fr/apologetique/manicheens/tradition/</link>
+      <link>https://eens.netlify.app/fr/apologetique/manicheens/tradition/</link>
       <pubDate>Fri, 06 Sep 2024 20:02:29 +0200</pubDate>
-      <guid>http://localhost:1313/fr/apologetique/manicheens/tradition/</guid>
+      <guid>https://eens.netlify.app/fr/apologetique/manicheens/tradition/</guid>
       <description>Saint Augustin, Confessions (réfutation du manichéisme) : &amp;ldquo;Car je ne soupçonnais pas cette autre nature qui seule est en vérité, et je me démenais en subtilités pour complaire à ces ridicules imposteurs, quand ils me demandaient d’où vient le mal; si Dieu est borné aux limites d’une forme corporelle; s’il a des cheveux et des ongles; et s’il faut tenir pour justes ceux qui avaient plusieurs femmes, tuaient des hommes et sacrifiaient des animaux ?</description>
     </item>
   </channel>
