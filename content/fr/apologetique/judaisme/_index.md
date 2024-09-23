@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-Le judaïsme est une secte antibiblique et blasphématrice très dangereuse qui a l'audace de soutenir que le Messie prédit dans l'Ancien Testament n'est pas Jésus-Christ. Le judaïsme était une secte hérétique même aux temps de Jésus-Christ.
+Le judaïsme est une secte antibiblique et blasphématrice qui a l'audace de soutenir que le Messie prédit dans l'Ancien Testament n'est pas Jésus-Christ. Le judaïsme était une secte hérétique même aux temps de Jésus-Christ.
 
-Les juifs sont des blasphémateurs qui n'obtiendront pas le salut éternel à moins qu'ils se convertissent à l'unique foi de Jésus-Christ, la foi catholique traditionnelle, sans laquelle personne n'est sauvé.
+Les juifs n'obtiendront pas le salut éternel à moins qu'ils se convertissent à l'unique foi de Jésus-Christ, la foi catholique traditionnelle, sans laquelle personne n'est sauvé.
 

@@ -14,3 +14,4 @@ Pour être sauvé, il est absolument nécessaire de professer la foi catholique 
 Je vous encourage à lire le livre, [Hors de l'Église catholique il n'y a absolument pas de salut](https://www.vaticancatholique.com/hors-de-eglise-catholique-pas-de-salut/), publié par le Monastère de la Très Sainte Famille et qui traite en grands détails de ce dogme fondamental, et répond à toutes les objections courantes. 
 
 > Jean 15:6 : "Si quelqu'un ne demeure pas en moi, il sera jeté dehors comme le sarment, et il séchera; et on le ramassera, et on le jettera au feu, et il brûlera."
+
