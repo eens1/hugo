@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://eens.netlify.app/fr/</loc>
-    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,9 @@
                 hreflang="fr"
                 href="https://eens.netlify.app/fr/"
                 />
+  </url><url>
+    <loc>https://eens.netlify.app/fr/spiritualite/glossaire/reves/</loc>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eens.netlify.app/fr/spiritualite/glossaire/mort/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
