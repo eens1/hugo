@@ -4,6 +4,7 @@ date: 2024-09-06T20:02:57+02:00
 draft: false
 ---
 
+Source : Mélanie de La Salette 1881.
 
 Publié par Mélanie de La Salette, soeur Marie de la Croix, précédé d'un préface, suivi des dernières lettres de Mélanie et d'une lettre de Mgr Zola, évêque de Lecce, son directeur spirituel depuis 1867, 1881.
 
@@ -12,7 +13,7 @@ Publié par Mélanie de La Salette, soeur Marie de la Croix, précédé d'un pr�
 <h2>Sommaire :</h2>
 <ul>
 <li><a href="#avant-propos">Avant-propos</a></li>
-<li><a href="#apparition">L'apparition de la Très-Sainte Vierge sur la montagne de Ls Salette</a></li>
+<li><a href="#apparition">L'apparition de la Très-Sainte Vierge sur la montagne de La Salette</a></li>
 <li><a href="#lettres">Deux lettres récentes de mélanie</a></li>
 </ul>
 
