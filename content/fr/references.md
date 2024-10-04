@@ -76,6 +76,8 @@ Craisson abbé. (1868). De la sépulture ecclésiastique d'après les SS. Canons
 
 Crampon. (1923). Bible selon la Vulgate. Consulté en 2021. http://missionweb.free.fr/bible.php
 
+Croset père. (1857). La Cité Mystique de Dieu, soit la vie de la T.-S. Vierge Marie, manifestée par la même Sainte Vierge à la vénérable mère Marie de Jésus d'Agréda de l'Ordre de Saint-François, qui l'a écrite par le commandement de ses supérieurs et de ses confesseurs, traduit de l'espagnol par le R. P. Croset, Franciscain, rue par un religieux du même ordre. Librairie de Mme Poussiegue-Rusand, rue Saint-Suplice, 23.
+
 Curia Generalis OFMCap. (1986). Constitutiones ordinis fratrum minorum capuccinorum saeculorum decursu promulgatae, vol II, constitutiones recentiores (1909 - 1925), editio anastatica, Romae, Curia generalis OFMCap.
 
 Dassance abbé. (1842). Le saint concile de Trente oecumémique et général, célébré sous Paul III, Jules III, et Pie IV. Chez Méquignon Junior, librairie de la faculté de théologie.
