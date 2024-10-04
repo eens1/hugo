@@ -20,7 +20,7 @@ Voici mes recommandations de lectures.
 
 * Fillon L.-CL. (1899). La Sainte Bible (texte latin et traduction française) commentée d'après la Vulgate et les textes originaux, à l'usage des séminaires et du clergé. Letouzey et Ané, éditeurs, troisième édition. [Ancien Testament](https://archive.org/details/bible-fillon-ancien-testament) et [Nouveau Testament](https://archive.org/details/bible-fillon-nouveau-testament).
 
-* Glaire J.B. abbé. (1905). La Sainte Bible selon la Vulgate, traduite en français, avec des notes, seule approuvée après examen fait à Rome par la Sacrée Congrégation de l'Index. [Lien ici](https://eens.netlify.app/fr/bible/glaire/).
+* Glaire J.B. abbé. (1905). La Sainte Bible selon la Vulgate, traduite en français, avec des notes, seule approuvée après examen fait à Rome par la Sacrée Congrégation de l'Index. [Lien ici](https://eens.netlify.app/fr/bible/glaire/). [Télécharger ici](https://archive.org/details/bible-vulgate-glaire).
 
 ## Catéchisme
 
