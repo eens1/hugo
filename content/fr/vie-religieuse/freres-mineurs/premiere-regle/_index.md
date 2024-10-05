@@ -18,5 +18,5 @@ Dans ce but il se rendit auprès du Pape. Innocent III, plein de bienveillance p
 
 Le Pape n'hésita plus à accorder la faveur sollicitée, il bénit les frères, approuva de vive voix leur règle de vie, leur permit de prêcher partout la pénitence. 
 
-Ce texte de 1209 perdu. Il y en a un second, écrit, modifié, augmenté entre les années 1210-1221. Ce second texte forme le premier des deux que nous donnons plus bas. Plus tard, le 29 novembre 1223, une troisième règle fut revêtue de l'approbation écrite de la curie romaine. C'est cette dernière règle qui régit encore aujourd'hui tout le premier ordre franciscain, Conventuels, Mineurs ou Capucins."
+Ce texte de 1209 est perdu. Il y en a un second, écrit, modifié, augmenté entre les années 1210-1221. Ce second texte forme le premier des deux que nous donnons plus bas. Plus tard, le 29 novembre 1223, une troisième règle fut revêtue de l'approbation écrite de la curie romaine. C'est cette dernière règle qui régit encore aujourd'hui tout le premier ordre franciscain, Conventuels, Mineurs ou Capucins."
 
